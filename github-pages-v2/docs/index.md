@@ -1,51 +1,48 @@
-# Improv Toolkit 🎭
+# About Us: The Zen Sandbox
 
-> A simple, **visual** guide to improv. Start with the big picture — how the four *domains* fit together — then dive into the **principles**, each on one page with a playful infographic and the skill it builds.
+> *Playfully "Powered by AI" — Ancient Intelligence.*
+>
+> *Rediscover the timeless human capacity for presence, laughter, and connection. No machines required.*
 
-## The flow: Domains → Principles → Skills
+<p style="text-align: center;">
+  <img src="assets/zen-sandbox.jpg"
+       alt="The Zen Sandbox — a playful beach sandbox where a community builds sandcastles and block towers and shares stories around a campfire, with signposts reading Yes And, Practice Presence, Have Fun, and Build Bonds"
+       style="width: 100%; max-width: 860px; border-radius: 10px;">
+</p>
 
-Improv is easier to learn when you see how the pieces connect. Everything in this toolkit flows in one direction:
+#### Who We Are
 
-```
-   DOMAINS                PRINCIPLES                 SKILLS / TECHNIQUES
- (what to learn)   →   (the mindset behind it)  →   (how you practise it)
-```
+Zen Sandbox is an online, non-profit community built around the playful and profound art of improvisation. We're a small, trusted circle of friends, colleagues, and collaborators who gather to step away from the over-scripted nature of daily life.
 
-- **Domains** are the four big areas of improv.
-- Each domain rests on a few **principles** — the *why*.
-- Each principle is trained by a concrete **skill or technique** — the *how*.
+We believe improvisation is far more than "making up jokes on the spot." It's a practice of presence, collaboration, and openness. Whether you're leading a meeting, navigating a personal transition, or simply looking to unwind, improv offers a way of meeting an unpredictable world with a resilient, playful spirit.
 
-Read a principle, see its infographic, then go practise the skill. That's the whole loop.
+#### The Sandbox Vibe: Low Expectations, High Fun
 
-## The four domains
+Life is unscripted, yet we often forget how to navigate it without a plan. Zen Sandbox is a safe, low-pressure space where no prior experience is needed and there's nothing to prepare.
 
-<div class="grid cards" markdown>
+Our premise is simple: **the lower the expectations, the higher the fun.** By setting aside our daily agendas, we give our inner kid room to explore, laugh, and let go of perfectionism.
 
--   :material-lightbulb-on: **Improv Principles**
+#### What We Explore Together
 
-    The mindset that makes everything work. **Start here** → **[the 7 principles](principles/index.md)**.
+In our weekly meetups, we dive into interactive exercises designed to cultivate:
 
--   :material-account-star: **Skills**
-
-    The craft: character, status, emotion, voice, space & object work. Each principle page names the skill it trains.
-
--   :material-book-open-page-variant: **Storytelling**
-
-    Shape: the story spine, genre, heightening, and the game of the scene.
-
--   :material-account-group: **Story Circle**
-
-    Togetherness: telling stories as an ensemble, and sharing real ones.
-
-</div>
-
-## How each principle page works
-
-Every principle gets **one crisp page** with:
-
-1. **A playful infographic** (generated with Gemini 3 Pro Image) that explains the principle at a glance — its mechanics, the skill it builds, and a tiny example.
-2. **A short writeup** (drafted with Gemini 3.1 Pro) that connects the **principle** (the mindset) to the **skill/technique** (the practice), with a 2-minute drill to try.
+- **The Improv Mindset** — Embracing "Yes, and…", nurturing spontaneity, and befriending the inner butterflies of uncertainty.
+- **Stories & Connection** — Practicing presence, exploring storytelling, and building genuine, empathetic bonds.
+- **Playfulness** — Bringing a little more fun and laughter back into our routines.
 
 ---
 
-*Begin with **[Yes, And](principles/yes-and.md)**, the heart of improv.*
+#### Core Principles for the Stage and Everyday Life
+
+A few beautifully simple ideas sit at the heart of our community — and they happen to mirror some of life's best principles:
+
+| Core Principle | In the Sandbox | In Everyday Life |
+|---|---|---|
+| **"Yes, and…"** | Accept the reality your partner offers ("Yes"), then add your own contribution to move the scene forward ("And"). | Instead of resisting unexpected shifts, we pivot, adapt, and build on new realities. |
+| **Deep Listening** | You can't pre-plan your next move; you respond to what your partner actually said. | Setting aside our agendas makes relationships more authentic and empathetic. |
+| **Team Support** | Improv is a team sport — we focus on making our partners shine, not boosting our own ego. | We build trust, so everyone feels safe to contribute. |
+| **No Mistakes** | A misstep becomes an unexpected gift; you weave the stumble right into the scene. | We trade the fear of failure for curious exploration. |
+
+---
+
+*Ready to play? Explore the **[Improv Principles](principles/index.md)** — each one comes with a one-page guide and a playful infographic.*
