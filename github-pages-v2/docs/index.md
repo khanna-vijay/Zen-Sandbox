@@ -1,6 +1,6 @@
 # About Us: The Zen Sandbox
 
-> *Playfully "Powered by AI" — Ancient Intelligence.*
+> *Playfully "Powered by AI" - Ancient Intelligence.*
 >
 > *Rediscover the timeless human capacity for presence, laughter, and connection. No machines required.*
 
