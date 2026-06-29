@@ -1,14 +1,15 @@
+---
+hide:
+  - toc          # no right-hand table of contents on the landing page — the hero image uses that space
+---
+
 # About Us: The Zen Sandbox
 
 > *Playfully "Powered by AI" - Ancient Intelligence.*
 >
 > *Rediscover the timeless human capacity for presence, laughter, and connection. No machines required.*
 
-<p style="text-align: center;">
-  <img src="assets/zen-sandbox.jpg"
-       alt="The Zen Sandbox — a playful beach sandbox where a community builds sandcastles and block towers and shares stories around a campfire, with signposts reading Yes And, Practice Presence, Have Fun, and Build Bonds"
-       style="width: 100%; max-width: 860px; border-radius: 10px;">
-</p>
+![The Zen Sandbox — a playful beach sandbox where a community builds sandcastles and block towers and shares stories around a campfire, with signposts reading Yes And, Practice Presence, Have Fun, and Build Bonds](assets/zen-sandbox.jpg){ .hero-image loading=lazy }
 
 #### Who We Are
 
@@ -45,4 +46,4 @@ A few beautifully simple ideas sit at the heart of our community — and they ha
 
 ---
 
-*Ready to play? Explore the **[Improv Principles](principles/index.md)** — each one comes with a one-page guide and a playful infographic.*
+*Ready to play? Explore **[the full Improv framework](content/01_the-self/01_D__the-self.md)** — each domain, principle, skill, and technique gets its own page and a playful infographic.*
