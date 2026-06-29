@@ -1,0 +1,15 @@
+# MkDocs build output
+site/
+
+# Python envs
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Pipeline local artefacts are ignored via pipeline/.gitignore
+# (4K originals, logs, .env). Web JPEGs in docs/assets/ ARE committed.
+
+.DS_Store
+Thumbs.db
+*.log

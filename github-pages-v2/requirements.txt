@@ -1,0 +1,2 @@
+# Site build dependency (pinned for reproducible builds).
+mkdocs-material==9.7.6

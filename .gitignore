@@ -1,0 +1,35 @@
+# ── Python virtual environments (rebuilt from requirements.txt) ──
+**/.venv/
+**/venv/
+**/__pycache__/
+*.pyc
+
+# ── Build output ──
+**/site/        # MkDocs
+**/_book/       # Honkit/GitBook
+
+# ── Pipeline local artefacts (regenerable; 4K originals are large) ──
+**/.cache/
+**/logs/
+
+# ── Secrets & local tooling config ──
+**/.env
+.claude/
+
+# ── Node (gitbook track) ──
+**/node_modules/
+
+# ── OS / editor cruft ──
+.DS_Store
+Thumbs.db
+*.log
+
+# ── Publish ONLY the v2 site to GitHub. Everything below stays local. ──
+/gitbook/
+/github-pages/
+/github-pages-v2/pipeline/
+/github-pages-v2/README.md
+/start_gitpages_server.sh
+/start_gitpages_v2_server.sh
+/01_setup_gh.sh
+/Improv_Framework.json
