@@ -1,2 +1,4 @@
-# Site build dependency (pinned for reproducible builds).
+# Site build dependencies (pinned for reproducible builds).
 mkdocs-material==9.7.6
+mkdocs-glightbox==0.5.2          # click-to-zoom fullscreen lightbox for images
+mkdocs-print-site-plugin==2.6.0  # single-scroll "Read as one page" view
