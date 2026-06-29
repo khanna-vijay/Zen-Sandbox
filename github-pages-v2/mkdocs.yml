@@ -1,0 +1,61 @@
+# MkDocs config for the Improv Toolkit — v2 (AI-generated principle pages).
+# Simple site: the flow of domains → principles, each principle on one page
+# with a playful Gemini-generated infographic.
+
+site_name: Improv Toolkit
+site_description: A simple, visual guide to improv — domains, principles, and the skills they build.
+site_url: https://khanna-vijay.github.io/Zen-Sandbox/
+repo_url: https://github.com/khanna-vijay/Zen-Sandbox
+repo_name: khanna-vijay/Zen-Sandbox
+
+docs_dir: docs
+strict: true
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.instant
+    - navigation.top
+    - navigation.footer
+    - content.code.copy
+    - toc.follow
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep orange
+      accent: amber
+      toggle: { icon: material/weather-night, name: Dark mode }
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep orange
+      accent: amber
+      toggle: { icon: material/weather-sunny, name: Light mode }
+  icon:
+    logo: material/drama-masks
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc: { permalink: true }
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - Home: index.md
+  - Principles:
+      - Overview: principles/index.md
+      - Yes, And: principles/yes-and.md
+      - Listening & Presence: principles/listening-and-presence.md
+      - Make Your Partner Look Good: principles/make-your-partner-look-good.md
+      - Accept & Build on Offers: principles/accept-and-build-offers.md
+      - Be Specific & Bold: principles/be-specific-and-bold.md
+      - Embrace Failure: principles/embrace-failure.md
+      - Group Mind & Ensemble: principles/group-mind-ensemble.md
