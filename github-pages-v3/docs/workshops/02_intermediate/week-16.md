@@ -39,9 +39,21 @@ title: "W16 · Editing on Time"
 
 > Shape and shift the stage's heartbeat through collective, non-verbal transitions and contrasting emotional tempos.
 
+![Rhythmic Resonance — infographic](../../games/img/D4_P1_S4_T1_G288__rhythm-resonance.jpg){ .infographic }
+
 `Players 4–8` · `~7 min` · `Complexity 3/5` · `Energy medium` · `Props: none`
 
 **Trains:** Pacing & Rhythm · _connection_
+
+**How to play**
+
+1. The facilitator obtains an abstract suggestion (e.g., 'Gravity' or 'Anticipation') to serve as the thematic anchor for the entire run.
+2. One player steps into the space to initiate a brief vignette (30-60 seconds) inspired by the suggestion, immediately establishing a distinct physical tempo (e.g., frantic, sluggish, staccato) and emotional tone.
+3. One or two other players may enter the space to support this initial scene, matching its established rhythm and emotional frequency.
+4. While the active scene is still running, a player from the backline steps into a different part of the stage to initiate a brand-new, distinct vignette inspired by the same suggestion.
+5. This new initiation must deliberately contrast the active scene's tempo and tone (e.g., shifting from a frantic, high-energy argument to a slow, melancholic silence).
+6. The players in the original scene must immediately recognize this new initiation, cleanly dissolving their scene by freezing, melting into the background, or walking off stage without pulling focus.
+7. The ensemble continues this cycle for 5 to 7 minutes, either entering the active scene to support its current rhythm or initiating a new 'cadence shift' to pivot the stage's energy.
 
 [Open the full game card »](../../games/D4_P1_S4_T1_G288__rhythm-resonance.md)
 
@@ -49,9 +61,22 @@ title: "W16 · Editing on Time"
 
 > Unify your ensemble by channeling the final energy of one scene into the next.
 
+![Resonance Bridges — infographic](../../games/img/D4_P1_S4_T1_G196__kinetic-transitions.jpg){ .infographic }
+
 `Players 4–8` · `~20 min` · `Complexity 3/5` · `Energy medium` · `Props: none`
 
 **Trains:** Pacing & Rhythm · _connection_
+
+**How to play**
+
+1. Two players step forward to initiate a scene based on the initial suggestion, establishing clear characters and relationships.
+2. As the scene develops, the offstage players and facilitator actively track the emotional, physical, and rhythmic trajectory of the performance.
+3. When the scene reaches a high-energy climax, a poignant realization, or a resonant silence, an offstage player executes a swift sweep edit.
+4. Immediately upon the edit, the entire ensemble (both onstage and offstage players) takes a synchronized, deep, audible collective breath or a shared physical gesture.
+5. For the next three to five seconds, every player silently and physically embodies the dominant emotional state, physical posture, or rhythmic pulse of the scene's final moment.
+6. Two new players immediately step into the space, initiating the next scene by directly adopting, reacting to, or expanding upon this shared physical and emotional resonance.
+7. The new scene must justify its high or low energy, rapid or slow pacing, and physical tension based on the inherited momentum, even if the characters and setting are entirely new.
+8. Repeat this cycle of scene, edit, collective breath, physical resonance, and momentum-based initiation for four to five scenes to complete the run.
 
 [Open the full game card »](../../games/D4_P1_S4_T1_G196__kinetic-transitions.md)
 

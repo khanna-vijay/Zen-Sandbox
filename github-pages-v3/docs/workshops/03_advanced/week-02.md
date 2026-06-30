@@ -41,9 +41,23 @@ title: "W02 · The Voice as Instrument"
 
 > Embody a core emotion while instantly integrating a rapid-fire barrage of physical and vocal constraints.
 
+![The Emotional Crucible — infographic](../../games/img/D1_P1_S2_T1_G182__the-chronos-synaptic-forge.jpg){ .infographic }
+
 `Players 4–8` · `~15 min` · `Complexity 4/5` · `Energy high` · `Props: none`
 
 **Trains:** Emotional Fluidity · _skill drill_
+
+**How to play**
+
+1. The facilitator selects a distinct, high-stakes emotion (such as seething rage, exuberant joy, or profound grief) and announces it to the group.
+2. Players close their eyes or adopt a soft downward gaze, spending 30 seconds silently breathing and generating that specific emotion internally, letting it fill their entire body before making any outward movement.
+3. The facilitator calls out 'Unleash!' and players open their eyes, immediately moving through the space to physically and vocally embody the emotion without using any real words.
+4. Players must use non-verbal vocalizations (sighs, laughs, groans) and physicalize the weight, resistance, and posture that naturally flow from their chosen emotional state.
+5. Once the movement is established, the facilitator begins calling out new, specific constraints every 5 to 10 seconds, which players must instantly adopt while keeping their core emotion alive.
+6. The facilitator's prompts should accumulate, requiring players to layer instructions like adjusting their emotional intensity on a dial from 1 to 10, shifting their physical center of gravity, or speaking in gibberish.
+7. The facilitator can introduce challenging contradictions, such as commanding a player to adopt a light, bouncy walk while maintaining deep grief, or holding one limb completely frozen while the rest of the body rages.
+8. After a high-intensity sequence of layered prompts, the facilitator calls out 'Freeze and Hold,' prompting players to find absolute stillness and silence while still vibrating with the internal emotion.
+9. The facilitator calls 'Release!' and players immediately drop all physical and emotional tension, shaking out their limbs and taking a deep breath to return to a neutral, relaxed state before starting a new round with a different emotion.
 
 [Open the full game card »](../../games/D1_P1_S2_T1_G182__the-chronos-synaptic-forge.md)
 
@@ -51,9 +65,23 @@ title: "W02 · The Voice as Instrument"
 
 > Scale raw emotional impulses from a silent spark to peak intensity and back to neutral.
 
+![The Resonance Dial — infographic](../../games/img/D1_P3_S2_T1_G527__the-aetheric-resonance-protocol.jpg){ .infographic }
+
 `Players 3–8` · `~20 min` · `Complexity 4/5` · `Energy high` · `Props: required`
 
 **Trains:** Emotional Fluidity · _skill drill_
+
+**How to play**
+
+1. One player steps into the Resonance Zone and stands in a relaxed, neutral posture with their eyes closed or focused softly ahead.
+2. The facilitator delivers a single, abstract, non-linguistic stimulus, such as a sharp vocal click, a sustained low hum, a primary color name like 'Cobalt', or a sensory texture word like 'Viscous'.
+3. The player stands in complete silence and stillness for 10 to 15 seconds, letting the stimulus resonate internally without analyzing, planning, or intellectualizing a response.
+4. At the sound of the facilitator's chime, the player immediately externalizes their very first, raw physical or vocal impulse at 'Level 1' on the emotional dial (e.g., a tiny finger twitch, a soft sigh, or a subtle shift in weight).
+5. The facilitator calls out 'Amplify' or counts upward (2, 3, 4...) to prompt the player to progressively expand, deepen, and magnify this physical and vocal expression.
+6. If the player experiences any self-judgment or feels they have 'failed' the impulse, they must immediately lean into that feeling of awkwardness and use it as physical fuel to amplify the expression further.
+7. The player continues scaling up until they reach 'Level 10'—a fully committed, full-bodied, and full-voiced peak expression of the state, holding it with absolute vulnerability for a few seconds.
+8. The facilitator calls out 'Release', signaling the player to consciously and gradually de-escalate their physical and vocal energy, mindfully returning to a calm, neutral baseline.
+9. Once the player has fully recovered their composure and returned to a neutral state, they step out of the space, and the next player enters without any immediate verbal critique from the group.
 
 [Open the full game card »](../../games/D1_P3_S2_T1_G527__the-aetheric-resonance-protocol.md)
 

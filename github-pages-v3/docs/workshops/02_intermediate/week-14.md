@@ -39,9 +39,22 @@ title: "W14 · Support Work that Lands"
 
 > Balance the stage by consciously dividing the labor of driving, sustaining, and disrupting a scene.
 
+![Dynamic Weighting — infographic](../../games/img/D4_P3_S2_T0_G100__the-ensemble-crucible-dynamic-weighting.jpg){ .infographic }
+
 `Players 3–6` · `~15 min` · `Complexity 3/5` · `Energy medium` · `Props: none`
 
 **Trains:** Support Work · _skill drill_
+
+**How to play**
+
+1. Select three to five players to step onto the stage and obtain a simple, open-ended suggestion from the audience to establish a basic scene premise.
+2. Assign each player one of three distinct Dynamic Weights, either openly to the group or whispered secretly to individual players to challenge the observers.
+3. Define the first role, 'The Mover' (Heavy Weight), whose job is to drive the narrative forward, initiate bold actions, make strong emotional choices, and provide the scene's primary engine of momentum.
+4. Define the second role, 'The Sustainer' (Medium Weight), whose job is to flesh out existing details, deepen relationships, ground the environment, and enthusiastically 'yes-and' whatever the Mover initiates.
+5. Define the third role, 'The Catalyst' (Light Weight), who must remain mostly silent or passive, observing closely to deliver only one or two highly strategic, game-changing interventions that reframe the entire scene.
+6. Begin the scene, instructing players to let their assigned weight filter their natural improvisational impulses rather than acting like rigid robots.
+7. Run the scene for approximately three to five minutes, allowing the unique chemistry of these combined weights to find a natural rhythm and resolution.
+8. Conclude the scene and immediately transition into a structured reflection, focusing on how the distribution of roles affected the overall group mind.
 
 [Open the full game card »](../../games/D4_P3_S2_T0_G100__the-ensemble-crucible-dynamic-weighting.md)
 
@@ -49,9 +62,22 @@ title: "W14 · Support Work that Lands"
 
 > Transform the physical space into a responsive, non-verbal mirror of the scene's emotional heartbeat.
 
+![The Living Atmosphere — infographic](../../games/img/D4_P1_S2_T3_G241__the-echoing-environment.jpg){ .infographic }
+
 `Players 5+` · `~15 min` · `Complexity 3/5` · `Energy medium` · `Props: none`
 
 **Trains:** Support Work · _mixed_
+
+**How to play**
+
+1. Obtain a simple location or relationship suggestion from the group to initiate the piece.
+2. The Atmosphere Ensemble enters the stage first, silently establishing the physical layout, objects, and ambient sounds of the location using their bodies and vocalizations.
+3. Once the environment is established, the Scene Actors enter the space and begin a grounded, character-driven scene, actively utilizing the physical structures created by the Atmosphere Ensemble.
+4. As the scene progresses, the Atmosphere Ensemble must closely track the dialogue, emotional shifts, and subtext of the Scene Actors.
+5. The Atmosphere Ensemble dynamically alters their physical shapes, proximity, and ambient sounds to mirror or amplify the scene's emotional tension (e.g., walls closing in during an argument, or wind rising).
+6. The Atmosphere Ensemble may also introduce subtle, non-destructive physical obstacles or atmospheric contrasts to challenge the characters and deepen the dramatic stakes.
+7. The Scene Actors must remain highly sensitive to these environmental shifts, letting the changing atmosphere directly affect their physical behavior, emotional state, and dialogue.
+8. The scene concludes naturally when the narrative reaches a resolution, or when the Atmosphere Ensemble executes a unified, dramatic shift in the environment to signal a clean edit.
 
 [Open the full game card »](../../games/D4_P1_S2_T3_G241__the-echoing-environment.md)
 

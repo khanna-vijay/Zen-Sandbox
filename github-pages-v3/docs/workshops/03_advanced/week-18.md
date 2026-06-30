@@ -46,9 +46,22 @@ title: "W18 · Capstone Performance"
 
 > Transform an audience member's mundane daily routine into an extraordinary, multi-scene narrative celebration.
 
+![Day in the Life — infographic](../../games/img/D5_P1_S2_T3_G683__day-in-the-life.jpg){ .infographic }
+
 `Players 3+` · `~15 min` · `Complexity 4/5` · `Energy medium` · `Props: none`
 
 **Trains:** Audience-Energy Management · _mixed_
+
+**How to play**
+
+1. An interviewer from the cast steps forward, breaks the fourth wall, and invites a volunteer from the audience to join them on stage.
+2. The interviewer seats the volunteer comfortably and conducts a warm, structured 3-minute interview covering their morning routine, commute, occupation, and evening habits.
+3. The rest of the cast stands on the backline, actively listening to the interview to harvest specific details, names, and recurring themes for world-building.
+4. Once the interview concludes, the volunteer is seated in a prime 'VIP' viewing seat (either on stage or front row) to watch the performance.
+5. The cast initiates a series of 3 to 5 interconnected scenes that dramatize, heighten, and playfully exaggerate the volunteer's day.
+6. Performers use narrative architecture to weave a beginning, middle, and end, ensuring they callback specific details from the interview rather than making up entirely unrelated jokes.
+7. Throughout the scenes, players occasionally break the fourth wall to check in with the volunteer, make eye contact, or narrate directly to them, keeping them integrated as the final scene partner.
+8. The game concludes with a high-energy final scene representing the end of the volunteer's day, followed by a warm cast bow dedicated to the volunteer.
 
 [Open the full game card »](../../games/D5_P1_S2_T3_G683__day-in-the-life.md)
 

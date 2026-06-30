@@ -41,9 +41,23 @@ title: "W10 · What's at Stake"
 
 > Escalate dramatic tension instantly by justifying and integrating sudden, high-stakes narrative truths.
 
+![The Truth Cascade — infographic](../../games/img/D3_P4_S7_T1_G290__the-cascade.jpg){ .infographic }
+
 `Players 3+` · `~15 min` · `Complexity 3/5` · `Energy medium` · `Props: none`
 
 **Trains:** Raising the Stakes · _narrative_
+
+**How to play**
+
+1. Invite two players to the stage to begin a grounded, realistic scene based on a simple relationship suggestion.
+2. Allow the players to establish their characters, relationship, and environment naturally for about one to two minutes.
+3. At a moment of potential stagnation or when a narrative shift is needed, the facilitator calls 'Freeze!' and both players halt mid-action.
+4. The facilitator delivers a single, clear, declarative statement—a 'Cascade Truth'—that introduces a high-stakes obstacle or reveals a hidden motivation.
+5. While remaining frozen, the players take a brief silent moment to process how this new truth logically fits into their established reality.
+6. Upon the facilitator calling 'Unfreeze!', one or both players must immediately deliver dialogue that justifies how this truth is active in their world.
+7. The players continue the scene, fully embodying the heightened stakes and allowing the new reality to dictate their emotional choices.
+8. Repeat this freeze-and-reveal cycle two to three times, with each new truth building incrementally on the previous ones.
+9. End the scene organically after the final escalation has been fully integrated and explored.
 
 [Open the full game card »](../../games/D3_P4_S7_T1_G290__the-cascade.md)
 
@@ -51,9 +65,21 @@ title: "W10 · What's at Stake"
 
 > Navigate physical stage zones to dynamically escalate, de-escalate, and resolve narrative tension in real time.
 
+![Stakes Topography — infographic](../../games/img/D3_P4_S7_T1_G306__the-stakes-landscape.jpg){ .infographic }
+
 `Players 2+` · `~15 min` · `Complexity 3/5` · `Energy medium` · `Props: required`
 
 **Trains:** Raising the Stakes · _narrative_
+
+**How to play**
+
+1. Two players enter the 'Neutral Ground' zone and begin a scene, establishing their characters, relationship, and a basic platform.
+2. As the scene progresses, players may physically step into an adjacent zone. The moment a player crosses a boundary, both players must immediately shift the scene's dramatic tension to match that zone's description.
+3. If a player enters 'Dilemma Alley', they must introduce a clear problem or personal obstacle; if they enter 'Crisis Point', they must escalate the situation to an urgent, high-stakes emergency requiring immediate action.
+4. To help players align, any player can tap the floor twice to initiate a 'Stakes Check', asking: 'What specifically are the stakes here, now?' The partner must instantly answer in character, clarifying the current dramatic urgency.
+5. After players demonstrate comfort with self-directed movement, the facilitator introduces guided shifts by calling out 'SHIFT!' and pointing to a specific zone, forcing the players to move instantly and justify the sudden transition.
+6. Players must use physical body language, emotional shifts, and dialogue to organically justify why their characters are suddenly experiencing the stakes of the new zone.
+7. The scene concludes once the players navigate through a complete narrative arc, ending in either 'Resolution Nook' or 'Consequence Junction', and the facilitator calls 'Scene'.
 
 [Open the full game card »](../../games/D3_P4_S7_T1_G306__the-stakes-landscape.md)
 

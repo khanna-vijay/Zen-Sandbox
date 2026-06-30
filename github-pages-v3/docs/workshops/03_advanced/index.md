@@ -31,4 +31,4 @@ Technique becomes invisible; you act from principle. The same moves you learned 
 | 18 | [Capstone Performance](week-18.md) | All domains (integration) | `D4.S6` — Format Literacy | Master: architect a full piece in real time; honour the audience contract. |
 
 !!! tip "How to use this course"
-    Each session is a ready-to-run hour: a short theory beat with its infographic (deep-linked to the full write-up), one to three games drawn from the master game library, and reflection questions that connect the skill to both the stage and the rest of your life. Complexity rises week over week — teach them in order.
+    Each session is a ready-to-run hour: a short theory beat with its infographic (deep-linked to the full write-up), one to three games drawn from the master game library, and reflection questions that connect the skill to both the stage and the rest of your life. Complexity rises week over week — facilitate them in order.

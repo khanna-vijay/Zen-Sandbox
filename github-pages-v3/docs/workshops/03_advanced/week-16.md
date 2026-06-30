@@ -39,9 +39,22 @@ title: "W16 · Conducting Audience Energy"
 
 > Master the invisible boundary by deliberately building, softening, and breaking the fourth wall with your audience.
 
+![Architects of the Wall — infographic](../../games/img/D5_P1_S2_T3_G004__the-fourth-wall-architects-game.jpg){ .infographic }
+
 `Players 6+` · `~25 min` · `Complexity 4/5` · `Energy medium` · `Props: none`
 
 **Trains:** Audience-Energy Management · _skill drill_
+
+**How to play**
+
+1. Step 1: Establish three silent hand signals for the audience: High Engagement (leaning forward, focused), Moderate Engagement (fidgeting, quiet murmurs), and Low Engagement (looking away, whispering).
+2. Step 2: Begin a standard two-person scene on stage based on a simple, low-stakes suggestion.
+3. Step 3: During the scene, the facilitator silently signals the audience to shift their engagement level, forcing the performers to read the room's changing energy.
+4. Step 4: Performers must adapt to these shifts without breaking character by adjusting their vocal projection, physical staging, and emotional intensity to pull the audience back.
+5. Step 5: When the facilitator signals Low Engagement, the performers are permitted to strategically break the fourth wall with an in-character direct address to re-establish connection.
+6. Step 6: Once the audience re-engages, the performers must smoothly transition back into the scene's established reality.
+7. Step 7: Introduce 'riding the wave' by having the facilitator signal the audience to erupt in laughter, requiring performers to hold their physical positions and wait for the peak to pass before delivering the next line.
+8. Step 8: Rotate players frequently so everyone experiences both the onstage performance pressure and the active audience perspective.
 
 [Open the full game card »](../../games/D5_P1_S2_T3_G004__the-fourth-wall-architects-game.md)
 
@@ -49,9 +62,22 @@ title: "W16 · Conducting Audience Energy"
 
 > Direct the room's emotional current by treating the audience as your primary scene partner.
 
+![The Audience Resonance Conductor — infographic](../../games/img/D5_P1_S2_T3_G033__the-audience-resonance-conductor.jpg){ .infographic }
+
 `Players 3+` · `~30 min` · `Complexity 4/5` · `Energy medium` · `Props: required`
 
 **Trains:** Audience-Energy Management · _skill drill_
+
+**How to play**
+
+1. Brief the audience to react naturally and honestly to the scene, avoiding exaggerated or forced responses to help the performers.
+2. Two or three performers step onto the stage and begin a grounded, character-driven scene based on a simple suggestion.
+3. The Conductor monitors the audience's actual emotional state and holds up a cue card (or uses a designated hand gesture) representing the 'current state' in the performers' peripheral vision.
+4. Once the scene is established, the Conductor introduces a 'target state' card or gesture (e.g., shifting from Neutral to Tense, or Joyful to Pensive).
+5. Performers must immediately adapt their performance—using vocal modulation, physical pacing, and spatial positioning—to steer the audience's energy toward the target state.
+6. To achieve difficult emotional shifts, players are encouraged to break the fourth wall or use direct address, but only if the choice is fully justified by their character's internal stakes and immediate needs.
+7. The Conductor continuously updates the 'current state' signal in real time as they observe genuine shifts in the audience's posture, breathing, or vocal responses.
+8. The scene concludes after 3 to 5 minutes once several emotional transitions have been successfully navigated, leading directly into a structured debrief.
 
 [Open the full game card »](../../games/D5_P1_S2_T3_G033__the-audience-resonance-conductor.md)
 

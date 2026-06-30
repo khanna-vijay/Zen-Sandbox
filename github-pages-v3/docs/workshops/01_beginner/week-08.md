@@ -39,9 +39,21 @@ title: "W08 · Yes, And — Accept & Add"
 
 > Pass an imaginary blade across the circle with high-stakes focus and synchronized claps.
 
+![Knife Throwing — infographic](../../games/img/D2_P3_S4_T0_G752__knife-throwing.jpg){ .infographic }
+
 `Players 5+` · `~5 min` · `Complexity 1/5` · `Energy high` · `Props: none`
 
 **Trains:** Offer Reception · _connection_
+
+**How to play**
+
+1. Form a standing circle with all players facing inward.
+2. The facilitator introduces an imaginary, highly dangerous knife to the group.
+3. The first player holds the imaginary knife, makes clear eye contact with another player across the circle, and throws it with a sharp physical thrust and a distinct sound like 'Whoosh!'.
+4. The receiving player must track the trajectory of the knife and catch it by clapping their hands together precisely as it arrives, making a loud 'Clap!' sound.
+5. The catcher immediately transforms their catch into a new throw, making eye contact with a different player and throwing it with another physical thrust and vocalization.
+6. The game continues rapidly, maintaining a steady, high-energy rhythm of throw-catch-throw.
+7. If a pass is dropped due to a missed clap or poor eye contact, the group briefly celebrates the mistake and immediately restarts the flow.
 
 [Open the full game card »](../../games/D2_P3_S4_T0_G752__knife-throwing.md)
 
@@ -49,9 +61,21 @@ title: "W08 · Yes, And — Accept & Add"
 
 > Listen closely, repeat your partner's exact words, and add the next logical step.
 
+![Echo and Expand — infographic](../../games/img/D2_P2_S4_T1_G817__repeat-and-add.jpg){ .infographic }
+
 `Players 2+` · `~5 min` · `Complexity 1/5` · `Energy medium` · `Props: none`
 
 **Trains:** Offer Reception · _skill drill_
+
+**How to play**
+
+1. Divide the group into pairs and have partners stand or sit facing one another.
+2. Player A initiates the conversation with a simple, single-sentence statement, such as 'I am going to the grocery store.'
+3. Player B must repeat Player A's statement exactly as spoken, and then immediately add a new, single-sentence detail using 'and...', for example: 'You are going to the grocery store, and we need to buy some fresh apples.'
+4. Player A must then repeat only the new detail that Player B just added, and append their own new single-sentence detail, for example: 'We need to buy some fresh apples, and they must be crisp and green.'
+5. Player B repeats Player A's new detail and adds another: 'They must be crisp and green, and we will bake them into a pie.'
+6. Continue this back-and-forth rhythm, ensuring that each turn begins with an exact echo of the partner's new contribution before any new information is introduced.
+7. Keep the pace brisk and discourage players from planning their additions while their partner is speaking.
 
 [Open the full game card »](../../games/D2_P2_S4_T1_G817__repeat-and-add.md)
 

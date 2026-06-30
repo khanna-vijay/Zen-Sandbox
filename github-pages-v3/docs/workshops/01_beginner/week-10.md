@@ -39,9 +39,21 @@ title: "W10 · Two Minds, One Mirror"
 
 > Pass an invisible ball of energy across the circle using synchronized sound and physical movement.
 
+![Sound Ball — infographic](../../games/img/D2_P2_S3_T1_G840__sound-ball.jpg){ .infographic }
+
 `Players 4+` · `~5 min` · `Complexity 1/5` · `Energy high` · `Props: none`
 
 **Trains:** Single-Partner Empathy & Mirroring · _connection_
+
+**How to play**
+
+1. Form a standing circle facing inward, ensuring everyone can make eye contact with all other participants.
+2. The facilitator initiates the game by holding an imaginary ball of energy, shaping it with their hands, and establishing eye contact with a specific player across the circle.
+3. The sender throws the imaginary ball to the chosen receiver, accompanying the throw with a distinct, abstract vocal sound and a clear, committed physical gesture.
+4. The receiver must immediately catch the ball by mirroring the exact sound and physical gesture of the sender as closely as possible.
+5. Once the catch is completed and mirrored, the receiver instantly transforms the ball, creating a brand-new sound and physical gesture to pass to a different player in the circle.
+6. The play continues in this manner, with each player catching and mirroring the incoming offer before immediately sending a new, spontaneous offer to someone else.
+7. Keep the momentum fast-paced, encouraging players to rely on instinct rather than planning their sounds or movements in advance.
 
 [Open the full game card »](../../games/D2_P2_S3_T1_G840__sound-ball.md)
 
@@ -49,9 +61,20 @@ title: "W10 · Two Minds, One Mirror"
 
 > Reflect your partner's movements and expressions in real-time to build deep, non-verbal connection.
 
+![The Mirror — infographic](../../games/img/D2_P3_S3_T1_G770__mirroring.jpg){ .infographic }
+
 `Players 2+` · `~5 min` · `Complexity 1/5` · `Energy low` · `Props: none`
 
 **Trains:** Single-Partner Empathy & Mirroring · _connection_
+
+**How to play**
+
+1. Assign one player in each pair as Player A, the initiator, and the other as Player B, the reflection.
+2. Player A begins to move slowly and deliberately, using their face, torso, and limbs, while Player B mirrors every movement in real-time.
+3. Instruct Player A to keep movements slow and continuous so that Player B can follow without a noticeable delay, making the reflection look seamless.
+4. After a couple of minutes, signal the pairs to swap roles, with Player B becoming the initiator and Player A becoming the reflection.
+5. After another couple of minutes, instruct both players to drop the roles of leader and follower, attempting to move together in unison where neither is consciously leading.
+6. Encourage players to explore subtle facial expressions, shifts in weight, and emotional states alongside physical gestures during this shared phase.
 
 [Open the full game card »](../../games/D2_P3_S3_T1_G770__mirroring.md)
 

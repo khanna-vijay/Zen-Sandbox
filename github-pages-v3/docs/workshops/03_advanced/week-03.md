@@ -41,9 +41,22 @@ title: "W03 · The Shared Mind"
 
 > Secretly engineer the perfect conditions for your partner to shine in a specific, brilliant way.
 
+![Architect of Genius — infographic](../../games/img/D2_P3_S5_T1_G294__the-architect-s-canvas.jpg){ .infographic }
+
 `Players 6–12` · `~25 min` · `Complexity 4/5` · `Energy medium` · `Props: required`
 
 **Trains:** Active Gifting · _connection_
+
+**How to play**
+
+1. Distribute one secret Genius Blueprint Card to each player, ensuring they do not show it to their partner.
+2. Give players 60 seconds of silent preparation to strategize how they might establish a relationship, environment, or emotional tone that naturally invites their partner's assigned behavior.
+3. Assign a simple, neutral starting relationship and location to the pair to ground the scene.
+4. Begin the scene with both players actively working to set up their partner's secret prompt while simultaneously remaining open to whatever setups their partner is throwing at them.
+5. Focus on gifting context, status shifts, and emotional endowments rather than asking direct, leading questions that force a specific response.
+6. When a player senses their partner is setting them up for a moment of brilliance, they must enthusiastically accept the invitation and play the moment fully, even if they do not know the exact prompt.
+7. Conclude the scene after three to five minutes, or once the facilitator observes that both players have attempted or achieved their respective setups.
+8. Conduct a structured four-step debrief for the pair, starting with the receiving partner sharing when they felt most supported, followed by the reveal of the secret cards.
 
 [Open the full game card »](../../games/D2_P3_S5_T1_G294__the-architect-s-canvas.md)
 
@@ -51,9 +64,22 @@ title: "W03 · The Shared Mind"
 
 > Tune into your partner's unspoken shifts to co-create a deep, subtextual relationship.
 
+![The Symbiotic Pulse — infographic](../../games/img/D2_P3_S1_T1_G006__the-symbiotic-pulse.jpg){ .infographic }
+
 `Players 2+` · `~10 min` · `Complexity 4/5` · `Energy low` · `Props: none`
 
 **Trains:** Active Listening · _connection_
+
+**How to play**
+
+1. Assign two players to the performance space and secretly give each player a unique relational agenda, such as making their partner feel protected, making them feel self-doubt, or making them feel like an equal.
+2. Provide a simple, low-stakes shared scenario that establishes a basic relationship but contains no inherent plot or high-energy action.
+3. Instruct Player A to initiate the scene with a subtle, non-verbal physical offer—such as a shift in weight, a change in breathing pattern, or a micro-expression—that reflects their internal state and aligns with their secret agenda.
+4. Direct Player B to actively observe this offer, absorb its emotional and status implications, and physically mirror or acknowledge its core essence.
+5. Have Player B immediately build upon that received offer by sending back their own subtle non-verbal response, filtered through their own secret agenda.
+6. Continue this continuous loop of non-verbal 'pulses' and 'echoes,' keeping spoken dialogue to an absolute minimum, using only single words or short, reactive phrases when absolutely necessary.
+7. Focus the scene entirely on the evolving emotional landscape and status dynamic between the two characters rather than trying to advance an external plot.
+8. End the scene after three to five minutes, once a clear, unspoken shift in the relationship has occurred.
 
 [Open the full game card »](../../games/D2_P3_S1_T1_G006__the-symbiotic-pulse.md)
 

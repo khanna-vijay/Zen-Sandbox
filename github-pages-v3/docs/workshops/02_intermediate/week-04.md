@@ -39,9 +39,23 @@ title: "W04 · Listening for Subtext"
 
 > Deepen partner connection by mirroring present truths, gifting brilliant motivations, and dynamically shifting status.
 
+![The Status Oracle — infographic](../../games/img/D2_P3_S1_T1_G048__the-status-oracle-echoes-of-competence.jpg){ .infographic }
+
 `Players 2+` · `~20 min` · `Complexity 3/5` · `Energy medium` · `Props: none`
 
 **Trains:** Active Listening · _connection_
+
+**How to play**
+
+1. Divide the group into pairs and have partners stand or sit facing each other at a comfortable distance, establishing steady, relaxed eye contact.
+2. Begin Phase 1 (Present Truth): Partner A makes a simple, undeniable, present-tense observation about Partner B's physical reality (e.g., 'You are blinking' or 'You are wearing a green shirt').
+3. Partner B immediately repeats the observation back, changing the pronoun to 'I' (e.g., 'I am wearing a green shirt'), which Partner A then repeats back to Partner B to lock in the loop.
+4. Instruct Partner A to gradually transition their observations from static physical facts to dynamic behaviors and non-judgmental emotional reads (e.g., 'You are shifting your weight' or 'You look thoughtful').
+5. Transition to Phase 2 (Gifting Narrative): Partner A now adds a brilliant, competent motivation to their observation, explaining why Partner B is doing what they are doing (e.g., 'You are shifting your weight because you are preparing to take a bold step forward').
+6. Partner B must fully accept this endowment by repeating the entire statement as their own truth ('I am shifting my weight because I am preparing to take a bold step forward'), embodying the motivation instantly.
+7. Transition to Phase 3 (Status Modulation): Partner A continues the observations and narrative gifts, but now delivers them with a distinct, embodied status offer (either elevating Partner B's status with deference, or lowering it with mild superiority).
+8. Partner B accepts both the verbal gift and the status dynamic, mirroring the emotional subtext and physical posture of that status level in their repetition.
+9. Introduce the 'Seesaw' cue: When the facilitator calls out 'Seesaw!', Partner A must instantly invert the status dynamic (e.g., shifting from high to low status), and Partner B must immediately adapt and mirror the new dynamic.
 
 [Open the full game card »](../../games/D2_P3_S1_T1_G048__the-status-oracle-echoes-of-competence.md)
 
@@ -49,9 +63,21 @@ title: "W04 · Listening for Subtext"
 
 > A structured four-step conversational cycle to master active listening, generous gifting, and status modulation.
 
+![Echo and Elevate — infographic](../../games/img/D2_P3_S1_T1_G150__the-resonance-refine-drill.jpg){ .infographic }
+
 `Players 2+` · `~10 min` · `Complexity 3/5` · `Energy low` · `Props: none`
 
 **Trains:** Active Listening · _skill drill_
+
+**How to play**
+
+1. Divide the group into pairs, designating one player as Partner A (the Giver) and the other as Partner B (the Receiver) for the first round.
+2. Step 1 (The Gift): Partner A makes a direct, positive observation about Partner B, endowing them with a specific quality, emotion, or capability (e.g., 'You look incredibly calm, like you have everything under control').
+3. Step 2 (The Echo): Partner B repeats Partner A's statement word-for-word, adjusting only the pronouns to accept the endowment fully (e.g., 'I look incredibly calm, like I have everything under control').
+4. Step 3 (The Resonance & Shift): Partner A validates Partner B's echo, names an underlying emotional truth, and makes a subtle, deliberate status adjustment—either stepping slightly up or down in relation to B (e.g., 'Yes, and that calm makes me feel safe enough to let go of my own worries').
+5. Step 4 (The Build & Response): Partner B responds with a 'Yes, and...' statement that builds on the emotional truth while acknowledging and responding to Partner A's status shift (e.g., 'Yes, and I will make sure we both get through this safely').
+6. Repeat this exact four-line cycle three to five times, allowing the content to evolve naturally from the previous cycle while maintaining the rigid structural pattern.
+7. After completing the designated cycles, have the partners swap roles so Partner B becomes the Giver and Partner A becomes the Receiver.
 
 [Open the full game card »](../../games/D2_P3_S1_T1_G150__the-resonance-refine-drill.md)
 

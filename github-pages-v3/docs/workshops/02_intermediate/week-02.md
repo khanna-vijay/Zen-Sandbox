@@ -39,9 +39,22 @@ title: "W02 · Emotion with Logic"
 
 > Channel shifting emotional currents into physical tasks to build somatic vulnerability and fluid expression.
 
+![Internal Weather System — infographic](../../games/img/D1_P3_S2_T1_G020__the-internal-weather-system.jpg){ .infographic }
+
 `Players 5–7` · `~15 min` · `Complexity 3/5` · `Energy medium` · `Props: none`
 
 **Trains:** Emotional Fluidity · _skill drill_
+
+**How to play**
+
+1. The facilitator assigns the Active Player a simple, repetitive physical task, such as sweeping a floor, folding laundry, or polishing a glass.
+2. The Active Player begins performing this task at a neutral, calm baseline, establishing a steady physical rhythm.
+3. An Echo player initiates an emotional current by sending a non-verbal cue, such as a gibberish phrase, a sigh, a gasp, or a distinct physical posture.
+4. The Active Player pauses briefly to receive the cue, letting the emotional tone land in their body and alter their internal state.
+5. The Active Player resumes their physical task, but now executes it through the lens of this new emotion, altering their movement speed, weight, and breathing.
+6. The Echoes can use hand gestures to adjust the 'Emotional Dial,' signaling the Active Player to scale the intensity of the emotion from a subtle 1 to an extreme 10.
+7. Once the emotion peaks, the Active Player allows the feeling to naturally subside, practicing 'self-recovery' to return to a functional, centered baseline while continuing the task.
+8. The process repeats with a different Echo introducing a new emotional current, allowing the Active Player to transition through multiple distinct states.
 
 [Open the full game card »](../../games/D1_P3_S2_T1_G020__the-internal-weather-system.md)
 
@@ -49,9 +62,23 @@ title: "W02 · Emotion with Logic"
 
 > Consciously scan, sculpt, and scale your internal emotional landscape before passing it to a partner.
 
+![The Somatic Blueprint — infographic](../../games/img/D1_P3_S2_T1_G035__the-somatic-architect-internal-blueprint.jpg){ .infographic }
+
 `Players 6–12` · `~15 min` · `Complexity 3/5` · `Energy medium` · `Props: none`
 
 **Trains:** Emotional Fluidity · _skill drill_
+
+**How to play**
+
+1. The facilitator calls out an abstract, evocative prompt word to the entire circle.
+2. The active player, acting as the Architect, stands in complete silence and stillness for five to ten seconds to perform an internal scan of their immediate physical and emotional reactions to the word.
+3. The Architect selects one dominant sensation or emotion from their scan and mentally assigns it an intensity rating from 1 to 10 using the Emotional Dial.
+4. The Architect plans how this scaled state will manifest physically through posture, tension, and movement, and vocally through breath, tone, or gibberish.
+5. The Architect fully embodies this sculpted state for ten to fifteen seconds, committing completely to the physical and vocal expression of their chosen blueprint.
+6. The Architect makes direct eye contact with a Receiver in the circle and delivers a single, concentrated physical gesture and non-verbal vocalization that encapsulates their state.
+7. The Receiver immediately mirrors this gesture and sound for a brief moment to absorb its quality, then drops into five to ten seconds of silent, still internal scanning.
+8. The Receiver consciously chooses a new state in response, either amplifying, de-escalating, contrasting, or transforming the received energy, and sets their own Emotional Dial from 1 to 10.
+9. The Receiver becomes the new Architect, fully embodying their new state and passing it to another player, continuing the cycle.
 
 [Open the full game card »](../../games/D1_P3_S2_T1_G035__the-somatic-architect-internal-blueprint.md)
 

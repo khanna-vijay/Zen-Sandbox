@@ -39,9 +39,22 @@ title: "W11 · Weaving the Threads"
 
 > Weave disparate thematic threads into a rich, interconnected tapestry of non-linear performance.
 
+![The Harmonic Loom — infographic](../../games/img/D4_P1_S5_T2_G077__the-harmonic-loom.jpg){ .infographic }
+
 `Players 3–8` · `~20 min` · `Complexity 4/5` · `Energy medium` · `Props: none`
 
 **Trains:** Thematic Synthesis · _connection_
+
+**How to play**
+
+1. Begin by obtaining a single abstract suggestion from the group or an observer to serve as the initial seed.
+2. One player steps into the space to initiate a brief, evocative starting moment, which can be a line of dialogue, a physical posture, a repetitive sound, or a clear emotional state.
+3. Any player may step in to initiate a new moment or edit the current one at any time, but their contribution must satisfy the dual rule of Echo and Advance.
+4. To Echo, the entering player must explicitly incorporate at least two distinct elements established earlier in the session, such as a physical gesture from scene one and a vocal tone from scene two.
+5. To Advance, the player must simultaneously evolve, recontextualize, or twist those echoed elements rather than simply repeating them, pushing the thematic fabric forward.
+6. Allow scenes to transition organically through physical walk-ons, tag-outs, or shifts in stage focus, prioritizing thematic and sensory coherence over linear plot progression.
+7. If a connection feels forced or a player struggles to integrate past threads, the facilitator calls Reweave to gently pause, rewind the last few seconds, and let the ensemble find a more organic synthesis.
+8. Conclude the exercise after approximately twenty minutes, ending not on a punchline, but when the ensemble achieves a palpable sense of thematic completion and resonance.
 
 [Open the full game card »](../../games/D4_P1_S5_T2_G077__the-harmonic-loom.md)
 
@@ -49,9 +62,21 @@ title: "W11 · Weaving the Threads"
 
 > Weave non-verbal sound and movement into spoken thematic seeds that inspire deep, connected scenes.
 
+![The Resonance Weave — infographic](../../games/img/D4_P1_S5_T2_G085__the-enso-weave.jpg){ .infographic }
+
 `Players 3–8` · `~20 min` · `Complexity 4/5` · `Energy medium` · `Props: none`
 
 **Trains:** Thematic Synthesis · _connection_
+
+**How to play**
+
+1. Phase 1 (Thread Generation): One player initiates a simple, repetitive, non-verbal offer using a physical movement, a sustained vocal sound, or an embodied emotional posture.
+2. Resonant Addition: One by one, other players add their own distinct non-verbal offers. Rather than directly copying or mirroring, each player makes an 'A-to-C' leap, contributing a sound or movement that feels atmospherically or emotionally related to the whole.
+3. Simultaneous Weaving: All players maintain their individual, evolving non-verbal threads simultaneously, creating a rich, polyphonic soundscape and dynamic physical picture while remaining highly aware of the collective energy.
+4. Phase 2 (Verbal Seeds): At any point, when a player senses a clear theme, relationship, environment, or emotional pattern emerging from the tapestry, they step forward and state a single, concise phrase (a 'verbal seed') that names this reality (e.g., 'The long winter' or 'A forgotten promise'). This is a meta-offer, not scene dialogue.
+5. Integrating the Seed: The group continues their non-verbal weaving, allowing their movements and sounds to be subtly reshaped, slowed, or colored by the newly spoken verbal seed.
+6. Layering Seeds: Other players may step forward to offer additional, contrasting, or complementary verbal seeds as the non-verbal tapestry continues to evolve, creating multiple thematic anchors.
+7. Phase 3 (Scene Emergence): When the ensemble feels a collective convergence of energy, they organically transition from the abstract tapestry into short, interconnected scenes. Players step into the space to initiate dialogue, drawing directly from the established verbal seeds and physical/emotional threads.
 
 [Open the full game card »](../../games/D4_P1_S5_T2_G085__the-enso-weave.md)
 

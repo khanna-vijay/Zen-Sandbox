@@ -42,9 +42,21 @@ title: "W09 · Group Mind & Follow the Follower"
 
 > Weave environment, movement, and dialogue into a deeply interconnected, multi-layered collective reality.
 
+![The Echo-Scape Weave — infographic](../../games/img/D4_P1_S1_T2_G017__the-echo-scape-weave.jpg){ .infographic }
+
 `Players 4–8` · `~20 min` · `Complexity 4/5` · `Energy medium` · `Props: none`
 
 **Trains:** Peripheral Awareness · _mixed_
+
+**How to play**
+
+1. Phase 1 (Silent Environment): One player steps forward to initiate a silent physical action or non-verbal sound that establishes a sensory detail of the environment (e.g., shivering, feeling a rough texture, or making a low wind sound).
+2. The next player enters the space, physically responding to the first player's offer (e.g., huddling near them or reacting to the sound) and immediately adding a new, complementary physical or sonic detail to expand the world.
+3. The remaining players join one by one, repeating this 'echo and add' cycle to build a rich, multi-sensory, non-verbal environment where every physical choice directly relates to what came before.
+4. Phase 2 (Narrative Entry): Once the environment is fully established, the facilitator calls out 'Characters.' The first player to speak delivers a single line of dialogue that grounds their character in this specific physical space.
+5. The next speaker must physically react to the previous player's presence, then deliver a line of dialogue that directly echoes and evolves the previous statement using an A-to-C association (e.g., building on the subtext or expanding the premise rather than introducing a random new topic).
+6. Phase 3 (Complex Integration): Once characters and relationships are established, the scene transitions into free-form play, but with a strict constraint: every new line or action must visibly synthesize at least two previously established elements (such as a specific sound, a physical object, a character's line, or an emotional beat).
+7. The ensemble continues to play within this highly integrated reality, treating the environment as an active participant, until the scene reaches a natural, collective conclusion or a facilitator edit.
 
 [Open the full game card »](../../games/D4_P1_S1_T2_G017__the-echo-scape-weave.md)
 
@@ -52,9 +64,22 @@ title: "W09 · Group Mind & Follow the Follower"
 
 > Co-create and evolve the very rules of your performance format in real-time, completely non-verbally.
 
+![The Living Grid — infographic](../../games/img/D4_P1_S1_T2_G002__the-emergent-canvas.jpg){ .infographic }
+
 `Players 4–8` · `~60 min` · `Complexity 4/5` · `Energy medium` · `Props: none`
 
 **Trains:** Peripheral Awareness · _skill drill_
+
+**How to play**
+
+1. Begin Phase One (Explicit Awareness) by obtaining a simple, open-ended thematic suggestion from the facilitator to seed the content of the scenes.
+2. Players on stage begin improvising scenes organically, utilizing standard edits, walk-ons, and physical staging, while off-stage players watch with heightened peripheral focus on structural choices rather than narrative details.
+3. At any point, an off-stage player who detects a recurring structural pattern (such as consistent silent openings, rapid edit tempos, or specific stage-picture arrangements) calls out 'PATTERN!' to temporarily freeze the action.
+4. The player who called the freeze briefly and specifically describes the observed structural pattern, and the facilitator conducts a rapid 15-second consensus check with the ensemble.
+5. If the ensemble agrees the pattern exists, play resumes with the active players consciously leaning into, heightening, and exploring that specific structural rule for the next few scenes.
+6. Transition to Phase Two (Implicit Architecture) by receiving a new suggestion, but this time, ban all verbal pauses, 'PATTERN!' calls, or explicit structural discussions.
+7. Initiate scenes normally, but when a player wants to propose a structural shift or rule, they must do so via a non-verbal 'Meta-Offer'—such as intentionally altering scene length, changing physical proximity, or shifting dialogue rhythms.
+8. The rest of the ensemble must read this non-verbal structural offer and choose to support it by adopting the rule, elaborating on it with a complementary structural choice, or consciously pivoting to a new form if the current one has run its course.
 
 [Open the full game card »](../../games/D4_P1_S1_T2_G002__the-emergent-canvas.md)
 
