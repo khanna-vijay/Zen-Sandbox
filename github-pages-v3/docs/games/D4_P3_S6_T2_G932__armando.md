@@ -63,7 +63,7 @@ aliases:
 
 # The Monologist
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Monologist — infographic](img/D4_P3_S6_T2_G932__armando.jpg){ .game-hero }
 
 > Weave personal, spontaneous monologues and fast-paced scenic play into a seamless tapestry of comedic truth.
 

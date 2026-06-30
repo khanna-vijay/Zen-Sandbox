@@ -59,7 +59,7 @@ aliases:
 
 # The Triple Constraint
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Triple Constraint — infographic](img/D3_P0_S6_T1_G1337__three-rules.jpg){ .game-hero }
 
 > Weave three absurd, audience-imposed limitations into a perfectly logical, grounded scene.
 

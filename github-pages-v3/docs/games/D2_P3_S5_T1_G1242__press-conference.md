@@ -58,7 +58,7 @@ aliases: []
 
 # Press Conference
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Press Conference — infographic](img/D2_P3_S5_T1_G1242__press-conference.jpg){ .game-hero }
 
 > Uncover a secret identity through the supportive, clue-filled questions of a helpful press corps.
 

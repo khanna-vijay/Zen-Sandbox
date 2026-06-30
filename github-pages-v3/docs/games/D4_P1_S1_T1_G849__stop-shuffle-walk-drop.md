@@ -55,7 +55,7 @@ aliases: []
 
 # Walk, Stop, Shuffle, Drop
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Walk, Stop, Shuffle, Drop — infographic](img/D4_P1_S1_T1_G849__stop-shuffle-walk-drop.jpg){ .game-hero }
 
 > Move, freeze, and drop in perfect unison by tuning into the collective rhythm of the room.
 
