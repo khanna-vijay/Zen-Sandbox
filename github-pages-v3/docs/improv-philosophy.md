@@ -2,7 +2,7 @@
 title: My Philosophical view on Improv
 ---
 
-# The Architecture of Spontaneity: The Philosophy of Improv
+# My Philosophy of Improv - The Spontaneity Architecture
 
 > *"Each soul is potentially divine. The goal is to manifest this divinity within."* - Swami Vivekananda
 
@@ -38,7 +38,7 @@ This is the entire intrapersonal game of improv. **The censor is the enemy. Not 
 
 And remarkably, neuroscience research also agrees to *this*. Dr. Charles Limb, placing improvising jazz musicians inside an fMRI scanner, observed that during spontaneous creation the **dorsolateral prefrontal cortex,** the seat of self-monitoring, planning, and inhibition (the neurological home of Self 1) *deactivates*, while the **medial prefrontal cortex**, the region of authentic self-expression, *ignites*. The brain, in the act of true improvisation, **literally silences its own censor**. The Zen master would smile: “**The mind, when it stops grasping, becomes a clear mirror**”.
 
-## “Attention is all you need” - The Satipaṭṭhāna Bridge
+## “Attention is all you Need” - The Satipaṭṭhāna Bridge
 
 Here the meditator's wisdom enters. The *Satipaṭṭhāna* practitioner cultivates *sati -* bare, non-judging awareness of what is, moment to moment. Not analyzing the breath, but *being with* the breath. Not attaching to sensations, but *observing* them as-it-is moment to moment.
 
