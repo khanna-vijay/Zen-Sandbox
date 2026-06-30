@@ -41,9 +41,22 @@ title: "W12 · Build the World, Justify the Absurd"
 
 > Establish a rich, unspoken physical and relational foundation in thirty seconds before launching your scene.
 
+![Scene Blueprint — infographic](../../games/img/D3_P2_S5_T1_G364__scene-blueprint.jpg){ .infographic }
+
 `Players 2+` · `~10 min` · `Complexity 3/5` · `Energy medium` · `Props: none`
 
 **Trains:** World-Building · _skill drill_
+
+**How to play**
+
+1. Invite two players to the stage and obtain a simple, non-locational suggestion from the audience to inspire their initial physical action.
+2. Announce 'Blueprint!' and start a strict 30-second timer to begin the Blueprint Phase.
+3. Instruct the players to immediately begin establishing their environment, relationship, and objective using physical space work and dialogue, strictly avoiding any direct naming of their location, roles, or tasks.
+4. Require players to alternate between physical offers, such as handling imaginary objects, and verbal offers that hint at their interpersonal dynamic.
+5. If the players successfully establish a clear Who, What, and Where before the timer runs out, the facilitator calls 'Clear!' to signal an immediate transition.
+6. If the timer reaches 30 seconds first, the facilitator calls 'Scene!' to transition the players instantly into the next phase without any pause or reset.
+7. During the Scene Phase, players must continue the scene for one to two minutes, fully committing to, justifying, and exploring the logical consequences of the established reality.
+8. End the scene by calling 'Cut!' once the players have successfully explored a single, justified narrative beat built on their initial blueprint.
 
 [Open the full game card »](../../games/D3_P2_S5_T1_G364__scene-blueprint.md)
 
@@ -51,9 +64,21 @@ title: "W12 · Build the World, Justify the Absurd"
 
 > Lock down your scene's reality by transforming every spoken detail into a launchpad for action.
 
+![The Detail Anchor — infographic](../../games/img/D3_P2_S5_T2_G518__the-detail-anchor.jpg){ .infographic }
+
 `Players 2+` · `~10 min` · `Complexity 3/5` · `Energy medium` · `Props: none`
 
 **Trains:** World-Building · _skill drill_
+
+**How to play**
+
+1. Two players step forward to begin an open scene with no predetermined premise or relationship.
+2. Player A initiates the scene, deliberately establishing a few concrete, specific details such as a character's unique habit, a specific object in the room, or a historical event.
+3. Player B must listen closely and, in their very next line, explicitly reference and build upon at least one of the specific details Player A just introduced.
+4. To successfully build on a detail, the responding player must do more than repeat it; they must emotionally react to it, explain its consequences, or use it to justify a new action.
+5. If a player ignores a detail, contradicts an established fact, or glosses over their partner's offer with a generic response, the facilitator calls out 'Anchor!'
+6. Upon hearing the 'Anchor!' call, the active player must immediately pause, rewind their last line, and deliver a corrected line that fully integrates the missed detail before the scene continues.
+7. As the scene progresses, both players must maintain this chain of endowment, ensuring that every new line of dialogue respects and expands upon the growing web of established facts.
 
 [Open the full game card »](../../games/D3_P2_S5_T2_G518__the-detail-anchor.md)
 

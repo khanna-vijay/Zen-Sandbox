@@ -39,9 +39,21 @@ title: "W11 · Status: High & Low"
 
 > Explore extreme status dynamics where a single snap of the fingers means instant, dramatic demise.
 
+![The Sovereign's Snap — infographic](../../games/img/D2_P3_S2_T1_G822__royal-status-game.jpg){ .infographic }
+
 `Players 3+` · `~10 min` · `Complexity 2/5` · `Energy medium` · `Props: none`
 
 **Trains:** Status Modulation · _skill drill_
+
+**How to play**
+
+1. Designate one player to sit on the throne as the Sovereign, embodying absolute high status through posture, stillness, and entitlement.
+2. The remaining players line up off-stage as Servants, waiting to enter the court one at a time.
+3. The first Servant enters the space, immediately establishing an extreme low-status relationship to the Sovereign through physical posture, averted eyes, and tentative movement.
+4. The Servant must perform a specific task to tend to the Sovereign (e.g., feeding them imaginary grapes, polishing their shoes, brushing their hair) using detailed physical object work.
+5. The Sovereign remains demanding and easily displeased. If the Servant breaks character, makes direct eye contact, acts too familiar, or simply annoys the Sovereign, the Sovereign snaps their fingers.
+6. Upon hearing the snap, the Servant must instantly and dramatically die (safely collapsing to the floor) and then drag themselves or be dragged off-stage.
+7. The next Servant in line immediately enters, adapting their approach based on the previous Servant's demise to try a different low-status tactic.
 
 [Open the full game card »](../../games/D2_P3_S2_T1_G822__royal-status-game.md)
 
@@ -49,9 +61,22 @@ title: "W11 · Status: High & Low"
 
 > Navigate a social gathering while physicalizing a secret status rank from one to ten.
 
+![Status Spectrum Party — infographic](../../games/img/D2_P3_S2_T2_G847__status-party.jpg){ .infographic }
+
 `Players 5+` · `~15 min` · `Complexity 2/5` · `Energy medium` · `Props: required`
 
 **Trains:** Status Modulation · _skill drill_
+
+**How to play**
+
+1. Establish a specific social setting for the scene, such as a high-end gallery opening, a corporate networking event, or a neighborhood block party.
+2. Distribute one secret numbered card (from 1 to 10) to each player. Instruct players to look at their number privately and pocket it without revealing it to anyone else.
+3. Explain the scale: 1 represents the absolute lowest status in the room (extremely deferential, avoiding space, minimal eye contact), while 10 represents the absolute highest status (commanding space, sustained eye contact, relaxed posture).
+4. Have players enter the playing space one by one or in small groups, immediately adopting the physical walk, posture, and attitude of their assigned number.
+5. Instruct players to mingle and engage in casual conversation, focusing heavily on how they use physical space, eye contact, and vocal tone to express their relative rank.
+6. Encourage players to actively adjust their behavior based on who they are interacting with, lifting their partner's status up or yielding to it to make the relationship clear.
+7. Freeze the action after 5 to 7 minutes of active mingling.
+8. Have the group observe the frozen tableau, then go around and have players guess each other's numbers based on the physical and verbal behaviors exhibited during the scene before revealing the actual cards.
 
 [Open the full game card »](../../games/D2_P3_S2_T2_G847__status-party.md)
 

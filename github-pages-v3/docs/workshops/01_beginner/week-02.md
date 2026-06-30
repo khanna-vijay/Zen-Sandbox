@@ -42,9 +42,21 @@ title: "W02 · The First Thought Is a Gift"
 
 > Unleash maximum commitment by executing highly specific, award-worthy cinematic highlights within a collaborative scene.
 
+![Award-Winning Moments — infographic](../../games/img/D1_P1_S1_T0_G791__oscar-winning-moment.jpg){ .infographic }
+
 `Players 2–5` · `~5 min` · `Complexity 2/5` · `Energy high` · `Props: none`
 
 **Trains:** Unfiltered Spontaneity · _comedy game_
+
+**How to play**
+
+1. Gather 3 to 4 players on stage and ask the audience or remaining group for a fictional movie title.
+2. Assign each player a unique, highly specific award category (e.g., 'Best Dramatic Exit,' 'Best Over-the-Top Gasp,' 'Best Slow-Motion Fight Sequence,' or 'Best Monologue About Food').
+3. Begin the scene normally, establishing the platform, characters, and setting based on the movie title.
+4. As the scene progresses, players look for organic opportunities to build toward and execute their designated award-winning moment.
+5. When a player initiates their award-winning moment, all other players must immediately shift their focus to support them, using physical reactions, active listening, and high-stakes emotional responses to make the moment feel truly epic.
+6. Once a player's moment concludes, the scene transitions back to collaborative play, pacing toward the next player's spotlight moment.
+7. The scene ends once all players have successfully executed their award-winning moments and the narrative reaches a satisfying conclusion.
 
 [Open the full game card »](../../games/D1_P1_S1_T0_G791__oscar-winning-moment.md)
 
@@ -52,9 +64,22 @@ title: "W02 · The First Thought Is a Gift"
 
 > Shout out eight rapid-fire answers to a random category while your team enthusiastically counts along.
 
+![Eight Rapid Things — infographic](../../games/img/D1_P4_S1_T2_G624__8-things.jpg){ .infographic }
+
 `Players 4+` · `~10 min` · `Complexity 1/5` · `Energy high` · `Props: none`
 
 **Trains:** Unfiltered Spontaneity · _skill drill_
+
+**How to play**
+
+1. Gather all players into a standing circle with clear space in the center.
+2. One player volunteers to step into the center of the circle, introducing themselves with high energy (e.g., 'Hi, I'm Sam!').
+3. The surrounding group enthusiastically responds in unison (e.g., 'Hi, Sam!').
+4. A player from the outer circle or the facilitator calls out a category, such as 'Eight things you find in a wizard's pocket' or 'Eight types of soup'.
+5. The center player immediately begins naming items that fit (or loosely fit) the category, without pausing to filter, edit, or second-guess their choices.
+6. After each item named, the outer circle collectively and loudly shouts the current count (e.g., 'ONE!', 'TWO!', up to 'EIGHT!').
+7. If the center player hesitates, stumbles, or says something nonsensical, the group must count it anyway with equal or greater enthusiasm.
+8. Upon reaching 'EIGHT!', the entire group erupts into a brief, high-energy celebration (cheering, dancing, or high-fives) before the center player returns to the circle and a new volunteer steps in.
 
 [Open the full game card »](../../games/D1_P4_S1_T2_G624__8-things.md)
 
@@ -62,9 +87,21 @@ title: "W02 · The First Thought Is a Gift"
 
 > Bypass your inner editor by shouting out category words to escape being tagged.
 
+![Category Chase — infographic](../../games/img/D1_P4_S1_T1_G652__category-tag.jpg){ .infographic }
+
 `Players 5+` · `~10 min` · `Complexity 1/5` · `Energy high` · `Props: none`
 
 **Trains:** Unfiltered Spontaneity · _skill drill_
+
+**How to play**
+
+1. Designate clear boundaries for the playing area and select one player to start as the Chaser ('It').
+2. Before the chase begins, the Chaser must loudly announce a specific, accessible category (e.g., 'Types of Fruit' or 'Action Movies').
+3. On the facilitator's signal, the Chaser begins pursuing the other players to tag them.
+4. To become temporarily immune to being tagged, a player must freeze in place and loudly shout an item that fits the active category before the Chaser touches them.
+5. Once an item is shouted, it is 'used' and cannot be repeated by anyone else during that round.
+6. If a player is successfully tagged because they couldn't think of a word, repeated a word, or were too slow, they immediately become the new Chaser.
+7. The new Chaser must instantly freeze, call out a brand-new category, and then begin chasing the other players.
 
 [Open the full game card »](../../games/D1_P4_S1_T1_G652__category-tag.md)
 

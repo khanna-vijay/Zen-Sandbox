@@ -39,9 +39,21 @@ title: "W13 · Make It Make Sense"
 
 > Weave a cohesive story while instantly justifying random, disruptive words thrown in by your partner.
 
+![Curveball Narrative — infographic](../../games/img/D3_P4_S6_T1_G681__curveball-story.jpg){ .infographic }
+
 `Players 2+` · `~5 min` · `Complexity 2/5` · `Energy medium` · `Props: none`
 
 **Trains:** Justification · _narrative_
+
+**How to play**
+
+1. Divide the group into pairs and designate one player as the Storyteller and the other as the Interrupter.
+2. The Storyteller begins telling an original, simple story based on a mundane, everyday prompt (e.g., 'My walk to the grocery store this morning').
+3. As the Storyteller speaks, the Interrupter calls out a completely random, unrelated noun or verb (e.g., 'Submarine' or 'Yodeling').
+4. The Storyteller must immediately integrate this word into the narrative, justifying why and how it fits logically into the current scene.
+5. The Interrupter must wait until the Storyteller has fully integrated and justified the previous word before calling out a new one.
+6. The Storyteller continues building the narrative arc (beginning, middle, climax, and resolution) while adapting to each new curveball.
+7. After two to three minutes, or once the story reaches a satisfying conclusion, the partners swap roles and repeat the process.
 
 [Open the full game card »](../../games/D3_P4_S6_T1_G681__curveball-story.md)
 
@@ -49,9 +61,22 @@ title: "W13 · Make It Make Sense"
 
 > Justify sudden entrances and exits triggered by secret verbal cues spoken by your scene partners.
 
+![Cue and Justify — infographic](../../games/img/D3_P2_S6_T1_G697__enter-and-exit.jpg){ .infographic }
+
 `Players 4+` · `~10 min` · `Complexity 2/5` · `Energy medium` · `Props: none`
 
 **Trains:** Justification · _skill drill_
+
+**How to play**
+
+1. Assign each of the four players a distinct, simple cue word from different categories, ensuring everyone knows which word belongs to whom.
+2. Position two players on stage to begin the scene, and place the other two players off-stage in the wings.
+3. The two on-stage players begin a grounded, realistic scene based on a simple location suggestion.
+4. All players must listen closely to the dialogue; when a player's assigned cue word is spoken by another player on stage, that triggered player must immediately change their location.
+5. If the triggered player is off-stage, they must enter the scene; if they are on-stage, they must exit the scene.
+6. The entering or exiting player must immediately deliver a verbal justification that explains why they are suddenly arriving or leaving, keeping it consistent with the scene's reality.
+7. A player cannot say their own cue word to trigger their own movement; the trigger must always come from someone else's dialogue.
+8. The remaining players must accept the new arrival or departure and adapt the scene's narrative to accommodate the change without breaking character.
 
 [Open the full game card »](../../games/D3_P2_S6_T1_G697__enter-and-exit.md)
 

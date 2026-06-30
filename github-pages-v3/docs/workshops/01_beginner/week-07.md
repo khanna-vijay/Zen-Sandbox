@@ -42,9 +42,21 @@ title: "W07 · Really Listening"
 
 > Listen deeply to a partner's life story, then repeat it back with absolute accuracy.
 
+![Sixty-Second Biography — infographic](../../games/img/D2_P3_S1_T0_G618__1-minute-story.jpg){ .infographic }
+
 `Players 2+` · `~5 min` · `Complexity 1/5` · `Energy low` · `Props: none`
 
 **Trains:** Active Listening · _connection_
+
+**How to play**
+
+1. Divide the group into pairs and designate one person as Partner A and the other as Partner B.
+2. Instruct Partner A that they will have exactly sixty seconds to share their life story, starting from their earliest memories up to the present day.
+3. Instruct Partner B that their sole job is to listen actively and silently, without interrupting, asking questions, or nodding excessively.
+4. Start the timer and let Partner A speak continuously for sixty seconds, sharing whatever details they feel comfortable disclosing.
+5. When the timer sounds, immediately instruct Partner B to retell Partner A's story back to them, aiming to capture as many specific details, emotions, and chronological events as they can remember.
+6. Give Partner B sixty seconds to complete the retelling, ensuring they speak in the third person (e.g., 'You were born in...').
+7. Swap roles so Partner B shares their life story for sixty seconds while Partner A listens, followed by Partner A retelling the story.
 
 [Open the full game card »](../../games/D2_P3_S1_T0_G618__1-minute-story.md)
 
@@ -52,9 +64,21 @@ title: "W07 · Really Listening"
 
 > Share your life in one minute, then hear it lovingly gifted back to you.
 
+![Sixty-Second Biography — infographic](../../games/img/D2_P3_S1_T0_G785__one-minute-life-story.jpg){ .infographic }
+
 `Players 2+` · `~5 min` · `Complexity 1/5` · `Energy low` · `Props: none`
 
 **Trains:** Active Listening · _connection_
+
+**How to play**
+
+1. Divide the group into pairs and designate one person as Player A and the other as Player B.
+2. Instruct Player A that they will have exactly sixty seconds to share their life story, starting from their earliest memory up to the present day.
+3. Instruct Player B to listen in silence, maintaining comfortable eye contact and open body language, without interrupting, asking questions, or offering verbal feedback.
+4. Start the timer and have Player A speak continuously for the full minute, embracing whatever details, feelings, or tangents arise.
+5. Once the minute is up, instruct Player B to immediately retell Player A's story back to them, aiming to capture as many details, emotional beats, and specific facts as they can remember.
+6. Emphasize that Player B's goal is not to test their own memory, but to make Player A feel deeply understood, celebrated, and valued.
+7. Swap roles so Player B shares their life story for sixty seconds while Player A listens and then retells it.
 
 [Open the full game card »](../../games/D2_P3_S1_T0_G785__one-minute-life-story.md)
 

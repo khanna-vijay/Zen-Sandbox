@@ -41,9 +41,20 @@ title: "W06 · Fail Joyfully & Recover"
 
 > Transform mental slip-ups into moments of shared celebration through a fast-paced, evolving counting pattern.
 
+![One Two Three — infographic](../../games/img/D1_P2_S6_T2_G619__1-2-3.jpg){ .infographic }
+
 `Players 2+` · `~5 min` · `Complexity 1/5` · `Energy high` · `Props: none`
 
 **Trains:** Self-Recovery · _connection_
+
+**How to play**
+
+1. Instruct pairs to stand facing each other, maintaining soft eye contact.
+2. Begin Round 1: Players take turns counting from 1 to 3 in a continuous loop (Player A says '1', Player B says '2', Player A says '3', Player B says '1', and so on).
+3. Introduce the Failure Rule: Whenever anyone hesitates, says the wrong number, or breaks the rhythm, both players must instantly throw their hands in the air, yell 'Woohoo!' or 'Yes!', high-five, and immediately restart the count at 1.
+4. Once pairs establish a steady rhythm, pause the group and introduce Round 2: Replace the number '2' with a single clap. The sequence is now '1', [Clap], '3', '1', [Clap], '3'.
+5. After a minute of play, introduce Round 3: Keep the clap for '2', and replace the number '3' with a small jump or a hip-wiggle. The sequence is now '1', [Clap], [Jump].
+6. Encourage players to increase their speed gradually, leaning into the chaos and celebrating every single breakdown with equal or greater enthusiasm.
 
 [Open the full game card »](../../games/D1_P2_S6_T2_G619__1-2-3.md)
 
@@ -51,9 +62,20 @@ title: "W06 · Fail Joyfully & Recover"
 
 > Celebrate every dropped pass with explosive, joyful applause to reframe mistakes as triumphs.
 
+![The Celebration Pass — infographic](../../games/img/D1_P2_S6_T2_G761__loserball.jpg){ .infographic }
+
 `Players 3+` · `~5 min` · `Complexity 1/5` · `Energy high` · `Props: none`
 
 **Trains:** Self-Recovery · _connection_
+
+**How to play**
+
+1. Gather the group into a standing circle with enough space to make throwing and catching gestures.
+2. Introduce an imaginary ball of any size, weight, or texture, and demonstrate throwing it to another player.
+3. Explain the core rule: whenever the ball is thrown to you, you must attempt to catch it but fail spectacularly, letting it drop, bounce away, or slip through your fingers.
+4. Instruct the rest of the group that the moment a drop occurs, everyone must instantly erupt into massive, enthusiastic cheers, applause, and celebration as if a world record was just broken.
+5. After the drop and the celebration, the player who dropped the ball must joyfully retrieve it, re-establish eye contact with a new player, and throw it to them.
+6. Keep the pace rapid, ensuring the ball moves quickly from person to person so everyone gets multiple opportunities to fail and be celebrated.
 
 [Open the full game card »](../../games/D1_P2_S6_T2_G761__loserball.md)
 

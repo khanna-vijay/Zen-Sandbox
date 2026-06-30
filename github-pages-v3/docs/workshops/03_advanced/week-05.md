@@ -44,9 +44,22 @@ title: "W05 · Find It, Play It, Break It"
 
 > Heighten character patterns and emotional games by stepping into another actor's shoes mid-scene.
 
+![Understudy — infographic](../../games/img/D3_P2_S1_T1_G880__understudy.jpg){ .infographic }
+
 `Players 4+` · `~10 min` · `Complexity 3/5` · `Energy medium` · `Props: none`
 
 **Trains:** Game Identification · _mixed_
+
+**How to play**
+
+1. Two players step forward and begin a grounded, relationship-focused scene, establishing a clear base reality (who, what, where) with subtle emotional undercurrents.
+2. The off-stage players watch closely, actively looking for emerging behavioral patterns, emotional tics, or unusual points of view in the active characters.
+3. Once a pattern is established, the facilitator (or an off-stage player) calls out 'Understudy for [Character Name]!' and pauses the action.
+4. The original actor steps out of the scene, and an off-stage player immediately steps into their exact physical position.
+5. The scene resumes. The new 'understudy' player must immediately adopt the character's established pattern but perform it with significantly more intensity, commitment, and comedic heightening.
+6. After a few lines of this heightened play, the facilitator calls 'Understudy out!' or 'Originals back!'
+7. The original actor steps back into the scene, instantly adopting the newly amplified emotional state and behavioral choices demonstrated by their understudy.
+8. The facilitator can repeat this process multiple times, swapping understudies for either character to progressively escalate the scene's comedic game to its peak.
 
 [Open the full game card »](../../games/D3_P2_S1_T1_G880__understudy.md)
 
@@ -54,9 +67,23 @@ title: "W05 · Find It, Play It, Break It"
 
 > Master the art of deliberate heightening by shifting, magnifying, and raising scene stakes.
 
+![The Heightening Accelerator — infographic](../../games/img/D3_P2_S2_T1_G610__the-scene-dynamics-accelerator.jpg){ .infographic }
+
 `Players 3+` · `~15 min` · `Complexity 3/5` · `Energy medium` · `Props: none`
 
 **Trains:** Heightening & Exploration · _skill drill_
+
+**How to play**
+
+1. Begin a standard two-person scene initiated by a simple, neutral suggestion of a location or relationship.
+2. Establish a grounded base reality, focusing on active listening to discover a repeating pattern, unusual behavior, or relationship dynamic.
+3. Once a clear pattern or 'game' emerges (usually within 60 to 90 seconds), the facilitator calls 'Freeze!' to pause the action.
+4. The facilitator issues one of three specific heightening directives: 'Vary It!', 'Exaggerate It!', or 'Escalate It!'.
+5. On 'Vary It!', players resume the scene by expressing the same core dynamic through a completely new behavior, topic, or environmental factor.
+6. On 'Exaggerate It!', players resume the scene by magnifying their existing emotional reactions or physical behaviors to a much higher intensity.
+7. On 'Escalate It!', players resume the scene by raising the stakes, introducing real consequences, or revealing deeper personal motivations behind the dynamic.
+8. Play the scene under the chosen directive for about one minute, ensuring every heightened choice is immediately justified and grounded.
+9. The facilitator may freeze the scene 1-2 more times to issue different directives, allowing players to experience multiple heightening pathways within the same scene.
 
 [Open the full game card »](../../games/D3_P2_S2_T1_G610__the-scene-dynamics-accelerator.md)
 

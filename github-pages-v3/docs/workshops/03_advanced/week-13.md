@@ -42,9 +42,22 @@ title: "W13 · The Harold"
 
 > Instantly pivot between diverse long-form structures to build hyper-adaptive ensemble cohesion and structural agility.
 
+![Modular Format Juggling — infographic](../../games/img/D4_P1_S6_T4_G057__modular-form-juggling.jpg){ .infographic }
+
 `Players 4–8` · `~20 min` · `Complexity 4/5` · `Energy high` · `Props: none`
 
 **Trains:** Format Literacy · _skill drill_
+
+**How to play**
+
+1. Begin with a 2-to-3 minute open narrative initiation (such as a town hall or a multi-character relationship scene) to establish a rich baseline of characters, locations, themes, and conflicts.
+2. Once a solid foundation of source material is established, the facilitator signals an edit with a sharp clap and calls out a specific Format Mandate (such as Montage on Theme or Armando Monologue).
+3. The ensemble must instantly clear the stage and initiate the mandated format, drawing directly from the characters, relationships, or themes established in the opening phase.
+4. Execute the mandated format with high intensity and concise choices, focusing on the specific structural rules of that format (such as rapid tag-outs for a montage, or finding a clear game of the scene for a Harold beat).
+5. After 1 to 2 minutes of play, the facilitator will signal another edit and call out a completely different Format Mandate, requiring an immediate, collective pivot.
+6. Players must jump into the new format without hesitation, self-correcting and supporting whoever takes the lead to establish the new structural framework.
+7. Continue this cycle of rapid-fire transitions through 4 to 8 different mandates, weaving recurring thematic threads and character callbacks across the disparate structures.
+8. The facilitator brings the exercise to a close by calling scene after a final, unifying mandate or when the ensemble achieves a highly cohesive structural resolution.
 
 [Open the full game card »](../../games/D4_P1_S6_T4_G057__modular-form-juggling.md)
 

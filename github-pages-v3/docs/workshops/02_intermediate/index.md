@@ -31,4 +31,4 @@ You can do the moves — now you choose them under live pressure. This course re
 | 18 | [Competent Showcase](week-18.md) | All domains (integration) | `D3.S1` — Game Identification | Competent: choose an engine, build, and edit on time, live. |
 
 !!! tip "How to use this course"
-    Each session is a ready-to-run hour: a short theory beat with its infographic (deep-linked to the full write-up), one to three games drawn from the master game library, and reflection questions that connect the skill to both the stage and the rest of your life. Complexity rises week over week — teach them in order.
+    Each session is a ready-to-run hour: a short theory beat with its infographic (deep-linked to the full write-up), one to three games drawn from the master game library, and reflection questions that connect the skill to both the stage and the rest of your life. Complexity rises week over week — facilitate them in order.

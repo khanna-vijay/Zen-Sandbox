@@ -10,7 +10,7 @@ title: "W01 · Re-entry — Impulse = Action"
 | Serve the Piece — Toward Mastery | 1/18 | D1 — The Self | `D1.S1` — Unfiltered Spontaneity | Proficient → Master |
 
 !!! warning "Layer 0 — Safety & Consent first"
-    The consent container is taught before anything else and re-affirmed here. The rule of consent overrides the rule of agreement.
+    The consent container is established before anything else and re-affirmed here. The rule of consent overrides the rule of agreement.
 
 ## ⏱️ Session flow (60 minutes)
 
@@ -44,9 +44,23 @@ title: "W01 · Re-entry — Impulse = Action"
 
 > Bypass the analytical mind by translating dynamic sensory inputs into immediate, fully committed physical and vocal expression.
 
+![The Sensory Circuit — infographic](../../games/img/D1_P4_S1_T2_G166__the-sensorium-cycle.jpg){ .infographic }
+
 `Players 4–8` · `~20 min` · `Complexity 4/5` · `Energy high` · `Props: required`
 
 **Trains:** Unfiltered Spontaneity · _skill drill_
+
+**How to play**
+
+1. Step 1: The Attunement. Players scatter throughout the space, close their eyes, and hold their fabric cloth. The facilitator plays a low, sustained drone. Players stand in stillness, focusing on breathing and letting the sound resonate physically, practicing 'do nothing' reps to quiet initial mental chatter.
+2. Step 2: The Core Impulse. The facilitator transitions the audio to a steady, rhythmic pulse. One designated player immediately identifies the very first physical impulse triggered by the beat (e.g., a shoulder twitch, a rhythmic sway) and commits to it as a continuous, repetitive physical loop.
+3. Step 3: Vocalizing the Vibration. While maintaining this physical loop, the active player adds a single, sustained, non-verbal vocal sound (like a hum, sigh, or click) that matches the physical rhythm, creating an integrated physical-vocal baseline.
+4. Step 4: The Emotional Dial. The facilitator introduces a new, evocative soundscape (e.g., heavy rain, busy traffic) and calls out an emotion and an intensity level from 1 to 10 (e.g., 'Grief at 3' or 'Ecstasy at 8'). The player must instantly shift their physical loop and vocalization to embody this emotion at the requested scale.
+5. Step 5: Sensory Layering. The facilitator calls out an imaginary physical sensation (e.g., 'The air is thick like molasses' or 'Your hands are freezing cold'). The player must immediately integrate this physical constraint into their current emotional and vocal expression without dropping the intensity.
+6. Step 6: Passing the State. The active player makes direct eye contact with a second player and physically 'passes' their entire embodied state. They do this through a clear, committed physical gesture or shared stance, transferring the energy like a physical object.
+7. Step 7: Receiving and Adapting. The receiving player instantly absorbs the physical and emotional energy of the pass, starting their own physical loop based on what they received, while immediately adapting it to the current soundscape and sensory prompts.
+8. Step 8: The Gibberish Release. At any point, the facilitator can call out 'Gibberish!' The active player must instantly convert their physical and emotional state into a stream of nonsense language, ending the stream by confidently declaring, 'And that's exactly what I meant!'
+9. Step 9: Mindful Recovery. If any player feels overwhelmed, frozen, or disconnected during their turn, they may step back, stand in stillness, focus on their breath ('do nothing' rep), and re-enter the circle when they feel a clear, authentic impulse.
 
 [Open the full game card »](../../games/D1_P4_S1_T2_G166__the-sensorium-cycle.md)
 
@@ -54,9 +68,23 @@ title: "W01 · Re-entry — Impulse = Action"
 
 > Translate one player's raw, unfolding internal landscape into a collective physical and vocal symphony.
 
+![The Impulse Tapestry — infographic](../../games/img/D1_P3_S1_T1_G326__the-impulse-tracing-tapestry.jpg){ .infographic }
+
 `Players 5–15` · `~20 min` · `Complexity 4/5` · `Energy low` · `Props: none`
 
 **Trains:** Unfiltered Spontaneity · _mixed_
+
+**How to play**
+
+1. Begin with a shared minute of silence; the facilitator guides the ensemble through a gentle body scan to ground their focus and attune to their own physical and emotional states.
+2. Select one player to be the 'Tracer' and another to act as the 'Scorekeeper.' The remaining players form the 'Resonators' and stand in a loose semi-circle facing the Tracer.
+3. The Tracer speaks a single, unedited, real-time internal observation, such as 'My chest feels tight' or 'I have a sudden urge to step backward.'
+4. The Resonators listen in silence, finding a personal, internal physical or vocal resonance with the Tracer's statement without moving or making sound yet.
+5. The Scorekeeper silently writes down a single-word summary of the Tracer's observation to keep track of the sequence.
+6. Repeat this process for four to six more distinct impulses; the Tracer shares each new sensation as it arises—using word-association to transition without needing logical or narrative connections—while the Scorekeeper notes each one.
+7. The Scorekeeper reads the recorded list back, one item at a time. For each item, the Resonators collectively and spontaneously create a brief, non-literal physical posture and non-verbal sound that captures their shared resonance.
+8. The Scorekeeper guides the ensemble to run through the entire sequence of physical and vocal responses in order, smoothing out the transitions to create a continuous, flowing performance.
+9. The ensemble performs the completed 'Tapestry' score in its entirety for the Tracer, committing fully to the abstract physical and vocal movements.
 
 [Open the full game card »](../../games/D1_P3_S1_T1_G326__the-impulse-tracing-tapestry.md)
 

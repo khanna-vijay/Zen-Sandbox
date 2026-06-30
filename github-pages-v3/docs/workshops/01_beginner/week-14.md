@@ -39,9 +39,21 @@ title: "W14 · We're a Team"
 
 > A high-energy, rapid-fire celebration of self, partner, and ensemble connection.
 
+![I'm Great, You're Great — infographic](../../games/img/D4_P1_S2_T0_G735__i-m-great-you-re-great-we-re-great.jpg){ .infographic }
+
 `Players 4+` · `~3 min` · `Complexity 1/5` · `Energy high` · `Props: none`
 
 **Trains:** Support Work · _connection_
+
+**How to play**
+
+1. Instruct all players to begin moving dynamically around the room, filling the empty spaces and maintaining a high energy level.
+2. Explain that when they make eye contact with another player, they must immediately step toward each other to form a temporary pair.
+3. Once paired, both players must look each other in the eye and simultaneously chant three distinct phrases with matching gestures: 'I'm great!' (pointing to themselves), 'You're great!' (pointing to their partner), and 'We're great!' (raising their hands in the air).
+4. Immediately following the final phrase, the partners must deliver an enthusiastic high-five.
+5. After the high-five, both players must instantly break apart, resume moving through the space, and seek out a new partner.
+6. Encourage players to keep moving and repeating this cycle rapidly, aiming to connect with as many different people in the room as possible within the time limit.
+7. Call an end to the activity after approximately two to three minutes, once the room reaches a peak of high energy and laughter.
 
 [Open the full game card »](../../games/D4_P1_S2_T0_G735__i-m-great-you-re-great-we-re-great.md)
 
@@ -49,9 +61,21 @@ title: "W14 · We're a Team"
 
 > A high-energy closing ritual where players toss shared successes into a collective cauldron of appreciation.
 
+![The Memory Cauldron — infographic](../../games/img/D4_P1_S2_T0_G667__circle-of-awesome.jpg){ .infographic }
+
 `Players 3+` · `~5 min` · `Complexity 1/5` · `Energy medium` · `Props: none`
 
 **Trains:** Support Work · _connection_
+
+**How to play**
+
+1. Form a standing circle with all participants, leaving an open space in the center representing an imaginary cauldron.
+2. Explain that the goal is to collectively harvest and celebrate the best moments, offers, and discoveries of the session.
+3. Any player can speak up at any time in a popcorn style to call out a specific moment they appreciated, focusing on another player's contribution.
+4. Immediately after a memory is shared, the entire group must shout a unified word of agreement, such as 'Yes!', while physically miming the action of grabbing that memory and tossing it into the center cauldron.
+5. Continue this popcorn-style sharing, allowing multiple players to contribute their favorite moments and keeping the energy high with rapid-fire physical tosses.
+6. Once the sharing naturally winds down, the facilitator guides the group to step forward and mime stirring the giant cauldron together.
+7. On a count of three, the entire group leaps into the air, throwing their hands up, and shouts a final, unifying word to close the session.
 
 [Open the full game card »](../../games/D4_P1_S2_T0_G667__circle-of-awesome.md)
 

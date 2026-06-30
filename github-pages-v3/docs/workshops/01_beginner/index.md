@@ -29,4 +29,4 @@ Your first steps. We build courage before craft: a safe container, then the inst
 | 16 | [Putting It Together — Showcase](week-16.md) | All domains (integration) | `D2.S4` — Offer Reception | Adv. Beginner: sustain the fundamentals across a short, friendly set. |
 
 !!! tip "How to use this course"
-    Each session is a ready-to-run hour: a short theory beat with its infographic (deep-linked to the full write-up), one to three games drawn from the master game library, and reflection questions that connect the skill to both the stage and the rest of your life. Complexity rises week over week — teach them in order.
+    Each session is a ready-to-run hour: a short theory beat with its infographic (deep-linked to the full write-up), one to three games drawn from the master game library, and reflection questions that connect the skill to both the stage and the rest of your life. Complexity rises week over week — facilitate them in order.
