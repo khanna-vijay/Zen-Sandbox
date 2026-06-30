@@ -75,7 +75,7 @@ nav:
       - Improv - Core: improv-synopsis.md
       - Improv Maturity Framework: improv-maturity-framework.md
   - Workshops:
-      - workshops/index.md
+      - Overview: workshops/index.md
       - "Foundations":
           - workshops/01_beginner/index.md
           - workshops/01_beginner/week-01.md
