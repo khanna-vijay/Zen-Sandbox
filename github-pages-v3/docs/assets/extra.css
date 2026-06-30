@@ -97,3 +97,56 @@
 .game-card .game-badges em { font-style: normal; font-size: .68rem; padding: .08rem .45rem;
   border-radius: .5rem; background: var(--md-default-fg-color--lightest); color: var(--md-default-fg-color--light); }
 .game-card .game-badges em.gb-rt { background: var(--md-primary-fg-color); color: #fff; font-weight: 600; }
+
+/* ===================================================================== */
+/* Game-page elegant layout (aesthetics only — content is never altered). */
+/* Scoped by body.game-page, added by games-page.js.                      */
+/* ===================================================================== */
+.game-page .md-typeset h1 {
+  font-weight: 800; letter-spacing: -.01em;
+  border-bottom: 3px solid var(--md-primary-fg-color); padding-bottom: .35rem;
+}
+/* The one-line tagline (first blockquote) -> soft accent callout */
+.game-page .md-typeset > blockquote:first-of-type {
+  border-left: .3rem solid var(--md-accent-fg-color);
+  background: var(--md-default-fg-color--lightest);
+  border-radius: .5rem; padding: .7rem 1rem; font-size: 1.02rem; font-style: italic;
+}
+/* Section headers -> accent bar + primary colour + icon spacing */
+.game-page .md-typeset h2 {
+  color: var(--md-primary-fg-color); font-weight: 700;
+  border-left: .28rem solid var(--md-primary-fg-color);
+  padding: .12rem 0 .12rem .6rem; margin-top: 2.1rem;
+}
+.game-page .md-typeset h2 .headerlink { border: 0; }
+/* "At a Glance" (the only table on a game page) -> coloured header + zebra rows */
+.game-page .md-typeset table:not([class]) {
+  border: 1px solid var(--md-default-fg-color--lightest); border-radius: .6rem;
+  overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,.06);
+}
+.game-page .md-typeset table:not([class]) th {
+  background: var(--md-primary-fg-color); color: #fff; font-weight: 600; border: 0;
+}
+.game-page .md-typeset table:not([class]) td { border: 0; }
+.game-page .md-typeset table:not([class]) tr:nth-child(even) td {
+  background: var(--md-default-fg-color--lightest);
+}
+.game-page .md-typeset table:not([class]) tr:hover td {
+  background: var(--md-accent-fg-color); color: var(--md-primary-bg-color);
+  transition: background .12s;
+}
+.game-page .md-typeset ul li { margin-bottom: .2rem; }
+/* Prev / Next game footer (injected by games-page.js) */
+.game-pn {
+  display: flex; justify-content: space-between; gap: 1rem; margin: 2.4rem 0 .5rem;
+  padding-top: 1rem; border-top: 1px solid var(--md-default-fg-color--lightest);
+}
+.game-pn a {
+  display: flex; flex-direction: column; max-width: 46%; text-decoration: none !important;
+  padding: .55rem .85rem; border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: .6rem; transition: border-color .15s, box-shadow .15s, transform .12s;
+}
+.game-pn a:hover { border-color: var(--md-accent-fg-color); box-shadow: 0 4px 16px rgba(0,0,0,.10); transform: translateY(-2px); }
+.game-pn .game-pn-next { text-align: right; margin-left: auto; }
+.game-pn .gpn-k { font-size: .72rem; color: var(--md-default-fg-color--light); text-transform: uppercase; letter-spacing: .04em; }
+.game-pn .gpn-t { font-weight: 600; color: var(--md-primary-fg-color); }
