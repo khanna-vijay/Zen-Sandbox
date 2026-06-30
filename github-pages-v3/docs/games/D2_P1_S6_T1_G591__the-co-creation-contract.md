@@ -62,7 +62,7 @@ aliases:
 
 # The Scene Treaty
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Scene Treaty — infographic](img/D2_P1_S6_T1_G591__the-co-creation-contract.jpg){ .game-hero }
 
 > Negotiate personal boundaries and scene parameters explicitly before diving into the heat of performance.
 

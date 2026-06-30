@@ -57,7 +57,7 @@ aliases: []
 
 # The Mirror
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Mirror — infographic](img/D2_P3_S3_T1_G770__mirroring.jpg){ .game-hero }
 
 > Reflect your partner's movements and expressions in real-time to build deep, non-verbal connection.
 

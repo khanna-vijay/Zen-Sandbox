@@ -62,7 +62,7 @@ aliases: []
 
 # The Narrative Scaffold
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Narrative Scaffold — infographic](img/D3_P4_S3_T1_G106__story-architect-s-blueprint.jpg){ .game-hero }
 
 > Internalize narrative structure through guided, real-time pauses that build a complete, satisfying story arc.
 

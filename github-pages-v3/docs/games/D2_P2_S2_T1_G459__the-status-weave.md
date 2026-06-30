@@ -68,7 +68,7 @@ aliases: []
 
 # Status Weave
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Status Weave — infographic](img/D2_P2_S2_T1_G459__the-status-weave.jpg){ .game-hero }
 
 > Master status, emotion, and narrative progression simultaneously in this high-focus, multi-layered partner drill.
 

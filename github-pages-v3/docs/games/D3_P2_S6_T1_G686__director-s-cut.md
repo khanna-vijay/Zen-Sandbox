@@ -62,7 +62,7 @@ aliases: []
 
 # Director's Cut
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Director's Cut — infographic](img/D3_P2_S6_T1_G686__director-s-cut.jpg){ .game-hero }
 
 > Improvise a movie scene while a demanding director constantly interrupts with absurd creative adjustments.
 

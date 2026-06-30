@@ -58,7 +58,7 @@ aliases: []
 
 # Beat Poets
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Beat Poets — infographic](img/D1_P1_S1_T2_G639__beat-poets.jpg){ .game-hero }
 
 > Channel your inner bohemian to deliver raw, unfiltered, and instantly improvised spoken-word poetry.
 

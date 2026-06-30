@@ -58,7 +58,7 @@ aliases: []
 
 # Touch to Speak
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Touch to Speak — infographic](img/D3_P1_S6_T1_G1342__touch-to-talk.jpg){ .game-hero }
 
 > Speak only when physically connected, using touch to drive the scene's dialogue and action.
 

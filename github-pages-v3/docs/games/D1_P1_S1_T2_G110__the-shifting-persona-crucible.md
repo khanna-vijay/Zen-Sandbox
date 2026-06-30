@@ -62,7 +62,7 @@ aliases: []
 
 # The Impulse Crucible
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Impulse Crucible — infographic](img/D1_P1_S1_T2_G110__the-shifting-persona-crucible.jpg){ .game-hero }
 
 > Instantly shed and adopt complex physical, vocal, and emotional states at a conductor's command.
 

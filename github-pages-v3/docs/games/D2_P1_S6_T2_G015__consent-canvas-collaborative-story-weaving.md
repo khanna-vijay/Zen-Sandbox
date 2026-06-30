@@ -59,7 +59,7 @@ aliases: []
 
 # Boundary Canvas
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Boundary Canvas — infographic](img/D2_P1_S6_T2_G015__consent-canvas-collaborative-story-weaving.jpg){ .game-hero }
 
 > Navigate hidden personal boundaries in real-time scenes using proactive check-ins and immediate rewinds.
 

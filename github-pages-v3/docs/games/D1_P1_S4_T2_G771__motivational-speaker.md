@@ -55,7 +55,7 @@ aliases: []
 
 # The Rallying Cry
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Rallying Cry — infographic](img/D1_P1_S4_T2_G771__motivational-speaker.jpg){ .game-hero }
 
 > Unleash bold vocal characterizations to deliver high-energy, absurdly inspiring messages to the group.
 

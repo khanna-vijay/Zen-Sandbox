@@ -63,7 +63,7 @@ aliases: []
 
 # The Undercurrent Dialogue
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Undercurrent Dialogue — infographic](img/D2_P2_S1_T1_G495__the-undercurrent-dialogue.jpg){ .game-hero }
 
 > Discover the hidden depths of connection by changing everything about a sentence except the words.
 

@@ -69,7 +69,7 @@ aliases:
 
 # The Emotional Resonance Dial
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Emotional Resonance Dial — infographic](img/D1_P1_S2_T1_G487__the-resonance-dial.jpg){ .game-hero }
 
 > Instantly scale and shift raw emotions from subtle whispers to explosive physical and vocal peaks.
 

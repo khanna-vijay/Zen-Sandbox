@@ -59,7 +59,7 @@ aliases:
 
 # Good, Bad, Worst Advice
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Good, Bad, Worst Advice — infographic](img/D3_P0_S2_T1_G715__good-bad-worst-advice.jpg){ .game-hero }
 
 > Escalate comedic solutions to an audience member's problem through a structured ladder of absurdity.
 

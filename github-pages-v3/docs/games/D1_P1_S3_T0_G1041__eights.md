@@ -49,7 +49,7 @@ aliases: []
 
 # Infinite Eights
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Infinite Eights — infographic](img/D1_P1_S3_T0_G1041__eights.jpg){ .game-hero }
 
 > Warm up your body and mind by tracing infinity symbols with every limb.
 

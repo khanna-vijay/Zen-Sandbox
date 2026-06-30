@@ -59,7 +59,7 @@ aliases:
 
 # Status Pendulum
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Status Pendulum — infographic](img/D3_P4_S6_T1_G348__the-shifting-sands.jpg){ .game-hero }
 
 > Instantly reverse power dynamics and justify the sudden shift to drive a surprising narrative.
 

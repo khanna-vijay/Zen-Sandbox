@@ -57,7 +57,7 @@ aliases:
 
 # The Alchemist
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Alchemist — infographic](img/D2_P3_S4_T1_G716__good-improviser-bad-improviser.jpg){ .game-hero }
 
 > Transform every block, denial, and difficult choice into a brilliant, justified moment of connection.
 

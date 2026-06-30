@@ -59,7 +59,7 @@ aliases:
 
 # The Engagement Conductor
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Engagement Conductor — infographic](img/D5_P1_S2_T3_G119__the-engagement-conductor.jpg){ .game-hero }
 
 > Steer scene dynamics in real time using direct audience feedback cards and fourth-wall-breaking adjustments.
 

@@ -54,7 +54,7 @@ aliases:
 
 # Message from Ray
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Message from Ray — infographic](img/D3_P2_S6_T1_G977__call-from-ray.jpg){ .game-hero }
 
 > Seamlessly justify a sudden, mandatory external interruption without breaking your scene's established reality.
 

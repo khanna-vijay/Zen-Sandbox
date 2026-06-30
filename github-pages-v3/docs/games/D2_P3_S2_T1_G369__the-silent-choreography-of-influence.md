@@ -65,7 +65,7 @@ aliases: []
 
 # Silent Status Seesaw
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Silent Status Seesaw — infographic](img/D2_P3_S2_T1_G369__the-silent-choreography-of-influence.jpg){ .game-hero }
 
 > Negotiate leadership and status shifts in absolute silence through collaborative, imaginary physical tasks.
 

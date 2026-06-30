@@ -59,7 +59,7 @@ aliases:
 
 # The Living Agreement
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Living Agreement — infographic](img/D2_P1_S6_T1_G143__the-living-contract.jpg){ .game-hero }
 
 > Co-create a dynamic safety roadmap before playing, then navigate boundaries in real-time.
 

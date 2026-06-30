@@ -62,7 +62,7 @@ aliases: []
 
 # The Tri-State Reset
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Tri-State Reset — infographic](img/D1_P4_S1_T2_G362__the-self-calibration-matrix.jpg){ .game-hero }
 
 > Instantly fuse emotion, movement, and voice, then wipe the slate clean on command.
 

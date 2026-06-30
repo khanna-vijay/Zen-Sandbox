@@ -68,7 +68,7 @@ aliases: []
 
 # The Resonance Vessel
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Resonance Vessel — infographic](img/D1_P3_S2_T1_G285__the-resonance-vessel.jpg){ .game-hero }
 
 > Transform abstract concepts into layered physical, vocal, and emotional expressions through progressive somatic exploration.
 

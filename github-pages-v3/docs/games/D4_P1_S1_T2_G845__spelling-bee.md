@@ -58,7 +58,7 @@ aliases: []
 
 # The Neologism Bee
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Neologism Bee — infographic](img/D4_P1_S1_T2_G845__spelling-bee.jpg){ .game-hero }
 
 > Co-create, spell, define, and contextualize a brand-new word, one letter and word at a time.
 

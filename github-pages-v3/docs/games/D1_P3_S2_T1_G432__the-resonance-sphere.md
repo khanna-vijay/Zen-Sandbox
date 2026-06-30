@@ -62,7 +62,7 @@ aliases: []
 
 # The Resonance Chamber
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Resonance Chamber — infographic](img/D1_P3_S2_T1_G432__the-resonance-sphere.jpg){ .game-hero }
 
 > Release narrative and scale raw emotional, physical, and vocal impulses from subtle whispers to full-bodied expression.
 

@@ -59,7 +59,7 @@ aliases: []
 
 # Creature Circle
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Creature Circle — infographic](img/D1_P1_S3_T1_G632__animal-circle.jpg){ .game-hero }
 
 > Transform instantly into physical, vocal characters using spontaneous combinations of adjectives and animals.
 

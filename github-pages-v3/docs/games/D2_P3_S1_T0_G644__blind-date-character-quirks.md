@@ -63,7 +63,7 @@ aliases:
 
 # The Quirky Dating Show
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Quirky Dating Show — infographic](img/D2_P3_S1_T0_G644__blind-date-character-quirks.jpg){ .game-hero }
 
 > A hilarious matchmaking game of active listening, bold character choices, and supportive guessing.
 

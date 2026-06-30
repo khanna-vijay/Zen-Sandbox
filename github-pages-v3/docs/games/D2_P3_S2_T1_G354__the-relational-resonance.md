@@ -68,7 +68,7 @@ aliases: []
 
 # Relational Resonance
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Relational Resonance — infographic](img/D2_P3_S2_T1_G354__the-relational-resonance.jpg){ .game-hero }
 
 > Attune to your partner's shifting status and emotional stance to make their choices look brilliant.
 

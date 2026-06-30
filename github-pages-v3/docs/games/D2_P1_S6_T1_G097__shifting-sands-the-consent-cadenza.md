@@ -59,7 +59,7 @@ aliases:
 
 # Dynamic Calibration
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Dynamic Calibration — infographic](img/D2_P1_S6_T1_G097__shifting-sands-the-consent-cadenza.jpg){ .game-hero }
 
 > Navigate emotional and physical boundaries in real time through structured, active check-ins and adjustments.
 

@@ -46,7 +46,7 @@ aliases: []
 
 # Xylophone
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Xylophone — infographic](img/D1_P2_S1_T0_G901__xylophone.jpg){ .game-hero }
 
 > Tap imaginary keys to release a rapid-fire stream of completely unfiltered, random words.
 

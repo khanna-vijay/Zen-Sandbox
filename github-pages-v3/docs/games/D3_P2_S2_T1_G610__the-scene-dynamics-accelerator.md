@@ -63,7 +63,7 @@ aliases: []
 
 # The Heightening Accelerator
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Heightening Accelerator — infographic](img/D3_P2_S2_T1_G610__the-scene-dynamics-accelerator.jpg){ .game-hero }
 
 > Master the art of deliberate heightening by shifting, magnifying, and raising scene stakes.
 

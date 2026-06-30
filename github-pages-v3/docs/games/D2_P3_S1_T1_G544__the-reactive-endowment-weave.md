@@ -70,7 +70,7 @@ aliases:
 
 # The Resonance Weave
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Resonance Weave — infographic](img/D2_P3_S1_T1_G544__the-reactive-endowment-weave.jpg){ .game-hero }
 
 > Uncover hidden subtext and build deep partner connection through repetitive vocal mirroring and emotional gifting.
 

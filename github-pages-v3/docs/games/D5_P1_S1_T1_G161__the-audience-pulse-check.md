@@ -63,7 +63,7 @@ aliases:
 
 # Audience Pulse Check
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Audience Pulse Check — infographic](img/D5_P1_S1_T1_G161__the-audience-pulse-check.jpg){ .game-hero }
 
 > Freeze mid-scene to read the room, calibrate your energy, and treat the audience as your partner.
 

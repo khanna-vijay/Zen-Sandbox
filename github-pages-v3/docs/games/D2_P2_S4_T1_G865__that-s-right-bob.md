@@ -61,7 +61,7 @@ aliases:
 
 # That's Right, Bob
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![That's Right, Bob — infographic](img/D2_P2_S4_T1_G865__that-s-right-bob.jpg){ .game-hero }
 
 > Pitch an absurd imaginary product by enthusiastically agreeing with and building upon your partner's wild claims.
 

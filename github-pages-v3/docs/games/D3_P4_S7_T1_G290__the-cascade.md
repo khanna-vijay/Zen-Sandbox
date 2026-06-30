@@ -62,7 +62,7 @@ aliases: []
 
 # The Truth Cascade
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Truth Cascade — infographic](img/D3_P4_S7_T1_G290__the-cascade.jpg){ .game-hero }
 
 > Escalate dramatic tension instantly by justifying and integrating sudden, high-stakes narrative truths.
 

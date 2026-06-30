@@ -58,7 +58,7 @@ aliases: []
 
 # Is There Any More?
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Is There Any More? — infographic](img/D3_P0_S2_T1_G744__is-there-any-more.jpg){ .game-hero }
 
 > Amplify a single physical and vocal offer step-by-step through enthusiastic partner encouragement.
 

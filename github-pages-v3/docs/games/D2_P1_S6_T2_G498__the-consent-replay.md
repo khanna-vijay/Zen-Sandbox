@@ -61,7 +61,7 @@ aliases:
 
 # The Consent Replay
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Consent Replay — infographic](img/D2_P1_S6_T2_G498__the-consent-replay.jpg){ .game-hero }
 
 > Replay scenes to transform internal boundary awareness into active, empowering stage communication.
 

@@ -58,7 +58,7 @@ aliases:
 
 # The Boundary Dance
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Boundary Dance — infographic](img/D2_P1_S6_T2_G059__the-boundary-dance-re-entry-resolve.jpg){ .game-hero }
 
 > Practice calling 'Cut,' negotiating adjustments out of character, and seamlessly re-entering the scene with trust.
 

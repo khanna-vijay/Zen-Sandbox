@@ -65,7 +65,7 @@ aliases:
 
 # Streaming Queue
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Streaming Queue — infographic](img/D4_P3_S2_T1_G780__netflix-chill.jpg){ .game-hero }
 
 > Two viewers control the remote while an ensemble physically manifests their chaotic television screen.
 

@@ -60,7 +60,7 @@ aliases: []
 
 # Unwrapping Endowments
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Unwrapping Endowments — infographic](img/D2_P2_S5_T1_G714__giving-a-gift.jpg){ .game-hero }
 
 > Transform simple physical offers into meaningful relationship-building moments through active gifting and playful justification.
 

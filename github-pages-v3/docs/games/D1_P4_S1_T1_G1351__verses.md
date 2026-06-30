@@ -58,7 +58,7 @@ aliases: []
 
 # Self-Rhyming Couplets
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Self-Rhyming Couplets — infographic](img/D1_P4_S1_T1_G1351__verses.jpg){ .game-hero }
 
 > Speak in self-contained rhyming couplets to discover unexpected narrative choices through immediate word association.
 

@@ -58,7 +58,7 @@ aliases: []
 
 # Boundary Crossroads
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Boundary Crossroads — infographic](img/D2_P1_S6_T2_G265__consent-crossroads.jpg){ .game-hero }
 
 > Navigate personal boundaries in real-time by choosing to accept, negotiate, or halt challenging scene offers.
 
