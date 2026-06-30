@@ -89,8 +89,8 @@
 /* ── Games List: modern faceted filter ── */
 /* Widen the content column ~50% on the Games page so filter chips fit on fewer lines. */
 .md-main:has(#games-results) .md-grid { max-width: 92rem; }
-.gf { display: flex; flex-direction: column; gap: .7rem; margin: 1rem 0 1.3rem;
-  padding: .9rem 1rem; border: 1px solid var(--md-default-fg-color--lightest);
+.gf { position: relative; display: flex; flex-direction: column; gap: .7rem; margin: 1rem 0 1.3rem;
+  padding: 2.1rem 1rem .9rem; border: 1px solid var(--md-default-fg-color--lightest);
   border-radius: .8rem; background: var(--md-default-fg-color--lightest); }
 .gf-search { display: flex; align-items: center; gap: .5rem; }
 .gf-search label, .gf-name, .gf-selects label { font-weight: 700; font-size: .72rem;
@@ -113,10 +113,10 @@
 .gf-chip.zero { opacity: .3; }
 .gf-chip.zero:hover { transform: none; border-color: var(--md-default-fg-color--lighter);
   color: var(--md-default-fg-color--light); }
-/* Long facets (Principle / Skill / Technique): scrollable chip well */
+/* Long facets (Principle / Skill / Technique): show all chips, no inner scroll */
 .gf-long { align-items: flex-start; }
 .gf-long .gf-name { padding-top: .35rem; }
-.gf-long .gf-chips { max-height: 7.4rem; overflow-y: auto; align-content: flex-start;
+.gf-long .gf-chips { align-content: flex-start;
   flex: 1 1 auto; padding: .1rem .35rem .1rem 0; }
 .gf-selects { display: flex; flex-wrap: wrap; gap: .7rem; }
 .gf-selects label { display: inline-flex; align-items: center; gap: .4rem; }
@@ -124,8 +124,9 @@
   border: 1px solid var(--md-default-fg-color--lighter); border-radius: .5rem;
   background: var(--md-default-bg-color); color: var(--md-default-fg-color); }
 .gf-foot { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: .6rem; }
-.gf-count { font-size: .85rem; color: var(--md-default-fg-color--light); }
-.gf-count strong { font-size: 1.25rem; color: var(--md-primary-fg-color); }
+.gf-count { position: absolute; top: .65rem; right: 1rem; font-size: .9rem;
+  color: var(--md-default-fg-color--light); }
+.gf-count strong { font-size: 1.2rem; color: var(--md-primary-fg-color); }
 .gf-foot button { cursor: pointer; font-size: .74rem; padding: .35rem .8rem; border-radius: .5rem;
   border: 1px solid var(--md-default-fg-color--lighter); background: var(--md-default-bg-color);
   color: var(--md-default-fg-color--light); transition: border-color .15s, color .15s; }
@@ -196,11 +197,12 @@
 .game-pn .gpn-k { font-size: .72rem; color: var(--md-default-fg-color--light); text-transform: uppercase; letter-spacing: .04em; }
 .game-pn .gpn-t { font-weight: 600; color: var(--md-primary-fg-color); }
 
-/* Game infographic thumbnails on the Games category index pages. */
+/* Game infographics on the Games category index pages — large, spread across the page. */
+.md-main:has(.cat-game-img) .md-grid { max-width: 92rem; }   /* widen the column on these pages */
 .md-typeset img.cat-game-img {
-  display: block; max-width: 360px; width: 100%;
+  display: block; max-width: 900px; width: 100%;             /* ~2.5x the old thumbnail */
   border-radius: .6rem; box-shadow: 0 4px 16px rgba(0, 0, 0, .12);
-  margin: .4rem 0 .2rem; cursor: zoom-in;
+  margin: .5rem 0 .3rem; cursor: zoom-in;
 }
 
 /* ===================================================================== */

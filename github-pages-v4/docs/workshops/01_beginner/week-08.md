@@ -39,8 +39,6 @@ title: "W08 · Yes, And — Accept & Add"
 
 > Pass an imaginary blade across the circle with high-stakes focus and synchronized claps.
 
-![Knife Throwing — infographic](../../games/img/D2_P3_S4_T0_G752__knife-throwing.jpg){ .infographic }
-
 `Players 5+` · `~5 min` · `Complexity 1/5` · `Energy high` · `Props: none`
 
 **Trains:** Offer Reception · _connection_
@@ -60,8 +58,6 @@ title: "W08 · Yes, And — Accept & Add"
 #### Core game — Echo and Expand
 
 > Listen closely, repeat your partner's exact words, and add the next logical step.
-
-![Echo and Expand — infographic](../../games/img/D2_P2_S4_T1_G817__repeat-and-add.jpg){ .infographic }
 
 `Players 2+` · `~5 min` · `Complexity 1/5` · `Energy medium` · `Props: none`
 

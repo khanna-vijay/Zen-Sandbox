@@ -38,8 +38,6 @@ title: "W14 · Armando, Montage & Longform"
 
 > Deconstruct and physically map complex longform structures to align your ensemble's collective stage mind.
 
-![The Ensemble Blueprint Assembly — infographic](../../games/img/D4_P3_S6_T4_G157__the-ensemble-blueprint-assembly.jpg){ .infographic }
-
 `Players 3+` · `~75 min` · `Complexity 4/5` · `Energy medium` · `Props: required`
 
 **Trains:** Format Literacy · _skill drill_

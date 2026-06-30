@@ -39,8 +39,6 @@ title: "W02 · Emotion with Logic"
 
 > Channel shifting emotional currents into physical tasks to build somatic vulnerability and fluid expression.
 
-![Internal Weather System — infographic](../../games/img/D1_P3_S2_T1_G020__the-internal-weather-system.jpg){ .infographic }
-
 `Players 5–7` · `~15 min` · `Complexity 3/5` · `Energy medium` · `Props: none`
 
 **Trains:** Emotional Fluidity · _skill drill_
@@ -61,8 +59,6 @@ title: "W02 · Emotion with Logic"
 #### Core game — The Somatic Blueprint
 
 > Consciously scan, sculpt, and scale your internal emotional landscape before passing it to a partner.
-
-![The Somatic Blueprint — infographic](../../games/img/D1_P3_S2_T1_G035__the-somatic-architect-internal-blueprint.jpg){ .infographic }
 
 `Players 6–12` · `~15 min` · `Complexity 3/5` · `Energy medium` · `Props: none`
 

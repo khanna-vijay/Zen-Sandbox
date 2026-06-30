@@ -41,8 +41,6 @@ title: "W08 · Engine-Switching Mid-Scene"
 
 > Weave sudden, disruptive narrative tilts into the structural foundation of an evolving, cohesive story.
 
-![The Catalyst Collider — infographic](../../games/img/D3_P4_S3_T2_G132__the-catalyst-collider.jpg){ .infographic }
-
 `Players 4+` · `~10 min` · `Complexity 4/5` · `Energy medium` · `Props: required`
 
 **Trains:** Narrative Architecture · _narrative_
@@ -63,8 +61,6 @@ title: "W08 · Engine-Switching Mid-Scene"
 #### Core game — The Narrative Loom
 
 > Co-create dynamic stories by balancing predetermined plot milestones with sudden, player-driven character revelations.
-
-![The Narrative Loom — infographic](../../games/img/D3_P4_S3_T1_G051__narrative-weave.jpg){ .infographic }
 
 `Players 3+` · `~20 min` · `Complexity 4/5` · `Energy medium` · `Props: required`
 

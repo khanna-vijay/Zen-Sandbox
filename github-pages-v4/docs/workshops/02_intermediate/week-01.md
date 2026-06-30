@@ -44,8 +44,6 @@ title: "W01 · Re-entry & the Safety Recommit"
 
 > Instantly shed and adopt complex physical, vocal, and emotional states at a conductor's command.
 
-![The Impulse Crucible — infographic](../../games/img/D1_P1_S1_T2_G110__the-shifting-persona-crucible.jpg){ .infographic }
-
 `Players 4–8` · `~10 min` · `Complexity 3/5` · `Energy high` · `Props: none`
 
 **Trains:** Unfiltered Spontaneity · _skill drill_
@@ -66,8 +64,6 @@ title: "W01 · Re-entry & the Safety Recommit"
 #### Core game — Impulse Alchemy
 
 > Transform raw physical impulses into dynamic characters and spontaneous scenes guided by a steady beat.
-
-![Impulse Alchemy — infographic](../../games/img/D1_P4_S1_T2_G022__impulse-alchemist-sensing-forming-shifting-internal-states.jpg){ .infographic }
 
 `Players 4–10` · `~15 min` · `Complexity 3/5` · `Energy medium` · `Props: required`
 

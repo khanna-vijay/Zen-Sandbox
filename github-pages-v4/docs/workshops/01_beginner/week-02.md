@@ -43,8 +43,6 @@ title: "W02 · The First Thought Is a Gift"
 
 > Unleash maximum commitment by executing highly specific, award-worthy cinematic highlights within a collaborative scene.
 
-![Award-Winning Moments — infographic](../../games/img/D1_P1_S1_T0_G791__oscar-winning-moment.jpg){ .infographic }
-
 `Players 2–5` · `~5 min` · `Complexity 2/5` · `Energy high` · `Props: none`
 
 **Trains:** Unfiltered Spontaneity · _comedy game_
@@ -64,8 +62,6 @@ title: "W02 · The First Thought Is a Gift"
 #### Core game — Eight Rapid Things
 
 > Shout out eight rapid-fire answers to a random category while your team enthusiastically counts along.
-
-![Eight Rapid Things — infographic](../../games/img/D1_P4_S1_T2_G624__8-things.jpg){ .infographic }
 
 `Players 4+` · `~10 min` · `Complexity 1/5` · `Energy high` · `Props: none`
 
@@ -87,8 +83,6 @@ title: "W02 · The First Thought Is a Gift"
 #### Core game — Category Chase
 
 > Bypass your inner editor by shouting out category words to escape being tagged.
-
-![Category Chase — infographic](../../games/img/D1_P4_S1_T1_G652__category-tag.jpg){ .infographic }
 
 `Players 5+` · `~10 min` · `Complexity 1/5` · `Energy high` · `Props: none`
 

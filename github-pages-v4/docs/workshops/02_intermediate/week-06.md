@@ -39,8 +39,6 @@ title: "W06 · Gifting that Serves"
 
 > Elevate your partner to legendary status through relentless, reciprocal gifting and physical attunement.
 
-![The Partner's Pedestal — infographic](../../games/img/D2_P3_S5_T1_G179__the-partner-s-pedestal.jpg){ .infographic }
-
 `Players 2+` · `~10 min` · `Complexity 3/5` · `Energy medium` · `Props: none`
 
 **Trains:** Active Gifting · _connection_
@@ -63,8 +61,6 @@ title: "W06 · Gifting that Serves"
 #### Core game — The Status Alchemist
 
 > Elevate your partner's status through silent projection, generative repetition, and deep physical embodiment.
-
-![The Status Alchemist — infographic](../../games/img/D2_P3_S5_T1_G032__the-alchemist-s-mirror.jpg){ .infographic }
 
 `Players 2+` · `~15 min` · `Complexity 3/5` · `Energy medium` · `Props: none`
 

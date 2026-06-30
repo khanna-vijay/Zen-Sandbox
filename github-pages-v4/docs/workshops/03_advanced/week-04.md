@@ -39,8 +39,6 @@ title: "W04 · Invisible Status"
 
 > Master status, emotion, and narrative progression simultaneously in this high-focus, multi-layered partner drill.
 
-![Status Weave — infographic](../../games/img/D2_P2_S2_T1_G459__the-status-weave.jpg){ .infographic }
-
 `Players 2+` · `~8 min` · `Complexity 4/5` · `Energy medium` · `Props: none`
 
 **Trains:** Status Modulation · _skill drill_
@@ -61,8 +59,6 @@ title: "W04 · Invisible Status"
 #### Core game — Status Architects
 
 > Master the invisible levers of status through silent physical offers and immediate, complementary embodiment.
-
-![Status Architects — infographic](../../games/img/D2_P3_S2_T1_G024__resonance-weave-status-cadence.jpg){ .infographic }
 
 `Players 2+` · `~30 min` · `Complexity 3/5` · `Energy medium` · `Props: required`
 

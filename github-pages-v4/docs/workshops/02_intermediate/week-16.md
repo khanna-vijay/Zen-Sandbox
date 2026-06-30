@@ -39,8 +39,6 @@ title: "W16 · Editing on Time"
 
 > Shape and shift the stage's heartbeat through collective, non-verbal transitions and contrasting emotional tempos.
 
-![Rhythmic Resonance — infographic](../../games/img/D4_P1_S4_T1_G288__rhythm-resonance.jpg){ .infographic }
-
 `Players 4–8` · `~7 min` · `Complexity 3/5` · `Energy medium` · `Props: none`
 
 **Trains:** Pacing & Rhythm · _connection_
@@ -60,8 +58,6 @@ title: "W16 · Editing on Time"
 #### Core game — Resonance Bridges
 
 > Unify your ensemble by channeling the final energy of one scene into the next.
-
-![Resonance Bridges — infographic](../../games/img/D4_P1_S4_T1_G196__kinetic-transitions.jpg){ .infographic }
 
 `Players 4–8` · `~20 min` · `Complexity 3/5` · `Energy medium` · `Props: none`
 

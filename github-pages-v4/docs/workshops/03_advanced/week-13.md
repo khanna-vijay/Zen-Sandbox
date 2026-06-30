@@ -41,8 +41,6 @@ title: "W13 · The Harold"
 
 > Instantly pivot between diverse long-form structures to build hyper-adaptive ensemble cohesion and structural agility.
 
-![Modular Format Juggling — infographic](../../games/img/D4_P1_S6_T4_G057__modular-form-juggling.jpg){ .infographic }
-
 `Players 4–8` · `~20 min` · `Complexity 4/5` · `Energy high` · `Props: none`
 
 **Trains:** Format Literacy · _skill drill_

@@ -47,8 +47,6 @@ title: "W16 · Putting It Together — Showcase"
 
 > A rapid-fire passing game where your last need becomes the next player's first inspiration.
 
-![I Need A... — infographic](../../games/img/D1_P4_S1_T2_G734__i-need-a.jpg){ .infographic }
-
 `Players 5+` · `~5 min` · `Complexity 1/5` · `Energy high` · `Props: none`
 
 **Trains:** Unfiltered Spontaneity · _skill drill_
@@ -69,8 +67,6 @@ title: "W16 · Putting It Together — Showcase"
 
 > Co-create a wild, fictional memory with your partner using the ultimate rule of agreement.
 
-![Shared Adventure — infographic](../../games/img/D2_P2_S4_T1_G835__shared-holiday.jpg){ .infographic }
-
 `Players 2+` · `~5 min` · `Complexity 1/5` · `Energy medium` · `Props: none`
 
 **Trains:** Offer Reception · _connection_
@@ -90,8 +86,6 @@ title: "W16 · Putting It Together — Showcase"
 #### Core game — Agreement Anchors
 
 > Establish a rock-solid base reality by aligning instantly on a single shared element of the scene.
-
-![Agreement Anchors — infographic](../../games/img/D3_P2_S5_T1_G629__agreement-scenes.jpg){ .infographic }
 
 `Players 2+` · `~15 min` · `Complexity 2/5` · `Energy medium` · `Props: none`
 

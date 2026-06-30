@@ -39,8 +39,6 @@ title: "W05 · The Status Seesaw"
 
 > Master the silent levers of relational power by gifting and receiving status through physical subtext.
 
-![Status Architects — infographic](../../games/img/D2_P3_S2_T1_G021__the-subtext-subwoofer.jpg){ .infographic }
-
 `Players 2+` · `~20 min` · `Complexity 3/5` · `Energy medium` · `Props: required`
 
 **Trains:** Status Modulation · _skill drill_
@@ -61,8 +59,6 @@ title: "W05 · The Status Seesaw"
 #### Core game — Status Architects
 
 > Master the silent shifts of power and elevate your partner through physical status modulation.
-
-![Status Architects — infographic](../../games/img/D2_P3_S2_T1_G010__the-ascendant-architects.jpg){ .infographic }
 
 `Players 2+` · `~30 min` · `Complexity 3/5` · `Energy medium` · `Props: required`
 

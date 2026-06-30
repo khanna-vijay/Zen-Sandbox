@@ -41,8 +41,6 @@ title: "W03 · The Shared Mind"
 
 > Secretly engineer the perfect conditions for your partner to shine in a specific, brilliant way.
 
-![Architect of Genius — infographic](../../games/img/D2_P3_S5_T1_G294__the-architect-s-canvas.jpg){ .infographic }
-
 `Players 6–12` · `~25 min` · `Complexity 4/5` · `Energy medium` · `Props: required`
 
 **Trains:** Active Gifting · _connection_
@@ -63,8 +61,6 @@ title: "W03 · The Shared Mind"
 #### Core game — The Symbiotic Pulse
 
 > Tune into your partner's unspoken shifts to co-create a deep, subtextual relationship.
-
-![The Symbiotic Pulse — infographic](../../games/img/D2_P3_S1_T1_G006__the-symbiotic-pulse.jpg){ .infographic }
 
 `Players 2+` · `~10 min` · `Complexity 4/5` · `Energy low` · `Props: none`
 
