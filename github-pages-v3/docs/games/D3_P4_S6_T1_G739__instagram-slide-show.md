@@ -64,7 +64,7 @@ aliases:
 
 # Instant Travelogue
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Instant Travelogue — infographic](img/D3_P4_S6_T1_G739__instagram-slide-show.jpg){ .game-hero }
 
 > Present a hilarious vacation slideshow using random, real-time images as your unexpected holiday photos.
 

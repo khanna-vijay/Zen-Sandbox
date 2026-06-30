@@ -62,7 +62,7 @@ aliases:
 
 # Pattern Escalator
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Pattern Escalator — infographic](img/D3_P0_S2_T1_G1227__patterns.jpg){ .game-hero }
 
 > Climb a collaborative ladder of ideas by incrementally heightening the scale and intensity of each word.
 

@@ -59,7 +59,7 @@ aliases:
 
 # The Director's Cut
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Director's Cut — infographic](img/D4_P3_S6_T4_G1064__feature-film.jpg){ .game-hero }
 
 > Direct, perform, and edit a cinematic masterpiece live on stage using meta-narrative control.
 

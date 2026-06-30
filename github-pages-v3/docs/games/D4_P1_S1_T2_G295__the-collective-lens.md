@@ -62,7 +62,7 @@ aliases: []
 
 # The Collective Lens
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Collective Lens — infographic](img/D4_P1_S1_T2_G295__the-collective-lens.jpg){ .game-hero }
 
 > Embody a single, fluid consciousness to collectively observe, interpret, and narrate a single object.
 

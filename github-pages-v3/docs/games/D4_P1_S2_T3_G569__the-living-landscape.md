@@ -64,7 +64,7 @@ aliases: []
 
 # Ecosystem
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Ecosystem — infographic](img/D4_P1_S2_T3_G569__the-living-landscape.jpg){ .game-hero }
 
 > Embody a shifting environment collectively through non-verbal sound and movement to build deep ensemble connection.
 

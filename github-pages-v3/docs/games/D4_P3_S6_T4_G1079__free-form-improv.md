@@ -59,7 +59,7 @@ aliases:
 
 # The Open Canvas
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Open Canvas — infographic](img/D4_P3_S6_T4_G1079__free-form-improv.jpg){ .game-hero }
 
 > Navigate a seamless, self-directed longform set using only organic edits and collective intuition.
 

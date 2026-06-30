@@ -62,7 +62,7 @@ aliases: []
 
 # Architect of Genius
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Architect of Genius — infographic](img/D2_P3_S5_T1_G294__the-architect-s-canvas.jpg){ .game-hero }
 
 > Secretly engineer the perfect conditions for your partner to shine in a specific, brilliant way.
 

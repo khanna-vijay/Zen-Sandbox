@@ -71,7 +71,7 @@ aliases:
 
 # Impulse Cascade
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Impulse Cascade — infographic](img/D1_P4_S1_T2_G566__impulse-cascade.jpg){ .game-hero }
 
 > Bypass the analytical mind with a rapid-fire chain reaction of physical and vocal impulses.
 

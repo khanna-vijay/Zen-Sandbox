@@ -61,7 +61,7 @@ aliases: []
 
 # The Rename Relay
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Rename Relay — infographic](img/D2_P2_S4_T1_G437__the-narrative-current.jpg){ .game-hero }
 
 > Weave a seamless virtual story by dynamically renaming yourself to introduce new narrative elements.
 

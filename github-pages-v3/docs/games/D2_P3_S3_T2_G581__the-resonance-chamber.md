@@ -69,7 +69,7 @@ aliases:
 
 # Resonant Echoes
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Resonant Echoes — infographic](img/D2_P3_S3_T2_G581__the-resonance-chamber.jpg){ .game-hero }
 
 > Deepen partner connection by physically absorbing their emotional and status offers before responding.
 

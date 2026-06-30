@@ -59,7 +59,7 @@ aliases: []
 
 # The Invisible Labyrinth
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Invisible Labyrinth — infographic](img/D2_P1_S6_T3_G359__the-invisible-labyrinth-a-trust-negotiation.jpg){ .game-hero }
 
 > Navigate an unseen maze of personal boundaries through explicit, step-by-step consent and active negotiation.
 

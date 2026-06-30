@@ -61,7 +61,7 @@ aliases:
 
 # Day in the Life
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Day in the Life — infographic](img/D3_P4_S3_T1_G1012__day-in-the-life.jpg){ .game-hero }
 
 > Transform an audience member's daily routine into an extraordinary, narrative-driven theatrical journey.
 

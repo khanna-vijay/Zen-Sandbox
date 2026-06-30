@@ -57,7 +57,7 @@ aliases: []
 
 # Word Ball
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Word Ball — infographic](img/D1_P4_S1_T1_G1375__word-ball.jpg){ .game-hero }
 
 > Pass a rapid-fire chain of instant word associations across a circle of active listeners.
 

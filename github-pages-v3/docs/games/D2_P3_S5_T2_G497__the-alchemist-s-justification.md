@@ -64,7 +64,7 @@ aliases:
 
 # Retroactive Brilliance
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Retroactive Brilliance — infographic](img/D2_P3_S5_T2_G497__the-alchemist-s-justification.jpg){ .game-hero }
 
 > Transform your partner's baffling choices into strokes of absolute, intentional genius.
 

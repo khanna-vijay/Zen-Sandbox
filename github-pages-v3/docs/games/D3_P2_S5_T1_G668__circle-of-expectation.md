@@ -61,7 +61,7 @@ aliases:
 
 # The Expectation Circle
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Expectation Circle — infographic](img/D3_P2_S5_T1_G668__circle-of-expectation.jpg){ .game-hero }
 
 > Narrow down a scene's world by choosing the most obvious, logical next detail together.
 

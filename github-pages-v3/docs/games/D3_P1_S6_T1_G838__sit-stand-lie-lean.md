@@ -61,7 +61,7 @@ aliases:
 
 # Sit, Stand, Lie, Lean
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Sit, Stand, Lie, Lean — infographic](img/D3_P1_S6_T1_G838__sit-stand-lie-lean.jpg){ .game-hero }
 
 > A physical constraint game where players must constantly justify their changing postures in a scene.
 

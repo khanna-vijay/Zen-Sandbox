@@ -69,7 +69,7 @@ aliases: []
 
 # Resonance and Shift
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Resonance and Shift — infographic](img/D1_P4_S1_T2_G439__the-primal-pulse.jpg){ .game-hero }
 
 > Bypass the inner editor through rapid-fire physical, vocal, and emotional transformation.
 

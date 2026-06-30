@@ -57,7 +57,7 @@ aliases:
 
 # The Story Spine
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Story Spine — infographic](img/D3_P4_S3_T1_G1301__story-spine.jpg){ .game-hero }
 
 > Build cohesive, satisfying narratives using a simple, sequential structural framework.
 

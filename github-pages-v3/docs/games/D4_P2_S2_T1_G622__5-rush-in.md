@@ -60,7 +60,7 @@ aliases: []
 
 # Instant Support Rush
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Instant Support Rush — infographic](img/D4_P2_S2_T1_G622__5-rush-in.jpg){ .game-hero }
 
 > Flood the stage with immediate, enthusiastic physical and verbal agreement to back up any initiation.
 

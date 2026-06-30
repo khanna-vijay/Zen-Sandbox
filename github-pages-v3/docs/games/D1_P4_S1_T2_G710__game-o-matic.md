@@ -58,7 +58,7 @@ aliases: []
 
 # Instant Game Engine
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Instant Game Engine — infographic](img/D1_P4_S1_T2_G710__game-o-matic.jpg){ .game-hero }
 
 > Pitch, invent, and instantly perform a brand-new improv game based on audience initials.
 

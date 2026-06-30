@@ -54,7 +54,7 @@ aliases: []
 
 # Granular Week
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Granular Week — infographic](img/D2_P3_S1_T0_G882__week-in-detail.jpg){ .game-hero }
 
 > Share the tiniest details of your week and watch your partner recall them all.
 

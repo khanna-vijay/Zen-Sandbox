@@ -60,7 +60,7 @@ aliases: []
 
 # The Imaginary Sphere
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Imaginary Sphere — infographic](img/D1_P1_S3_T3_G1224__pass-ball.jpg){ .game-hero }
 
 > Pass an invisible ball that constantly shifts in weight, size, and physical resistance.
 

@@ -54,7 +54,7 @@ aliases: []
 
 # Somatic Echo
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Somatic Echo — infographic](img/D2_P3_S3_T1_G1328__the-magnet.jpg){ .game-hero }
 
 > Replicate your partner's physical pose using only touch and spatial awareness with eyes closed.
 

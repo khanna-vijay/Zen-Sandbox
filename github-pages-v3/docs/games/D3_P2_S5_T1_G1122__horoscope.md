@@ -60,7 +60,7 @@ aliases: []
 
 # Cosmic Forecast
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Cosmic Forecast — infographic](img/D3_P2_S5_T1_G1122__horoscope.jpg){ .game-hero }
 
 > Transform abstract astrological predictions into a grounded, character-driven scene using C.R.O.W. principles.
 

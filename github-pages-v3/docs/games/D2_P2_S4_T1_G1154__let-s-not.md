@@ -56,7 +56,7 @@ aliases: []
 
 # Let's Not
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Let's Not — infographic](img/D2_P2_S4_T1_G1154__let-s-not.jpg){ .game-hero }
 
 > Build narrative agility by embracing instant, constructive rejection and enthusiastic physical commitment.
 

@@ -60,7 +60,7 @@ aliases:
 
 # The Blind Harold
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Blind Harold — infographic](img/D4_P1_S6_T1_G962__blind-harold.jpg){ .game-hero }
 
 > Navigate a complete three-act long-form structure using only sound, voice, and deep ensemble listening.
 

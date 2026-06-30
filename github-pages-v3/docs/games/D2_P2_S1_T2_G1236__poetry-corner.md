@@ -62,7 +62,7 @@ aliases: []
 
 # Poetry Corner
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Poetry Corner — infographic](img/D2_P2_S1_T2_G1236__poetry-corner.jpg){ .game-hero }
 
 > Co-create spontaneous poetry where your partner's final word becomes your very first step.
 

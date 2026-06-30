@@ -53,7 +53,7 @@ aliases: []
 
 # Rhythm Slap
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Rhythm Slap — infographic](img/D4_P1_S4_T2_G1110__hand-slap.jpg){ .game-hero }
 
 > A fast-paced circle game of physical coordination, rhythm, and shared group awareness.
 

@@ -71,7 +71,7 @@ aliases: []
 
 # The Emergent Landscape
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Emergent Landscape — infographic](img/D4_P1_S1_T2_G140__the-emergent-landscape.jpg){ .game-hero }
 
 > Transform a shared physical and sonic atmosphere into a seamless, organically discovered narrative.
 

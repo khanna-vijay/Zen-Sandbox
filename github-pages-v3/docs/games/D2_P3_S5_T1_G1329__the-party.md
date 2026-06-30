@@ -62,7 +62,7 @@ aliases:
 
 # The Guest List
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Guest List — infographic](img/D2_P3_S5_T1_G1329__the-party.jpg){ .game-hero }
 
 > Help your host look brilliant by gifting clues through physical and verbal character choices.
 

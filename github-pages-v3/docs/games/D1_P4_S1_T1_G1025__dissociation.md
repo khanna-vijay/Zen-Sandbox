@@ -52,7 +52,7 @@ aliases: []
 
 # Dissociation Drill
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Dissociation Drill — infographic](img/D1_P4_S1_T1_G1025__dissociation.jpg){ .game-hero }
 
 > Train unfiltered spontaneity by trying—and joyfully failing—to speak completely unrelated words.
 

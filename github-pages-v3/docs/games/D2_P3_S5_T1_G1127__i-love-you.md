@@ -61,7 +61,7 @@ aliases: []
 
 # The Adoration Duet
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Adoration Duet — infographic](img/D2_P3_S5_T1_G1127__i-love-you.jpg){ .game-hero }
 
 > A structured musical exercise in showering your partner with specific, elevating compliments.
 

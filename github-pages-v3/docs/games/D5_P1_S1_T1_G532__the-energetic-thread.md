@@ -65,7 +65,7 @@ aliases:
 
 # The Invisible Tether
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Invisible Tether — infographic](img/D5_P1_S1_T1_G532__the-energetic-thread.jpg){ .game-hero }
 
 > Maintain a magnetic connection with your audience through subtle, in-character physical and vocal adjustments.
 

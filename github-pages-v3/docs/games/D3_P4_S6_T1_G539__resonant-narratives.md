@@ -65,7 +65,7 @@ aliases:
 
 # Acoustic Architecture
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Acoustic Architecture — infographic](img/D3_P4_S6_T1_G539__resonant-narratives.jpg){ .game-hero }
 
 > Build a compelling narrative world driven entirely by a continuous, evolving, abstract soundscape.
 

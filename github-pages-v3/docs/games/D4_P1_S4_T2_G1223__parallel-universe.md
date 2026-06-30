@@ -63,7 +63,7 @@ aliases:
 
 # Simultaneous Worlds
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Simultaneous Worlds — infographic](img/D4_P1_S4_T2_G1223__parallel-universe.jpg){ .game-hero }
 
 > Two distinct scenes share the same stage space, weaving together through rhythm and timing.
 

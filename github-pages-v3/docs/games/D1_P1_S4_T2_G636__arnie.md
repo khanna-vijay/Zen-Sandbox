@@ -55,7 +55,7 @@ aliases: []
 
 # Arnie's Cinema
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Arnie's Cinema — infographic](img/D1_P1_S4_T2_G636__arnie.jpg){ .game-hero }
 
 > Recreate iconic films where every single character is played by the same bombastic action hero.
 

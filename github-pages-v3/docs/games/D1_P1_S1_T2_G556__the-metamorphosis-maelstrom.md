@@ -68,7 +68,7 @@ aliases: []
 
 # Metamorphosis Maelstrom
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Metamorphosis Maelstrom — infographic](img/D1_P1_S1_T2_G556__the-metamorphosis-maelstrom.jpg){ .game-hero }
 
 > Surrender control and transform instantly through a rapid-fire barrage of physical, vocal, and emotional prompts.
 

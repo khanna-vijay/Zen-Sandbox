@@ -58,7 +58,7 @@ aliases: []
 
 # The Monoscene
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Monoscene — infographic](img/D4_P3_S6_T4_G1184__monoscene.jpg){ .game-hero }
 
 > One room, one continuous block of time, and an entire world of unfolding relationships.
 

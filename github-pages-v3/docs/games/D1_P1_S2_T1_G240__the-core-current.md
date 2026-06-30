@@ -63,7 +63,7 @@ aliases:
 
 # The Core Current
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Core Current — infographic](img/D1_P1_S2_T1_G240__the-core-current.jpg){ .game-hero }
 
 > Instantly embody a raw state and fluidly modulate its intensity from a whisper to a roar.
 

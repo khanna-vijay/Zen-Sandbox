@@ -55,7 +55,7 @@ aliases: []
 
 # Establishing the Ordinary
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Establishing the Ordinary — infographic](img/D3_P2_S1_T1_G790__ordinary-scene-until-ridiculous.jpg){ .game-hero }
 
 > Build a rock-solid base reality until the first unusual thing naturally reveals itself.
 

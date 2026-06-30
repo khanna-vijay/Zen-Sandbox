@@ -67,7 +67,7 @@ aliases:
 
 # The Resonance Weave
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Resonance Weave — infographic](img/D4_P1_S3_T1_G582__the-resonance-weave.jpg){ .game-hero }
 
 > Weave an abstract, non-narrative tapestry of sound, movement, and emotion from a single evocative seed.
 

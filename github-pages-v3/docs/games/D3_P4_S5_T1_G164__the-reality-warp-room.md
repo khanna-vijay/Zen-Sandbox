@@ -68,7 +68,7 @@ aliases:
 
 # The Backdrop Shift
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Backdrop Shift — infographic](img/D3_P4_S5_T1_G164__the-reality-warp-room.jpg){ .game-hero }
 
 > Build an evolving narrative by rapidly shifting your virtual background, character name, and story contribution.
 

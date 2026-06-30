@@ -67,7 +67,7 @@ aliases:
 
 # Three-Part Picture
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Three-Part Picture — infographic](img/D4_P1_S1_T1_G736__i-m-a-piece-of-cheese.jpg){ .game-hero }
 
 > Build a living, three-part stage picture by adding the most obvious, supportive physical offers.
 

@@ -59,7 +59,7 @@ aliases: []
 
 # Deep Sea Currents
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Deep Sea Currents — infographic](img/D4_P2_S1_T2_G680__creatures-of-the-deep.jpg){ .game-hero }
 
 > Pass physical, morphing creature movements around a circle to build collective focus and physical empathy.
 

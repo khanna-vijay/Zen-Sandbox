@@ -61,7 +61,7 @@ aliases: []
 
 # Shared Monologue
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Shared Monologue — infographic](img/D4_P2_S2_T2_G996__communal-monologue.jpg){ .game-hero }
 
 > Speak with one voice by seamlessly stepping in to continue a single, unfolding story.
 

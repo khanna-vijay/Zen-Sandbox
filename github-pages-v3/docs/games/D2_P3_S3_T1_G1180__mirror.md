@@ -60,7 +60,7 @@ aliases:
 
 # The Mirror Exercise
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Mirror Exercise — infographic](img/D2_P3_S3_T1_G1180__mirror.jpg){ .game-hero }
 
 > Move in perfect unison with your partner to dissolve the boundary between leader and follower.
 

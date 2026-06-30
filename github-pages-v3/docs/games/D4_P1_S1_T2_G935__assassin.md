@@ -55,7 +55,7 @@ aliases: []
 
 # Shield and Assassin
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Shield and Assassin — infographic](img/D4_P1_S1_T2_G935__assassin.jpg){ .game-hero }
 
 > Keep your chosen protector positioned directly between you and your secret pursuer at all times.
 

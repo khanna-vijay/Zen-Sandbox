@@ -62,7 +62,7 @@ aliases:
 
 # Boundary Zones
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Boundary Zones — infographic](img/D2_P1_S6_T1_G125__navigating-the-zones.jpg){ .game-hero }
 
 > Navigate physical and emotional proximity through active, real-time verbal check-ins and dynamic boundary setting.
 

@@ -60,7 +60,7 @@ aliases: []
 
 # The Persona Chronicle
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Persona Chronicle — infographic](img/D2_P2_S4_T1_G098__the-echo-chamber-chronicle.jpg){ .game-hero }
 
 > Build an evolving virtual story one sentence—and one brand-new character—at a time.
 

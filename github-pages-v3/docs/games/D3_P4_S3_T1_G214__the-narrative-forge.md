@@ -61,7 +61,7 @@ aliases: []
 
 # The Narrative Architect
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Narrative Architect — infographic](img/D3_P4_S3_T1_G214__the-narrative-forge.jpg){ .game-hero }
 
 > An off-screen director steers a virtual scene by injecting real-time structural plot points.
 

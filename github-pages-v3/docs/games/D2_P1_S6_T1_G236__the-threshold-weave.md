@@ -64,7 +64,7 @@ aliases:
 
 # Hidden Thresholds
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Hidden Thresholds — infographic](img/D2_P1_S6_T1_G236__the-threshold-weave.jpg){ .game-hero }
 
 > Navigate secret personal and character boundaries in-scene to prioritize truth over automatic agreement.
 

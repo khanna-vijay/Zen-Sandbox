@@ -56,7 +56,7 @@ aliases: []
 
 # Whisky Mixer
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Whisky Mixer — infographic](img/D1_P2_S6_T2_G888__whisky-mixer.jpg){ .game-hero }
 
 > A high-energy tongue-twister circle game where verbal slip-ups are celebrated and styled out with confidence.
 

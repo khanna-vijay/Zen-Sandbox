@@ -62,7 +62,7 @@ aliases: []
 
 # The Fourth Wall Conductor
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Fourth Wall Conductor — infographic](img/D5_P1_S2_T3_G213__the-fourth-wall-conductor.jpg){ .game-hero }
 
 > Master the boundary between stage and audience through real-time, conducted shifts in performance focus.
 

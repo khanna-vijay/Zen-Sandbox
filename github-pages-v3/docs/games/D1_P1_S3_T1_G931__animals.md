@@ -60,7 +60,7 @@ aliases: []
 
 # Creature Pairs
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Creature Pairs — infographic](img/D1_P1_S3_T1_G931__animals.jpg){ .game-hero }
 
 > Discover your secret animal match through total physical commitment and non-verbal connection.
 

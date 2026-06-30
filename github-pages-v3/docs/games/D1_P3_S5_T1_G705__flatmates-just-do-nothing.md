@@ -60,7 +60,7 @@ aliases:
 
 # The Quiet Roommates
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Quiet Roommates — infographic](img/D1_P3_S5_T1_G705__flatmates-just-do-nothing.jpg){ .game-hero }
 
 > Discover the power of silence and ordinary life by doing absolutely nothing on stage.
 

@@ -64,7 +64,7 @@ aliases: []
 
 # The Audience Current
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Audience Current — infographic](img/D5_P1_S2_T2_G188__the-audience-current-conductor-s-cut.jpg){ .game-hero }
 
 > Navigate and shape the room's energy in real time using subtle, in-character performance adjustments.
 

@@ -71,7 +71,7 @@ aliases:
 
 # Resonance Weaving
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Resonance Weaving — infographic](img/D2_P3_S3_T1_G135__the-resonance-weave.jpg){ .game-hero }
 
 > Co-create deep, physicalized scenes by mirroring subtle offers and instantly gifting them brilliant meaning.
 

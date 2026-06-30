@@ -62,7 +62,7 @@ aliases:
 
 # The Silent Crucible
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Silent Crucible — infographic](img/D5_P1_S3_T3_G318__the-unseen-audience-crucible.jpg){ .game-hero }
 
 > Forge unwavering stage presence and crystal-clear choices by performing to a completely unresponsive audience.
 

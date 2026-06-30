@@ -60,7 +60,7 @@ aliases: []
 
 # The Endurance Relay
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Endurance Relay — infographic](img/D4_P1_S4_T1_G1036__dry-cleaning-bag-of-death.jpg){ .game-hero }
 
 > A high-octane scene game where offstage physical endurance dictates rapid, justified onstage edits.
 

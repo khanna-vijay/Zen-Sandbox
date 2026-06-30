@@ -58,7 +58,7 @@ aliases:
 
 # Muted Replay
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Muted Replay — infographic](img/D3_P1_S6_T1_G1013__deaf-replay.jpg){ .game-hero }
 
 > Recreate a scene's physical movements while inventing entirely new dialogue to justify the action.
 

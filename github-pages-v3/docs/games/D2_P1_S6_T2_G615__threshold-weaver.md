@@ -61,7 +61,7 @@ aliases: []
 
 # The Silent Line
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Silent Line — infographic](img/D2_P1_S6_T2_G615__threshold-weaver.jpg){ .game-hero }
 
 > Read subtle cues and honor unspoken boundaries to build deep, safe scenic connection.
 

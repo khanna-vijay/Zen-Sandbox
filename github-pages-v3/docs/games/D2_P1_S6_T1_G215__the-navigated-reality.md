@@ -58,7 +58,7 @@ aliases:
 
 # Navigated Realities
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Navigated Realities — infographic](img/D2_P1_S6_T1_G215__the-navigated-reality.jpg){ .game-hero }
 
 > Integrate explicit verbal consent and boundary negotiation directly into the flow of active scene work.
 

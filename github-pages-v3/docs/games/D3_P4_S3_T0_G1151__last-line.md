@@ -59,7 +59,7 @@ aliases:
 
 # The Destination Line
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Destination Line — infographic](img/D3_P4_S3_T0_G1151__last-line.jpg){ .game-hero }
 
 > Improvise a cohesive scene that builds naturally to a pre-determined final sentence.
 

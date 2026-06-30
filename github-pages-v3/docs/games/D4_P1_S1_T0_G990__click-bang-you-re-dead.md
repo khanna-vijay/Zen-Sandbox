@@ -51,7 +51,7 @@ aliases: []
 
 # Click, Bang, Dead
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Click, Bang, Dead — infographic](img/D4_P1_S1_T0_G990__click-bang-you-re-dead.jpg){ .game-hero }
 
 > A playful mystery game that trains deep listening and shifts focus to the unspoken.
 

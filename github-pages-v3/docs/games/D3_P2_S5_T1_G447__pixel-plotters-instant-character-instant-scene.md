@@ -63,7 +63,7 @@ aliases: []
 
 # Grid Worlds
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Grid Worlds — infographic](img/D3_P2_S5_T1_G447__pixel-plotters-instant-character-instant-scene.jpg){ .game-hero }
 
 > Build instant environments and deep character relationships using video platform renaming and visual background features.
 

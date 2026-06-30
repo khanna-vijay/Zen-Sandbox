@@ -58,7 +58,7 @@ aliases: []
 
 # The Blues Jam
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Blues Jam — infographic](img/D1_P1_S4_T2_G968__blues-jam.jpg){ .game-hero }
 
 > Transform minor daily frustrations into a soulful, high-commitment musical lament using classic blues rhythms.
 

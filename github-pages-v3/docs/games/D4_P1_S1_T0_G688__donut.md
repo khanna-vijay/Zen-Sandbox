@@ -54,7 +54,7 @@ aliases: []
 
 # The Orbit
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Orbit — infographic](img/D4_P1_S1_T0_G688__donut.jpg){ .game-hero }
 
 > Silently coordinate with a secret partner to encircle a target before the group detects you.
 

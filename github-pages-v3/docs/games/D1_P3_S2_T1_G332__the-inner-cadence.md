@@ -71,7 +71,7 @@ aliases:
 
 # The Inner Cadence
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Inner Cadence — infographic](img/D1_P3_S2_T1_G332__the-inner-cadence.jpg){ .game-hero }
 
 > Calibrate and express your deepest emotional impulses through structured, non-verbal vocal resonance.
 

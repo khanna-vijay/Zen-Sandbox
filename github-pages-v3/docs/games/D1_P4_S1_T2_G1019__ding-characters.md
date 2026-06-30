@@ -66,7 +66,7 @@ aliases:
 
 # Instant Character Shift
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Instant Character Shift — infographic](img/D1_P4_S1_T2_G1019__ding-characters.jpg){ .game-hero }
 
 > Instantly transform your character's voice, body, and attitude at the sound of a bell.
 

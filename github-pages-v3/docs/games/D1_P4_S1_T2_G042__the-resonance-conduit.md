@@ -65,7 +65,7 @@ aliases: []
 
 # Somatic Echo
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Somatic Echo — infographic](img/D1_P4_S1_T2_G042__the-resonance-conduit.jpg){ .game-hero }
 
 > Translate raw internal sensations into instant vocal and physical expressions echoed by the group.
 

@@ -61,7 +61,7 @@ aliases: []
 
 # The Resonance Weave
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Resonance Weave — infographic](img/D4_P1_S5_T2_G085__the-enso-weave.jpg){ .game-hero }
 
 > Weave non-verbal sound and movement into spoken thematic seeds that inspire deep, connected scenes.
 

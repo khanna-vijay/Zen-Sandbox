@@ -64,7 +64,7 @@ aliases:
 
 # Chapter Break
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Chapter Break — infographic](img/D3_P4_S3_T2_G496__chapter-break.jpg){ .game-hero }
 
 > Navigate sudden narrative shifts and integrate disruptive plot twists to build a cohesive, high-stakes story.
 

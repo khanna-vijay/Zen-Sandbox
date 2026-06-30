@@ -62,7 +62,7 @@ aliases:
 
 # Bunny Bunny
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Bunny Bunny — infographic](img/D4_P1_S1_T2_G976__bunny.jpg){ .game-hero }
 
 > A high-energy, fast-paced circle game that demands intense peripheral awareness and collective rhythm.
 

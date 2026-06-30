@@ -55,7 +55,7 @@ aliases: []
 
 # Collective Definition
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Collective Definition — infographic](img/D2_P2_S1_T0_G1197__mystery-word.jpg){ .game-hero }
 
 > Discover a hidden object together by contributing one descriptive clue at a time.
 

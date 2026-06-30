@@ -67,7 +67,7 @@ aliases:
 
 # Echoes of the Unspoken
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Echoes of the Unspoken — infographic](img/D4_P1_S3_T1_G481__the-whisper-world-chronicle.jpg){ .game-hero }
 
 > Build a rich, complex fictional reality entirely through physical behavior and indirect, subtextual dialogue.
 

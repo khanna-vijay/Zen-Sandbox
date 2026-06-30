@@ -62,7 +62,7 @@ aliases:
 
 # Relationship Therapy Endowment
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Relationship Therapy Endowment — infographic](img/D2_P3_S5_T1_G1171__marriage-counsel-endowment.jpg){ .game-hero }
 
 > Help a clueless therapist diagnose bizarre relationship issues through active, physicalized gifting.
 

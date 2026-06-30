@@ -62,7 +62,7 @@ aliases: []
 
 # Scene Blueprint
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Scene Blueprint — infographic](img/D3_P2_S5_T1_G364__scene-blueprint.jpg){ .game-hero }
 
 > Establish a rich, unspoken physical and relational foundation in thirty seconds before launching your scene.
 

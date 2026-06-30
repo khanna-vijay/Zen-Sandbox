@@ -61,7 +61,7 @@ aliases:
 
 # The Serialized Saga
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Serialized Saga — infographic](img/D3_P4_S3_T2_G1287__soap-series.jpg){ .game-hero }
 
 > Weave multiple high-stakes storylines together using dramatic cliffhangers, slow-burn tension, and shocking character reveals.
 

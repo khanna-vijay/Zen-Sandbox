@@ -62,7 +62,7 @@ aliases:
 
 # Undercurrents
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Undercurrents — infographic](img/D3_P1_S4_T1_G565__undercurrents.jpg){ .game-hero }
 
 > Drive compelling narrative tension by playing powerful, unspoken desires beneath mundane everyday interactions.
 

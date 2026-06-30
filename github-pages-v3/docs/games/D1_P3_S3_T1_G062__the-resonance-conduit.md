@@ -70,7 +70,7 @@ aliases:
 
 # Somatic Echoes
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Somatic Echoes — infographic](img/D1_P3_S3_T1_G062__the-resonance-conduit.jpg){ .game-hero }
 
 > Pass a physical impulse down a chain by translating felt emotional impact into new movement.
 

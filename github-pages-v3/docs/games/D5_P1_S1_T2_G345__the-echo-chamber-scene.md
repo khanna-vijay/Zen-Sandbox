@@ -64,7 +64,7 @@ aliases:
 
 # The Echo Chamber
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Echo Chamber — infographic](img/D5_P1_S1_T2_G345__the-echo-chamber-scene.jpg){ .game-hero }
 
 > Treat every gasp, chuckle, and murmur from the crowd as your next scene partner's line.
 

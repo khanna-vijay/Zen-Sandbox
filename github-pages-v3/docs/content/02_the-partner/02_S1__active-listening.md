@@ -10,94 +10,193 @@ title: Active Listening
 
 ## 🧠 What it is
 
-Active Listening is the real-time judgment of where to direct your attention and which layer of your partner’s communication to prioritize. It is the deliberate choice to stop generating your own material and instead treat your partner as the sole source of truth in the scene. In the moment, you are deciding whether to react to the literal words they just spoke, the emotional tone underneath those words, or the physical posture they are holding. It is the cognitive switch from *projecting* your ideas onto the stage to *receiving* the reality that is already there.
+At its core, **Active Listening** is the real-time judgment of *what to value* in your partner's communication. It is the deliberate choice to let go of your own preconceived ideas and allow your partner's words, tone, and physical shifts to fundamentally alter your response. In improvisation, listening is not a passive state of waiting for your turn to speak; it is a highly active, continuous decision to treat your partner as the most important thing on stage. You are constantly deciding to tune into the **subtext**—the underlying emotion or unspoken meaning beneath the dialogue—and judging which of those signals, from a heavy sigh to a specific, unusual adjective, demands a reaction.
 
-This is genuinely difficult because the improviser’s brain is naturally terrified of the void. Under the pressure of an audience, cognitive load spikes, triggering a powerful survival instinct to plan the next line, invent a clever joke, or steer the scene toward a preconceived idea. Active Listening requires overriding that instinct. It demands the vulnerability of standing on stage with an empty head, trusting that your partner’s offer—however small—will provide everything you need to survive the next ten seconds. It is hard because it requires you to be entirely present in a medium where the future feels constantly threatening.
+This is genuinely hard because it fights our basic instinct for self-preservation. When standing on a stage without a script, the brain’s natural defense mechanism is to plan ahead, to invent a joke, or to figure out "what the scene is about" to avoid looking foolish. Active listening requires you to suppress that frantic internal monologue. It demands that you tolerate the vulnerability of not knowing what you will say until the exact moment your partner finishes speaking. The cognitive load of processing a scene while simultaneously silencing your own ego is immense, making this the foundational hurdle every improviser must clear to truly connect with a partner.
+
+!!! abstract "The Core Choice"
+    Active listening is the moment-to-moment decision to prioritize *discovery* over *invention*. You are choosing to find the scene in your partner, rather than in your own head.
 
 ## 👀 The litmus test
 
-Hearing is a biological function; repeating words is a technique. Active Listening is a *skill* because it is a choice made under live pressure. 
+Active Listening is not a mechanical exercise you can simply switch on; it is a live, high-stakes choice made under the pressure of the spotlight. While a **technique** gives you a specific action to perform (like repeating your partner's last word), a **skill** requires contextual judgment. 
 
-The litmus test for this skill is: **Are you altering your intended response based on a new, unexpected piece of data from your partner?** 
+The litmus test for the skill of Active Listening is simple: **Does your partner's offer visibly change your trajectory?** 
 
-If you walk on stage planning to play a furious boss, and your partner initiates the scene by cowering and crying, what do you do? If you proceed to yell at them exactly as you planned, you are not actively listening—you are just waiting for your turn to speak. The skill is the pressurized decision to abandon your own brilliant idea because your partner’s micro-expression, tone, or specific word choice just offered something different. It is the willingness to be changed in real time.
+When you possess this skill, you are not merely collecting auditory data. You are actively choosing to abandon your own premeditated ideas—your "safety net"—in order to process your partner's text, subtext, and physical state, and then allowing that information to alter your emotional reaction in real-time. The skilled improviser uses this anchor to stay in the present, trusting that the partner's offer contains everything needed to move forward.
+
+!!! abstract "Technique vs. Skill"
+    *   **The Technique:** Maintaining unbroken eye contact and hearing the exact vocabulary your partner uses.
+    *   **The Skill:** Recognizing the slight tremor in your partner's voice, judging that their character is terrified rather than angry, and instantly softening your own response to match that reality.
+
+!!! example "In a scene: The 'Drop and Alter' Test"
+    Imagine you walk onstage pantomiming a heavy box, planning to initiate a scene about moving into a new apartment. Before you can speak, your partner looks at you with tears in their eyes and says, *"The vet said there's nothing more we can do."*
+    
+    *   **Failing the test:** You say, *"Well, where do you want this box of kitchen stuff?"* (You heard the words, but the pressure of your own planned idea overrode them. You were not changed.)
+    *   **Passing the test:** You let the imaginary box slip from your hands, your posture collapses, and you say, *"But... I brought his favorite toys."* (You allowed their emotional reality to instantly overwrite your plan, recontextualizing your physical offer to serve their truth.)
+
+!!! warning "Watch out for 'Waiting to Speak'"
+    The most common false positive for Active Listening is polite silence. Just because an improviser is quiet while their partner talks does not mean they are listening. If their eyes are glazed or their response ignores the emotional weight of what was just said, they aren't listening—they are just waiting for their turn to speak.
 
 ## ⚙️ How it works in a scene
 
-In performance, Active Listening operates as a continuous, high-speed cognitive loop. You are not just passively absorbing sound waves; you are actively hunting for the most important piece of information to react to.
+Active listening on stage is a high-speed, continuous cognitive loop. When you are truly locked in with your partner, your brain cycles through three distinct phases in fractions of a second:
 
-1. **Perceive (Broadening the aperture):** You take in the whole partner. You are listening to the text (the words), the subtext (the tone and volume), and the physical text (their posture, eye contact, and breathing). 
-2. **Filter (Finding the hook):** The brain sifts through this data to find the core offer. If your partner says, "I bought the tickets," but they are staring at the floor and wringing their hands, the words are secondary. The *hook* is the anxiety.
-3. **Decide (Choosing the reaction):** You judge which element requires an immediate response to propel the scene forward. 
-4. **Act (Letting it change you):** You respond, allowing the chosen hook to alter your emotional state or your next line of dialogue.
+**1. The Intake (Receiving the whole signal)**  
+You are absorbing data across multiple channels simultaneously. You hear the **text** (the literal words spoken), but you also read the subtext. You notice your partner's physicality—a clenched jaw, a shift in weight, a sudden avoidance of eye contact, or a slight change in breathing. You are gathering the raw materials of the scene.
+
+**2. The Pivot (Letting it land)**  
+This is the most critical and difficult step. As the information hits you, you must allow it to alter your internal state. If you had a brilliant joke or a plot point planned, you drop it the moment your partner's offer redirects the reality. You allow yourself to be genuinely surprised, hurt, delighted, or confused by what was just given to you. You do not just hear the offer; you *experience* it.
+
+**3. The Output (Responding from the change)**  
+Your subsequent action or line of dialogue is born *entirely* from the reaction you just experienced. Because you absorbed the specific details in step one, your response incorporates them seamlessly, proving to your partner and the audience that the offer was received and valued.
 
 !!! example "In a scene"
-    **Passive Hearing:** 
-    Player A (sighing heavily, looking away): "I guess I'll just make the coffee again."
-    Player B (cheerfully, ignoring the sigh): "Great! I take mine with two sugars."
-    *(Player B heard the words, but missed the reality. The scene is now disjointed.)*
+    **Partner:** *(Whispering, eyes darting around, hands trembling)* "I brought the shovel."
+    
+    * **Failure of the loop (Hearing text only):** "Great, let's plant these tulips before the sun goes down." *(The improviser heard the word "shovel" but ignored the terrified subtext, bulldozing ahead with their own gardening premise).*
+    * **Success of the loop (Active Listening):** "Why are your hands shaking? It's just a dead goldfish." *(The improviser takes in the trembling and the whisper, lets the tension land, and responds directly to the physical reality of the partner).*
 
-    **Active Listening:**
-    Player A (sighing heavily, looking away): "I guess I'll just make the coffee again."
-    Player B (dropping their cheerful posture, matching the tension): "You don't have to be a martyr about the Folgers, David."
-    *(Player B filtered out the literal offer of coffee and reacted entirely to the subtext of resentment. The scene instantly has a relationship and stakes.)*
+!!! tip "On stage"
+    If you catch your brain spinning out into the future to plan your next line, force your attention back to your partner's eyes. Make it your sole mission to notice one new physical detail about their face or posture. Grounding yourself in their physical reality instantly short-circuits the urge to plan.
+
+This loop repeats endlessly. The moment you finish speaking, you immediately return to the Intake phase, watching closely to see how your partner's cognitive loop processes *your* offer. This rapid, mutual feedback loop is what creates the illusion of a single "shared mind" on stage.
 
 ## 📈 The maturity arc
 
-The journey of Active Listening moves from fighting your own internal noise to achieving a state of effortless, hyper-attuned focus on your partner.
+Active listening develops in direct proportion to your ability to manage cognitive load. When you first step on stage, the sheer panic of invention drowns out your partner. As you build reps, your brain frees up bandwidth, allowing your focus to shift outward—from hearing mere words to reading breath, posture, and unspoken intent.
 
-| Stage | Observable Behaviour |
-| :--- | :--- |
-| **1 Novice** | **Tries to listen but load pulls them into planning their line.** They stare at their partner, but their eyes are glazed. They hear the first half of a sentence, assume they know how it ends, and check out to formulate their response. |
-| **2 Adv. Beginner** | **Repeats partner's words accurately in drills.** They can successfully play listening games. They hear the literal text and can parrot it back, but they often miss the emotional context or physical offers accompanying the words. |
-| **3 Competent** | **Builds on partner's *specific* offers.** They stop speaking in generalities. If the partner says "red wagon," they respond to the "red wagon," not just "a toy." They are present enough to catch details and use them as the foundation for the next move. |
-| **4 Proficient** | **Hears subtext, not just text.** They listen to *how* things are said. They catch the hesitation, the sarcasm, or the hidden joy. They respond to the emotional reality of the partner, even if it contradicts the literal words being spoken. |
-| **5 Master** | **Reads partner's breath/micro-expressions to anticipate the offer.** They are so attuned that they react to a shift in the partner's posture before a word is even spoken. They share a mind so completely that the audience cannot tell who is leading and who is following. |
+Here is how that evolution looks and feels on stage:
+
+| Stage | The Milestone | Observable Behavior in a Scene |
+| :--- | :--- | :--- |
+| **1. Novice** | **Planning over listening** | The improviser has a slightly glazed look while their partner speaks. There is often a beat of hesitation before they reply, and their response usually introduces a pre-planned idea rather than reacting to what was just said. |
+| **2. Advanced Beginner** | **Hearing the text** | They can accurately repeat their partner's words in drills. In scenes, they catch the nouns and verbs, but often miss the emotional weight. They are actively trying to *prove* they listened, which can feel slightly mechanical. |
+| **3. Competent** | **Building on specifics** | Responses directly incorporate the partner's details. If the partner says, "This coffee is scalding," they don't just say, "Yes, and we are late." They say, "Blow on it, you always burn your tongue." |
+| **4. Proficient** | **Hearing the subtext** | They react to *how* the partner spoke, not just *what* they said. If a partner says "I'm fine" with a heavy sigh, the improviser reacts to the exhaustion or sadness, ignoring the literal definition of the word "fine." |
+| **5. Master** | **Anticipating the offer** | They read their partner's breath, weight shifts, and micro-expressions. They often begin their emotional reaction before the partner has even finished speaking. The connection is so seamless it looks like a rehearsed, scripted play. |
+
+!!! abstract "The Great Leap: Text to Subtext"
+    The hardest jump in this arc is moving from **Competent** (Stage 3) to **Proficient** (Stage 4). It requires letting go of the literal words and trusting your emotional intuition. To make this leap, you must stop listening like a court stenographer recording facts, and start listening like a detective reading a room. 
+
+!!! tip "On stage"
+    If you catch yourself slipping back into Stage 1 (planning your next line), force a physical reset. Make unbroken eye contact with your partner, take a breath, and silently repeat the last three words they said in your head before you speak. It will anchor you back in the present.
 
 ## 🧰 The techniques that train it
 
-Techniques are the isolated drills that build the muscle memory required for this skill. By artificially constraining your options, these techniques force your brain to rely entirely on your partner.
+Active Listening is notoriously difficult to improve just by telling an improviser to "listen harder." Under the bright lights of the stage, the brain’s panic to invent easily overrides the desire to observe. 
 
-* **Meisner Repetition:** Two players face each other and repeat a single observation back and forth (e.g., "You're smiling," "I'm smiling"). This strips away the pressure to invent dialogue, forcing the brain to focus entirely on the partner's behaviour, tone, and micro-expressions. It trains the judgment of *when* a shift in emotion occurs and teaches the improviser to react to subtext rather than text.
-* **Last Word Response:** A constraint where your line of dialogue must begin with the exact last word your partner just said. This physically prevents you from planning ahead. Because you cannot know what their last word will be until they finish speaking, you are forced to stay in the present millisecond, training the brain to tolerate the void and listen all the way to the end of the sentence.
+To build this skill, we have to temporarily remove the cognitive burden of invention. By constraining *what* you are allowed to say, specific techniques force your brain to redirect all its processing power toward your partner. Here are the primary techniques used to train the judgment and stamina of Active Listening:
+
+### 1. Meisner Repetition
+Borrowed from the Sanford Meisner acting technique, **Meisner Repetition** strips away the pressure to write dialogue. Two improvisers face each other and repeat a single, simple observation back and forth (e.g., "You are looking at my shoes" / "I am looking at your shoes"). 
+
+* **How it builds the skill:** When the text cannot change, the brain is forced to listen to the subtext. You stop listening for *what* is being said and start listening to *how* it is being said. It trains the improviser to detect micro-shifts in tone, breath, and posture, moving them from Stage 2 (repeating words) to Stage 4 (hearing subtext) on the maturity arc.
+
+!!! example "In a scene"
+    **Player A:** "You're smiling at me." *(Said with genuine warmth)*  
+    **Player B:** "I'm smiling at you." *(Said with sudden, defensive hesitation)*  
+    **Player A:** "You're smiling at me." *(Said with a questioning, suspicious tilt)*  
+    
+    Because the words remain static, Player A is forced to actively listen to Player B's hesitation and react to the *behavior*, not the text.
+
+### 2. Last Word Response
+In this constraint exercise, you must begin your line of dialogue using the exact **last word** your partner just spoke. 
+
+* **How it builds the skill:** This technique is a direct cure for the "waiting to speak" disease. Novice improvisers often hear the first half of a partner's sentence, guess the rest, and spend the second half planning their own brilliant response. **Last Word Response** makes planning impossible. You physically cannot formulate your sentence until your partner has completely finished theirs. It trains the discipline of listening all the way to the period at the end of the sentence.
 
 !!! tip "On stage"
-    If you catch yourself planning a line while your partner is still talking, physically shift your weight or change your posture. This tiny physical reset can often snap your brain out of the future and back into the present moment.
+    You don't need to be in a workshop to use Last Word Response. If you ever feel yourself drifting into your own head during a live show, secretly play this game for three lines. Forcing yourself to catch your partner's final word will instantly snap your brain back into the present moment and re-anchor you to the shared mind of the scene.
+
+By drilling these techniques, the mechanics of listening become automatic. The improviser no longer has to consciously remind themselves to pay attention; their baseline state becomes one of deep, relaxed observation, freeing them to deploy their reactions with precise timing and appropriate emotional weight.
 
 ## 🔀 Dialing it up vs. down
 
-Like all skills, Active Listening requires judgment about *how much* is needed in a given moment. It is not a dial you leave turned to maximum at all times.
+While improv teachers often preach "listen more," Active Listening is not a static, always-on maximum state—it is a dial. As a skill, it requires managing your cognitive load, choosing exactly how much bandwidth to dedicate to your partner's output versus your own internal choices, the environment, or the overarching narrative. 
 
-**When to dial it UP:**
-Hyper-focus on your partner is crucial at the top of a scene to establish the base reality, during emotional peaks, or whenever a scene feels lost, muddy, or "in your head." When in doubt, look at your partner's eyes. Dialing up Active Listening grounds the scene and slows down frantic, panic-driven pacing.
+Here is how to manage the volume of your listening:
 
-**When to dial it DOWN:**
-If both players are staring intensely at each other, waiting for the other to make a move, the scene can devolve into a stagnant "talking heads" therapy session. In these moments, you need to dial down the intense interpersonal focus and dial up your interaction with the environment (Object Work) or make a bold, independent choice to inject energy. 
+### 🔊 Dialing it UP (Hyper-Receptivity)
+Turning the dial to maximum means dropping your own agenda entirely. You stop inventing and let your partner’s micro-expressions, tone, and exact phrasing dictate your next move. 
 
-**Balancing with Active Gifting:**
-Active Listening must be balanced with **Active Gifting**. If you *only* listen, you become a parasite—a highly attentive sponge that forces the partner to do all the driving. You must listen deeply *in order to* gift back something specific and useful. Listening provides the raw material; gifting builds the house.
+**When MORE helps:**
+*   **When you are in your head:** If you feel lost or paralyzed by trying to think of a "good idea," dialing up your listening forces you out of your own brain and into the present moment.
+*   **During emotional, grounded scenes:** When the scene relies on relationship rather than plot, hyper-listening allows you to catch and react to the subtle subtext of a sigh or a shifted glance.
+*   **When your partner is making a bold choice:** If they enter with a strong character or high energy, your job is to receive the full impact of that choice before doing anything else.
+
+!!! tip "On stage"
+    If a scene feels muddy, turn the dial all the way up. Look at your partner’s hands, their posture, or the tension in their jaw. React purely to the physical data they are giving you right now, rather than the plot you were trying to build.
+
+### 🔉 Dialing it DOWN (Making Room for Initiation)
+Can you listen *too* much? Yes—if it mutates into passivity. If you dedicate 100% of your brain to receiving, you leave 0% for contributing. 
+
+**When restraint is wiser:**
+*   **When the scene needs a motor:** If both players are just staring at each other waiting to react, the scene stalls. You must dial down the listening just enough to make a bold initiation.
+*   **When establishing your own baseline:** Sometimes you need to hold onto your character's internal reality (their point of view or emotional state) rather than immediately matching or yielding to your partner's energy. 
+
+!!! warning "Watch out"
+    Beware the **Passive Listener**. This is the improviser who stares intently, nods, and says, "Yes, I hear you," but adds absolutely no new information or emotional reaction to the scene. Listening must fuel a response, not replace it.
+
+### ⚖️ Balancing Neighboring Skills
+
+Active Listening does not exist in a vacuum; it must be balanced with the other skills in **The Partner** domain.
+
+| The Balance | How they interact |
+| :--- | :--- |
+| **Active Gifting** | This is the exhale to listening's inhale. You use Active Listening to gather data, and **Active Gifting** (giving your partner usable, specific offers) to feed data back. If you only listen, you starve your partner; if you only gift, you bulldoze them. |
+| **Status Modulation** | Improvisers often accidentally drop into low status when they listen intently, physically shrinking or deferring. Remember that a high-status character can still actively listen—they just process and react to the information with authority or dismissal. |
+| **Boundary Navigation** | Active Listening is your early warning system for safety. By keeping a portion of your listening dial tuned to your partner's genuine comfort level (reading the actor, not just the character), you can navigate boundaries seamlessly without breaking the reality of the scene. |
 
 ## 🤝 How it serves the domain
 
-Active Listening is the foundational skill of **The Partner** domain. The ultimate goal of this domain is to move from merely "acting with someone" to achieving a "shared mind." 
+The domain of **The Partner** challenges improvisers to evolve from merely acting *near* someone to operating with a "shared mind," all within a container of mutual safety. Active Listening is the sensory bridge that makes this merger possible. 
 
-You cannot share a mind with someone if you are trapped inside your own. Active Listening is the bridge between two isolated brains. By treating the partner's output as the most important data in the room, you ensure both players are operating in the exact same reality. 
+Without deep, contextual listening, two improvisers are simply taking turns pitching their own ideas—a phenomenon often called **parallel play**. When you actively listen, you surrender your pre-planned script. You allow your partner's specific words, emotional tone, and physical shifts to genuinely alter your internal state. This is how two brains synchronize to build a single, coherent reality.
 
-Furthermore, it builds the domain's required container of mutual safety. When an improviser knows they are truly being heard and watched—when they know their partner will catch even their smallest sigh or physical shift—they feel safe to take massive risks. They know they will not be left hanging. Active Listening is the ultimate act of stage-love; it tells your partner, *“I’ve got you, and you are enough.”*
+!!! example "In a scene: Parallel Play vs. Shared Mind"
+    Returning to our earlier example, **Player A** enters with slumped shoulders, staring at the floor, and mutters: *"I brought the shovel."*
+    
+    * **Parallel Play (Not Listening):** Player B, who planned a fun beach scene backstage, says, *"Great! Let's build the biggest sandcastle ever!"* (Player B heard the word "shovel" but ignored the emotional subtext, breaking the shared reality).
+    * **Shared Mind (Active Listening):** Player B hears the grim tone, sees the heavy posture, and responds, *"Are you absolutely sure nobody followed you here?"* (Player B absorbs the whole offer and builds on the exact reality Player A initiated).
+
+Furthermore, this domain relies heavily on trust. Active listening is the ultimate act of care on stage. When your partner knows you are hanging on their every word and reading their micro-expressions, they feel completely supported. They know they won't be left hanging if they make a weird, vulnerable, or subtle choice. 
+
+!!! abstract "The Prerequisite for Partnership"
+    You cannot support an offer you didn't hear, and you cannot protect a boundary you didn't notice. Active Listening is the foundational skill upon which all other partner-focused skills—like Active Gifting and Boundary Navigation—must be built. It proves to your partner, second by second, that they are not out there alone.
 
 ## ⚠️ Common failure modes & how to grow
 
-When this skill breaks down, it usually stems from fear—the fear of not having an idea, or the fear of losing control of the scene.
+Even the most well-intentioned improvisers drop the ball on active listening when the cognitive load of the scene gets too heavy. When the brain panics, it retreats inward, leading to a few predictable traps.
 
-!!! warning "Watch out: The Waiting Game"
-    The most common failure mode is "The Waiting Game." This is when a player hears the first few words of an offer, decides what the scene is about, and then simply waits for their partner's mouth to stop moving so they can deliver their pre-planned line. The scene becomes two people taking turns giving monologues at each other.
+### Common Failure Modes
 
-**How to grow at each stage:**
+*   **The Inventor's Trap (Planning):** You are white-knuckling a "brilliant" idea for your next line. Because your brain is busy writing a script, you completely miss the gift your partner just handed you. 
+*   **The Stenographer (Surface Listening):** You hear the exact words your partner says, but you miss the music. If they say, "I'm fine," while crossing their arms and looking at the floor, the Stenographer only reacts to the word "fine," ignoring the glaring emotional subtext.
+*   **The Steamroller (Ignoring):** You hear your partner's offer, but you decide your pre-planned idea is better. You acknowledge their line just enough to dismiss it, then force the scene back onto your tracks.
+*   **The Empty Vessel (Passive Listening):** You listen so hard that you forget to have a point of view. You become a blank slate, waiting for your partner to do all the driving, which leaves them feeling stranded.
 
-* **Novices** (stuck in planning) need to practice *Last Word Response*. The immediate goal is to break the habit of living three seconds in the future. Accept that your first instinctive response to their last word will be better than your planned joke.
-* **Advanced Beginners** (stuck on literal words) need to practice *Meisner Repetition*. The next step is to stop listening to the script and start listening to the human. Focus on the volume, pitch, and speed of the partner's voice.
-* **Competent players** (building on specific text) should focus on full-body listening. Watch the partner's hands, their stance, and where they carry tension. Let their physical posture dictate your emotional reaction.
-* **Proficient players** (hearing subtext) should work on *speed of reaction*. Don't wait for the partner to finish their sentence if their emotional shift happens in the middle of it. React to the breath before the word. Let the shared mind take over.
+!!! warning "Watch out: The 'Yes, But' Disguise"
+    Sometimes poor listening hides behind polite agreement. A player might say, "Yes, I love this beach, but let's go to the mall." They heard the word "beach," but they didn't *listen* to the reality of the scene. They just used "yes" as a bridge to get to their own preconceived idea.
+
+### How to Grow at Every Stage
+
+Growth in active listening requires shifting your focus further and further outward onto your partner. Identify where you currently get stuck on the maturity arc, and focus only on the immediate next step:
+
+*   **If you are stuck Planning:** 
+    Your brain is overwhelmed by the pressure to be funny or inventive. 
+    *Your next step:* Give yourself permission to be entirely unoriginal. Practice the **Last Word Response** technique—force yourself to start your sentence using the exact last word your partner just said. It physically prevents you from planning ahead.
+*   **If you are stuck at Surface Listening:** 
+    You are hearing the words, but your responses are still a bit generic. 
+    *Your next step:* Focus on *specificity*. If your partner mentions a "blue car," don't just reply about a "car." Reply about the "blue car." Let their specific details alter your emotional reaction.
+*   **If you are building on specifics but missing emotion:** 
+    You are successfully using the text of the scene, but you may be missing the emotional undercurrents. 
+    *Your next step:* Start listening with your eyes. Make a conscious effort to notice your partner's posture, tone, and facial expressions. React to *how* they said the line, not just *what* they said.
+*   **If you hear subtext but still wait to speak:** 
+    You are reading the emotion well, but your reactions still feel slightly delayed. 
+    *Your next step:* Soften your focus to take in the whole organism of the scene. Watch their breathing and micro-expressions. Aim to anticipate their needs so smoothly that your responses feel like a natural extension of their own thoughts.
+
+!!! tip "On stage: The 'Breathe Together' Reset"
+    If you feel yourself getting in your head and losing the thread of the scene, stop talking. Make eye contact with your partner, take a visible breath, and let their next move affect you. Silence is the fastest way to reboot your listening.
 
 ## 📚 References & Further Reading
 

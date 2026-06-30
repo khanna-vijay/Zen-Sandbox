@@ -68,7 +68,7 @@ aliases:
 
 # Acoustic Calibration
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Acoustic Calibration — infographic](img/D5_P1_S1_T1_G350__the-audience-ecosystem-training-protocol.jpg){ .game-hero }
 
 > Master the invisible dialogue between stage and seats by treating the audience as your final partner.
 

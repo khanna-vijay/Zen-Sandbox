@@ -62,7 +62,7 @@ aliases: []
 
 # Fourth Wall Flux
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Fourth Wall Flux — infographic](img/D5_P1_S2_T3_G411__the-fourth-wall-flux.jpg){ .game-hero }
 
 > Master the boundary between stage and spectator by treating the audience as your final scene partner.
 

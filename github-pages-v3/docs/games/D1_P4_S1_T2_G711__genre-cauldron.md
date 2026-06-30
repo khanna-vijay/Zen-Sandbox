@@ -56,7 +56,7 @@ aliases: []
 
 # The Genre Cauldron
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Genre Cauldron — infographic](img/D1_P4_S1_T2_G711__genre-cauldron.jpg){ .game-hero }
 
 > Toss obvious tropes into an imaginary pot to rapidly distill the essence of any genre.
 

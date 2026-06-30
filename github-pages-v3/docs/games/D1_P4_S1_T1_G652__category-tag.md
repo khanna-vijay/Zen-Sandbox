@@ -57,7 +57,7 @@ aliases:
 
 # Category Chase
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Category Chase — infographic](img/D1_P4_S1_T1_G652__category-tag.jpg){ .game-hero }
 
 > Bypass your inner editor by shouting out category words to escape being tagged.
 

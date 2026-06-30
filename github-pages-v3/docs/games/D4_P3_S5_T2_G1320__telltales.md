@@ -65,7 +65,7 @@ aliases: []
 
 # Threaded Solos
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Threaded Solos — infographic](img/D4_P3_S5_T2_G1320__telltales.jpg){ .game-hero }
 
 > Weave five distinct solo narratives into a single, cohesive, and deeply thematic theatrical piece.
 

@@ -67,7 +67,7 @@ aliases:
 
 # Platform, Pattern, Pivot
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Platform, Pattern, Pivot — infographic](img/D3_P4_S3_T2_G005__the-narrative-architect-s-trilogy.jpg){ .game-hero }
 
 > Establish a stable reality, find its rhythmic pattern, and execute a perfectly justified narrative tilt.
 

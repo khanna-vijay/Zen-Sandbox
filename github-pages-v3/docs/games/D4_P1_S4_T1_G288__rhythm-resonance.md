@@ -64,7 +64,7 @@ aliases:
 
 # Rhythmic Resonance
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Rhythmic Resonance — infographic](img/D4_P1_S4_T1_G288__rhythm-resonance.jpg){ .game-hero }
 
 > Shape and shift the stage's heartbeat through collective, non-verbal transitions and contrasting emotional tempos.
 

@@ -54,7 +54,7 @@ aliases: []
 
 # Fairy Tale Spine
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Fairy Tale Spine — infographic](img/D3_P4_S3_T1_G700__fairy-tale.jpg){ .game-hero }
 
 > Co-create a complete, satisfying narrative arc using the classic structural beats of a fairy tale.
 

@@ -59,7 +59,7 @@ aliases:
 
 # Whisky Mixer
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Whisky Mixer — infographic](img/D1_P2_S1_T0_G1363__whisky-mixer.jpg){ .game-hero }
 
 > A high-energy, tongue-twisting circle game of focus, straight faces, and joyful laps of failure.
 

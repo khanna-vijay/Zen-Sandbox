@@ -58,7 +58,7 @@ aliases:
 
 # Container Co-Pilots
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Container Co-Pilots — infographic](img/D2_P1_S6_T1_G370__container-co-pilots.jpg){ .game-hero }
 
 > Navigate boundaries collectively using active observation lenses and shared, low-stakes check-ins.
 

@@ -55,7 +55,7 @@ aliases: []
 
 # Bunny Bunny
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Bunny Bunny — infographic](img/D4_P1_S1_T2_G648__bunny-bunny.jpg){ .game-hero }
 
 > A high-energy, multi-layered rhythmic warm-up that demands total group focus and peripheral awareness.
 

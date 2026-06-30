@@ -59,7 +59,7 @@ aliases:
 
 # What Are You Doing?
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![What Are You Doing? — infographic](img/D1_P2_S1_T2_G884__what-are-you-doing.jpg){ .game-hero }
 
 > Disconnect your physical actions from your spoken words to celebrate mistakes and spark instant spontaneity.
 

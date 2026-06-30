@@ -61,7 +61,7 @@ aliases: []
 
 # What's Going On
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![What's Going On — infographic](img/D4_P1_S4_T2_G886__what-s-going-on.jpg){ .game-hero }
 
 > Build a vivid, rhythmic world together, one rhyming couplet and collective chorus at a time.
 

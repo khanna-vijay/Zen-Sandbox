@@ -63,7 +63,7 @@ aliases: []
 
 # The Motel Room
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Motel Room — infographic](img/D4_P3_S6_T1_G1189__motel.jpg){ .game-hero }
 
 > Explore intersecting lives, secrets, and eras bound by the walls of a single room.
 

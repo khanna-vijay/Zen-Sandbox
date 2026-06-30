@@ -53,7 +53,7 @@ aliases: []
 
 # Expression First
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Expression First — infographic](img/D1_P4_S1_T2_G679__creature-comforts.jpg){ .game-hero }
 
 > Discover instant characters by freezing an extreme facial expression and speaking from it immediately.
 

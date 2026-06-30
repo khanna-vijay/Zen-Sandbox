@@ -57,7 +57,7 @@ aliases:
 
 # Wink Elimination
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Wink Elimination — infographic](img/D4_P1_S1_T2_G892__wink-murder.jpg){ .game-hero }
 
 > A high-stakes game of silent eye contact, dramatic physical reactions, and sharp group observation.
 

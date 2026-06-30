@@ -63,7 +63,7 @@ aliases:
 
 # The Oracle's Eye
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Oracle's Eye — infographic](img/D5_P1_S1_T2_G401__the-oracle-s-gaze.jpg){ .game-hero }
 
 > Navigate the fourth wall by dynamically reading and responding to structured, real-time audience feedback.
 

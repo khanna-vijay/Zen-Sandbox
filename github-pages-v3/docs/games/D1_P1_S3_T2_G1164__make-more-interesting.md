@@ -56,7 +56,7 @@ aliases:
 
 # Magnify the Action
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Magnify the Action — infographic](img/D1_P1_S3_T2_G1164__make-more-interesting.jpg){ .game-hero }
 
 > Slow down time and amplify your physical choices through deep, committed exploration.
 

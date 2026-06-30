@@ -59,7 +59,7 @@ aliases:
 
 # Gifts of Joy
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Gifts of Joy — infographic](img/D2_P3_S5_T1_G828__scenes-that-bring-you-joy.jpg){ .game-hero }
 
 > Discover what brings your partner genuine happiness, then surprise them with it on stage.
 

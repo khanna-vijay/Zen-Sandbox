@@ -61,7 +61,7 @@ aliases: []
 
 # AM/FM Radio
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![AM/FM Radio — infographic](img/D3_P2_S6_T1_G630__am-fm-radio.jpg){ .game-hero }
 
 > Instantly justify random live audio broadcasts to build and rebuild a committed scenic reality.
 

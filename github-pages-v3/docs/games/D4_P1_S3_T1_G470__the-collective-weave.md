@@ -60,7 +60,7 @@ aliases:
 
 # The Resonance Tapestry
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Resonance Tapestry — infographic](img/D4_P1_S3_T1_G470__the-collective-weave.jpg){ .game-hero }
 
 > Deconstruct scenes and synthesize themes non-verbally to build a rich, interconnected montage of ideas.
 

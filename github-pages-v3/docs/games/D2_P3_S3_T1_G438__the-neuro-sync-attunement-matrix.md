@@ -67,7 +67,7 @@ aliases:
 
 # Somatic Resonance Matrix
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Somatic Resonance Matrix — infographic](img/D2_P3_S3_T1_G438__the-neuro-sync-attunement-matrix.jpg){ .game-hero }
 
 > Co-create a shared emotional and physical reality through micro-mirroring and fluid status shifts.
 

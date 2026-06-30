@@ -60,7 +60,7 @@ aliases: []
 
 # Alphabet Volley
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Alphabet Volley — infographic](img/D4_P1_S4_T2_G926__alphabet-circle.jpg){ .game-hero }
 
 > Pass the alphabet across a circle at lightning speed to build collective rhythm and focus.
 

@@ -62,7 +62,7 @@ aliases: []
 
 # Word Thief
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Word Thief — infographic](img/D2_P2_S1_T2_G1183__monologue-thief.jpg){ .game-hero }
 
 > Steal your partner's final words to instantly launch your own high-energy monologue.
 

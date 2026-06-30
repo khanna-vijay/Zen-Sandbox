@@ -66,7 +66,7 @@ aliases: []
 
 # Sing It!
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Sing It! — infographic](img/D1_P1_S1_T2_G837__sing-it.jpg){ .game-hero }
 
 > Turn ordinary dialogue into spontaneous, high-energy musical numbers at the shout of a single command.
 

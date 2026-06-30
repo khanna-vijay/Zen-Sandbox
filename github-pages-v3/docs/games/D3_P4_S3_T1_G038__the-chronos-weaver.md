@@ -62,7 +62,7 @@ aliases:
 
 # The Plot Weaver
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Plot Weaver — infographic](img/D3_P4_S3_T1_G038__the-chronos-weaver.jpg){ .game-hero }
 
 > Freeze pivotal moments to collectively pitch, vote on, and execute the story's next major turn.
 

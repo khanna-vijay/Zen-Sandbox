@@ -66,7 +66,7 @@ aliases:
 
 # The Somatic Impulse Dial
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Somatic Impulse Dial — infographic](img/D1_P4_S2_T1_G127__the-spectrum-filter.jpg){ .game-hero }
 
 > Instantly fuse secret physical and emotional states, rapidly modulating their intensity on a 1-to-10 scale.
 

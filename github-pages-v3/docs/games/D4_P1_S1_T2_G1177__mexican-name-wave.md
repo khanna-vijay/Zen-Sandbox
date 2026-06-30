@@ -56,7 +56,7 @@ aliases: []
 
 # The Counter-Current Wave
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Counter-Current Wave — infographic](img/D4_P1_S1_T2_G1177__mexican-name-wave.jpg){ .game-hero }
 
 > Pass a physical wave and a vocal name-chain in opposite directions simultaneously.
 

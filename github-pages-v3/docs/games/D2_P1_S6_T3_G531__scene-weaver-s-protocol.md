@@ -57,7 +57,7 @@ aliases:
 
 # The Touch Protocol
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Touch Protocol — infographic](img/D2_P1_S6_T3_G531__scene-weaver-s-protocol.jpg){ .game-hero }
 
 > Master physical boundary negotiation in real-time by prioritizing safety over scene momentum.
 

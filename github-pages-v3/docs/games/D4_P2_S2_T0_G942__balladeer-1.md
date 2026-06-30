@@ -59,7 +59,7 @@ aliases:
 
 # The Balladeer
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Balladeer — infographic](img/D4_P2_S2_T0_G942__balladeer-1.jpg){ .game-hero }
 
 > A musical narrative game where a singer and physical actors co-create an epic story in real-time.
 

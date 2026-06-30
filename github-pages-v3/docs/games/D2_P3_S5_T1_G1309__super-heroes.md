@@ -63,7 +63,7 @@ aliases:
 
 # Mundane Crisis Heroes
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Mundane Crisis Heroes — infographic](img/D2_P3_S5_T1_G1309__super-heroes.jpg){ .game-hero }
 
 > Rescue partners from trivial crises by gifting them ridiculous superhero identities they must instantly physicalize.
 

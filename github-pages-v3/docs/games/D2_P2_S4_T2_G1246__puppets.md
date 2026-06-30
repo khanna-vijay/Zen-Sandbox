@@ -62,7 +62,7 @@ aliases:
 
 # Human Puppets
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Human Puppets — infographic](img/D2_P2_S4_T2_G1246__puppets.jpg){ .game-hero }
 
 > Speak the words while your partner moves your body, or move your partner to match their words.
 

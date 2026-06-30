@@ -59,7 +59,7 @@ aliases: []
 
 # Cocktail Party
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Cocktail Party — infographic](img/D4_P1_S5_T2_G671__cocktail-party.jpg){ .game-hero }
 
 > Weave disparate conversations together by stealing lines and synthesizing themes across three distinct tables.
 

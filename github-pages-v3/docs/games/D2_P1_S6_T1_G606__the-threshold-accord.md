@@ -59,7 +59,7 @@ aliases: []
 
 # The Boundary Threshold
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Boundary Threshold — infographic](img/D2_P1_S6_T1_G606__the-threshold-accord.jpg){ .game-hero }
 
 > Navigate hidden character boundaries through active listening, explicit check-ins, and prioritizing truth over easy agreement.
 

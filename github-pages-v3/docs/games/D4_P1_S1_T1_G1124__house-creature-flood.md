@@ -58,7 +58,7 @@ aliases:
 
 # House, Creature, Flood
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![House, Creature, Flood — infographic](img/D4_P1_S1_T1_G1124__house-creature-flood.jpg){ .game-hero }
 
 > A high-energy game of rapid physical reorganization, spatial awareness, and instant ensemble connection.
 

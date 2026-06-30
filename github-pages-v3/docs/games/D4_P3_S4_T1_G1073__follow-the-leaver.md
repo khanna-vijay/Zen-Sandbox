@@ -59,7 +59,7 @@ aliases:
 
 # Follow the Leaver
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Follow the Leaver — infographic](img/D4_P3_S4_T1_G1073__follow-the-leaver.jpg){ .game-hero }
 
 > Edit scenes dynamically by tracking a single departing character into their next narrative world.
 

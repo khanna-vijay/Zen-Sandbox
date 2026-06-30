@@ -64,7 +64,7 @@ aliases:
 
 # The Silent Weathervane
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Silent Weathervane — infographic](img/D5_P1_S1_T1_G479__the-collective-unconscious-weathervane.jpg){ .game-hero }
 
 > Translate the unspoken emotional energy of the room into the physical reality of your scene.
 

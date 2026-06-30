@@ -67,7 +67,7 @@ aliases: []
 
 # Resonant Tapestry
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Resonant Tapestry — infographic](img/D4_P1_S1_T2_G399__resonance-weave-the-collective-architect.jpg){ .game-hero }
 
 > Weave abstract physical and vocal moments into a cohesive, non-linear ensemble performance.
 

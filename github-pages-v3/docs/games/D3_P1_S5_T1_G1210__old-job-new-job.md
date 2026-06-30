@@ -59,7 +59,7 @@ aliases: []
 
 # Old Job, New Job
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Old Job, New Job — infographic](img/D3_P1_S5_T1_G1210__old-job-new-job.jpg){ .game-hero }
 
 > Perform a current profession using the physical habits, vocabulary, and mindset of a past career.
 

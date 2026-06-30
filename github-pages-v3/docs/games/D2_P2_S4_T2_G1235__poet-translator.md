@@ -63,7 +63,7 @@ aliases: []
 
 # The Verse Translator
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Verse Translator — infographic](img/D2_P2_S4_T2_G1235__poet-translator.jpg){ .game-hero }
 
 > Translate passionate gibberish poetry into profound English verse, matching the emotional and rhythmic intensity.
 

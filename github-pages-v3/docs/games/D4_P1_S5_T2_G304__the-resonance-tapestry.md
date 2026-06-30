@@ -64,7 +64,7 @@ aliases: []
 
 # Resonant Tapestry
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Resonant Tapestry — infographic](img/D4_P1_S5_T2_G304__the-resonance-tapestry.jpg){ .game-hero }
 
 > Weave a non-linear collage of sensory images, sounds, and emotions to build collective group mind.
 

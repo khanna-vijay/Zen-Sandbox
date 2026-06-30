@@ -63,7 +63,7 @@ aliases:
 
 # The Weaving Finale
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Weaving Finale — infographic](img/D4_P3_S5_T2_G1187__montage-song-ending.jpg){ .game-hero }
 
 > Synthesize multiple narrative threads into a high-energy, cohesive musical finale that serves the entire show.
 

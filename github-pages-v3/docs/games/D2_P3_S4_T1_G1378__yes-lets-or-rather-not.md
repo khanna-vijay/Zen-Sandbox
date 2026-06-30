@@ -56,7 +56,7 @@ aliases:
 
 # Yes, Let's... Or Not
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Yes, Let's... Or Not — infographic](img/D2_P3_S4_T1_G1378__yes-lets-or-rather-not.jpg){ .game-hero }
 
 > Discover what makes an offer irresistible by giving your partners the power to say no.
 

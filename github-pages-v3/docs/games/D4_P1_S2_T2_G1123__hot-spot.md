@@ -56,7 +56,7 @@ aliases: []
 
 # Hot Spot
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Hot Spot — infographic](img/D4_P1_S2_T2_G1123__hot-spot.jpg){ .game-hero }
 
 > Jump into the center to save your teammates with high-energy, spontaneous singing.
 

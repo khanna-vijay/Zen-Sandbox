@@ -60,7 +60,7 @@ aliases: []
 
 # The Triptych Play
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Triptych Play — infographic](img/D4_P3_S6_T4_G1344__triple-play.jpg){ .game-hero }
 
 > Interweave three distinct three-act plays, testing narrative memory, pacing, and structural discipline.
 

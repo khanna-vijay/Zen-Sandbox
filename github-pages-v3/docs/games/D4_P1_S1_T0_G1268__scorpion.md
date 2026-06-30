@@ -63,7 +63,7 @@ aliases:
 
 # Blind Sentinel
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Blind Sentinel — infographic](img/D4_P1_S1_T0_G1268__scorpion.jpg){ .game-hero }
 
 > Navigate space blindly, relying on collective vigilance and tactile awareness to survive a silent tagger.
 

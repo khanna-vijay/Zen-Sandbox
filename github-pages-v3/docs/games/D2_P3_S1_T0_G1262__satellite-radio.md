@@ -59,7 +59,7 @@ aliases: []
 
 # Satellite Echo
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Satellite Echo — infographic](img/D2_P3_S1_T0_G1262__satellite-radio.jpg){ .game-hero }
 
 > Speak your partner's words on a one-beat delay to build hyper-focused listening and rhythm.
 

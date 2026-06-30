@@ -59,7 +59,7 @@ aliases: []
 
 # The Narrative Canvas
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Narrative Canvas — infographic](img/D2_P2_S4_T1_G251__collaborative-canvas.jpg){ .game-hero }
 
 > Co-create a seamless digital story, sentence by sentence, using a dynamic chat-based queue.
 

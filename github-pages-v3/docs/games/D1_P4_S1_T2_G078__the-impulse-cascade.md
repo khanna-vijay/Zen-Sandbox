@@ -66,7 +66,7 @@ aliases:
 
 # The Impulse Cascade
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Impulse Cascade — infographic](img/D1_P4_S1_T2_G078__the-impulse-cascade.jpg){ .game-hero }
 
 > Rapidly cycle through physical, vocal, and emotional states to master instant, unfiltered self-expression.
 

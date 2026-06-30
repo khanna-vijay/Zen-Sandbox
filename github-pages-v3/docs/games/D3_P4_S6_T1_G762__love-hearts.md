@@ -59,7 +59,7 @@ aliases: []
 
 # Sweet Talk Rivals
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Sweet Talk Rivals — infographic](img/D3_P4_S6_T1_G762__love-hearts.jpg){ .game-hero }
 
 > Transform bitter rivalry into sweet romance using random candy heart messages as dialogue.
 

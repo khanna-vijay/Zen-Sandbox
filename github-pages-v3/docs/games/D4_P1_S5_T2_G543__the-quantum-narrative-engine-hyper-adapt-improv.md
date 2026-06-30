@@ -67,7 +67,7 @@ aliases:
 
 # The Narrative Loom
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Narrative Loom — infographic](img/D4_P1_S5_T2_G543__the-quantum-narrative-engine-hyper-adapt-improv.jpg){ .game-hero }
 
 > Weave a seamless digital tapestry by synthesizing simultaneous text suggestions and visual cues in real-time.
 

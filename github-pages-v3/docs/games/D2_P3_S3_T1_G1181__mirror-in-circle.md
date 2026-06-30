@@ -57,7 +57,7 @@ aliases: []
 
 # Reflective Convergence
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Reflective Convergence — infographic](img/D2_P3_S3_T1_G1181__mirror-in-circle.jpg){ .game-hero }
 
 > Lock eyes, mirror movements, and converge in perfect unison at the center of the circle.
 

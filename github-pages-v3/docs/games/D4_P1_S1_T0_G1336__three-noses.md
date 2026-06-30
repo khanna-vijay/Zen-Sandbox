@@ -57,7 +57,7 @@ aliases: []
 
 # Anatomy Assembly
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Anatomy Assembly — infographic](img/D4_P1_S1_T0_G1336__three-noses.jpg){ .game-hero }
 
 > Rapidly cluster by matching body parts to build physical connection and sharp peripheral awareness.
 

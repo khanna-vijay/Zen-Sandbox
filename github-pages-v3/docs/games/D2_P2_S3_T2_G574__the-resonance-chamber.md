@@ -71,7 +71,7 @@ aliases:
 
 # Resonant Echoes
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Resonant Echoes — infographic](img/D2_P2_S3_T2_G574__the-resonance-chamber.jpg){ .game-hero }
 
 > Build deep, non-verbal partner attunement by mirroring and subtly evolving physical, vocal, and emotional offers.
 

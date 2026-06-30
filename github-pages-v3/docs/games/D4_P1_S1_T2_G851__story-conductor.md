@@ -61,7 +61,7 @@ aliases:
 
 # Conducted Narrative
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Conducted Narrative — infographic](img/D4_P1_S1_T2_G851__story-conductor.jpg){ .game-hero }
 
 > Co-create a seamless, single-voice story guided by the physical cues of a silent conductor.
 

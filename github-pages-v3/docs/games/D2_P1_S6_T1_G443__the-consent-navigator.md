@@ -61,7 +61,7 @@ aliases: []
 
 # The Boundary Compass
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Boundary Compass — infographic](img/D2_P1_S6_T1_G443__the-consent-navigator.jpg){ .game-hero }
 
 > Navigate physical and emotional boundaries in real-time using audience-guided consent cues.
 

@@ -62,7 +62,7 @@ aliases: []
 
 # Mundane Rituals
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Mundane Rituals — infographic](img/D3_P2_S2_T1_G1259__rituals.jpg){ .game-hero }
 
 > Transform an ordinary daily chore into a solemn, high-stakes ceremonial rite.
 

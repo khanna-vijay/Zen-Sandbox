@@ -73,7 +73,7 @@ aliases:
 
 # The Symbiotic Pulse
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Symbiotic Pulse — infographic](img/D2_P3_S1_T1_G006__the-symbiotic-pulse.jpg){ .game-hero }
 
 > Tune into your partner's unspoken shifts to co-create a deep, subtextual relationship.
 

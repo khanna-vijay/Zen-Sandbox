@@ -65,7 +65,7 @@ aliases:
 
 # Echoing Edits
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Echoing Edits — infographic](img/D2_P2_S4_T1_G474__zoomiverse-storyweavers-the-echoing-edits.jpg){ .game-hero }
 
 > Sculpt a collaborative virtual story in real-time by dynamically renaming yourself to offer narrative twists.
 

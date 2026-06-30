@@ -72,7 +72,7 @@ aliases:
 
 # The Shifting Canvas
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Shifting Canvas — infographic](img/D2_P2_S4_T2_G108__the-environmental-storyteller-a-shifting-canvas-improv.jpg){ .game-hero }
 
 > Co-create a seamless narrative by dynamically adapting to your partner's changing virtual environments.
 

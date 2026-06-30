@@ -62,7 +62,7 @@ aliases:
 
 # Whoosh Wave
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Whoosh Wave — infographic](img/D4_P1_S1_T2_G1366__whoosh.jpg){ .game-hero }
 
 > A high-energy circle warm-up that sharpens group focus, rapid reflexes, and collective rhythm.
 

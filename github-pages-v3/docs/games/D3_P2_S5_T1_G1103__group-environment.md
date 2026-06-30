@@ -59,7 +59,7 @@ aliases: []
 
 # The Shared Room
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Shared Room — infographic](img/D3_P2_S5_T1_G1103__group-environment.jpg){ .game-hero }
 
 > Co-create a rich, physically consistent imaginary space one silent, deliberate action at a time.
 

@@ -62,7 +62,7 @@ aliases:
 
 # The Ripple Effect
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Ripple Effect — infographic](img/D3_P4_S3_T1_G616__the-ripple-effect.jpg){ .game-hero }
 
 > Build unstoppable narrative momentum by turning every new offer into a direct consequence of the last.
 

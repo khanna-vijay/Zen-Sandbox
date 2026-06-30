@@ -63,7 +63,7 @@ aliases:
 
 # Pause and Pivot
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Pause and Pivot — infographic](img/D2_P1_S6_T2_G307__conscious-co-creation-the-compassionate-interjection-pause-p.jpg){ .game-hero }
 
 > Transform boundary-setting into a collaborative, creative redirection that keeps the scene safely moving forward.
 

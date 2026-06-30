@@ -62,7 +62,7 @@ aliases: []
 
 # The Implication Engine
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Implication Engine — infographic](img/D3_P4_S7_T1_G317__the-implication-engine.jpg){ .game-hero }
 
 > Freeze action to systematically unpack and integrate the logical and emotional consequences of new discoveries.
 

@@ -63,7 +63,7 @@ aliases: []
 
 # Dubbing
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Dubbing — infographic](img/D2_P3_S1_T0_G689__dubbing.jpg){ .game-hero }
 
 > Two physical actors and two voice actors merge to create a single, synchronized scene.
 

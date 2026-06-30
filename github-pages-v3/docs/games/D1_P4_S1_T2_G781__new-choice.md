@@ -60,7 +60,7 @@ aliases:
 
 # New Choice
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![New Choice — infographic](img/D1_P4_S1_T2_G781__new-choice.jpg){ .game-hero }
 
 > Bypass your inner editor by instantly replacing your last line on command.
 

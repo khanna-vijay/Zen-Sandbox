@@ -66,7 +66,7 @@ aliases: []
 
 # The Resonance Weave
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Resonance Weave — infographic](img/D2_P3_S5_T1_G346__the-resonance-weave.jpg){ .game-hero }
 
 > Co-create deep character relationships through physical mirroring, status shifts, and generous verbal endowments.
 

@@ -56,7 +56,7 @@ aliases: []
 
 # Sideways Stage
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Sideways Stage — infographic](img/D1_P1_S3_T3_G1274__sideways.jpg){ .game-hero }
 
 > Reorient gravity by treating the floor as your back wall in a high-commitment physical scene.
 

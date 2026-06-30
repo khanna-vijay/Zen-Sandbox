@@ -69,7 +69,7 @@ aliases:
 
 # Reality Architects
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Reality Architects — infographic](img/D4_P1_S2_T3_G224__reality-forgers-collaborative-world-building-with-zoom-featu.jpg){ .game-hero }
 
 > Co-create a living, breathing digital environment in real-time using every virtual tool at your disposal.
 

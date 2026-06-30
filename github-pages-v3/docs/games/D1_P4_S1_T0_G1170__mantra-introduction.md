@@ -52,7 +52,7 @@ aliases: []
 
 # The Unstoppable Mind
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Unstoppable Mind — infographic](img/D1_P4_S1_T0_G1170__mantra-introduction.jpg){ .game-hero }
 
 > Discover that your brain never stops generating ideas, even when you try to think of nothing.
 

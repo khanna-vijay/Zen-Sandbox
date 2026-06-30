@@ -62,7 +62,7 @@ aliases:
 
 # Undercurrents
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Undercurrents — infographic](img/D3_P1_S5_T1_G1061__fast-food-stanislawski.jpg){ .game-hero }
 
 > Drive scenes with powerful, unspoken internal motivations that shape every line and action.
 

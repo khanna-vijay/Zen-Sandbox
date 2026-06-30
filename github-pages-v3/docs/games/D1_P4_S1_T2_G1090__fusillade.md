@@ -54,7 +54,7 @@ aliases: []
 
 # Rapid Fire Solo
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Rapid Fire Solo — infographic](img/D1_P4_S1_T2_G1090__fusillade.jpg){ .game-hero }
 
 > Leap into the spotlight instantly with zero preparation and total commitment.
 

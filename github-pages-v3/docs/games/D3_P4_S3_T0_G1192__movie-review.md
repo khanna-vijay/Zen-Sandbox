@@ -59,7 +59,7 @@ aliases: []
 
 # The Film Review
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Film Review — infographic](img/D3_P4_S3_T0_G1192__movie-review.jpg){ .game-hero }
 
 > Bring a fictional movie to life through live-action clips prompted by a talk-show critique.
 

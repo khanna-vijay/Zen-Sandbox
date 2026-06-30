@@ -66,7 +66,7 @@ aliases: []
 
 # The Catalyst Collider
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Catalyst Collider — infographic](img/D3_P4_S3_T2_G132__the-catalyst-collider.jpg){ .game-hero }
 
 > Weave sudden, disruptive narrative tilts into the structural foundation of an evolving, cohesive story.
 

@@ -59,7 +59,7 @@ aliases:
 
 # The Joyful Showdown
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Joyful Showdown — infographic](img/D1_P2_S6_T0_G1273__shootout.jpg){ .game-hero }
 
 > A high-energy circle game where dying dramatically is far more fun than winning.
 

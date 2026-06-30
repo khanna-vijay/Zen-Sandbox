@@ -61,7 +61,7 @@ aliases:
 
 # The Negotiated Scene
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Negotiated Scene — infographic](img/D2_P1_S6_T1_G070__the-co-created-contract.jpg){ .game-hero }
 
 > Build compelling scenes by pausing to explicitly negotiate physical and emotional boundaries in real time.
 

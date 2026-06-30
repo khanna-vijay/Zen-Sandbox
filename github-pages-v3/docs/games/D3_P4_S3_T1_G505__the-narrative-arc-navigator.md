@@ -60,7 +60,7 @@ aliases: []
 
 # The Narrative Arc Navigator
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Narrative Arc Navigator — infographic](img/D3_P4_S3_T1_G505__the-narrative-arc-navigator.jpg){ .game-hero }
 
 > An active director guides players through structural story beats to build a cohesive narrative arc.
 

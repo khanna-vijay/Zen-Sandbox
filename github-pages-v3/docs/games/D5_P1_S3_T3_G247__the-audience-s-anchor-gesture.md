@@ -64,7 +64,7 @@ aliases: []
 
 # The Anchor Gesture
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Anchor Gesture — infographic](img/D5_P1_S3_T3_G247__the-audience-s-anchor-gesture.jpg){ .game-hero }
 
 > Forge a powerful non-verbal contract with your audience using a single, repeatable physical signature.
 

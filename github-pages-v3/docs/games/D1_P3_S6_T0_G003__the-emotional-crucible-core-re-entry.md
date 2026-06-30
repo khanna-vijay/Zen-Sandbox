@@ -70,7 +70,7 @@ aliases:
 
 # The Emotional Crucible
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Emotional Crucible — infographic](img/D1_P3_S6_T0_G003__the-emotional-crucible-core-re-entry.jpg){ .game-hero }
 
 > Embody extreme emotional states, navigate chaotic transitions, and master the art of conscious self-recovery.
 

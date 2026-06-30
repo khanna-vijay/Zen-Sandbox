@@ -61,7 +61,7 @@ aliases:
 
 # Rhyming Couplets
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Rhyming Couplets — infographic](img/D2_P2_S1_T2_G1258__rhymes.jpg){ .game-hero }
 
 > Keep the story flowing in perfect rhyme, or step aside when you run out of time.
 

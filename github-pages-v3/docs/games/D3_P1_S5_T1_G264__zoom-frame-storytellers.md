@@ -63,7 +63,7 @@ aliases: []
 
 # Frame-by-Frame Worldbuilders
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Frame-by-Frame Worldbuilders — infographic](img/D3_P1_S5_T1_G264__zoom-frame-storytellers.jpg){ .game-hero }
 
 > Co-create immersive visual narratives using virtual backgrounds and camera framing to establish instant physical relationships.
 

@@ -66,7 +66,7 @@ aliases:
 
 # Emotional Architects
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Emotional Architects — infographic](img/D2_P3_S3_T2_G287__emotional-architects.jpg){ .game-hero }
 
 > Co-create a rich emotional reality by gifting justifications for your partner's subtle physical offers.
 

@@ -63,7 +63,7 @@ aliases:
 
 # Resonant Currents
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Resonant Currents — infographic](img/D4_P1_S1_T2_G037__nexus-arc-the-silent-current.jpg){ .game-hero }
 
 > Navigate a collective, non-verbal emotional journey guided by shared physical and sonic echoes.
 

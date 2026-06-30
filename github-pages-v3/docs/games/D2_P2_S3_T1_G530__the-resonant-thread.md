@@ -68,7 +68,7 @@ aliases: []
 
 # The Resonant Thread
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Resonant Thread — infographic](img/D2_P2_S3_T1_G530__the-resonant-thread.jpg){ .game-hero }
 
 > A physical, emotional, and verbal mirroring loop that builds deep interpersonal attunement and status play.
 

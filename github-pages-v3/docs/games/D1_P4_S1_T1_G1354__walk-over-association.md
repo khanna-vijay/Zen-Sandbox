@@ -52,7 +52,7 @@ aliases: []
 
 # Association Advance
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Association Advance — infographic](img/D1_P4_S1_T1_G1354__walk-over-association.jpg){ .game-hero }
 
 > Advance across the room by taking one physical step for every spontaneous word association.
 

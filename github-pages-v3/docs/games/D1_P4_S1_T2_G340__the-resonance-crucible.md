@@ -70,7 +70,7 @@ aliases: []
 
 # The Resonance Crucible
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Resonance Crucible — infographic](img/D1_P4_S1_T2_G340__the-resonance-crucible.jpg){ .game-hero }
 
 > Layer physical, emotional, and vocal impulses to build a complex, fully committed physical state.
 

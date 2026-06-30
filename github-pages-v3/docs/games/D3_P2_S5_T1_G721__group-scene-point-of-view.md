@@ -65,7 +65,7 @@ aliases:
 
 # Shared Lens
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Shared Lens — infographic](img/D3_P2_S5_T1_G721__group-scene-point-of-view.jpg){ .game-hero }
 
 > Align a whole group's emotional perspective to instantly build a cohesive, high-agreement base reality.
 

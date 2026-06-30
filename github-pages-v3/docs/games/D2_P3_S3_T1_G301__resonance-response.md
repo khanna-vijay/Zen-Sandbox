@@ -67,7 +67,7 @@ aliases: []
 
 # Somatic Resonance
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Somatic Resonance — infographic](img/D2_P3_S3_T1_G301__resonance-response.jpg){ .game-hero }
 
 > Instantly mirror your partner's physical and vocal energy to build deep, intuitive emotional agreement.
 

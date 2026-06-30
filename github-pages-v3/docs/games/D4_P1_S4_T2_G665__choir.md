@@ -62,7 +62,7 @@ aliases: []
 
 # Improvised Choir
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Improvised Choir — infographic](img/D4_P1_S4_T2_G665__choir.jpg){ .game-hero }
 
 > Create a harmonious, spontaneous song by building layers of rhythm, sound, and shared focus.
 

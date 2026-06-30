@@ -53,7 +53,7 @@ aliases: []
 
 # The Story of My Name
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Story of My Name — infographic](img/D1_P3_S0_T0_G852__story-of-your-name.jpg){ .game-hero }
 
 > Build deep, authentic group connection by sharing the simple, unvarnished truth behind your name.
 

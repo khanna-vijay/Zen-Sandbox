@@ -53,7 +53,7 @@ aliases: []
 
 # The Absurd Advocate
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Absurd Advocate — infographic](img/D3_P2_S6_T1_G811__premise-lawyer.jpg){ .game-hero }
 
 > Defend the indefensible by finding the logical core behind the wildest claims.
 

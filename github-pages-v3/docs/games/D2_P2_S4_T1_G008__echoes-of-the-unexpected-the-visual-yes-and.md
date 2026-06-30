@@ -61,7 +61,7 @@ aliases:
 
 # Shared Canvas Chronicles
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Shared Canvas Chronicles — infographic](img/D2_P2_S4_T1_G008__echoes-of-the-unexpected-the-visual-yes-and.jpg){ .game-hero }
 
 > Co-create an evolving story and illustration simultaneously using virtual annotation tools.
 

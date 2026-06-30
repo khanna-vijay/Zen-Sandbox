@@ -59,7 +59,7 @@ aliases: []
 
 # Alphabetical Scene
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Alphabetical Scene — infographic](img/D2_P2_S1_T2_G866__the-alphabet-game.jpg){ .game-hero }
 
 > Build a cohesive scene where each consecutive line of dialogue begins with the next alphabetical letter.
 

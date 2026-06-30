@@ -55,7 +55,7 @@ aliases: []
 
 # Eight Things About Me
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Eight Things About Me — infographic](img/D1_P3_S1_T2_G691__eight-things-about-me.jpg){ .game-hero }
 
 > Share eight personal truths rapidly while the group enthusiastically counts them down.
 

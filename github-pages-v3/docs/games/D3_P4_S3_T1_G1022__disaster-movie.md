@@ -66,7 +66,7 @@ aliases: []
 
 # Disaster Movie
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Disaster Movie — infographic](img/D3_P4_S3_T1_G1022__disaster-movie.jpg){ .game-hero }
 
 > A high-stakes, genre-parody narrative format where archetypal characters face an impending, spectacular catastrophe.
 

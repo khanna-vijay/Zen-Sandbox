@@ -57,7 +57,7 @@ aliases: []
 
 # Last Letter Connection
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Last Letter Connection — infographic](img/D2_P2_S1_T2_G755__last-letter.jpg){ .game-hero }
 
 > Listen to the very last letter to discover your very first word.
 

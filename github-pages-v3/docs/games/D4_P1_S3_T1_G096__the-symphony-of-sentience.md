@@ -62,7 +62,7 @@ aliases: []
 
 # Symphony of Sentience
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Symphony of Sentience — infographic](img/D4_P1_S3_T1_G096__the-symphony-of-sentience.jpg){ .game-hero }
 
 > Evolve a single, non-verbal collective consciousness through intuitive, multi-modal sound and movement.
 

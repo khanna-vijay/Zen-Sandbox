@@ -65,7 +65,7 @@ aliases: []
 
 # Subtext Alchemy
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Subtext Alchemy — infographic](img/D2_P2_S1_T1_G206__the-emotional-alchemist.jpg){ .game-hero }
 
 > Transform subtle emotional and status offers through precise mirroring and gradual, deliberate evolution.
 

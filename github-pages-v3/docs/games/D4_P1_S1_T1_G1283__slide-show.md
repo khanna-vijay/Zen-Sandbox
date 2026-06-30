@@ -63,7 +63,7 @@ aliases:
 
 # The Living Slideshow
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Living Slideshow — infographic](img/D4_P1_S1_T1_G1283__slide-show.jpg){ .game-hero }
 
 > Co-create an epic journey through the push-and-pull of physical stage pictures and spontaneous narration.
 

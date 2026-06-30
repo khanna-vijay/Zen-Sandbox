@@ -66,7 +66,7 @@ aliases:
 
 # Virtual Horizon Shifters
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Virtual Horizon Shifters — infographic](img/D3_P2_S6_T1_G413__scenic-shifters-reality-rewire.jpg){ .game-hero }
 
 > Instantly adapt to sudden environmental shifts by justifying the absurd in a virtual space.
 

@@ -56,7 +56,7 @@ aliases: []
 
 # Hats
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Hats — infographic](img/D3_P2_S6_T1_G1114__hats.jpg){ .game-hero }
 
 > Justify every physical reach and defensive dodge while wearing hats in a grounded scene.
 

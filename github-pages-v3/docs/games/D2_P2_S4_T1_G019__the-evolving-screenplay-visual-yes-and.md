@@ -68,7 +68,7 @@ aliases:
 
 # The Evolving Screenplay
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Evolving Screenplay — infographic](img/D2_P2_S4_T1_G019__the-evolving-screenplay-visual-yes-and.jpg){ .game-hero }
 
 > Co-create a dynamic narrative by layering spoken story offers with live digital drawings.
 

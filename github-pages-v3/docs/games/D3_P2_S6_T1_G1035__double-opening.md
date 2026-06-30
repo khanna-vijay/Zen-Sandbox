@@ -57,7 +57,7 @@ aliases: []
 
 # Dual Openings
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Dual Openings — infographic](img/D3_P2_S6_T1_G1035__double-opening.jpg){ .game-hero }
 
 > Two players deliver simultaneous opening lines, then collaborate to justify both into one cohesive reality.
 

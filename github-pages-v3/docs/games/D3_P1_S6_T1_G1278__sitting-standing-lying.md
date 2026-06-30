@@ -63,7 +63,7 @@ aliases:
 
 # Sitting, Standing, Lying Down
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Sitting, Standing, Lying Down — infographic](img/D3_P1_S6_T1_G1278__sitting-standing-lying.jpg){ .game-hero }
 
 > Maintain three distinct physical postures while justifying every sudden shift in your scene.
 

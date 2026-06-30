@@ -61,7 +61,7 @@ aliases:
 
 # The Echo Meter
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Echo Meter — infographic](img/D5_P1_S2_T3_G205__the-echo-chamber-break.jpg){ .game-hero }
 
 > Master the art of direct address by calibrating fourth-wall breaks to real-time audience feedback.
 

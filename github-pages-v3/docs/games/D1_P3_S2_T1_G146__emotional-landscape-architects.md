@@ -72,7 +72,7 @@ aliases:
 
 # Somatic Weather Systems
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Somatic Weather Systems — infographic](img/D1_P3_S2_T1_G146__emotional-landscape-architects.jpg){ .game-hero }
 
 > Navigate and blend complex, conflicting emotions using physical precision and non-verbal vocalization.
 

@@ -62,7 +62,7 @@ aliases: []
 
 # The Origin Story
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Origin Story — infographic](img/D5_P1_S2_T3_G730__how-we-met.jpg){ .game-hero }
 
 > Reconstruct a real couple's meeting story in real-time using immediate, playful audience feedback.
 

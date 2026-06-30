@@ -54,7 +54,7 @@ aliases: []
 
 # The Celebration Pass
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Celebration Pass — infographic](img/D1_P2_S6_T2_G761__loserball.jpg){ .game-hero }
 
 > Celebrate every dropped pass with explosive, joyful applause to reframe mistakes as triumphs.
 

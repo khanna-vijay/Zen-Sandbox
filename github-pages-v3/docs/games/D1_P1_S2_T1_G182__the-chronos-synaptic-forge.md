@@ -67,7 +67,7 @@ aliases:
 
 # The Emotional Crucible
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Emotional Crucible — infographic](img/D1_P1_S2_T1_G182__the-chronos-synaptic-forge.jpg){ .game-hero }
 
 > Embody a core emotion while instantly integrating a rapid-fire barrage of physical and vocal constraints.
 

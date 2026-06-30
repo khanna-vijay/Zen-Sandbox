@@ -67,7 +67,7 @@ aliases: []
 
 # Synchronized Groove
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Synchronized Groove — infographic](img/D4_P2_S1_T1_G858__synchronised-dance.jpg){ .game-hero }
 
 > Move as a single, synchronized dance troupe to music you have never heard before.
 

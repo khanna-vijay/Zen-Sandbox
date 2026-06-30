@@ -68,7 +68,7 @@ aliases: []
 
 # The Impulse Architect
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Impulse Architect — infographic](img/D1_P4_S3_T3_G234__the-impulse-architect.jpg){ .game-hero }
 
 > Externalize your deepest, wordless physical impulses and engage in a profound, non-verbal dialogue with them.
 

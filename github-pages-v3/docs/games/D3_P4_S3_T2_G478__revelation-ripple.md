@@ -63,7 +63,7 @@ aliases:
 
 # Unspoken Revelations
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Unspoken Revelations — infographic](img/D3_P4_S3_T2_G478__revelation-ripple.jpg){ .game-hero }
 
 > Navigate sudden narrative disruptions by integrating secret twists and justifying their profound consequences.
 

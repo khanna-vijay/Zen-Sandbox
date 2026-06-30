@@ -54,7 +54,7 @@ aliases: []
 
 # Epic Drop
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Epic Drop — infographic](img/D1_P2_S6_T2_G1159__loser-ball.jpg){ .game-hero }
 
 > Celebrate spectacular misses to transform mistakes into moments of collective joy.
 

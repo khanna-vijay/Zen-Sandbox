@@ -61,7 +61,7 @@ aliases:
 
 # Circle Crossings
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Circle Crossings — infographic](img/D4_P1_S1_T2_G1007__cross-circle.jpg){ .game-hero }
 
 > Trade places across the circle by tracking names, eye contact, and collective physical rhythm.
 

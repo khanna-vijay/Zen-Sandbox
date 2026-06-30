@@ -60,7 +60,7 @@ aliases: []
 
 # CCTV Playback
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![CCTV Playback — infographic](img/D2_P3_S5_T2_G653__cctv.jpg){ .game-hero }
 
 > Decode hilarious, silent security footage to discover why you just got fired.
 

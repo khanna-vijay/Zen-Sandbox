@@ -73,7 +73,7 @@ aliases:
 
 # Silent Alchemy
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Silent Alchemy — infographic](img/D2_P3_S5_T1_G228__the-partner-s-silent-alchemy-echo-status-endowment.jpg){ .game-hero }
 
 > Build deep physical connection and dynamic status relationships without speaking a single word.
 

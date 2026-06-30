@@ -60,7 +60,7 @@ aliases:
 
 # One-Word Wisdom
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![One-Word Wisdom — infographic](img/D4_P1_S1_T2_G1371__word-at-a-time-proverb.jpg){ .game-hero }
 
 > Co-create profound, nonsensical proverbs one word at a time through shared group intuition.
 

@@ -66,7 +66,7 @@ aliases:
 
 # The Narrative Compass
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Narrative Compass — infographic](img/D3_P4_S3_T2_G374__the-narrative-compass.jpg){ .game-hero }
 
 > Steer scenes through sudden narrative shifts by instantly justifying and integrating dramatic plot complications.
 

@@ -57,7 +57,7 @@ aliases: []
 
 # Boundary Unpack
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Boundary Unpack — infographic](img/D2_P1_S6_T2_G388__boundary-unpack.jpg){ .game-hero }
 
 > Practice setting, navigating, and respecting boundaries in real-time through low-stakes, character-driven challenges.
 

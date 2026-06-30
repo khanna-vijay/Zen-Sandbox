@@ -56,7 +56,7 @@ aliases:
 
 # The Infinite Warehouse
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Infinite Warehouse — infographic](img/D1_P4_S1_T2_G1357__warehouse.jpg){ .game-hero }
 
 > Instantly discover and name imaginary objects to bypass self-censorship and embrace your first instinct.
 

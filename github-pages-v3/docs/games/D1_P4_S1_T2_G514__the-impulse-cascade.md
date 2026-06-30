@@ -64,7 +64,7 @@ aliases:
 
 # Impulse Cascade
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Impulse Cascade — infographic](img/D1_P4_S1_T2_G514__the-impulse-cascade.jpg){ .game-hero }
 
 > Instantly embody rapid-fire emotional and physical prompts with absolute commitment and zero hesitation.
 

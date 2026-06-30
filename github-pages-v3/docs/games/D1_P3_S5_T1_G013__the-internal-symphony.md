@@ -69,7 +69,7 @@ aliases:
 
 # The Inner Council
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Inner Council — infographic](img/D1_P3_S5_T1_G013__the-internal-symphony.jpg){ .game-hero }
 
 > Synthesize conflicting internal voices through silence and stillness to make a single, committed choice.
 

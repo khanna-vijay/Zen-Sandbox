@@ -67,7 +67,7 @@ aliases:
 
 # Vocal Resonance Ripple
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Vocal Resonance Ripple — infographic](img/D1_P4_S4_T2_G316__the-echo-chamber-of-self.jpg){ .game-hero }
 
 > Transform raw internal impulses into an evolving, non-linguistic vocal soundscape around the circle.
 

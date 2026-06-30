@@ -57,7 +57,7 @@ aliases: []
 
 # Famous Persona Gifting
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Famous Persona Gifting — infographic](img/D2_P3_S5_T1_G1059__famous-person-endowment.jpg){ .game-hero }
 
 > Empower your scene partners by treating them as iconic historical or pop-culture figures.
 

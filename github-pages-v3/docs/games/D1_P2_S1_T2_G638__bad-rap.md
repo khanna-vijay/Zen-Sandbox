@@ -56,7 +56,7 @@ aliases: []
 
 # Off-Beat Rap
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Off-Beat Rap — infographic](img/D1_P2_S1_T2_G638__bad-rap.jpg){ .game-hero }
 
 > Bypass your inner editor by deliberately breaking rhymes in a high-energy, rhythmic circle.
 

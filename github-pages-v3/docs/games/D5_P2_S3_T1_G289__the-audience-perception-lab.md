@@ -64,7 +64,7 @@ aliases:
 
 # The Sightline Lab
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Sightline Lab — infographic](img/D5_P2_S3_T1_G289__the-audience-perception-lab.jpg){ .game-hero }
 
 > Train your physical and vocal projection using targeted feedback from the room's most challenging seats.
 

@@ -53,7 +53,7 @@ aliases: []
 
 # Physical Centers
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Physical Centers — infographic](img/D1_P1_S3_T1_G758__leading-with-body-parts.jpg){ .game-hero }
 
 > Transform your movement and discover instant characters by leading your walk with different body parts.
 

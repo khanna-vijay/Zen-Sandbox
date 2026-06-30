@@ -60,7 +60,7 @@ aliases: []
 
 # Resonance Ripples
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Resonance Ripples — infographic](img/D4_P3_S5_T1_G441__ripple-effect-storytelling.jpg){ .game-hero }
 
 > Weave a rich tapestry of connected emotions and themes without ever continuing the plot.
 

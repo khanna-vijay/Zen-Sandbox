@@ -64,7 +64,7 @@ aliases:
 
 # The Living Collage
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Living Collage — infographic](img/D4_P1_S1_T1_G868__three-in-a-circle-i-ll-keep.jpg){ .game-hero }
 
 > Build three-part stage pictures, keeping one element to inspire the next collaborative scene.
 

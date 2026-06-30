@@ -60,7 +60,7 @@ aliases:
 
 # The Dating Panel
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Dating Panel — infographic](img/D2_P3_S4_T2_G1011__dating-game.jpg){ .game-hero }
 
 > Discover hidden identities through playful questions and bold, character-defining answers.
 

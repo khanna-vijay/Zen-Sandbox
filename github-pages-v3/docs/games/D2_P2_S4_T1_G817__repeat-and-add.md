@@ -57,7 +57,7 @@ aliases: []
 
 # Echo and Expand
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Echo and Expand — infographic](img/D2_P2_S4_T1_G817__repeat-and-add.jpg){ .game-hero }
 
 > Listen closely, repeat your partner's exact words, and add the next logical step.
 

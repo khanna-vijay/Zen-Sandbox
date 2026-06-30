@@ -72,7 +72,7 @@ aliases:
 
 # Resonance Weave
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Resonance Weave — infographic](img/D2_P3_S3_T2_G420__resonance-weave.jpg){ .game-hero }
 
 > Weave deep emotional attunement and factual co-creation into every single line of dialogue.
 

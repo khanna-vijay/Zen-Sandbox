@@ -70,7 +70,7 @@ aliases: []
 
 # Resonant Attunement
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Resonant Attunement — infographic](img/D2_P3_S3_T1_G284__the-resonance-chamber.jpg){ .game-hero }
 
 > Deepen partner connection by mirroring physical offers, endowing them with meaning, and navigating status shifts.
 

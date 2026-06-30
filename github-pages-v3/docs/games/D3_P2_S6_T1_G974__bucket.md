@@ -62,7 +62,7 @@ aliases:
 
 # The Slip Bucket
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Slip Bucket — infographic](img/D3_P2_S6_T1_G974__bucket.jpg){ .game-hero }
 
 > Seamlessly justify random audience-written lines to ground an absurd reality.
 

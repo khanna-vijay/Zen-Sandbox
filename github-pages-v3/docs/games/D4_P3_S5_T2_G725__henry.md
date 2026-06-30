@@ -64,7 +64,7 @@ aliases:
 
 # Township Threads
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Township Threads — infographic](img/D4_P3_S5_T2_G725__henry.jpg){ .game-hero }
 
 > Weave a rich, interconnected narrative tapestry of a small town through overlapping character pairings.
 

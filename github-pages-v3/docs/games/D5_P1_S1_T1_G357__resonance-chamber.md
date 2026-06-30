@@ -63,7 +63,7 @@ aliases: []
 
 # Resonance Chamber
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Resonance Chamber — infographic](img/D5_P1_S1_T1_G357__resonance-chamber.jpg){ .game-hero }
 
 > Calibrate your stage energy to shift the room's emotional atmosphere without breaking the fourth wall.
 

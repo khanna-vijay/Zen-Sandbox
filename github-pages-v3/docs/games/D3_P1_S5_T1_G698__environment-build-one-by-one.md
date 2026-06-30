@@ -62,7 +62,7 @@ aliases:
 
 # The Living Blueprint
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Living Blueprint — infographic](img/D3_P1_S5_T1_G698__environment-build-one-by-one.jpg){ .game-hero }
 
 > Construct a rich, shared physical environment one invisible object at a time.
 

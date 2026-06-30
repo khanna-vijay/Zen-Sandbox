@@ -67,7 +67,7 @@ aliases: []
 
 # Narrative Resonance Echo
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Narrative Resonance Echo — infographic](img/D2_P3_S1_T2_G259__narrative-resonance-echo.jpg){ .game-hero }
 
 > Build a deep, connected story by echoing your partner's final words and proving their genius.
 

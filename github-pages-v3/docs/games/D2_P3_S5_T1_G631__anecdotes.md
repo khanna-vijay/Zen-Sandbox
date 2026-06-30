@@ -59,7 +59,7 @@ aliases: []
 
 # Shared Anecdotes
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Shared Anecdotes — infographic](img/D2_P3_S5_T1_G631__anecdotes.jpg){ .game-hero }
 
 > Co-create a seamless, highly supportive shared memory where every player is made to look brilliant.
 

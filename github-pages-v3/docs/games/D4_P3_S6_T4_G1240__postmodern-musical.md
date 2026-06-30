@@ -64,7 +64,7 @@ aliases:
 
 # Style-Shift Musical
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Style-Shift Musical — infographic](img/D4_P3_S6_T4_G1240__postmodern-musical.jpg){ .game-hero }
 
 > A narrative musical where players and an accompanist navigate ten distinct, audience-suggested musical genres.
 

@@ -70,7 +70,7 @@ aliases:
 
 # Clandestine Script
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Clandestine Script — infographic](img/D3_P1_S3_T2_G147__scene-weaver-digital-director-s-cut.jpg){ .game-hero }
 
 > Weave a silent digital tapestry punctuated by secret, game-changing narrative whispers.
 

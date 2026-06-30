@@ -62,7 +62,7 @@ aliases:
 
 # Trait Fusion Lab
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Trait Fusion Lab — infographic](img/D2_P2_S4_T2_G167__identity-reactor-labs.jpg){ .game-hero }
 
 > Fuse contrasting traits into bold characters and test them under pressure in virtual space.
 

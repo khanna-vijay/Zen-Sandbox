@@ -59,7 +59,7 @@ aliases:
 
 # Circle Swap
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Circle Swap — infographic](img/D4_P1_S1_T0_G1088__fruit-basket.jpg){ .game-hero }
 
 > A high-energy physical warm-up that builds rapid group connection and sharp peripheral awareness.
 

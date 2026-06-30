@@ -59,7 +59,7 @@ aliases:
 
 # Boundary Blitz
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Boundary Blitz — infographic](img/D2_P1_S6_T1_G223__boundary-blitz-rapid-consent-checks.jpg){ .game-hero }
 
 > Practice real-time boundary navigation and explicit consent check-ins through rapid, low-stakes scene snippets.
 

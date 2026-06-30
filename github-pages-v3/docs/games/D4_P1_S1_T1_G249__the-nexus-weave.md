@@ -73,7 +73,7 @@ aliases: []
 
 # The Living Tapestry
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Living Tapestry — infographic](img/D4_P1_S1_T1_G249__the-nexus-weave.jpg){ .game-hero }
 
 > Weave and constantly re-shape an interconnected physical and narrative web of relationships in real time.
 

@@ -61,7 +61,7 @@ aliases:
 
 # Character Relay
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Character Relay — infographic](img/D4_P1_S2_T2_G1277__simple-continuation.jpg){ .game-hero }
 
 > Step instantly into your ensemble mate's shoes to keep a single story flowing seamlessly.
 

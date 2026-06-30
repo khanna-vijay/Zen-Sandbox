@@ -62,7 +62,7 @@ aliases: []
 
 # C.R.O.W. Build
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![C.R.O.W. Build — infographic](img/D3_P2_S5_T1_G972__boom-chicago.jpg){ .game-hero }
 
 > Rapidly construct a complete base reality and resolve a narrative arc in three simple steps.
 

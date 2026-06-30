@@ -61,7 +61,7 @@ aliases:
 
 # Bippity Boppity Build
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Bippity Boppity Build — infographic](img/D4_P1_S2_T3_G958__bippety-bop-2.jpg){ .game-hero }
 
 > A high-energy circle game of rapid physical cooperation, split-second reflexes, and instant ensemble support.
 

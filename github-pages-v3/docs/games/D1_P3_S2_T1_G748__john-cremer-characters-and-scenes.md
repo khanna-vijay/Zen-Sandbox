@@ -59,7 +59,7 @@ aliases:
 
 # Inside Out Amplification
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Inside Out Amplification — infographic](img/D1_P3_S2_T1_G748__john-cremer-characters-and-scenes.jpg){ .game-hero }
 
 > Transform your genuine, present-moment feelings into bold, physically expressive characters through gradual amplification.
 

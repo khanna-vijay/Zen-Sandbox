@@ -67,7 +67,7 @@ aliases: []
 
 # Resonant Echo
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Resonant Echo — infographic](img/D2_P2_S1_T1_G314__the-attuned-echo.jpg){ .game-hero }
 
 > Build deep partner connection and emotional subtext through precise verbal mirroring and micro-gifting.
 

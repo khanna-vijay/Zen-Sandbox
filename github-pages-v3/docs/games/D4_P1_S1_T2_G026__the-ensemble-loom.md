@@ -63,7 +63,7 @@ aliases: []
 
 # The Sensory Loom
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Sensory Loom — infographic](img/D4_P1_S1_T2_G026__the-ensemble-loom.jpg){ .game-hero }
 
 > Weave physical motifs and vocal fragments into a living, breathing atmospheric collage.
 

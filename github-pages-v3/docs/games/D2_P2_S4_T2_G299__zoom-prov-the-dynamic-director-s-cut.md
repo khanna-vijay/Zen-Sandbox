@@ -66,7 +66,7 @@ aliases:
 
 # The Live Edit
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Live Edit — infographic](img/D2_P2_S4_T2_G299__zoom-prov-the-dynamic-director-s-cut.jpg){ .game-hero }
 
 > Actors navigate sudden character shifts and environmental changes dictated in real-time by a digital audience.
 

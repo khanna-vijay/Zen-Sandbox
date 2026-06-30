@@ -63,7 +63,7 @@ aliases: []
 
 # The Permeability Dial
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Permeability Dial — infographic](img/D5_P1_S2_T3_G528__the-conductor-of-collective-reality.jpg){ .game-hero }
 
 > Control the fourth wall like a volume knob to direct, shape, and master audience energy.
 

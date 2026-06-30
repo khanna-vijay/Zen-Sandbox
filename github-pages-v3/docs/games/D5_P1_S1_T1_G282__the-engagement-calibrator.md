@@ -59,7 +59,7 @@ aliases:
 
 # The Silent Auditor
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Silent Auditor — infographic](img/D5_P1_S1_T1_G282__the-engagement-calibrator.jpg){ .game-hero }
 
 > Calibrate your stage energy in real-time using silent, audience-proxy feedback without breaking character.
 

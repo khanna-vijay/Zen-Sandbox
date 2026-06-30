@@ -58,7 +58,7 @@ aliases:
 
 # Gaze and Scream
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Gaze and Scream — infographic](img/D4_P1_S1_T0_G1331__the-scream.jpg){ .game-hero }
 
 > Lock eyes, scream in mock terror, and drop out in this high-energy elimination warm-up.
 

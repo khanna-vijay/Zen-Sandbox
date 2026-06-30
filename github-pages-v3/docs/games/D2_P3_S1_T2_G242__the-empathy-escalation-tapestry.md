@@ -68,7 +68,7 @@ aliases: []
 
 # Subtext Resonance
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Subtext Resonance — infographic](img/D2_P3_S1_T2_G242__the-empathy-escalation-tapestry.jpg){ .game-hero }
 
 > Pause, decode, and mirror your partner's unspoken emotional and status cues to build deeply connected scenes.
 

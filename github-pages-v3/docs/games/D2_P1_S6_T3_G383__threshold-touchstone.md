@@ -61,7 +61,7 @@ aliases:
 
 # Threshold and Touchstone
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Threshold and Touchstone — infographic](img/D2_P1_S6_T3_G383__threshold-touchstone.jpg){ .game-hero }
 
 > Navigate physical intimacy and personal boundaries in real-time through structured, high-stakes emotional scenes.
 

@@ -57,7 +57,7 @@ aliases: []
 
 # Dialogue and Doing
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Dialogue and Doing — infographic](img/D3_P1_S5_T1_G663__chat-then-add-activity.jpg){ .game-hero }
 
 > Ground verbal scenes by layering in physical tasks without talking about the action.
 

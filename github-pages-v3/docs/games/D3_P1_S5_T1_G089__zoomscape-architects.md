@@ -64,7 +64,7 @@ aliases: []
 
 # Virtual Vista Architects
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Virtual Vista Architects — infographic](img/D3_P1_S5_T1_G089__zoomscape-architects.jpg){ .game-hero }
 
 > Co-create immersive digital environments and interactive props using virtual backgrounds and collaborative screen annotations.
 

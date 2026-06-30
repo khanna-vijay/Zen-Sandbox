@@ -58,7 +58,7 @@ aliases: []
 
 # Name the Monster
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Name the Monster — infographic](img/D3_P4_S3_T2_G1199__name-the-monster.jpg){ .game-hero }
 
 > Confront and label an unexpected threat together, one word at a time.
 

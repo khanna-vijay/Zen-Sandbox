@@ -65,7 +65,7 @@ aliases:
 
 # Digital Space Sculptors
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Digital Space Sculptors — infographic](img/D3_P2_S5_T2_G425__zoom-scene-sculptors-the-living-canvas.jpg){ .game-hero }
 
 > Collaboratively build a rich virtual environment and character web, one digital layer at a time.
 

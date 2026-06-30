@@ -54,7 +54,7 @@ aliases:
 
 # Fuzzy Ducky
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Fuzzy Ducky — infographic](img/D1_P2_S1_T0_G1091__fuzzy-ducky.jpg){ .game-hero }
 
 > A rapid-fire, tongue-twisting counting game where mental slip-ups are celebrated with collective joy.
 

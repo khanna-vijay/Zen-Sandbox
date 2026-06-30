@@ -64,7 +64,7 @@ aliases:
 
 # The Solo Ensemble
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Solo Ensemble — infographic](img/D1_P1_S3_T1_G1317__sybil.jpg){ .game-hero }
 
 > Bring an entire village to life alone through physical commitment and rapid character transformations.
 

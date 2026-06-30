@@ -57,7 +57,7 @@ aliases: []
 
 # Leave for a Reason
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Leave for a Reason — infographic](img/D4_P1_S1_T0_G1153__leave-for-a-reason.jpg){ .game-hero }
 
 > Exit the space together in complete silence, driven by a single, unspoken shared realization.
 

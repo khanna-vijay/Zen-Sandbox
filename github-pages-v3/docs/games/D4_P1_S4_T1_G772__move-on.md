@@ -60,7 +60,7 @@ aliases: []
 
 # Keep and Move On
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Keep and Move On — infographic](img/D4_P1_S4_T1_G772__move-on.jpg){ .game-hero }
 
 > A high-energy editing drill where scenes pivot instantly on a single, preserved detail.
 

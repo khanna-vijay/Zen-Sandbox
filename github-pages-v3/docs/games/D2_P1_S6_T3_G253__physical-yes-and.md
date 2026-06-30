@@ -61,7 +61,7 @@ aliases:
 
 # The Contact Compass
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Contact Compass — infographic](img/D2_P1_S6_T3_G253__physical-yes-and.jpg){ .game-hero }
 
 > Navigate physical contact in real-time scenes through explicit, creative boundary negotiation.
 

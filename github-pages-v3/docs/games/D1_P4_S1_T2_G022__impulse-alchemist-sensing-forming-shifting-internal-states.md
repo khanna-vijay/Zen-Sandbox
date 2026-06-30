@@ -67,7 +67,7 @@ aliases: []
 
 # Impulse Alchemy
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Impulse Alchemy — infographic](img/D1_P4_S1_T2_G022__impulse-alchemist-sensing-forming-shifting-internal-states.jpg){ .game-hero }
 
 > Transform raw physical impulses into dynamic characters and spontaneous scenes guided by a steady beat.
 

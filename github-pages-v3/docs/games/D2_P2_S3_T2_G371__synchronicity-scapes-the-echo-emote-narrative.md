@@ -67,7 +67,7 @@ aliases: []
 
 # Emotional Echo Chambers
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Emotional Echo Chambers — infographic](img/D2_P2_S3_T2_G371__synchronicity-scapes-the-echo-emote-narrative.jpg){ .game-hero }
 
 > Mirror and amplify emotional currents in a virtual space using backgrounds, emojis, and physical expression.
 

@@ -56,7 +56,7 @@ aliases: []
 
 # The Duck Chorus
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Duck Chorus — infographic](img/D4_P1_S4_T2_G1211__one-duck.jpg){ .game-hero }
 
 > A rhythmic, cumulative counting game that demands intense focus, active listening, and collective recovery.
 

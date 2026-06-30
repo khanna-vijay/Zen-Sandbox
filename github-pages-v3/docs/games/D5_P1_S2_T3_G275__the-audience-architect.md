@@ -63,7 +63,7 @@ aliases:
 
 # The Audience Architect
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Audience Architect — infographic](img/D5_P1_S2_T3_G275__the-audience-architect.jpg){ .game-hero }
 
 > Command the room by freezing the action to directly negotiate and sculpt the audience's experience.
 

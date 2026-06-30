@@ -60,7 +60,7 @@ aliases: []
 
 # The Solo Gauntlet
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Solo Gauntlet — infographic](img/D1_P4_S1_T2_G1324__the-gauntlet.jpg){ .game-hero }
 
 > A high-octane solo endurance drill designed to outrun your inner critic through rapid character shifts.
 

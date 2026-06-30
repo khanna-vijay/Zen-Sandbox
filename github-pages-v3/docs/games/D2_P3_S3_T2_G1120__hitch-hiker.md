@@ -67,7 +67,7 @@ aliases:
 
 # The Hitchhiker
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Hitchhiker — infographic](img/D2_P3_S3_T2_G1120__hitch-hiker.jpg){ .game-hero }
 
 > Pick up eccentric passengers and instantly mirror their intense emotional states and physical quirks.
 

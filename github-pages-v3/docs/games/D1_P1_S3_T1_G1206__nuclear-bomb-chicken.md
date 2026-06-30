@@ -55,7 +55,7 @@ aliases: []
 
 # The Henhouse Paradox
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Henhouse Paradox — infographic](img/D1_P1_S3_T1_G1206__nuclear-bomb-chicken.jpg){ .game-hero }
 
 > Maintain absolute character commitment even when the world is about to end.
 

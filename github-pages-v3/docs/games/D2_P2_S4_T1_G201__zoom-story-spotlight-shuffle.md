@@ -65,7 +65,7 @@ aliases:
 
 # Spotlight Story Pass
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Spotlight Story Pass — infographic](img/D2_P2_S4_T1_G201__zoom-story-spotlight-shuffle.jpg){ .game-hero }
 
 > Build a collaborative virtual story using physical reactions, rapid spotlighting, and silent visual handoffs.
 

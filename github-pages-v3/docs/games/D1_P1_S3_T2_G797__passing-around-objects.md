@@ -60,7 +60,7 @@ aliases:
 
 # The Physicality Circuit
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Physicality Circuit — infographic](img/D1_P1_S3_T2_G797__passing-around-objects.jpg){ .game-hero }
 
 > Keep mimed objects physically consistent as they travel and transform through a collaborative circle.
 

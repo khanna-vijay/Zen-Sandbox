@@ -54,7 +54,7 @@ aliases: []
 
 # The Unseen Mass
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Unseen Mass — infographic](img/D1_P1_S3_T3_G954__big-blob.jpg){ .game-hero }
 
 > Navigate a thick, imaginary obstacle with intense physical commitment while keeping your conversation completely normal.
 

@@ -64,7 +64,7 @@ aliases: []
 
 # The Echo and Elevate Exchange
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Echo and Elevate Exchange — infographic](img/D2_P3_S3_T2_G099__the-echo-elevate-exchange.jpg){ .game-hero }
 
 > Mirror your partner's unspoken feelings, name their state, and gift them a brilliant narrative justification.
 

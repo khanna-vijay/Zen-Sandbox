@@ -58,7 +58,7 @@ aliases: []
 
 # Association Jump
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Association Jump — infographic](img/D4_P1_S1_T1_G937__association-jump.jpg){ .game-hero }
 
 > Leap into a frozen pose and watch your ensemble instantly build a world around you.
 

@@ -55,7 +55,7 @@ aliases: []
 
 # The Scene Montage
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Scene Montage — infographic](img/D4_P3_S6_T3_G1185__montage.jpg){ .game-hero }
 
 > Weave a tapestry of interconnected and standalone scenes driven by dynamic, player-led edits.
 

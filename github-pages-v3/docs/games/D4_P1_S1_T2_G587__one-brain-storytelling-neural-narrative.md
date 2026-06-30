@@ -69,7 +69,7 @@ aliases:
 
 # The Shared Synapse
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Shared Synapse — infographic](img/D4_P1_S1_T2_G587__one-brain-storytelling-neural-narrative.jpg){ .game-hero }
 
 > Build a seamless, non-sequential story word-by-word using pure collective intuition and peripheral focus.
 

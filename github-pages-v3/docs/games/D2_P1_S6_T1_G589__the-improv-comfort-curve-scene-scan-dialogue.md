@@ -60,7 +60,7 @@ aliases:
 
 # The Comfort Curve
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Comfort Curve — infographic](img/D2_P1_S6_T1_G589__the-improv-comfort-curve-scene-scan-dialogue.jpg){ .game-hero }
 
 > Map your internal comfort in real-time to master honest boundary negotiation and active check-ins.
 

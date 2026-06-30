@@ -58,7 +58,7 @@ aliases:
 
 # The Epic Mundane
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Epic Mundane — infographic](img/D1_P1_S2_T1_G778__name-and-boring-fact.jpg){ .game-hero }
 
 > Transform the most boring details of your life into moments of absolute, earth-shattering triumph.
 

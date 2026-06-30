@@ -64,7 +64,7 @@ aliases: []
 
 # You Look, You Seem
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![You Look, You Seem — infographic](img/D2_P2_S3_T2_G908__you-look-you-seem.jpg){ .game-hero }
 
 > Deepen scene connection by naming and instantly amplifying your partner's real-time emotional states.
 

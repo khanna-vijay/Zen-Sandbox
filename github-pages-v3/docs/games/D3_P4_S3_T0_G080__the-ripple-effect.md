@@ -62,7 +62,7 @@ aliases:
 
 # The Ripple Effect
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Ripple Effect — infographic](img/D3_P4_S3_T0_G080__the-ripple-effect.jpg){ .game-hero }
 
 > Transform subtle, unspoken physical and verbal offers into deep, deliberate narrative choices.
 

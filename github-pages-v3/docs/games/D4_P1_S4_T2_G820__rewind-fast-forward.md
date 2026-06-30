@@ -64,7 +64,7 @@ aliases:
 
 # Remote Control Playback
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Remote Control Playback — infographic](img/D4_P1_S4_T2_G820__rewind-fast-forward.jpg){ .game-hero }
 
 > Manipulate time and space as an ensemble using physical and vocal playback commands.
 

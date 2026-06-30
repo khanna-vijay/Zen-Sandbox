@@ -56,7 +56,7 @@ aliases: []
 
 # Sixty-Second Biography
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Sixty-Second Biography — infographic](img/D2_P3_S1_T0_G785__one-minute-life-story.jpg){ .game-hero }
 
 > Share your life in one minute, then hear it lovingly gifted back to you.
 

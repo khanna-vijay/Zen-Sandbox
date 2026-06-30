@@ -60,7 +60,7 @@ aliases: []
 
 # Name Volley
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Name Volley — infographic](img/D4_P1_S1_T2_G1200__name-volley.jpg){ .game-hero }
 
 > Keep an imaginary volleyball in play by calling out names and tracking the group's focus.
 

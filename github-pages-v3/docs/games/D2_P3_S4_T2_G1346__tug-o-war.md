@@ -61,7 +61,7 @@ aliases:
 
 # The Invisible Rope
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Invisible Rope — infographic](img/D2_P3_S4_T2_G1346__tug-o-war.jpg){ .game-hero }
 
 > Feel the tension and share the struggle in a high-energy, imaginary battle of physics.
 

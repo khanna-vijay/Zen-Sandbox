@@ -57,7 +57,7 @@ aliases:
 
 # Fingertip Guide
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Fingertip Guide — infographic](img/D2_P3_S3_T1_G1067__fingertips.jpg){ .game-hero }
 
 > Navigate the physical space blindly, guided solely by the gentle contact of your partner's fingertips.
 

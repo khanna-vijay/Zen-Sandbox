@@ -63,7 +63,7 @@ aliases:
 
 # Echoes of the Valley
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Echoes of the Valley — infographic](img/D4_P3_S5_T2_G1098__goon-river.jpg){ .game-hero }
 
 > Weave a single, rich narrative tapestry through the intersecting monologues of a shared community.
 

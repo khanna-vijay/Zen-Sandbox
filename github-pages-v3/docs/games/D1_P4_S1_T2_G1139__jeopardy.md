@@ -60,7 +60,7 @@ aliases: []
 
 # The Answer Is
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Answer Is — infographic](img/D1_P4_S1_T2_G1139__jeopardy.jpg){ .game-hero }
 
 > Spitfire absurd questions to fit mundane answers in a high-energy race against your filter.
 

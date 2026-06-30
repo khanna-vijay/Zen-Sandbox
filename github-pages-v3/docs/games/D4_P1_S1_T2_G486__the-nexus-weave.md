@@ -67,7 +67,7 @@ aliases: []
 
 # Tapestry of Threads
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Tapestry of Threads — infographic](img/D4_P1_S1_T2_G486__the-nexus-weave.jpg){ .game-hero }
 
 > Weave independent physical actions into a single, unified, and cohesive multi-character narrative.
 

@@ -54,7 +54,7 @@ aliases:
 
 # Alien, Tiger, Cow
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Alien, Tiger, Cow — infographic](img/D4_P1_S1_T0_G923__alien-tiger-cow.jpg){ .game-hero }
 
 > A high-energy group alignment game where players strive to make the same choice without planning.
 

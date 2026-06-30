@@ -62,7 +62,7 @@ aliases:
 
 # Space Jump
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Space Jump — infographic](img/D3_P2_S6_T1_G843__space-jump.jpg){ .game-hero }
 
 > A physical chain-reaction game of freezing, justifying absurd postures, and reversing back to the start.
 

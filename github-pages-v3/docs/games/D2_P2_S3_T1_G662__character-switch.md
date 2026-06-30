@@ -63,7 +63,7 @@ aliases: []
 
 # Persona Swap
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Persona Swap — infographic](img/D2_P2_S3_T1_G662__character-switch.jpg){ .game-hero }
 
 > Step into your partner's shoes instantly by inheriting their physical, vocal, and emotional choices.
 

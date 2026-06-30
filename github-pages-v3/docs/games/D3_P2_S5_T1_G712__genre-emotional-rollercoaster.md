@@ -66,7 +66,7 @@ aliases:
 
 # Style Rollercoaster
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Style Rollercoaster — infographic](img/D3_P2_S5_T1_G712__genre-emotional-rollercoaster.jpg){ .game-hero }
 
 > A fast-paced scenic game where players maintain their core narrative while shifting through dramatic genres.
 

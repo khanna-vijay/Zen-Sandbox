@@ -64,7 +64,7 @@ aliases:
 
 # Resonant Endowment
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Resonant Endowment — infographic](img/D2_P3_S5_T1_G418__the-resonant-endowment-game.jpg){ .game-hero }
 
 > Transform your partner's subtle, unspoken physical offers into brilliant, defined realities.
 

@@ -63,7 +63,7 @@ aliases:
 
 # Instruction Manual Die
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Instruction Manual Die — infographic](img/D2_P2_S1_T0_G740__instruction-manual-die.jpg){ .game-hero }
 
 > Co-create a hilarious, high-stakes user guide where hesitation leads to a dramatic demise.
 

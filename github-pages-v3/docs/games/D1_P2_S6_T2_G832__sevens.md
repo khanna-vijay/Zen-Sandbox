@@ -57,7 +57,7 @@ aliases: []
 
 # Sevens
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Sevens — infographic](img/D1_P2_S6_T2_G832__sevens.jpg){ .game-hero }
 
 > A high-energy, fast-paced counting game where mistakes are celebrated with a joyful lap of honor.
 

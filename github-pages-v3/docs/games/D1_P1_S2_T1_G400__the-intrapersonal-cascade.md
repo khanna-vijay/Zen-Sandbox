@@ -66,7 +66,7 @@ aliases: []
 
 # The Emotional Pivot
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Emotional Pivot — infographic](img/D1_P1_S2_T1_G400__the-intrapersonal-cascade.jpg){ .game-hero }
 
 > Master rapid emotional transitions through total physical commitment and sudden, silent internal shifts.
 

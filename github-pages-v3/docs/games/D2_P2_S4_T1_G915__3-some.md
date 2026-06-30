@@ -60,7 +60,7 @@ aliases:
 
 # Three-Part Tableau
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Three-Part Tableau — infographic](img/D2_P2_S4_T1_G915__3-some.jpg){ .game-hero }
 
 > Build, connect, and dissolve thematic trios in a rapid-fire chain of spontaneous associations.
 

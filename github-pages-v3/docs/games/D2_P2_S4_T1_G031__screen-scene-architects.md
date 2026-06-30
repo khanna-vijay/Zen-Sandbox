@@ -67,7 +67,7 @@ aliases: []
 
 # Virtual Scene Architects
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Virtual Scene Architects — infographic](img/D2_P2_S4_T1_G031__screen-scene-architects.jpg){ .game-hero }
 
 > Co-create immersive digital worlds and characters using video platform features and physical props.
 

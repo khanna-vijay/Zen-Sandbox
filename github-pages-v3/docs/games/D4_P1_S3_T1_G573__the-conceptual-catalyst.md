@@ -63,7 +63,7 @@ aliases:
 
 # Polarity Shift
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Polarity Shift — infographic](img/D4_P1_S3_T1_G573__the-conceptual-catalyst.jpg){ .game-hero }
 
 > Transform an abstract concept into its polar opposite through collective physical and vocal evolution.
 

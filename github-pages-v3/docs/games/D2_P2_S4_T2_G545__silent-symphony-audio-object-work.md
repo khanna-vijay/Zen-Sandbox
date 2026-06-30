@@ -63,7 +63,7 @@ aliases:
 
 # Muted Symphony
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Muted Symphony — infographic](img/D2_P2_S4_T2_G545__silent-symphony-audio-object-work.jpg){ .game-hero }
 
 > Translate silent physical offers into rich, audible realities using your video platform's mute button.
 

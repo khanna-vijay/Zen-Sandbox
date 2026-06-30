@@ -70,7 +70,7 @@ aliases:
 
 # The Illustrated Chronicle
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Illustrated Chronicle — infographic](img/D2_P2_S4_T1_G090__the-collaborative-canvas-a-story-weaving-odyssey.jpg){ .game-hero }
 
 > Paint and speak a shared world into existence, one stroke and one sentence at a time.
 

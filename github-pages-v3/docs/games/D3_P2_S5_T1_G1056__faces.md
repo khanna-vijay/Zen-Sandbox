@@ -65,7 +65,7 @@ aliases: []
 
 # Portrait Gallery
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Portrait Gallery — infographic](img/D3_P2_S5_T1_G1056__faces.jpg){ .game-hero }
 
 > Bring projected portraits to life through monologues, then weave their worlds into a connected narrative.
 

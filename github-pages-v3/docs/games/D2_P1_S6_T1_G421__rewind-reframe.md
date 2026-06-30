@@ -59,7 +59,7 @@ aliases: []
 
 # Rewind and Reframe
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Rewind and Reframe — infographic](img/D2_P1_S6_T1_G421__rewind-reframe.jpg){ .game-hero }
 
 > Pause scenes at potential boundaries to check in, adjust, and collaboratively discover safer creative paths.
 

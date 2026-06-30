@@ -58,7 +58,7 @@ aliases: []
 
 # The Inverse Self
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Inverse Self — infographic](img/D1_P3_S3_T1_G1220__opposites.jpg){ .game-hero }
 
 > Step out of your comfort zone by embodying the physical and emotional opposite of yourself.
 

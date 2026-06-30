@@ -66,7 +66,7 @@ aliases:
 
 # The Gestural Weave
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Gestural Weave — infographic](img/D4_P2_S1_T1_G189__the-gestural-weave.jpg){ .game-hero }
 
 > Build rich, grounded scenes by collectively amplifying subtle physical impulses and emotional atmospheres.
 

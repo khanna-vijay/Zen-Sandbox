@@ -66,7 +66,7 @@ aliases:
 
 # The Resonance Chamber
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Resonance Chamber — infographic](img/D2_P3_S3_T2_G513__the-emotional-amplifier-a-e-r-sacred-echo-edition.jpg){ .game-hero }
 
 > Deepen partner connection by pausing the narrative to physically and vocally amplify their emotional offers.
 

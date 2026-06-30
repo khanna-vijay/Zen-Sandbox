@@ -70,7 +70,7 @@ aliases:
 
 # Subtext Sculptors
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Subtext Sculptors — infographic](img/D4_P1_S1_T1_G465__the-echo-chamber-of-intent-meta-sculptors.jpg){ .game-hero }
 
 > Make the unspoken visible as physical shadows that can step forward and transform the narrative.
 

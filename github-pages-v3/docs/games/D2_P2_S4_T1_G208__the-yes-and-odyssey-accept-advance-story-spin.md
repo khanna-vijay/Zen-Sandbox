@@ -64,7 +64,7 @@ aliases:
 
 # Accept and Advance Relay
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Accept and Advance Relay — infographic](img/D2_P2_S4_T1_G208__the-yes-and-odyssey-accept-advance-story-spin.jpg){ .game-hero }
 
 > Master the seamless handoff of collaborative storytelling using active virtual spotlighting.
 

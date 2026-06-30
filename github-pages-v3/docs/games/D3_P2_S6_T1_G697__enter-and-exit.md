@@ -59,7 +59,7 @@ aliases: []
 
 # Cue and Justify
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Cue and Justify — infographic](img/D3_P2_S6_T1_G697__enter-and-exit.jpg){ .game-hero }
 
 > Justify sudden entrances and exits triggered by secret verbal cues spoken by your scene partners.
 

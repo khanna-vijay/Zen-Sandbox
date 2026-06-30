@@ -55,7 +55,7 @@ aliases: []
 
 # What?
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![What? — infographic](img/D3_P2_S1_T1_G883__what.jpg){ .game-hero }
 
 > Transform any ordinary line into an extraordinary comedic game with a single, shocked reaction.
 

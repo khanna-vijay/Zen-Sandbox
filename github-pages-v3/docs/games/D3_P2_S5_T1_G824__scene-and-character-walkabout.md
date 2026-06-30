@@ -62,7 +62,7 @@ aliases: []
 
 # Parallel Worlds Walkabout
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Parallel Worlds Walkabout — infographic](img/D3_P2_S5_T1_G824__scene-and-character-walkabout.jpg){ .game-hero }
 
 > Build instant base realities simultaneously with a partner in a low-pressure, high-energy environment.
 

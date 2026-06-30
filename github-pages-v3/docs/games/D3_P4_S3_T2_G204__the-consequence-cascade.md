@@ -63,7 +63,7 @@ aliases: []
 
 # The Consequence Cascade
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Consequence Cascade — infographic](img/D3_P4_S3_T2_G204__the-consequence-cascade.jpg){ .game-hero }
 
 > Integrate sudden, game-changing plot twists by retroactively justifying them as absolute, pre-existing truths.
 

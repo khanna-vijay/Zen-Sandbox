@@ -57,7 +57,7 @@ aliases: []
 
 # Nested Epochs
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Nested Epochs — infographic](img/D4_P3_S5_T2_G991__cloud-atlas.jpg){ .game-hero }
 
 > Weave a multi-generational tapestry of stories that travels forward through time and resolves in reverse.
 

@@ -63,7 +63,7 @@ aliases:
 
 # The Fourth Wall Accord
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Fourth Wall Accord — infographic](img/D5_P1_S1_T1_G016__the-audience-accord.jpg){ .game-hero }
 
 > Master the fourth wall by reading audience energy and making deliberate, real-time performance adjustments.
 

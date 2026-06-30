@@ -63,7 +63,7 @@ aliases: []
 
 # The Narrative Escalator
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Narrative Escalator — infographic](img/D3_P4_S7_T1_G186__the-narrative-escalator.jpg){ .game-hero }
 
 > Drive narrative momentum by systematically heightening character desires and the consequences of failure.
 

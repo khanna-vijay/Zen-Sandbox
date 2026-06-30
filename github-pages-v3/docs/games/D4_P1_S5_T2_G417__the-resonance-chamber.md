@@ -65,7 +65,7 @@ aliases: []
 
 # The Resonance Chamber
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Resonance Chamber — infographic](img/D4_P1_S5_T2_G417__the-resonance-chamber.jpg){ .game-hero }
 
 > Build a rich, non-linear tapestry of atmosphere and emotion through abstract, associative echoes.
 

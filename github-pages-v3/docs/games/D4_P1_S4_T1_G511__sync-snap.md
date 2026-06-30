@@ -59,7 +59,7 @@ aliases:
 
 # Ensemble Snap
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Ensemble Snap — infographic](img/D4_P1_S4_T1_G511__sync-snap.jpg){ .game-hero }
 
 > Train your ensemble to execute seamless, split-second scene transitions in perfect physical and rhythmic unison.
 

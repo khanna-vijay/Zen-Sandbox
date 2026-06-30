@@ -59,7 +59,7 @@ aliases:
 
 # Scene Replication
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Scene Replication — infographic](img/D2_P2_S3_T1_G826__scene-repeater.jpg){ .game-hero }
 
 > Replicate a partner's scene down to the smallest twitch, breath, and verbal slip.
 

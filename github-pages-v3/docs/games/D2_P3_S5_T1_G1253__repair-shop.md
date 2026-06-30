@@ -59,7 +59,7 @@ aliases:
 
 # The Fix-It Shop
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Fix-It Shop — infographic](img/D2_P3_S5_T1_G1253__repair-shop.jpg){ .game-hero }
 
 > Discover a bizarre product defect through physical clues and clever verbal endowments from your partner.
 

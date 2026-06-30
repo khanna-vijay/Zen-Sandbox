@@ -59,7 +59,7 @@ aliases:
 
 # Boundary Blueprints
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Boundary Blueprints — infographic](img/D2_P1_S6_T1_G104__boundary-architects-the-consent-blueprint.jpg){ .game-hero }
 
 > Build a culture of active consent by pausing scenes to negotiate physical boundaries in real-time.
 

@@ -57,7 +57,7 @@ aliases:
 
 # Predatory Bunny
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Predatory Bunny — infographic](img/D4_P1_S1_T2_G1142__killer-bunny.jpg){ .game-hero }
 
 > A high-stakes rhythm game of sudden betrayal, rapid defense, and hyper-focused group awareness.
 

@@ -58,7 +58,7 @@ aliases: []
 
 # You're Amazing
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![You're Amazing — infographic](img/D4_P1_S2_T0_G909__you-re-amazing.jpg){ .game-hero }
 
 > A high-energy, status-flipping mixer where compliments are met with playful, dramatic dismissals.
 

@@ -61,7 +61,7 @@ aliases:
 
 # The Connected Waltz
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Connected Waltz — infographic](img/D2_P3_S1_T0_G1138__janus-dance.jpg){ .game-hero }
 
 > Speak, move, and listen as one while dancing cheek-to-cheek without eye contact.
 

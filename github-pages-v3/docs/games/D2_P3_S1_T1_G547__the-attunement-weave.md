@@ -69,7 +69,7 @@ aliases: []
 
 # The Attunement Weave
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Attunement Weave — infographic](img/D2_P3_S1_T1_G547__the-attunement-weave.jpg){ .game-hero }
 
 > Weave active listening, emotional echoing, and status shifts into a seamless, deeply connected dialogue.
 

@@ -62,7 +62,7 @@ aliases:
 
 # The Narrative Relay
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Narrative Relay — infographic](img/D3_P4_S3_T1_G216__the-echo-chamber-chronicle.jpg){ .game-hero }
 
 > Co-create structured, dynamic stories over video chat by claiming specialized narrative roles.
 

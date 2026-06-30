@@ -59,7 +59,7 @@ aliases: []
 
 # Receiver's Right
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Receiver's Right — infographic](img/D4_P1_S1_T2_G1250__receiver-right-clap.jpg){ .game-hero }
 
 > Track the target and launch the next offer from the periphery.
 

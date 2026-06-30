@@ -62,7 +62,7 @@ aliases: []
 
 # Spontaneous Rap Duel
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Spontaneous Rap Duel — infographic](img/D1_P1_S1_T2_G816__rap-battle.jpg){ .game-hero }
 
 > A high-energy battle of wits, rhythm, and unfiltered commitment under pressure.
 

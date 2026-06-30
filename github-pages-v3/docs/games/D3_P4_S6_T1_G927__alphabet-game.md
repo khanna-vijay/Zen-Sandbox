@@ -62,7 +62,7 @@ aliases:
 
 # Alphabet Elimination
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Alphabet Elimination — infographic](img/D3_P4_S6_T1_G927__alphabet-game.jpg){ .game-hero }
 
 > Navigate a scene letter-by-letter, justifying bizarre constraints while keeping the narrative alive.
 

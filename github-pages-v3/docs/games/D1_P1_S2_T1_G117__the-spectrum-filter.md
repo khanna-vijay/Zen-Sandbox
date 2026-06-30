@@ -64,7 +64,7 @@ aliases: []
 
 # The Spectrum Filter
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Spectrum Filter — infographic](img/D1_P1_S2_T1_G117__the-spectrum-filter.jpg){ .game-hero }
 
 > Instantly fuse secret physical and emotional states, modulating their intensity on a rapid-fire dial.
 

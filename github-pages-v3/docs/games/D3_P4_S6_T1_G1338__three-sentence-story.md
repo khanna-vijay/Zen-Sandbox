@@ -55,7 +55,7 @@ aliases: []
 
 # Three-Sentence Synthesis
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Three-Sentence Synthesis — infographic](img/D3_P4_S6_T1_G1338__three-sentence-story.jpg){ .game-hero }
 
 > Weave three completely unrelated sentences into a single, cohesive, and logical narrative.
 

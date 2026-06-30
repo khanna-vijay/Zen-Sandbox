@@ -68,7 +68,7 @@ aliases: []
 
 # The Pulse Weaver
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Pulse Weaver — infographic](img/D4_P1_S1_T2_G456__the-pulse-weaver.jpg){ .game-hero }
 
 > Co-create an evolving thematic rhythm through rapid, micro-additions that echo and expand the collective mood.
 

@@ -67,7 +67,7 @@ aliases: []
 
 # Fourth Wall Fluctuations
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Fourth Wall Fluctuations — infographic](img/D5_P1_S2_T3_G039__fourth-wall-fluctuations.jpg){ .game-hero }
 
 > Deliver a monologue while dynamically adjusting your performance to real-time, visual audience feedback cards.
 

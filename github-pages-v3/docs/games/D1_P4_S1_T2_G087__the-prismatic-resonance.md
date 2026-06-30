@@ -77,7 +77,7 @@ aliases:
 
 # Prismatic Impulse
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Prismatic Impulse — infographic](img/D1_P4_S1_T2_G087__the-prismatic-resonance.jpg){ .game-hero }
 
 > Translate abstract sensory prompts into instant, fully committed physical and vocal expressions, then instantly reset.
 

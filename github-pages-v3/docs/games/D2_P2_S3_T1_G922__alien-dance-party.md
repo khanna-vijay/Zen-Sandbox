@@ -57,7 +57,7 @@ aliases: []
 
 # Cosmic Groove Relay
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Cosmic Groove Relay — infographic](img/D2_P2_S3_T1_G922__alien-dance-party.jpg){ .game-hero }
 
 > Pass a high-energy physical dance around the circle by mirroring and evolving unique movements.
 

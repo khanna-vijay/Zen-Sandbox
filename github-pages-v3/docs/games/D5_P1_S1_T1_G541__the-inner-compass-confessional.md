@@ -68,7 +68,7 @@ aliases:
 
 # The Silent Confessional
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Silent Confessional — infographic](img/D5_P1_S1_T1_G541__the-inner-compass-confessional.jpg){ .game-hero }
 
 > Step out of the scene, read the room's silent reactions, and let them change you.
 

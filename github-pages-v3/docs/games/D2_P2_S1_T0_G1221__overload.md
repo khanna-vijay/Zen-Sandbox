@@ -58,7 +58,7 @@ aliases: []
 
 # The Focus Crucible
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Focus Crucible — infographic](img/D2_P2_S1_T0_G1221__overload.jpg){ .game-hero }
 
 > Bypass your inner critic by juggling rapid-fire questions and physical mirroring simultaneously.
 

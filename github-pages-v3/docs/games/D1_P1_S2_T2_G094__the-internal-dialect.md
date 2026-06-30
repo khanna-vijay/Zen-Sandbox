@@ -67,7 +67,7 @@ aliases: []
 
 # The Emotional Echo
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Emotional Echo — infographic](img/D1_P1_S2_T2_G094__the-internal-dialect.jpg){ .game-hero }
 
 > Transform neutral physical and vocal impulses into high-commitment emotional expressions in a continuous passing circle.
 

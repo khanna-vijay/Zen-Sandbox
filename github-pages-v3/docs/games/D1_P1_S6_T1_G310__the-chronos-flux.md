@@ -64,7 +64,7 @@ aliases: []
 
 # The Pivot Point
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Pivot Point — infographic](img/D1_P1_S6_T1_G310__the-chronos-flux.jpg){ .game-hero }
 
 > Instantly absorb unexpected disruptions and seamlessly weave them into your character's physical and emotional reality.
 

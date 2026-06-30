@@ -58,7 +58,7 @@ aliases: []
 
 # Chain Reactions
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Chain Reactions — infographic](img/D3_P0_S1_T1_G875__triggers.jpg){ .game-hero }
 
 > Uncover and exploit secret cause-and-effect loops to build a hilarious, high-energy comedic scene.
 

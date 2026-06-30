@@ -68,7 +68,7 @@ aliases: []
 
 # The Resonance Chamber
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Resonance Chamber — infographic](img/D2_P3_S3_T2_G107__the-echo-chamber-endowment.jpg){ .game-hero }
 
 > Deepen partner connection by mirroring emotional subtext while navigating secret status and endowment prompts.
 

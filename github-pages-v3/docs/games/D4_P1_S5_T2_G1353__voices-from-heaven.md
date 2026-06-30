@@ -60,7 +60,7 @@ aliases:
 
 # Departed Voices
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Departed Voices — infographic](img/D4_P1_S5_T2_G1353__voices-from-heaven.jpg){ .game-hero }
 
 > Four souls weave their separate lives into a single, shared fatal moment of destiny.
 

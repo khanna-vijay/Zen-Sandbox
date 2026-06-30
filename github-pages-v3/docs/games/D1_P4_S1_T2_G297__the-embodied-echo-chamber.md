@@ -68,7 +68,7 @@ aliases: []
 
 # The Embodied Echo Chamber
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Embodied Echo Chamber — infographic](img/D1_P4_S1_T2_G297__the-embodied-echo-chamber.jpg){ .game-hero }
 
 > Bypass intellectual filters by instantly translating abstract prompts into collective physical and vocal resonance.
 

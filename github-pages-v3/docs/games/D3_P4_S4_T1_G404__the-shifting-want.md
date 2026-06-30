@@ -64,7 +64,7 @@ aliases:
 
 # The Shifting Want
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Shifting Want — infographic](img/D3_P4_S4_T1_G404__the-shifting-want.jpg){ .game-hero }
 
 > Drive narrative momentum by continuously evolving character objectives and raising what they stand to lose.
 

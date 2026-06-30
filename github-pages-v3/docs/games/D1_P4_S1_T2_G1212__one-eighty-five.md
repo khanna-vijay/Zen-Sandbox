@@ -59,7 +59,7 @@ aliases:
 
 # One Eighty-Five
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![One Eighty-Five — infographic](img/D1_P4_S1_T2_G1212__one-eighty-five.jpg){ .game-hero }
 
 > A rapid-fire pun game that trains players to trust and deliver their very first thought.
 

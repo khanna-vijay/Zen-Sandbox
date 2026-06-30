@@ -59,7 +59,7 @@ aliases: []
 
 # Shared Adventure
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Shared Adventure — infographic](img/D2_P2_S4_T1_G835__shared-holiday.jpg){ .game-hero }
 
 > Co-create a wild, fictional memory with your partner using the ultimate rule of agreement.
 

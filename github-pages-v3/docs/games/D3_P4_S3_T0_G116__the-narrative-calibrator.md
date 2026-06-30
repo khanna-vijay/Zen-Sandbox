@@ -65,7 +65,7 @@ aliases: []
 
 # The Narrative Calibrator
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Narrative Calibrator — infographic](img/D3_P4_S3_T0_G116__the-narrative-calibrator.jpg){ .game-hero }
 
 > Pause active scenes to consciously analyze, articulate, and instantly integrate critical story-building choices.
 
