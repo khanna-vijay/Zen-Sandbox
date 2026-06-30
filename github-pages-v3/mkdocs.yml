@@ -298,7 +298,7 @@ nav:
                   - "Projection": content/05_the-audience/05_S3_T2__projection.md
                   - "Make the choice readable": content/05_the-audience/05_S3_T3__make-the-choice-readable.md
   - Games List:
-      - Browse & filter: games/index.md
+      - Game Finder: games/index.md
       - The Self:
           - "General / core": games/cat/D1.S0.md
           - "Unfiltered Spontaneity": games/cat/D1.S1.md
