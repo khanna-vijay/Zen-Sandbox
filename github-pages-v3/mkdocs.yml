@@ -13,6 +13,8 @@ docs_dir: docs
 strict: true
 not_in_nav: |
   games/D*.md
+  community-guidelines.md
+  improv-synopsis.md
 
 theme:
   name: material
@@ -69,11 +71,10 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 nav:
-  - About: index.md
-  - The Big Picture:
-      - Community Guidelines: community-guidelines.md
-      - Improv - Core: improv-synopsis.md
-      - Improv Maturity Framework: improv-maturity-framework.md
+  - About:
+      - index.md
+      - My Philosophical view on Improv: improv-philosophy.md
+      - Improv Framework: improv-maturity-framework.md
   - Workshops:
       - Overview: workshops/index.md
       - "Foundations":
