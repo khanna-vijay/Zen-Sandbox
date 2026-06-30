@@ -37,7 +37,7 @@
   }
 
   function setup(games) {
-    var q = document.getElementById("g-q");
+    var q = document.getElementById("g-q") || { value: "", addEventListener: function () {} };
     var active = {}, chipEls = {};
     FACETS.forEach(function(f){ active[f[0]] = new Set(); chipEls[f[0]] = []; });
 

@@ -39,8 +39,6 @@ title: "W06 · Architecting the Arc"
 
 > Navigate physical zones and shifting emotional intensities to master the architecture of dramatic storytelling.
 
-![Spatial Story Engine — infographic](../../games/img/D3_P4_S3_T1_G083__the-embodied-narrative-algorithm.jpg){ .infographic }
-
 `Players 3+` · `~20 min` · `Complexity 4/5` · `Energy medium` · `Props: required`
 
 **Trains:** Narrative Architecture · _narrative_
@@ -61,8 +59,6 @@ title: "W06 · Architecting the Arc"
 #### Core game — Platform, Pattern, Pivot
 
 > Establish a stable reality, find its rhythmic pattern, and execute a perfectly justified narrative tilt.
-
-![Platform, Pattern, Pivot — infographic](../../games/img/D3_P4_S3_T2_G005__the-narrative-architect-s-trilogy.jpg){ .infographic }
 
 `Players 2+` · `~30 min` · `Complexity 4/5` · `Energy medium` · `Props: none`
 

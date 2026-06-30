@@ -39,8 +39,6 @@ title: "W13 · Make It Make Sense"
 
 > Weave a cohesive story while instantly justifying random, disruptive words thrown in by your partner.
 
-![Curveball Narrative — infographic](../../games/img/D3_P4_S6_T1_G681__curveball-story.jpg){ .infographic }
-
 `Players 2+` · `~5 min` · `Complexity 2/5` · `Energy medium` · `Props: none`
 
 **Trains:** Justification · _narrative_
@@ -60,8 +58,6 @@ title: "W13 · Make It Make Sense"
 #### Core game — Cue and Justify
 
 > Justify sudden entrances and exits triggered by secret verbal cues spoken by your scene partners.
-
-![Cue and Justify — infographic](../../games/img/D3_P2_S6_T1_G697__enter-and-exit.jpg){ .infographic }
 
 `Players 4+` · `~10 min` · `Complexity 2/5` · `Energy medium` · `Props: none`
 

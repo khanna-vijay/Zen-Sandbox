@@ -39,8 +39,6 @@ title: "W16 · Conducting Audience Energy"
 
 > Master the invisible boundary by deliberately building, softening, and breaking the fourth wall with your audience.
 
-![Architects of the Wall — infographic](../../games/img/D5_P1_S2_T3_G004__the-fourth-wall-architects-game.jpg){ .infographic }
-
 `Players 6+` · `~25 min` · `Complexity 4/5` · `Energy medium` · `Props: none`
 
 **Trains:** Audience-Energy Management · _skill drill_
@@ -61,8 +59,6 @@ title: "W16 · Conducting Audience Energy"
 #### Core game — The Audience Resonance Conductor
 
 > Direct the room's emotional current by treating the audience as your primary scene partner.
-
-![The Audience Resonance Conductor — infographic](../../games/img/D5_P1_S2_T3_G033__the-audience-resonance-conductor.jpg){ .infographic }
 
 `Players 3+` · `~30 min` · `Complexity 4/5` · `Energy medium` · `Props: required`
 
