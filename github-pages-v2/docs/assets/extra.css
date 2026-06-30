@@ -12,6 +12,8 @@
 .md-typeset .ref { color: var(--md-typeset-a-color); }
 
 /* ── Games List: modern faceted filter ── */
+/* Widen the content column ~50% on the Games page so filter chips fit on fewer lines. */
+.md-main:has(#games-results) .md-grid { max-width: 92rem; }
 .gf { display: flex; flex-direction: column; gap: .7rem; margin: 1rem 0 1.3rem;
   padding: .9rem 1rem; border: 1px solid var(--md-default-fg-color--lightest);
   border-radius: .8rem; background: var(--md-default-fg-color--lightest); }
