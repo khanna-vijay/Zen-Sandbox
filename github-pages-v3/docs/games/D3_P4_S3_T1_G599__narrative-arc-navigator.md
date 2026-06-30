@@ -62,7 +62,7 @@ aliases: []
 
 # Narrative Arc Navigator
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Narrative Arc Navigator — infographic](img/D3_P4_S3_T1_G599__narrative-arc-navigator.jpg){ .game-hero }
 
 > Steer collaborative scenes through structured narrative milestones to master the natural flow of storytelling.
 

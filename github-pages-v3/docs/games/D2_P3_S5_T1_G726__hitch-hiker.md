@@ -65,7 +65,7 @@ aliases:
 
 # The Familiar Passenger
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Familiar Passenger — infographic](img/D2_P3_S5_T1_G726__hitch-hiker.jpg){ .game-hero }
 
 > Fast-track intimacy and immediate character endowment in a rotating, high-connection car ride.
 

@@ -58,7 +58,7 @@ aliases:
 
 # The Event Planners
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Event Planners — infographic](img/D2_P2_S4_T1_G795__party-planning-picnic-basket.jpg){ .game-hero }
 
 > Experience the stark contrast between blocking and building by planning an imaginary celebration.
 

@@ -72,7 +72,7 @@ aliases:
 
 # Resonant Echoes
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Resonant Echoes — infographic](img/D2_P3_S3_T2_G079__resonant-echoes.jpg){ .game-hero }
 
 > Build profound, unspoken relationships by mirroring and elevating your partner's subtle emotional and status cues.
 

@@ -57,7 +57,7 @@ aliases: []
 
 # Make It Personal
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Make It Personal — infographic](img/D2_P2_S4_T2_G800__personalize-it.jpg){ .game-hero }
 
 > Transform dry, objective facts into high-stakes personal drama through instant emotional justification.
 

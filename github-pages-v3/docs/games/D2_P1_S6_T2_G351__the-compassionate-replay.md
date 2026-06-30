@@ -58,7 +58,7 @@ aliases: []
 
 # The Mindful Replay
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Mindful Replay — infographic](img/D2_P1_S6_T2_G351__the-compassionate-replay.jpg){ .game-hero }
 
 > Pause, renegotiate, and rewind scenes to master real-time boundary navigation and authentic play.
 

@@ -59,7 +59,7 @@ aliases: []
 
 # Boundary Cartography
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Boundary Cartography — infographic](img/D2_P1_S6_T1_G524__boundary-weavers.jpg){ .game-hero }
 
 > Navigate unspoken personal limits in real-time scenes using active check-ins and empowered choices.
 

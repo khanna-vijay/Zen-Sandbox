@@ -60,7 +60,7 @@ aliases:
 
 # The Consent Stone
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Consent Stone — infographic](img/D2_P1_S6_T1_G238__the-boundary-weaver.jpg){ .game-hero }
 
 > Pause scenes to explicitly negotiate physical, emotional, and narrative boundaries using a physical token.
 

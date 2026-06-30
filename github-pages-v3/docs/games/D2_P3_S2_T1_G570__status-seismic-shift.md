@@ -73,7 +73,7 @@ aliases:
 
 # Status Seesaw Shift
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Status Seesaw Shift — infographic](img/D2_P3_S2_T1_G570__status-seismic-shift.jpg){ .game-hero }
 
 > Instantly invert power dynamics mid-scene to elevate your partner and master physical status modulation.
 

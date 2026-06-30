@@ -55,7 +55,7 @@ aliases: []
 
 # Rewriting History
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Rewriting History — infographic](img/D3_P4_S3_T2_G821__rewrite-history.jpg){ .game-hero }
 
 > Uncover the hilarious, unrecorded truth behind famous historical events by tilting the timeline.
 

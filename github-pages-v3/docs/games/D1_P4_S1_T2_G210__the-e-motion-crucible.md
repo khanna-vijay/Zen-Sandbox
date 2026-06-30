@@ -68,7 +68,7 @@ aliases:
 
 # The Impulse Crucible
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Impulse Crucible — infographic](img/D1_P4_S1_T2_G210__the-e-motion-crucible.jpg){ .game-hero }
 
 > Instantly adapt your voice, body, and emotion to rapid-fire, shifting commands from a supportive circle.
 

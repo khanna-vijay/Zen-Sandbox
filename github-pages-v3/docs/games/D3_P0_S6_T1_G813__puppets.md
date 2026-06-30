@@ -57,7 +57,7 @@ aliases: []
 
 # Human Puppets
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Human Puppets — infographic](img/D3_P0_S6_T1_G813__puppets.jpg){ .game-hero }
 
 > Actors speak but rely entirely on physical puppeteers to move their bodies.
 

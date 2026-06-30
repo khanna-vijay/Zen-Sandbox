@@ -54,7 +54,7 @@ aliases: []
 
 # Linked Chase
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Linked Chase — infographic](img/D4_P1_S1_T2_G980__cat-and-mouse.jpg){ .game-hero }
 
 > A high-energy, fast-paced chase game where safety lies in linking arms with a partner.
 

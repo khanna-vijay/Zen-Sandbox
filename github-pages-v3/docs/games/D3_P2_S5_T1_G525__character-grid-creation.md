@@ -70,7 +70,7 @@ aliases:
 
 # The Digital Neighborhood
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Digital Neighborhood — infographic](img/D3_P2_S5_T1_G525__character-grid-creation.jpg){ .game-hero }
 
 > Build an interconnected community of characters using virtual backgrounds, custom names, and grid-based relationships.
 

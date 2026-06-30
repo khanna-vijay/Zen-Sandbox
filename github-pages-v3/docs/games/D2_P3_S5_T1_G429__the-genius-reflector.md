@@ -69,7 +69,7 @@ aliases: []
 
 # The Expert's Echo
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Expert's Echo — infographic](img/D2_P3_S5_T1_G429__the-genius-reflector.jpg){ .game-hero }
 
 > Elevate your partner to supreme brilliance through precise physical mirroring, verbal validation, and generous endowments.
 

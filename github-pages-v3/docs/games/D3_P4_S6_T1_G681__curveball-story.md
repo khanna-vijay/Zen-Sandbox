@@ -61,7 +61,7 @@ aliases:
 
 # Curveball Narrative
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Curveball Narrative — infographic](img/D3_P4_S6_T1_G681__curveball-story.jpg){ .game-hero }
 
 > Weave a cohesive story while instantly justifying random, disruptive words thrown in by your partner.
 

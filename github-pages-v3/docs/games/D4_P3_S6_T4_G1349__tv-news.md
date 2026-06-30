@@ -62,7 +62,7 @@ aliases:
 
 # Broadcast News Desk
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Broadcast News Desk — infographic](img/D4_P3_S6_T4_G1349__tv-news.jpg){ .game-hero }
 
 > Co-create a seamless, fast-paced television news broadcast using structured hand-offs and active gifting.
 

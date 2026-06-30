@@ -67,7 +67,7 @@ aliases: []
 
 # The Resonance Chamber
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Resonance Chamber — infographic](img/D1_P1_S3_T1_G192__the-resonance-chamber.jpg){ .game-hero }
 
 > Embody, vocalize, and amplify raw emotional impulses to build deep physical commitment and ensemble alignment.
 

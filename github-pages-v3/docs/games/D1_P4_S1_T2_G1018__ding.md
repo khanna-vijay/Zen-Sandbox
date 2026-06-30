@@ -61,7 +61,7 @@ aliases:
 
 # Ding
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Ding — infographic](img/D1_P4_S1_T2_G1018__ding.jpg){ .game-hero }
 
 > Instantly swap your last line or action whenever the bell rings to bypass your inner editor.
 

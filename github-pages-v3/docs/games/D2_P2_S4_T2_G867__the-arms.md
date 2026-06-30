@@ -64,7 +64,7 @@ aliases:
 
 # Helping Hands
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Helping Hands — infographic](img/D2_P2_S4_T2_G867__the-arms.jpg){ .game-hero }
 
 > Bring physical offers to life by letting a partner control your hands.
 

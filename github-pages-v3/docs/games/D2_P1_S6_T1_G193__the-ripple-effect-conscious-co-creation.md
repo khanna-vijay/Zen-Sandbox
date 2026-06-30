@@ -60,7 +60,7 @@ aliases: []
 
 # The Ripple Signal
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Ripple Signal — infographic](img/D2_P1_S6_T1_G193__the-ripple-effect-conscious-co-creation.jpg){ .game-hero }
 
 > Navigate personal boundaries in real-time using subtle physical signals to co-create safer, more authentic scenes.
 

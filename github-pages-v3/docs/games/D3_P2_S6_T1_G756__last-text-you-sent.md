@@ -61,7 +61,7 @@ aliases:
 
 # Last Text Sent
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Last Text Sent — infographic](img/D3_P2_S6_T1_G756__last-text-you-sent.jpg){ .game-hero }
 
 > Weave real, out-of-context text messages seamlessly into a grounded scene through instant justification.
 

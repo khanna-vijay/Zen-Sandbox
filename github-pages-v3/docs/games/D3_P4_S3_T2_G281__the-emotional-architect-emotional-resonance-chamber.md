@@ -64,7 +64,7 @@ aliases:
 
 # Subtext Resonance Chamber
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Subtext Resonance Chamber — infographic](img/D3_P4_S3_T2_G281__the-emotional-architect-emotional-resonance-chamber.jpg){ .game-hero }
 
 > Uncover how hidden emotional currents build the platform and drive the narrative tilt.
 

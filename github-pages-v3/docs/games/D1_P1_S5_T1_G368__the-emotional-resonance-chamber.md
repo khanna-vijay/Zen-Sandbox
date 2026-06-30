@@ -61,7 +61,7 @@ aliases: []
 
 # The Resonance Chamber
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Resonance Chamber — infographic](img/D1_P1_S5_T1_G368__the-emotional-resonance-chamber.jpg){ .game-hero }
 
 > Inhabit profound emotional states instantly through absolute physical stillness and deep internal commitment.
 

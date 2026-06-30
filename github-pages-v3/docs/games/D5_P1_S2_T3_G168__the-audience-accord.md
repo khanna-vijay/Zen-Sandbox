@@ -62,7 +62,7 @@ aliases: []
 
 # The Audience Accord
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Audience Accord — infographic](img/D5_P1_S2_T3_G168__the-audience-accord.jpg){ .game-hero }
 
 > Break the fourth wall to check, calibrate, and align your scene with the audience's energy.
 

@@ -63,7 +63,7 @@ aliases: []
 
 # The Silent Council
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Silent Council — infographic](img/D5_P1_S1_T1_G271__the-silent-council.jpg){ .game-hero }
 
 > Read the room's unspoken energy to guide your character's most critical narrative decisions.
 

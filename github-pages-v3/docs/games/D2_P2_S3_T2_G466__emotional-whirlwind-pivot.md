@@ -70,7 +70,7 @@ aliases:
 
 # Emotional Whirlwind Pivot
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Emotional Whirlwind Pivot — infographic](img/D2_P2_S3_T2_G466__emotional-whirlwind-pivot.jpg){ .game-hero }
 
 > Instantly transform a scene's reality by collectively mirroring and justifying a suddenly declared, high-stakes emotion.
 

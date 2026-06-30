@@ -59,7 +59,7 @@ aliases: []
 
 # Mundane to Monumental
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Mundane to Monumental — infographic](img/D2_P3_S4_T2_G745__it-s-tuesday.jpg){ .game-hero }
 
 > Transform a boring, everyday statement into a high-stakes catalyst for an extraordinary scene.
 

@@ -60,7 +60,7 @@ aliases:
 
 # The Pressure Cooker
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Pressure Cooker — infographic](img/D3_P4_S7_T1_G612__the-pressure-cooker.jpg){ .game-hero }
 
 > Systematically turn up the heat on a simple scene to master narrative escalation.
 

@@ -58,7 +58,7 @@ aliases: []
 
 # Threshold Navigation
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Threshold Navigation — infographic](img/D2_P1_S6_T1_G041__threshold-play.jpg){ .game-hero }
 
 > Navigate personal boundaries in real time by making consent the driving force of the scene.
 

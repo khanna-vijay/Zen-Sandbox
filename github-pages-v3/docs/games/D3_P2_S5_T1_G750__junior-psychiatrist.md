@@ -60,7 +60,7 @@ aliases: []
 
 # The Scene Analyst
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Scene Analyst — infographic](img/D3_P2_S5_T1_G750__junior-psychiatrist.jpg){ .game-hero }
 
 > Pause a scene to hear what an outside observer notices, then dial up those dynamics.
 

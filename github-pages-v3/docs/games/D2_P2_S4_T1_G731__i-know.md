@@ -55,7 +55,7 @@ aliases: []
 
 # I Know
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![I Know — infographic](img/D2_P2_S4_T1_G731__i-know.jpg){ .game-hero }
 
 > Build instant agreement and shared history by starting every single line with 'I know.'
 

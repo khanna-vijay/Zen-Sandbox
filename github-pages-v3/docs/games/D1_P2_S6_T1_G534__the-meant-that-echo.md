@@ -64,7 +64,7 @@ aliases:
 
 # Exactly What I Meant
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Exactly What I Meant — infographic](img/D1_P2_S6_T1_G534__the-meant-that-echo.jpg){ .game-hero }
 
 > Transform any perceived mistake into a brilliant, deliberate choice with instant physical and vocal commitment.
 

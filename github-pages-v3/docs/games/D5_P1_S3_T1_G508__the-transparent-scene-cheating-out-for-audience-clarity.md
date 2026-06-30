@@ -58,7 +58,7 @@ aliases: []
 
 # The Open Frame
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Open Frame — infographic](img/D5_P1_S3_T1_G508__the-transparent-scene-cheating-out-for-audience-clarity.jpg){ .game-hero }
 
 > Master physical sightlines and body angles to share every silent choice with the entire room.
 

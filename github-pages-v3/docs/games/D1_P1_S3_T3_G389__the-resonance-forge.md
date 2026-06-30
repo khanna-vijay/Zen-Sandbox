@@ -65,7 +65,7 @@ aliases: []
 
 # The Resonance Forge
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Resonance Forge — infographic](img/D1_P1_S3_T3_G389__the-resonance-forge.jpg){ .game-hero }
 
 > Forge deeply committed characters by layering physical resistance, raw emotion, and spontaneous vocal expression.
 

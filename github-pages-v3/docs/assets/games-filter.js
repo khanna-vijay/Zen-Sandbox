@@ -25,10 +25,30 @@
       return (""+x).localeCompare(""+y, undefined, {numeric:true}); });
   }
 
+  // Remember the last-used filter selection so it survives tab navigation (per browser session).
+  var STORE_KEY = "zs-games-filter";
+  function loadState(){ try { return JSON.parse(sessionStorage.getItem(STORE_KEY)) || {}; } catch (e) { return {}; } }
+  function saveState(active, qval){
+    try {
+      var s = { q: qval || "" };
+      FACETS.forEach(function(f){ s[f[0]] = Array.from(active[f[0]]); });
+      sessionStorage.setItem(STORE_KEY, JSON.stringify(s));
+    } catch (e) {}
+  }
+
   function setup(games) {
     var q = document.getElementById("g-q");
     var active = {}, chipEls = {};
     FACETS.forEach(function(f){ active[f[0]] = new Set(); chipEls[f[0]] = []; });
+
+    // Restore the previously-selected filters (only values that still exist in the data).
+    var saved = loadState();
+    FACETS.forEach(function(f){
+      var avail = {};
+      games.forEach(function(g){ gvals(g, f[0]).forEach(function(v){ avail[v] = 1; }); });
+      (saved[f[0]] || []).forEach(function(v){ if (avail[v]) active[f[0]].add(v); });
+    });
+    if (saved.q) q.value = saved.q;
 
     // Build chips for each facet (distinct values, sorted).
     FACETS.forEach(function(f){
@@ -39,6 +59,7 @@
       sortVals(key, vals).forEach(function(v){
         var label = (""+v).replace(/_/g, " ");
         var b = document.createElement("button"); b.type = "button"; b.className = "gf-chip";
+        if (active[key].has(v)) b.classList.add("on");
         b.innerHTML = esc(label) + '<span class="gf-n"></span>';
         b.addEventListener("click", function(){
           if (active[key].has(v)) { active[key].delete(v); b.classList.remove("on"); }
@@ -104,6 +125,7 @@
               return '<em class="'+x.c+'">'+esc(x.t)+'</em>'; }).join("")+'</span></a>';
       }).join("") || '<p class="gf-empty">No games match — try removing a filter.</p>';
       if (rows.length > cap) out.innerHTML += '<p class="game-more"><em>Showing first '+cap+'. Add filters to narrow down.</em></p>';
+      saveState(active, q.value);
       out.style.opacity = 0; requestAnimationFrame(function(){ out.style.opacity = 1; });
     }
     render();

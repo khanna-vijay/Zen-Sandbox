@@ -64,7 +64,7 @@ aliases: []
 
 # Couples Retrospective
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Couples Retrospective — infographic](img/D3_P2_S5_T1_G724__when-harry-met-sally.jpg){ .game-hero }
 
 > Discover rich character relationships and shared histories through physical posture and collaborative storytelling.
 

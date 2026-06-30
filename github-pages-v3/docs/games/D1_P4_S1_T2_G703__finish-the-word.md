@@ -59,7 +59,7 @@ aliases: []
 
 # Syllable Split
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Syllable Split — infographic](img/D1_P4_S1_T2_G703__finish-the-word.jpg){ .game-hero }
 
 > Instantly complete a word started by your neighbor and launch the next one without hesitation.
 

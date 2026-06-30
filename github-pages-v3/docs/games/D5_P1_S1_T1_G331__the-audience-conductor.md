@@ -65,7 +65,7 @@ aliases: []
 
 # The Audience Conductor
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Audience Conductor — infographic](img/D5_P1_S1_T1_G331__the-audience-conductor.jpg){ .game-hero }
 
 > Calibrate your physical and vocal performance in real-time by treating audience energy as an active scene partner.
 

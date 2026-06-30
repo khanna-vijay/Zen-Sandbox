@@ -66,7 +66,7 @@ aliases: []
 
 # Resonance Chamber
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Resonance Chamber — infographic](img/D3_P4_S3_T2_G273__resonance-chamber.jpg){ .game-hero }
 
 > Instantly absorb and justify sudden, unshakeable internal and external realities to drive deep narrative shifts.
 

@@ -60,7 +60,7 @@ aliases:
 
 # Check-In and Pivot
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Check-In and Pivot — infographic](img/D2_P1_S6_T1_G202__check-in-pivot.jpg){ .game-hero }
 
 > Pause the action, negotiate boundaries in real-time, and seamlessly pivot the narrative together.
 

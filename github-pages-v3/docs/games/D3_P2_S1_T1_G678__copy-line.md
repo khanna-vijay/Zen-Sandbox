@@ -56,7 +56,7 @@ aliases: []
 
 # The Echo Line
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Echo Line — infographic](img/D3_P2_S1_T1_G678__copy-line.jpg){ .game-hero }
 
 > Slow down and discover the game of your scene by repeating the first unusual offer.
 

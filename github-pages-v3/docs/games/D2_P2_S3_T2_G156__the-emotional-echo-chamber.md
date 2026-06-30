@@ -69,7 +69,7 @@ aliases:
 
 # The Emotional Echo Chamber
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Emotional Echo Chamber — infographic](img/D2_P2_S3_T2_G156__the-emotional-echo-chamber.jpg){ .game-hero }
 
 > A wordless, physical conversation of evolving feelings that builds deep, intuitive partner attunement.
 
