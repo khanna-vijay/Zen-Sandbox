@@ -66,7 +66,7 @@ aliases: []
 
 # The Impulse Chamber
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Impulse Chamber — infographic](img/D1_P4_S1_T2_G158__the-resonance-chamber.jpg){ .game-hero }
 
 > Instantly embody and scale your very first physical and emotional reactions in a virtual space.
 

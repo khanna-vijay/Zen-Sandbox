@@ -65,7 +65,7 @@ aliases:
 
 # The Gorilla's Choice
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Gorilla's Choice — infographic](img/D4_P3_S6_T4_G1099__gorilla-theatre.jpg){ .game-hero }
 
 > Direct your fellow actors to win the audience's favor—and avoid the gorilla's forfeit.
 

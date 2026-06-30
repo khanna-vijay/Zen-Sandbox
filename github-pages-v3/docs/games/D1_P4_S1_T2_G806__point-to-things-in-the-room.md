@@ -53,7 +53,7 @@ aliases:
 
 # Point and Name
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Point and Name — infographic](img/D1_P4_S1_T2_G806__point-to-things-in-the-room.jpg){ .game-hero }
 
 > Bypass your internal editor by pointing at objects and rapidly renaming your reality.
 

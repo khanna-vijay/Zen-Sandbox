@@ -55,7 +55,7 @@ aliases: []
 
 # Popcorn
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Popcorn — infographic](img/D4_P1_S4_T2_G1239__popcorn.jpg){ .game-hero }
 
 > Jump, clap, and find the collective rhythm as a heating pan of popcorn.
 

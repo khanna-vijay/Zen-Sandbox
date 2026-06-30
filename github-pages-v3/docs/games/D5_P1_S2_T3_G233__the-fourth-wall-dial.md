@@ -65,7 +65,7 @@ aliases:
 
 # The Fourth Wall Dial
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Fourth Wall Dial — infographic](img/D5_P1_S2_T3_G233__the-fourth-wall-dial.jpg){ .game-hero }
 
 > Calibrate your connection with the crowd by adjusting the transparency of the theatrical fourth wall.
 

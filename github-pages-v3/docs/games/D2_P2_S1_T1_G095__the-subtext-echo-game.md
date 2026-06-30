@@ -67,7 +67,7 @@ aliases:
 
 # Resonance Echo
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Resonance Echo — infographic](img/D2_P2_S1_T1_G095__the-subtext-echo-game.jpg){ .game-hero }
 
 > Physicalize the silent impact of your partner's words before you speak your own.
 

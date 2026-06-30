@@ -59,7 +59,7 @@ aliases: []
 
 # The Agreement Pivot
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Agreement Pivot — infographic](img/D2_P2_S4_T1_G676__conflict-agreement-scenes.jpg){ .game-hero }
 
 > Transform high-tension, conflict-prone setups into unexpected moments of deep collaborative agreement and connection.
 

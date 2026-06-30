@@ -62,7 +62,7 @@ aliases: []
 
 # La Ronde
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![La Ronde — infographic](img/D4_P3_S6_T4_G1148__la-ronde.jpg){ .game-hero }
 
 > Spin a web of interconnected relationships by passing characters from one scene to the next.
 

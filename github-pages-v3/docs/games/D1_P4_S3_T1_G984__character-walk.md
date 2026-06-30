@@ -55,7 +55,7 @@ aliases: []
 
 # The Inspired Gait
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Inspired Gait — infographic](img/D1_P4_S3_T1_G984__character-walk.jpg){ .game-hero }
 
 > Transform your physical movement into a fully realized character starting from a single point of inspiration.
 

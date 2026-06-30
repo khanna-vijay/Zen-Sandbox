@@ -58,7 +58,7 @@ aliases: []
 
 # Reflex Tap
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Reflex Tap — infographic](img/D1_P4_S1_T1_G1282__slappy-face.jpg){ .game-hero }
 
 > Bypass your inner editor through rapid-fire word association and playful physical stakes.
 

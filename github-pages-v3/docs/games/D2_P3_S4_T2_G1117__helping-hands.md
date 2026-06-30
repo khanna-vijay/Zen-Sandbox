@@ -61,7 +61,7 @@ aliases:
 
 # Helping Hands
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Helping Hands — infographic](img/D2_P3_S4_T2_G1117__helping-hands.jpg){ .game-hero }
 
 > Two players combine minds and bodies to perform a single, hilariously coordinated character.
 

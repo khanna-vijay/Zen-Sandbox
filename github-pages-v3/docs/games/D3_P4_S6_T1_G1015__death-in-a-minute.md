@@ -62,7 +62,7 @@ aliases: []
 
 # One-Minute Demise
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![One-Minute Demise — infographic](img/D3_P4_S6_T1_G1015__death-in-a-minute.jpg){ .game-hero }
 
 > A high-stakes, fast-paced scene where one character must perish and the survivor must justify why.
 

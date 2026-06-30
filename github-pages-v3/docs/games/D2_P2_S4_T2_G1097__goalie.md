@@ -56,7 +56,7 @@ aliases: []
 
 # Rapid-Fire Goalie
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Rapid-Fire Goalie — infographic](img/D2_P2_S4_T2_G1097__goalie.jpg){ .game-hero }
 
 > Defend the net by instantly accepting and returning high-speed character endowments.
 

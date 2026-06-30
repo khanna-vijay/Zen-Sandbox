@@ -59,7 +59,7 @@ aliases:
 
 # Silent Spectrum
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Silent Spectrum — infographic](img/D4_P1_S1_T1_G1105__group-order.jpg){ .game-hero }
 
 > Align the entire group along a silent, intuitive spectrum using collective agreement and peripheral awareness.
 

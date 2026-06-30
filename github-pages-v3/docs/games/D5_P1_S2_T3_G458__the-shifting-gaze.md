@@ -61,7 +61,7 @@ aliases: []
 
 # The Shifting Gaze
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Shifting Gaze — infographic](img/D5_P1_S2_T3_G458__the-shifting-gaze.jpg){ .game-hero }
 
 > Master the fourth wall by dynamically toggling between internal scene work and direct audience address.
 

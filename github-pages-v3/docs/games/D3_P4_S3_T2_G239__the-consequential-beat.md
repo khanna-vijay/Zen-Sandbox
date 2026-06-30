@@ -64,7 +64,7 @@ aliases:
 
 # Consequential Beats
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Consequential Beats — infographic](img/D3_P4_S3_T2_G239__the-consequential-beat.jpg){ .game-hero }
 
 > Elevate scene middles by transforming every facilitator cue into an escalating, logical narrative consequence.
 

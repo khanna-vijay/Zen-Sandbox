@@ -61,7 +61,7 @@ aliases:
 
 # The Two-Headed Expert
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Two-Headed Expert — infographic](img/D2_P2_S4_T1_G1369__word-at-a-time-expert.jpg){ .game-hero }
 
 > Speak as a single, brilliant mind by alternating words to answer absurd interview questions.
 

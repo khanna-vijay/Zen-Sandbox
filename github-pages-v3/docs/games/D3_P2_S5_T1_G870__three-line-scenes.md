@@ -59,7 +59,7 @@ aliases: []
 
 # Three-Line Scenes
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Three-Line Scenes — infographic](img/D3_P2_S5_T1_G870__three-line-scenes.jpg){ .game-hero }
 
 > Build a complete, compelling platform of character, relationship, and setting in exactly three lines.
 

@@ -58,7 +58,7 @@ aliases: []
 
 # Synchronized Clap
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Synchronized Clap — infographic](img/D4_P1_S4_T2_G1318__synchro-clap.jpg){ .game-hero }
 
 > Pass a single, simultaneous clap across a circle using only eye contact and shared timing.
 

@@ -69,7 +69,7 @@ aliases:
 
 # The Instant Spark
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Instant Spark — infographic](img/D3_P2_S1_T2_G590__the-rapid-ignition.jpg){ .game-hero }
 
 > Ignite a compelling scene dynamic and establish the game within the first two exchanges.
 

@@ -59,7 +59,7 @@ aliases: []
 
 # Meanwhile
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Meanwhile — infographic](img/D4_P3_S4_T1_G764__meanwhile.jpg){ .game-hero }
 
 > Weave a tapestry of parallel scenes using rapid, thematic narrative edits.
 

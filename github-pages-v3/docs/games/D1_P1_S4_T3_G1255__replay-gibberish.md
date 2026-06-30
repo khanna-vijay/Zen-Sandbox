@@ -59,7 +59,7 @@ aliases:
 
 # Gibberish Replay
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Gibberish Replay — infographic](img/D1_P1_S4_T3_G1255__replay-gibberish.jpg){ .game-hero }
 
 > Perform a scene in plain language, then instantly recreate its emotional core using nonsense words.
 

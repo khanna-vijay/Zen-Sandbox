@@ -65,7 +65,7 @@ aliases: []
 
 # The Narrative Vortex
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Narrative Vortex — infographic](img/D3_P4_S6_T1_G510__poll-driven-narrative-vortex.jpg){ .game-hero }
 
 > Steer a virtual scene through sudden, audience-voted twists by instantly justifying absurd narrative pivots.
 

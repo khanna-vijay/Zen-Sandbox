@@ -64,7 +64,7 @@ aliases:
 
 # Freeze Tag
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Freeze Tag — infographic](img/D4_P1_S2_T2_G1084__freeze-tag.jpg){ .game-hero }
 
 > Transform physical shapes into brand-new scenes with a single, high-energy tap-out.
 

@@ -1,9 +1,9 @@
-# The Complete Improv Mastery Framework (v3.0)
+# 🎭 The Complete Improv Mastery Framework (v3.0)
 ## The Definitive 3-Dimensional Training & Assessment Architecture
 
 ---
 
-## How to Read This Framework
+## 🧭 How to Read This Framework
 
 Every concept lives at the intersection of **three axes**:
 
@@ -13,9 +13,10 @@ Every concept lives at the intersection of **three axes**:
 | **Layer** | *At what level of abstraction?* | Principle (Why) → Skill (What) → Technique (How) |
 | **Stage** | *At what level of development?* | Novice → Adv. Beginner → Competent → Proficient → Master |
 
-### The Central Thesis (the engine of the system)
-> Mastery is not knowing *more* techniques — it is executing the *same basic techniques* governed by *deeper principles.*
-> **You LEARN bottom-up** (Technique → Skill → Principle). **You PERFORM top-down** (Principle → Skill → Technique).
+!!! abstract "The Central Thesis (the engine of the system)"
+    Mastery is not knowing *more* techniques — it is executing the *same basic techniques* governed by *deeper principles.*
+
+    **You LEARN bottom-up** (Technique → Skill → Principle). **You PERFORM top-down** (Principle → Skill → Technique).
 
 ### The Layer Definitions (v3 — the "muscle / brain / value" model)
 - **Technique = the muscle.** A discrete, repeatable, *observable* action you can isolate and drill. *Litmus: Can you watch someone do it?*
@@ -31,11 +32,12 @@ Every concept lives at the intersection of **three axes**:
 | **4. Proficient** | Acts from skill **intuitively**; technique becomes invisible | Skill (automatic) |
 | **5. Master** | Acts from **principle**; sacrifices technique to serve the whole — *described only in observable behavior* | Principle (governing) |
 
-> **Teaching note:** A student's journey climbs the Layer axis as it advances the Stage axis. Novices live at Technique; masters live at Principle. The vertical axis *is* the path.
+!!! note "Teaching note"
+    A student's journey climbs the Layer axis as it advances the Stage axis. Novices live at Technique; masters live at Principle. The vertical axis *is* the path.
 
 ---
 
-# DOMAIN 1 — THE SELF (Intrapersonal)
+# 🧘 DOMAIN 1 — THE SELF (Intrapersonal)
 *Goal: Freedom from hesitation; complete physical/vocal control; the courage to be truthful and the discipline to be still.*
 
 ### Principles (Why)
@@ -67,7 +69,7 @@ Every concept lives at the intersection of **three axes**:
 
 ---
 
-# DOMAIN 2 — THE PARTNER (Interpersonal)
+# 🤝 DOMAIN 2 — THE PARTNER (Interpersonal)
 *Goal: From "acting with someone" to a "shared mind" — within a container of mutual safety.*
 
 ### Principles (Why)
@@ -99,7 +101,7 @@ Every concept lives at the intersection of **three axes**:
 
 ---
 
-# DOMAIN 3 — THE SCENE (Narrative / Construct)
+# 🎬 DOMAIN 3 — THE SCENE (Narrative / Construct)
 *Goal: Architect compelling scenes in real time — using **both engines of improv** and knowing which one the scene wants.*
 
 > **The two engines (the v3 paradigm fix):**
@@ -139,7 +141,7 @@ Every concept lives at the intersection of **three axes**:
 
 ---
 
-# DOMAIN 4 — THE ENSEMBLE (Group / Format)
+# 👥 DOMAIN 4 — THE ENSEMBLE (Group / Format)
 *Goal: Surrender ego to the piece; perceive, support, generate, and weave — without pre-planning.*
 
 ### Principles (Why)
@@ -172,7 +174,7 @@ Every concept lives at the intersection of **three axes**:
 
 ---
 
-# DOMAIN 5 — THE AUDIENCE (Performance)
+# 🎟️ DOMAIN 5 — THE AUDIENCE (Performance)
 *Goal: Honor the performer–audience contract; read, ride, and unify the room — without pandering.*
 
 ### Principles (Why)
@@ -200,7 +202,7 @@ Every concept lives at the intersection of **three axes**:
 
 ---
 
-# Deployment: Building the Syllabus from the Matrix
+# 🗺️ Deployment: Building the Syllabus from the Matrix
 
 ### The diagonal teaching path
 Sequence the curriculum **by Stage across all Domains** — not by completing one domain before the next. A student should touch every domain at each stage, climbing the Layer axis as they go.
@@ -218,7 +220,7 @@ Because every cell now describes **stage-specific observable behavior** — with
 
 ---
 
-# What Changed in v3 (Full Changelog)
+# 🔄 What Changed in v3 (Full Changelog)
 
 | Change | Type |
 |---|---|

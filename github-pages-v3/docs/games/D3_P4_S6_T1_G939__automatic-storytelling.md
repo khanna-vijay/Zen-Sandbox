@@ -59,7 +59,7 @@ aliases: []
 
 # The Illusion of Plot
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Illusion of Plot — infographic](img/D3_P4_S6_T1_G939__automatic-storytelling.jpg){ .game-hero }
 
 > Discover how easily our minds build narrative structure by solving a story that doesn't exist.
 

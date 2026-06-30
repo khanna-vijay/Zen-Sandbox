@@ -57,7 +57,7 @@ aliases: []
 
 # The Walking Number
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Walking Number — infographic](img/D4_P2_S1_T1_G1355__walking-by-numbers.jpg){ .game-hero }
 
 > Navigate the space in perfect, silent coordination by sensing the collective rhythm of the room.
 

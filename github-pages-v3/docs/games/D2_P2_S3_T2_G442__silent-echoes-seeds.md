@@ -66,7 +66,7 @@ aliases: []
 
 # Echo and Seed
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Echo and Seed — infographic](img/D2_P2_S3_T2_G442__silent-echoes-seeds.jpg){ .game-hero }
 
 > Uncover a secret, silent relationship by mirroring physical states and planting unexpected emotional seeds.
 

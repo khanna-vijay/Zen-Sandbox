@@ -70,7 +70,7 @@ aliases:
 
 # Dynamic Weighting
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Dynamic Weighting — infographic](img/D4_P3_S2_T0_G100__the-ensemble-crucible-dynamic-weighting.jpg){ .game-hero }
 
 > Balance the stage by consciously dividing the labor of driving, sustaining, and disrupting a scene.
 

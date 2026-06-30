@@ -63,7 +63,7 @@ aliases:
 
 # Sound Ball
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Sound Ball — infographic](img/D2_P2_S3_T1_G840__sound-ball.jpg){ .game-hero }
 
 > Pass an invisible ball of energy across the circle using synchronized sound and physical movement.
 

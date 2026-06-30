@@ -64,7 +64,7 @@ aliases:
 
 # Spotlight Roulette
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Spotlight Roulette — infographic](img/D1_P4_S1_T2_G386__scene-starter-spotlight-the-instant-jump-in-challenge.jpg){ .game-hero }
 
 > Banish overthinking and leap into action the exact second the virtual spotlight hits you.
 

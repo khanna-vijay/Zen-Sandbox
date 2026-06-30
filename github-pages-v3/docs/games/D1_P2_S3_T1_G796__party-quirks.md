@@ -63,7 +63,7 @@ aliases:
 
 # Party Quirks
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Party Quirks — infographic](img/D1_P2_S3_T1_G796__party-quirks.jpg){ .game-hero }
 
 > A hilarious guessing game of bizarre party guests, physical comedy, and joyful, justified mistakes.
 

@@ -59,7 +59,7 @@ aliases: []
 
 # Scene in the Dark
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Scene in the Dark — infographic](img/D2_P2_S1_T0_G1264__scene-in-the-dark.jpg){ .game-hero }
 
 > Co-create rich, immersive worlds using only vocal cues, soundscapes, and active listening in total darkness.
 

@@ -72,7 +72,7 @@ aliases:
 
 # The Replay Matrix
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Replay Matrix — infographic](img/D3_P2_S2_T0_G1266__scene-replay.jpg){ .game-hero }
 
 > Re-perform a single, grounded scene through a series of stylistic, emotional, or temporal filters.
 

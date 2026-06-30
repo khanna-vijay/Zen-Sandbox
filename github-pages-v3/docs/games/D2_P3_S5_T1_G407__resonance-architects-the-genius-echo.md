@@ -65,7 +65,7 @@ aliases: []
 
 # The Genius Echo
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Genius Echo — infographic](img/D2_P3_S5_T1_G407__resonance-architects-the-genius-echo.jpg){ .game-hero }
 
 > Transform your partner's simplest observations into moments of profound, world-changing brilliance.
 

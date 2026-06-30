@@ -67,7 +67,7 @@ aliases:
 
 # The Dual-Channel Canvas
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Dual-Channel Canvas — infographic](img/D2_P2_S4_T1_G209__the-chat-canvas-yes-and-accelerated-enhanced.jpg){ .game-hero }
 
 > Weave simultaneous verbal dialogue and structured text offers to build hyper-detailed virtual worlds in real time.
 

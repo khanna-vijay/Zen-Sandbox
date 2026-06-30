@@ -57,7 +57,7 @@ aliases: []
 
 # Narrative Drivers
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Narrative Drivers — infographic](img/D3_P4_S3_T0_G356__narrative-driver.jpg){ .game-hero }
 
 > Step out of the scene to instantly analyze and declare how your choices build the story.
 

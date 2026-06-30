@@ -57,7 +57,7 @@ aliases:
 
 # The Tag-Out Edit
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Tag-Out Edit — infographic](img/D4_P3_S4_T1_G1319__tagout.jpg){ .game-hero }
 
 > Transform scenes instantly by freezing action and swapping players to shift time, place, or perspective.
 

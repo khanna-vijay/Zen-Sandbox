@@ -63,7 +63,7 @@ aliases:
 
 # Status Spectrum Party
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Status Spectrum Party — infographic](img/D2_P3_S2_T2_G847__status-party.jpg){ .game-hero }
 
 > Navigate a social gathering while physicalizing a secret status rank from one to ten.
 

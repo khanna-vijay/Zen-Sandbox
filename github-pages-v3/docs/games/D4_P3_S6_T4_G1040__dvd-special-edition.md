@@ -57,7 +57,7 @@ aliases: []
 
 # The Special Edition Feature
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Special Edition Feature — infographic](img/D4_P3_S6_T4_G1040__dvd-special-edition.jpg){ .game-hero }
 
 > Structure a complete narrative using the familiar, playful framing of a home-video release.
 

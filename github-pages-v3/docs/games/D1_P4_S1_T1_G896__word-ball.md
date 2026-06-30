@@ -60,7 +60,7 @@ aliases: []
 
 # Word Ball
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Word Ball — infographic](img/D1_P4_S1_T1_G896__word-ball.jpg){ .game-hero }
 
 > Pass an imaginary ball with rapid-fire word association to bypass your inner editor.
 

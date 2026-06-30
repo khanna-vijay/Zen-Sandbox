@@ -56,7 +56,7 @@ aliases: []
 
 # Rewind and Rebuild
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Rewind and Rebuild — infographic](img/D2_P2_S4_T1_G819__rewind-and-unblock.jpg){ .game-hero }
 
 > Pause, step back, and discover the hidden potential of missed offers in real time.
 

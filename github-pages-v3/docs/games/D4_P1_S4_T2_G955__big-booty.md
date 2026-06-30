@@ -56,7 +56,7 @@ aliases: []
 
 # Big Booty
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Big Booty — infographic](img/D4_P1_S4_T2_G955__big-booty.jpg){ .game-hero }
 
 > A high-energy rhythmic passing game that builds group mind through collective tempo and joyful recovery.
 

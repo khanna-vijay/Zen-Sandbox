@@ -60,7 +60,7 @@ aliases: []
 
 # Toaster
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Toaster — infographic](img/D3_P3_S5_T1_G873__toaster.jpg){ .game-hero }
 
 > Pop up like toast to instantly launch high-energy, spontaneous scenes with immediate character and context.
 

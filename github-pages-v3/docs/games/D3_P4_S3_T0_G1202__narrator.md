@@ -60,7 +60,7 @@ aliases:
 
 # The Storyteller's Lens
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Storyteller's Lens — infographic](img/D3_P4_S3_T0_G1202__narrator.jpg){ .game-hero }
 
 > Co-create a rich story through the dynamic interplay of physical action and spoken narration.
 

@@ -66,7 +66,7 @@ aliases:
 
 # Competitive Improv Showdown
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Competitive Improv Showdown — infographic](img/D4_P3_S6_T4_G1332__theatresports.jpg){ .game-hero }
 
 > Two teams battle in a high-energy, judged arena of spontaneous challenges and audience-driven points.
 

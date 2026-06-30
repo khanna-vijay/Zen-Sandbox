@@ -67,7 +67,7 @@ aliases: []
 
 # Double Blind Freeze
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Double Blind Freeze — infographic](img/D3_P3_S6_T1_G1033__double-blind-freeze.jpg){ .game-hero }
 
 > Step blindly into physical shapes, instantly justifying absurd postures to launch brand-new scenes.
 

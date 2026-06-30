@@ -60,7 +60,7 @@ aliases: []
 
 # The Paperclip Ladder
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Paperclip Ladder — infographic](img/D3_P0_S2_T1_G1222__paperclip-game.jpg){ .game-hero }
 
 > Escalate a simple pattern from the mundane to the cosmic, one step at a time.
 

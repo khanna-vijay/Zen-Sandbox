@@ -58,7 +58,7 @@ aliases: []
 
 # Spatial Anchors
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Spatial Anchors — infographic](img/D4_P3_S6_T4_G1173__maslow-s-hierarchy-of-needs.jpg){ .game-hero }
 
 > Map a multi-scene narrative across time and space using physical chair configurations as portal anchors.
 

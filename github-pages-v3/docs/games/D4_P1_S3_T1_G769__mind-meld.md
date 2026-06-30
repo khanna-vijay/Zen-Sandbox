@@ -60,7 +60,7 @@ aliases:
 
 # Mind Meld
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Mind Meld — infographic](img/D4_P1_S3_T1_G769__mind-meld.jpg){ .game-hero }
 
 > Two players attempt to speak the exact same word simultaneously by finding their conceptual midpoint.
 

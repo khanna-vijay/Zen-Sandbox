@@ -62,7 +62,7 @@ aliases:
 
 # The Legend of So-and-So
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Legend of So-and-So — infographic](img/D2_P3_S4_T2_G775__mr-so-and-so.jpg){ .game-hero }
 
 > Build a vivid offstage character through gossip, then watch a partner bring them to life.
 

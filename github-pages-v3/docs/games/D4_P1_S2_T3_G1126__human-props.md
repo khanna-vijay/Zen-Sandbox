@@ -59,7 +59,7 @@ aliases:
 
 # Living Props
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Living Props — infographic](img/D4_P1_S2_T3_G1126__human-props.jpg){ .game-hero }
 
 > Transform your bodies into the physical architecture and objects of an active scene.
 

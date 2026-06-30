@@ -67,7 +67,7 @@ aliases:
 
 # The Triple-Channel Dial
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Triple-Channel Dial — infographic](img/D1_P1_S2_T1_G343__resonance-core-the-shifting-dial.jpg){ .game-hero }
 
 > Calibrate your voice, body, and emotion instantly to a single, dynamic intensity scale.
 

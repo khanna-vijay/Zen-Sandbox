@@ -61,7 +61,7 @@ aliases:
 
 # The Whisper Feed
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Whisper Feed — infographic](img/D1_P4_S1_T2_G230__rapid-response-storyteller-challenge.jpg){ .game-hero }
 
 > Weave a seamless narrative while instantly integrating secret, rapid-fire prompts sent via private chat.
 

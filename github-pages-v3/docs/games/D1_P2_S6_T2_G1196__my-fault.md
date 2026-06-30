@@ -58,7 +58,7 @@ aliases: []
 
 # My Fault!
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![My Fault! — infographic](img/D1_P2_S6_T2_G1196__my-fault.jpg){ .game-hero }
 
 > Celebrate mistakes instantly by diving to the floor and claiming full responsibility for every drop.
 

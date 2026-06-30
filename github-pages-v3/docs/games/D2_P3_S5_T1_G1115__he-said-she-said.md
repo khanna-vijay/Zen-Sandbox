@@ -61,7 +61,7 @@ aliases:
 
 # Narrated Endowments
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Narrated Endowments — infographic](img/D2_P3_S5_T1_G1115__he-said-she-said.jpg){ .game-hero }
 
 > Gift physical actions to your partner by narrating their movements in the third person.
 

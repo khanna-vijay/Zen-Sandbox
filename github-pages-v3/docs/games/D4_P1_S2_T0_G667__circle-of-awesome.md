@@ -54,7 +54,7 @@ aliases: []
 
 # The Memory Cauldron
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Memory Cauldron — infographic](img/D4_P1_S2_T0_G667__circle-of-awesome.jpg){ .game-hero }
 
 > A high-energy closing ritual where players toss shared successes into a collective cauldron of appreciation.
 

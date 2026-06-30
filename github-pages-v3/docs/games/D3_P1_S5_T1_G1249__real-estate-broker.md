@@ -64,7 +64,7 @@ aliases: []
 
 # The Property Tour
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Property Tour — infographic](img/D3_P1_S5_T1_G1249__real-estate-broker.jpg){ .game-hero }
 
 > Build a rich, physical environment together through active declarations and immediate justification.
 

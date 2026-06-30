@@ -57,7 +57,7 @@ aliases:
 
 # Time Warp Scene
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Time Warp Scene — infographic](img/D3_P4_S3_T0_G1062__fast-forward.jpg){ .game-hero }
 
 > Direct a scene through time by calling out fast-forwards and rewinds to build a story.
 

@@ -59,7 +59,7 @@ aliases:
 
 # The Shakeout Countdown
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Shakeout Countdown — infographic](img/D4_P1_S4_T2_G823__rubber-chicken-crazy-eights.jpg){ .game-hero }
 
 > A high-energy, synchronized physical countdown that builds group rhythm and shakes off performance anxiety.
 

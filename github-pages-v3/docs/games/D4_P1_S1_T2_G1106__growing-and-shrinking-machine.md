@@ -66,7 +66,7 @@ aliases:
 
 # Nested Narratives
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Nested Narratives — infographic](img/D4_P1_S1_T2_G1106__growing-and-shrinking-machine.jpg){ .game-hero }
 
 > Build a stack of distinct scenes, then peel them back in reverse chronological order.
 
