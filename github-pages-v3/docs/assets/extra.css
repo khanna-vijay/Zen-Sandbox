@@ -183,6 +183,13 @@
 .game-pn .gpn-k { font-size: .72rem; color: var(--md-default-fg-color--light); text-transform: uppercase; letter-spacing: .04em; }
 .game-pn .gpn-t { font-weight: 600; color: var(--md-primary-fg-color); }
 
+/* Game infographic thumbnails on the Games category index pages. */
+.md-typeset img.cat-game-img {
+  display: block; max-width: 360px; width: 100%;
+  border-radius: .6rem; box-shadow: 0 4px 16px rgba(0, 0, 0, .12);
+  margin: .4rem 0 .2rem; cursor: zoom-in;
+}
+
 /* ===================================================================== */
 /* Dotted vertical column separators in ALL content tables, ALL pages.    */
 /* ===================================================================== */
@@ -219,3 +226,29 @@
   border-color: #ffffff;
   box-shadow: 0 2px 10px rgba(0, 0, 0, .28);
 }
+
+/* ===================================================================== */
+/* Left nav: wider by default (~120%), user-resizable (drag grip), and a   */
+/* hide/show toggle. Width persists via the --zs-nav-width variable.       */
+/* ===================================================================== */
+:root { --zs-nav-width: 14.5rem; }     /* ~120% of Material's default ~12.1rem */
+@media screen and (min-width: 76.25em) {
+  .md-sidebar--primary { width: var(--zs-nav-width); }
+  .md-sidebar--primary .md-nav { width: 100%; }
+  body.zs-nav-hidden .md-sidebar--primary { display: none; }
+  .zs-nav-toggle { display: flex; }
+}
+.zs-nav-grip {
+  position: absolute; top: 0; right: 0; width: 6px; height: 100%;
+  cursor: col-resize; z-index: 5;
+}
+.zs-nav-grip:hover { background: var(--md-accent-fg-color); opacity: .6; }
+.zs-nav-toggle {
+  display: none; position: fixed; left: .5rem; bottom: .9rem; z-index: 40;
+  align-items: center; justify-content: center;
+  width: 2rem; height: 2rem; border-radius: 50%;
+  border: 1px solid rgba(255, 255, 255, .5); background: var(--md-primary-fg-color);
+  color: #fff; font-size: 1.05rem; line-height: 1; cursor: pointer;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, .25);
+}
+.zs-nav-toggle:hover { background: var(--md-accent-fg-color); color: var(--md-primary-fg-color); }
