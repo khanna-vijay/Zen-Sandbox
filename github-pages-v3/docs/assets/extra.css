@@ -156,9 +156,7 @@
   border: 1px solid var(--md-default-fg-color--lightest); border-radius: .6rem;
   overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,.06);
 }
-.game-page .md-typeset table:not([class]) th {
-  background: var(--md-primary-fg-color); color: #fff; font-weight: 600; border: 0;
-}
+.game-page .md-typeset table:not([class]) th { font-weight: 600; border: 0; }
 .game-page .md-typeset table:not([class]) td { border: 0; }
 .game-page .md-typeset table:not([class]) tr:nth-child(even) td {
   background: var(--md-default-fg-color--lightest);
@@ -191,15 +189,18 @@
 }
 
 /* ===================================================================== */
-/* Dotted vertical column separators in ALL content tables, ALL pages.    */
+/* Table headers: elegant light pastel-purple field-name row (ALL tables). */
+/* Fixed lavender + dark text reads well in both light and dark mode.      */
 /* ===================================================================== */
+.md-typeset table:not([class]) th {
+  background: #ece7f8;
+  color: #2e2247;
+  font-weight: 700;
+}
+/* Dotted vertical column separators in ALL content tables, ALL pages. */
 .md-typeset table:not([class]) th:not(:last-child),
 .md-typeset table:not([class]) td:not(:last-child) {
   border-right: 1px dotted var(--md-default-fg-color--light);
-}
-/* On game pages the header row is solid-coloured — use a light dotted line there. */
-.game-page .md-typeset table:not([class]) th:not(:last-child) {
-  border-right: 1px dotted rgba(255, 255, 255, .55);
 }
 
 /* ===================================================================== */
