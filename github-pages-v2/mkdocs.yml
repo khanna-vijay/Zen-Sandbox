@@ -37,6 +37,9 @@ theme:
 extra_css:
   - assets/extra.css
 
+extra_javascript:
+  - assets/keynav.js
+
 plugins:
   - search
   - glightbox:
