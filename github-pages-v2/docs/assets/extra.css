@@ -31,6 +31,16 @@
 .gf-chip:hover { border-color: var(--md-accent-fg-color); color: var(--md-default-fg-color); transform: translateY(-1px); }
 .gf-chip.on { background: var(--md-primary-fg-color); border-color: var(--md-primary-fg-color);
   color: #fff; font-weight: 600; box-shadow: 0 2px 8px rgba(0,0,0,.18); }
+.gf-chip .gf-n { opacity: .7; font-weight: 400; margin-left: .15rem; font-variant-numeric: tabular-nums; }
+.gf-chip.on .gf-n { opacity: .9; }
+.gf-chip.zero { opacity: .3; }
+.gf-chip.zero:hover { transform: none; border-color: var(--md-default-fg-color--lighter);
+  color: var(--md-default-fg-color--light); }
+/* Long facets (Principle / Skill / Technique): scrollable chip well */
+.gf-long { align-items: flex-start; }
+.gf-long .gf-name { padding-top: .35rem; }
+.gf-long .gf-chips { max-height: 7.4rem; overflow-y: auto; align-content: flex-start;
+  flex: 1 1 auto; padding: .1rem .35rem .1rem 0; }
 .gf-selects { display: flex; flex-wrap: wrap; gap: .7rem; }
 .gf-selects label { display: inline-flex; align-items: center; gap: .4rem; }
 .gf-selects select { font-weight: 400; text-transform: none; padding: .35rem .5rem;
@@ -56,3 +66,4 @@
 .game-card .game-badges { display: flex; flex-wrap: wrap; gap: .3rem; margin-top: .15rem; }
 .game-card .game-badges em { font-style: normal; font-size: .68rem; padding: .08rem .45rem;
   border-radius: .5rem; background: var(--md-default-fg-color--lightest); color: var(--md-default-fg-color--light); }
+.game-card .game-badges em.gb-rt { background: var(--md-primary-fg-color); color: #fff; font-weight: 600; }
