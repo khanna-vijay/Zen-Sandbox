@@ -277,6 +277,8 @@
 /* moved into the header by assets/header-onerow.js (adds body.zs-onerow). */
 /* ===================================================================== */
 .zs-onerow .md-tabs { display: none; }                 /* original separate tabs row removed */
+/* Top bar scrolls away with the page (not pinned) so it never overlaps content. */
+.md-header { position: static !important; }
 @media screen and (min-width: 76.25em) {
   .zs-onerow .md-header { box-shadow: 0 2px 8px rgba(0, 0, 0, .12); }
   .zs-onerow .md-header__inner {
