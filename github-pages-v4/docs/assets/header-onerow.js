@@ -11,8 +11,12 @@
   }
   function sync() {
     var path = location.pathname, links = document.querySelectorAll(".md-header__inner .md-tabs__link");
-    for (var i = 0; i < links.length; i++)
-      links[i].classList.toggle("md-tabs__link--active", activeFor(links[i].href, path));
+    for (var i = 0; i < links.length; i++) {
+      var on = activeFor(links[i].href, path);
+      links[i].classList.toggle("md-tabs__link--active", on);
+      var li = links[i].closest ? links[i].closest(".md-tabs__item") : null;
+      if (li) li.classList.toggle("md-tabs__item--active", on);   // clear the old tab's highlight
+    }
   }
   function merge() {
     var inner = document.querySelector(".md-header__inner");
