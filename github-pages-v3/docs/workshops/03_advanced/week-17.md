@@ -13,11 +13,11 @@ title: "W17 · Serve the Piece"
 
 | Time | Block |
 |---|---|
-| 0:00–0:05 | Arrival & safety check-in |
-| 0:05–0:15 | Warm-up game |
-| 0:15–0:27 | **1. Today's theory** |
-| 0:27–0:52 | **2. Today's games** |
-| 0:52–1:00 | **3. Reflection & debrief** |
+| **0:00–0:05** | 🤝 Arrival & safety check-in |
+| **0:05–0:15** | 🔥 Warm-up — *The Story Architects* |
+| **0:15–0:27** | 🧠 Theory — *Support Work* |
+| **0:27–0:52** | 🎲 Game 1 — *The Conductor's Contract* |
+| **0:52–1:00** | 💭 Reflection & debrief |
 
 ## 1. 🧠 Today's theory
 
@@ -60,7 +60,7 @@ title: "W17 · Serve the Piece"
 8. Deploy Consequence Tokens: At any point during active play, a player can spend a Consequence Token to introduce a justified, logical complication that builds on established facts.
 9. Resolve the Narrative: Continue alternating between active play and Architect Mode until the story reaches a satisfying climax and resolution.
 
-[Open the full game card »](../../games/D3_P4_S3_T1_G217__the-narrative-architect-s-blueprint.md)
+[Open the full game card »](../../games/D3_P4_S3_T1_G217__the-narrative-architect-s-blueprint.md){target=_blank rel=noopener}
 
 #### Core game — The Conductor's Contract
 
@@ -84,12 +84,12 @@ title: "W17 · Serve the Piece"
 8. After several shifts in audience energy, the facilitator calls 'Integration!', prompting the performer to bring the scene to a close.
 9. The performer must resolve the scene by showing how the success or failure of their audience negotiation has permanently altered their character's emotional trajectory.
 
-[Open the full game card »](../../games/D5_P1_S1_T1_G252__the-conductor-s-contract.md)
+[Open the full game card »](../../games/D5_P1_S1_T1_G252__the-conductor-s-contract.md){target=_blank rel=noopener}
 
 ??? note "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
-    - **[The Silent Weathervane](../../games/D5_P1_S1_T1_G479__the-collective-unconscious-weathervane.md)** — `3+` · `~15m` · `Cx 4/5` · `Energy medium` · _Room Reading_
-    - **[The Summons](../../games/D3_P4_S3_T2_G1252__rendez-vous.md)** — `4+` · `~30m` · `Cx 4/5` · `Energy medium` · _Narrative Architecture_
+    - **[The Silent Weathervane](../../games/D5_P1_S1_T1_G479__the-collective-unconscious-weathervane.md){target=_blank rel=noopener}** — `3+` · `~15m` · `Cx 4/5` · `Energy medium` · _Room Reading_
+    - **[The Summons](../../games/D3_P4_S3_T2_G1252__rendez-vous.md){target=_blank rel=noopener}** — `4+` · `~30m` · `Cx 4/5` · `Energy medium` · _Narrative Architecture_
 
 ## 3. 💭 Self-reflection
 

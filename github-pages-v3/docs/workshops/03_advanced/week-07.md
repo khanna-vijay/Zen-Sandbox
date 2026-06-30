@@ -13,11 +13,11 @@ title: "W07 · Stakes They Can Feel"
 
 | Time | Block |
 |---|---|
-| 0:00–0:05 | Arrival & safety check-in |
-| 0:05–0:15 | Warm-up game |
-| 0:15–0:27 | **1. Today's theory** |
-| 0:27–0:52 | **2. Today's games** |
-| 0:52–1:00 | **3. Reflection & debrief** |
+| **0:00–0:05** | 🤝 Arrival & safety check-in |
+| **0:05–0:15** | 🔥 Warm-up — *Consequence Countdown* |
+| **0:15–0:27** | 🧠 Theory — *Raising the Stakes* |
+| **0:27–0:52** | 🎲 Game 1 — *The Shifting Want* |
+| **0:52–1:00** | 💭 Reflection & debrief |
 
 ## 1. 🧠 Today's theory
 
@@ -59,7 +59,7 @@ title: "W07 · Stakes They Can Feel"
 8. Repeat this cycle for a third and final round with an extreme, near-impossible consequence and a frantic 15-to-20-second countdown, pushing the characters to their absolute limits.
 9. End the scene at the final buzzer, focusing on the peak of dramatic or comedic tension rather than forcing a neat resolution.
 
-[Open the full game card »](../../games/D3_P4_S7_T1_G308__stakes-ascent-the-consequence-countdown.md)
+[Open the full game card »](../../games/D3_P4_S7_T1_G308__stakes-ascent-the-consequence-countdown.md){target=_blank rel=noopener}
 
 #### Core game — The Shifting Want
 
@@ -82,12 +82,12 @@ title: "W07 · Stakes They Can Feel"
 7. The facilitator actively side-coaches during the scene, calling out Want! or Stakes! if a player's objective becomes vague or if the consequences flatline.
 8. Continue the scene for four to six rounds of escalating exchanges, building to a natural peak of high tension or an impossible choice before calling scene.
 
-[Open the full game card »](../../games/D3_P4_S4_T1_G404__the-shifting-want.md)
+[Open the full game card »](../../games/D3_P4_S4_T1_G404__the-shifting-want.md){target=_blank rel=noopener}
 
 ??? note "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
-    - **[The Implication Engine](../../games/D3_P4_S7_T1_G317__the-implication-engine.md)** — `3–6` · `~10m` · `Cx 3/5` · `Energy medium` · _Raising the Stakes_
-    - **[The Narrative Escalator](../../games/D3_P4_S7_T1_G186__the-narrative-escalator.md)** — `2+` · `~15m` · `Cx 3/5` · `Energy medium` · _Raising the Stakes_
+    - **[The Implication Engine](../../games/D3_P4_S7_T1_G317__the-implication-engine.md){target=_blank rel=noopener}** — `3–6` · `~10m` · `Cx 3/5` · `Energy medium` · _Raising the Stakes_
+    - **[The Narrative Escalator](../../games/D3_P4_S7_T1_G186__the-narrative-escalator.md){target=_blank rel=noopener}** — `2+` · `~15m` · `Cx 3/5` · `Energy medium` · _Raising the Stakes_
 
 ## 3. 💭 Self-reflection
 

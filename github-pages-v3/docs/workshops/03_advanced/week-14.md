@@ -13,11 +13,10 @@ title: "W14 · Armando, Montage & Longform"
 
 | Time | Block |
 |---|---|
-| 0:00–0:05 | Arrival & safety check-in |
-| 0:05–0:15 | Warm-up game |
-| 0:15–0:27 | **1. Today's theory** |
-| 0:27–0:52 | **2. Today's games** |
-| 0:52–1:00 | **3. Reflection & debrief** |
+| **0:00–0:05** | 🤝 Arrival & safety check-in |
+| **0:05–0:17** | 🧠 Theory — *Format Literacy* |
+| **0:17–0:52** | 🎲 Game 1 — *The Ensemble Blueprint Assembly* |
+| **0:52–1:00** | 💭 Reflection & debrief |
 
 ## 1. 🧠 Today's theory
 
@@ -56,12 +55,12 @@ title: "W14 · Armando, Montage & Longform"
 7. Run a physical simulation of a scene where two players perform while off-stage players actively practice physical readiness, stepping forward or adjusting their posture to support.
 8. Review the completed blueprint on the board, summarizing the collective agreements and physical cues established during the session.
 
-[Open the full game card »](../../games/D4_P3_S6_T4_G157__the-ensemble-blueprint-assembly.md)
+[Open the full game card »](../../games/D4_P3_S6_T4_G157__the-ensemble-blueprint-assembly.md){target=_blank rel=noopener}
 
 ??? note "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
-    - **[The Monologist](../../games/D4_P3_S6_T2_G932__armando.md)** — `4+` · `~25m` · `Cx 4/5` · `Energy medium` · _Format Literacy_
-    - **[The Balladeer's Chronicle](../../games/D4_P3_S6_T4_G943__balladeer-2.md)** — `3+` · `~25m` · `Cx 4/5` · `Energy medium` · _Format Literacy_
+    - **[The Monologist](../../games/D4_P3_S6_T2_G932__armando.md){target=_blank rel=noopener}** — `4+` · `~25m` · `Cx 4/5` · `Energy medium` · _Format Literacy_
+    - **[The Balladeer's Chronicle](../../games/D4_P3_S6_T4_G943__balladeer-2.md){target=_blank rel=noopener}** — `3+` · `~25m` · `Cx 4/5` · `Energy medium` · _Format Literacy_
 
 ## 3. 💭 Self-reflection
 

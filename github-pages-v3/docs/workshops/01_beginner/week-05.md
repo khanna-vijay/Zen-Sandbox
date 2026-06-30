@@ -13,11 +13,11 @@ title: "W05 · Finding Your Voice"
 
 | Time | Block |
 |---|---|
-| 0:00–0:05 | Arrival & safety check-in |
-| 0:05–0:15 | Warm-up game |
-| 0:15–0:27 | **1. Today's theory** |
-| 0:27–0:52 | **2. Today's games** |
-| 0:52–1:00 | **3. Reflection & debrief** |
+| **0:00–0:05** | 🤝 Arrival & safety check-in |
+| **0:05–0:15** | 🔥 Warm-up — *The Rallying Cry* |
+| **0:15–0:27** | 🧠 Theory — *Vocal Craft* |
+| **0:27–0:52** | 🎲 Game 1 — *Primal Echo* |
+| **0:52–1:00** | 💭 Reflection & debrief |
 
 ## 1. 🧠 Today's theory
 
@@ -55,7 +55,7 @@ title: "W05 · Finding Your Voice"
 6. The rest of the group supports the speaker by reacting with enthusiastic applause, cheers, or nods, matching the speaker's energy.
 7. Once the line is delivered, the speaker accepts the applause, steps back into the circle, and the next player immediately steps up to keep the momentum high.
 
-[Open the full game card »](../../games/D1_P1_S4_T2_G771__motivational-speaker.md)
+[Open the full game card »](../../games/D1_P1_S4_T2_G771__motivational-speaker.md){target=_blank rel=noopener}
 
 #### Core game — Primal Echo
 
@@ -77,12 +77,12 @@ title: "W05 · Finding Your Voice"
 6. Instantly, the entire group steps forward together, mirroring the exact sound, volume, and physical gesture as accurately and passionately as possible.
 7. The group steps back, and the turn passes clockwise or organically to the next player, repeating the process until everyone has initiated.
 
-[Open the full game card »](../../games/D1_P1_S4_T1_G1243__primal-screams.md)
+[Open the full game card »](../../games/D1_P1_S4_T1_G1243__primal-screams.md){target=_blank rel=noopener}
 
 ??? note "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
-    - **[Vocal Resonance Ripple](../../games/D1_P4_S4_T2_G316__the-echo-chamber-of-self.md)** — `6–12` · `~15m` · `Cx 2/5` · `Energy medium` · _Vocal Craft_
-    - **[Arnie's Cinema](../../games/D1_P1_S4_T2_G636__arnie.md)** — `2–6` · `~5m` · `Cx 2/5` · `Energy high` · _Vocal Craft_
+    - **[Vocal Resonance Ripple](../../games/D1_P4_S4_T2_G316__the-echo-chamber-of-self.md){target=_blank rel=noopener}** — `6–12` · `~15m` · `Cx 2/5` · `Energy medium` · _Vocal Craft_
+    - **[Arnie's Cinema](../../games/D1_P1_S4_T2_G636__arnie.md){target=_blank rel=noopener}** — `2–6` · `~5m` · `Cx 2/5` · `Energy high` · _Vocal Craft_
 
 ## 3. 💭 Self-reflection
 

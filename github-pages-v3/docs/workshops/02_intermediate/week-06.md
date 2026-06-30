@@ -13,11 +13,11 @@ title: "W06 · Gifting that Serves"
 
 | Time | Block |
 |---|---|
-| 0:00–0:05 | Arrival & safety check-in |
-| 0:05–0:15 | Warm-up game |
-| 0:15–0:27 | **1. Today's theory** |
-| 0:27–0:52 | **2. Today's games** |
-| 0:52–1:00 | **3. Reflection & debrief** |
+| **0:00–0:05** | 🤝 Arrival & safety check-in |
+| **0:05–0:15** | 🔥 Warm-up — *The Partner's Pedestal* |
+| **0:15–0:27** | 🧠 Theory — *Active Gifting* |
+| **0:27–0:52** | 🎲 Game 1 — *The Status Alchemist* |
+| **0:52–1:00** | 💭 Reflection & debrief |
 
 ## 1. 🧠 Today's theory
 
@@ -58,7 +58,7 @@ title: "W06 · Gifting that Serves"
 9. Practice Gracious Offer Reception where the receiving player must instantly accept all high-status endowments without self-deprecation, fully stepping onto the pedestal.
 10. Maintain reciprocal gifting where every time you receive an elevating endowment, immediately build on it and offer a new gift of genius back to your partner.
 
-[Open the full game card »](../../games/D2_P3_S5_T1_G179__the-partner-s-pedestal.md)
+[Open the full game card »](../../games/D2_P3_S5_T1_G179__the-partner-s-pedestal.md){target=_blank rel=noopener}
 
 #### Core game — The Status Alchemist
 
@@ -80,12 +80,12 @@ title: "W06 · Gifting that Serves"
 6. Begin Phase 3 (Scene Integration): On the facilitator's cue, the pair transitions into a simple, open-ended scene where Player A continues to treat Player B with high status, and Player B plays the scene fully embodying their gifted competence.
 7. Have the partners swap roles, giving Player B a new secret endowment target, and repeat the process.
 
-[Open the full game card »](../../games/D2_P3_S5_T1_G032__the-alchemist-s-mirror.md)
+[Open the full game card »](../../games/D2_P3_S5_T1_G032__the-alchemist-s-mirror.md){target=_blank rel=noopener}
 
 ??? note "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
-    - **[Silent Alchemy](../../games/D2_P3_S5_T1_G228__the-partner-s-silent-alchemy-echo-status-endowment.md)** — `2+` · `~15m` · `Cx 3/5` · `Energy medium` · _Active Gifting_
-    - **[The Resonance Weave](../../games/D2_P3_S5_T1_G346__the-resonance-weave.md)** — `2+` · `~10m` · `Cx 3/5` · `Energy medium` · _Active Gifting_
+    - **[Silent Alchemy](../../games/D2_P3_S5_T1_G228__the-partner-s-silent-alchemy-echo-status-endowment.md){target=_blank rel=noopener}** — `2+` · `~15m` · `Cx 3/5` · `Energy medium` · _Active Gifting_
+    - **[The Resonance Weave](../../games/D2_P3_S5_T1_G346__the-resonance-weave.md){target=_blank rel=noopener}** — `2+` · `~10m` · `Cx 3/5` · `Energy medium` · _Active Gifting_
 
 ## 3. 💭 Self-reflection
 

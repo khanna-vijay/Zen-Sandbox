@@ -16,11 +16,11 @@ title: "W07 · Finding the Game"
 
 | Time | Block |
 |---|---|
-| 0:00–0:05 | Arrival & safety check-in |
-| 0:05–0:15 | Warm-up game |
-| 0:15–0:27 | **1. Today's theory** |
-| 0:27–0:52 | **2. Today's games** |
-| 0:52–1:00 | **3. Reflection & debrief** |
+| **0:00–0:05** | 🤝 Arrival & safety check-in |
+| **0:05–0:15** | 🔥 Warm-up — *Premise Purge* |
+| **0:15–0:27** | 🧠 Theory — *Game Identification* |
+| **0:27–0:52** | 🎲 Game 1 — *The Pattern Weaver* |
+| **0:52–1:00** | 💭 Reflection & debrief |
 
 ## 1. 🧠 Today's theory
 
@@ -60,7 +60,7 @@ title: "W07 · Finding the Game"
 8. If the scene begins to drift, introduce new unrelated conflicts, or lose focus, call out 'TOO WIDE!' to signal the players to immediately pivot their next line back to the core game.
 9. End the scene once the game has been heightened to a satisfying peak or fully explored.
 
-[Open the full game card »](../../games/D3_P2_S1_T1_G329__premise-purge-the-focus-enforcer.md)
+[Open the full game card »](../../games/D3_P2_S1_T1_G329__premise-purge-the-focus-enforcer.md){target=_blank rel=noopener}
 
 #### Core game — The Pattern Weaver
 
@@ -82,12 +82,12 @@ title: "W07 · Finding the Game"
 6. The scene immediately unfreezes, and the newly entered Weaver must deliver a line or action that directly heightens, escalates, or explores the specific pattern they just articulated.
 7. The scene continues with the new pairing, with the remaining off-stage Weavers continuing to watch for the next evolution or a new pattern to Weave and tag in again.
 
-[Open the full game card »](../../games/D3_P0_S1_T1_G485__the-narrative-pattern-weaver.md)
+[Open the full game card »](../../games/D3_P0_S1_T1_G485__the-narrative-pattern-weaver.md){target=_blank rel=noopener}
 
 ??? note "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
-    - **[The Instant Spark](../../games/D3_P2_S1_T2_G590__the-rapid-ignition.md)** — `2+` · `~10m` · `Cx 3/5` · `Energy medium` · _Game Identification_
-    - **[The Observation Audit](../../games/D3_P2_S1_T1_G753__krypton-factor.md)** — `3+` · `~15m` · `Cx 3/5` · `Energy medium` · _Game Identification_
+    - **[The Instant Spark](../../games/D3_P2_S1_T2_G590__the-rapid-ignition.md){target=_blank rel=noopener}** — `2+` · `~10m` · `Cx 3/5` · `Energy medium` · _Game Identification_
+    - **[The Observation Audit](../../games/D3_P2_S1_T1_G753__krypton-factor.md){target=_blank rel=noopener}** — `3+` · `~15m` · `Cx 3/5` · `Energy medium` · _Game Identification_
 
 ## 3. 💭 Self-reflection
 

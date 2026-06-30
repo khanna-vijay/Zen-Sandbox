@@ -16,11 +16,11 @@ title: "W07 · Really Listening"
 
 | Time | Block |
 |---|---|
-| 0:00–0:05 | Arrival & safety check-in |
-| 0:05–0:15 | Warm-up game |
-| 0:15–0:27 | **1. Today's theory** |
-| 0:27–0:52 | **2. Today's games** |
-| 0:52–1:00 | **3. Reflection & debrief** |
+| **0:00–0:05** | 🤝 Arrival & safety check-in |
+| **0:05–0:15** | 🔥 Warm-up — *Sixty-Second Biography* |
+| **0:15–0:27** | 🧠 Theory — *Active Listening* |
+| **0:27–0:52** | 🎲 Game 1 — *Sixty-Second Biography* |
+| **0:52–1:00** | 💭 Reflection & debrief |
 
 ## 1. 🧠 Today's theory
 
@@ -58,7 +58,7 @@ title: "W07 · Really Listening"
 6. Give Partner B sixty seconds to complete the retelling, ensuring they speak in the third person (e.g., 'You were born in...').
 7. Swap roles so Partner B shares their life story for sixty seconds while Partner A listens, followed by Partner A retelling the story.
 
-[Open the full game card »](../../games/D2_P3_S1_T0_G618__1-minute-story.md)
+[Open the full game card »](../../games/D2_P3_S1_T0_G618__1-minute-story.md){target=_blank rel=noopener}
 
 #### Core game — Sixty-Second Biography
 
@@ -80,12 +80,12 @@ title: "W07 · Really Listening"
 6. Emphasize that Player B's goal is not to test their own memory, but to make Player A feel deeply understood, celebrated, and valued.
 7. Swap roles so Player B shares their life story for sixty seconds while Player A listens and then retells it.
 
-[Open the full game card »](../../games/D2_P3_S1_T0_G785__one-minute-life-story.md)
+[Open the full game card »](../../games/D2_P3_S1_T0_G785__one-minute-life-story.md){target=_blank rel=noopener}
 
 ??? note "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
-    - **[Rapid Connection Rounds](../../games/D2_P0_S1_T0_G844__speedy-get-to-know-you.md)** — `4+` · `~10m` · `Cx 1/5` · `Energy medium` · _Active Listening_
-    - **[Granular Week](../../games/D2_P3_S1_T0_G882__week-in-detail.md)** — `2+` · `~5m` · `Cx 1/5` · `Energy low` · _Active Listening_
+    - **[Rapid Connection Rounds](../../games/D2_P0_S1_T0_G844__speedy-get-to-know-you.md){target=_blank rel=noopener}** — `4+` · `~10m` · `Cx 1/5` · `Energy medium` · _Active Listening_
+    - **[Granular Week](../../games/D2_P3_S1_T0_G882__week-in-detail.md){target=_blank rel=noopener}** — `2+` · `~5m` · `Cx 1/5` · `Energy low` · _Active Listening_
 
 ## 3. 💭 Self-reflection
 

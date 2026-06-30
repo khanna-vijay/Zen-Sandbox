@@ -16,11 +16,10 @@ title: "W13 · The Harold"
 
 | Time | Block |
 |---|---|
-| 0:00–0:05 | Arrival & safety check-in |
-| 0:05–0:15 | Warm-up game |
-| 0:15–0:27 | **1. Today's theory** |
-| 0:27–0:52 | **2. Today's games** |
-| 0:52–1:00 | **3. Reflection & debrief** |
+| **0:00–0:05** | 🤝 Arrival & safety check-in |
+| **0:05–0:17** | 🧠 Theory — *Format Literacy* |
+| **0:17–0:52** | 🎲 Game 1 — *Modular Format Juggling* |
+| **0:52–1:00** | 💭 Reflection & debrief |
 
 ## 1. 🧠 Today's theory
 
@@ -59,12 +58,12 @@ title: "W13 · The Harold"
 7. Continue this cycle of rapid-fire transitions through 4 to 8 different mandates, weaving recurring thematic threads and character callbacks across the disparate structures.
 8. The facilitator brings the exercise to a close by calling scene after a final, unifying mandate or when the ensemble achieves a highly cohesive structural resolution.
 
-[Open the full game card »](../../games/D4_P1_S6_T4_G057__modular-form-juggling.md)
+[Open the full game card »](../../games/D4_P1_S6_T4_G057__modular-form-juggling.md){target=_blank rel=noopener}
 
 ??? note "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
-    - **[The Armando](../../games/D4_P3_S6_T2_G635__the-armando-true-stories.md)** — `4+` · `~25m` · `Cx 4/5` · `Energy medium` · _Format Literacy_
-    - **[La Ronde](../../games/D4_P3_S6_T4_G754__la-ronde.md)** — `4+` · `~20m` · `Cx 4/5` · `Energy medium` · _Format Literacy_
+    - **[The Armando](../../games/D4_P3_S6_T2_G635__the-armando-true-stories.md){target=_blank rel=noopener}** — `4+` · `~25m` · `Cx 4/5` · `Energy medium` · _Format Literacy_
+    - **[La Ronde](../../games/D4_P3_S6_T4_G754__la-ronde.md){target=_blank rel=noopener}** — `4+` · `~20m` · `Cx 4/5` · `Energy medium` · _Format Literacy_
 
 ## 3. 💭 Self-reflection
 

@@ -13,11 +13,11 @@ title: "W15 · A-to-C — Beyond the Obvious"
 
 | Time | Block |
 |---|---|
-| 0:00–0:05 | Arrival & safety check-in |
-| 0:05–0:15 | Warm-up game |
-| 0:15–0:27 | **1. Today's theory** |
-| 0:27–0:52 | **2. Today's games** |
-| 0:52–1:00 | **3. Reflection & debrief** |
+| **0:00–0:05** | 🤝 Arrival & safety check-in |
+| **0:05–0:15** | 🔥 Warm-up — *The Resonance Canvas* |
+| **0:15–0:27** | 🧠 Theory — *Suggestion Deconstruction (A-to-C)* |
+| **0:27–0:52** | 🎲 Game 1 — *Symphony of Sentience* |
+| **0:52–1:00** | 💭 Reflection & debrief |
 
 ## 1. 🧠 Today's theory
 
@@ -55,7 +55,7 @@ title: "W15 · A-to-C — Beyond the Obvious"
 6. Phase 3 (Character & Narrative): With the physical environment fully established, a player introduces the first spoken line of dialogue, establishing a character who is directly reacting to or interacting with this specific setting.
 7. The other players step into the space as characters or transition their environmental work into active roles, initiating a grounded, multi-character scene that honors the established atmosphere.
 
-[Open the full game card »](../../games/D4_P1_S3_T1_G235__the-resonance-canvas.md)
+[Open the full game card »](../../games/D4_P1_S3_T1_G235__the-resonance-canvas.md){target=_blank rel=noopener}
 
 #### Core game — Symphony of Sentience
 
@@ -79,12 +79,12 @@ title: "W15 · A-to-C — Beyond the Obvious"
 8. The facilitator may occasionally call out a shifting prompt to guide the collective through a new emotional landscape, or let the evolution happen entirely organically.
 9. The exercise concludes when the group reaches a natural point of stillness, high intensity, or resolution, at which point the facilitator calls a freeze.
 
-[Open the full game card »](../../games/D4_P1_S3_T1_G096__the-symphony-of-sentience.md)
+[Open the full game card »](../../games/D4_P1_S3_T1_G096__the-symphony-of-sentience.md){target=_blank rel=noopener}
 
 ??? note "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
-    - **[Premise Kaleidoscope](../../games/D4_P1_S3_T2_G384__deep-dive-premise-weave.md)** — `4–8` · `~20m` · `Cx 3/5` · `Energy medium` · _Suggestion Deconstruction (A-to-C)_
-    - **[The Resonance Tapestry](../../games/D4_P1_S3_T1_G470__the-collective-weave.md)** — `4–7` · `~30m` · `Cx 3/5` · `Energy medium` · _Suggestion Deconstruction (A-to-C)_
+    - **[Premise Kaleidoscope](../../games/D4_P1_S3_T2_G384__deep-dive-premise-weave.md){target=_blank rel=noopener}** — `4–8` · `~20m` · `Cx 3/5` · `Energy medium` · _Suggestion Deconstruction (A-to-C)_
+    - **[The Resonance Tapestry](../../games/D4_P1_S3_T1_G470__the-collective-weave.md){target=_blank rel=noopener}** — `4–7` · `~30m` · `Cx 3/5` · `Energy medium` · _Suggestion Deconstruction (A-to-C)_
 
 ## 3. 💭 Self-reflection
 

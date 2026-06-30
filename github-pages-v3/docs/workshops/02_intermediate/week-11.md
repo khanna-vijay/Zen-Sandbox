@@ -13,11 +13,11 @@ title: "W11 · Which Engine? Game vs Story"
 
 | Time | Block |
 |---|---|
-| 0:00–0:05 | Arrival & safety check-in |
-| 0:05–0:15 | Warm-up game |
-| 0:15–0:27 | **1. Today's theory** |
-| 0:27–0:52 | **2. Today's games** |
-| 0:52–1:00 | **3. Reflection & debrief** |
+| **0:00–0:05** | 🤝 Arrival & safety check-in |
+| **0:05–0:15** | 🔥 Warm-up — *The Ripple Effect* |
+| **0:15–0:27** | 🧠 Theory — *Game Identification* |
+| **0:27–0:52** | 🎲 Game 1 — *The Narrative Scaffold* |
+| **0:52–1:00** | 💭 Reflection & debrief |
 
 ## 1. 🧠 Today's theory
 
@@ -58,7 +58,7 @@ title: "W11 · Which Engine? Game vs Story"
 7. After the consequences are established, a player or the facilitator introduces a second revelation that either builds on the first or introduces a new narrative thread.
 8. Repeat the cycle of immediate reaction, partner validation, and consequence exploration for this second revelation before bringing the scene to a natural conclusion.
 
-[Open the full game card »](../../games/D3_P4_S3_T2_G064__the-ripple-effect.md)
+[Open the full game card »](../../games/D3_P4_S3_T2_G064__the-ripple-effect.md){target=_blank rel=noopener}
 
 #### Core game — The Narrative Scaffold
 
@@ -82,12 +82,12 @@ title: "W11 · Which Engine? Game vs Story"
 8. The active players play out the climax and transition into the 'Resolution' (the new normal), bringing the scene to a natural conclusion without further freezes.
 9. Repeat the process with new active players, gradually reducing the facilitator's verbal prompts to transition the group toward uncoached, organic narrative flow.
 
-[Open the full game card »](../../games/D3_P4_S3_T1_G106__story-architect-s-blueprint.md)
+[Open the full game card »](../../games/D3_P4_S3_T1_G106__story-architect-s-blueprint.md){target=_blank rel=noopener}
 
 ??? note "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
-    - **[The Genre Crucible](../../games/D3_P4_S3_T0_G163__the-genre-crucible.md)** — `3+` · `~15m` · `Cx 3/5` · `Energy medium` · _Narrative Architecture_
-    - **[The Final Beat](../../games/D3_P4_S3_T0_G171__the-final-beat.md)** — `3+` · `~15m` · `Cx 3/5` · `Energy medium` · _Narrative Architecture_
+    - **[The Genre Crucible](../../games/D3_P4_S3_T0_G163__the-genre-crucible.md){target=_blank rel=noopener}** — `3+` · `~15m` · `Cx 3/5` · `Energy medium` · _Narrative Architecture_
+    - **[The Final Beat](../../games/D3_P4_S3_T0_G171__the-final-beat.md){target=_blank rel=noopener}** — `3+` · `~15m` · `Cx 3/5` · `Energy medium` · _Narrative Architecture_
 
 ## 3. 💭 Self-reflection
 

@@ -13,11 +13,11 @@ title: "W06 · Architecting the Arc"
 
 | Time | Block |
 |---|---|
-| 0:00–0:05 | Arrival & safety check-in |
-| 0:05–0:15 | Warm-up game |
-| 0:15–0:27 | **1. Today's theory** |
-| 0:27–0:52 | **2. Today's games** |
-| 0:52–1:00 | **3. Reflection & debrief** |
+| **0:00–0:05** | 🤝 Arrival & safety check-in |
+| **0:05–0:15** | 🔥 Warm-up — *Spatial Story Engine* |
+| **0:15–0:27** | 🧠 Theory — *Narrative Architecture* |
+| **0:27–0:52** | 🎲 Game 1 — *Platform, Pattern, Pivot* |
+| **0:52–1:00** | 💭 Reflection & debrief |
 
 ## 1. 🧠 Today's theory
 
@@ -56,7 +56,7 @@ title: "W06 · Architecting the Arc"
 7. The Pilot continues to guide the players sequentially through the zones (Zone 3, Zone 4, Zone 5), adjusting the intensity meter dynamically to match the rising and falling action of the story.
 8. For advanced play, the Pilot can call 'Flux!' and jump to a non-sequential zone (e.g., jumping from Zone 2 directly to Zone 4, or back to Zone 1 for a flashback), forcing the players to rapidly adapt and justify the non-linear narrative leap.
 
-[Open the full game card »](../../games/D3_P4_S3_T1_G083__the-embodied-narrative-algorithm.md)
+[Open the full game card »](../../games/D3_P4_S3_T1_G083__the-embodied-narrative-algorithm.md){target=_blank rel=noopener}
 
 #### Core game — Platform, Pattern, Pivot
 
@@ -79,12 +79,12 @@ title: "W06 · Architecting the Arc"
 7. The players immediately accept the pivot, letting it permanently disrupt the pattern and escalate the emotional stakes of the scene.
 8. The scene continues under this new, heightened reality, driving toward a logical resolution based on the consequences of the pivot.
 
-[Open the full game card »](../../games/D3_P4_S3_T2_G005__the-narrative-architect-s-trilogy.md)
+[Open the full game card »](../../games/D3_P4_S3_T2_G005__the-narrative-architect-s-trilogy.md){target=_blank rel=noopener}
 
 ??? note "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
-    - **[Disaster Movie](../../games/D3_P4_S3_T1_G1022__disaster-movie.md)** — `6+` · `~30m` · `Cx 4/5` · `Energy high` · _Narrative Architecture_
-    - **[Memorial Service](../../games/D3_P4_S3_T0_G1089__funeral-service.md)** — `4+` · `~20m` · `Cx 4/5` · `Energy medium` · _Narrative Architecture_
+    - **[Disaster Movie](../../games/D3_P4_S3_T1_G1022__disaster-movie.md){target=_blank rel=noopener}** — `6+` · `~30m` · `Cx 4/5` · `Energy high` · _Narrative Architecture_
+    - **[Memorial Service](../../games/D3_P4_S3_T0_G1089__funeral-service.md){target=_blank rel=noopener}** — `4+` · `~20m` · `Cx 4/5` · `Energy medium` · _Narrative Architecture_
 
 ## 3. 💭 Self-reflection
 

@@ -16,11 +16,12 @@ title: "W16 · Putting It Together — Showcase"
 
 | Time | Block |
 |---|---|
-| 0:00–0:05 | Arrival & safety check-in |
-| 0:05–0:15 | Warm-up game |
-| 0:15–0:27 | **1. Today's theory** |
-| 0:27–0:52 | **2. Today's games** |
-| 0:52–1:00 | **3. Reflection & debrief** |
+| **0:00–0:05** | 🤝 Arrival & safety check-in |
+| **0:05–0:15** | 🔥 Warm-up — *I Need A...* |
+| **0:15–0:27** | 🧠 Theory — *Offer Reception* |
+| **0:27–0:39** | 🎲 Game 1 — *Shared Adventure* |
+| **0:39–0:52** | 🎲 Game 2 — *Agreement Anchors* |
+| **0:52–1:00** | 💭 Reflection & debrief |
 
 ## 1. 🧠 Today's theory
 
@@ -62,7 +63,7 @@ title: "W16 · Putting It Together — Showcase"
 6. This pattern continues with each receiving player immediately converting the previous player's final item into their own first item as they cross the circle.
 7. Keep the physical movement and verbal delivery continuous, aiming for zero lag time between one person finishing and the next person starting their walk.
 
-[Open the full game card »](../../games/D1_P4_S1_T2_G734__i-need-a.md)
+[Open the full game card »](../../games/D1_P4_S1_T2_G734__i-need-a.md){target=_blank rel=noopener}
 
 #### Core game — Shared Adventure
 
@@ -84,7 +85,7 @@ title: "W16 · Putting It Together — Showcase"
 6. Encourage players to keep their sentences relatively short to allow for rapid-fire exchange and to prevent one person from dominating the narrative.
 7. Run the exercise for two to three minutes, or until the story reaches a natural, high-energy climax.
 
-[Open the full game card »](../../games/D2_P2_S4_T1_G835__shared-holiday.md)
+[Open the full game card »](../../games/D2_P2_S4_T1_G835__shared-holiday.md){target=_blank rel=noopener}
 
 #### Core game — Agreement Anchors
 
@@ -105,12 +106,12 @@ title: "W16 · Putting It Together — Showcase"
 5. Once the agreement is firmly established (the 'anchor' is set), the players continue the scene for one to two minutes, letting the narrative grow naturally from this stable foundation.
 6. The facilitator calls 'scene' once the base reality is fully realized and stable, then rotates in a new pair with a different category.
 
-[Open the full game card »](../../games/D3_P2_S5_T1_G629__agreement-scenes.md)
+[Open the full game card »](../../games/D3_P2_S5_T1_G629__agreement-scenes.md){target=_blank rel=noopener}
 
 ??? note "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
-    - **[Rapid Fire Association](../../games/D1_P4_S1_T1_G1068__firing-squad.md)** — `3+` · `~5m` · `Cx 1/5` · `Energy high` · _Unfiltered Spontaneity_
-    - **[Yes, Let's!](../../games/D2_P2_S4_T1_G905__yes-let-s.md)** — `3+` · `~5m` · `Cx 1/5` · `Energy high` · _Offer Reception_
+    - **[Rapid Fire Association](../../games/D1_P4_S1_T1_G1068__firing-squad.md){target=_blank rel=noopener}** — `3+` · `~5m` · `Cx 1/5` · `Energy high` · _Unfiltered Spontaneity_
+    - **[Yes, Let's!](../../games/D2_P2_S4_T1_G905__yes-let-s.md){target=_blank rel=noopener}** — `3+` · `~5m` · `Cx 1/5` · `Energy high` · _Offer Reception_
 
 ## 3. 💭 Self-reflection
 

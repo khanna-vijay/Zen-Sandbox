@@ -13,11 +13,11 @@ title: "W17 · Reading the Room"
 
 | Time | Block |
 |---|---|
-| 0:00–0:05 | Arrival & safety check-in |
-| 0:05–0:15 | Warm-up game |
-| 0:15–0:27 | **1. Today's theory** |
-| 0:27–0:52 | **2. Today's games** |
-| 0:52–1:00 | **3. Reflection & debrief** |
+| **0:00–0:05** | 🤝 Arrival & safety check-in |
+| **0:05–0:15** | 🔥 Warm-up — *The Fourth Wall Conductor* |
+| **0:15–0:27** | 🧠 Theory — *Room Reading* |
+| **0:27–0:52** | 🎲 Game 1 — *The Fourth Wall Weave* |
+| **0:52–1:00** | 💭 Reflection & debrief |
 
 ## 1. 🧠 Today's theory
 
@@ -60,7 +60,7 @@ title: "W17 · Reading the Room"
 9. The players immediately drop the direct address and return to the internal reality of the scene, treating their previous audience interactions as private, unspoken thoughts.
 10. The cycle continues for 5 to 7 minutes, shifting back and forth multiple times, before the facilitator calls 'Scene!'
 
-[Open the full game card »](../../games/D5_P1_S2_T3_G011__the-audience-accord.md)
+[Open the full game card »](../../games/D5_P1_S2_T3_G011__the-audience-accord.md){target=_blank rel=noopener}
 
 #### Core game — The Fourth Wall Weave
 
@@ -83,12 +83,12 @@ title: "W17 · Reading the Room"
 7. When the facilitator switches back to the Green Card, players must instantly re-establish the fourth wall and seamlessly resume the scene, integrating any audience reaction.
 8. The facilitator can ring the bell at any point to freeze the action and offer immediate coaching on energy calibration, projection, or the timing of the transition.
 
-[Open the full game card »](../../games/D5_P1_S2_T3_G025__the-contract-weave.md)
+[Open the full game card »](../../games/D5_P1_S2_T3_G025__the-contract-weave.md){target=_blank rel=noopener}
 
 ??? note "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
-    - **[Fourth Wall Fluctuations](../../games/D5_P1_S2_T3_G039__fourth-wall-fluctuations.md)** — `2+` · `~15m` · `Cx 3/5` · `Energy medium` · _Audience-Energy Management_
-    - **[The Resonance Dial](../../games/D5_P1_S1_T1_G054__the-performer-s-pulse.md)** — `3+` · `~15m` · `Cx 3/5` · `Energy medium` · _Room Reading_
+    - **[Fourth Wall Fluctuations](../../games/D5_P1_S2_T3_G039__fourth-wall-fluctuations.md){target=_blank rel=noopener}** — `2+` · `~15m` · `Cx 3/5` · `Energy medium` · _Audience-Energy Management_
+    - **[The Resonance Dial](../../games/D5_P1_S1_T1_G054__the-performer-s-pulse.md){target=_blank rel=noopener}** — `3+` · `~15m` · `Cx 3/5` · `Energy medium` · _Room Reading_
 
 ## 3. 💭 Self-reflection
 

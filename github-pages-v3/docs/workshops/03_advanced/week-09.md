@@ -16,11 +16,11 @@ title: "W09 · Group Mind & Follow the Follower"
 
 | Time | Block |
 |---|---|
-| 0:00–0:05 | Arrival & safety check-in |
-| 0:05–0:15 | Warm-up game |
-| 0:15–0:27 | **1. Today's theory** |
-| 0:27–0:52 | **2. Today's games** |
-| 0:52–1:00 | **3. Reflection & debrief** |
+| **0:00–0:05** | 🤝 Arrival & safety check-in |
+| **0:05–0:15** | 🔥 Warm-up — *The Echo-Scape Weave* |
+| **0:15–0:27** | 🧠 Theory — *Peripheral Awareness* |
+| **0:27–0:52** | 🎲 Game 1 — *The Living Grid* |
+| **0:52–1:00** | 💭 Reflection & debrief |
 
 ## 1. 🧠 Today's theory
 
@@ -58,7 +58,7 @@ title: "W09 · Group Mind & Follow the Follower"
 6. Phase 3 (Complex Integration): Once characters and relationships are established, the scene transitions into free-form play, but with a strict constraint: every new line or action must visibly synthesize at least two previously established elements (such as a specific sound, a physical object, a character's line, or an emotional beat).
 7. The ensemble continues to play within this highly integrated reality, treating the environment as an active participant, until the scene reaches a natural, collective conclusion or a facilitator edit.
 
-[Open the full game card »](../../games/D4_P1_S1_T2_G017__the-echo-scape-weave.md)
+[Open the full game card »](../../games/D4_P1_S1_T2_G017__the-echo-scape-weave.md){target=_blank rel=noopener}
 
 #### Core game — The Living Grid
 
@@ -81,12 +81,12 @@ title: "W09 · Group Mind & Follow the Follower"
 7. Initiate scenes normally, but when a player wants to propose a structural shift or rule, they must do so via a non-verbal 'Meta-Offer'—such as intentionally altering scene length, changing physical proximity, or shifting dialogue rhythms.
 8. The rest of the ensemble must read this non-verbal structural offer and choose to support it by adopting the rule, elaborating on it with a complementary structural choice, or consciously pivoting to a new form if the current one has run its course.
 
-[Open the full game card »](../../games/D4_P1_S1_T2_G002__the-emergent-canvas.md)
+[Open the full game card »](../../games/D4_P1_S1_T2_G002__the-emergent-canvas.md){target=_blank rel=noopener}
 
 ??? note "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
-    - **[The Sensory Loom](../../games/D4_P1_S1_T2_G026__the-ensemble-loom.md)** — `4–8` · `~30m` · `Cx 4/5` · `Energy medium` · _Peripheral Awareness_
-    - **[Resonant Currents](../../games/D4_P1_S1_T2_G037__nexus-arc-the-silent-current.md)** — `5–8` · `~25m` · `Cx 4/5` · `Energy medium` · _Peripheral Awareness_
+    - **[The Sensory Loom](../../games/D4_P1_S1_T2_G026__the-ensemble-loom.md){target=_blank rel=noopener}** — `4–8` · `~30m` · `Cx 4/5` · `Energy medium` · _Peripheral Awareness_
+    - **[Resonant Currents](../../games/D4_P1_S1_T2_G037__nexus-arc-the-silent-current.md){target=_blank rel=noopener}** — `5–8` · `~25m` · `Cx 4/5` · `Energy medium` · _Peripheral Awareness_
 
 ## 3. 💭 Self-reflection
 

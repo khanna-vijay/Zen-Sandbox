@@ -13,11 +13,11 @@ title: "W12 · Build the World, Justify the Absurd"
 
 | Time | Block |
 |---|---|
-| 0:00–0:05 | Arrival & safety check-in |
-| 0:05–0:15 | Warm-up game |
-| 0:15–0:27 | **1. Today's theory** |
-| 0:27–0:52 | **2. Today's games** |
-| 0:52–1:00 | **3. Reflection & debrief** |
+| **0:00–0:05** | 🤝 Arrival & safety check-in |
+| **0:05–0:15** | 🔥 Warm-up — *Scene Blueprint* |
+| **0:15–0:27** | 🧠 Theory — *World-Building* |
+| **0:27–0:52** | 🎲 Game 1 — *The Detail Anchor* |
+| **0:52–1:00** | 💭 Reflection & debrief |
 
 ## 1. 🧠 Today's theory
 
@@ -58,7 +58,7 @@ title: "W12 · Build the World, Justify the Absurd"
 7. During the Scene Phase, players must continue the scene for one to two minutes, fully committing to, justifying, and exploring the logical consequences of the established reality.
 8. End the scene by calling 'Cut!' once the players have successfully explored a single, justified narrative beat built on their initial blueprint.
 
-[Open the full game card »](../../games/D3_P2_S5_T1_G364__scene-blueprint.md)
+[Open the full game card »](../../games/D3_P2_S5_T1_G364__scene-blueprint.md){target=_blank rel=noopener}
 
 #### Core game — The Detail Anchor
 
@@ -80,12 +80,12 @@ title: "W12 · Build the World, Justify the Absurd"
 6. Upon hearing the 'Anchor!' call, the active player must immediately pause, rewind their last line, and deliver a corrected line that fully integrates the missed detail before the scene continues.
 7. As the scene progresses, both players must maintain this chain of endowment, ensuring that every new line of dialogue respects and expands upon the growing web of established facts.
 
-[Open the full game card »](../../games/D3_P2_S5_T2_G518__the-detail-anchor.md)
+[Open the full game card »](../../games/D3_P2_S5_T2_G518__the-detail-anchor.md){target=_blank rel=noopener}
 
 ??? note "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
-    - **[Relational Threads](../../games/D3_P3_S5_T1_G571__dynamic-threads.md)** — `2–3` · `~10m` · `Cx 3/5` · `Energy medium` · _World-Building_
-    - **[The Spatial Engine](../../games/D3_P1_S6_T1_G596__the-spatial-engine.md)** — `3+` · `~15m` · `Cx 3/5` · `Energy medium` · _Justification_
+    - **[Relational Threads](../../games/D3_P3_S5_T1_G571__dynamic-threads.md){target=_blank rel=noopener}** — `2–3` · `~10m` · `Cx 3/5` · `Energy medium` · _World-Building_
+    - **[The Spatial Engine](../../games/D3_P1_S6_T1_G596__the-spatial-engine.md){target=_blank rel=noopener}** — `3+` · `~15m` · `Cx 3/5` · `Energy medium` · _Justification_
 
 ## 3. 💭 Self-reflection
 

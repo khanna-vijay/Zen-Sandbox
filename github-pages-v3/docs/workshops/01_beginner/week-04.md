@@ -13,11 +13,11 @@ title: "W04 · Your Body Speaks"
 
 | Time | Block |
 |---|---|
-| 0:00–0:05 | Arrival & safety check-in |
-| 0:05–0:15 | Warm-up game |
-| 0:15–0:27 | **1. Today's theory** |
-| 0:27–0:52 | **2. Today's games** |
-| 0:52–1:00 | **3. Reflection & debrief** |
+| **0:00–0:05** | 🤝 Arrival & safety check-in |
+| **0:05–0:15** | 🔥 Warm-up — *Trunk Tag* |
+| **0:15–0:27** | 🧠 Theory — *Physicality & Space Work* |
+| **0:27–0:52** | 🎲 Game 1 — *Walkabout Greetings* |
+| **0:52–1:00** | 💭 Reflection & debrief |
 
 ## 1. 🧠 Today's theory
 
@@ -56,7 +56,7 @@ title: "W04 · Your Body Speaks"
 7. Start the game with a clear signal, encouraging players to keep moving, stay light on their feet, and maintain a playful spirit.
 8. Call 'freeze' after 1 to 2 minutes, as the game is highly physical and exhausting.
 
-[Open the full game card »](../../games/D1_P2_S3_T0_G694__elephant-it.md)
+[Open the full game card »](../../games/D1_P2_S3_T0_G694__elephant-it.md){target=_blank rel=noopener}
 
 #### Core game — Walkabout Greetings
 
@@ -78,12 +78,12 @@ title: "W04 · Your Body Speaks"
 6. After a few moments of interaction, call out 'Keep moving' to prompt players to return to a neutral walk before the next prompt.
 7. Introduce a new prompt with a different physical or status dynamic, repeating the cycle for several rounds.
 
-[Open the full game card »](../../games/D1_P4_S3_T1_G766__meet-greet-walkabout.md)
+[Open the full game card »](../../games/D1_P4_S3_T1_G766__meet-greet-walkabout.md){target=_blank rel=noopener}
 
 ??? note "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
-    - **[Evolution](../../games/D1_P2_S3_T1_G1053__evolution.md)** — `4+` · `~5m` · `Cx 1/5` · `Energy high` · _Physicality & Space Work_
-    - **[Leading Centers](../../games/D1_P1_S3_T1_G1074__follow-your-nose.md)** — `3+` · `~5m` · `Cx 1/5` · `Energy medium` · _Physicality & Space Work_
+    - **[Evolution](../../games/D1_P2_S3_T1_G1053__evolution.md){target=_blank rel=noopener}** — `4+` · `~5m` · `Cx 1/5` · `Energy high` · _Physicality & Space Work_
+    - **[Leading Centers](../../games/D1_P1_S3_T1_G1074__follow-your-nose.md){target=_blank rel=noopener}** — `3+` · `~5m` · `Cx 1/5` · `Energy medium` · _Physicality & Space Work_
 
 ## 3. 💭 Self-reflection
 

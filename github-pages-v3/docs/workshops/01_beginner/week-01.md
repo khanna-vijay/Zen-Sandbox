@@ -16,11 +16,11 @@ title: "W01 · Welcome & the Safety Container"
 
 | Time | Block |
 |---|---|
-| 0:00–0:05 | Arrival & safety check-in |
-| 0:05–0:15 | Warm-up game |
-| 0:15–0:27 | **1. Today's theory** |
-| 0:27–0:52 | **2. Today's games** |
-| 0:52–1:00 | **3. Reflection & debrief** |
+| **0:00–0:05** | 🤝 Arrival & safety check-in |
+| **0:05–0:15** | 🔥 Warm-up — *Peer Check-In Allies* |
+| **0:15–0:27** | 🧠 Theory — *Boundary Navigation* |
+| **0:27–0:52** | 🎲 Game 1 — *The Consent Connection* |
+| **0:52–1:00** | 💭 Reflection & debrief |
 
 ## 1. 🧠 Today's theory
 
@@ -57,7 +57,7 @@ title: "W01 · Welcome & the Safety Container"
 5. Run the main workshop or rehearsal as planned, encouraging players to keep an eye out for their allies' successes and moments of bravery.
 6. At the end of the session, reconvene the allies to perform their anchor greeting and share one specific, positive observation about each other's work.
 
-[Open the full game card »](../../games/D2_P1_S6_T1_G898__workshop-buddies.md)
+[Open the full game card »](../../games/D2_P1_S6_T1_G898__workshop-buddies.md){target=_blank rel=noopener}
 
 #### Core game — The Consent Connection
 
@@ -80,12 +80,12 @@ title: "W01 · Welcome & the Safety Container"
 7. After approximately one minute, call out 'Pause and Pivot'. Have all players turn 180 degrees to face the opposite direction.
 8. Repeat the exact same consent check and negotiation process with the new person now standing in front of them before any physical contact begins.
 
-[Open the full game card »](../../games/D2_P1_S6_T3_G1174__massage.md)
+[Open the full game card »](../../games/D2_P1_S6_T3_G1174__massage.md){target=_blank rel=noopener}
 
 ??? note "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
-    - **[Consent Architects](../../games/D2_P1_S6_T1_G043__consent-architects.md)** — `3–5` · `~15m` · `Cx 2/5` · `Energy medium` · _Boundary Navigation_
-    - **[The Boundary Compass](../../games/D2_P1_S6_T1_G148__the-consent-compass.md)** — `2+` · `~15m` · `Cx 2/5` · `Energy low` · _Boundary Navigation_
+    - **[Consent Architects](../../games/D2_P1_S6_T1_G043__consent-architects.md){target=_blank rel=noopener}** — `3–5` · `~15m` · `Cx 2/5` · `Energy medium` · _Boundary Navigation_
+    - **[The Boundary Compass](../../games/D2_P1_S6_T1_G148__the-consent-compass.md){target=_blank rel=noopener}** — `2+` · `~15m` · `Cx 2/5` · `Energy low` · _Boundary Navigation_
 
 ## 3. 💭 Self-reflection
 

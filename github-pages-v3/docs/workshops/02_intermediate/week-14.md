@@ -13,11 +13,11 @@ title: "W14 · Support Work that Lands"
 
 | Time | Block |
 |---|---|
-| 0:00–0:05 | Arrival & safety check-in |
-| 0:05–0:15 | Warm-up game |
-| 0:15–0:27 | **1. Today's theory** |
-| 0:27–0:52 | **2. Today's games** |
-| 0:52–1:00 | **3. Reflection & debrief** |
+| **0:00–0:05** | 🤝 Arrival & safety check-in |
+| **0:05–0:15** | 🔥 Warm-up — *Dynamic Weighting* |
+| **0:15–0:27** | 🧠 Theory — *Support Work* |
+| **0:27–0:52** | 🎲 Game 1 — *The Living Atmosphere* |
+| **0:52–1:00** | 💭 Reflection & debrief |
 
 ## 1. 🧠 Today's theory
 
@@ -56,7 +56,7 @@ title: "W14 · Support Work that Lands"
 7. Run the scene for approximately three to five minutes, allowing the unique chemistry of these combined weights to find a natural rhythm and resolution.
 8. Conclude the scene and immediately transition into a structured reflection, focusing on how the distribution of roles affected the overall group mind.
 
-[Open the full game card »](../../games/D4_P3_S2_T0_G100__the-ensemble-crucible-dynamic-weighting.md)
+[Open the full game card »](../../games/D4_P3_S2_T0_G100__the-ensemble-crucible-dynamic-weighting.md){target=_blank rel=noopener}
 
 #### Core game — The Living Atmosphere
 
@@ -79,12 +79,12 @@ title: "W14 · Support Work that Lands"
 7. The Scene Actors must remain highly sensitive to these environmental shifts, letting the changing atmosphere directly affect their physical behavior, emotional state, and dialogue.
 8. The scene concludes naturally when the narrative reaches a resolution, or when the Atmosphere Ensemble executes a unified, dramatic shift in the environment to signal a clean edit.
 
-[Open the full game card »](../../games/D4_P1_S2_T3_G241__the-echoing-environment.md)
+[Open the full game card »](../../games/D4_P1_S2_T3_G241__the-echoing-environment.md){target=_blank rel=noopener}
 
 ??? note "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
-    - **[Echoed Architecture](../../games/D4_P1_S2_T3_G328__echo-weave-the-blind-architect-s-blueprint.md)** — `3–6` · `~10m` · `Cx 3/5` · `Energy medium` · _Support Work_
-    - **[Ecosystem](../../games/D4_P1_S2_T3_G569__the-living-landscape.md)** — `5–12` · `~15m` · `Cx 3/5` · `Energy medium` · _Support Work_
+    - **[Echoed Architecture](../../games/D4_P1_S2_T3_G328__echo-weave-the-blind-architect-s-blueprint.md){target=_blank rel=noopener}** — `3–6` · `~10m` · `Cx 3/5` · `Energy medium` · _Support Work_
+    - **[Ecosystem](../../games/D4_P1_S2_T3_G569__the-living-landscape.md){target=_blank rel=noopener}** — `5–12` · `~15m` · `Cx 3/5` · `Energy medium` · _Support Work_
 
 ## 3. 💭 Self-reflection
 

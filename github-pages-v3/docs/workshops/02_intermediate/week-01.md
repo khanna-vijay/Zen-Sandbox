@@ -16,11 +16,11 @@ title: "W01 · Re-entry & the Safety Recommit"
 
 | Time | Block |
 |---|---|
-| 0:00–0:05 | Arrival & safety check-in |
-| 0:05–0:15 | Warm-up game |
-| 0:15–0:27 | **1. Today's theory** |
-| 0:27–0:52 | **2. Today's games** |
-| 0:52–1:00 | **3. Reflection & debrief** |
+| **0:00–0:05** | 🤝 Arrival & safety check-in |
+| **0:05–0:15** | 🔥 Warm-up — *The Impulse Crucible* |
+| **0:15–0:27** | 🧠 Theory — *Unfiltered Spontaneity* |
+| **0:27–0:52** | 🎲 Game 1 — *Impulse Alchemy* |
+| **0:52–1:00** | 💭 Reflection & debrief |
 
 ## 1. 🧠 Today's theory
 
@@ -61,7 +61,7 @@ title: "W01 · Re-entry & the Safety Recommit"
 7. Incorporate vocal elements such as gibberish, sighs, or specific tones when prompted, but avoid standard spoken dialogue to keep the focus on physical and emotional expression.
 8. Continue this rapid-fire delivery of prompts for a round of two to three minutes before returning to neutral for a brief breath.
 
-[Open the full game card »](../../games/D1_P1_S1_T2_G110__the-shifting-persona-crucible.md)
+[Open the full game card »](../../games/D1_P1_S1_T2_G110__the-shifting-persona-crucible.md){target=_blank rel=noopener}
 
 #### Core game — Impulse Alchemy
 
@@ -83,12 +83,12 @@ title: "W01 · Re-entry & the Safety Recommit"
 6. Phase 5 - Spontaneous Duo: On the cue 'Interact,' players lock eyes with the nearest partner and immediately initiate a rapid-fire, 30-second scene. They must let their physicalized character dictate their relationship and point of view, committing 100% to the first line of dialogue that comes out.
 7. Phase 6 - Reset: On the cue 'Reset,' players release their characters and return to a neutral standing position of silence and stillness for 8 beats to clear their canvas before the next round begins.
 
-[Open the full game card »](../../games/D1_P4_S1_T2_G022__impulse-alchemist-sensing-forming-shifting-internal-states.md)
+[Open the full game card »](../../games/D1_P4_S1_T2_G022__impulse-alchemist-sensing-forming-shifting-internal-states.md){target=_blank rel=noopener}
 
 ??? note "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
-    - **[The Resonance Eddy](../../games/D1_P4_S1_T2_G145__the-sentient-eddy.md)** — `4–8` · `~15m` · `Cx 3/5` · `Energy high` · _Unfiltered Spontaneity_
-    - **[The Resonance Crucible](../../games/D1_P4_S1_T2_G340__the-resonance-crucible.md)** — `4–8` · `~15m` · `Cx 3/5` · `Energy medium` · _Unfiltered Spontaneity_
+    - **[The Resonance Eddy](../../games/D1_P4_S1_T2_G145__the-sentient-eddy.md){target=_blank rel=noopener}** — `4–8` · `~15m` · `Cx 3/5` · `Energy high` · _Unfiltered Spontaneity_
+    - **[The Resonance Crucible](../../games/D1_P4_S1_T2_G340__the-resonance-crucible.md){target=_blank rel=noopener}** — `4–8` · `~15m` · `Cx 3/5` · `Energy medium` · _Unfiltered Spontaneity_
 
 ## 3. 💭 Self-reflection
 

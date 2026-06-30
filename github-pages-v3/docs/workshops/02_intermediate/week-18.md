@@ -16,11 +16,12 @@ title: "W18 · Competent Showcase"
 
 | Time | Block |
 |---|---|
-| 0:00–0:05 | Arrival & safety check-in |
-| 0:05–0:15 | Warm-up game |
-| 0:15–0:27 | **1. Today's theory** |
-| 0:27–0:52 | **2. Today's games** |
-| 0:52–1:00 | **3. Reflection & debrief** |
+| **0:00–0:05** | 🤝 Arrival & safety check-in |
+| **0:05–0:15** | 🔥 Warm-up — *Streaming Queue* |
+| **0:15–0:27** | 🧠 Theory — *Game Identification* |
+| **0:27–0:39** | 🎲 Game 1 — *The Shared Ascent* |
+| **0:39–0:52** | 🎲 Game 2 — *More or Less* |
+| **0:52–1:00** | 💭 Reflection & debrief |
 
 ## 1. 🧠 Today's theory
 
@@ -63,7 +64,7 @@ title: "W18 · Competent Showcase"
 7. The viewers can use the imaginary remote at any time to pause the action, mute the sound (requiring the actors to mouth words silently), fast-forward (requiring high-speed physical comedy), or change the channel entirely.
 8. When the channel is changed, the current actors must quickly exit, and a new group from the ensemble must immediately jump in to establish the next show based on the viewers' new selection.
 
-[Open the full game card »](../../games/D4_P3_S2_T1_G780__netflix-chill.md)
+[Open the full game card »](../../games/D4_P3_S2_T1_G780__netflix-chill.md){target=_blank rel=noopener}
 
 #### Core game — The Shared Ascent
 
@@ -85,7 +86,7 @@ title: "W18 · Competent Showcase"
 6. Maintain narrative tension by tracking the group's progress; every successful action should reveal a new, logical complication (the 'if true, what else is true' principle applied to danger).
 7. Conclude the scene organically when the group either definitively achieves their super-objective or conclusively fails, resulting in a shared, dramatic climax.
 
-[Open the full game card »](../../games/D3_P4_S3_T0_G614__the-collective-climb.md)
+[Open the full game card »](../../games/D3_P4_S3_T0_G614__the-collective-climb.md){target=_blank rel=noopener}
 
 #### Core game — More or Less
 
@@ -109,12 +110,12 @@ title: "W18 · Competent Showcase"
 8. If 'Less' wins (or if the energy is lukewarm), the Director immediately ends the scene, thanks the cast, and steps back to the sidelines.
 9. A new player steps forward to become the next Director, initiating a completely new scene with a different cast and premise.
 
-[Open the full game card »](../../games/D5_P1_S1_T1_G1188__more-or-less.md)
+[Open the full game card »](../../games/D5_P1_S1_T1_G1188__more-or-less.md){target=_blank rel=noopener}
 
 ??? note "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
-    - **[The Domino Chain](../../games/D3_P4_S3_T2_G175__domino-scene.md)** — `2+` · `~10m` · `Cx 3/5` · `Energy medium` · _Narrative Architecture_
-    - **[Pop-Up Book](../../games/D4_P1_S2_T3_G808__pop-up-book.md)** — `3+` · `~8m` · `Cx 3/5` · `Energy high` · _Support Work_
+    - **[The Domino Chain](../../games/D3_P4_S3_T2_G175__domino-scene.md){target=_blank rel=noopener}** — `2+` · `~10m` · `Cx 3/5` · `Energy medium` · _Narrative Architecture_
+    - **[Pop-Up Book](../../games/D4_P1_S2_T3_G808__pop-up-book.md){target=_blank rel=noopener}** — `3+` · `~8m` · `Cx 3/5` · `Energy high` · _Support Work_
 
 ## 3. 💭 Self-reflection
 
