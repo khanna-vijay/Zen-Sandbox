@@ -16,10 +16,8 @@ you filter. Search by keyword too, and click any game for its full guide.
   <div class="gf-facet" id="g-dom"><span class="gf-name">Domain</span><span class="gf-chips"></span></div>
   <div class="gf-facet" id="g-lv"><span class="gf-name">Level</span><span class="gf-chips"></span></div>
   <div class="gf-facet" id="g-ty"><span class="gf-name">Type</span><span class="gf-chips"></span></div>
-  <div class="gf-facet" id="g-rt"><span class="gf-name">Rating</span><span class="gf-chips"></span></div>
   <div class="gf-facet gf-long" id="g-pr"><span class="gf-name">Principle</span><span class="gf-chips"></span></div>
   <div class="gf-facet gf-long" id="g-sk"><span class="gf-name">Skill</span><span class="gf-chips"></span></div>
-  <div class="gf-facet gf-long" id="g-te"><span class="gf-name">Technique</span><span class="gf-chips"></span></div>
   <div class="gf-foot">
     <span class="gf-count" id="g-count">Loading…</span>
     <button id="g-reset" type="button">Reset all</button>

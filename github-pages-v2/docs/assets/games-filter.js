@@ -3,7 +3,7 @@
   // key, label, kind ("list" = game holds an array; "scalar" = single value)
   var FACETS = [
     ["dom","Domain","list"], ["lv","Level","scalar"], ["ty","Type","scalar"],
-    ["rt","Rating","scalar"], ["pr","Principle","list"], ["sk","Skill","list"], ["te","Technique","list"]
+    ["pr","Principle","list"], ["sk","Skill","list"]
   ];
   var RT_RANK = { "Excellent": 0, "Strong": 1, "Adequate": 2, "Weak": 3 };
   function esc(s){ return (s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;"); }
