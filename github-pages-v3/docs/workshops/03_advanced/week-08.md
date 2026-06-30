@@ -13,11 +13,11 @@ title: "W08 · Engine-Switching Mid-Scene"
 
 | Time | Block |
 |---|---|
-| 0:00–0:05 | Arrival & safety check-in |
-| 0:05–0:15 | Warm-up game |
-| 0:15–0:27 | **1. Today's theory** |
-| 0:27–0:52 | **2. Today's games** |
-| 0:52–1:00 | **3. Reflection & debrief** |
+| **0:00–0:05** | 🤝 Arrival & safety check-in |
+| **0:05–0:15** | 🔥 Warm-up — *The Catalyst Collider* |
+| **0:15–0:27** | 🧠 Theory — *Game Identification* |
+| **0:27–0:52** | 🎲 Game 1 — *The Narrative Loom* |
+| **0:52–1:00** | 💭 Reflection & debrief |
 
 ## 1. 🧠 Today's theory
 
@@ -58,7 +58,7 @@ title: "W08 · Engine-Switching Mid-Scene"
 7. A third active player enters the scene as a supporting character, carrying a second, even more disparate catalyst that must bridge the original reality and the first disruption.
 8. The players collaborate to find a logical or thematic connection between all elements, driving the story to a satisfying, unified resolution that justifies every disruption.
 
-[Open the full game card »](../../games/D3_P4_S3_T2_G132__the-catalyst-collider.md)
+[Open the full game card »](../../games/D3_P4_S3_T2_G132__the-catalyst-collider.md){target=_blank rel=noopener}
 
 #### Core game — The Narrative Loom
 
@@ -82,12 +82,12 @@ title: "W08 · Engine-Switching Mid-Scene"
 8. Justify and Explore Consequences: Whenever a Plot Beat or Catalyst Card is introduced, players must immediately apply 'if true, what else is true?' to explore the emotional and narrative fallout, rather than rushing to the next event.
 9. Conclude the Scene: The scene ends once all Plot Beats have been integrated, their consequences explored, and a natural narrative resolution or cliffhanger is reached.
 
-[Open the full game card »](../../games/D3_P4_S3_T1_G051__narrative-weave.md)
+[Open the full game card »](../../games/D3_P4_S3_T1_G051__narrative-weave.md){target=_blank rel=noopener}
 
 ??? note "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
-    - **[Chamber Murder Mystery](../../games/D3_P4_S3_T1_G1194__murder-mystery.md)** — `5+` · `~25m` · `Cx 4/5` · `Energy medium` · _Narrative Architecture_
-    - **[Musical Story Spine](../../games/D3_P4_S3_T1_G1195__musical-fairy-tale.md)** — `6–8` · `~10m` · `Cx 4/5` · `Energy high` · _Narrative Architecture_
+    - **[Chamber Murder Mystery](../../games/D3_P4_S3_T1_G1194__murder-mystery.md){target=_blank rel=noopener}** — `5+` · `~25m` · `Cx 4/5` · `Energy medium` · _Narrative Architecture_
+    - **[Musical Story Spine](../../games/D3_P4_S3_T1_G1195__musical-fairy-tale.md){target=_blank rel=noopener}** — `6–8` · `~10m` · `Cx 4/5` · `Energy high` · _Narrative Architecture_
 
 ## 3. 💭 Self-reflection
 

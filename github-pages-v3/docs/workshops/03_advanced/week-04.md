@@ -13,11 +13,11 @@ title: "W04 · Invisible Status"
 
 | Time | Block |
 |---|---|
-| 0:00–0:05 | Arrival & safety check-in |
-| 0:05–0:15 | Warm-up game |
-| 0:15–0:27 | **1. Today's theory** |
-| 0:27–0:52 | **2. Today's games** |
-| 0:52–1:00 | **3. Reflection & debrief** |
+| **0:00–0:05** | 🤝 Arrival & safety check-in |
+| **0:05–0:15** | 🔥 Warm-up — *Status Weave* |
+| **0:15–0:27** | 🧠 Theory — *Status Modulation* |
+| **0:27–0:52** | 🎲 Game 1 — *Status Architects* |
+| **0:52–1:00** | 💭 Reflection & debrief |
 
 ## 1. 🧠 Today's theory
 
@@ -56,7 +56,7 @@ title: "W04 · Invisible Status"
 7. Player A receives this new offer and responds in kind, continuing the cycle to create an organic, shifting status seesaw.
 8. If players struggle with the cognitive load, scaffold the exercise by starting with only one directive (e.g., Emotional Echo) for one minute, then layering on the second, and finally the third.
 
-[Open the full game card »](../../games/D2_P2_S2_T1_G459__the-status-weave.md)
+[Open the full game card »](../../games/D2_P2_S2_T1_G459__the-status-weave.md){target=_blank rel=noopener}
 
 #### Core game — Status Architects
 
@@ -79,12 +79,12 @@ title: "W04 · Invisible Status"
 7. The Reactor physically embodies their response, then delivers a single line of dialogue that accepts and builds upon the Catalyst's offer.
 8. Phase 3: Remove the cards and roles. Players run a free-form scene where they organically negotiate status, letting the power balance shift fluidly.
 
-[Open the full game card »](../../games/D2_P3_S2_T1_G024__resonance-weave-status-cadence.md)
+[Open the full game card »](../../games/D2_P3_S2_T1_G024__resonance-weave-status-cadence.md){target=_blank rel=noopener}
 
 ??? note "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
-    - **[The Living Blueprint](../../games/D2_P2_S2_T1_G277__the-living-blueprint.md)** — `2+` · `~10m` · `Cx 3/5` · `Energy medium` · _Status Modulation_
-    - **[Relational Resonance](../../games/D2_P3_S2_T1_G354__the-relational-resonance.md)** — `4+` · `~20m` · `Cx 3/5` · `Energy medium` · _Status Modulation_
+    - **[The Living Blueprint](../../games/D2_P2_S2_T1_G277__the-living-blueprint.md){target=_blank rel=noopener}** — `2+` · `~10m` · `Cx 3/5` · `Energy medium` · _Status Modulation_
+    - **[Relational Resonance](../../games/D2_P3_S2_T1_G354__the-relational-resonance.md){target=_blank rel=noopener}** — `4+` · `~20m` · `Cx 3/5` · `Energy medium` · _Status Modulation_
 
 ## 3. 💭 Self-reflection
 

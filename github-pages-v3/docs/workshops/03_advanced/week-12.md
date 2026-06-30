@@ -13,11 +13,11 @@ title: "W12 · Conducting Pace"
 
 | Time | Block |
 |---|---|
-| 0:00–0:05 | Arrival & safety check-in |
-| 0:05–0:15 | Warm-up game |
-| 0:15–0:27 | **1. Today's theory** |
-| 0:27–0:52 | **2. Today's games** |
-| 0:52–1:00 | **3. Reflection & debrief** |
+| **0:00–0:05** | 🤝 Arrival & safety check-in |
+| **0:05–0:15** | 🔥 Warm-up — *The Seamless Oracle* |
+| **0:15–0:27** | 🧠 Theory — *Pacing & Rhythm* |
+| **0:27–0:52** | 🎲 Game 1 — *The Pattern Weaver* |
+| **0:52–1:00** | 💭 Reflection & debrief |
 
 ## 1. 🧠 Today's theory
 
@@ -56,7 +56,7 @@ title: "W12 · Conducting Pace"
 7. The ensemble collectively manages the pacing, executing dramatic pauses or shifts in tempo as a single unit rather than as individuals.
 8. The monologue continues, weaving thematic elements and narrative threads, until the group collectively senses a natural, resonant conclusion and falls silent together.
 
-[Open the full game card »](../../games/D4_P1_S4_T2_G578__the-oracle-s-weave.md)
+[Open the full game card »](../../games/D4_P1_S4_T2_G578__the-oracle-s-weave.md){target=_blank rel=noopener}
 
 #### Core game — The Pattern Weaver
 
@@ -79,12 +79,12 @@ title: "W12 · Conducting Pace"
 7. Without any verbal cues, an off-stage player initiates a sweep edit to wipe the stage and immediately starts a completely unrelated, grounded scene.
 8. This hard transition serves as a non-verbal declaration that the previous game is retired, initiating a new cycle of discovery and heightening.
 
-[Open the full game card »](../../games/D4_P1_S4_T1_G311__the-ensemble-game-weaver.md)
+[Open the full game card »](../../games/D4_P1_S4_T1_G311__the-ensemble-game-weaver.md){target=_blank rel=noopener}
 
 ??? note "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
-    - **[Rapid Backstory Montage](../../games/D4_P3_S4_T1_G1063__fast-montage.md)** — `3+` · `~10m` · `Cx 4/5` · `Energy high` · _Pacing & Rhythm_
-    - **[Follow the Leaver](../../games/D4_P3_S4_T1_G1073__follow-the-leaver.md)** — `3+` · `~15m` · `Cx 4/5` · `Energy medium` · _Pacing & Rhythm_
+    - **[Rapid Backstory Montage](../../games/D4_P3_S4_T1_G1063__fast-montage.md){target=_blank rel=noopener}** — `3+` · `~10m` · `Cx 4/5` · `Energy high` · _Pacing & Rhythm_
+    - **[Follow the Leaver](../../games/D4_P3_S4_T1_G1073__follow-the-leaver.md){target=_blank rel=noopener}** — `3+` · `~15m` · `Cx 4/5` · `Energy medium` · _Pacing & Rhythm_
 
 ## 3. 💭 Self-reflection
 

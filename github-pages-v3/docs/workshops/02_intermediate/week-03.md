@@ -13,11 +13,11 @@ title: "W03 · The Power of Stillness"
 
 | Time | Block |
 |---|---|
-| 0:00–0:05 | Arrival & safety check-in |
-| 0:05–0:15 | Warm-up game |
-| 0:15–0:27 | **1. Today's theory** |
-| 0:27–0:52 | **2. Today's games** |
-| 0:52–1:00 | **3. Reflection & debrief** |
+| **0:00–0:05** | 🤝 Arrival & safety check-in |
+| **0:05–0:15** | 🔥 Warm-up — *The Inner Council* |
+| **0:15–0:27** | 🧠 Theory — *Silence & Stillness* |
+| **0:27–0:52** | 🎲 Game 1 — *The Silent Symphony* |
+| **0:52–1:00** | 💭 Reflection & debrief |
 
 ## 1. 🧠 Today's theory
 
@@ -58,7 +58,7 @@ title: "W03 · The Power of Stillness"
 9. After several voices have spoken, the facilitator calls for silence, and the Decision Maker takes a final beat of stillness to synthesize the conflicting inputs.
 10. The Decision Maker externalizes their final, integrated choice through a single, committed physical action, a clear verbal declaration, or a profound shift in demeanor.
 
-[Open the full game card »](../../games/D1_P3_S5_T1_G013__the-internal-symphony.md)
+[Open the full game card »](../../games/D1_P3_S5_T1_G013__the-internal-symphony.md){target=_blank rel=noopener}
 
 #### Core game — The Silent Symphony
 
@@ -81,12 +81,12 @@ title: "W03 · The Power of Stillness"
 7. Weave the Collective Atmosphere: Expand awareness to the room, inviting players to sense the shared presence and silent emotional shifts of the other ensemble members without direct eye contact, mimicry, or overt interaction.
 8. Hold the Final Beat: After several minutes of silent, shared connection, the facilitator calls for absolute stillness, holding the quiet beat for thirty seconds to let the experience settle before ending the exercise.
 
-[Open the full game card »](../../games/D1_P4_S5_T1_G460__the-subterranean-symphony-a-deep-listen-of-self.md)
+[Open the full game card »](../../games/D1_P4_S5_T1_G460__the-subterranean-symphony-a-deep-listen-of-self.md){target=_blank rel=noopener}
 
 ??? note "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
-    - **[The Resonance Chamber](../../games/D1_P4_S5_T1_G255__the-resonance-chamber.md)** — `3+` · `~15m` · `Cx 2/5` · `Energy low` · _Silence & Stillness_
-    - **[The Resonance Chamber](../../games/D1_P1_S5_T1_G368__the-emotional-resonance-chamber.md)** — `3–7` · `~10m` · `Cx 2/5` · `Energy low` · _Silence & Stillness_
+    - **[The Resonance Chamber](../../games/D1_P4_S5_T1_G255__the-resonance-chamber.md){target=_blank rel=noopener}** — `3+` · `~15m` · `Cx 2/5` · `Energy low` · _Silence & Stillness_
+    - **[The Resonance Chamber](../../games/D1_P1_S5_T1_G368__the-emotional-resonance-chamber.md){target=_blank rel=noopener}** — `3–7` · `~10m` · `Cx 2/5` · `Energy low` · _Silence & Stillness_
 
 ## 3. 💭 Self-reflection
 

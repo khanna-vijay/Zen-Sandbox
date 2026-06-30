@@ -13,11 +13,11 @@ title: "W11 · Status: High & Low"
 
 | Time | Block |
 |---|---|
-| 0:00–0:05 | Arrival & safety check-in |
-| 0:05–0:15 | Warm-up game |
-| 0:15–0:27 | **1. Today's theory** |
-| 0:27–0:52 | **2. Today's games** |
-| 0:52–1:00 | **3. Reflection & debrief** |
+| **0:00–0:05** | 🤝 Arrival & safety check-in |
+| **0:05–0:15** | 🔥 Warm-up — *The Sovereign's Snap* |
+| **0:15–0:27** | 🧠 Theory — *Status Modulation* |
+| **0:27–0:52** | 🎲 Game 1 — *Status Spectrum Party* |
+| **0:52–1:00** | 💭 Reflection & debrief |
 
 ## 1. 🧠 Today's theory
 
@@ -55,7 +55,7 @@ title: "W11 · Status: High & Low"
 6. Upon hearing the snap, the Servant must instantly and dramatically die (safely collapsing to the floor) and then drag themselves or be dragged off-stage.
 7. The next Servant in line immediately enters, adapting their approach based on the previous Servant's demise to try a different low-status tactic.
 
-[Open the full game card »](../../games/D2_P3_S2_T1_G822__royal-status-game.md)
+[Open the full game card »](../../games/D2_P3_S2_T1_G822__royal-status-game.md){target=_blank rel=noopener}
 
 #### Core game — Status Spectrum Party
 
@@ -78,12 +78,12 @@ title: "W11 · Status: High & Low"
 7. Freeze the action after 5 to 7 minutes of active mingling.
 8. Have the group observe the frozen tableau, then go around and have players guess each other's numbers based on the physical and verbal behaviors exhibited during the scene before revealing the actual cards.
 
-[Open the full game card »](../../games/D2_P3_S2_T2_G847__status-party.md)
+[Open the full game card »](../../games/D2_P3_S2_T2_G847__status-party.md){target=_blank rel=noopener}
 
 ??? note "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
-    - **[Cooperative Tug of War](../../games/D2_P3_S2_T1_G877__tug-of-war.md)** — `2+` · `~5m` · `Cx 2/5` · `Energy medium` · _Status Modulation_
-    - **[Proximity Stakes](../../games/D2_P2_S2_T0_G1026__distance-game.md)** — `2–2` · `~5m` · `Cx 2/5` · `Energy medium` · _Status Modulation_
+    - **[Cooperative Tug of War](../../games/D2_P3_S2_T1_G877__tug-of-war.md){target=_blank rel=noopener}** — `2+` · `~5m` · `Cx 2/5` · `Energy medium` · _Status Modulation_
+    - **[Proximity Stakes](../../games/D2_P2_S2_T0_G1026__distance-game.md){target=_blank rel=noopener}** — `2–2` · `~5m` · `Cx 2/5` · `Energy medium` · _Status Modulation_
 
 ## 3. 💭 Self-reflection
 

@@ -16,11 +16,11 @@ title: "W01 · Re-entry — Impulse = Action"
 
 | Time | Block |
 |---|---|
-| 0:00–0:05 | Arrival & safety check-in |
-| 0:05–0:15 | Warm-up game |
-| 0:15–0:27 | **1. Today's theory** |
-| 0:27–0:52 | **2. Today's games** |
-| 0:52–1:00 | **3. Reflection & debrief** |
+| **0:00–0:05** | 🤝 Arrival & safety check-in |
+| **0:05–0:15** | 🔥 Warm-up — *The Sensory Circuit* |
+| **0:15–0:27** | 🧠 Theory — *Unfiltered Spontaneity* |
+| **0:27–0:52** | 🎲 Game 1 — *The Impulse Tapestry* |
+| **0:52–1:00** | 💭 Reflection & debrief |
 
 ## 1. 🧠 Today's theory
 
@@ -62,7 +62,7 @@ title: "W01 · Re-entry — Impulse = Action"
 8. Step 8: The Gibberish Release. At any point, the facilitator can call out 'Gibberish!' The active player must instantly convert their physical and emotional state into a stream of nonsense language, ending the stream by confidently declaring, 'And that's exactly what I meant!'
 9. Step 9: Mindful Recovery. If any player feels overwhelmed, frozen, or disconnected during their turn, they may step back, stand in stillness, focus on their breath ('do nothing' rep), and re-enter the circle when they feel a clear, authentic impulse.
 
-[Open the full game card »](../../games/D1_P4_S1_T2_G166__the-sensorium-cycle.md)
+[Open the full game card »](../../games/D1_P4_S1_T2_G166__the-sensorium-cycle.md){target=_blank rel=noopener}
 
 #### Core game — The Impulse Tapestry
 
@@ -86,12 +86,12 @@ title: "W01 · Re-entry — Impulse = Action"
 8. The Scorekeeper guides the ensemble to run through the entire sequence of physical and vocal responses in order, smoothing out the transitions to create a continuous, flowing performance.
 9. The ensemble performs the completed 'Tapestry' score in its entirety for the Tracer, committing fully to the abstract physical and vocal movements.
 
-[Open the full game card »](../../games/D1_P3_S1_T1_G326__the-impulse-tracing-tapestry.md)
+[Open the full game card »](../../games/D1_P3_S1_T1_G326__the-impulse-tracing-tapestry.md){target=_blank rel=noopener}
 
 ??? note "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
-    - **[The Solo Gauntlet](../../games/D1_P4_S1_T2_G1324__the-gauntlet.md)** — `1–1` · `~10m` · `Cx 4/5` · `Energy high` · _Unfiltered Spontaneity_
-    - **[The Resonance Wave](../../games/D1_P4_S1_T2_G382__the-primal-resonator.md)** — `4–8` · `~15m` · `Cx 3/5` · `Energy high` · _Unfiltered Spontaneity_
+    - **[The Solo Gauntlet](../../games/D1_P4_S1_T2_G1324__the-gauntlet.md){target=_blank rel=noopener}** — `1–1` · `~10m` · `Cx 4/5` · `Energy high` · _Unfiltered Spontaneity_
+    - **[The Resonance Wave](../../games/D1_P4_S1_T2_G382__the-primal-resonator.md){target=_blank rel=noopener}** — `4–8` · `~15m` · `Cx 3/5` · `Energy high` · _Unfiltered Spontaneity_
 
 ## 3. 💭 Self-reflection
 

@@ -13,11 +13,11 @@ title: "W16 · Conducting Audience Energy"
 
 | Time | Block |
 |---|---|
-| 0:00–0:05 | Arrival & safety check-in |
-| 0:05–0:15 | Warm-up game |
-| 0:15–0:27 | **1. Today's theory** |
-| 0:27–0:52 | **2. Today's games** |
-| 0:52–1:00 | **3. Reflection & debrief** |
+| **0:00–0:05** | 🤝 Arrival & safety check-in |
+| **0:05–0:15** | 🔥 Warm-up — *Architects of the Wall* |
+| **0:15–0:27** | 🧠 Theory — *Audience-Energy Management* |
+| **0:27–0:52** | 🎲 Game 1 — *The Audience Resonance Conductor* |
+| **0:52–1:00** | 💭 Reflection & debrief |
 
 ## 1. 🧠 Today's theory
 
@@ -56,7 +56,7 @@ title: "W16 · Conducting Audience Energy"
 7. Step 7: Introduce 'riding the wave' by having the facilitator signal the audience to erupt in laughter, requiring performers to hold their physical positions and wait for the peak to pass before delivering the next line.
 8. Step 8: Rotate players frequently so everyone experiences both the onstage performance pressure and the active audience perspective.
 
-[Open the full game card »](../../games/D5_P1_S2_T3_G004__the-fourth-wall-architects-game.md)
+[Open the full game card »](../../games/D5_P1_S2_T3_G004__the-fourth-wall-architects-game.md){target=_blank rel=noopener}
 
 #### Core game — The Audience Resonance Conductor
 
@@ -79,12 +79,12 @@ title: "W16 · Conducting Audience Energy"
 7. The Conductor continuously updates the 'current state' signal in real time as they observe genuine shifts in the audience's posture, breathing, or vocal responses.
 8. The scene concludes after 3 to 5 minutes once several emotional transitions have been successfully navigated, leading directly into a structured debrief.
 
-[Open the full game card »](../../games/D5_P1_S2_T3_G033__the-audience-resonance-conductor.md)
+[Open the full game card »](../../games/D5_P1_S2_T3_G033__the-audience-resonance-conductor.md){target=_blank rel=noopener}
 
 ??? note "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
-    - **[The Fourth Wall Dial](../../games/D5_P1_S2_T3_G093__the-fourth-wall-fluidity-lab.md)** — `5+` · `~20m` · `Cx 4/5` · `Energy medium` · _Audience-Energy Management_
-    - **[Permeable Currents](../../games/D5_P1_S2_T3_G105__contractual-currents.md)** — `2+` · `~15m` · `Cx 4/5` · `Energy medium` · _Audience-Energy Management_
+    - **[The Fourth Wall Dial](../../games/D5_P1_S2_T3_G093__the-fourth-wall-fluidity-lab.md){target=_blank rel=noopener}** — `5+` · `~20m` · `Cx 4/5` · `Energy medium` · _Audience-Energy Management_
+    - **[Permeable Currents](../../games/D5_P1_S2_T3_G105__contractual-currents.md){target=_blank rel=noopener}** — `2+` · `~15m` · `Cx 4/5` · `Energy medium` · _Audience-Energy Management_
 
 ## 3. 💭 Self-reflection
 

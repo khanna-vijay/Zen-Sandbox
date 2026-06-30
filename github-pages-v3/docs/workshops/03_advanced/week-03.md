@@ -13,11 +13,11 @@ title: "W03 · The Shared Mind"
 
 | Time | Block |
 |---|---|
-| 0:00–0:05 | Arrival & safety check-in |
-| 0:05–0:15 | Warm-up game |
-| 0:15–0:27 | **1. Today's theory** |
-| 0:27–0:52 | **2. Today's games** |
-| 0:52–1:00 | **3. Reflection & debrief** |
+| **0:00–0:05** | 🤝 Arrival & safety check-in |
+| **0:05–0:15** | 🔥 Warm-up — *Architect of Genius* |
+| **0:15–0:27** | 🧠 Theory — *Active Listening* |
+| **0:27–0:52** | 🎲 Game 1 — *The Symbiotic Pulse* |
+| **0:52–1:00** | 💭 Reflection & debrief |
 
 ## 1. 🧠 Today's theory
 
@@ -58,7 +58,7 @@ title: "W03 · The Shared Mind"
 7. Conclude the scene after three to five minutes, or once the facilitator observes that both players have attempted or achieved their respective setups.
 8. Conduct a structured four-step debrief for the pair, starting with the receiving partner sharing when they felt most supported, followed by the reveal of the secret cards.
 
-[Open the full game card »](../../games/D2_P3_S5_T1_G294__the-architect-s-canvas.md)
+[Open the full game card »](../../games/D2_P3_S5_T1_G294__the-architect-s-canvas.md){target=_blank rel=noopener}
 
 #### Core game — The Symbiotic Pulse
 
@@ -81,12 +81,12 @@ title: "W03 · The Shared Mind"
 7. Focus the scene entirely on the evolving emotional landscape and status dynamic between the two characters rather than trying to advance an external plot.
 8. End the scene after three to five minutes, once a clear, unspoken shift in the relationship has occurred.
 
-[Open the full game card »](../../games/D2_P3_S1_T1_G006__the-symbiotic-pulse.md)
+[Open the full game card »](../../games/D2_P3_S1_T1_G006__the-symbiotic-pulse.md){target=_blank rel=noopener}
 
 ??? note "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
-    - **[Greatest Hits](../../games/D2_P3_S5_T1_G1100__greatest-hits.md)** — `4–6` · `~7m` · `Cx 4/5` · `Energy high` · _Active Gifting_
-    - **[Subtextual Alchemy](../../games/D2_P2_S1_T1_G324__the-alchemist-s-subtext-unveiling-partner-intentions.md)** — `3+` · `~10m` · `Cx 3/5` · `Energy medium` · _Active Listening_
+    - **[Greatest Hits](../../games/D2_P3_S5_T1_G1100__greatest-hits.md){target=_blank rel=noopener}** — `4–6` · `~7m` · `Cx 4/5` · `Energy high` · _Active Gifting_
+    - **[Subtextual Alchemy](../../games/D2_P2_S1_T1_G324__the-alchemist-s-subtext-unveiling-partner-intentions.md){target=_blank rel=noopener}** — `3+` · `~10m` · `Cx 3/5` · `Energy medium` · _Active Listening_
 
 ## 3. 💭 Self-reflection
 

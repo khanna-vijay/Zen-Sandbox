@@ -16,11 +16,10 @@ title: "W18 · Capstone Performance"
 
 | Time | Block |
 |---|---|
-| 0:00–0:05 | Arrival & safety check-in |
-| 0:05–0:15 | Warm-up game |
-| 0:15–0:27 | **1. Today's theory** |
-| 0:27–0:52 | **2. Today's games** |
-| 0:52–1:00 | **3. Reflection & debrief** |
+| **0:00–0:05** | 🤝 Arrival & safety check-in |
+| **0:05–0:17** | 🧠 Theory — *Format Literacy* |
+| **0:17–0:52** | 🎲 Game 1 — *Day in the Life* |
+| **0:52–1:00** | 💭 Reflection & debrief |
 
 ## 1. 🧠 Today's theory
 
@@ -63,12 +62,12 @@ title: "W18 · Capstone Performance"
 7. Throughout the scenes, players occasionally break the fourth wall to check in with the volunteer, make eye contact, or narrate directly to them, keeping them integrated as the final scene partner.
 8. The game concludes with a high-energy final scene representing the end of the volunteer's day, followed by a warm cast bow dedicated to the volunteer.
 
-[Open the full game card »](../../games/D5_P1_S2_T3_G683__day-in-the-life.md)
+[Open the full game card »](../../games/D5_P1_S2_T3_G683__day-in-the-life.md){target=_blank rel=noopener}
 
 ??? note "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
-    - **[The Gorilla's Choice](../../games/D4_P3_S6_T4_G1099__gorilla-theatre.md)** — `5+` · `~90m` · `Cx 4/5` · `Energy high` · _Format Literacy_
-    - **[The Unwritten Novel](../../games/D3_P4_S3_T2_G1269__script-tease.md)** — `3+` · `~30m` · `Cx 4/5` · `Energy medium` · _Narrative Architecture_
+    - **[The Gorilla's Choice](../../games/D4_P3_S6_T4_G1099__gorilla-theatre.md){target=_blank rel=noopener}** — `5+` · `~90m` · `Cx 4/5` · `Energy high` · _Format Literacy_
+    - **[The Unwritten Novel](../../games/D3_P4_S3_T2_G1269__script-tease.md){target=_blank rel=noopener}** — `3+` · `~30m` · `Cx 4/5` · `Energy medium` · _Narrative Architecture_
 
 ## 3. 💭 Self-reflection
 

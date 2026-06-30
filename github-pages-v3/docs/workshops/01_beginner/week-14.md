@@ -13,11 +13,11 @@ title: "W14 · We're a Team"
 
 | Time | Block |
 |---|---|
-| 0:00–0:05 | Arrival & safety check-in |
-| 0:05–0:15 | Warm-up game |
-| 0:15–0:27 | **1. Today's theory** |
-| 0:27–0:52 | **2. Today's games** |
-| 0:52–1:00 | **3. Reflection & debrief** |
+| **0:00–0:05** | 🤝 Arrival & safety check-in |
+| **0:05–0:15** | 🔥 Warm-up — *I'm Great, You're Great* |
+| **0:15–0:27** | 🧠 Theory — *Support Work* |
+| **0:27–0:52** | 🎲 Game 1 — *The Memory Cauldron* |
+| **0:52–1:00** | 💭 Reflection & debrief |
 
 ## 1. 🧠 Today's theory
 
@@ -55,7 +55,7 @@ title: "W14 · We're a Team"
 6. Encourage players to keep moving and repeating this cycle rapidly, aiming to connect with as many different people in the room as possible within the time limit.
 7. Call an end to the activity after approximately two to three minutes, once the room reaches a peak of high energy and laughter.
 
-[Open the full game card »](../../games/D4_P1_S2_T0_G735__i-m-great-you-re-great-we-re-great.md)
+[Open the full game card »](../../games/D4_P1_S2_T0_G735__i-m-great-you-re-great-we-re-great.md){target=_blank rel=noopener}
 
 #### Core game — The Memory Cauldron
 
@@ -77,12 +77,12 @@ title: "W14 · We're a Team"
 6. Once the sharing naturally winds down, the facilitator guides the group to step forward and mime stirring the giant cauldron together.
 7. On a count of three, the entire group leaps into the air, throwing their hands up, and shouts a final, unifying word to close the session.
 
-[Open the full game card »](../../games/D4_P1_S2_T0_G667__circle-of-awesome.md)
+[Open the full game card »](../../games/D4_P1_S2_T0_G667__circle-of-awesome.md){target=_blank rel=noopener}
 
 ??? note "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
-    - **[The Welcome Ovation](../../games/D4_P1_S2_T0_G777__name-and-applause.md)** — `3+` · `~5m` · `Cx 1/5` · `Energy high` · _Support Work_
-    - **[Vocal Symphony](../../games/D4_P1_S2_T0_G788__orchestra.md)** — `4+` · `~5m` · `Cx 1/5` · `Energy medium` · _Support Work_
+    - **[The Welcome Ovation](../../games/D4_P1_S2_T0_G777__name-and-applause.md){target=_blank rel=noopener}** — `3+` · `~5m` · `Cx 1/5` · `Energy high` · _Support Work_
+    - **[Vocal Symphony](../../games/D4_P1_S2_T0_G788__orchestra.md){target=_blank rel=noopener}** — `4+` · `~5m` · `Cx 1/5` · `Energy medium` · _Support Work_
 
 ## 3. 💭 Self-reflection
 

@@ -13,11 +13,11 @@ title: "W10 · What's at Stake"
 
 | Time | Block |
 |---|---|
-| 0:00–0:05 | Arrival & safety check-in |
-| 0:05–0:15 | Warm-up game |
-| 0:15–0:27 | **1. Today's theory** |
-| 0:27–0:52 | **2. Today's games** |
-| 0:52–1:00 | **3. Reflection & debrief** |
+| **0:00–0:05** | 🤝 Arrival & safety check-in |
+| **0:05–0:15** | 🔥 Warm-up — *The Truth Cascade* |
+| **0:15–0:27** | 🧠 Theory — *Stakes / The “Want”* |
+| **0:27–0:52** | 🎲 Game 1 — *Stakes Topography* |
+| **0:52–1:00** | 💭 Reflection & debrief |
 
 ## 1. 🧠 Today's theory
 
@@ -59,7 +59,7 @@ title: "W10 · What's at Stake"
 8. Repeat this freeze-and-reveal cycle two to three times, with each new truth building incrementally on the previous ones.
 9. End the scene organically after the final escalation has been fully integrated and explored.
 
-[Open the full game card »](../../games/D3_P4_S7_T1_G290__the-cascade.md)
+[Open the full game card »](../../games/D3_P4_S7_T1_G290__the-cascade.md){target=_blank rel=noopener}
 
 #### Core game — Stakes Topography
 
@@ -81,12 +81,12 @@ title: "W10 · What's at Stake"
 6. Players must use physical body language, emotional shifts, and dialogue to organically justify why their characters are suddenly experiencing the stakes of the new zone.
 7. The scene concludes once the players navigate through a complete narrative arc, ending in either 'Resolution Nook' or 'Consequence Junction', and the facilitator calls 'Scene'.
 
-[Open the full game card »](../../games/D3_P4_S7_T1_G306__the-stakes-landscape.md)
+[Open the full game card »](../../games/D3_P4_S7_T1_G306__the-stakes-landscape.md){target=_blank rel=noopener}
 
 ??? note "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
-    - **[The Pressure Cooker](../../games/D3_P4_S7_T1_G612__the-pressure-cooker.md)** — `3+` · `~10m` · `Cx 3/5` · `Energy medium` · _Raising the Stakes_
-    - **[Undercurrents](../../games/D3_P1_S4_T1_G565__undercurrents.md)** — `2+` · `~15m` · `Cx 3/5` · `Energy medium` · _Stakes / The “Want”_
+    - **[The Pressure Cooker](../../games/D3_P4_S7_T1_G612__the-pressure-cooker.md){target=_blank rel=noopener}** — `3+` · `~10m` · `Cx 3/5` · `Energy medium` · _Raising the Stakes_
+    - **[Undercurrents](../../games/D3_P1_S4_T1_G565__undercurrents.md){target=_blank rel=noopener}** — `2+` · `~15m` · `Cx 3/5` · `Energy medium` · _Stakes / The “Want”_
 
 ## 3. 💭 Self-reflection
 

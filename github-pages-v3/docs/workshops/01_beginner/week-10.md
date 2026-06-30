@@ -13,11 +13,11 @@ title: "W10 · Two Minds, One Mirror"
 
 | Time | Block |
 |---|---|
-| 0:00–0:05 | Arrival & safety check-in |
-| 0:05–0:15 | Warm-up game |
-| 0:15–0:27 | **1. Today's theory** |
-| 0:27–0:52 | **2. Today's games** |
-| 0:52–1:00 | **3. Reflection & debrief** |
+| **0:00–0:05** | 🤝 Arrival & safety check-in |
+| **0:05–0:15** | 🔥 Warm-up — *Sound Ball* |
+| **0:15–0:27** | 🧠 Theory — *Single-Partner Empathy & Mirroring* |
+| **0:27–0:52** | 🎲 Game 1 — *The Mirror* |
+| **0:52–1:00** | 💭 Reflection & debrief |
 
 ## 1. 🧠 Today's theory
 
@@ -55,7 +55,7 @@ title: "W10 · Two Minds, One Mirror"
 6. The play continues in this manner, with each player catching and mirroring the incoming offer before immediately sending a new, spontaneous offer to someone else.
 7. Keep the momentum fast-paced, encouraging players to rely on instinct rather than planning their sounds or movements in advance.
 
-[Open the full game card »](../../games/D2_P2_S3_T1_G840__sound-ball.md)
+[Open the full game card »](../../games/D2_P2_S3_T1_G840__sound-ball.md){target=_blank rel=noopener}
 
 #### Core game — The Mirror
 
@@ -76,12 +76,12 @@ title: "W10 · Two Minds, One Mirror"
 5. After another couple of minutes, instruct both players to drop the roles of leader and follower, attempting to move together in unison where neither is consciously leading.
 6. Encourage players to explore subtle facial expressions, shifts in weight, and emotional states alongside physical gestures during this shared phase.
 
-[Open the full game card »](../../games/D2_P3_S3_T1_G770__mirroring.md)
+[Open the full game card »](../../games/D2_P3_S3_T1_G770__mirroring.md){target=_blank rel=noopener}
 
 ??? note "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
-    - **[Yippee Connection](../../games/D2_P2_S3_T1_G906__yipee.md)** — `4+` · `~5m` · `Cx 1/5` · `Energy high` · _Single-Partner Empathy & Mirroring_
-    - **[The Mutation Circle](../../games/D2_P2_S3_T1_G916__accepting-circle.md)** — `4+` · `~5m` · `Cx 1/5` · `Energy medium` · _Single-Partner Empathy & Mirroring_
+    - **[Yippee Connection](../../games/D2_P2_S3_T1_G906__yipee.md){target=_blank rel=noopener}** — `4+` · `~5m` · `Cx 1/5` · `Energy high` · _Single-Partner Empathy & Mirroring_
+    - **[The Mutation Circle](../../games/D2_P2_S3_T1_G916__accepting-circle.md){target=_blank rel=noopener}** — `4+` · `~5m` · `Cx 1/5` · `Energy medium` · _Single-Partner Empathy & Mirroring_
 
 ## 3. 💭 Self-reflection
 

@@ -16,11 +16,11 @@ title: "W13 · Eyes in the Back of Your Head"
 
 | Time | Block |
 |---|---|
-| 0:00–0:05 | Arrival & safety check-in |
-| 0:05–0:15 | Warm-up game |
-| 0:15–0:27 | **1. Today's theory** |
-| 0:27–0:52 | **2. Today's games** |
-| 0:52–1:00 | **3. Reflection & debrief** |
+| **0:00–0:05** | 🤝 Arrival & safety check-in |
+| **0:05–0:15** | 🔥 Warm-up — *Resonant Landscapes* |
+| **0:15–0:27** | 🧠 Theory — *Peripheral Awareness* |
+| **0:27–0:52** | 🎲 Game 1 — *The Ambient Web* |
+| **0:52–1:00** | 💭 Reflection & debrief |
 
 ## 1. 🧠 Today's theory
 
@@ -61,7 +61,7 @@ title: "W13 · Eyes in the Back of Your Head"
 9. Other players verbally build upon this premise, assigning narrative meaning to their own physical/vocal loops, gradually morphing their abstract movements into concrete characters, objects, or environmental features within the emerging scene.
 10. The game concludes when the abstract landscape has fully transformed into a grounded, active scene with clear characters and a shared narrative arc.
 
-[Open the full game card »](../../games/D4_P1_S1_T2_G030__collective-cartography-the-resonant-landscape.md)
+[Open the full game card »](../../games/D4_P1_S1_T2_G030__collective-cartography-the-resonant-landscape.md){target=_blank rel=noopener}
 
 #### Core game — The Ambient Web
 
@@ -84,12 +84,12 @@ title: "W13 · Eyes in the Back of Your Head"
 7. Abstract Deconstruction: Players translate this theme into physical and sonic textures, using peripheral awareness to build a unified, evolving environmental tableau without speaking or looking directly at each other.
 8. Collective Unwind: On a soft cue from the facilitator, the ensemble works together to gradually de-escalate the movement and sound, collectively finding a synchronized, silent resolution.
 
-[Open the full game card »](../../games/D4_P1_S1_T2_G014__the-resonance-weaver.md)
+[Open the full game card »](../../games/D4_P1_S1_T2_G014__the-resonance-weaver.md){target=_blank rel=noopener}
 
 ??? note "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
-    - **[The Organic Tapestry](../../games/D4_P1_S1_T1_G109__the-organic-tapestry.md)** — `5–10` · `~15m` · `Cx 3/5` · `Energy medium` · _Peripheral Awareness_
-    - **[The Living Canvas](../../games/D4_P1_S1_T2_G115__the-living-canvas-the-algorithmic-environment.md)** — `3–6` · `~20m` · `Cx 3/5` · `Energy medium` · _Peripheral Awareness_
+    - **[The Organic Tapestry](../../games/D4_P1_S1_T1_G109__the-organic-tapestry.md){target=_blank rel=noopener}** — `5–10` · `~15m` · `Cx 3/5` · `Energy medium` · _Peripheral Awareness_
+    - **[The Living Canvas](../../games/D4_P1_S1_T2_G115__the-living-canvas-the-algorithmic-environment.md){target=_blank rel=noopener}** — `3–6` · `~20m` · `Cx 3/5` · `Energy medium` · _Peripheral Awareness_
 
 ## 3. 💭 Self-reflection
 

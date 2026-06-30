@@ -13,11 +13,11 @@ title: "W16 · Editing on Time"
 
 | Time | Block |
 |---|---|
-| 0:00–0:05 | Arrival & safety check-in |
-| 0:05–0:15 | Warm-up game |
-| 0:15–0:27 | **1. Today's theory** |
-| 0:27–0:52 | **2. Today's games** |
-| 0:52–1:00 | **3. Reflection & debrief** |
+| **0:00–0:05** | 🤝 Arrival & safety check-in |
+| **0:05–0:15** | 🔥 Warm-up — *Rhythmic Resonance* |
+| **0:15–0:27** | 🧠 Theory — *Pacing & Rhythm* |
+| **0:27–0:52** | 🎲 Game 1 — *Resonance Bridges* |
+| **0:52–1:00** | 💭 Reflection & debrief |
 
 ## 1. 🧠 Today's theory
 
@@ -55,7 +55,7 @@ title: "W16 · Editing on Time"
 6. The players in the original scene must immediately recognize this new initiation, cleanly dissolving their scene by freezing, melting into the background, or walking off stage without pulling focus.
 7. The ensemble continues this cycle for 5 to 7 minutes, either entering the active scene to support its current rhythm or initiating a new 'cadence shift' to pivot the stage's energy.
 
-[Open the full game card »](../../games/D4_P1_S4_T1_G288__rhythm-resonance.md)
+[Open the full game card »](../../games/D4_P1_S4_T1_G288__rhythm-resonance.md){target=_blank rel=noopener}
 
 #### Core game — Resonance Bridges
 
@@ -78,12 +78,12 @@ title: "W16 · Editing on Time"
 7. The new scene must justify its high or low energy, rapid or slow pacing, and physical tension based on the inherited momentum, even if the characters and setting are entirely new.
 8. Repeat this cycle of scene, edit, collective breath, physical resonance, and momentum-based initiation for four to five scenes to complete the run.
 
-[Open the full game card »](../../games/D4_P1_S4_T1_G196__kinetic-transitions.md)
+[Open the full game card »](../../games/D4_P1_S4_T1_G196__kinetic-transitions.md){target=_blank rel=noopener}
 
 ??? note "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
-    - **[Ensemble Snap](../../games/D4_P1_S4_T1_G511__sync-snap.md)** — `4–8` · `~25m` · `Cx 3/5` · `Energy medium` · _Pacing & Rhythm_
-    - **[The Tempo Conductor](../../games/D4_P1_S4_T2_G536__the-rhythmic-collective.md)** — `4–8` · `~30m` · `Cx 3/5` · `Energy high` · _Pacing & Rhythm_
+    - **[Ensemble Snap](../../games/D4_P1_S4_T1_G511__sync-snap.md){target=_blank rel=noopener}** — `4–8` · `~25m` · `Cx 3/5` · `Energy medium` · _Pacing & Rhythm_
+    - **[The Tempo Conductor](../../games/D4_P1_S4_T2_G536__the-rhythmic-collective.md){target=_blank rel=noopener}** — `4–8` · `~30m` · `Cx 3/5` · `Energy high` · _Pacing & Rhythm_
 
 ## 3. 💭 Self-reflection
 

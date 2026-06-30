@@ -13,11 +13,11 @@ title: "W08 · Heightening the Pattern"
 
 | Time | Block |
 |---|---|
-| 0:00–0:05 | Arrival & safety check-in |
-| 0:05–0:15 | Warm-up game |
-| 0:15–0:27 | **1. Today's theory** |
-| 0:27–0:52 | **2. Today's games** |
-| 0:52–1:00 | **3. Reflection & debrief** |
+| **0:00–0:05** | 🤝 Arrival & safety check-in |
+| **0:05–0:15** | 🔥 Warm-up — *The Soundtrack Shop* |
+| **0:15–0:27** | 🧠 Theory — *Heightening & Exploration* |
+| **0:27–0:52** | 🎲 Game 1 — *Biographical Beats* |
+| **0:52–1:00** | 💭 Reflection & debrief |
 
 ## 1. 🧠 Today's theory
 
@@ -56,7 +56,7 @@ title: "W08 · Heightening the Pattern"
 7. After the song concludes (usually 30-45 seconds), the Customer and Shopkeeper react, and the Shopkeeper pitches a second, more escalated album and song, raising the comedic stakes.
 8. Repeat this cycle for 3 to 4 songs, with each pitch and performance climbing the 'ladder' of absurdity, before the Customer enthusiastically purchases their favorite option to close the scene.
 
-[Open the full game card »](../../games/D3_P1_S2_T1_G982__cd-shop.md)
+[Open the full game card »](../../games/D3_P1_S2_T1_G982__cd-shop.md){target=_blank rel=noopener}
 
 #### Core game — Biographical Beats
 
@@ -79,12 +79,12 @@ title: "W08 · Heightening the Pattern"
 7. Supporting players should actively listen and reincorporate details, names, or recurring jokes established in previous scenes to build a cohesive narrative tapestry.
 8. The game concludes after 5 to 7 scenes, ideally ending on a high-stakes, highly escalated peak of the character's life journey.
 
-[Open the full game card »](../../games/D3_P4_S2_T1_G759__life-times.md)
+[Open the full game card »](../../games/D3_P4_S2_T1_G759__life-times.md){target=_blank rel=noopener}
 
 ??? note "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
-    - **[The Replay Matrix](../../games/D3_P2_S2_T0_G1266__scene-replay.md)** — `2+` · `~10m` · `Cx 3/5` · `Energy medium` · _Heightening & Exploration_
-    - **[The Emotional Household](../../games/D3_P1_S2_T1_G695__emotional-family.md)** — `4–6` · `~10m` · `Cx 2/5` · `Energy high` · _Heightening & Exploration_
+    - **[The Replay Matrix](../../games/D3_P2_S2_T0_G1266__scene-replay.md){target=_blank rel=noopener}** — `2+` · `~10m` · `Cx 3/5` · `Energy medium` · _Heightening & Exploration_
+    - **[The Emotional Household](../../games/D3_P1_S2_T1_G695__emotional-family.md){target=_blank rel=noopener}** — `4–6` · `~10m` · `Cx 2/5` · `Energy high` · _Heightening & Exploration_
 
 ## 3. 💭 Self-reflection
 

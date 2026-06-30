@@ -16,11 +16,11 @@ title: "W12 · Show, Don't Tell — Build a World"
 
 | Time | Block |
 |---|---|
-| 0:00–0:05 | Arrival & safety check-in |
-| 0:05–0:15 | Warm-up game |
-| 0:15–0:27 | **1. Today's theory** |
-| 0:27–0:52 | **2. Today's games** |
-| 0:52–1:00 | **3. Reflection & debrief** |
+| **0:00–0:05** | 🤝 Arrival & safety check-in |
+| **0:05–0:15** | 🔥 Warm-up — *The Object Echo Chain* |
+| **0:15–0:27** | 🧠 Theory — *World-Building* |
+| **0:27–0:52** | 🎲 Game 1 — *Action and Entrance* |
+| **0:52–1:00** | 💭 Reflection & debrief |
 
 ## 1. 🧠 Today's theory
 
@@ -60,7 +60,7 @@ title: "W12 · Show, Don't Tell — Build a World"
 8. Players must maintain strict spatial awareness, ensuring they do not walk through or overwrite previously established objects.
 9. Continue the rotation for two to three full rounds, allowing the environment to grow in complexity, specificity, and implied history.
 
-[Open the full game card »](../../games/D3_P2_S5_T1_G608__the-echo-chamber-of-objects-collaborative-environmental-cons.md)
+[Open the full game card »](../../games/D3_P2_S5_T1_G608__the-echo-chamber-of-objects-collaborative-environmental-cons.md){target=_blank rel=noopener}
 
 #### Core game — Action and Entrance
 
@@ -82,12 +82,12 @@ title: "W12 · Show, Don't Tell — Build a World"
 6. Both players engage in dialogue that focuses on their relationship, history, or feelings, using the physical activity as a background reality rather than the sole topic of conversation.
 7. The scene continues for two to three minutes, allowing the players to discover how the physical task and the emotional dynamic influence each other, before the facilitator calls 'scene'.
 
-[Open the full game card »](../../games/D3_P2_S5_T1_G625__action-and-entrance.md)
+[Open the full game card »](../../games/D3_P2_S5_T1_G625__action-and-entrance.md){target=_blank rel=noopener}
 
 ??? note "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
-    - **[Road Trip Base Reality](../../games/D3_P2_S5_T1_G650__car-journey.md)** — `5+` · `~10m` · `Cx 2/5` · `Energy medium` · _World-Building_
-    - **[Dialogue and Doing](../../games/D3_P1_S5_T1_G663__chat-then-add-activity.md)** — `2+` · `~5m` · `Cx 2/5` · `Energy medium` · _World-Building_
+    - **[Road Trip Base Reality](../../games/D3_P2_S5_T1_G650__car-journey.md){target=_blank rel=noopener}** — `5+` · `~10m` · `Cx 2/5` · `Energy medium` · _World-Building_
+    - **[Dialogue and Doing](../../games/D3_P1_S5_T1_G663__chat-then-add-activity.md){target=_blank rel=noopener}** — `2+` · `~5m` · `Cx 2/5` · `Energy medium` · _World-Building_
 
 ## 3. 💭 Self-reflection
 

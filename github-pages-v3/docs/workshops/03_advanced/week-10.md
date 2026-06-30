@@ -13,11 +13,11 @@ title: "W10 · Invisible Support, Surrendered Ego"
 
 | Time | Block |
 |---|---|
-| 0:00–0:05 | Arrival & safety check-in |
-| 0:05–0:15 | Warm-up game |
-| 0:15–0:27 | **1. Today's theory** |
-| 0:27–0:52 | **2. Today's games** |
-| 0:52–1:00 | **3. Reflection & debrief** |
+| **0:00–0:05** | 🤝 Arrival & safety check-in |
+| **0:05–0:15** | 🔥 Warm-up — *The Living Canvas* |
+| **0:15–0:27** | 🧠 Theory — *Support Work* |
+| **0:27–0:52** | 🎲 Game 1 — *Symbiotic Environments* |
+| **0:52–1:00** | 💭 Reflection & debrief |
 
 ## 1. 🧠 Today's theory
 
@@ -56,7 +56,7 @@ title: "W10 · Invisible Support, Surrendered Ego"
 7. Continuous Evolution: The environment continues to cycle through phases of stability, subtle interaction, and sudden, organic transformation, driven entirely by the group's non-verbal agreement and physical responsiveness.
 8. Resolution: The exercise concludes when the ensemble naturally arrives at a shared moment of stillness and collective realization, or when the facilitator calls a freeze.
 
-[Open the full game card »](../../games/D4_P1_S2_T3_G492__the-confluence-canvas.md)
+[Open the full game card »](../../games/D4_P1_S2_T3_G492__the-confluence-canvas.md){target=_blank rel=noopener}
 
 #### Core game — Symbiotic Environments
 
@@ -77,12 +77,12 @@ title: "W10 · Invisible Support, Surrendered Ego"
 5. Introduce Ensemble Pivots: During Phase 4, the facilitator (or an active player) calls out a sudden thematic shift (e.g., 'Time is running out' or 'A sudden chill'). The entire ensemble must instantly adapt both the physical environment and the narrative tone to reflect this new reality.
 6. Execute Role-Switching: During these pivots, encourage players to fluidly swap roles. A character might melt into a wall to support the physical space, while an architectural element steps forward to become a new character, maintaining a seamless flow without breaking the reality of the scene.
 
-[Open the full game card »](../../games/D4_P1_S2_T3_G049__threaded-architecture.md)
+[Open the full game card »](../../games/D4_P1_S2_T3_G049__threaded-architecture.md){target=_blank rel=noopener}
 
 ??? note "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
-    - **[The Balladeer](../../games/D4_P2_S2_T0_G942__balladeer-1.md)** — `3+` · `~5m` · `Cx 3/5` · `Energy medium` · _Support Work_
-    - **[Pop-Up Storybook](../../games/D4_P1_S2_T3_G1238__pop-up-storybook.md)** — `3+` · `~15m` · `Cx 3/5` · `Energy medium` · _Support Work_
+    - **[The Balladeer](../../games/D4_P2_S2_T0_G942__balladeer-1.md){target=_blank rel=noopener}** — `3+` · `~5m` · `Cx 3/5` · `Energy medium` · _Support Work_
+    - **[Pop-Up Storybook](../../games/D4_P1_S2_T3_G1238__pop-up-storybook.md){target=_blank rel=noopener}** — `3+` · `~15m` · `Cx 3/5` · `Energy medium` · _Support Work_
 
 ## 3. 💭 Self-reflection
 

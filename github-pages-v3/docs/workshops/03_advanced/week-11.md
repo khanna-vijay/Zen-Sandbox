@@ -13,11 +13,11 @@ title: "W11 · Weaving the Threads"
 
 | Time | Block |
 |---|---|
-| 0:00–0:05 | Arrival & safety check-in |
-| 0:05–0:15 | Warm-up game |
-| 0:15–0:27 | **1. Today's theory** |
-| 0:27–0:52 | **2. Today's games** |
-| 0:52–1:00 | **3. Reflection & debrief** |
+| **0:00–0:05** | 🤝 Arrival & safety check-in |
+| **0:05–0:15** | 🔥 Warm-up — *The Harmonic Loom* |
+| **0:15–0:27** | 🧠 Theory — *Thematic Synthesis* |
+| **0:27–0:52** | 🎲 Game 1 — *The Resonance Weave* |
+| **0:52–1:00** | 💭 Reflection & debrief |
 
 ## 1. 🧠 Today's theory
 
@@ -56,7 +56,7 @@ title: "W11 · Weaving the Threads"
 7. If a connection feels forced or a player struggles to integrate past threads, the facilitator calls Reweave to gently pause, rewind the last few seconds, and let the ensemble find a more organic synthesis.
 8. Conclude the exercise after approximately twenty minutes, ending not on a punchline, but when the ensemble achieves a palpable sense of thematic completion and resonance.
 
-[Open the full game card »](../../games/D4_P1_S5_T2_G077__the-harmonic-loom.md)
+[Open the full game card »](../../games/D4_P1_S5_T2_G077__the-harmonic-loom.md){target=_blank rel=noopener}
 
 #### Core game — The Resonance Weave
 
@@ -78,12 +78,12 @@ title: "W11 · Weaving the Threads"
 6. Layering Seeds: Other players may step forward to offer additional, contrasting, or complementary verbal seeds as the non-verbal tapestry continues to evolve, creating multiple thematic anchors.
 7. Phase 3 (Scene Emergence): When the ensemble feels a collective convergence of energy, they organically transition from the abstract tapestry into short, interconnected scenes. Players step into the space to initiate dialogue, drawing directly from the established verbal seeds and physical/emotional threads.
 
-[Open the full game card »](../../games/D4_P1_S5_T2_G085__the-enso-weave.md)
+[Open the full game card »](../../games/D4_P1_S5_T2_G085__the-enso-weave.md){target=_blank rel=noopener}
 
 ??? note "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
-    - **[The Conscious Universe](../../games/D4_P1_S5_T1_G212__the-ensemble-s-deep-dive.md)** — `3–8` · `~30m` · `Cx 4/5` · `Energy medium` · _Thematic Synthesis_
-    - **[Undercurrent Weave](../../games/D4_P1_S5_T2_G263__the-undercurrent-weave.md)** — `4–8` · `~20m` · `Cx 4/5` · `Energy medium` · _Thematic Synthesis_
+    - **[The Conscious Universe](../../games/D4_P1_S5_T1_G212__the-ensemble-s-deep-dive.md){target=_blank rel=noopener}** — `3–8` · `~30m` · `Cx 4/5` · `Energy medium` · _Thematic Synthesis_
+    - **[Undercurrent Weave](../../games/D4_P1_S5_T2_G263__the-undercurrent-weave.md){target=_blank rel=noopener}** — `4–8` · `~20m` · `Cx 4/5` · `Energy medium` · _Thematic Synthesis_
 
 ## 3. 💭 Self-reflection
 

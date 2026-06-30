@@ -13,11 +13,11 @@ title: "W04 · Listening for Subtext"
 
 | Time | Block |
 |---|---|
-| 0:00–0:05 | Arrival & safety check-in |
-| 0:05–0:15 | Warm-up game |
-| 0:15–0:27 | **1. Today's theory** |
-| 0:27–0:52 | **2. Today's games** |
-| 0:52–1:00 | **3. Reflection & debrief** |
+| **0:00–0:05** | 🤝 Arrival & safety check-in |
+| **0:05–0:15** | 🔥 Warm-up — *The Status Oracle* |
+| **0:15–0:27** | 🧠 Theory — *Active Listening* |
+| **0:27–0:52** | 🎲 Game 1 — *Echo and Elevate* |
+| **0:52–1:00** | 💭 Reflection & debrief |
 
 ## 1. 🧠 Today's theory
 
@@ -57,7 +57,7 @@ title: "W04 · Listening for Subtext"
 8. Partner B accepts both the verbal gift and the status dynamic, mirroring the emotional subtext and physical posture of that status level in their repetition.
 9. Introduce the 'Seesaw' cue: When the facilitator calls out 'Seesaw!', Partner A must instantly invert the status dynamic (e.g., shifting from high to low status), and Partner B must immediately adapt and mirror the new dynamic.
 
-[Open the full game card »](../../games/D2_P3_S1_T1_G048__the-status-oracle-echoes-of-competence.md)
+[Open the full game card »](../../games/D2_P3_S1_T1_G048__the-status-oracle-echoes-of-competence.md){target=_blank rel=noopener}
 
 #### Core game — Echo and Elevate
 
@@ -79,12 +79,12 @@ title: "W04 · Listening for Subtext"
 6. Repeat this exact four-line cycle three to five times, allowing the content to evolve naturally from the previous cycle while maintaining the rigid structural pattern.
 7. After completing the designated cycles, have the partners swap roles so Partner B becomes the Giver and Partner A becomes the Receiver.
 
-[Open the full game card »](../../games/D2_P3_S1_T1_G150__the-resonance-refine-drill.md)
+[Open the full game card »](../../games/D2_P3_S1_T1_G150__the-resonance-refine-drill.md){target=_blank rel=noopener}
 
 ??? note "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
-    - **[The Subtext Echo Chamber](../../games/D2_P2_S1_T1_G211__the-echo-chamber-of-evolving-gifts.md)** — `2+` · `~5m` · `Cx 3/5` · `Energy low` · _Active Listening_
-    - **[Choreographed Consensus](../../games/D2_P3_S1_T1_G309__the-choreographed-consensus.md)** — `2+` · `~15m` · `Cx 3/5` · `Energy medium` · _Active Listening_
+    - **[The Subtext Echo Chamber](../../games/D2_P2_S1_T1_G211__the-echo-chamber-of-evolving-gifts.md){target=_blank rel=noopener}** — `2+` · `~5m` · `Cx 3/5` · `Energy low` · _Active Listening_
+    - **[Choreographed Consensus](../../games/D2_P3_S1_T1_G309__the-choreographed-consensus.md){target=_blank rel=noopener}** — `2+` · `~15m` · `Cx 3/5` · `Energy medium` · _Active Listening_
 
 ## 3. 💭 Self-reflection
 

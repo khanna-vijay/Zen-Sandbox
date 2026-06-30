@@ -13,11 +13,11 @@ title: "W06 · Fail Joyfully & Recover"
 
 | Time | Block |
 |---|---|
-| 0:00–0:05 | Arrival & safety check-in |
-| 0:05–0:15 | Warm-up game |
-| 0:15–0:27 | **1. Today's theory** |
-| 0:27–0:52 | **2. Today's games** |
-| 0:52–1:00 | **3. Reflection & debrief** |
+| **0:00–0:05** | 🤝 Arrival & safety check-in |
+| **0:05–0:15** | 🔥 Warm-up — *One Two Three* |
+| **0:15–0:27** | 🧠 Theory — *Self-Recovery* |
+| **0:27–0:52** | 🎲 Game 1 — *The Celebration Pass* |
+| **0:52–1:00** | 💭 Reflection & debrief |
 
 ## 1. 🧠 Today's theory
 
@@ -56,7 +56,7 @@ title: "W06 · Fail Joyfully & Recover"
 5. After a minute of play, introduce Round 3: Keep the clap for '2', and replace the number '3' with a small jump or a hip-wiggle. The sequence is now '1', [Clap], [Jump].
 6. Encourage players to increase their speed gradually, leaning into the chaos and celebrating every single breakdown with equal or greater enthusiasm.
 
-[Open the full game card »](../../games/D1_P2_S6_T2_G619__1-2-3.md)
+[Open the full game card »](../../games/D1_P2_S6_T2_G619__1-2-3.md){target=_blank rel=noopener}
 
 #### Core game — The Celebration Pass
 
@@ -77,12 +77,12 @@ title: "W06 · Fail Joyfully & Recover"
 5. After the drop and the celebration, the player who dropped the ball must joyfully retrieve it, re-establish eye contact with a new player, and throw it to them.
 6. Keep the pace rapid, ensuring the ball moves quickly from person to person so everyone gets multiple opportunities to fail and be celebrated.
 
-[Open the full game card »](../../games/D1_P2_S6_T2_G761__loserball.md)
+[Open the full game card »](../../games/D1_P2_S6_T2_G761__loserball.md){target=_blank rel=noopener}
 
 ??? note "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
-    - **[The Frozen Path](../../games/D1_P1_S5_T1_G981__catch-em.md)** — `3+` · `~5m` · `Cx 1/5` · `Energy medium` · _Silence & Stillness_
-    - **[Epic Drop](../../games/D1_P2_S6_T2_G1159__loser-ball.md)** — `3+` · `~5m` · `Cx 1/5` · `Energy high` · _Self-Recovery_
+    - **[The Frozen Path](../../games/D1_P1_S5_T1_G981__catch-em.md){target=_blank rel=noopener}** — `3+` · `~5m` · `Cx 1/5` · `Energy medium` · _Silence & Stillness_
+    - **[Epic Drop](../../games/D1_P2_S6_T2_G1159__loser-ball.md){target=_blank rel=noopener}** — `3+` · `~5m` · `Cx 1/5` · `Energy high` · _Self-Recovery_
 
 ## 3. 💭 Self-reflection
 

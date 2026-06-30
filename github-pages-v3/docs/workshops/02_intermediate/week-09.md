@@ -13,11 +13,11 @@ title: "W09 · The Story Spine"
 
 | Time | Block |
 |---|---|
-| 0:00–0:05 | Arrival & safety check-in |
-| 0:05–0:15 | Warm-up game |
-| 0:15–0:27 | **1. Today's theory** |
-| 0:27–0:52 | **2. Today's games** |
-| 0:52–1:00 | **3. Reflection & debrief** |
+| **0:00–0:05** | 🤝 Arrival & safety check-in |
+| **0:05–0:15** | 🔥 Warm-up — *The Plot Weaver* |
+| **0:15–0:27** | 🧠 Theory — *Narrative Architecture* |
+| **0:27–0:52** | 🎲 Game 1 — *The Narrative Current* |
+| **0:52–1:00** | 💭 Reflection & debrief |
 
 ## 1. 🧠 Today's theory
 
@@ -57,7 +57,7 @@ title: "W09 · The Story Spine"
 8. The facilitator announces the winning proposal, and on the count of three, the onstage players unfreeze and immediately play out the scene, fully integrating the chosen consequence as their absolute reality.
 9. Repeat this cycle two to three times within the same scene, building a layered, highly collaborative narrative arc before calling 'Scene!'
 
-[Open the full game card »](../../games/D3_P4_S3_T1_G038__the-chronos-weaver.md)
+[Open the full game card »](../../games/D3_P4_S3_T1_G038__the-chronos-weaver.md){target=_blank rel=noopener}
 
 #### Core game — The Narrative Current
 
@@ -80,12 +80,12 @@ title: "W09 · The Story Spine"
 7. The Director guides the scene through a sequence of prompts, which may include: 'My Want' (immediate objective), 'The Stakes' (consequences of failure), 'Relationship Shift' (a change in how they view each other), 'Environmental Truth' (a discovery about the space or an object), 'Hidden Truth' (unspoken subtext), and 'Complication' (an external force or tilt).
 8. After the final prompt is integrated, the Director allows the scene to play out organically for another minute, letting the players drive the heightened stakes toward a natural climax and resolution.
 
-[Open the full game card »](../../games/D3_P4_S3_T2_G047__the-narrative-current.md)
+[Open the full game card »](../../games/D3_P4_S3_T2_G047__the-narrative-current.md){target=_blank rel=noopener}
 
 ??? note "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
-    - **[The Narrative Pulse](../../games/D3_P4_S3_T2_G067__the-narrative-pulse.md)** — `3+` · `~15m` · `Cx 3/5` · `Energy medium` · _Narrative Architecture_
-    - **[The Narrative Circuit](../../games/D3_P4_S3_T1_G102__the-narrative-circuit.md)** — `3+` · `~15m` · `Cx 3/5` · `Energy medium` · _Narrative Architecture_
+    - **[The Narrative Pulse](../../games/D3_P4_S3_T2_G067__the-narrative-pulse.md){target=_blank rel=noopener}** — `3+` · `~15m` · `Cx 3/5` · `Energy medium` · _Narrative Architecture_
+    - **[The Narrative Circuit](../../games/D3_P4_S3_T1_G102__the-narrative-circuit.md){target=_blank rel=noopener}** — `3+` · `~15m` · `Cx 3/5` · `Energy medium` · _Narrative Architecture_
 
 ## 3. 💭 Self-reflection
 

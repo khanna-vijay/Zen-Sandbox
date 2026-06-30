@@ -16,11 +16,12 @@ title: "W02 · The First Thought Is a Gift"
 
 | Time | Block |
 |---|---|
-| 0:00–0:05 | Arrival & safety check-in |
-| 0:05–0:15 | Warm-up game |
-| 0:15–0:27 | **1. Today's theory** |
-| 0:27–0:52 | **2. Today's games** |
-| 0:52–1:00 | **3. Reflection & debrief** |
+| **0:00–0:05** | 🤝 Arrival & safety check-in |
+| **0:05–0:15** | 🔥 Warm-up — *Award-Winning Moments* |
+| **0:15–0:27** | 🧠 Theory — *Unfiltered Spontaneity* |
+| **0:27–0:39** | 🎲 Game 1 — *Eight Rapid Things* |
+| **0:39–0:52** | 🎲 Game 2 — *Category Chase* |
+| **0:52–1:00** | 💭 Reflection & debrief |
 
 ## 1. 🧠 Today's theory
 
@@ -58,7 +59,7 @@ title: "W02 · The First Thought Is a Gift"
 6. Once a player's moment concludes, the scene transitions back to collaborative play, pacing toward the next player's spotlight moment.
 7. The scene ends once all players have successfully executed their award-winning moments and the narrative reaches a satisfying conclusion.
 
-[Open the full game card »](../../games/D1_P1_S1_T0_G791__oscar-winning-moment.md)
+[Open the full game card »](../../games/D1_P1_S1_T0_G791__oscar-winning-moment.md){target=_blank rel=noopener}
 
 #### Core game — Eight Rapid Things
 
@@ -81,7 +82,7 @@ title: "W02 · The First Thought Is a Gift"
 7. If the center player hesitates, stumbles, or says something nonsensical, the group must count it anyway with equal or greater enthusiasm.
 8. Upon reaching 'EIGHT!', the entire group erupts into a brief, high-energy celebration (cheering, dancing, or high-fives) before the center player returns to the circle and a new volunteer steps in.
 
-[Open the full game card »](../../games/D1_P4_S1_T2_G624__8-things.md)
+[Open the full game card »](../../games/D1_P4_S1_T2_G624__8-things.md){target=_blank rel=noopener}
 
 #### Core game — Category Chase
 
@@ -103,12 +104,12 @@ title: "W02 · The First Thought Is a Gift"
 6. If a player is successfully tagged because they couldn't think of a word, repeated a word, or were too slow, they immediately become the new Chaser.
 7. The new Chaser must instantly freeze, call out a brand-new category, and then begin chasing the other players.
 
-[Open the full game card »](../../games/D1_P4_S1_T1_G652__category-tag.md)
+[Open the full game card »](../../games/D1_P4_S1_T1_G652__category-tag.md){target=_blank rel=noopener}
 
 ??? note "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
-    - **[Eight Things About Me](../../games/D1_P3_S1_T2_G691__eight-things-about-me.md)** — `3+` · `~10m` · `Cx 1/5` · `Energy medium` · _Unfiltered Spontaneity_
-    - **[Pulse Association](../../games/D1_P4_S1_T1_G693__electric-company.md)** — `2+` · `~5m` · `Cx 1/5` · `Energy medium` · _Unfiltered Spontaneity_
+    - **[Eight Things About Me](../../games/D1_P3_S1_T2_G691__eight-things-about-me.md){target=_blank rel=noopener}** — `3+` · `~10m` · `Cx 1/5` · `Energy medium` · _Unfiltered Spontaneity_
+    - **[Pulse Association](../../games/D1_P4_S1_T1_G693__electric-company.md){target=_blank rel=noopener}** — `2+` · `~5m` · `Cx 1/5` · `Energy medium` · _Unfiltered Spontaneity_
 
 ## 3. 💭 Self-reflection
 
