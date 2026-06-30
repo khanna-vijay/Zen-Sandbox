@@ -49,6 +49,7 @@ extra_javascript:
   - assets/games-filter.js
   - assets/games-page.js
   - assets/nav-resize.js
+  - assets/header-onerow.js
 
 plugins:
   - search
