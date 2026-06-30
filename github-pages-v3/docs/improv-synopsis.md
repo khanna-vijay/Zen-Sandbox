@@ -1,4 +1,4 @@
-# The 5-Category Extraction (Domain-Based + Hybrid Fixes)
+# 5-Core Improv Categories
 
 ---
 
