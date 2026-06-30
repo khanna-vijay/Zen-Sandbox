@@ -8,6 +8,8 @@ copyright: "The Improv Framework — v3"
 
 docs_dir: docs
 strict: true
+not_in_nav: |
+  games/*.md
 
 theme:
   name: material
@@ -39,6 +41,7 @@ extra_css:
 
 extra_javascript:
   - assets/keynav.js
+  - assets/games-filter.js
 
 plugins:
   - search
@@ -65,6 +68,10 @@ markdown_extensions:
 
 nav:
   - About: index.md
+  - Guides:
+      - Community Guidelines: community-guidelines.md
+      - Improv Framework — Synopsis: improv-synopsis.md
+      - Improv Maturity Framework: improv-maturity-framework.md
   - "The Self":
       - Overview: content/01_the-self/01_D__the-self.md
       - Principles:
@@ -227,3 +234,4 @@ nav:
               - "Cheating out": content/05_the-audience/05_S3_T1__cheating-out.md
               - "Projection": content/05_the-audience/05_S3_T2__projection.md
               - "Make the choice readable": content/05_the-audience/05_S3_T3__make-the-choice-readable.md
+  - Games List: games/index.md
