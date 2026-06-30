@@ -13,11 +13,11 @@ title: "W02 · Emotion with Logic"
 
 | Time | Block |
 |---|---|
-| 0:00–0:05 | Arrival & safety check-in |
-| 0:05–0:15 | Warm-up game |
-| 0:15–0:27 | **1. Today's theory** |
-| 0:27–0:52 | **2. Today's games** |
-| 0:52–1:00 | **3. Reflection & debrief** |
+| **0:00–0:05** | 🤝 Arrival & safety check-in |
+| **0:05–0:15** | 🔥 Warm-up — *Internal Weather System* |
+| **0:15–0:27** | 🧠 Theory — *Emotional Fluidity* |
+| **0:27–0:52** | 🎲 Game 1 — *The Somatic Blueprint* |
+| **0:52–1:00** | 💭 Reflection & debrief |
 
 ## 1. 🧠 Today's theory
 
@@ -56,7 +56,7 @@ title: "W02 · Emotion with Logic"
 7. Once the emotion peaks, the Active Player allows the feeling to naturally subside, practicing 'self-recovery' to return to a functional, centered baseline while continuing the task.
 8. The process repeats with a different Echo introducing a new emotional current, allowing the Active Player to transition through multiple distinct states.
 
-[Open the full game card »](../../games/D1_P3_S2_T1_G020__the-internal-weather-system.md)
+[Open the full game card »](../../games/D1_P3_S2_T1_G020__the-internal-weather-system.md){target=_blank rel=noopener}
 
 #### Core game — The Somatic Blueprint
 
@@ -80,12 +80,12 @@ title: "W02 · Emotion with Logic"
 8. The Receiver consciously chooses a new state in response, either amplifying, de-escalating, contrasting, or transforming the received energy, and sets their own Emotional Dial from 1 to 10.
 9. The Receiver becomes the new Architect, fully embodying their new state and passing it to another player, continuing the cycle.
 
-[Open the full game card »](../../games/D1_P3_S2_T1_G035__the-somatic-architect-internal-blueprint.md)
+[Open the full game card »](../../games/D1_P3_S2_T1_G035__the-somatic-architect-internal-blueprint.md){target=_blank rel=noopener}
 
 ??? note "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
-    - **[The Emotional Dialect](../../games/D1_P1_S2_T2_G103__the-somatic-symphony.md)** — `4–8` · `~15m` · `Cx 3/5` · `Energy medium` · _Emotional Fluidity_
-    - **[The Spectrum Filter](../../games/D1_P1_S2_T1_G117__the-spectrum-filter.md)** — `5–10` · `~15m` · `Cx 3/5` · `Energy medium` · _Emotional Fluidity_
+    - **[The Emotional Dialect](../../games/D1_P1_S2_T2_G103__the-somatic-symphony.md){target=_blank rel=noopener}** — `4–8` · `~15m` · `Cx 3/5` · `Energy medium` · _Emotional Fluidity_
+    - **[The Spectrum Filter](../../games/D1_P1_S2_T1_G117__the-spectrum-filter.md){target=_blank rel=noopener}** — `5–10` · `~15m` · `Cx 3/5` · `Energy medium` · _Emotional Fluidity_
 
 ## 3. 💭 Self-reflection
 

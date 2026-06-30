@@ -13,11 +13,11 @@ title: "W13 · Make It Make Sense"
 
 | Time | Block |
 |---|---|
-| 0:00–0:05 | Arrival & safety check-in |
-| 0:05–0:15 | Warm-up game |
-| 0:15–0:27 | **1. Today's theory** |
-| 0:27–0:52 | **2. Today's games** |
-| 0:52–1:00 | **3. Reflection & debrief** |
+| **0:00–0:05** | 🤝 Arrival & safety check-in |
+| **0:05–0:15** | 🔥 Warm-up — *Curveball Narrative* |
+| **0:15–0:27** | 🧠 Theory — *Justification* |
+| **0:27–0:52** | 🎲 Game 1 — *Cue and Justify* |
+| **0:52–1:00** | 💭 Reflection & debrief |
 
 ## 1. 🧠 Today's theory
 
@@ -55,7 +55,7 @@ title: "W13 · Make It Make Sense"
 6. The Storyteller continues building the narrative arc (beginning, middle, climax, and resolution) while adapting to each new curveball.
 7. After two to three minutes, or once the story reaches a satisfying conclusion, the partners swap roles and repeat the process.
 
-[Open the full game card »](../../games/D3_P4_S6_T1_G681__curveball-story.md)
+[Open the full game card »](../../games/D3_P4_S6_T1_G681__curveball-story.md){target=_blank rel=noopener}
 
 #### Core game — Cue and Justify
 
@@ -78,12 +78,12 @@ title: "W13 · Make It Make Sense"
 7. A player cannot say their own cue word to trigger their own movement; the trigger must always come from someone else's dialogue.
 8. The remaining players must accept the new arrival or departure and adapt the scene's narrative to accommodate the change without breaking character.
 
-[Open the full game card »](../../games/D3_P2_S6_T1_G697__enter-and-exit.md)
+[Open the full game card »](../../games/D3_P2_S6_T1_G697__enter-and-exit.md){target=_blank rel=noopener}
 
 ??? note "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
-    - **[Instant Travelogue](../../games/D3_P4_S6_T1_G739__instagram-slide-show.md)** — `2–4` · `~5m` · `Cx 2/5` · `Energy medium` · _Justification_
-    - **[Sweet Talk Rivals](../../games/D3_P4_S6_T1_G762__love-hearts.md)** — `2–2` · `~5m` · `Cx 2/5` · `Energy medium` · _Justification_
+    - **[Instant Travelogue](../../games/D3_P4_S6_T1_G739__instagram-slide-show.md){target=_blank rel=noopener}** — `2–4` · `~5m` · `Cx 2/5` · `Energy medium` · _Justification_
+    - **[Sweet Talk Rivals](../../games/D3_P4_S6_T1_G762__love-hearts.md){target=_blank rel=noopener}** — `2–2` · `~5m` · `Cx 2/5` · `Energy medium` · _Justification_
 
 ## 3. 💭 Self-reflection
 

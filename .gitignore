@@ -25,6 +25,9 @@
 Thumbs.db
 *.log
 
+# ── website_checker.sh output (regenerable audit report) ──
+website_link_report.md
+
 # ── Publish ONLY the v3 site to GitHub. Everything below stays local. ──
 /gitbook/
 /github-pages/

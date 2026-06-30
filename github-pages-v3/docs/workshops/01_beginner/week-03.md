@@ -13,11 +13,11 @@ title: "W03 · The Emotional Dial"
 
 | Time | Block |
 |---|---|
-| 0:00–0:05 | Arrival & safety check-in |
-| 0:05–0:15 | Warm-up game |
-| 0:15–0:27 | **1. Today's theory** |
-| 0:27–0:52 | **2. Today's games** |
-| 0:52–1:00 | **3. Reflection & debrief** |
+| **0:00–0:05** | 🤝 Arrival & safety check-in |
+| **0:05–0:15** | 🔥 Warm-up — *Degrees of Connection* |
+| **0:15–0:27** | 🧠 Theory — *Emotional Fluidity* |
+| **0:27–0:52** | 🎲 Game 1 — *The Epic Mundane* |
+| **0:52–1:00** | 💭 Reflection & debrief |
 
 ## 1. 🧠 Today's theory
 
@@ -55,7 +55,7 @@ title: "W03 · The Emotional Dial"
 6. Transition to Phase 5: Bring the exercise back to a positive, vulnerable state by having players pass each other and say 'I love you' once more.
 7. Call a freeze to end the exercise, allowing players to take a deep breath and shake off the emotional residue.
 
-[Open the full game card »](../../games/D1_P3_S2_T0_G733__i-love-you-i-hate-you.md)
+[Open the full game card »](../../games/D1_P3_S2_T0_G733__i-love-you-i-hate-you.md){target=_blank rel=noopener}
 
 #### Core game — The Epic Mundane
 
@@ -77,12 +77,12 @@ title: "W03 · The Emotional Dial"
 6. Once the applause peaks and naturally subsides, the next player in the circle steps up to deliver their name and boring fact with the same level of maximum commitment.
 7. Continue clockwise around the circle until every participant has shared and received a stadium-level ovation.
 
-[Open the full game card »](../../games/D1_P1_S2_T1_G778__name-and-boring-fact.md)
+[Open the full game card »](../../games/D1_P1_S2_T1_G778__name-and-boring-fact.md){target=_blank rel=noopener}
 
 ??? note "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
-    - **[The Emotional Echo](../../games/D1_P1_S2_T2_G094__the-internal-dialect.md)** — `4–8` · `~15m` · `Cx 2/5` · `Energy medium` · _Emotional Fluidity_
-    - **[Somatic Impulse Dial](../../games/D1_P4_S2_T1_G136__somatic-impulse-dial.md)** — `2+` · `~15m` · `Cx 2/5` · `Energy medium` · _Emotional Fluidity_
+    - **[The Emotional Echo](../../games/D1_P1_S2_T2_G094__the-internal-dialect.md){target=_blank rel=noopener}** — `4–8` · `~15m` · `Cx 2/5` · `Energy medium` · _Emotional Fluidity_
+    - **[Somatic Impulse Dial](../../games/D1_P4_S2_T1_G136__somatic-impulse-dial.md){target=_blank rel=noopener}** — `2+` · `~15m` · `Cx 2/5` · `Energy medium` · _Emotional Fluidity_
 
 ## 3. 💭 Self-reflection
 

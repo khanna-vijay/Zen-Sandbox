@@ -16,11 +16,11 @@ title: "W05 · Find It, Play It, Break It"
 
 | Time | Block |
 |---|---|
-| 0:00–0:05 | Arrival & safety check-in |
-| 0:05–0:15 | Warm-up game |
-| 0:15–0:27 | **1. Today's theory** |
-| 0:27–0:52 | **2. Today's games** |
-| 0:52–1:00 | **3. Reflection & debrief** |
+| **0:00–0:05** | 🤝 Arrival & safety check-in |
+| **0:05–0:15** | 🔥 Warm-up — *Understudy* |
+| **0:15–0:27** | 🧠 Theory — *Game Identification* |
+| **0:27–0:52** | 🎲 Game 1 — *The Heightening Accelerator* |
+| **0:52–1:00** | 💭 Reflection & debrief |
 
 ## 1. 🧠 Today's theory
 
@@ -61,7 +61,7 @@ title: "W05 · Find It, Play It, Break It"
 7. The original actor steps back into the scene, instantly adopting the newly amplified emotional state and behavioral choices demonstrated by their understudy.
 8. The facilitator can repeat this process multiple times, swapping understudies for either character to progressively escalate the scene's comedic game to its peak.
 
-[Open the full game card »](../../games/D3_P2_S1_T1_G880__understudy.md)
+[Open the full game card »](../../games/D3_P2_S1_T1_G880__understudy.md){target=_blank rel=noopener}
 
 #### Core game — The Heightening Accelerator
 
@@ -85,12 +85,12 @@ title: "W05 · Find It, Play It, Break It"
 8. Play the scene under the chosen directive for about one minute, ensuring every heightened choice is immediately justified and grounded.
 9. The facilitator may freeze the scene 1-2 more times to issue different directives, allowing players to experience multiple heightening pathways within the same scene.
 
-[Open the full game card »](../../games/D3_P2_S2_T1_G610__the-scene-dynamics-accelerator.md)
+[Open the full game card »](../../games/D3_P2_S2_T1_G610__the-scene-dynamics-accelerator.md){target=_blank rel=noopener}
 
 ??? note "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
-    - **[Retroactive Reality](../../games/D3_P4_S6_T1_G452__the-chrono-warp-justifier.md)** — `3+` · `~15m` · `Cx 4/5` · `Energy medium` · _Justification_
-    - **[The Narrative Crucible](../../games/D3_P4_S3_T2_G424__the-narrative-escalation-chamber.md)** — `2+` · `~15m` · `Cx 3/5` · `Energy medium` · _Narrative Architecture_
+    - **[Retroactive Reality](../../games/D3_P4_S6_T1_G452__the-chrono-warp-justifier.md){target=_blank rel=noopener}** — `3+` · `~15m` · `Cx 4/5` · `Energy medium` · _Justification_
+    - **[The Narrative Crucible](../../games/D3_P4_S3_T2_G424__the-narrative-escalation-chamber.md){target=_blank rel=noopener}** — `2+` · `~15m` · `Cx 3/5` · `Energy medium` · _Narrative Architecture_
 
 ## 3. 💭 Self-reflection
 

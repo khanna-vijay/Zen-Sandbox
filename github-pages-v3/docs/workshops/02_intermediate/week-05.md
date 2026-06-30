@@ -13,11 +13,11 @@ title: "W05 · The Status Seesaw"
 
 | Time | Block |
 |---|---|
-| 0:00–0:05 | Arrival & safety check-in |
-| 0:05–0:15 | Warm-up game |
-| 0:15–0:27 | **1. Today's theory** |
-| 0:27–0:52 | **2. Today's games** |
-| 0:52–1:00 | **3. Reflection & debrief** |
+| **0:00–0:05** | 🤝 Arrival & safety check-in |
+| **0:05–0:15** | 🔥 Warm-up — *Status Architects* |
+| **0:15–0:27** | 🧠 Theory — *Status Modulation* |
+| **0:27–0:52** | 🎲 Game 1 — *Status Architects* |
+| **0:52–1:00** | 💭 Reflection & debrief |
 
 ## 1. 🧠 Today's theory
 
@@ -56,7 +56,7 @@ title: "W05 · The Status Seesaw"
 7. The Reactor responds physically to the non-verbal cue first, then delivers a single line of dialogue that verbally 'Yes, Ands' the status relationship, cementing the dynamic.
 8. Transition to Phase 3 (Organic Flow): Remove the secret cards and roles. Have the pairs play a short, two-minute scene based on a neutral scenario (such as waiting for a bus or sorting mail), allowing status to shift organically back and forth using the 'Status Seesaw' technique.
 
-[Open the full game card »](../../games/D2_P3_S2_T1_G021__the-subtext-subwoofer.md)
+[Open the full game card »](../../games/D2_P3_S2_T1_G021__the-subtext-subwoofer.md){target=_blank rel=noopener}
 
 #### Core game — Status Architects
 
@@ -79,12 +79,12 @@ title: "W05 · The Status Seesaw"
 7. Partner B responds with their physical embodiment of the status shift, followed by a single line of dialogue that 'Yes, Ands' the relationship, using the last-word response technique to lock in the dynamic.
 8. Transition to Phase 3 (Organic Flow): Remove the structured roles and secret cards. Have the pair play a short, unscripted scene where they organically negotiate status, letting the power balance shift naturally like a seesaw.
 
-[Open the full game card »](../../games/D2_P3_S2_T1_G010__the-ascendant-architects.md)
+[Open the full game card »](../../games/D2_P3_S2_T1_G010__the-ascendant-architects.md){target=_blank rel=noopener}
 
 ??? note "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
-    - **[The Status Seesaw Echo](../../games/D2_P3_S2_T1_G194__the-symbiotic-status-echo.md)** — `2+` · `~15m` · `Cx 3/5` · `Energy medium` · _Status Modulation_
-    - **[The Blueprint Builders](../../games/D2_P3_S2_T1_G197__the-blueprint-builders.md)** — `2+` · `~10m` · `Cx 3/5` · `Energy medium` · _Status Modulation_
+    - **[The Status Seesaw Echo](../../games/D2_P3_S2_T1_G194__the-symbiotic-status-echo.md){target=_blank rel=noopener}** — `2+` · `~15m` · `Cx 3/5` · `Energy medium` · _Status Modulation_
+    - **[The Blueprint Builders](../../games/D2_P3_S2_T1_G197__the-blueprint-builders.md){target=_blank rel=noopener}** — `2+` · `~10m` · `Cx 3/5` · `Energy medium` · _Status Modulation_
 
 ## 3. 💭 Self-reflection
 

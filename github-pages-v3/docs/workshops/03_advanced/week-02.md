@@ -13,11 +13,11 @@ title: "W02 · The Voice as Instrument"
 
 | Time | Block |
 |---|---|
-| 0:00–0:05 | Arrival & safety check-in |
-| 0:05–0:15 | Warm-up game |
-| 0:15–0:27 | **1. Today's theory** |
-| 0:27–0:52 | **2. Today's games** |
-| 0:52–1:00 | **3. Reflection & debrief** |
+| **0:00–0:05** | 🤝 Arrival & safety check-in |
+| **0:05–0:15** | 🔥 Warm-up — *The Emotional Crucible* |
+| **0:15–0:27** | 🧠 Theory — *Vocal Craft* |
+| **0:27–0:52** | 🎲 Game 1 — *The Resonance Dial* |
+| **0:52–1:00** | 💭 Reflection & debrief |
 
 ## 1. 🧠 Today's theory
 
@@ -59,7 +59,7 @@ title: "W02 · The Voice as Instrument"
 8. After a high-intensity sequence of layered prompts, the facilitator calls out 'Freeze and Hold,' prompting players to find absolute stillness and silence while still vibrating with the internal emotion.
 9. The facilitator calls 'Release!' and players immediately drop all physical and emotional tension, shaking out their limbs and taking a deep breath to return to a neutral, relaxed state before starting a new round with a different emotion.
 
-[Open the full game card »](../../games/D1_P1_S2_T1_G182__the-chronos-synaptic-forge.md)
+[Open the full game card »](../../games/D1_P1_S2_T1_G182__the-chronos-synaptic-forge.md){target=_blank rel=noopener}
 
 #### Core game — The Resonance Dial
 
@@ -83,12 +83,12 @@ title: "W02 · The Voice as Instrument"
 8. The facilitator calls out 'Release', signaling the player to consciously and gradually de-escalate their physical and vocal energy, mindfully returning to a calm, neutral baseline.
 9. Once the player has fully recovered their composure and returned to a neutral state, they step out of the space, and the next player enters without any immediate verbal critique from the group.
 
-[Open the full game card »](../../games/D1_P3_S2_T1_G527__the-aetheric-resonance-protocol.md)
+[Open the full game card »](../../games/D1_P3_S2_T1_G527__the-aetheric-resonance-protocol.md){target=_blank rel=noopener}
 
 ??? note "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
-    - **[Sonic Self-Sculpture](../../games/D1_P4_S4_T3_G069__the-aural-architect-sonic-self-sculpture.md)** — `4–8` · `~15m` · `Cx 3/5` · `Energy medium` · _Vocal Craft_
-    - **[Somatic Weather Systems](../../games/D1_P3_S2_T1_G146__emotional-landscape-architects.md)** — `2+` · `~15m` · `Cx 3/5` · `Energy medium` · _Emotional Fluidity_
+    - **[Sonic Self-Sculpture](../../games/D1_P4_S4_T3_G069__the-aural-architect-sonic-self-sculpture.md){target=_blank rel=noopener}** — `4–8` · `~15m` · `Cx 3/5` · `Energy medium` · _Vocal Craft_
+    - **[Somatic Weather Systems](../../games/D1_P3_S2_T1_G146__emotional-landscape-architects.md){target=_blank rel=noopener}** — `2+` · `~15m` · `Cx 3/5` · `Energy medium` · _Emotional Fluidity_
 
 ## 3. 💭 Self-reflection
 

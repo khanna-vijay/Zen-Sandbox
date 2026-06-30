@@ -13,11 +13,11 @@ title: "W08 · Yes, And — Accept & Add"
 
 | Time | Block |
 |---|---|
-| 0:00–0:05 | Arrival & safety check-in |
-| 0:05–0:15 | Warm-up game |
-| 0:15–0:27 | **1. Today's theory** |
-| 0:27–0:52 | **2. Today's games** |
-| 0:52–1:00 | **3. Reflection & debrief** |
+| **0:00–0:05** | 🤝 Arrival & safety check-in |
+| **0:05–0:15** | 🔥 Warm-up — *Knife Throwing* |
+| **0:15–0:27** | 🧠 Theory — *Offer Reception* |
+| **0:27–0:52** | 🎲 Game 1 — *Echo and Expand* |
+| **0:52–1:00** | 💭 Reflection & debrief |
 
 ## 1. 🧠 Today's theory
 
@@ -55,7 +55,7 @@ title: "W08 · Yes, And — Accept & Add"
 6. The game continues rapidly, maintaining a steady, high-energy rhythm of throw-catch-throw.
 7. If a pass is dropped due to a missed clap or poor eye contact, the group briefly celebrates the mistake and immediately restarts the flow.
 
-[Open the full game card »](../../games/D2_P3_S4_T0_G752__knife-throwing.md)
+[Open the full game card »](../../games/D2_P3_S4_T0_G752__knife-throwing.md){target=_blank rel=noopener}
 
 #### Core game — Echo and Expand
 
@@ -77,12 +77,12 @@ title: "W08 · Yes, And — Accept & Add"
 6. Continue this back-and-forth rhythm, ensuring that each turn begins with an exact echo of the partner's new contribution before any new information is introduced.
 7. Keep the pace brisk and discourage players from planning their additions while their partner is speaking.
 
-[Open the full game card »](../../games/D2_P2_S4_T1_G817__repeat-and-add.md)
+[Open the full game card »](../../games/D2_P2_S4_T1_G817__repeat-and-add.md){target=_blank rel=noopener}
 
 ??? note "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
-    - **[Yes, And Sentence Build](../../games/D2_P2_S4_T1_G903__yes-and.md)** — `2+` · `~5m` · `Cx 1/5` · `Energy medium` · _Offer Reception_
-    - **[Affirmative Exchanges](../../games/D2_P2_S4_T1_G904__yes-based-conversations.md)** — `2+` · `~5m` · `Cx 1/5` · `Energy medium` · _Offer Reception_
+    - **[Yes, And Sentence Build](../../games/D2_P2_S4_T1_G903__yes-and.md){target=_blank rel=noopener}** — `2+` · `~5m` · `Cx 1/5` · `Energy medium` · _Offer Reception_
+    - **[Affirmative Exchanges](../../games/D2_P2_S4_T1_G904__yes-based-conversations.md){target=_blank rel=noopener}** — `2+` · `~5m` · `Cx 1/5` · `Energy medium` · _Offer Reception_
 
 ## 3. 💭 Self-reflection
 

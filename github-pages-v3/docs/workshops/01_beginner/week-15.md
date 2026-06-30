@@ -13,11 +13,11 @@ title: "W15 · Playing to the Back Row"
 
 | Time | Block |
 |---|---|
-| 0:00–0:05 | Arrival & safety check-in |
-| 0:05–0:15 | Warm-up game |
-| 0:15–0:27 | **1. Today's theory** |
-| 0:27–0:52 | **2. Today's games** |
-| 0:52–1:00 | **3. Reflection & debrief** |
+| **0:00–0:05** | 🤝 Arrival & safety check-in |
+| **0:05–0:15** | 🔥 Warm-up — *The Visionary Lecture* |
+| **0:15–0:27** | 🧠 Theory — *Stage Presence & Clarity* |
+| **0:27–0:52** | 🎲 Game 1 — *The Open Frame* |
+| **0:52–1:00** | 💭 Reflection & debrief |
 
 ## 1. 🧠 Today's theory
 
@@ -55,7 +55,7 @@ title: "W15 · Playing to the Back Row"
 6. Both players must actively justify any unexpected choices, slips of the tongue, or bizarre claims made by their partner, framing them as intentional, groundbreaking insights.
 7. The presentation builds to a profound, inspiring philosophical takeaway or call to action, concluding with a synchronized, confident bow.
 
-[Open the full game card »](../../games/D5_P2_S3_T2_G862__ted-talks.md)
+[Open the full game card »](../../games/D5_P2_S3_T2_G862__ted-talks.md){target=_blank rel=noopener}
 
 #### Core game — The Open Frame
 
@@ -78,12 +78,12 @@ title: "W15 · Playing to the Back Row"
 7. Once the adjustment is visually clear, the facilitator calls 'Resume!', and the players continue the scene from their newly adjusted, open positions.
 8. Rotate players every three to four minutes, ensuring everyone has a turn to experience the physical adjustments on stage.
 
-[Open the full game card »](../../games/D5_P1_S3_T1_G508__the-transparent-scene-cheating-out-for-audience-clarity.md)
+[Open the full game card »](../../games/D5_P1_S3_T1_G508__the-transparent-scene-cheating-out-for-audience-clarity.md){target=_blank rel=noopener}
 
 ??? note "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
-    - **[Pet Peeves](../../games/D1_P3_S1_T2_G801__pet-peeves.md)** — `2+` · `~10m` · `Cx 1/5` · `Energy low` · _Unfiltered Spontaneity_
-    - **[Finger Applause](../../games/D5_P1_S1_T1_G1066__finger-applause.md)** — `4+` · `~2m` · `Cx 1/5` · `Energy medium` · _Room Reading_
+    - **[Pet Peeves](../../games/D1_P3_S1_T2_G801__pet-peeves.md){target=_blank rel=noopener}** — `2+` · `~10m` · `Cx 1/5` · `Energy low` · _Unfiltered Spontaneity_
+    - **[Finger Applause](../../games/D5_P1_S1_T1_G1066__finger-applause.md){target=_blank rel=noopener}** — `4+` · `~2m` · `Cx 1/5` · `Energy medium` · _Room Reading_
 
 ## 3. 💭 Self-reflection
 

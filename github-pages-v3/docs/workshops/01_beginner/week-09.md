@@ -13,11 +13,11 @@ title: "W09 · Make Your Partner a Genius"
 
 | Time | Block |
 |---|---|
-| 0:00–0:05 | Arrival & safety check-in |
-| 0:05–0:15 | Warm-up game |
-| 0:15–0:27 | **1. Today's theory** |
-| 0:27–0:52 | **2. Today's games** |
-| 0:52–1:00 | **3. Reflection & debrief** |
+| **0:00–0:05** | 🤝 Arrival & safety check-in |
+| **0:05–0:15** | 🔥 Warm-up — *Dynamic Greetings* |
+| **0:15–0:27** | 🧠 Theory — *Active Gifting* |
+| **0:27–0:52** | 🎲 Game 1 — *Retroactive Brilliance* |
+| **0:52–1:00** | 💭 Reflection & debrief |
 
 ## 1. 🧠 Today's theory
 
@@ -56,7 +56,7 @@ title: "W09 · Make Your Partner a Genius"
 7. Cycle through a series of contrasting prompts that vary in emotional temperature, status, and history, such as: someone you deeply distrust, someone you have a massive secret crush on, or your absolute hero.
 8. End the exercise by returning to a neutral walk, allowing players to shake off the high-intensity emotions and ground themselves.
 
-[Open the full game card »](../../games/D2_P3_S5_T1_G1101__greetings.md)
+[Open the full game card »](../../games/D2_P3_S5_T1_G1101__greetings.md){target=_blank rel=noopener}
 
 #### Core game — Retroactive Brilliance
 
@@ -79,12 +79,12 @@ title: "W09 · Make Your Partner a Genius"
 7. The players continue the scene for one to two minutes, exploring the implications of this newly established reality and maintaining the elevated status of Player A.
 8. After the scene concludes, players swap roles and repeat the exercise with a new initial offer.
 
-[Open the full game card »](../../games/D2_P3_S5_T2_G497__the-alchemist-s-justification.md)
+[Open the full game card »](../../games/D2_P3_S5_T2_G497__the-alchemist-s-justification.md){target=_blank rel=noopener}
 
 ??? note "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
-    - **[The Hero's Chronicler](../../games/D2_P3_S5_T1_G560__my-partner-the-hero.md)** — `2+` · `~10m` · `Cx 2/5` · `Energy medium` · _Active Gifting_
-    - **[Shared Anecdotes](../../games/D2_P3_S5_T1_G631__anecdotes.md)** — `3–6` · `~5m` · `Cx 2/5` · `Energy medium` · _Active Gifting_
+    - **[The Hero's Chronicler](../../games/D2_P3_S5_T1_G560__my-partner-the-hero.md){target=_blank rel=noopener}** — `2+` · `~10m` · `Cx 2/5` · `Energy medium` · _Active Gifting_
+    - **[Shared Anecdotes](../../games/D2_P3_S5_T1_G631__anecdotes.md){target=_blank rel=noopener}** — `3–6` · `~5m` · `Cx 2/5` · `Energy medium` · _Active Gifting_
 
 ## 3. 💭 Self-reflection
 
