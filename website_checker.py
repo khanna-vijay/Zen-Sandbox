@@ -110,7 +110,9 @@ def canon(u):
     p = urlparse(u)
     path = p.path or "/"
     last = path.rsplit("/", 1)[-1]
-    if last and "." not in last and not path.endswith("/"):
+    # Don't touch URLs that carry a query (e.g. Google Fonts /css?family=…) — adding a
+    # trailing slash there changes the endpoint and yields false 404s.
+    if last and "." not in last and not path.endswith("/") and not p.query:
         path += "/"
     return p._replace(path=path, fragment="").geturl()
 
