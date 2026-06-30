@@ -1,8 +1,8 @@
 ---
-title: Games List
+title: Game Finder
 ---
 
-# 🎲 Games List
+# 🎲 Game Finder
 
 Filter **1381 improv games**. Every facet is **multi-select** — tap chips to combine them.
 The number in each chip's brackets shows **how many games remain** if you add it, updating live as
