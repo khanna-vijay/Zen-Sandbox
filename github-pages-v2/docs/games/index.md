@@ -4,7 +4,7 @@ title: Games List
 
 # 🎲 Games List
 
-Filter **1385 improv games**. Every facet is **multi-select** — tap chips to combine them.
+Filter **1381 improv games**. Every facet is **multi-select** — tap chips to combine them.
 The number in each chip's brackets shows **how many games remain** if you add it, updating live as
 you filter. Search by keyword too, and click any game for its full guide.
 
