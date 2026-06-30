@@ -11,6 +11,19 @@
 /* De-linked reference/quote citations: keep the link color, but not clickable. */
 .md-typeset .ref { color: var(--md-typeset-a-color); }
 
+/* ── Readable type baseline ──────────────────────────────────────────────────
+   Minimum content font size = 125% of the theme's default body text
+   (.md-typeset .8rem → 1rem). Theme elements that rendered SMALLER (tables,
+   admonitions, footnotes, h4–h6, inline code) are floored up to this baseline;
+   larger headings keep their hierarchy. Scoped to .md-typeset (page content) —
+   the nav/header/footer chrome and the Games filter controls are left as-is. */
+.md-typeset { font-size: 1rem; }
+.md-typeset table:not([class]) { font-size: 1rem; }
+.md-typeset .admonition, .md-typeset details { font-size: 1rem; }
+.md-typeset .footnote { font-size: 1rem; }
+.md-typeset h4, .md-typeset h5, .md-typeset h6 { font-size: 1em; }
+.md-typeset code { font-size: 1em; }
+
 /* ── Games List: modern faceted filter ── */
 /* Widen the content column ~50% on the Games page so filter chips fit on fewer lines. */
 .md-main:has(#games-results) .md-grid { max-width: 92rem; }
