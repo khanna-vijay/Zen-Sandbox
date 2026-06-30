@@ -63,7 +63,7 @@ aliases:
 
 # The Ambient Web
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Ambient Web — infographic](img/D4_P1_S1_T2_G014__the-resonance-weaver.jpg){ .game-hero }
 
 > Weave a collective physical and auditory atmosphere using only your peripheral senses and shared intuition.
 

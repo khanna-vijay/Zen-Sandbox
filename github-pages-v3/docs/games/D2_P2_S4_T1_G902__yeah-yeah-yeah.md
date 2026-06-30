@@ -61,7 +61,7 @@ aliases: []
 
 # Yeah Yeah Yeah
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Yeah Yeah Yeah — infographic](img/D2_P2_S4_T1_G902__yeah-yeah-yeah.jpg){ .game-hero }
 
 > Build a collaborative story by enthusiastically agreeing and physicalizing your partner's narrative offers.
 

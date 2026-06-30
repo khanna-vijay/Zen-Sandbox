@@ -67,7 +67,7 @@ aliases:
 
 # The Focal Point Story
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Focal Point Story — infographic](img/D2_P2_S4_T1_G319__the-zoom-lens-story.jpg){ .game-hero }
 
 > Build a collaborative virtual narrative by matching verbal offers with physical, on-camera actions.
 

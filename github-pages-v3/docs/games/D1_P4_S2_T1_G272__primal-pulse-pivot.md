@@ -67,7 +67,7 @@ aliases: []
 
 # Impulse and Pivot
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Impulse and Pivot — infographic](img/D1_P4_S2_T1_G272__primal-pulse-pivot.jpg){ .game-hero }
 
 > Bypass your analytical mind to access, amplify, and instantly shift physical and emotional states.
 

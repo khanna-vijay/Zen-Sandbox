@@ -64,7 +64,7 @@ aliases:
 
 # Rapid Chat Roulette
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Rapid Chat Roulette — infographic](img/D1_P4_S1_T2_G489__aether-weaver-quantum-canvas-improv.jpg){ .game-hero }
 
 > Turn a flood of text suggestions into instant, unfiltered solo scene initiations.
 

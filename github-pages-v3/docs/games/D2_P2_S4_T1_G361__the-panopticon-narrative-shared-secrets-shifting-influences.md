@@ -63,7 +63,7 @@ aliases: []
 
 # Secret Currents
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Secret Currents — infographic](img/D2_P2_S4_T1_G361__the-panopticon-narrative-shared-secrets-shifting-influences.jpg){ .game-hero }
 
 > Co-create a rich digital narrative shaped by shared imagery and hidden, shifting storytelling directives.
 

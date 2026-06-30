@@ -65,7 +65,7 @@ aliases:
 
 # The Narrative Loom
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Narrative Loom — infographic](img/D3_P4_S3_T1_G051__narrative-weave.jpg){ .game-hero }
 
 > Co-create dynamic stories by balancing predetermined plot milestones with sudden, player-driven character revelations.
 

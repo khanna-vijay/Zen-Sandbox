@@ -61,7 +61,7 @@ aliases:
 
 # Word-by-Word Scene
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Word-by-Word Scene — infographic](img/D2_P2_S1_T2_G1372__word-at-a-time-scene.jpg){ .game-hero }
 
 > Co-create a physical narrative one word at a time, instantly physicalizing every spoken detail.
 

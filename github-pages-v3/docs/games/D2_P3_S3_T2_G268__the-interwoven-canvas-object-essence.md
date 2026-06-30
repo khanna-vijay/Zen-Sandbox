@@ -70,7 +70,7 @@ aliases:
 
 # Object and Essence
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Object and Essence — infographic](img/D2_P3_S3_T2_G268__the-interwoven-canvas-object-essence.jpg){ .game-hero }
 
 > Collaboratively sculpt a single imaginary object by echoing, elevating, and deepening your partner's sensory details.
 

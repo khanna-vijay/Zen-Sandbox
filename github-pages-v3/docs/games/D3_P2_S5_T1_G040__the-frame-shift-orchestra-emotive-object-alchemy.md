@@ -66,7 +66,7 @@ aliases:
 
 # Virtual Frame Architects
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Virtual Frame Architects — infographic](img/D3_P2_S5_T1_G040__the-frame-shift-orchestra-emotive-object-alchemy.jpg){ .game-hero }
 
 > Collaboratively construct immersive digital worlds and characters using virtual backgrounds, props, and dynamic spotlighting.
 

@@ -70,7 +70,7 @@ aliases:
 
 # The Rhythm Conductor
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Rhythm Conductor — infographic](img/D3_P4_S3_T0_G060__the-chronos-conductor.jpg){ .game-hero }
 
 > Sculpt the emotional arc of a scene by dynamically shifting its physical and verbal tempo.
 

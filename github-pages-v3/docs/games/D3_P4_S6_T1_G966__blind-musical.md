@@ -68,7 +68,7 @@ aliases:
 
 # The Musical Pocket
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Musical Pocket — infographic](img/D3_P4_S6_T1_G966__blind-musical.jpg){ .game-hero }
 
 > Players weave random, audience-written lines into fully justified, spontaneous musical theater showstoppers.
 

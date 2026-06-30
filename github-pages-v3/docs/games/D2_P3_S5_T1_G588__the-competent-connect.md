@@ -66,7 +66,7 @@ aliases:
 
 # The Genius Assumption
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Genius Assumption — infographic](img/D2_P3_S5_T1_G588__the-competent-connect.jpg){ .game-hero }
 
 > Elevate every partner choice into an act of absolute brilliance through strict, supportive dialogue constraints.
 

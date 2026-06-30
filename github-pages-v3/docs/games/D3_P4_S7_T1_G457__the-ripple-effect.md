@@ -63,7 +63,7 @@ aliases:
 
 # The Ripple Effect
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Ripple Effect — infographic](img/D3_P4_S7_T1_G457__the-ripple-effect.jpg){ .game-hero }
 
 > Escalate narrative tension step-by-step by linking logical consequences directly to personal character stakes.
 

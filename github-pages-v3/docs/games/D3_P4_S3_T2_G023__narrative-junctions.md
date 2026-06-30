@@ -65,7 +65,7 @@ aliases:
 
 # Narrative Junctions
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Narrative Junctions — infographic](img/D3_P4_S3_T2_G023__narrative-junctions.jpg){ .game-hero }
 
 > Freeze the action at critical crossroads to consciously design the story's next major turn.
 

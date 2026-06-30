@@ -63,7 +63,7 @@ aliases:
 
 # Architects of Brilliance
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Architects of Brilliance — infographic](img/D2_P3_S4_T2_G231__the-competence-engine-architects-of-the-absurd-edition.jpg){ .game-hero }
 
 > Transform every absurd contribution into a stroke of absolute genius through relentless, justified validation.
 

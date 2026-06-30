@@ -67,7 +67,7 @@ aliases: []
 
 # Digital Identity Shift
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Digital Identity Shift — infographic](img/D2_P2_S4_T2_G190__zoom-persona-shuffle.jpg){ .game-hero }
 
 > Instantly adapt to sudden visual and textual identity changes using virtual meeting features.
 

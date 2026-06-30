@@ -60,7 +60,7 @@ aliases: []
 
 # The Boundary Threshold
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Boundary Threshold — infographic](img/D2_P1_S6_T1_G434__the-consent-choreography.jpg){ .game-hero }
 
 > Step out of character to negotiate physical and emotional intensity before stepping back into play.
 

@@ -69,7 +69,7 @@ aliases:
 
 # Cinematic Dubbing
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Cinematic Dubbing — infographic](img/D2_P2_S1_T0_G702__film-dub.jpg){ .game-hero }
 
 > Improvise the dialogue and sound effects for a muted movie clip in real time.
 

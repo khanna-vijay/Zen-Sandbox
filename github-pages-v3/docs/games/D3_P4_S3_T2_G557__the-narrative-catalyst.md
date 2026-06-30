@@ -64,7 +64,7 @@ aliases:
 
 # The Narrative Catalyst
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Narrative Catalyst — infographic](img/D3_P4_S3_T2_G557__the-narrative-catalyst.jpg){ .game-hero }
 
 > Disrupt a stable scene with a secret prompt to master the art of the narrative tilt.
 

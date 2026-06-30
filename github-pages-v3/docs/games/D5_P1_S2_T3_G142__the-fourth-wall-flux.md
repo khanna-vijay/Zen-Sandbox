@@ -60,7 +60,7 @@ aliases: []
 
 # Fourth Wall Flux
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Fourth Wall Flux — infographic](img/D5_P1_S2_T3_G142__the-fourth-wall-flux.jpg){ .game-hero }
 
 > Master the art of breaking and rebuilding the fourth wall to co-create with your audience.
 

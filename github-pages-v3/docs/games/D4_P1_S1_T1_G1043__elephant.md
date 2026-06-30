@@ -58,7 +58,7 @@ aliases:
 
 # Ensemble Sculptures
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Ensemble Sculptures — infographic](img/D4_P1_S1_T1_G1043__elephant.jpg){ .game-hero }
 
 > A high-energy circle game of rapid physical collaboration, peripheral awareness, and joyful mistakes.
 

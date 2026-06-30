@@ -63,7 +63,7 @@ aliases: []
 
 # The Narrative Amplifier
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Narrative Amplifier — infographic](img/D5_P1_S2_T3_G185__the-narrative-amplifier.jpg){ .game-hero }
 
 > Treat the audience's silent physical reactions as your active, co-creative scene partner.
 

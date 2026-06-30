@@ -70,7 +70,7 @@ aliases: []
 
 # The Blueprint Builders
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Blueprint Builders — infographic](img/D2_P3_S2_T1_G197__the-blueprint-builders.jpg){ .game-hero }
 
 > Co-create an imaginary masterwork while dynamically shifting status to make your partner look brilliant.
 

@@ -55,7 +55,7 @@ aliases:
 
 # Ten Fingers
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Ten Fingers — infographic](img/D1_P3_S1_T0_G912__10-fingers.jpg){ .game-hero }
 
 > Share true statements to find common ground and embrace vulnerability in a playful circle.
 

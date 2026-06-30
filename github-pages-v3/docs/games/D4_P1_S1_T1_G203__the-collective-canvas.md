@@ -64,7 +64,7 @@ aliases: []
 
 # The Collective Canvas
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Collective Canvas — infographic](img/D4_P1_S1_T1_G203__the-collective-canvas.jpg){ .game-hero }
 
 > Sculpt a living physical structure and organically discover its hidden narrative through sound and movement.
 

@@ -61,7 +61,7 @@ aliases: []
 
 # Creature Chorus
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Creature Chorus — infographic](img/D4_P1_S1_T2_G1144__king-lizard.jpg){ .game-hero }
 
 > Pass a high-energy chain of physical and vocal animal signals across a circle without breaking rhythm.
 

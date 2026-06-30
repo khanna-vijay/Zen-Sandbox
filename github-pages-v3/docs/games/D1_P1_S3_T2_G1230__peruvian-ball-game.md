@@ -62,7 +62,7 @@ aliases: []
 
 # The Traveling Sphere
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Traveling Sphere — infographic](img/D1_P1_S3_T2_G1230__peruvian-ball-game.jpg){ .game-hero }
 
 > Track, pass, and reclaim unique imaginary spheres in a chaotic, high-commitment physical exchange.
 

@@ -62,7 +62,7 @@ aliases:
 
 # The Invisible Blueprint
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Invisible Blueprint — infographic](img/D2_P1_S6_T1_G174__consensual-construction-the-invisible-architect.jpg){ .game-hero }
 
 > Build an imaginary monument while navigating secret personal boundaries and practicing explicit, real-time consent.
 

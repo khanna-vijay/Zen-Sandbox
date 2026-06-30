@@ -63,7 +63,7 @@ aliases: []
 
 # Echo Weave
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Echo Weave — infographic](img/D4_P1_S5_T2_G377__resonance-weave.jpg){ .game-hero }
 
 > Weave subtle thematic threads across scenes to build a deeply connected, unified ensemble piece.
 

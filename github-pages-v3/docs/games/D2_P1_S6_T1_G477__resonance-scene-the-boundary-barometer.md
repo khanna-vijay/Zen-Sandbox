@@ -61,7 +61,7 @@ aliases:
 
 # The Boundary Barometer
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Boundary Barometer — infographic](img/D2_P1_S6_T1_G477__resonance-scene-the-boundary-barometer.jpg){ .game-hero }
 
 > Navigate personal comfort levels in real time using a continuous, visual traffic-light feedback system.
 

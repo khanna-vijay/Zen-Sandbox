@@ -59,7 +59,7 @@ aliases:
 
 # Trigger Exits
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Trigger Exits — infographic](img/D3_P2_S6_T1_G1356__walkout.jpg){ .game-hero }
 
 > Justify sudden exits and entrances triggered by secret verbal cues spoken by your partners.
 

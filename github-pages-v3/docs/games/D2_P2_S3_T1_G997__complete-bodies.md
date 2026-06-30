@@ -56,7 +56,7 @@ aliases: []
 
 # Complementary Shapes
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Complementary Shapes — infographic](img/D2_P2_S3_T1_G997__complete-bodies.jpg){ .game-hero }
 
 > Create dynamic, interlocking physical sculptures with your partner without ever making physical contact.
 

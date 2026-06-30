@@ -52,7 +52,7 @@ aliases: []
 
 # Last Letter Scene
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Last Letter Scene — infographic](img/D2_P2_S1_T2_G1150__last-letter-scene.jpg){ .game-hero }
 
 > Train hyper-focused active listening by starting every line with your partner's final letter.
 

@@ -66,7 +66,7 @@ aliases:
 
 # Premise Purge
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Premise Purge — infographic](img/D3_P2_S1_T1_G329__premise-purge-the-focus-enforcer.jpg){ .game-hero }
 
 > Strip away narrative clutter to isolate, commit to, and relentlessly escalate a single comedic game.
 

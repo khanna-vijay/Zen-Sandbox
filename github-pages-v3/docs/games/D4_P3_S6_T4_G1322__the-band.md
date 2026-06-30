@@ -60,7 +60,7 @@ aliases: []
 
 # The Band
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Band — infographic](img/D4_P3_S6_T4_G1322__the-band.jpg){ .game-hero }
 
 > Uncover deep character drama and original music in a high-stakes rehearsal room.
 

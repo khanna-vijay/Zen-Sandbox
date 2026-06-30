@@ -68,7 +68,7 @@ aliases: []
 
 # The Silent Symphony
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Silent Symphony — infographic](img/D1_P4_S5_T1_G460__the-subterranean-symphony-a-deep-listen-of-self.jpg){ .game-hero }
 
 > Discover the profound power of micro-impulses and shared stillness in a silent, collective soundscape.
 

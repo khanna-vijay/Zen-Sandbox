@@ -56,7 +56,7 @@ aliases: []
 
 # Rhyme Association Riddle
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Rhyme Association Riddle — infographic](img/D1_P4_S1_T1_G746__i-ve-got-a-word-that-rhymes-with.jpg){ .game-hero }
 
 > Decode secret words through rapid-fire rhyming clues in a high-energy association game.
 

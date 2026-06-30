@@ -58,7 +58,7 @@ aliases: []
 
 # Harmonic Boundaries
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Harmonic Boundaries — infographic](img/D2_P1_S6_T1_G572__harmonic-boundaries.jpg){ .game-hero }
 
 > Seamlessly weave real-time consent check-ins and boundary navigation directly into high-trust scene work.
 

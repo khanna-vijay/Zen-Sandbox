@@ -64,7 +64,7 @@ aliases: []
 
 # The Game Blueprint
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Game Blueprint — infographic](img/D3_P0_S1_T1_G585__the-game-architect-s-blueprint.jpg){ .game-hero }
 
 > Align your scene's comedic engine instantly by comparing silent blueprints with your partner.
 

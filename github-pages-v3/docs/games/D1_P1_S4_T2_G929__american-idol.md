@@ -62,7 +62,7 @@ aliases:
 
 # The Ultimate Audition
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Ultimate Audition — infographic](img/D1_P1_S4_T2_G929__american-idol.jpg){ .game-hero }
 
 > Belt out improvised anthems under the hilarious scrutiny of highly opinionated judges.
 

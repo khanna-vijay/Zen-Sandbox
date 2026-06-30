@@ -62,7 +62,7 @@ aliases:
 
 # The Unified Space Harold
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Unified Space Harold — infographic](img/D4_P3_S6_T1_G1086__french-harold.jpg){ .game-hero }
 
 > A high-wire long-form structure merging the thematic depth of a Harold with single-location continuity.
 

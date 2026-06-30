@@ -60,7 +60,7 @@ aliases: []
 
 # The Pattern Weaver
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Pattern Weaver — infographic](img/D3_P0_S1_T1_G485__the-narrative-pattern-weaver.jpg){ .game-hero }
 
 > Spot the emerging comedic engine, call it out, and jump in to escalate it.
 

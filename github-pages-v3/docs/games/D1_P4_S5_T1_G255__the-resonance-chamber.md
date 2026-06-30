@@ -66,7 +66,7 @@ aliases:
 
 # The Resonance Chamber
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Resonance Chamber — infographic](img/D1_P4_S5_T1_G255__the-resonance-chamber.jpg){ .game-hero }
 
 > Cultivate profound presence by pausing to observe internal impulses before releasing a single, honest expression.
 

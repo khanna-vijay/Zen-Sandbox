@@ -67,7 +67,7 @@ aliases:
 
 # Shared Canvas Chronicles
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Shared Canvas Chronicles — infographic](img/D2_P2_S4_T1_G007__zoom-canvas-chronicles.jpg){ .game-hero }
 
 > Co-create an illustrated story in real time using shared digital drawing tools and collaborative narration.
 

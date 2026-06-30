@@ -57,7 +57,7 @@ aliases:
 
 # String of Pearls
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![String of Pearls — infographic](img/D3_P4_S3_T0_G1306__string-of-pearls.jpg){ .game-hero }
 
 > Connect a random beginning and ending by physically inserting narrative steps in between.
 

@@ -62,7 +62,7 @@ aliases:
 
 # The Balladeer's Chronicle
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Balladeer's Chronicle — infographic](img/D4_P3_S6_T4_G943__balladeer-2.jpg){ .game-hero }
 
 > A narrative long-form format where improvised songs launch and weave together character-driven scenes.
 

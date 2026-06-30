@@ -53,7 +53,7 @@ aliases: []
 
 # Blind Runway
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Blind Runway — infographic](img/D1_P3_S3_T0_G1288__solitaire.jpg){ .game-hero }
 
 > Run blind down a human corridor, trusting your ensemble to guide and catch you safely.
 

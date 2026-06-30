@@ -65,7 +65,7 @@ aliases:
 
 # The Unbroken Gaze
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Unbroken Gaze — infographic](img/D5_P1_S2_T3_G222__the-silent-spectacle-the-unbroken-gaze.jpg){ .game-hero }
 
 > Master non-verbal storytelling and direct audience connection by stripping away all spoken dialogue.
 

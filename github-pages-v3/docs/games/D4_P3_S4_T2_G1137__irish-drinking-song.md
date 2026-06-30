@@ -62,7 +62,7 @@ aliases: []
 
 # The Folk Song Quartet
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Folk Song Quartet — infographic](img/D4_P3_S4_T2_G1137__irish-drinking-song.jpg){ .game-hero }
 
 > A high-energy, rhyming musical game where four players build a cohesive song one line at a time.
 

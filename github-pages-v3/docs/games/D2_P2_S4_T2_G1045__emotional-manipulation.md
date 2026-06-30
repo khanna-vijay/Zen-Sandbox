@@ -60,7 +60,7 @@ aliases: []
 
 # Emotional Endowment
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Emotional Endowment — infographic](img/D2_P2_S4_T2_G1045__emotional-manipulation.jpg){ .game-hero }
 
 > Instantly transform your partner's emotional state with a single line, and watch them embrace it.
 

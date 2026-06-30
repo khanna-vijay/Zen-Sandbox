@@ -69,7 +69,7 @@ aliases:
 
 # The Harmonic Loom
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Harmonic Loom — infographic](img/D4_P1_S5_T2_G077__the-harmonic-loom.jpg){ .game-hero }
 
 > Weave disparate thematic threads into a rich, interconnected tapestry of non-linear performance.
 

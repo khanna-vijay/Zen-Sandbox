@@ -64,7 +64,7 @@ aliases:
 
 # The Living Atmosphere
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Living Atmosphere — infographic](img/D4_P1_S2_T3_G241__the-echoing-environment.jpg){ .game-hero }
 
 > Transform the physical space into a responsive, non-verbal mirror of the scene's emotional heartbeat.
 

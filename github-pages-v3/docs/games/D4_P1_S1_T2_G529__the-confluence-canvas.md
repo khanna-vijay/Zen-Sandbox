@@ -66,7 +66,7 @@ aliases: []
 
 # Resonant Threads
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Resonant Threads — infographic](img/D4_P1_S1_T2_G529__the-confluence-canvas.jpg){ .game-hero }
 
 > Weave past offers into a unified, evolving narrative using multi-layered physical and vocal echoes.
 

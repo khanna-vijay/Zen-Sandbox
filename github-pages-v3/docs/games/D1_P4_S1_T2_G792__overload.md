@@ -57,7 +57,7 @@ aliases: []
 
 # System Overload
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![System Overload — infographic](img/D1_P4_S1_T2_G792__overload.jpg){ .game-hero }
 
 > Bypass your inner editor by flooding your brain with movement, memory, and trivia.
 

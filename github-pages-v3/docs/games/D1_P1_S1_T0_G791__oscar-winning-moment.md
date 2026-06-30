@@ -66,7 +66,7 @@ aliases: []
 
 # Award-Winning Moments
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Award-Winning Moments — infographic](img/D1_P1_S1_T0_G791__oscar-winning-moment.jpg){ .game-hero }
 
 > Unleash maximum commitment by executing highly specific, award-worthy cinematic highlights within a collaborative scene.
 

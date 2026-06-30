@@ -59,7 +59,7 @@ aliases: []
 
 # Rapid Number Duos
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Rapid Number Duos — infographic](img/D1_P4_S1_T2_G634__annoyance-scenes.jpg){ .game-hero }
 
 > Bypass your inner editor by launching into scenes the split-second your number is called.
 

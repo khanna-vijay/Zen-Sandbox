@@ -64,7 +64,7 @@ aliases:
 
 # The Virtual Prop Relay
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Virtual Prop Relay — infographic](img/D2_P2_S4_T2_G243__the-zoom-canvas-prop-story.jpg){ .game-hero }
 
 > Transform your video frames into a collaborative, physical chain reaction of imaginary objects.
 

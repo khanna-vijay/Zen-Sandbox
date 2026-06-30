@@ -62,7 +62,7 @@ aliases:
 
 # Subtitled Cinema
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Subtitled Cinema — infographic](img/D2_P2_S4_T2_G1076__foreign-movie.jpg){ .game-hero }
 
 > Co-create a cinematic story through physical gibberish and instant English translation.
 

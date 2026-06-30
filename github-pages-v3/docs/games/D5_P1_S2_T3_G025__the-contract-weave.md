@@ -66,7 +66,7 @@ aliases:
 
 # The Fourth Wall Weave
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Fourth Wall Weave — infographic](img/D5_P1_S2_T3_G025__the-contract-weave.jpg){ .game-hero }
 
 > Master the boundary between stage and spectator by dynamically toggling direct address based on live audience energy.
 

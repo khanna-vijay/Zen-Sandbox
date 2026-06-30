@@ -68,7 +68,7 @@ aliases:
 
 # The Narrative Current
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Narrative Current — infographic](img/D3_P4_S3_T2_G047__the-narrative-current.jpg){ .game-hero }
 
 > Steer scenes to deeper waters by pausing to voice and integrate hidden narrative currents.
 

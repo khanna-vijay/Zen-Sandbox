@@ -62,7 +62,7 @@ aliases:
 
 # Visible Echoes
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Visible Echoes — infographic](img/D2_P2_S4_T1_G058__screen-symphony-the-visible-yes-and.jpg){ .game-hero }
 
 > Transform virtual latency into a physical, high-energy chain of visual and verbal agreement.
 

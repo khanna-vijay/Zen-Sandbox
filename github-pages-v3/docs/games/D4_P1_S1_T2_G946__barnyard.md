@@ -58,7 +58,7 @@ aliases: []
 
 # Sound Herd
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Sound Herd — infographic](img/D4_P1_S1_T2_G946__barnyard.jpg){ .game-hero }
 
 > Find your secret sound family using only your ears and vocal cues in a chaotic space.
 

@@ -66,7 +66,7 @@ aliases:
 
 # The Resonance Dial
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Resonance Dial — infographic](img/D5_P1_S1_T1_G044__the-audience-altar-a-resonance-cultivation-experiment.jpg){ .game-hero }
 
 > Treat the audience's collective energy as your primary scene partner using a real-time visual feedback dial.
 

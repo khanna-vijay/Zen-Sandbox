@@ -57,7 +57,7 @@ aliases: []
 
 # The Genre Crucible
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Genre Crucible — infographic](img/D3_P4_S3_T0_G163__the-genre-crucible.jpg){ .game-hero }
 
 > Master narrative architecture by navigating real-time stylistic and structural interventions within a single genre.
 

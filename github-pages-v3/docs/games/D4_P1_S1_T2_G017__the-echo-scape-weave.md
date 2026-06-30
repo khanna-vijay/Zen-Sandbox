@@ -72,7 +72,7 @@ aliases:
 
 # The Echo-Scape Weave
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Echo-Scape Weave — infographic](img/D4_P1_S1_T2_G017__the-echo-scape-weave.jpg){ .game-hero }
 
 > Weave environment, movement, and dialogue into a deeply interconnected, multi-layered collective reality.
 

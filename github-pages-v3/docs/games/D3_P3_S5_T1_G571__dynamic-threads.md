@@ -65,7 +65,7 @@ aliases: []
 
 # Relational Threads
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Relational Threads — infographic](img/D3_P3_S5_T1_G571__dynamic-threads.jpg){ .game-hero }
 
 > Launch scenes instantly with high-stakes, pre-declared relationship dynamics that drive immediate narrative action.
 

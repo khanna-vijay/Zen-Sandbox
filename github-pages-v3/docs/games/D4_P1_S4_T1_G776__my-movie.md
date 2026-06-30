@@ -62,7 +62,7 @@ aliases:
 
 # My Movie, My Movie
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![My Movie, My Movie — infographic](img/D4_P1_S4_T1_G776__my-movie.jpg){ .game-hero }
 
 > A rapid-fire, high-energy movie generator driven by instant pitches, quick scenes, and rhythmic group edits.
 

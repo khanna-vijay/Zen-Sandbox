@@ -63,7 +63,7 @@ aliases: []
 
 # The Gifted Persona
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Gifted Persona — infographic](img/D1_P1_S3_T1_G670__clingy-penguin.jpg){ .game-hero }
 
 > Embody a highly specific, physically committed character gifted to you by a peer.
 

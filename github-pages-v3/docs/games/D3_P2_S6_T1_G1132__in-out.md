@@ -57,7 +57,7 @@ aliases: []
 
 # Word-Bound Entrances
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Word-Bound Entrances — infographic](img/D3_P2_S6_T1_G1132__in-out.jpg){ .game-hero }
 
 > Players must instantly enter or exit the scene whenever their secret trigger word is spoken.
 

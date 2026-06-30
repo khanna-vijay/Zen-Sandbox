@@ -65,7 +65,7 @@ aliases: []
 
 # Spotlight Narrative Relay
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Spotlight Narrative Relay — infographic](img/D2_P2_S4_T1_G180__the-zoom-in-narrative-relay.jpg){ .game-hero }
 
 > Weave a seamless virtual story using video spotlights, active listening, and instant visual character endowments.
 

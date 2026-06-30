@@ -57,7 +57,7 @@ aliases: []
 
 # Physical Countdown Scenes
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Physical Countdown Scenes — infographic](img/D4_P3_S4_T2_G1339__timed-scenes.jpg){ .game-hero }
 
 > Improvise a complete, satisfying narrative before a live, unpredictable physical countdown runs out.
 

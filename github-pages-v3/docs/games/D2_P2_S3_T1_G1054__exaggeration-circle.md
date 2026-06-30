@@ -61,7 +61,7 @@ aliases: []
 
 # Exaggeration Circle
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Exaggeration Circle — infographic](img/D2_P2_S3_T1_G1054__exaggeration-circle.jpg){ .game-hero }
 
 > Pass a physical and vocal offer around the circle, amplifying its intensity with every step.
 

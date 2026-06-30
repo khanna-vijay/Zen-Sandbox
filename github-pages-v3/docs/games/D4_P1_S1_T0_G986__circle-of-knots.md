@@ -57,7 +57,7 @@ aliases: []
 
 # Ensemble Knot
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Ensemble Knot — infographic](img/D4_P1_S1_T0_G986__circle-of-knots.jpg){ .game-hero }
 
 > Weave yourselves into a gentle physical puzzle and unravel together using pure group awareness.
 

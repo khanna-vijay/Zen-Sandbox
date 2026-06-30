@@ -63,7 +63,7 @@ aliases: []
 
 # Atmosphere Weave
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Atmosphere Weave — infographic](img/D3_P4_S6_T1_G461__atmosphere-weave.jpg){ .game-hero }
 
 > Weave sudden, dramatic shifts in theatrical style into a single, unbroken narrative thread.
 

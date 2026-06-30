@@ -61,7 +61,7 @@ aliases: []
 
 # Zip Zap Boing
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Zip Zap Boing — infographic](img/D4_P1_S1_T2_G910__zip-zap-boing.jpg){ .game-hero }
 
 > Pass, redirect, and bounce a high-energy pulse around the circle with razor-sharp focus.
 

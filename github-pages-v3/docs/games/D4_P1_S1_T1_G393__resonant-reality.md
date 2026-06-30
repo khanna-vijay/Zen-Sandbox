@@ -66,7 +66,7 @@ aliases:
 
 # Atmospheric Resonance
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Atmospheric Resonance — infographic](img/D4_P1_S1_T1_G393__resonant-reality.jpg){ .game-hero }
 
 > Co-create an immersive, evolving environment through simultaneous physical, vocal, and emotional echo.
 

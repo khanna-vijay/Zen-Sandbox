@@ -60,7 +60,7 @@ aliases:
 
 # Metaphorical Portrait
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Metaphorical Portrait — infographic](img/D1_P4_S1_T2_G1361__what-would-she-be-if.jpg){ .game-hero }
 
 > Discover the power of instant, intuitive association by painting a classmate in vivid metaphors.
 

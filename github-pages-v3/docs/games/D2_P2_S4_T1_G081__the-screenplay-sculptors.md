@@ -60,7 +60,7 @@ aliases:
 
 # The Secret Scriptwriters
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Secret Scriptwriters — infographic](img/D2_P2_S4_T1_G081__the-screenplay-sculptors.jpg){ .game-hero }
 
 > Weave hidden personal constraints into a collaborative virtual story using cryptic name changes and active listening.
 

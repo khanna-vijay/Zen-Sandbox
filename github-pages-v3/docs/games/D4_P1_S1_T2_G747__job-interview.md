@@ -60,7 +60,7 @@ aliases: []
 
 # Three-Headed Job Interview
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Three-Headed Job Interview — infographic](img/D4_P1_S1_T2_G747__job-interview.jpg){ .game-hero }
 
 > Speak as one collective mind to land the job of your dreams, one word at a time.
 

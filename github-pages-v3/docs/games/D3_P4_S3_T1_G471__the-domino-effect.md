@@ -62,7 +62,7 @@ aliases: []
 
 # The Domino Effect
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Domino Effect — infographic](img/D3_P4_S3_T1_G471__the-domino-effect.jpg){ .game-hero }
 
 > Construct an inevitable chain reaction of cause and effect to drive tight narrative arcs.
 

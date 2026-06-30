@@ -61,7 +61,7 @@ aliases:
 
 # Verbatim Echo
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Verbatim Echo — infographic](img/D2_P2_S1_T2_G523__word-for-word-memory-scene.jpg){ .game-hero }
 
 > Repeat your partner's exact words before adding your own to build hyper-focused scenes.
 

@@ -67,7 +67,7 @@ aliases:
 
 # The Emotional Dialect
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Emotional Dialect — infographic](img/D1_P1_S2_T2_G103__the-somatic-symphony.jpg){ .game-hero }
 
 > Transform neutral physical and vocal impulses into deeply committed emotional expressions in a continuous circle.
 

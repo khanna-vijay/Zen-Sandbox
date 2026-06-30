@@ -59,7 +59,7 @@ aliases: []
 
 # Big Booty
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Big Booty — infographic](img/D1_P2_S6_T2_G643__big-booty.jpg){ .game-hero }
 
 > A high-energy rhythm game where making mistakes is celebrated with a collective, joyful reset.
 

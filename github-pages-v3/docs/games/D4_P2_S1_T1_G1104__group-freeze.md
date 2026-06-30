@@ -55,7 +55,7 @@ aliases:
 
 # Ensemble Freeze
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Ensemble Freeze — infographic](img/D4_P2_S1_T1_G1104__group-freeze.jpg){ .game-hero }
 
 > Cultivate collective awareness by freezing and moving as a single, unified organism.
 

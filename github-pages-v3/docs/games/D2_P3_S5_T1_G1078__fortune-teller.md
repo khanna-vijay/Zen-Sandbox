@@ -57,7 +57,7 @@ aliases: []
 
 # The Oracle's Vision
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Oracle's Vision — infographic](img/D2_P3_S5_T1_G1078__fortune-teller.jpg){ .game-hero }
 
 > Help a clueless psychic discover their clients' bizarre futures through physical and verbal clues.
 

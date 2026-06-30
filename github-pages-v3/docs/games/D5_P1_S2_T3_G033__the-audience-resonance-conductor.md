@@ -66,7 +66,7 @@ aliases: []
 
 # The Audience Resonance Conductor
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Audience Resonance Conductor — infographic](img/D5_P1_S2_T3_G033__the-audience-resonance-conductor.jpg){ .game-hero }
 
 > Direct the room's emotional current by treating the audience as your primary scene partner.
 

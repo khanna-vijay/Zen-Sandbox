@@ -60,7 +60,7 @@ aliases:
 
 # One-Word-at-a-Time Story
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![One-Word-at-a-Time Story — infographic](img/D2_P2_S4_T1_G895__word-at-a-time-story.jpg){ .game-hero }
 
 > Build a cohesive narrative one word at a time by surrendering individual control.
 

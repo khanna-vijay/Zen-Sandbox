@@ -64,7 +64,7 @@ aliases:
 
 # Who, Where, and Why
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Who, Where, and Why — infographic](img/D2_P3_S5_T1_G1365__who-where-why-am-i.jpg){ .game-hero }
 
 > Discover your hidden identity, location, and problem through the clever, supportive endowments of your scene partners.
 

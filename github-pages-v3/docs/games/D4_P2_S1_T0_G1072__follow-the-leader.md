@@ -56,7 +56,7 @@ aliases: []
 
 # The Silent Conductor
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Silent Conductor — infographic](img/D4_P2_S1_T0_G1072__follow-the-leader.jpg){ .game-hero }
 
 > A detective tries to spot the hidden leader of a seamlessly mirroring circle.
 

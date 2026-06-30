@@ -63,7 +63,7 @@ aliases:
 
 # The Reality Weavers
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Reality Weavers — infographic](img/D3_P2_S5_T1_G562__the-reality-weaver-collaborative-world-building-with-zoom-fe.jpg){ .game-hero }
 
 > Co-create and instantly adapt to a dynamically shifting visual world on a shared digital stage.
 

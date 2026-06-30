@@ -59,7 +59,7 @@ aliases:
 
 # Do You Like Your Neighbor?
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Do You Like Your Neighbor? — infographic](img/D4_P1_S1_T0_G687__do-you-like-your-neighbour.jpg){ .game-hero }
 
 > A high-energy, seat-swapping game of rapid observation, spontaneous sharing, and group connection.
 

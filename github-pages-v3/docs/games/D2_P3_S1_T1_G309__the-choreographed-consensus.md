@@ -70,7 +70,7 @@ aliases: []
 
 # Choreographed Consensus
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Choreographed Consensus — infographic](img/D2_P3_S1_T1_G309__the-choreographed-consensus.jpg){ .game-hero }
 
 > Achieve a complex physical objective in total silence by mirroring intentions and echoing emotional subtext.
 

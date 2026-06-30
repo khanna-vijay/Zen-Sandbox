@@ -60,7 +60,7 @@ aliases: []
 
 # The Memory Map
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Memory Map — infographic](img/D4_P3_S6_T2_G1162__lugares.jpg){ .game-hero }
 
 > Transform an audience member's deeply remembered physical space into a rich, interconnected tapestry of scenes.
 

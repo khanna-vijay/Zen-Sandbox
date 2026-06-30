@@ -67,7 +67,7 @@ aliases:
 
 # The Proscenium Pivot
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Proscenium Pivot — infographic](img/D5_P1_S2_T3_G440__fourth-wall-flip.jpg){ .game-hero }
 
 > Master the art of stepping out of the scene to directly engage your final partner: the audience.
 

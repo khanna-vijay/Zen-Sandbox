@@ -65,7 +65,7 @@ aliases:
 
 # The Narrative Loom
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Narrative Loom — infographic](img/D2_P2_S4_T1_G155__the-chronicle-weave.jpg){ .game-hero }
 
 > Weave a seamless collaborative story using virtual chat cues and spotlighting to eliminate audio overlap.
 

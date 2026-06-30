@@ -64,7 +64,7 @@ aliases: []
 
 # The Unspoken Quest
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Unspoken Quest — infographic](img/D2_P3_S5_T2_G453__the-unspoken-quest.jpg){ .game-hero }
 
 > Anticipate and fulfill your partner's hidden needs through deep observation and proactive, unspoken support.
 

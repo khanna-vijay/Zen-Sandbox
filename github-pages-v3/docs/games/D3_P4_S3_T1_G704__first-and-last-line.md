@@ -53,7 +53,7 @@ aliases: []
 
 # The Story Bridge
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Story Bridge — infographic](img/D3_P4_S3_T1_G704__first-and-last-line.jpg){ .game-hero }
 
 > Construct a seamless narrative bridge between two completely unrelated starting and ending lines.
 

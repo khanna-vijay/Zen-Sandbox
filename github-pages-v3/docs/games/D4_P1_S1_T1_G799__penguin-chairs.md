@@ -56,7 +56,7 @@ aliases: []
 
 # Glacial Chairs
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Glacial Chairs — infographic](img/D4_P1_S1_T1_G799__penguin-chairs.jpg){ .game-hero }
 
 > A high-stakes game of silent coordination, spatial awareness, and slow-motion chair defense.
 

@@ -60,7 +60,7 @@ aliases: []
 
 # The Cab Ride
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Cab Ride — infographic](img/D3_P2_S5_T1_G861__taxi-driver.jpg){ .game-hero }
 
 > Contrast an extreme driver with a grounded passenger to build a solid, justified base reality.
 

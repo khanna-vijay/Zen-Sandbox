@@ -59,7 +59,7 @@ aliases: []
 
 # The Grand Opportunity
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Grand Opportunity — infographic](img/D5_P1_S2_T3_G654__chance-of-a-lifetime.jpg){ .game-hero }
 
 > Bring an audience member's unfulfilled dream to life through collaborative, celebratory narrative improv.
 

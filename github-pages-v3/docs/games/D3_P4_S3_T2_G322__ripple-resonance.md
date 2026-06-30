@@ -62,7 +62,7 @@ aliases:
 
 # Ripple and Resonance
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Ripple and Resonance — infographic](img/D3_P4_S3_T2_G322__ripple-resonance.jpg){ .game-hero }
 
 > Build a tight, escalating narrative by exploring the cascading consequences of a single disruptive event.
 

@@ -56,7 +56,7 @@ aliases: []
 
 # Vector Tag
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Vector Tag — infographic](img/D4_P1_S1_T2_G1352__virus.jpg){ .game-hero }
 
 > Pass the transmission source to corner and tag the remaining healthy players in real-time.
 

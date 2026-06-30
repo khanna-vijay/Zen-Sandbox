@@ -74,7 +74,7 @@ aliases: []
 
 # The Ensemble Blueprint Assembly
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Ensemble Blueprint Assembly — infographic](img/D4_P3_S6_T4_G157__the-ensemble-blueprint-assembly.jpg){ .game-hero }
 
 > Deconstruct and physically map complex longform structures to align your ensemble's collective stage mind.
 

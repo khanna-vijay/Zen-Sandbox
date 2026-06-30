@@ -59,7 +59,7 @@ aliases:
 
 # Shared Memory Swap
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Shared Memory Swap — infographic](img/D2_P2_S1_T0_G655__change.jpg){ .game-hero }
 
 > Seamlessly trade ownership of a single personal story at the clap of a hand.
 

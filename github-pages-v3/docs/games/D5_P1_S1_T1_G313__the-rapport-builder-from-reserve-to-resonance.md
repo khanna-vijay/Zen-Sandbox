@@ -59,7 +59,7 @@ aliases: []
 
 # The Resonance Calibration
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Resonance Calibration — infographic](img/D5_P1_S1_T1_G313__the-rapport-builder-from-reserve-to-resonance.jpg){ .game-hero }
 
 > Win over a skeptical, silent audience by micro-adjusting your performance energy without breaking your premise.
 

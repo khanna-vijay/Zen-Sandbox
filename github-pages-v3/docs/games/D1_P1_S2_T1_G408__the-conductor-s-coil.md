@@ -77,7 +77,7 @@ aliases:
 
 # The Conductor's Coil
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Conductor's Coil — infographic](img/D1_P1_S2_T1_G408__the-conductor-s-coil.jpg){ .game-hero }
 
 > Transmit shifting emotional currents through a physical chain of instantaneous, full-body mirroring.
 

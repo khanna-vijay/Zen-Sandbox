@@ -62,7 +62,7 @@ aliases:
 
 # Emotional Pulse
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Emotional Pulse — infographic](img/D1_P1_S2_T1_G448__spectrum-pulse.jpg){ .game-hero }
 
 > Instantly shift emotional states and intensities on a scale of one to ten.
 

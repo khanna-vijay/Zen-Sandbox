@@ -67,7 +67,7 @@ aliases:
 
 # The Fourth Wall Conductor
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Fourth Wall Conductor — infographic](img/D5_P1_S2_T3_G011__the-audience-accord.jpg){ .game-hero }
 
 > Direct and redirect the fourth wall in real-time to master audience connection and energy.
 

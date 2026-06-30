@@ -61,7 +61,7 @@ aliases:
 
 # The Conductor's Contract
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Conductor's Contract — infographic](img/D5_P1_S1_T1_G252__the-conductor-s-contract.jpg){ .game-hero }
 
 > Negotiate the fourth wall dynamically by reading and calibrating to the audience's shifting energy.
 

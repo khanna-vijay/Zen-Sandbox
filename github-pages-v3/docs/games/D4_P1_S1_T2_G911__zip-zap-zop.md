@@ -62,7 +62,7 @@ aliases: []
 
 # Zip Zap Zop
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Zip Zap Zop — infographic](img/D4_P1_S1_T2_G911__zip-zap-zop.jpg){ .game-hero }
 
 > Pass a high-energy verbal current across the circle using eye contact, rhythm, and focus.
 

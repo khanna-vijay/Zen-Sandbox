@@ -59,7 +59,7 @@ aliases:
 
 # Gibberish Translation Circle
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Gibberish Translation Circle — infographic](img/D1_P4_S1_T2_G1343__translate-gibberish.jpg){ .game-hero }
 
 > Instantly translate nonsense words to bypass your inner editor and embrace your first instinct.
 

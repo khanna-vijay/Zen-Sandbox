@@ -71,7 +71,7 @@ aliases:
 
 # Atmosphere Architects
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Atmosphere Architects — infographic](img/D4_P1_S1_T1_G176__the-atmosphere-architects.jpg){ .game-hero }
 
 > Collaboratively build, sustain, and organically transition through physical and auditory emotional landscapes.
 

@@ -68,7 +68,7 @@ aliases:
 
 # The Resonance Dial
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Resonance Dial — infographic](img/D1_P3_S2_T1_G527__the-aetheric-resonance-protocol.jpg){ .game-hero }
 
 > Scale raw emotional impulses from a silent spark to peak intensity and back to neutral.
 

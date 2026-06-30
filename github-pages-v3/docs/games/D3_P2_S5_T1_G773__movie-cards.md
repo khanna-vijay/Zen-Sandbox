@@ -58,7 +58,7 @@ aliases: []
 
 # Cinematic Cue Cards
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Cinematic Cue Cards — infographic](img/D3_P2_S5_T1_G773__movie-cards.jpg){ .game-hero }
 
 > Navigate sudden cinematic genre shifts by anchoring your scene in a rock-solid base reality.
 

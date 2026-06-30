@@ -66,7 +66,7 @@ aliases:
 
 # The Silent Attunement Loop
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Silent Attunement Loop — infographic](img/D2_P2_S3_T2_G084__the-empathic-resonance-matrix.jpg){ .game-hero }
 
 > Pass, absorb, and subtly shift unspoken emotions and status in a silent, continuous loop.
 

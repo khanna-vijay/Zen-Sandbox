@@ -58,7 +58,7 @@ aliases: []
 
 # Stereo Loop
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Stereo Loop — infographic](img/D4_P1_S4_T2_G692__eight-track.jpg){ .game-hero }
 
 > Pass a rhythmic wave of custom sounds and synchronized claps around a collaborative circle.
 

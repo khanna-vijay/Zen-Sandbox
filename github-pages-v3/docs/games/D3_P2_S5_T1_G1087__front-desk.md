@@ -59,7 +59,7 @@ aliases:
 
 # The Grand Lobby
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Grand Lobby — infographic](img/D3_P2_S5_T1_G1087__front-desk.jpg){ .game-hero }
 
 > Co-create a bustling, physically consistent hotel lobby to ground characters, relationships, and objectives.
 

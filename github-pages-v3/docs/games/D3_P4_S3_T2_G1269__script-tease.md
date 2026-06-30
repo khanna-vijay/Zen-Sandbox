@@ -61,7 +61,7 @@ aliases: []
 
 # The Unwritten Novel
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Unwritten Novel — infographic](img/D3_P4_S3_T2_G1269__script-tease.jpg){ .game-hero }
 
 > Launch a fully improvised narrative from the opening pages of a fictional, never-completed book.
 

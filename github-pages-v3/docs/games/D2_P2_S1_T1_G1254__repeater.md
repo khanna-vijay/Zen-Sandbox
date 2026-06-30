@@ -52,7 +52,7 @@ aliases: []
 
 # Echo Dialogue
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Echo Dialogue — infographic](img/D2_P2_S1_T1_G1254__repeater.jpg){ .game-hero }
 
 > Hear every word, repeat the line, and build the scene one echo at a time.
 

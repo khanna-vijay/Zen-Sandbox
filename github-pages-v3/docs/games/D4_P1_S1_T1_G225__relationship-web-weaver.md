@@ -67,7 +67,7 @@ aliases:
 
 # The Relationship Web
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Relationship Web — infographic](img/D4_P1_S1_T1_G225__relationship-web-weaver.jpg){ .game-hero }
 
 > Weave a complex network of character connections using physical staging and immediate verbal commitments.
 

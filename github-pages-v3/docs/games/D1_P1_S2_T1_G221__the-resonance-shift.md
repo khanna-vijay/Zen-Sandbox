@@ -70,7 +70,7 @@ aliases:
 
 # Resonance Shift
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Resonance Shift — infographic](img/D1_P1_S2_T1_G221__the-resonance-shift.jpg){ .game-hero }
 
 > Instantly embody high-contrast emotional states using raw vocalization, physical commitment, and rapid self-recovery.
 

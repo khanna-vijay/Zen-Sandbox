@@ -60,7 +60,7 @@ aliases: []
 
 # The Rumor Mill
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Rumor Mill — infographic](img/D2_P2_S4_T1_G1260__rumors.jpg){ .game-hero }
 
 > Build collaborative, scandalous stories one rapid-fire whisper at a time.
 

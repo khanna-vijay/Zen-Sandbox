@@ -60,7 +60,7 @@ aliases:
 
 # Unison Cypher
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Unison Cypher — infographic](img/D4_P1_S4_T2_G949__beasty-rap.jpg){ .game-hero }
 
 > Pass a rhyming rhythm around the circle, shouting the final words together in perfect sync.
 

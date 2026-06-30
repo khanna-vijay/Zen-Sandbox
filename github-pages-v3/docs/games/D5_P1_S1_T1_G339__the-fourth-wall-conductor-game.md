@@ -63,7 +63,7 @@ aliases: []
 
 # The Fourth Wall Conductor
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Fourth Wall Conductor — infographic](img/D5_P1_S1_T1_G339__the-fourth-wall-conductor-game.jpg){ .game-hero }
 
 > Direct a performer's relationship with the audience using real-time physical conducting signals.
 

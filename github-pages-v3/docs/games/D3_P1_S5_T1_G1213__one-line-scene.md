@@ -60,7 +60,7 @@ aliases: []
 
 # The Single-Line Scene
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Single-Line Scene — infographic](img/D3_P1_S5_T1_G1213__one-line-scene.jpg){ .game-hero }
 
 > Build a rich, physical world and deep relationship using only one spoken line of dialogue.
 

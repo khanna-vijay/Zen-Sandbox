@@ -66,7 +66,7 @@ aliases:
 
 # The Multi-Tiered Oracle
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Multi-Tiered Oracle — infographic](img/D4_P1_S1_T2_G787__oracle.jpg){ .game-hero }
 
 > Four minds merge into one vertically stacked, word-at-a-time entity to answer life's deepest questions.
 

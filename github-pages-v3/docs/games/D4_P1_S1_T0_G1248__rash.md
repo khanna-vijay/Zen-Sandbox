@@ -53,7 +53,7 @@ aliases: []
 
 # The Affliction
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Affliction — infographic](img/D4_P1_S1_T0_G1248__rash.jpg){ .game-hero }
 
 > Detect a secret physical symptom and spread the cure through collective, synchronized movement.
 

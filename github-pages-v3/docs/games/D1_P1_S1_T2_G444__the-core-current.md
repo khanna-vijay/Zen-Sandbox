@@ -69,7 +69,7 @@ aliases: []
 
 # The Impulse Current
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Impulse Current — infographic](img/D1_P1_S1_T2_G444__the-core-current.jpg){ .game-hero }
 
 > Instantly and fully embody abstract physical, vocal, and emotional states without a moment of hesitation.
 

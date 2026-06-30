@@ -54,7 +54,7 @@ aliases: []
 
 # The Reaction Strike
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Reaction Strike — infographic](img/D5_P1_S1_T0_G1281__slap-take.jpg){ .game-hero }
 
 > Listen to the room and turn audience laughter into sudden, justified physical comedy.
 

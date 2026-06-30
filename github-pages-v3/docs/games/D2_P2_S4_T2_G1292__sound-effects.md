@@ -65,7 +65,7 @@ aliases:
 
 # Foley Artists
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Foley Artists — infographic](img/D2_P2_S4_T2_G1292__sound-effects.jpg){ .game-hero }
 
 > Bring physical actions to life with live, off-stage sound effects that drive the narrative.
 

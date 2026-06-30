@@ -59,7 +59,7 @@ aliases: []
 
 # Animal Understudy
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Animal Understudy — infographic](img/D1_P1_S3_T1_G633__animal-understudy.jpg){ .game-hero }
 
 > Swap seamlessly between human drama and wild animal instincts to master physical commitment and justification.
 

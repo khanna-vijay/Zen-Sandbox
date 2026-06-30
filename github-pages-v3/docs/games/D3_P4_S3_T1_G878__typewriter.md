@@ -66,7 +66,7 @@ aliases:
 
 # Typewriter
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Typewriter — infographic](img/D3_P4_S3_T1_G878__typewriter.jpg){ .game-hero }
 
 > Co-create a live-action story where a writer's narration and actors' physical choices instantly collide.
 

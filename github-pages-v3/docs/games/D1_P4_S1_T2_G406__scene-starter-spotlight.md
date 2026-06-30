@@ -63,7 +63,7 @@ aliases:
 
 # First-Thought Flash
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![First-Thought Flash — infographic](img/D1_P4_S1_T2_G406__scene-starter-spotlight.jpg){ .game-hero }
 
 > Leap into the virtual spotlight and instantly launch a scene with your very first instinct.
 

@@ -65,7 +65,7 @@ aliases: []
 
 # Consent Currency
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Consent Currency — infographic](img/D2_P1_S6_T1_G029__boundary-braids.jpg){ .game-hero }
 
 > Practice safe, high-stakes physical and thematic offers by budgeting risk and making boundary-setting entirely free.
 

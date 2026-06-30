@@ -62,7 +62,7 @@ aliases: []
 
 # The Digital Scene Canvas
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Digital Scene Canvas — infographic](img/D3_P1_S5_T1_G379__the-dynamic-scene-canvas-story-weavers.jpg){ .game-hero }
 
 > Co-create immersive virtual environments using digital whiteboards, custom backgrounds, and physical-verbal justification.
 

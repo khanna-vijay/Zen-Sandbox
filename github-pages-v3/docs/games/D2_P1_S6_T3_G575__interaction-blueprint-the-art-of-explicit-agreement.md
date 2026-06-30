@@ -57,7 +57,7 @@ aliases:
 
 # The Agreement Blueprint
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Agreement Blueprint — infographic](img/D2_P1_S6_T3_G575__interaction-blueprint-the-art-of-explicit-agreement.jpg){ .game-hero }
 
 > Master the art of explicit verbal negotiation for safe, confident physical contact on stage.
 

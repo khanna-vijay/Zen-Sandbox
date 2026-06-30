@@ -65,7 +65,7 @@ aliases: []
 
 # Status Architects
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Status Architects — infographic](img/D2_P3_S2_T1_G554__status-architects-collaborative-shift.jpg){ .game-hero }
 
 > Co-create dynamic scenes using a transparent, step-by-step blueprint of shifting social power.
 

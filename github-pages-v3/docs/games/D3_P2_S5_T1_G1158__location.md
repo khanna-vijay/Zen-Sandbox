@@ -57,7 +57,7 @@ aliases: []
 
 # The Shared Space
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Shared Space — infographic](img/D3_P2_S5_T1_G1158__location.jpg){ .game-hero }
 
 > Explore the depth of a single physical environment through interconnected characters, relationships, and time.
 

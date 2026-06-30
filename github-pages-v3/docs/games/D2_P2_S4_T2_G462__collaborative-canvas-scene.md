@@ -70,7 +70,7 @@ aliases:
 
 # Collaborative Canvas
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Collaborative Canvas — infographic](img/D2_P2_S4_T2_G462__collaborative-canvas-scene.jpg){ .game-hero }
 
 > Weave verbal storytelling and real-time digital sketching into a single, shared physical reality.
 

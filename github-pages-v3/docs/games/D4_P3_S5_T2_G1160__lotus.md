@@ -57,7 +57,7 @@ aliases: []
 
 # The Lotus
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Lotus — infographic](img/D4_P3_S5_T2_G1160__lotus.jpg){ .game-hero }
 
 > Weave thematic threads and emotional dynamics across three distinct, recurring stage spaces.
 

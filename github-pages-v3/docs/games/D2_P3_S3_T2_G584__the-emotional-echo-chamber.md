@@ -66,7 +66,7 @@ aliases:
 
 # The Resonance Loop
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Resonance Loop — infographic](img/D2_P3_S3_T2_G584__the-emotional-echo-chamber.jpg){ .game-hero }
 
 > Deepen partner connection by translating subtle physical cues into layered, co-created emotional realities.
 

@@ -65,7 +65,7 @@ aliases: []
 
 # The Spontaneity Chamber
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Spontaneity Chamber — infographic](img/D1_P4_S1_T2_G178__the-impulse-crucible.jpg){ .game-hero }
 
 > Bypass your inner editor with rapid-fire, full-body physical, vocal, and emotional reactions.
 

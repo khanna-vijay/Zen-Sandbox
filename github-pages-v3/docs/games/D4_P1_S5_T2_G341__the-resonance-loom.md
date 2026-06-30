@@ -69,7 +69,7 @@ aliases: []
 
 # The Resonance Loom
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Resonance Loom — infographic](img/D4_P1_S5_T2_G341__the-resonance-loom.jpg){ .game-hero }
 
 > Weave abstract threads of sound, movement, and word fragments into a unified emotional landscape.
 

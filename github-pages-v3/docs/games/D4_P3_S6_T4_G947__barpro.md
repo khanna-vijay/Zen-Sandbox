@@ -56,7 +56,7 @@ aliases: []
 
 # The Intimate Showcase
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Intimate Showcase — infographic](img/D4_P3_S6_T4_G947__barpro.jpg){ .game-hero }
 
 > Host and perform a high-energy, prop-free shortform show tailored for tight, intimate spaces.
 

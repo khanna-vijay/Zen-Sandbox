@@ -56,7 +56,7 @@ aliases:
 
 # The Mindful Knot
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Mindful Knot — infographic](img/D2_P1_S6_T3_G649__caligula.jpg){ .game-hero }
 
 > Untangle a physical human knot through active verbal consent and collaborative movement.
 

@@ -60,7 +60,7 @@ aliases:
 
 # Pass the Pulse
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Pass the Pulse — infographic](img/D4_P1_S4_T2_G1225__pass-clap.jpg){ .game-hero }
 
 > Send a single, shared beat around the circle to build collective focus and rhythm.
 

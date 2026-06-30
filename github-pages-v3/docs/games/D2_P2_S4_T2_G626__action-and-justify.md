@@ -58,7 +58,7 @@ aliases: []
 
 # Action and Justify
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Action and Justify — infographic](img/D2_P2_S4_T2_G626__action-and-justify.jpg){ .game-hero }
 
 > Transform random physical movements into meaningful shared realities through instant verbal justification.
 

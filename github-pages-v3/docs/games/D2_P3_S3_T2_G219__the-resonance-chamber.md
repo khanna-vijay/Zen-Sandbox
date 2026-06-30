@@ -69,7 +69,7 @@ aliases: []
 
 # The Resonance Chamber
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Resonance Chamber — infographic](img/D2_P3_S3_T2_G219__the-resonance-chamber.jpg){ .game-hero }
 
 > Deepen partner connection by transforming simple physical observations into rich, high-status character relationships.
 

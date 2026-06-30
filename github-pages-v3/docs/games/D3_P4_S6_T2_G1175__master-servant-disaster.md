@@ -59,7 +59,7 @@ aliases: []
 
 # The Sovereign and the Servant
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Sovereign and the Servant — infographic](img/D3_P4_S6_T2_G1175__master-servant-disaster.jpg){ .game-hero }
 
 > Weave a chain of logical justifications that turn simple requests into an absolute catastrophe.
 

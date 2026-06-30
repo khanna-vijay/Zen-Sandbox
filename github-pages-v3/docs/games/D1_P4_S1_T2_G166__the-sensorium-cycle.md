@@ -74,7 +74,7 @@ aliases:
 
 # The Sensory Circuit
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Sensory Circuit — infographic](img/D1_P4_S1_T2_G166__the-sensorium-cycle.jpg){ .game-hero }
 
 > Bypass the analytical mind by translating dynamic sensory inputs into immediate, fully committed physical and vocal expression.
 

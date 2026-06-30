@@ -59,7 +59,7 @@ aliases:
 
 # Rhythmic Number Pass
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Rhythmic Number Pass — infographic](img/D4_P1_S4_T2_G998__concentration-circle.jpg){ .game-hero }
 
 > Keep the beat and track your shifting identity in this fast-paced numerical rhythm game.
 

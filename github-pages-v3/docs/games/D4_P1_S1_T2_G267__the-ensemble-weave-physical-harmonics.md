@@ -66,7 +66,7 @@ aliases:
 
 # Kinetic Harmonics
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Kinetic Harmonics — infographic](img/D4_P1_S1_T2_G267__the-ensemble-weave-physical-harmonics.jpg){ .game-hero }
 
 > Weave a wordless tapestry of movement, emotion, and collective momentum using pure peripheral awareness.
 

@@ -64,7 +64,7 @@ aliases:
 
 # The Loom Room
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Loom Room — infographic](img/D4_P1_S5_T2_G360__the-loom-room.jpg){ .game-hero }
 
 > Weave fragmented sounds, gestures, and words into a rich, non-linear collective atmosphere.
 

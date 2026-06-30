@@ -59,7 +59,7 @@ aliases:
 
 # The Final Beat
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Final Beat — infographic](img/D3_P4_S3_T0_G171__the-final-beat.jpg){ .game-hero }
 
 > Master the art of the clean exit by identifying and executing powerful scene conclusions.
 

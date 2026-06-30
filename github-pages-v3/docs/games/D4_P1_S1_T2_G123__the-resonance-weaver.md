@@ -68,7 +68,7 @@ aliases: []
 
 # Resonance Weaving
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Resonance Weaving — infographic](img/D4_P1_S1_T2_G123__the-resonance-weaver.jpg){ .game-hero }
 
 > Co-create a rich, physical and verbal tapestry from silent, intuitive group impulses.
 

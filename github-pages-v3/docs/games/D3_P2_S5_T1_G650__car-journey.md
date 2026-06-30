@@ -61,7 +61,7 @@ aliases: []
 
 # Road Trip Base Reality
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Road Trip Base Reality — infographic](img/D3_P2_S5_T1_G650__car-journey.jpg){ .game-hero }
 
 > Build a rich, shared world and deep relationships through silent physical connection before speaking.
 

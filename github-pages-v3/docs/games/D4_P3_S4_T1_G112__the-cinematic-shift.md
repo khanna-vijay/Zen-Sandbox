@@ -66,7 +66,7 @@ aliases: []
 
 # Cinematic Cut
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Cinematic Cut — infographic](img/D4_P3_S4_T1_G112__the-cinematic-shift.jpg){ .game-hero }
 
 > Direct, perform, and edit a rapid-fire virtual film using instant camera cuts and sound effects.
 

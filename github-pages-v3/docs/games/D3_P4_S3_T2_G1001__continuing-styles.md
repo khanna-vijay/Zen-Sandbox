@@ -62,7 +62,7 @@ aliases:
 
 # Style Shift
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Style Shift — infographic](img/D3_P4_S3_T2_G1001__continuing-styles.jpg){ .game-hero }
 
 > Maintain a single, unbroken narrative while seamlessly shifting through wildly different performance genres.
 

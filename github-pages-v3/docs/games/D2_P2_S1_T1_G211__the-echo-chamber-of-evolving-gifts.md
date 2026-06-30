@@ -64,7 +64,7 @@ aliases: []
 
 # The Subtext Echo Chamber
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Subtext Echo Chamber — infographic](img/D2_P2_S1_T1_G211__the-echo-chamber-of-evolving-gifts.jpg){ .game-hero }
 
 > Build a deep, evolving relationship using only a single repeated sentence and silent physical offers.
 

@@ -57,7 +57,7 @@ aliases: []
 
 # Evil Twin
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Evil Twin — infographic](img/D3_P2_S6_T1_G1052__evil-twin.jpg){ .game-hero }
 
 > Justify your worst impulses when your malicious double sabotages a polite, high-stakes scene.
 

@@ -55,7 +55,7 @@ aliases: []
 
 # Consent Architects
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Consent Architects — infographic](img/D2_P1_S6_T1_G043__consent-architects.jpg){ .game-hero }
 
 > Build safer, bolder scenes by making explicit boundary negotiation a mandatory, active game mechanic.
 

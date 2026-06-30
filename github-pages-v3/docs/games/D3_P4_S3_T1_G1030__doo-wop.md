@@ -60,7 +60,7 @@ aliases:
 
 # Doo-Wop Narrative
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Doo-Wop Narrative — infographic](img/D3_P4_S3_T1_G1030__doo-wop.jpg){ .game-hero }
 
 > Tell a tragicomic love story through structured 1950s-style vocal harmonies and narrative verses.
 

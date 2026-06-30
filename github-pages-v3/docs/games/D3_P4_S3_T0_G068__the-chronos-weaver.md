@@ -60,7 +60,7 @@ aliases:
 
 # Temporal Tapestry
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Temporal Tapestry — infographic](img/D3_P4_S3_T0_G068__the-chronos-weaver.jpg){ .game-hero }
 
 > Weave a cohesive, non-linear story by leaping backward and forward through a relationship's timeline.
 

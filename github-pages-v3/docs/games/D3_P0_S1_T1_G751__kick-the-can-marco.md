@@ -60,7 +60,7 @@ aliases:
 
 # Instant Game Engine
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Instant Game Engine — infographic](img/D3_P0_S1_T1_G751__kick-the-can-marco.jpg){ .game-hero }
 
 > Spontaneously invent and play absurd, unwritten games by committing to the unknown together.
 

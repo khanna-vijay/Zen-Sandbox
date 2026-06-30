@@ -62,7 +62,7 @@ aliases: []
 
 # The Rhythmic Conveyor Belt
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Rhythmic Conveyor Belt — infographic](img/D4_P2_S4_T2_G921__ali-baba-and-the-40-thieves.jpg){ .game-hero }
 
 > Pass physical gestures down a circle in perfect sync with a shared vocal rhythm.
 

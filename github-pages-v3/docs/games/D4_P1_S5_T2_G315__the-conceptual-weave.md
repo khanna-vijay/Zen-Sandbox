@@ -69,7 +69,7 @@ aliases:
 
 # The Conceptual Weave
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Conceptual Weave — infographic](img/D4_P1_S5_T2_G315__the-conceptual-weave.jpg){ .game-hero }
 
 > Build a living, breathing physical and vocal tapestry to explore abstract themes without words.
 

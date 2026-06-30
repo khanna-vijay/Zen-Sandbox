@@ -60,7 +60,7 @@ aliases: []
 
 # Boundary Co-Pilot
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Boundary Co-Pilot — infographic](img/D2_P1_S6_T3_G279__consent-co-pilot.jpg){ .game-hero }
 
 > Practice navigating physical contact, setting clear boundaries, and negotiating alternatives in real-time scenes.
 

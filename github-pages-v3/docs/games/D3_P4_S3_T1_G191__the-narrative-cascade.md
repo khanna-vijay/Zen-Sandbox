@@ -63,7 +63,7 @@ aliases:
 
 # The Narrative Cascade
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Narrative Cascade — infographic](img/D3_P4_S3_T1_G191__the-narrative-cascade.jpg){ .game-hero }
 
 > Uncover the hidden consequences of every choice to build an escalating, high-stakes story.
 

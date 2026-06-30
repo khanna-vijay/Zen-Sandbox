@@ -60,7 +60,7 @@ aliases:
 
 # The Best Friend Alignment
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Best Friend Alignment — infographic](img/D2_P2_S4_T2_G907__you-are-my-best-friend.jpg){ .game-hero }
 
 > Rewind and refine physical and verbal choices to build radical, authentic connection on stage.
 

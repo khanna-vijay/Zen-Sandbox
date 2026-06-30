@@ -65,7 +65,7 @@ aliases:
 
 # Questions Only
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Questions Only — infographic](img/D2_P2_S4_T1_G1216__only-questions.jpg){ .game-hero }
 
 > Build a rich narrative world using nothing but questions while the audience monitors your grammar.
 

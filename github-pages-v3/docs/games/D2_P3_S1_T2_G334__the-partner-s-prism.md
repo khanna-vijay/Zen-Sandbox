@@ -66,7 +66,7 @@ aliases:
 
 # The Partner's Prism
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Partner's Prism — infographic](img/D2_P3_S1_T2_G334__the-partner-s-prism.jpg){ .game-hero }
 
 > Elevate your partner through progressive phases of deep physical attunement, status gifting, and narrative integration.
 

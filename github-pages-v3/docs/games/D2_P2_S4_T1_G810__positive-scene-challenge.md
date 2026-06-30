@@ -61,7 +61,7 @@ aliases: []
 
 # The Positivity Chain
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Positivity Chain — infographic](img/D2_P2_S4_T1_G810__positive-scene-challenge.jpg){ .game-hero }
 
 > Pass a wave of conflict-free, supportive three-line scenes down the line without breaking the chain.
 

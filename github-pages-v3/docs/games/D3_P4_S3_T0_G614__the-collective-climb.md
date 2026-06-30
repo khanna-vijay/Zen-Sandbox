@@ -62,7 +62,7 @@ aliases:
 
 # The Shared Ascent
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Shared Ascent — infographic](img/D3_P4_S3_T0_G614__the-collective-climb.jpg){ .game-hero }
 
 > Navigate a high-stakes crisis together where every action must build upon the last.
 

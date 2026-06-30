@@ -57,7 +57,7 @@ aliases: []
 
 # Human Pillars
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Human Pillars — infographic](img/D3_P2_S6_T1_G1231__pillars.jpg){ .game-hero }
 
 > Actors justify random words supplied by audience volunteers standing on stage as physical pillars.
 

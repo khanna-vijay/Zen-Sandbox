@@ -58,7 +58,7 @@ aliases:
 
 # Magnetic Palms
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Magnetic Palms — infographic](img/D2_P3_S3_T1_G723__hand-hypnotist.jpg){ .game-hero }
 
 > Lead and follow through physical connection, keeping your partner safe, successful, and in flow.
 

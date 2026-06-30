@@ -63,7 +63,7 @@ aliases:
 
 # Half-Life Story
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Half-Life Story — infographic](img/D4_P3_S4_T2_G722__half-life.jpg){ .game-hero }
 
 > Recreate a complete narrative in progressively halved time limits, testing memory, pacing, and physical commitment.
 

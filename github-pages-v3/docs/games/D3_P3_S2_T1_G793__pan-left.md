@@ -63,7 +63,7 @@ aliases:
 
 # Pan Left
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Pan Left — infographic](img/D3_P3_S2_T1_G793__pan-left.jpg){ .game-hero }
 
 > Rotate through a carousel of distinct scenes, instantly heightening the comedic game with every turn.
 

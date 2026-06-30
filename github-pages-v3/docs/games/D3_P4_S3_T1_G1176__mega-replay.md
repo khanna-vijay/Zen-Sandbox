@@ -61,7 +61,7 @@ aliases: []
 
 # Narrative Echoes
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Narrative Echoes — infographic](img/D3_P4_S3_T1_G1176__mega-replay.jpg){ .game-hero }
 
 > Reconstruct a core narrative arc through shifting genres, emotional tones, and stylistic lenses.
 

@@ -60,7 +60,7 @@ aliases:
 
 # The Infomercial
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Infomercial — infographic](img/D3_P1_S2_T1_G995__commercial.jpg){ .game-hero }
 
 > Sell an absurd product by escalating its ridiculous benefits through high-energy physical demonstration.
 

@@ -55,7 +55,7 @@ aliases: []
 
 # Body Letters
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Body Letters — infographic](img/D4_P1_S1_T1_G928__alphabet-letters.jpg){ .game-hero }
 
 > Shape your bodies collectively to spell out letters in a high-energy race of spatial awareness.
 

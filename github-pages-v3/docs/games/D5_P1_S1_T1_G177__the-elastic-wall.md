@@ -64,7 +64,7 @@ aliases:
 
 # The Elastic Membrane
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Elastic Membrane — infographic](img/D5_P1_S1_T1_G177__the-elastic-wall.jpg){ .game-hero }
 
 > Dynamically stretch, thin, and dissolve the fourth wall to master real-time audience calibration.
 

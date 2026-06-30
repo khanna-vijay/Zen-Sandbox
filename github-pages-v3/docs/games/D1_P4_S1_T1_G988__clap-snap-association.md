@@ -56,7 +56,7 @@ aliases:
 
 # The Rhythm Association
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Rhythm Association — infographic](img/D1_P4_S1_T1_G988__clap-snap-association.jpg){ .game-hero }
 
 > Keep the group in sync while bypassing your inner editor on every fourth beat.
 

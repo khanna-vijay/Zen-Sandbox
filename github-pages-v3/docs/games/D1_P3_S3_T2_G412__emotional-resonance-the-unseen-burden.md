@@ -60,7 +60,7 @@ aliases: []
 
 # The Unseen Burden
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Unseen Burden — infographic](img/D1_P3_S3_T2_G412__emotional-resonance-the-unseen-burden.jpg){ .game-hero }
 
 > Embody contrasting emotions through the physical weight of imaginary objects in silent, high-commitment solos.
 

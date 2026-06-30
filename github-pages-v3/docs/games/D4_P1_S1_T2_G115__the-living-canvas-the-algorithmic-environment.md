@@ -70,7 +70,7 @@ aliases:
 
 # The Living Canvas
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Living Canvas — infographic](img/D4_P1_S1_T2_G115__the-living-canvas-the-algorithmic-environment.jpg){ .game-hero }
 
 > Build a living, breathing environment by treating the space itself as the main character.
 

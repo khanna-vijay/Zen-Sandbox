@@ -62,7 +62,7 @@ aliases: []
 
 # The Pattern Weaver
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Pattern Weaver — infographic](img/D4_P1_S4_T1_G311__the-ensemble-game-weaver.jpg){ .game-hero }
 
 > Collectively discover, escalate, and non-verbally retire comedic patterns in a seamless stream of consciousness.
 

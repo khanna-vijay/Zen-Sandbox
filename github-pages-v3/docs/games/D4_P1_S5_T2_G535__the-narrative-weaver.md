@@ -66,7 +66,7 @@ aliases:
 
 # The Narrative Weaver
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Narrative Weaver — infographic](img/D4_P1_S5_T2_G535__the-narrative-weaver.jpg){ .game-hero }
 
 > Co-create a rich virtual tapestry by synthesizing live chat offers and visual cues in real-time.
 

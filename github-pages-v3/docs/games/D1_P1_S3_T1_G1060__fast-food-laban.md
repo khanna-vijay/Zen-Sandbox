@@ -56,7 +56,7 @@ aliases:
 
 # Physical Effort Explorations
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Physical Effort Explorations — infographic](img/D1_P1_S3_T1_G1060__fast-food-laban.jpg){ .game-hero }
 
 > Transform your physical presence and unlock instant characters using three simple axes of movement.
 

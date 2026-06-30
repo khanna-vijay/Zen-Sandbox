@@ -66,7 +66,7 @@ aliases:
 
 # Resonant Echo
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Resonant Echo — infographic](img/D2_P3_S3_T2_G181__resonant-echo.jpg){ .game-hero }
 
 > Anticipate and fulfill your partner's unspoken emotional needs before they have to ask.
 

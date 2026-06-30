@@ -60,7 +60,7 @@ aliases: []
 
 # Reality Weavers
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Reality Weavers — infographic](img/D3_P1_S5_T0_G553__reality-weavers-the-algorithmic-stage.jpg){ .game-hero }
 
 > Co-create and instantly adapt to a shifting, player-controlled digital environment in real time.
 

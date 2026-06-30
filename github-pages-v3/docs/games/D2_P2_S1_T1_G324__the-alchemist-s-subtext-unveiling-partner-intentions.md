@@ -64,7 +64,7 @@ aliases:
 
 # Subtextual Alchemy
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Subtextual Alchemy — infographic](img/D2_P2_S1_T1_G324__the-alchemist-s-subtext-unveiling-partner-intentions.jpg){ .game-hero }
 
 > Transform mundane interactions into emotionally charged scenes by playing hidden, unspoken relational agendas.
 

@@ -68,7 +68,7 @@ aliases: []
 
 # The Digital Diorama
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Digital Diorama — infographic](img/D3_P2_S5_T1_G431__zoom-scene-sculptors-the-living-canvas.jpg){ .game-hero }
 
 > Co-create immersive virtual environments using immediate physical objects, custom screen names, and collaborative scene-painting.
 

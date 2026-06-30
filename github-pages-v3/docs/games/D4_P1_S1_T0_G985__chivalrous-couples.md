@@ -60,7 +60,7 @@ aliases: []
 
 # Chivalrous Duos
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Chivalrous Duos — infographic](img/D4_P1_S1_T0_G985__chivalrous-couples.jpg){ .game-hero }
 
 > A high-energy, physical pairing game that sharpens peripheral awareness and rapid group coordination.
 

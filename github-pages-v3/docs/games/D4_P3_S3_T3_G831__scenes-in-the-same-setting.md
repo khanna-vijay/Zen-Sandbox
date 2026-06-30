@@ -56,7 +56,7 @@ aliases: []
 
 # Setting Kaleidoscope
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Setting Kaleidoscope — infographic](img/D4_P3_S3_T3_G831__scenes-in-the-same-setting.jpg){ .game-hero }
 
 > Explore the hidden depths of a single location through contrasting, thematic scenes.
 

@@ -57,7 +57,7 @@ aliases:
 
 # The Relay Edit
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Relay Edit — infographic](img/D4_P3_S4_T1_G1280__slacker.jpg){ .game-hero }
 
 > Pass the narrative baton by following departing characters into entirely new scenes.
 

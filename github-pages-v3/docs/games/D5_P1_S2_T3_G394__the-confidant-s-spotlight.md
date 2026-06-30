@@ -66,7 +66,7 @@ aliases: []
 
 # The Confidant's Spotlight
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Confidant's Spotlight — infographic](img/D5_P1_S2_T3_G394__the-confidant-s-spotlight.jpg){ .game-hero }
 
 > Conspire with the audience by sharing secrets they alone are permitted to hear.
 

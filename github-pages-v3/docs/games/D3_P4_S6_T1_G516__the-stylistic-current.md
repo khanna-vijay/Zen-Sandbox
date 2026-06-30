@@ -64,7 +64,7 @@ aliases:
 
 # Stylistic Currents
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Stylistic Currents — infographic](img/D3_P4_S6_T1_G516__the-stylistic-current.jpg){ .game-hero }
 
 > Navigate sudden shifts in genre and tone by instantly justifying how the world's rules have changed.
 

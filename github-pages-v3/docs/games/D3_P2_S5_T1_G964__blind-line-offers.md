@@ -58,7 +58,7 @@ aliases: []
 
 # Dual-Offer Discovery
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Dual-Offer Discovery — infographic](img/D3_P2_S5_T1_G964__blind-line-offers.jpg){ .game-hero }
 
 > Instantly merge physical and verbal offers to build a solid base reality in seconds.
 

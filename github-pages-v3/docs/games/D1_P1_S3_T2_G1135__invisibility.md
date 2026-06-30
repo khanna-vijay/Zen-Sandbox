@@ -59,7 +59,7 @@ aliases: []
 
 # The Unseen Companion
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Unseen Companion — infographic](img/D1_P1_S3_T2_G1135__invisibility.jpg){ .game-hero }
 
 > Bring an invisible character to life through precise physical reactions and shared spatial commitment.
 

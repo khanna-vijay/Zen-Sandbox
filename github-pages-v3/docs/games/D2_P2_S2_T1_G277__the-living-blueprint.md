@@ -71,7 +71,7 @@ aliases:
 
 # The Living Blueprint
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Living Blueprint — infographic](img/D2_P2_S2_T1_G277__the-living-blueprint.jpg){ .game-hero }
 
 > Build a complex imaginary object while physically and emotionally shifting your status with every detail.
 

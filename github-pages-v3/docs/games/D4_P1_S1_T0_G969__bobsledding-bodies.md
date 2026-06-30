@@ -56,7 +56,7 @@ aliases: []
 
 # Ensemble Bobsled
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Ensemble Bobsled — infographic](img/D4_P1_S1_T0_G969__bobsledding-bodies.jpg){ .game-hero }
 
 > Coordinate physical rhythms to race across the floor as a single, synchronized bobsled unit.
 

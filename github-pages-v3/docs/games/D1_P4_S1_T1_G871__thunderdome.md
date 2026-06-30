@@ -56,7 +56,7 @@ aliases: []
 
 # Category Arena
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Category Arena — infographic](img/D1_P4_S1_T1_G871__thunderdome.jpg){ .game-hero }
 
 > Face off in a high-energy, rapid-fire category battle where hesitation is your only opponent.
 

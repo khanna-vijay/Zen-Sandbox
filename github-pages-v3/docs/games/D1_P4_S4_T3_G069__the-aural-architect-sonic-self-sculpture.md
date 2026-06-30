@@ -67,7 +67,7 @@ aliases: []
 
 # Sonic Self-Sculpture
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Sonic Self-Sculpture — infographic](img/D1_P4_S4_T3_G069__the-aural-architect-sonic-self-sculpture.jpg){ .game-hero }
 
 > Shape raw emotional impulses into vocal resonance, spontaneous gibberish, and collective, layered echoes.
 

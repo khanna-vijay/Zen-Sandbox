@@ -54,7 +54,7 @@ aliases: []
 
 # Viscosity Walk
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Viscosity Walk — infographic](img/D1_P1_S3_T3_G1121__honey-walk.jpg){ .game-hero }
 
 > Experience and physicalize the changing resistance of the space around you.
 

@@ -65,7 +65,7 @@ aliases:
 
 # The Three-Headed Expert
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Three-Headed Expert — infographic](img/D4_P1_S1_T2_G869__three-headed-expert.jpg){ .game-hero }
 
 > Three minds speak as one, word-by-word, to answer questions on a bizarre topic.
 

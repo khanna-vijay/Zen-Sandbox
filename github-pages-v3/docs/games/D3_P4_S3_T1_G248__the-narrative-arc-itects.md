@@ -58,7 +58,7 @@ aliases: []
 
 # Narrative Engine Room
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Narrative Engine Room — infographic](img/D3_P4_S3_T1_G248__the-narrative-arc-itects.jpg){ .game-hero }
 
 > Steer scenes from setup to resolution by pausing to tune your story's driving force.
 

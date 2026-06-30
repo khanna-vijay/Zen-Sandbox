@@ -60,7 +60,7 @@ aliases: []
 
 # Family Portraits
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Family Portraits — infographic](img/D4_P1_S1_T1_G1057__family-portraits.jpg){ .game-hero }
 
 > Create instant, expressive group snapshots that reveal relationships, status, and story through physical stage pictures.
 

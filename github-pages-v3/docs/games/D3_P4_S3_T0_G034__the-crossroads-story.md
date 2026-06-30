@@ -64,7 +64,7 @@ aliases:
 
 # Crossroads of Choice
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Crossroads of Choice — infographic](img/D3_P4_S3_T0_G034__the-crossroads-story.jpg){ .game-hero }
 
 > Steer scenes through high-stakes narrative forks by collaboratively choosing the path of greatest consequence.
 

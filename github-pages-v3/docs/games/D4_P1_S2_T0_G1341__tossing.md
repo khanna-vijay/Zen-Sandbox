@@ -56,7 +56,7 @@ aliases: []
 
 # The Ensemble Sway
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Ensemble Sway — infographic](img/D4_P1_S2_T0_G1341__tossing.jpg){ .game-hero }
 
 > Build deep physical connection and group mind through gentle, shared weight-bearing and collective balance.
 

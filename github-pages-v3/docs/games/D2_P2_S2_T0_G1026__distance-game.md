@@ -60,7 +60,7 @@ aliases: []
 
 # Proximity Stakes
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Proximity Stakes — infographic](img/D2_P2_S2_T0_G1026__distance-game.jpg){ .game-hero }
 
 > Discover how physical distance secretly dictates status, tension, and emotional stakes in a scene.
 

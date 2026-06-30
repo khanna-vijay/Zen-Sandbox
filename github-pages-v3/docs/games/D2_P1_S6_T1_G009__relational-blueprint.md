@@ -63,7 +63,7 @@ aliases: []
 
 # Relational Blueprint
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Relational Blueprint — infographic](img/D2_P1_S6_T1_G009__relational-blueprint.jpg){ .game-hero }
 
 > Co-create dynamic scenes while actively negotiating physical, emotional, and narrative boundaries in real time.
 

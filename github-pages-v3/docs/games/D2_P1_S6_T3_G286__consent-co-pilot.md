@@ -63,7 +63,7 @@ aliases:
 
 # The Consent Compass
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Consent Compass — infographic](img/D2_P1_S6_T3_G286__consent-co-pilot.jpg){ .game-hero }
 
 > Navigate physical contact and personal boundaries in real-time scenes with clarity, safety, and mutual respect.
 

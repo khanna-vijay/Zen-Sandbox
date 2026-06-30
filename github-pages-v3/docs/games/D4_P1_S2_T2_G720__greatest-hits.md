@@ -62,7 +62,7 @@ aliases: []
 
 # Greatest Hits
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Greatest Hits — infographic](img/D4_P1_S2_T2_G720__greatest-hits.jpg){ .game-hero }
 
 > Hosts pitch a hilarious compilation album while singers instantly bring the fictional tracks to life.
 

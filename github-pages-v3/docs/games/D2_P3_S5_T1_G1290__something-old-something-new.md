@@ -56,7 +56,7 @@ aliases: []
 
 # Something Old, Something New
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Something Old, Something New — infographic](img/D2_P3_S5_T1_G1290__something-old-something-new.jpg){ .game-hero }
 
 > Gift clever clues to make your partner look like a genius in this collaborative guessing game.
 

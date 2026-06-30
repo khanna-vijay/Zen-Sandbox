@@ -58,7 +58,7 @@ aliases:
 
 # Sensory Thread Circle
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Sensory Thread Circle — infographic](img/D4_P1_S1_T2_G960__blind-association-circle.jpg){ .game-hero }
 
 > Track the verbal thread and rebuild the circle entirely by sound with eyes closed.
 

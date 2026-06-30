@@ -62,7 +62,7 @@ aliases:
 
 # Rapid Chat Roulette
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Rapid Chat Roulette — infographic](img/D1_P4_S1_T2_G482__rapid-fire-chat-brainstorm.jpg){ .game-hero }
 
 > Transform a flood of digital text into instant, unfiltered solo performances.
 

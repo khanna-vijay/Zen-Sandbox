@@ -65,7 +65,7 @@ aliases:
 
 # The Thread Weaver
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Thread Weaver — infographic](img/D3_P4_S6_T2_G198__the-chrono-weave.jpg){ .game-hero }
 
 > Connect past details to future truths to build a deeply layered, self-referential story.
 

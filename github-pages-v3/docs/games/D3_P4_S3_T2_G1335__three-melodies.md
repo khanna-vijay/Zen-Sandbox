@@ -58,7 +58,7 @@ aliases: []
 
 # Three Melodies
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Three Melodies — infographic](img/D3_P4_S3_T2_G1335__three-melodies.jpg){ .game-hero }
 
 > A structured musical scene where two characters sing their way from isolation to mutual resolution.
 

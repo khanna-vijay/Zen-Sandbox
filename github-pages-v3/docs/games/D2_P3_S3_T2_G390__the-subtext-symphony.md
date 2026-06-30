@@ -70,7 +70,7 @@ aliases:
 
 # Echoes of the Unspoken
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Echoes of the Unspoken — infographic](img/D2_P3_S3_T2_G390__the-subtext-symphony.jpg){ .game-hero }
 
 > Build a rich emotional foundation in total silence before speaking a single word of dialogue.
 

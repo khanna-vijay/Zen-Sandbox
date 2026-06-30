@@ -70,7 +70,7 @@ aliases:
 
 # The Resonance Weave
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Resonance Weave — infographic](img/D2_P3_S3_T2_G358__resonance-weave-the-subtextual-symphony.jpg){ .game-hero }
 
 > Decode and amplify your partner's unspoken emotional intentions to co-create deeply connected scenes.
 

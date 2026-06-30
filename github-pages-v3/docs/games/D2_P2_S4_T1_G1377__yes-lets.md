@@ -59,7 +59,7 @@ aliases:
 
 # Yes, Let's!
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Yes, Let's! — infographic](img/D2_P2_S4_T1_G1377__yes-lets.jpg){ .game-hero }
 
 > Enthusiastically agree to every physical suggestion and jump into action together as a unified group.
 

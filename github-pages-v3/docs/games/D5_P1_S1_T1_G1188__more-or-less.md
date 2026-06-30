@@ -61,7 +61,7 @@ aliases: []
 
 # More or Less
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![More or Less — infographic](img/D5_P1_S1_T1_G1188__more-or-less.jpg){ .game-hero }
 
 > Calibrate scene length and narrative momentum by letting the audience vote to continue or cut.
 

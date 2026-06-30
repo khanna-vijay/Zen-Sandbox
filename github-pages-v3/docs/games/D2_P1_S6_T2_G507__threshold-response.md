@@ -57,7 +57,7 @@ aliases: []
 
 # Threshold and Response
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Threshold and Response — infographic](img/D2_P1_S6_T2_G507__threshold-response.jpg){ .game-hero }
 
 > Practice setting boundaries and calling 'Cut' to prioritize emotional truth over polite compliance.
 

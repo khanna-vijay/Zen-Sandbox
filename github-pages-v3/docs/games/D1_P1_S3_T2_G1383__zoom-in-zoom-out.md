@@ -59,7 +59,7 @@ aliases:
 
 # Zoom In, Zoom Out
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Zoom In, Zoom Out — infographic](img/D1_P1_S3_T2_G1383__zoom-in-zoom-out.jpg){ .game-hero }
 
 > Instantly scale your characters from full-bodied humans to tiny finger puppets without losing dramatic commitment.
 

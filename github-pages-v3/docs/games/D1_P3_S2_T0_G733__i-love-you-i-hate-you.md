@@ -53,7 +53,7 @@ aliases: []
 
 # Degrees of Connection
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Degrees of Connection — infographic](img/D1_P3_S2_T0_G733__i-love-you-i-hate-you.jpg){ .game-hero }
 
 > Rapidly shift emotional intimacy levels with passing classmates to build vulnerability and spontaneous connection.
 

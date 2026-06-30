@@ -59,7 +59,7 @@ aliases: []
 
 # Navigating the Grey
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Navigating the Grey — infographic](img/D2_P1_S6_T1_G490__intent-impact-the-grey-area.jpg){ .game-hero }
 
 > Practice setting boundaries and clarifying intent in ambiguous, high-stakes social interactions.
 

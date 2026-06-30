@@ -58,7 +58,7 @@ aliases: []
 
 # What You Just Said
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![What You Just Said — infographic](img/D2_P2_S4_T1_G885__what-you-just-said.jpg){ .game-hero }
 
 > Build deep emotional connection and radical validation by justifying every single word your partner speaks.
 

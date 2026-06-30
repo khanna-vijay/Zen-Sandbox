@@ -56,7 +56,7 @@ aliases: []
 
 # The Gauntlet of Peril
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Gauntlet of Peril — infographic](img/D1_P1_S3_T2_G863__temple-of-doom.jpg){ .game-hero }
 
 > Navigate a deadly, invisible obstacle course built entirely by your teammates' physical commitment and demise.
 

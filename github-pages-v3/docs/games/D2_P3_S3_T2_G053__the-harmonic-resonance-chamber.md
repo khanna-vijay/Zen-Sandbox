@@ -70,7 +70,7 @@ aliases: []
 
 # The Resonance Chamber
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Resonance Chamber — infographic](img/D2_P3_S3_T2_G053__the-harmonic-resonance-chamber.jpg){ .game-hero }
 
 > Master deep partner attunement through precise emotional mirroring and micro-modulations of status.
 

@@ -63,7 +63,7 @@ aliases:
 
 # Instant Playground
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Instant Playground — infographic](img/D4_P1_S1_T0_G1038__duck-duck-goose.jpg){ .game-hero }
 
 > Instantly invent and play a brand-new, wordless children's game based only on a nonsense title.
 

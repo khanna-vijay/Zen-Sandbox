@@ -58,7 +58,7 @@ aliases: []
 
 # Corner Swap
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Corner Swap — infographic](img/D4_P1_S1_T1_G1145__kitty-in-the-corner.jpg){ .game-hero }
 
 > Swap places using silent eye contact before the center player steals your spot.
 

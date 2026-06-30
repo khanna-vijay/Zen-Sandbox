@@ -60,7 +60,7 @@ aliases: []
 
 # The Ping-Pong Ballad
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Ping-Pong Ballad — infographic](img/D2_P3_S1_T2_G1232__ping-pong-ballad.jpg){ .game-hero }
 
 > An improvised duet conducted entirely by the shifting gaze of an audience volunteer.
 

@@ -66,7 +66,7 @@ aliases:
 
 # Resonant Boundaries
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Resonant Boundaries — infographic](img/D2_P1_S6_T1_G613__resonant-boundaries.jpg){ .game-hero }
 
 > Transform boundary negotiation from an emergency brake into a powerful, integrated engine for dramatic storytelling.
 

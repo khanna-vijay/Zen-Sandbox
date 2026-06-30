@@ -70,7 +70,7 @@ aliases:
 
 # Echoed Architecture
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Echoed Architecture — infographic](img/D4_P1_S2_T3_G328__echo-weave-the-blind-architect-s-blueprint.jpg){ .game-hero }
 
 > Build a rich, tactile world for a blindfolded partner using only your words and sounds.
 

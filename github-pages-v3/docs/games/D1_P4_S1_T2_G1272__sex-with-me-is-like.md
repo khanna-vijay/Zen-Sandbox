@@ -55,7 +55,7 @@ aliases:
 
 # Sex With Me Is Like
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Sex With Me Is Like — infographic](img/D1_P4_S1_T2_G1272__sex-with-me-is-like.jpg){ .game-hero }
 
 > A high-energy line game of rapid-fire double entendres and unfiltered association.
 

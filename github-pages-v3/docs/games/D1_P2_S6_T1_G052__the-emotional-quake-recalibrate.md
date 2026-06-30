@@ -69,7 +69,7 @@ aliases: []
 
 # Somatic Surge and Recovery
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Somatic Surge and Recovery — infographic](img/D1_P2_S6_T1_G052__the-emotional-quake-recalibrate.jpg){ .game-hero }
 
 > Navigate sudden emotional disruptions and master the art of seamless, joyful recovery.
 

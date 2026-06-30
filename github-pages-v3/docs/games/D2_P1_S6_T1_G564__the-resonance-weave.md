@@ -58,7 +58,7 @@ aliases: []
 
 # The Resonance Weave
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Resonance Weave — infographic](img/D2_P1_S6_T1_G564__the-resonance-weave.jpg){ .game-hero }
 
 > Navigate physical and emotional boundaries in real-time using subtle, non-verbal micro-signals and active check-ins.
 

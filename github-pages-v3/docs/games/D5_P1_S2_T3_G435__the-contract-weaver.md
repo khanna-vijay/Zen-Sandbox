@@ -63,7 +63,7 @@ aliases:
 
 # The Fourth Wall Weaver
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Fourth Wall Weaver — infographic](img/D5_P1_S2_T3_G435__the-contract-weaver.jpg){ .game-hero }
 
 > Consciously negotiate, break, and rebuild the fourth wall to treat the audience as your final partner.
 

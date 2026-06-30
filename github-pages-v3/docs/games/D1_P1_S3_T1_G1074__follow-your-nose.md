@@ -53,7 +53,7 @@ aliases:
 
 # Leading Centers
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Leading Centers — infographic](img/D1_P1_S3_T1_G1074__follow-your-nose.jpg){ .game-hero }
 
 > Lead your movement from different body parts to instantly unlock distinct, committed characters.
 

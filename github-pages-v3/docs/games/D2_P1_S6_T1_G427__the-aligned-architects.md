@@ -62,7 +62,7 @@ aliases:
 
 # The Aligned Architects
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Aligned Architects — infographic](img/D2_P1_S6_T1_G427__the-aligned-architects.jpg){ .game-hero }
 
 > Build an imaginary structure while dynamically negotiating personal boundaries and practicing radical creative honesty.
 

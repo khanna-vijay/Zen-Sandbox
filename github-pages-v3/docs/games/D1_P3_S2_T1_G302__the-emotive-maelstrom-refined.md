@@ -70,7 +70,7 @@ aliases:
 
 # The Emotional Maelstrom
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Emotional Maelstrom — infographic](img/D1_P3_S2_T1_G302__the-emotive-maelstrom-refined.jpg){ .game-hero }
 
 > Navigate rapid, high-commitment physical and vocal shifts to unlock deep emotional fluidity and spontaneous expression.
 

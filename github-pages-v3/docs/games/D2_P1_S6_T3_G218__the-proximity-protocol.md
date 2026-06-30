@@ -58,7 +58,7 @@ aliases:
 
 # The Proximity Protocol
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Proximity Protocol — infographic](img/D2_P1_S6_T3_G218__the-proximity-protocol.jpg){ .game-hero }
 
 > Negotiate physical and emotional intimacy step-by-step using an explicit, structured scale of consent.
 

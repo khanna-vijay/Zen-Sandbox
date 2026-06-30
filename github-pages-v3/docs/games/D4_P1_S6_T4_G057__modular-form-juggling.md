@@ -69,7 +69,7 @@ aliases:
 
 # Modular Format Juggling
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Modular Format Juggling — infographic](img/D4_P1_S6_T4_G057__modular-form-juggling.jpg){ .game-hero }
 
 > Instantly pivot between diverse long-form structures to build hyper-adaptive ensemble cohesion and structural agility.
 

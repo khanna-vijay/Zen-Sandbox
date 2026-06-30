@@ -60,7 +60,7 @@ aliases: []
 
 # The Invisible Jump Rope
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Invisible Jump Rope — infographic](img/D4_P1_S4_T2_G749__jump-rope.jpg){ .game-hero }
 
 > Leap, duck, and clap in perfect synchronization to keep an invisible, high-speed rope moving.
 

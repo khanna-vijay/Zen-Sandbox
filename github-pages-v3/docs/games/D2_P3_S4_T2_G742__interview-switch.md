@@ -63,7 +63,7 @@ aliases: []
 
 # The Expert Exchange
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Expert Exchange — infographic](img/D2_P3_S4_T2_G742__interview-switch.jpg){ .game-hero }
 
 > Rotate roles rapidly, transforming your partner into an instant authority on any bizarre topic.
 

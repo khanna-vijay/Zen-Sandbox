@@ -59,7 +59,7 @@ aliases:
 
 # The Truth Check-In
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Truth Check-In — infographic](img/D2_P1_S6_T1_G611__the-authenticity-test.jpg){ .game-hero }
 
 > Prioritize personal boundaries over polite compliance by practicing real-time, authentic communication during challenging scene offers.
 

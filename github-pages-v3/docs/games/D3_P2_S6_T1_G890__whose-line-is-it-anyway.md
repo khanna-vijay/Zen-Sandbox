@@ -63,7 +63,7 @@ aliases:
 
 # Lines in Pocket
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Lines in Pocket — infographic](img/D3_P2_S6_T1_G890__whose-line-is-it-anyway.jpg){ .game-hero }
 
 > Justify random, pre-written audience lines to keep a grounded scene from collapsing into chaos.
 

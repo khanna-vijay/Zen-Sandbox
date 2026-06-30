@@ -62,7 +62,7 @@ aliases:
 
 # Grandmother's Steps
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Grandmother's Steps — infographic](img/D4_P1_S4_T2_G718__grandmother-s-footsteps.jpg){ .game-hero }
 
 > Creep, freeze, and read the room's rhythm to reach the guardian without getting caught.
 

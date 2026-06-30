@@ -69,7 +69,7 @@ aliases:
 
 # Soundtrack Roulette
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Soundtrack Roulette — infographic](img/D3_P1_S5_T1_G836__shuffle-mix-tape.jpg){ .game-hero }
 
 > Let random musical tracks dictate the physical, emotional, and verbal landscape of your scenes.
 

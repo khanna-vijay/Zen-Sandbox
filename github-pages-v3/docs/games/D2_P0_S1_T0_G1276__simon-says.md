@@ -53,7 +53,7 @@ aliases: []
 
 # Simon Says
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Simon Says — infographic](img/D2_P0_S1_T0_G1276__simon-says.jpg){ .game-hero }
 
 > Sharpen active listening and bypass autopilot by responding only to exact, verified verbal cues.
 

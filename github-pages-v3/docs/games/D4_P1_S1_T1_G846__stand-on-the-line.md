@@ -55,7 +55,7 @@ aliases: []
 
 # The Opinion Axis
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Opinion Axis — infographic](img/D4_P1_S1_T1_G846__stand-on-the-line.jpg){ .game-hero }
 
 > Physically map the ensemble's perspectives to build instant spatial awareness and group connection.
 

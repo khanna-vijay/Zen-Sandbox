@@ -58,7 +58,7 @@ aliases: []
 
 # Vocal Arpeggio
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Vocal Arpeggio — infographic](img/D4_P1_S4_T2_G637__arpeggio.jpg){ .game-hero }
 
 > Pass a broken musical chord around the circle, note by note, in perfect harmonic alignment.
 

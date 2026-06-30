@@ -59,7 +59,7 @@ aliases: []
 
 # Obstacle Chase
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Obstacle Chase — infographic](img/D2_P2_S4_T2_G1004__create-obstacles.jpg){ .game-hero }
 
 > A high-energy, physical chase where players escape by throwing imaginary obstacles for their partner to navigate.
 

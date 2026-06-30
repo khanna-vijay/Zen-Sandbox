@@ -63,7 +63,7 @@ aliases:
 
 # The Fourth Wall Conductor
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Fourth Wall Conductor — infographic](img/D5_P1_S2_T3_G473__the-fourth-wall-conductor.jpg){ .game-hero }
 
 > Orchestrate the room's energy by masterfully opening, closing, and shattering the invisible fourth wall.
 

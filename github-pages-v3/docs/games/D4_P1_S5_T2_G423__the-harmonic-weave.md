@@ -70,7 +70,7 @@ aliases:
 
 # Resonant Threads
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Resonant Threads — infographic](img/D4_P1_S5_T2_G423__the-harmonic-weave.jpg){ .game-hero }
 
 > Weave overlapping, thematic scenes together using intuitive, un-cued transitions and shared emotional resonance.
 

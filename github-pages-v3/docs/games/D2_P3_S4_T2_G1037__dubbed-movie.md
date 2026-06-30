@@ -65,7 +65,7 @@ aliases:
 
 # Dubbed Dialogue
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Dubbed Dialogue — infographic](img/D2_P3_S4_T2_G1037__dubbed-movie.jpg){ .game-hero }
 
 > Physical actors and voice actors collaborate to perform a seamlessly synchronized, highly collaborative scene.
 

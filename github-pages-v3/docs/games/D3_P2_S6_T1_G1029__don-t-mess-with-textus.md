@@ -61,7 +61,7 @@ aliases:
 
 # Text Message Roulette
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Text Message Roulette — infographic](img/D3_P2_S6_T1_G1029__don-t-mess-with-textus.jpg){ .game-hero }
 
 > Justify absurd, out-of-context text messages as logical dialogue in a grounded scene.
 

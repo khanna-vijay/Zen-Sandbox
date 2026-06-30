@@ -58,7 +58,7 @@ aliases: []
 
 # Melodrama
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Melodrama — infographic](img/D1_P1_S2_T1_G767__melodrama.jpg){ .game-hero }
 
 > Elevate the most mundane daily tasks into epic, high-stakes theatrical tragedies.
 

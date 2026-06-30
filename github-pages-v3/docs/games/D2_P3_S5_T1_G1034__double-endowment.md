@@ -60,7 +60,7 @@ aliases: []
 
 # Double Endowment
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Double Endowment — infographic](img/D2_P3_S5_T1_G1034__double-endowment.jpg){ .game-hero }
 
 > Guide your partner to perform a secret physical action using only environmental and physical clues.
 

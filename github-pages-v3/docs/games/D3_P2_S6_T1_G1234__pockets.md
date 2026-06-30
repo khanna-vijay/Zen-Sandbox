@@ -58,7 +58,7 @@ aliases: []
 
 # Pocket Lines
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Pocket Lines — infographic](img/D3_P2_S6_T1_G1234__pockets.jpg){ .game-hero }
 
 > Justify absurd, audience-written lines seamlessly into a grounded, two-person scene.
 

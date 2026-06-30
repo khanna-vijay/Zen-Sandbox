@@ -69,7 +69,7 @@ aliases:
 
 # The Resonance Canvas
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Resonance Canvas — infographic](img/D4_P1_S3_T1_G235__the-resonance-canvas.jpg){ .game-hero }
 
 > Transform abstract physical impulses into a rich, populated environment through a three-stage ensemble progression.
 

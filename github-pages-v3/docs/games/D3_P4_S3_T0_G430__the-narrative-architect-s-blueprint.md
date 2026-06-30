@@ -64,7 +64,7 @@ aliases: []
 
 # The Story Architect
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Story Architect — infographic](img/D3_P4_S3_T0_G430__the-narrative-architect-s-blueprint.jpg){ .game-hero }
 
 > Build strong narrative arcs by stepping out to explicitly declare and integrate key story elements.
 

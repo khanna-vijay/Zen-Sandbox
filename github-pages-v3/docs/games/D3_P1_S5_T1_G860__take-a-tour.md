@@ -59,7 +59,7 @@ aliases: []
 
 # The Portal Tour
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Portal Tour — infographic](img/D3_P1_S5_T1_G860__take-a-tour.jpg){ .game-hero }
 
 > Lead your team through imaginary thresholds to build rich, physical environments through shared movement.
 

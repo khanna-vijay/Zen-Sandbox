@@ -63,7 +63,7 @@ aliases:
 
 # Background Biomes
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Background Biomes — infographic](img/D2_P2_S4_T1_G330__remote-reality-the-living-environment.jpg){ .game-hero }
 
 > Co-create immersive digital worlds using virtual backgrounds, physical mime, and radical 'Yes, And' acceptance.
 

@@ -61,7 +61,7 @@ aliases:
 
 # Resonance Circle
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Resonance Circle — infographic](img/D2_P2_S3_T1_G1291__sound-circle.jpg){ .game-hero }
 
 > Pass, mirror, and transform spontaneous sounds and physical gestures around a high-energy circle.
 

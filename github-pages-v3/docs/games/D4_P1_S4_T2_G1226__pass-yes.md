@@ -59,7 +59,7 @@ aliases:
 
 # Pass Yes
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Pass Yes — infographic](img/D4_P1_S4_T2_G1226__pass-yes.jpg){ .game-hero }
 
 > A rapid-fire circle game of agreement, reversal, and shared rhythmic momentum.
 

@@ -59,7 +59,7 @@ aliases:
 
 # Beatnik Poetry Slam
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Beatnik Poetry Slam — infographic](img/D1_P2_S1_T2_G950__beatnik-poet.jpg){ .game-hero }
 
 > Improvise pretentious rhyming poetry and fail spectacularly when the audience calls you out.
 

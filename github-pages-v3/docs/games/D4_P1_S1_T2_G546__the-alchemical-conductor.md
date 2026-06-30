@@ -62,7 +62,7 @@ aliases: []
 
 # The Shared Baton
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Shared Baton — infographic](img/D4_P1_S1_T2_G546__the-alchemical-conductor.jpg){ .game-hero }
 
 > Guide the collective energy, pacing, and emotion of a scene through subtle, shared non-verbal leadership.
 

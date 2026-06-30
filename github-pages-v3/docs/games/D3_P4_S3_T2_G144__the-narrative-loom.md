@@ -66,7 +66,7 @@ aliases:
 
 # The Story Loom
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Story Loom — infographic](img/D3_P4_S3_T2_G144__the-narrative-loom.jpg){ .game-hero }
 
 > Weave tight, escalating storylines by explicitly calling out triggers and mandating their dramatic consequences.
 

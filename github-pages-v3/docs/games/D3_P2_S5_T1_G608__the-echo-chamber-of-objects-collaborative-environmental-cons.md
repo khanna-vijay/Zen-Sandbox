@@ -66,7 +66,7 @@ aliases:
 
 # The Object Echo Chain
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Object Echo Chain — infographic](img/D3_P2_S5_T1_G608__the-echo-chamber-of-objects-collaborative-environmental-cons.jpg){ .game-hero }
 
 > Build a rich, physically consistent world by letting every new object justify the last.
 

@@ -56,7 +56,7 @@ aliases: []
 
 # The Obvious Entrance
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Obvious Entrance — infographic](img/D1_P4_S1_T2_G651__casino-game.jpg){ .game-hero }
 
 > Banish hesitation by launching into scenes with the most immediate, obvious choice possible.
 

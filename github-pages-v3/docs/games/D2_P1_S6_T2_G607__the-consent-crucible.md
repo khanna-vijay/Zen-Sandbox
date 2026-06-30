@@ -61,7 +61,7 @@ aliases:
 
 # The Boundary Lab
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Boundary Lab — infographic](img/D2_P1_S6_T2_G607__the-consent-crucible.jpg){ .game-hero }
 
 > Practice navigating real-time boundary challenges and empowering 'Cut' calls in a supportive, structured environment.
 

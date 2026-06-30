@@ -57,7 +57,7 @@ aliases: []
 
 # The Touchstone Scene
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Touchstone Scene — infographic](img/D2_P1_S6_T3_G488__the-touchstone-scene.jpg){ .game-hero }
 
 > Master physical contact in scenes by explicitly negotiating every touch before it happens.
 

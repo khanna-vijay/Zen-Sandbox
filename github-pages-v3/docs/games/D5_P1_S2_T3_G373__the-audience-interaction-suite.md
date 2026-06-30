@@ -63,7 +63,7 @@ aliases: []
 
 # The Fourth Wall Tension Wire
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Fourth Wall Tension Wire — infographic](img/D5_P1_S2_T3_G373__the-audience-interaction-suite.jpg){ .game-hero }
 
 > Master the boundary between performance and spectator using real-time visual cues to channel audience energy.
 

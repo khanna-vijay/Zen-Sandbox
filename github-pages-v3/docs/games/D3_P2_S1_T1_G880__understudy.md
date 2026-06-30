@@ -60,7 +60,7 @@ aliases: []
 
 # Understudy
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Understudy — infographic](img/D3_P2_S1_T1_G880__understudy.jpg){ .game-hero }
 
 > Heighten character patterns and emotional games by stepping into another actor's shoes mid-scene.
 

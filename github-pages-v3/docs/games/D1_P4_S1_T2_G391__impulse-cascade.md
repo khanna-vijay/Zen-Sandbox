@@ -66,7 +66,7 @@ aliases: []
 
 # Impulse Cascade
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Impulse Cascade — infographic](img/D1_P4_S1_T2_G391__impulse-cascade.jpg){ .game-hero }
 
 > A rapid-fire physical and vocal chain reaction that bypasses the inner critic instantly.
 

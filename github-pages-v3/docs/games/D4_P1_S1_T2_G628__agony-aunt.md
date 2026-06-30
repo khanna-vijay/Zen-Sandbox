@@ -61,7 +61,7 @@ aliases:
 
 # The Collective Advice Columnist
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Collective Advice Columnist — infographic](img/D4_P1_S1_T2_G628__agony-aunt.jpg){ .game-hero }
 
 > Solve audience problems one word at a time as a single, unified advice columnist.
 

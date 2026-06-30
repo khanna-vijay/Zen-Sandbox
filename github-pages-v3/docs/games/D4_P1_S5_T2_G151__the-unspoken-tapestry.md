@@ -64,7 +64,7 @@ aliases:
 
 # The Sonic Loom
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Sonic Loom — infographic](img/D4_P1_S5_T2_G151__the-unspoken-tapestry.jpg){ .game-hero }
 
 > Weave abstract themes and dynamic ambient soundscapes into a unified, multi-sensory ensemble montage.
 

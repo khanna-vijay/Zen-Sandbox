@@ -69,7 +69,7 @@ aliases: []
 
 # Attunement Waves
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Attunement Waves — infographic](img/D2_P3_S3_T2_G336__resonance-rebalance.jpg){ .game-hero }
 
 > Sync physically, echo emotionally, and weave status dynamics to build deep, intuitive partner connection.
 

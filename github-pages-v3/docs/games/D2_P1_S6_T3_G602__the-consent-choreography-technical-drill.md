@@ -59,7 +59,7 @@ aliases:
 
 # The Physical Agreement Drill
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Physical Agreement Drill — infographic](img/D2_P1_S6_T3_G602__the-consent-choreography-technical-drill.jpg){ .game-hero }
 
 > Master the art of precise physical negotiation, prioritizing personal comfort over theatrical momentum.
 

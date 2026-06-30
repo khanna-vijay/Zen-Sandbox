@@ -59,7 +59,7 @@ aliases:
 
 # Reverse Interview
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Reverse Interview — infographic](img/D3_P4_S6_T1_G941__backwards-interview.jpg){ .game-hero }
 
 > Conduct a talk show in reverse, justifying answers before the questions are even asked.
 

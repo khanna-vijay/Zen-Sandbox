@@ -59,7 +59,7 @@ aliases: []
 
 # Character Swap
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Character Swap — infographic](img/D2_P3_S3_T1_G983__character-swap.jpg){ .game-hero }
 
 > Step directly into your partner's physical and vocal shoes mid-scene to master deep physical empathy.
 

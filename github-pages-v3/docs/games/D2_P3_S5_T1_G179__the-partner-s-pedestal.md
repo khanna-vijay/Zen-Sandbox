@@ -71,7 +71,7 @@ aliases:
 
 # The Partner's Pedestal
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Partner's Pedestal — infographic](img/D2_P3_S5_T1_G179__the-partner-s-pedestal.jpg){ .game-hero }
 
 > Elevate your partner to legendary status through relentless, reciprocal gifting and physical attunement.
 

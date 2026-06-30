@@ -59,7 +59,7 @@ aliases:
 
 # The Mastermind's Briefing
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Mastermind's Briefing — infographic](img/D2_P3_S5_T1_G1005__crime-endowments.jpg){ .game-hero }
 
 > Equip your clueless boss with heist details by treating them like an absolute genius.
 

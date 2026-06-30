@@ -60,7 +60,7 @@ aliases:
 
 # Boundary Archetypes
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Boundary Archetypes — infographic](img/D2_P1_S6_T1_G597__boundary-archetypes-the-navigator-s-challenge.jpg){ .game-hero }
 
 > Navigate contrasting personal boundaries and practice real-time consent tools through character-driven scene work.
 

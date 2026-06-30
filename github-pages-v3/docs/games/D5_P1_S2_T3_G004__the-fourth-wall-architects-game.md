@@ -64,7 +64,7 @@ aliases:
 
 # Architects of the Wall
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Architects of the Wall — infographic](img/D5_P1_S2_T3_G004__the-fourth-wall-architects-game.jpg){ .game-hero }
 
 > Master the invisible boundary by deliberately building, softening, and breaking the fourth wall with your audience.
 

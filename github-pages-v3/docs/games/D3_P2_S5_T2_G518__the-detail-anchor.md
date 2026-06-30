@@ -60,7 +60,7 @@ aliases: []
 
 # The Detail Anchor
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Detail Anchor — infographic](img/D3_P2_S5_T2_G518__the-detail-anchor.jpg){ .game-hero }
 
 > Lock down your scene's reality by transforming every spoken detail into a launchpad for action.
 

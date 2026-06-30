@@ -60,7 +60,7 @@ aliases:
 
 # Intentional Intersections
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Intentional Intersections — infographic](img/D2_P1_S6_T2_G120__the-intent-imbroglio.jpg){ .game-hero }
 
 > Navigate ambiguous character motives while practicing explicit, active consent and boundary-setting in real time.
 

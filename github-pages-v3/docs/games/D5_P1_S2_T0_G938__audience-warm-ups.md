@@ -54,7 +54,7 @@ aliases: []
 
 # Audience Orchestration
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Audience Orchestration — infographic](img/D5_P1_S2_T0_G938__audience-warm-ups.jpg){ .game-hero }
 
 > Transform a passive crowd into an active, responsive ensemble using physical and vocal conducting.
 

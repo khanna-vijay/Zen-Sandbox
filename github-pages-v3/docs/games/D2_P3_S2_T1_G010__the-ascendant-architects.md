@@ -72,7 +72,7 @@ aliases:
 
 # Status Architects
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Status Architects — infographic](img/D2_P3_S2_T1_G010__the-ascendant-architects.jpg){ .game-hero }
 
 > Master the silent shifts of power and elevate your partner through physical status modulation.
 

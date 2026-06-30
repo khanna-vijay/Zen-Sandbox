@@ -58,7 +58,7 @@ aliases: []
 
 # The Silent Sculptor
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Silent Sculptor — infographic](img/D2_P3_S3_T1_G933__artist-model-clay.jpg){ .game-hero }
 
 > Recreate a hidden physical pose using only silent, touch-free guidance and deep physical empathy.
 

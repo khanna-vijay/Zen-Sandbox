@@ -55,7 +55,7 @@ aliases:
 
 # Rhyme Retraction
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Rhyme Retraction — infographic](img/D3_P2_S6_T1_G1003__crabtrees-conundrum.jpg){ .game-hero }
 
 > Justify sudden, rhyming shifts in your scene's reality whenever your partner mishears you.
 

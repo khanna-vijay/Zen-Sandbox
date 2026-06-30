@@ -65,7 +65,7 @@ aliases:
 
 # Greatest Hits
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Greatest Hits — infographic](img/D2_P3_S5_T1_G1100__greatest-hits.jpg){ .game-hero }
 
 > Pitch ridiculous song titles and genres to force your partners into instant musical stardom.
 

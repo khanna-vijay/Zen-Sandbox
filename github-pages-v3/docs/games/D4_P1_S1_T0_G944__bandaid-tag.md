@@ -54,7 +54,7 @@ aliases:
 
 # Bandage Tag
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Bandage Tag — infographic](img/D4_P1_S1_T0_G944__bandaid-tag.jpg){ .game-hero }
 
 > A high-energy tag game where players balance self-preservation with rescuing frozen teammates.
 

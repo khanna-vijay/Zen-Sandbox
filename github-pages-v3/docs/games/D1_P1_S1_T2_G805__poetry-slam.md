@@ -61,7 +61,7 @@ aliases: []
 
 # Slam Poetry Showdown
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Slam Poetry Showdown — infographic](img/D1_P1_S1_T2_G805__poetry-slam.jpg){ .game-hero }
 
 > Step up to the microphone and unleash passionate, unedited verses with absolute, unapologetic commitment.
 

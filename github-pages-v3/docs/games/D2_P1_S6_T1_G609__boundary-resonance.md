@@ -60,7 +60,7 @@ aliases: []
 
 # Boundary Echoes
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Boundary Echoes — infographic](img/D2_P1_S6_T1_G609__boundary-resonance.jpg){ .game-hero }
 
 > Navigate fictional character boundaries to trigger dynamic narrative shifts and heighten dramatic stakes.
 

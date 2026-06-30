@@ -58,7 +58,7 @@ aliases:
 
 # The Unwitting Hijacker
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Unwitting Hijacker — infographic](img/D2_P3_S1_T0_G1119__hijacker.jpg){ .game-hero }
 
 > A clueless hijacker must discover their vehicle, weapon, and demands through active listening and physical clues.
 

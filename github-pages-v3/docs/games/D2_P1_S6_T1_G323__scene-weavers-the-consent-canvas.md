@@ -59,7 +59,7 @@ aliases:
 
 # The Negotiation Canvas
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Negotiation Canvas — infographic](img/D2_P1_S6_T1_G323__scene-weavers-the-consent-canvas.jpg){ .game-hero }
 
 > Transform boundary negotiation into a collaborative, generative tool by pausing scenes to check in.
 

@@ -60,7 +60,7 @@ aliases: []
 
 # The Ensemble Current
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Ensemble Current — infographic](img/D4_P1_S4_T2_G540__the-ensemble-current.jpg){ .game-hero }
 
 > Cooperatively shape, hold, and release a scene's collective emotional and physical energy on command.
 

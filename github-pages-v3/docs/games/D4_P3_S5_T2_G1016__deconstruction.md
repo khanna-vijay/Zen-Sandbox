@@ -58,7 +58,7 @@ aliases: []
 
 # Deconstruction
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Deconstruction — infographic](img/D4_P3_S5_T2_G1016__deconstruction.jpg){ .game-hero }
 
 > Dismantle a single rich scene to spin off a web of interconnected stories.
 

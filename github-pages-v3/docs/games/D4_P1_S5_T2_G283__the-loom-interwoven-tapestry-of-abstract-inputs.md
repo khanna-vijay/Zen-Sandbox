@@ -68,7 +68,7 @@ aliases:
 
 # The Loom
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Loom — infographic](img/D4_P1_S5_T2_G283__the-loom-interwoven-tapestry-of-abstract-inputs.jpg){ .game-hero }
 
 > Collaboratively weave a rich, multi-layered physical and verbal tapestry from abstract, non-sequitur inputs.
 

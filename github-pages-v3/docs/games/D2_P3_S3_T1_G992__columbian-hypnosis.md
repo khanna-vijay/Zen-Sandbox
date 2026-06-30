@@ -56,7 +56,7 @@ aliases: []
 
 # Magnetic Palm
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Magnetic Palm — infographic](img/D2_P3_S3_T1_G992__columbian-hypnosis.jpg){ .game-hero }
 
 > Lead your partner through space using only the magnetic pull of your open hand.
 

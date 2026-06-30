@@ -57,7 +57,7 @@ aliases: []
 
 # The Appreciation Seat
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Appreciation Seat — infographic](img/D4_P1_S2_T0_G809__positive-chair.jpg){ .game-hero }
 
 > Shower a single player with genuine, specific praise to build trust and ensemble connection.
 

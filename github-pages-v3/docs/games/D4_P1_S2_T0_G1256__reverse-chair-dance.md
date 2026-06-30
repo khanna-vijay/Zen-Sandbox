@@ -60,7 +60,7 @@ aliases: []
 
 # Collective Chairs
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Collective Chairs — infographic](img/D4_P1_S2_T0_G1256__reverse-chair-dance.jpg){ .game-hero }
 
 > A cooperative twist on musical chairs where everyone wins by lifting each other up.
 

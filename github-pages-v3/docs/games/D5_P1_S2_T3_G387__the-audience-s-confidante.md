@@ -65,7 +65,7 @@ aliases:
 
 # The Confidante's Aside
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Confidante's Aside — infographic](img/D5_P1_S2_T3_G387__the-audience-s-confidante.jpg){ .game-hero }
 
 > Step out of the scene to share secrets with your ultimate partner: the audience.
 

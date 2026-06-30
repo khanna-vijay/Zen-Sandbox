@@ -66,7 +66,7 @@ aliases:
 
 # The Living Grid
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Living Grid — infographic](img/D4_P1_S1_T2_G002__the-emergent-canvas.jpg){ .game-hero }
 
 > Co-create and evolve the very rules of your performance format in real-time, completely non-verbally.
 

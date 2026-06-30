@@ -60,7 +60,7 @@ aliases: []
 
 # The Emotional Household
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Emotional Household — infographic](img/D3_P1_S2_T1_G695__emotional-family.jpg){ .game-hero }
 
 > Escalate a single shared emotion to its absolute peak within a domestic family scene.
 

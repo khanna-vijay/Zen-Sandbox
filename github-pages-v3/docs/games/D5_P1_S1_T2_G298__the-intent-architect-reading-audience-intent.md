@@ -62,7 +62,7 @@ aliases: []
 
 # The Intent Architect
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Intent Architect — infographic](img/D5_P1_S1_T2_G298__the-intent-architect-reading-audience-intent.jpg){ .game-hero }
 
 > Decode the unspoken emotional desires behind audience suggestions to build deeply resonant, high-impact scenes.
 

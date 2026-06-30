@@ -72,7 +72,7 @@ aliases:
 
 # Engine Lock-In
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Engine Lock-In — infographic](img/D3_P4_S3_T0_G579__systemic-narrative-architecture-training-framework-games.jpg){ .game-hero }
 
 > Identify, freeze, and supercharge the hidden pattern driving your scene's narrative momentum.
 

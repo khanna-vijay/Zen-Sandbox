@@ -63,7 +63,7 @@ aliases: []
 
 # Resonant States
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Resonant States — infographic](img/D1_P1_S2_T2_G467__the-inner-world-weaver.jpg){ .game-hero }
 
 > Embody raw emotional impulses while carrying the subtle physical residue of the player before you.
 

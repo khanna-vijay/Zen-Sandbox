@@ -58,7 +58,7 @@ aliases: []
 
 # Name, Letter, Number
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Name, Letter, Number — infographic](img/D4_P1_S1_T2_G1155__letter-number-name.jpg){ .game-hero }
 
 > Simultaneously pass names, letters, and numbers around a circle using distinct physical gestures.
 

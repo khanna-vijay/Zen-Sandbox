@@ -77,7 +77,7 @@ aliases:
 
 # The Resonance Eddy
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Resonance Eddy — infographic](img/D1_P4_S1_T2_G145__the-sentient-eddy.jpg){ .game-hero }
 
 > Transmute raw physical impulses and rapid emotional shifts through a continuous, high-energy circle.
 

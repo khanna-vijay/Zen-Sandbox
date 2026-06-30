@@ -61,7 +61,7 @@ aliases: []
 
 # The Collective Conscience
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Collective Conscience — infographic](img/D5_P1_S2_T3_G484__the-fourth-wall-oracle.jpg){ .game-hero }
 
 > Transform the audience's non-verbal energy into your character's active, guiding internal monologue.
 

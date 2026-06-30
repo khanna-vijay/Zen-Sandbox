@@ -62,7 +62,7 @@ aliases: []
 
 # Boring Scene Celebration
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Boring Scene Celebration — infographic](img/D1_P2_S1_T2_G647__boring-scenes-circle.jpg){ .game-hero }
 
 > Embrace the ordinary and celebrate the mundane to unlock effortless, pressure-free spontaneity.
 

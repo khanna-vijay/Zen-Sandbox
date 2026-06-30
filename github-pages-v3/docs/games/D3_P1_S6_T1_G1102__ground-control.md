@@ -62,7 +62,7 @@ aliases: []
 
 # Ground Control
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Ground Control — infographic](img/D3_P1_S6_T1_G1102__ground-control.jpg){ .game-hero }
 
 > Puppeteer your partner's movements with flashlights, forcing them to justify every absurd physical choice.
 

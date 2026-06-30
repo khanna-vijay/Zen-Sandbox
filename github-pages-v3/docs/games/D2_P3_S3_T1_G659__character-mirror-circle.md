@@ -64,7 +64,7 @@ aliases: []
 
 # Character Mirror Circle
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Character Mirror Circle — infographic](img/D2_P3_S3_T1_G659__character-mirror-circle.jpg){ .game-hero }
 
 > Step into the center of a living mirror to amplify and discover your character's soul.
 

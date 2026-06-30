@@ -62,7 +62,7 @@ aliases: []
 
 # The Live Feed
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Live Feed — infographic](img/D5_P1_S2_T3_G491__the-audience-navigator.jpg){ .game-hero }
 
 > Step out of the scene to check the room's pulse and instantly adapt your performance.
 

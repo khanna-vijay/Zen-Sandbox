@@ -57,7 +57,7 @@ aliases: []
 
 # Boundary Braille
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Boundary Braille — infographic](img/D2_P1_S6_T1_G244__boundary-braille.jpg){ .game-hero }
 
 > Pause, check in, and negotiate physical and emotional boundaries in real-time during active scenes.
 

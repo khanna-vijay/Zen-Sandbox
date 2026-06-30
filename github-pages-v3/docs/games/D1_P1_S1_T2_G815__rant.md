@@ -59,7 +59,7 @@ aliases: []
 
 # Opposite Rants
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Opposite Rants — infographic](img/D1_P1_S1_T2_G815__rant.jpg){ .game-hero }
 
 > Unleash high-energy, unfiltered passion by passionately defending the indefensible and hating the beloved.
 

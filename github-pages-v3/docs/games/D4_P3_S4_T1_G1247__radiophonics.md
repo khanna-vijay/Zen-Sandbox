@@ -59,7 +59,7 @@ aliases: []
 
 # Sonic Dial
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Sonic Dial — infographic](img/D4_P3_S4_T1_G1247__radiophonics.jpg){ .game-hero }
 
 > A music-driven long-form format where every scene is inspired by and physically contains the soundtrack.
 

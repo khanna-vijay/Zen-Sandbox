@@ -59,7 +59,7 @@ aliases: []
 
 # The Unwitting Guest
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Unwitting Guest — infographic](img/D3_P4_S3_T2_G1107__guest-game.jpg){ .game-hero }
 
 > An innocent visitor navigates a strange environment where the hosts harbor a shared, unspoken secret.
 

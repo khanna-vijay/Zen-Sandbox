@@ -65,7 +65,7 @@ aliases:
 
 # The Permeable Wall
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Permeable Wall — infographic](img/D5_P1_S2_T3_G416__the-permeable-wall.jpg){ .game-hero }
 
 > Calibrate your connection to the crowd by dynamically thinning or thickening the fourth wall.
 

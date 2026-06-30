@@ -63,7 +63,7 @@ aliases:
 
 # Shifting Foundations
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Shifting Foundations — infographic](img/D3_P4_S6_T1_G152__the-unstable-reality.jpg){ .game-hero }
 
 > Adapt to sudden, fundamental changes in your scene's reality by retroactively justifying everything before.
 

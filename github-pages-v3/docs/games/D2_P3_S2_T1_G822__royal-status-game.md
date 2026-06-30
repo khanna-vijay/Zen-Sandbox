@@ -60,7 +60,7 @@ aliases:
 
 # The Sovereign's Snap
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Sovereign's Snap — infographic](img/D2_P3_S2_T1_G822__royal-status-game.jpg){ .game-hero }
 
 > Explore extreme status dynamics where a single snap of the fingers means instant, dramatic demise.
 

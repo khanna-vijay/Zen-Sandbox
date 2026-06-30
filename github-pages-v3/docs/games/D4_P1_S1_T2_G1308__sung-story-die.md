@@ -66,7 +66,7 @@ aliases:
 
 # Melodic Story-Pass
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Melodic Story-Pass — infographic](img/D4_P1_S1_T2_G1308__sung-story-die.jpg){ .game-hero }
 
 > A high-energy musical elimination game where players seamlessly pass a sung narrative on a conductor's cue.
 

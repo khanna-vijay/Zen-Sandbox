@@ -59,7 +59,7 @@ aliases: []
 
 # Walkabout Greetings
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Walkabout Greetings — infographic](img/D1_P4_S3_T1_G766__meet-greet-walkabout.jpg){ .game-hero }
 
 > Transform your posture, status, and relationships instantly with every person you pass in the room.
 

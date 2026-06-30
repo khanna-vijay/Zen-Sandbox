@@ -61,7 +61,7 @@ aliases:
 
 # Safety Net Scenarios
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Safety Net Scenarios — infographic](img/D2_P1_S6_T2_G305__the-safetynet-scenarios.jpg){ .game-hero }
 
 > Practice navigating boundaries and calling "cut" in a supportive, iterative scene-work laboratory.
 

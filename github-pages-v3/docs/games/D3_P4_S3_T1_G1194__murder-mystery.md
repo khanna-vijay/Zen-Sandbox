@@ -62,7 +62,7 @@ aliases:
 
 # Chamber Murder Mystery
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Chamber Murder Mystery — infographic](img/D3_P4_S3_T1_G1194__murder-mystery.jpg){ .game-hero }
 
 > Co-create a classic detective story complete with motives, flashbacks, and a dramatic slow-motion reveal.
 

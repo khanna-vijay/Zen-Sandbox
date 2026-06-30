@@ -63,7 +63,7 @@ aliases:
 
 # The Playlist
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Playlist — infographic](img/D4_P3_S6_T3_G623__5-titles-10-titles.jpg){ .game-hero }
 
 > Improvise a high-contrast sequence of scenes inspired by a visible list of audience-generated titles.
 

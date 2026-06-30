@@ -66,7 +66,7 @@ aliases: []
 
 # The Invocation
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Invocation — infographic](img/D4_P1_S3_T1_G1136__invocation.jpg){ .game-hero }
 
 > Elevate a mundane object into a mythic deity to inspire rich, thematic ensemble scenes.
 

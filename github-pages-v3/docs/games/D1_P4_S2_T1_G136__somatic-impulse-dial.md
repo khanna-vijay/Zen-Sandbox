@@ -67,7 +67,7 @@ aliases:
 
 # Somatic Impulse Dial
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Somatic Impulse Dial — infographic](img/D1_P4_S2_T1_G136__somatic-impulse-dial.jpg){ .game-hero }
 
 > Access, scale, and rapidly transition between deep emotional states using precise physical and vocal triggers.
 
