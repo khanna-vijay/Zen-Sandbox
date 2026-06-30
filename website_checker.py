@@ -29,6 +29,7 @@ Options:
 """
 import argparse
 import random
+import re
 import sys
 import time
 from collections import defaultdict, deque
@@ -59,6 +60,10 @@ class LinkParser(HTMLParser):
         elif tag == "script" and d.get("src"):
             self.links.append(("script", d["src"]))
         elif tag == "link" and d.get("href"):
+            rel = (d.get("rel") or "").lower()
+            # preconnect / dns-prefetch are connection hints, not fetchable documents.
+            if "preconnect" in rel or "dns-prefetch" in rel:
+                return
             self.links.append(("asset", d["href"]))
 
 
@@ -73,6 +78,11 @@ def fetch(url, timeout, method="GET", retries=2):
                 body = r.read() if method == "GET" else b""
                 return r.status, r.headers.get("Content-Type", ""), body
         except HTTPError as e:
+            # Retry transient server/rate-limit responses; return real client errors at once.
+            if e.code in (429, 500, 502, 503, 504) and attempt < retries:
+                last = (e.code, f"HTTP {e.code}", b"")
+                time.sleep(0.6 * (attempt + 1))
+                continue
             return e.code, e.headers.get("Content-Type", "") if e.headers else "", b""
         except (URLError, TimeoutError, ConnectionError) as e:
             last = (0, f"{type(e).__name__}: {getattr(e, 'reason', e)}", b"")
@@ -94,6 +104,27 @@ def norm(base):
     return base if base.endswith("/") else base + "/"
 
 
+def canon(u):
+    """Normalize a URL for de-duplication: add a trailing slash to directory-style paths
+    (no file extension), so `/x` and `/x/` aren't crawled as two separate pages."""
+    p = urlparse(u)
+    path = p.path or "/"
+    last = path.rsplit("/", 1)[-1]
+    if last and "." not in last and not path.endswith("/"):
+        path += "/"
+    return p._replace(path=path, fragment="").geturl()
+
+
+def seed_from_sitemap(base, timeout):
+    """Return all <loc> URLs from <base>sitemap.xml — covers pages that are only linked
+    via JavaScript (e.g. a JS-rendered index), which a static crawler can't discover."""
+    code, _ct, body = fetch(urljoin(base, "sitemap.xml"), timeout, "GET")
+    if code != 200 or not body:
+        return []
+    locs = re.findall(r"<loc>\s*([^<\s]+)\s*</loc>", body.decode("utf-8", "ignore"))
+    return [urldefrag(u)[0] for u in locs]
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("base", nargs="?", default="https://khanna-vijay.github.io/Zen-Sandbox/")
@@ -105,6 +136,8 @@ def main():
     ap.add_argument("--delay", type=float, default=0.0)
     ap.add_argument("--workers", type=int, default=8)
     ap.add_argument("--skip-external", action="store_true")
+    ap.add_argument("--no-sitemap", action="store_true",
+                    help="don't seed the crawl from sitemap.xml")
     ap.add_argument("--seed", type=int, default=None)
     args = ap.parse_args()
 
@@ -121,6 +154,10 @@ def main():
     page_links = {}                 # page -> kind set (for typing)
     visited = set()
     queue = deque([base])
+    if not args.no_sitemap:
+        seeds = [canon(u) for u in seed_from_sitemap(base, args.timeout) if internal(u)]
+        print(f"[sitemap] seeded {len(seeds)} URLs", file=sys.stderr)
+        queue.extend(seeds)
     crawled = 0
 
     print(f"[crawl] start {base}", file=sys.stderr)
@@ -148,6 +185,7 @@ def main():
             target = urldefrag(urljoin(page, raw))[0]
             if not target.startswith(("http://", "https://")):
                 continue
+            target = canon(target)
             refs[target].add(page)
             if kind == "link" and internal(target):
                 graph[page].append(target)
