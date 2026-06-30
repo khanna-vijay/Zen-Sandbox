@@ -64,7 +64,7 @@ aliases:
 
 # Boundary Bridges
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Boundary Bridges — infographic](img/D2_P1_S6_T1_G335__boundary-bridge-builders.jpg){ .game-hero }
 
 > Navigate physical and emotional boundaries in real time through explicit, collaborative negotiation.
 

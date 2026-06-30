@@ -55,7 +55,7 @@ aliases: []
 
 # The Trivia Bluff
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Trivia Bluff — infographic](img/D1_P4_S1_T2_G1345__trivial-pursuit.jpg){ .game-hero }
 
 > Answer real trivia questions with instant, highly confident, completely fabricated explanations.
 

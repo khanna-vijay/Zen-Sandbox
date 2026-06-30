@@ -59,7 +59,7 @@ aliases:
 
 # The Consent Navigator
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Consent Navigator — infographic](img/D2_P1_S6_T1_G184__the-consent-navigator-scene.jpg){ .game-hero }
 
 > Real-time coaching to master physical boundaries, active check-ins, and authentic choices in every scene.
 

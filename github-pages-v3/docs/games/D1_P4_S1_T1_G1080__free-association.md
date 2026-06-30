@@ -56,7 +56,7 @@ aliases:
 
 # Rapid Word Association
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Rapid Word Association — infographic](img/D1_P4_S1_T1_G1080__free-association.jpg){ .game-hero }
 
 > Bypass your inner editor by instantly passing the very first word that comes to mind.
 

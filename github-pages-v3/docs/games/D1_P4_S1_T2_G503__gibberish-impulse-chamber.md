@@ -66,7 +66,7 @@ aliases: []
 
 # Gibberish Impulse Chamber
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Gibberish Impulse Chamber — infographic](img/D1_P4_S1_T2_G503__gibberish-impulse-chamber.jpg){ .game-hero }
 
 > Bypass your inner editor and unleash instant, physicalized expression through high-speed gibberish disruptions.
 

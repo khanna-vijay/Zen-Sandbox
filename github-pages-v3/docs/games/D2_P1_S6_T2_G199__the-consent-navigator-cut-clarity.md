@@ -60,7 +60,7 @@ aliases:
 
 # Boundary Compass
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Boundary Compass — infographic](img/D2_P1_S6_T2_G199__the-consent-navigator-cut-clarity.jpg){ .game-hero }
 
 > Navigate personal boundaries in real-time scenes using active check-ins and empowering cut calls.
 

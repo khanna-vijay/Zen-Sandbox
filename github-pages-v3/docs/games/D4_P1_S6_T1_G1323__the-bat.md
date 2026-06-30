@@ -65,7 +65,7 @@ aliases:
 
 # The Bat
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Bat — infographic](img/D4_P1_S6_T1_G1323__the-bat.jpg){ .game-hero }
 
 > An immersive, entirely auditory long-form improv format performed in complete darkness.
 

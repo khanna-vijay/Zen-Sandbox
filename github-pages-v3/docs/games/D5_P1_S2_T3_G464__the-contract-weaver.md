@@ -61,7 +61,7 @@ aliases:
 
 # The Reality Stitch
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Reality Stitch — infographic](img/D5_P1_S2_T3_G464__the-contract-weaver.jpg){ .game-hero }
 
 > Master the art of the subtle fourth-wall break and seamless return to scene reality.
 

@@ -59,7 +59,7 @@ aliases:
 
 # The Calibration Scene
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Calibration Scene — infographic](img/D2_P1_S6_T2_G001__the-calibration-scene.jpg){ .game-hero }
 
 > Make consent the dramatic engine by explicitly negotiating physical and emotional boundaries in real-time.
 

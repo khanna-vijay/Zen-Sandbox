@@ -62,7 +62,7 @@ aliases: []
 
 # The Character Bag
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Character Bag — infographic](img/D2_P2_S4_T2_G1321__the-bag.jpg){ .game-hero }
 
 > Discover a rich character by unpacking imaginary items and answering curious questions.
 

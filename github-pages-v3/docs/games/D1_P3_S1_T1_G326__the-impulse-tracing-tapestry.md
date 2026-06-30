@@ -73,7 +73,7 @@ aliases: []
 
 # The Impulse Tapestry
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Impulse Tapestry — infographic](img/D1_P3_S1_T1_G326__the-impulse-tracing-tapestry.jpg){ .game-hero }
 
 > Translate one player's raw, unfolding internal landscape into a collective physical and vocal symphony.
 

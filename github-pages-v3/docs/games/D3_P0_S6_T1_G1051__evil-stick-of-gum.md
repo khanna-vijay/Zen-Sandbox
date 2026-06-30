@@ -60,7 +60,7 @@ aliases:
 
 # The Mischievous Mouthpiece
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Mischievous Mouthpiece — infographic](img/D3_P0_S6_T1_G1051__evil-stick-of-gum.jpg){ .game-hero }
 
 > Justify the outrageous, sabotaging statements spoken by an invisible, sentient object in your mouth.
 

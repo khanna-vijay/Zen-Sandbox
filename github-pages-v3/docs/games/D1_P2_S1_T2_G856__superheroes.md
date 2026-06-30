@@ -66,7 +66,7 @@ aliases: []
 
 # Unlikely Superheroes
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Unlikely Superheroes — infographic](img/D1_P2_S1_T2_G856__superheroes.jpg){ .game-hero }
 
 > Save the world from absurd crises using highly specific, completely useless superpowers.
 

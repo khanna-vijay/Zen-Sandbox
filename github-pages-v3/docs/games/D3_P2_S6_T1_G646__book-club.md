@@ -59,7 +59,7 @@ aliases: []
 
 # Book Club
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Book Club — infographic](img/D3_P2_S6_T1_G646__book-club.jpg){ .game-hero }
 
 > Two players read random book lines while one player desperately justifies them into a coherent scene.
 

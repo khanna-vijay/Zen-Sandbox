@@ -48,7 +48,7 @@ aliases: []
 
 # What Has Changed
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![What Has Changed — infographic](img/D2_P3_S1_T0_G1360__what-has-changed.jpg){ .game-hero }
 
 > Sharpen your observational focus by noticing subtle physical shifts in your partner.
 

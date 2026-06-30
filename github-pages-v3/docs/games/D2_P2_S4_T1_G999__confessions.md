@@ -58,7 +58,7 @@ aliases: []
 
 # The Confessional
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Confessional — infographic](img/D2_P2_S4_T1_G999__confessions.jpg){ .game-hero }
 
 > Transform bizarre audience secrets into rapid-fire comedic exchanges through instant character commitment.
 
