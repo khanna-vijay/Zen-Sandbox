@@ -1,0 +1,631 @@
+# =============================================================================
+# Improv Workshops — Curriculum Blueprint (the authored pedagogy)
+# 52 one-hour sessions: Beginner 16 + Intermediate 18 + Advanced 18.
+# Drives generate.py.  Edit here + rerun => regenerated curriculum.
+#
+# Per-session fields:
+#   course, week, title, essence        (identity)
+#   domain        : 1..5  (or "all" for integration weeks)
+#   skill         : primary framework skill ID, e.g. "D2.S1"  (game-selection target)
+#   also          : [secondary skill IDs]            (optional; broadens game gate + theory links)
+#   meta          : reflection key override for non-skill weeks (engine-selection / principles / serve-the-piece / integration)
+#   stage_focus   : the day's Maturity-Stage benchmark (from the framework tables)
+#   cue           : the one coach's cue for the room
+#   games         : target number of games (1..3; default 2 = 1 warm-up + 1 core)
+#   pins          : [game IDs e.g. G791] to force-include (optional)
+#   builds_on     : free text / week refs (optional)
+#   layer0        : true to flag the Safety & Consent recommit
+# =============================================================================
+
+courses:
+  beginner:
+    title: "Foundations — The Brave Beginner"
+    folder: "01_beginner"
+    weeks: 16
+    stage: "Novice → Advanced Beginner"
+    layer_focus: "Technique (effortful → fluent)"
+    skill_levels: ["novice", "advanced_beginner"]
+    complexity: [1, 2]
+    sweet_spot: 1
+    intro: >
+      Your first steps. We build courage before craft: a safe container, then the instrument
+      (your body, voice, impulse, emotion), then the partnership (listen, accept, gift), then a
+      first taste of scene, ensemble and audience. Every game is low-pressure by design — the
+      goal is to bypass the inner editor and learn that there are no mistakes, only offers.
+
+  intermediate:
+    title: "Choices Under Pressure — The Competent Improviser"
+    folder: "02_intermediate"
+    weeks: 18
+    stage: "Competent"
+    layer_focus: "Technique → Skill bridge"
+    skill_levels: ["advanced_beginner", "competent"]
+    complexity: [2, 3]
+    sweet_spot: 3
+    intro: >
+      You can do the moves — now you choose them under live pressure. This course re-walks all
+      five domains at the Competent stage: listening for subtext, status that fits the
+      relationship, and the two engines of scene-work (GAME vs NARRATIVE) plus the meta-skill of
+      knowing which one the scene wants. You begin to edit on time and read the room.
+
+  advanced:
+    title: "Serve the Piece — Toward Mastery"
+    folder: "03_advanced"
+    weeks: 18
+    stage: "Proficient → Master"
+    layer_focus: "Skill → Principle"
+    skill_levels: ["competent", "proficient"]
+    complexity: [3, 5]
+    sweet_spot: 4
+    intro: >
+      Technique becomes invisible; you act from principle. The same moves you learned as a
+      novice are now governed by deeper conviction — impulse equals action, status is unnoticed,
+      the game can be broken to serve the story, and the ensemble moves as one organism. You
+      learn longform formats and how to unify a room, ending in a full improvised show.
+
+# =============================================================================
+sessions:
+
+# ---------------------------- BEGINNER (16) ----------------------------------
+- course: beginner
+  week: 1
+  title: "Welcome & the Safety Container"
+  essence: "Safety is the container Yes-And lives inside — consent overrides agreement."
+  domain: 2
+  skill: "D2.S6"
+  meta: "layer0"
+  layer0: true
+  stage_focus: "Novice: aware safety matters; practise check-ins and the 'Cut' call in exercises."
+  cue: "You can always say 'Cut.' Nothing happens without a yes."
+  games: 2
+
+- course: beginner
+  week: 2
+  title: "The First Thought Is a Gift"
+  essence: "Trust the impulse before the inner editor censors it."
+  domain: 1
+  skill: "D1.S1"
+  stage_focus: "Novice → Adv. Beginner: offer the first thought reliably in drills."
+  cue: "Say the obvious thing. Be brave enough to be boring."
+  games: 3
+  pins: [G791]
+  builds_on: "W1 — only safe enough rooms let you risk the first thought."
+
+- course: beginner
+  week: 3
+  title: "The Emotional Dial"
+  essence: "Emotion is a dial you can turn from 1 to 10 on cue."
+  domain: 1
+  skill: "D1.S2"
+  stage_focus: "Adv. Beginner: switch emotion on an external cue."
+  cue: "Pick a number. Commit the whole body to it."
+  games: 2
+
+- course: beginner
+  week: 4
+  title: "Your Body Speaks"
+  essence: "Character lives in how you move and hold space."
+  domain: 1
+  skill: "D1.S3"
+  stage_focus: "Novice → Adv. Beginner: character walks/centers; basic object work."
+  cue: "Lead with a body part. Let the walk find the character."
+  games: 2
+
+- course: beginner
+  week: 5
+  title: "Finding Your Voice"
+  essence: "The voice is an instrument — project, support, characterise."
+  domain: 1
+  skill: "D1.S4"
+  stage_focus: "Adv. Beginner: project on command; one distinct character voice."
+  cue: "Play to the back row. Breathe, then speak."
+  games: 2
+
+- course: beginner
+  week: 6
+  title: "Fail Joyfully & Recover"
+  essence: "There are no mistakes, only choices not yet justified."
+  domain: 1
+  skill: "D1.S6"
+  also: ["D1.S5"]
+  stage_focus: "Adv. Beginner: reframe a flub with 'and that's exactly what I meant.'"
+  cue: "Take a bow for the mistake. Then justify it."
+  games: 2
+
+- course: beginner
+  week: 7
+  title: "Really Listening"
+  essence: "Listening is the first half of every offer."
+  domain: 2
+  skill: "D2.S1"
+  stage_focus: "Novice → Adv. Beginner: last-word response in drills."
+  cue: "React first, build second."
+  games: 2
+  builds_on: "W2–6 — now turn the instrument toward a partner."
+
+- course: beginner
+  week: 8
+  title: "Yes, And — Accept & Add"
+  essence: "Accept the offered reality, then add to it."
+  domain: 2
+  skill: "D2.S4"
+  stage_focus: "Adv. Beginner: a clear 'Yes, And…' in drills."
+  cue: "Yes to their reality. And to your contribution."
+  games: 2
+
+- course: beginner
+  week: 9
+  title: "Make Your Partner a Genius"
+  essence: "Treat every offer as the best idea in the room; gift generously."
+  domain: 2
+  skill: "D2.S5"
+  stage_focus: "Adv. Beginner: give a clear endowment when prompted."
+  cue: "Give them the answer. Set them up to shine."
+  games: 2
+
+- course: beginner
+  week: 10
+  title: "Two Minds, One Mirror"
+  essence: "Attune to one partner until you move as one."
+  domain: 2
+  skill: "D2.S3"
+  stage_focus: "Adv. Beginner: clean mirror exercise; emotional echo."
+  cue: "Share the lead. Make it impossible to tell who's following."
+  games: 2
+
+- course: beginner
+  week: 11
+  title: "Status: High & Low"
+  essence: "Status is something you do, not something you are."
+  domain: 2
+  skill: "D2.S2"
+  stage_focus: "Adv. Beginner: play an assigned high or low status."
+  cue: "Small status moves. A chin lift is enough."
+  games: 2
+
+- course: beginner
+  week: 12
+  title: "Show, Don't Tell — Build a World"
+  essence: "Establish the who/where/what before the unusual; play it, don't narrate it."
+  domain: 3
+  skill: "D3.S5"
+  stage_focus: "Novice → Adv. Beginner: establish Character, Relationship, Objective, Where."
+  cue: "Who are we, where are we, what do we want?"
+  games: 2
+  builds_on: "W7–11 — two people who listen and gift can now build a scene."
+
+- course: beginner
+  week: 13
+  title: "Make It Make Sense"
+  essence: "Anything can be justified — the absurd becomes inevitable."
+  domain: 3
+  skill: "D3.S6"
+  stage_focus: "Adv. Beginner: justify the absurd."
+  cue: "If it's weird, decide why it's normal here."
+  games: 2
+
+- course: beginner
+  week: 14
+  title: "We're a Team"
+  essence: "Enter to give, not to take; the group mind beats the individual."
+  domain: 4
+  skill: "D4.S2"
+  stage_focus: "Adv. Beginner: a clean walk-on / tap-in on instruction."
+  cue: "Walk on to help. Give one thing, then get out."
+  games: 2
+
+- course: beginner
+  week: 15
+  title: "Playing to the Back Row"
+  essence: "Make every choice readable and generous for the whole room."
+  domain: 5
+  skill: "D5.S3"
+  stage_focus: "Adv. Beginner: cheat out and project when reminded."
+  cue: "Open up. Let them see your face and your choice."
+  games: 2
+
+- course: beginner
+  week: 16
+  title: "Putting It Together — Showcase"
+  essence: "A first short-form set: safety, spontaneity, partnership, scene."
+  domain: "all"
+  skill: "D2.S4"
+  also: ["D1.S1", "D2.S1", "D3.S5"]
+  meta: "integration"
+  stage_focus: "Adv. Beginner: sustain the fundamentals across a short, friendly set."
+  cue: "Trust the basics. Have fun. Support each other."
+  games: 3
+  builds_on: "Everything in the Beginner course."
+
+# -------------------------- INTERMEDIATE (18) --------------------------------
+- course: intermediate
+  week: 1
+  title: "Re-entry & the Safety Recommit"
+  essence: "Rebuild the container, then bypass the editor under real pressure."
+  domain: 1
+  skill: "D1.S1"
+  also: ["D2.S6"]
+  meta: "layer0"
+  layer0: true
+  stage_focus: "Competent: choose to bypass the editor under mild scene pressure."
+  cue: "Safety first, then jump without the parachute."
+  games: 2
+
+- course: intermediate
+  week: 2
+  title: "Emotion with Logic"
+  essence: "Let emotion transition when the scene's logic calls for it."
+  domain: 1
+  skill: "D1.S2"
+  stage_focus: "Competent: transition emotion when scene logic calls for it."
+  cue: "Earn the shift. Let the scene move you."
+  games: 2
+
+- course: intermediate
+  week: 3
+  title: "The Power of Stillness"
+  essence: "Decide when a moment needs silence — and hold it."
+  domain: 1
+  skill: "D1.S5"
+  stage_focus: "Competent: decide when a moment needs silence."
+  cue: "Let it breathe. Don't fill the gap."
+  games: 2
+
+- course: intermediate
+  week: 4
+  title: "Listening for Subtext"
+  essence: "Hear what's underneath the words and build on the specific offer."
+  domain: 2
+  skill: "D2.S1"
+  stage_focus: "Competent: build on the partner's *specific* offers."
+  cue: "What did they really mean? Build on that."
+  games: 2
+
+- course: intermediate
+  week: 5
+  title: "The Status Seesaw"
+  essence: "Pick the status that fits the relationship; let it shift."
+  domain: 2
+  skill: "D2.S2"
+  stage_focus: "Competent: pick the status that fits the relationship."
+  cue: "Who's up, who's down — and when does it flip?"
+  games: 2
+
+- course: intermediate
+  week: 6
+  title: "Gifting that Serves"
+  essence: "Choose gifts that ease the partner's job, not show off yours."
+  domain: 2
+  skill: "D2.S5"
+  stage_focus: "Competent: choose gifts that ease the partner's job."
+  cue: "Give them a problem to solve, or a name to be."
+  games: 2
+
+- course: intermediate
+  week: 7
+  title: "Finding the Game"
+  essence: "Spot the first unusual thing and make it the engine [GAME]."
+  domain: 3
+  skill: "D3.S1"
+  stage_focus: "Competent: identify the game *during* the scene."
+  cue: "What's the one funny thing? Do it again."
+  games: 2
+  builds_on: "W4–6 — a tuned partnership can now find and play a pattern."
+
+- course: intermediate
+  week: 8
+  title: "Heightening the Pattern"
+  essence: "Climb the ladder — each beat more extreme than the last."
+  domain: 3
+  skill: "D3.S2"
+  stage_focus: "Competent: heighten with 'the ladder' and explore the 'why'."
+  cue: "Same but more. Then ask why it's true."
+  games: 2
+
+- course: intermediate
+  week: 9
+  title: "The Story Spine"
+  essence: "Build a platform, then tilt it — characters change [NARRATIVE]."
+  domain: 3
+  skill: "D3.S3"
+  stage_focus: "Competent: build Platform, then Tilt deliberately."
+  cue: "Establish the normal. Then break it on purpose."
+  games: 2
+
+- course: intermediate
+  week: 10
+  title: "What's at Stake"
+  essence: "Give the character something to lose, so we care."
+  domain: 3
+  skill: "D3.S4"
+  also: ["D3.S7"]
+  stage_focus: "Competent: establish what's at risk for the character."
+  cue: "What happens if they fail? Make it matter."
+  games: 2
+
+- course: intermediate
+  week: 11
+  title: "Which Engine? Game vs Story"
+  essence: "The master meta-skill: know which engine the scene is asking for."
+  domain: 3
+  skill: "D3.S1"
+  also: ["D3.S3"]
+  meta: "engine-selection"
+  stage_focus: "Competent: choose an engine consciously at scene start."
+  cue: "Is this a pattern to play, or a story to tell?"
+  games: 2
+
+- course: intermediate
+  week: 12
+  title: "Build the World, Justify the Absurd"
+  essence: "Endow richly and reincorporate to make the world coherent."
+  domain: 3
+  skill: "D3.S5"
+  also: ["D3.S6"]
+  stage_focus: "Competent: endowment chains; reincorporation-as-justification."
+  cue: "Plant it early, pay it off late."
+  games: 2
+
+- course: intermediate
+  week: 13
+  title: "Eyes in the Back of Your Head"
+  essence: "Perceive the whole stage — track every active thread."
+  domain: 4
+  skill: "D4.S1"
+  stage_focus: "Competent: track all active threads."
+  cue: "What's alive on stage that no one has used yet?"
+  games: 2
+  builds_on: "W7–12 — scene craft scales up to the group."
+
+- course: intermediate
+  week: 14
+  title: "Support Work that Lands"
+  essence: "Enter only when the scene needs something; give it, then exit."
+  domain: 4
+  skill: "D4.S2"
+  stage_focus: "Competent: choose to enter only when a scene needs something."
+  cue: "Don't grab focus. Fill the gap, then leave."
+  games: 2
+
+- course: intermediate
+  week: 15
+  title: "A-to-C — Beyond the Obvious"
+  essence: "Skip the first association; mine the suggestion for the 'C' idea."
+  domain: 4
+  skill: "D4.S3"
+  stage_focus: "Competent: select the non-obvious ('C') premise."
+  cue: "First thought's a gift — second and third are the game."
+  games: 2
+
+- course: intermediate
+  week: 16
+  title: "Editing on Time"
+  essence: "End the scene on its peak — Sweep, Tag-out, on the beat."
+  domain: 4
+  skill: "D4.S4"
+  stage_focus: "Competent: edit at the right moment."
+  cue: "Leave them wanting more. Cut on the laugh."
+  games: 2
+
+- course: intermediate
+  week: 17
+  title: "Reading the Room"
+  essence: "Read the room's temperature; ride a laugh, then re-engage."
+  domain: 5
+  skill: "D5.S1"
+  also: ["D5.S2"]
+  stage_focus: "Competent: read the room's general temperature; ride a laugh then re-engage."
+  cue: "Let the laugh land. Don't talk over it."
+  games: 2
+
+- course: intermediate
+  week: 18
+  title: "Competent Showcase"
+  essence: "Mixed game + story scenes that read clearly to an audience."
+  domain: "all"
+  skill: "D3.S1"
+  also: ["D3.S3", "D4.S2", "D5.S1"]
+  meta: "integration"
+  stage_focus: "Competent: choose an engine, build, and edit on time, live."
+  cue: "Pick your engine and commit. Trust your edits."
+  games: 3
+  builds_on: "Everything in the Intermediate course."
+
+# ---------------------------- ADVANCED (18) ----------------------------------
+- course: advanced
+  week: 1
+  title: "Re-entry — Impulse = Action"
+  essence: "No latency between impulse and offer; model total safety."
+  domain: 1
+  skill: "D1.S1"
+  also: ["D2.S6"]
+  meta: "layer0"
+  layer0: true
+  stage_focus: "Proficient → Master: impulse and action are simultaneous; model safety for total risk."
+  cue: "Don't decide to move. Just move."
+  games: 2
+
+- course: advanced
+  week: 2
+  title: "The Voice as Instrument"
+  essence: "Feel real emotion and modulate it to serve the piece."
+  domain: 1
+  skill: "D1.S4"
+  also: ["D1.S2"]
+  stage_focus: "Master: voice instantly conveys age/status/state; emotion arrives unbidden."
+  cue: "The voice serves the story, not your cleverness."
+  games: 2
+
+- course: advanced
+  week: 3
+  title: "The Shared Mind"
+  essence: "Read breath and micro-expression; gift so well it's invisible."
+  domain: 2
+  skill: "D2.S1"
+  also: ["D2.S5"]
+  stage_focus: "Master: anticipate the offer from breath/micro-expressions; invisible gifting."
+  cue: "Listen with your eyes. Set them up without them noticing."
+  games: 2
+
+- course: advanced
+  week: 4
+  title: "Invisible Status"
+  essence: "Status play that is purposeful — and unnoticed."
+  domain: 2
+  skill: "D2.S2"
+  stage_focus: "Master: status shifts drive the story and go unnoticed."
+  cue: "Move the status to move the story."
+  games: 2
+
+- course: advanced
+  week: 5
+  title: "Find It, Play It, Break It"
+  essence: "Master the game, then break it on purpose to serve the moment."
+  domain: 3
+  skill: "D3.S1"
+  also: ["D3.S2"]
+  stage_focus: "Master: find, play, *and intentionally break* the game."
+  cue: "Know the rule so well you can shatter it."
+  games: 2
+  builds_on: "Intermediate W7–8 — game ID & heightening, now at master level."
+
+- course: advanced
+  week: 6
+  title: "Architecting the Arc"
+  essence: "A full arc with consequence and change, built in real time."
+  domain: 3
+  skill: "D3.S3"
+  stage_focus: "Master: arc and character change feel inevitable."
+  cue: "Every scene changes someone. Who, and how?"
+  games: 2
+
+- course: advanced
+  week: 7
+  title: "Stakes They Can Feel"
+  essence: "Make the audience genuinely care about absurd people."
+  domain: 3
+  skill: "D3.S7"
+  also: ["D3.S4"]
+  stage_focus: "Master: stakes are felt, not stated; consequences escalate."
+  cue: "Don't say it matters. Show that it costs."
+  games: 2
+
+- course: advanced
+  week: 8
+  title: "Engine-Switching Mid-Scene"
+  essence: "Switch between game and story as the scene demands — invisibly."
+  domain: 3
+  skill: "D3.S1"
+  also: ["D3.S3"]
+  meta: "engine-selection"
+  stage_focus: "Master: read what the scene needs and serve it — game or story, never forced."
+  cue: "Serve the scene, not your plan."
+  games: 2
+
+- course: advanced
+  week: 9
+  title: "Group Mind & Follow the Follower"
+  essence: "See the entire show as one organism; commit to strong choices together."
+  domain: 4
+  skill: "D4.S1"
+  meta: "principles"
+  stage_focus: "Master: see the whole show as one organism."
+  cue: "When someone's strong, the whole team follows."
+  games: 2
+  builds_on: "Intermediate W13 — peripheral awareness becomes group mind."
+
+- course: advanced
+  week: 10
+  title: "Invisible Support, Surrendered Ego"
+  essence: "Off-focus support elevates others; the ego is fully surrendered."
+  domain: 4
+  skill: "D4.S2"
+  stage_focus: "Master: supports invisibly; gives exactly what's missing, then exits."
+  cue: "Make them look brilliant. Disappear."
+  games: 2
+
+- course: advanced
+  week: 11
+  title: "Weaving the Threads"
+  essence: "Callbacks and mapping turn separate scenes into one tapestry."
+  domain: 4
+  skill: "D4.S5"
+  stage_focus: "Proficient → Master: weave threads; callbacks land as inevitable."
+  cue: "Nothing is wasted. Bring it all back."
+  games: 2
+
+- course: advanced
+  week: 12
+  title: "Conducting Pace"
+  essence: "Edit so cleanly the audience never consciously notices."
+  domain: 4
+  skill: "D4.S4"
+  stage_focus: "Master: pacing breathes — energy, silence, ending; edit unnoticed."
+  cue: "Arrive on the exact peak."
+  games: 2
+
+- course: advanced
+  week: 13
+  title: "The Harold"
+  essence: "The classic longform structure — a form that holds the chaos."
+  domain: 4
+  skill: "D4.S6"
+  stage_focus: "Proficient: run the beats of a Harold."
+  cue: "Trust the form. The connections will come."
+  games: 1
+  builds_on: "W9–12 — group skills assembled into a format."
+
+- course: advanced
+  week: 14
+  title: "Armando, Montage & Longform"
+  essence: "More forms — monologue-driven and montage longform."
+  domain: 4
+  skill: "D4.S6"
+  stage_focus: "Proficient: distinguish longform vs shortform mechanics; run a montage."
+  cue: "Let the inspiration drive the scenes."
+  games: 1
+
+- course: advanced
+  week: 15
+  title: "Unify the Room"
+  essence: "Convert a fragmented audience into one organism breathing together."
+  domain: 5
+  skill: "D5.S1"
+  stage_focus: "Master: unify the room (synchronised collective laughter/gasp)."
+  cue: "Play to everyone at once. Find the shared breath."
+  games: 2
+
+- course: advanced
+  week: 16
+  title: "Conducting Audience Energy"
+  essence: "Surf the energy waves; use direct address as a deliberate lever."
+  domain: 5
+  skill: "D5.S2"
+  stage_focus: "Master: conduct audience energy like an instrument."
+  cue: "Ride the wave. Break the wall only on purpose."
+  games: 2
+
+- course: advanced
+  week: 17
+  title: "Serve the Piece"
+  essence: "Choose what the show needs, not what you want to do."
+  domain: "all"
+  skill: "D4.S2"
+  also: ["D5.S1", "D3.S3"]
+  meta: "serve-the-piece"
+  stage_focus: "Master: sacrifice technique to serve the whole."
+  cue: "What does the show need right now?"
+  games: 2
+
+- course: advanced
+  week: 18
+  title: "Capstone Performance"
+  essence: "A full improvised longform show — the audience as co-author."
+  domain: "all"
+  skill: "D4.S6"
+  also: ["D3.S3", "D5.S2", "D1.S1"]
+  meta: "integration"
+  stage_focus: "Master: architect a full piece in real time; honour the audience contract."
+  cue: "Everything you know, in service of one piece."
+  games: 1
+  builds_on: "The entire year."

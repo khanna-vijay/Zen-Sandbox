@@ -1,0 +1,123 @@
+# =============================================================================
+# Reflection prompts, keyed by framework skill ID (and meta keys).
+#   transfer : the "Beyond the stage" question (life / work / leadership)
+#   improv   : an extra "Deepen your improv" question, used as a fallback when the
+#              day's games carry no Debrief questions.
+# The generator always pairs >=1 game Debrief question (if available) with the
+# transfer prompt, to guarantee 2-3 reflection questions per session.
+# =============================================================================
+
+# ---- DOMAIN 1 — THE SELF ----
+D1.S1:
+  transfer: "Where in your work or life does an inner editor make you hesitate before you speak? What is one situation this week where you could trust your first, honest thought instead?"
+  improv: "When did your editor win today, and what did it cost the scene?"
+D1.S2:
+  transfer: "Think of a moment you 'performed calm' while feeling something else. What changes when you let a real emotion be visible — at home, or in a hard conversation?"
+  improv: "Which emotion is hardest for you to access on demand, and why?"
+D1.S3:
+  transfer: "Your posture and walk broadcast status and mood before you say a word. What does your body say when you enter a meeting room — and is that what you intend?"
+  improv: "What did leading with a different body part reveal about a character you'd never normally play?"
+D1.S4:
+  transfer: "Where do you drop your volume or energy when you feel uncertain — in presentations, on calls? What would 'playing to the back row' look like there?"
+  improv: "How did breath support change your presence and confidence?"
+D1.S5:
+  transfer: "In conversations, do you rush to fill silence? Recall a time a pause would have served you better. What were you afraid would happen?"
+  improv: "What did the room feel like when you genuinely held a beat instead of filling it?"
+D1.S6:
+  transfer: "Recall a recent mistake you tried to hide. How might 'and that's exactly what I meant' — owning and reframing it — have served you better than concealment?"
+  improv: "What flub became the best part of the scene once you justified it?"
+
+# ---- DOMAIN 2 — THE PARTNER ----
+D2.S1:
+  transfer: "Recall a meeting where you were loading your reply instead of listening. What did you miss? What would change if you reacted first and built second?"
+  improv: "When did you catch yourself planning a line instead of hearing your partner?"
+D2.S2:
+  transfer: "Status is something we do, not who we are. Where do you habitually play high or low at work — and where would deliberately shifting it serve the relationship?"
+  improv: "Which status felt unnatural to play, and what did that resistance teach you?"
+D2.S3:
+  transfer: "True attunement means matching another's energy before steering it. With whom in your life could more mirroring — listening to mood, not just words — build trust?"
+  improv: "What was it like to share the lead so neither of you was clearly following?"
+D2.S4:
+  transfer: "'Yes, And' is acceptance plus contribution. Where do you reflexively block ideas ('Yes, but…') at work? Try 'Yes, And' on the next proposal you'd normally resist."
+  improv: "When did a 'block' kill momentum today, and how could you have accepted-and-added instead?"
+D2.S5:
+  transfer: "Making your partner a genius means setting others up to shine. Whose work could you actively gift this week — a name, a credit, an easier next step?"
+  improv: "What gift did a partner give you that made your job easy? What made it land?"
+D2.S6:
+  transfer: "Consent and clear boundaries make bold collaboration possible. Where do you need a 'check-in' or a 'Cut' in your real relationships — and where do you need to honour someone else's?"
+  improv: "How did knowing you could call 'Cut' change the risks you were willing to take?"
+
+# ---- DOMAIN 3 — THE SCENE ----
+D3.S1:
+  transfer: "Finding the game means spotting the one interesting pattern and committing. In a project or hobby, what's the 'unusual thing' worth amplifying instead of smoothing away?"
+  improv: "How did naming the game change what you chose to do next?"
+D3.S2:
+  transfer: "Heightening is escalating with intention. Where do you under-commit and stay safe when leaning further in would create more value or delight?"
+  improv: "Where did the ladder break — did you heighten the pattern, or just get louder?"
+D3.S3:
+  transfer: "Every good story has a platform and a tilt — a normal, then a change. What 'platform' in your life are you protecting that actually needs a deliberate tilt?"
+  improv: "Did your character actually change, or just have things happen to them?"
+D3.S4:
+  transfer: "We care when something is at stake. In your goals this quarter, what do you genuinely stand to lose or gain — and are you letting yourself feel it?"
+  improv: "Were the stakes felt in the scene, or merely announced?"
+D3.S5:
+  transfer: "World-building is shared specificity — establishing who, where, and what we want. Where would a team you're on benefit from explicitly naming its 'CROW'?"
+  improv: "What detail, once endowed, did the whole scene end up depending on?"
+D3.S6:
+  transfer: "Justification turns the absurd into the inevitable. Recall a constraint or odd decision you resisted — how could you 'justify' and build on it rather than fight it?"
+  improv: "What's the difference between justifying a choice and explaining it away?"
+D3.S7:
+  transfer: "Raising the stakes makes consequences matter more. Where are you keeping things low-stakes to stay comfortable, when the situation actually deserves more weight?"
+  improv: "Did raising the stakes deepen the story, or just add melodrama?"
+
+# ---- DOMAIN 4 — THE ENSEMBLE ----
+D4.S1:
+  transfer: "Peripheral awareness is tracking the whole room, not just your task. In your team, what thread is alive that nobody has picked up — and could you?"
+  improv: "What was happening on the edges of the stage that you almost missed?"
+D4.S2:
+  transfer: "Great support enters to give, not to take. Where could you step in to fill a gap for your team and then get out of the way — without grabbing credit?"
+  improv: "Did you ever walk on to help, but end up stealing focus? How could you tell?"
+D4.S3:
+  transfer: "A-to-C thinking skips the obvious answer for the richer one. On your next problem, what's the third idea — past the first cliché — worth exploring?"
+  improv: "How did it feel to discard your first, most obvious idea on purpose?"
+D4.S4:
+  transfer: "Pacing is knowing when to end. Where in your work do you let things run long past their peak — meetings, projects, conversations? What would a clean 'edit' look like?"
+  improv: "Did you leave the scene wanting more, or one beat too late?"
+D4.S5:
+  transfer: "Thematic synthesis weaves separate threads into meaning. Looking back at a messy week, what callback or pattern connects events you treated as unrelated?"
+  improv: "Which callback landed because it was set up early and paid off late?"
+D4.S6:
+  transfer: "A format is a structure that holds creative chaos. What 'format' (a ritual, a framework, an agenda) would give your team freedom by giving it shape?"
+  improv: "Did the form free you or constrain you — and was that the form's fault or your trust in it?"
+
+# ---- DOMAIN 5 — THE AUDIENCE ----
+D5.S1:
+  transfer: "Reading the room means sensing energy without pandering to it. When did you last misread an audience (a boss, a client, a friend)? What signals did you miss?"
+  improv: "What did the room's energy tell you that the suggestion alone did not?"
+D5.S2:
+  transfer: "Managing energy is riding a wave without chasing it. Where do you talk over others' reactions — or, conversely, kill momentum by not pausing for them?"
+  improv: "When did riding the laugh help, and when did it tip into selling out?"
+D5.S3:
+  transfer: "Stage presence is making your choices readable and generous. In a presentation or pitch, how could you 'cheat out' — make your intent unmistakably clear to everyone?"
+  improv: "Which of your choices didn't read to the back row, and why?"
+
+# ---- META KEYS (non-skill weeks) ----
+layer0:
+  transfer: "Psychological safety is the container that makes risk possible. Where — on a team, in a family — is the container missing, and what one act would help build it?"
+  improv: "What made this room feel safe enough to be brave? Name the specific behaviours."
+engine-selection:
+  transfer: "Knowing which 'engine' a moment needs — playful pattern vs serious story — is judgment under pressure. Where do you misread which mode a situation calls for?"
+  improv: "How did you decide which engine the scene wanted — and were you right?"
+principles:
+  transfer: "Group mind means the team's intelligence exceeds any individual's. When have you seen a group outperform its smartest member — and what made that possible?"
+  improv: "When did the team move as one organism today? What enabled it?"
+serve-the-piece:
+  transfer: "Serving the piece means choosing what the whole needs over what you want. Where in your work would 'what does this need?' beat 'what do I want to do?'"
+  improv: "What did you sacrifice tonight so the whole piece could be better?"
+integration:
+  transfer: "Look back across this course. Which single skill changed the most for you — and where, outside improv, do you most want to keep practising it?"
+  improv: "Which fundamental held up under the pressure of a full set, and which one slipped?"
+
+default:
+  transfer: "How does today's skill show up beyond the stage — in your work, relationships, or leadership? Name one concrete place to practise it this week."
+  improv: "What did today's lesson reveal about your habits as an improviser?"

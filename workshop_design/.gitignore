@@ -1,0 +1,4 @@
+# Regenerable generator cache + rendered output (rebuilt by generate.py).
+build/
+__pycache__/
+*.pyc
