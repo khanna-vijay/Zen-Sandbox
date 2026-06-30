@@ -55,10 +55,6 @@ plugins:
       draggable: true
       auto_caption: false
       effect: zoom
-  - print-site:
-      add_to_navigation: true
-      print_page_title: "Read as one page"
-      add_print_site_banner: false
 
 markdown_extensions:
   - admonition
@@ -138,6 +134,7 @@ nav:
           - workshops/03_advanced/week-17.md
           - workshops/03_advanced/week-18.md
   - Domains:
+      - domains.md
       - "The Self":
           - Overview: content/01_the-self/01_D__the-self.md
           - Principles:
@@ -300,4 +297,39 @@ nav:
                   - "Cheating out": content/05_the-audience/05_S3_T1__cheating-out.md
                   - "Projection": content/05_the-audience/05_S3_T2__projection.md
                   - "Make the choice readable": content/05_the-audience/05_S3_T3__make-the-choice-readable.md
-  - Games List: games/index.md
+  - Games List:
+      - Browse & filter: games/index.md
+      - The Self:
+          - "General / core": games/cat/D1.S0.md
+          - "Unfiltered Spontaneity": games/cat/D1.S1.md
+          - "Emotional Fluidity": games/cat/D1.S2.md
+          - "Physicality & Space Work": games/cat/D1.S3.md
+          - "Vocal Craft": games/cat/D1.S4.md
+          - "Silence & Stillness": games/cat/D1.S5.md
+          - "Self-Recovery": games/cat/D1.S6.md
+      - The Partner:
+          - "Active Listening": games/cat/D2.S1.md
+          - "Status Modulation": games/cat/D2.S2.md
+          - "Single-Partner Empathy & Mirroring": games/cat/D2.S3.md
+          - "Offer Reception": games/cat/D2.S4.md
+          - "Active Gifting": games/cat/D2.S5.md
+          - "Boundary Navigation": games/cat/D2.S6.md
+      - The Scene:
+          - "Game Identification": games/cat/D3.S1.md
+          - "Heightening & Exploration": games/cat/D3.S2.md
+          - "Narrative Architecture": games/cat/D3.S3.md
+          - "Stakes / The 'Want'": games/cat/D3.S4.md
+          - "World-Building": games/cat/D3.S5.md
+          - "Justification": games/cat/D3.S6.md
+          - "Raising the Stakes": games/cat/D3.S7.md
+      - The Ensemble:
+          - "Peripheral Awareness": games/cat/D4.S1.md
+          - "Support Work": games/cat/D4.S2.md
+          - "Suggestion Deconstruction (A-to-C)": games/cat/D4.S3.md
+          - "Pacing & Rhythm": games/cat/D4.S4.md
+          - "Thematic Synthesis": games/cat/D4.S5.md
+          - "Format Literacy": games/cat/D4.S6.md
+      - The Audience:
+          - "Room Reading": games/cat/D5.S1.md
+          - "Audience-Energy Management": games/cat/D5.S2.md
+          - "Stage Presence & Clarity": games/cat/D5.S3.md
