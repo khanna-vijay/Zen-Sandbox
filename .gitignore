@@ -14,6 +14,7 @@
 
 # ── Secrets & local tooling config ──
 **/.env
+**/.env.example
 .claude/
 
 # ── Node (gitbook track) ──
@@ -24,11 +25,12 @@
 Thumbs.db
 *.log
 
-# ── Publish ONLY the v2 site to GitHub. Everything below stays local. ──
+# ── Publish ONLY the v3 site to GitHub. Everything below stays local. ──
 /gitbook/
 /github-pages/
-/github-pages-v2/pipeline/
-/github-pages-v2/README.md
+/github-pages-v3/pipeline/
+/github-pages-v3/README.md
+/v3-github-pages/
 /start_gitpages_server.sh
 /start_gitpages_v2_server.sh
 /01_setup_gh.sh

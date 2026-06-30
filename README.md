@@ -9,7 +9,7 @@ A simple, **visual** guide to improv — the flow of *domains → principles →
 ```
 .
 ├── .github/workflows/deploy.yml   # builds the site and deploys to GitHub Pages
-└── github-pages-v2/
+└── github-pages-v3/
     ├── mkdocs.yml                 # site config + navigation
     ├── requirements.txt           # pinned build dependency (mkdocs-material)
     └── docs/                      # the site content
@@ -21,7 +21,7 @@ A simple, **visual** guide to improv — the flow of *domains → principles →
 ## Preview locally
 
 ```bash
-cd github-pages-v2
+cd github-pages-v3
 python3 -m venv .venv && . .venv/bin/activate
 pip install -r requirements.txt
 mkdocs serve            # → http://localhost:8000
