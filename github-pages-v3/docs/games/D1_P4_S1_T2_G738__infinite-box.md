@@ -73,20 +73,6 @@ In this fast-paced, paired warm-up, one player holds an invisible box of infinit
 
 **Objective:** To develop unfiltered spontaneity, trust the first thought, practice physical object work, and actively support a partner's choices.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (played in pairs)) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in pairs facing each other with comfortable space in between. No physical props or materials are required.
 

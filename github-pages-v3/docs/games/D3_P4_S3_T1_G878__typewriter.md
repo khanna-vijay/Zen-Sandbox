@@ -82,20 +82,6 @@ One player acts as a novelist typing a story on an imaginary typewriter, narrati
 
 **Objective:** To develop narrative architecture, active listening, and justification skills by balancing narrative control between a narrator and performers using the Story Spine framework.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–6 (ideal 3-5) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 One player (the Narrator) sits or stands at a side stage position with an imaginary typewriter or keyboard. The remaining players (the Actors) stand in the main performance area ready to enter. Obtain a suggestion from the audience for a book title or an unusual object to inspire the story.
 

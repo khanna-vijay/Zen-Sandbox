@@ -79,20 +79,6 @@ In this exercise, players sit in a semi-circle and adopt a shared profession or 
 
 **Objective:** To master the C.R.O.W. framework by establishing a clear, grounded base reality (the 'Where' and 'What') before introducing distinct emotional perspectives ('Character' and 'Relationship') that drive the scene forward without relying on plot.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–6 (ideal 4-6) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | post-it notes or index cards, marker |
-| Audience | not required |
-
 ## Setup
 Arrange 4 to 6 chairs in a tight semi-circle facing the facilitator. Prepare a stack of index cards or large sticky notes, each pre-written with a distinct emotion, attitude, or point of view (e.g., 'sycophantic', 'paranoid', 'overly enthusiastic', 'deeply cynical'). Have a marker and blank cards handy for write-in suggestions.
 

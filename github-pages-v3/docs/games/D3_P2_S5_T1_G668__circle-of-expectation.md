@@ -77,20 +77,6 @@ The Expectation Circle is a collaborative world-building exercise where players 
 
 **Objective:** Develops a strong, shared Base Reality (C.R.O.W.) by prioritizing logical, obvious choices over forced novelty, training players to build worlds collaboratively.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 8-20) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | Whiteboard, Markers |
-| Audience | not required |
-
 ## Setup
 A whiteboard, markers, and the group gathered in a semi-circle facing the board. No other props are required.
 

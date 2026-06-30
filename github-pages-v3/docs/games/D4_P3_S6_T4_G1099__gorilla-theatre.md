@@ -81,20 +81,6 @@ A high-energy, audience-interactive showcase where players take turns directing 
 
 **Objective:** Develops format literacy, pacing, and narrative architecture by putting players in the director's chair. It teaches performers how to serve the piece as a whole, manage audience energy, and understand when to intervene or let a scene breathe.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 5-8) |
-| Time | ~90 min |
-| Complexity | 4/5 |
-| Skill level | proficient |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | large_open |
-| Props | Gorilla suit, Cardboard bananas, Scoreboard |
-| Audience | required |
-
 ## Setup
 An open stage with a visible scoreboard, a collection of cardboard bananas, a gorilla suit (worn by one player), and a master list of potential scene setups or shortform games. An MC facilitates, while 5 to 8 proficient players sit on stage ready to act or direct.
 

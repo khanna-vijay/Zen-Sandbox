@@ -79,20 +79,6 @@ The Reality Weavers is a virtual improv game where players collaboratively build
 
 **Objective:** To master the C.R.O.W. framework (Character, Relationship, Objective, Where) by establishing a strong base reality and dynamically expanding it through collaborative, visual world-building.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–12 (ideal 6-12) |
-| Time | ~20 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | Zoom client with Immersive View, Pre-prepared digital asset library, Computer with screen sharing capabilities |
-| Audience | not required |
-
 ## Setup
 Players join a virtual meeting room. One player is designated as the 'Architect' and prepares a shared digital canvas (such as a collaborative whiteboard or slide presentation) loaded with a diverse library of background environments, objects, and abstract textures. All players rename themselves to reflect their character's name and role (e.g., 'Dr. Aris - Botanist'). The Architect shares their screen displaying the blank canvas.
 

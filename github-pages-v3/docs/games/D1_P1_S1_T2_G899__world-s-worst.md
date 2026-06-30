@@ -73,20 +73,6 @@ A high-energy, fast-paced line-up game where players stand facing away from the 
 
 **Objective:** To bypass the internal editor, practice unfiltered spontaneity, and build physical commitment by launching onto the stage before a joke is fully formed.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Players form a line at the back of the stage, facing away from the audience with their backs turned. The facilitator stands near the audience to gather suggestions.
 

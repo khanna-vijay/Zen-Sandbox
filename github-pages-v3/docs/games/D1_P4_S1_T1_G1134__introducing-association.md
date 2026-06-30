@@ -71,20 +71,6 @@ A low-stakes introductory exercise where players speak single words in a circle 
 
 **Objective:** To demonstrate the inevitability of word-association and to build trust in one's unfiltered, immediate thoughts by showing that the mind naturally synthesizes themes without conscious effort.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 8-15) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | low |
-| Physicality | none |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle facing inward. No props or special staging are required. The facilitator should frame this as a simple, low-pressure warm-up.
 

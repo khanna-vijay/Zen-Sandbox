@@ -76,20 +76,6 @@ In this comedic three-player scene, one player's character has an invisible, sen
 
 **Objective:** Develops advanced justification skills, active listening, and the ability to seamlessly integrate disruptive, absurd offers into a realistic scene.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–4 (ideal 3) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Three players stand in the performance space. No props are required. Player A (the Host) and Player C (the Partner) stand center stage. Player B (the Saboteur) stands slightly behind Player A, acting as the voice of the object in Player A's mouth.
 

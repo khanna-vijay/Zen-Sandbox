@@ -75,20 +75,6 @@ A structured scene-work exercise where players are paused mid-action to evaluate
 
 **Objective:** Develops narrative architecture and story-serving instincts by training players to recognize organic ending points and execute decisive, high-impact scene conclusions.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-16) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open playing space for two actors, with the remaining group observing as active audience members. No props or special materials are required.
 

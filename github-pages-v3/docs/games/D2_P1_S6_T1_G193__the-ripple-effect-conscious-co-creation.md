@@ -76,20 +76,6 @@ This is an active, scene-based exercise where players use physical markers like 
 
 **Objective:** To develop real-time boundary navigation and active listening skills, training players to seamlessly integrate consent check-ins and physical adjustments directly into active scene work without breaking narrative momentum.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–5 (ideal 3-5) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | Signal Stones (Green, Amber, Red) or colored cards |
-| Audience | not required |
-
 ## Setup
 Set up a moderate, open playing space. Provide each player with three small, easily concealable colored items (such as green, amber, and red cards or stones). Before starting, have players spend two minutes in silent reflection to identify their personal comfort zones for the day (e.g., physical proximity, emotional intensity, or specific themes) without sharing them aloud.
 

@@ -75,20 +75,6 @@ In this exercise, pairs of players collaborate to recall a fictional trip or eve
 
 **Objective:** To practice absolute agreement and immediate offer reception, training players to accept their partner's ideas as absolute truth and build upon them without hesitation.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal Pairs) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand or sit in pairs facing each other. No props or special staging are required; the game works in any open space.
 

@@ -77,20 +77,6 @@ A high-stakes, safety-focused skill drill where one player is secretly tasked wi
 
 **Objective:** To develop practical boundary navigation and active listening skills, specifically training players to prioritize personal safety and comfort over polite compliance, and to confidently execute and respect 'Cut' calls.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–6 (ideal 4-6) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An in-person space with a clear stage area and seating for 4 to 6 players. No props are required. The facilitator prepares a few secret prompts on slips of paper or is ready to whisper them to the designated Pusher player.
 

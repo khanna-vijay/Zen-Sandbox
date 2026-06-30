@@ -74,20 +74,6 @@ One player steps out of the room while the group establishes a vehicle, an unusu
 
 **Objective:** To develop deep active listening, physical endowment, and collaborative offer-gifting, training players to support their partner's discovery process rather than forcing information onto them.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 4-10) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Four players are selected. One player (the Hijacker) leaves the room or covers their ears. The remaining players, guided by the facilitator, select three secrets: 1) A specific mode of transportation (e.g., a hot air balloon, a tandem bicycle), 2) An unusual object to be used as a weapon (e.g., a wet noodle, a feather duster), and 3) A bizarre demand or destination (e.g., to fly to the moon, to get a free vegan donut). The remaining three players position themselves in the performance space, miming the environment of the vehicle.
 

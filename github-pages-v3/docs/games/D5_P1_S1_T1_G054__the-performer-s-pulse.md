@@ -80,20 +80,6 @@ This exercise trains performers to treat the audience as an active, living scene
 
 **Objective:** To develop a performer's ability to read a room and dynamically calibrate their physical, vocal, and narrative energy to match the audience's real-time engagement, transforming the fourth wall from a rigid barrier into a flexible, expressive tool.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Set up a clear performance space at one end of the room with the remaining participants seated as the audience. No props or materials are required. The facilitator stands near the audience, ready to observe the scene and call out the dynamic energy levels.
 

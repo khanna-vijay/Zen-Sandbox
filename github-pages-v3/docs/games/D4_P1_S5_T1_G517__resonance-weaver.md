@@ -77,20 +77,6 @@ Resonant Threads is an ensemble-building drill where players perform a series of
 
 **Objective:** To develop advanced thematic synthesis and group mind by training players to listen peripherally, retain minor details from previous scenes, and map those elements organically into new scenarios without disrupting the current scene's integrity.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 5-7) |
-| Time | ~40 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space with a few chairs. Players stand in a backline or semi-circle, ready to step forward. The facilitator needs a notepad and pen to silently track notable details (words, physical quirks, objects, emotional states) during play.
 

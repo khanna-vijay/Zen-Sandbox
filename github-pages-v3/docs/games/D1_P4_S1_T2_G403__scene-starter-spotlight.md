@@ -76,20 +76,6 @@ A high-energy, rapid-fire virtual drill designed to bypass self-censorship and b
 
 **Objective:** To develop unfiltered spontaneity and rapid scene initiation by practicing the principle that the first thought is a gift, while sharpening peripheral awareness and virtual presence.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 8–15 (ideal 8-15) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An online video meeting room with all participants on camera in grid view. All players must start with their microphones muted. The facilitator must have host privileges to use the platform's spotlight or pin-for-everyone feature. No physical props or materials are required.
 

@@ -80,20 +80,6 @@ In this virtual improv game, players begin a scene in complete silence, relying 
 
 **Objective:** Develops advanced offer reception and endowment-acceptance by training players to seamlessly absorb unexpected, privately delivered narrative shifts and immediately treat them as absolute truth, while sharpening active listening and physical storytelling.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Played on a virtual video conferencing platform. All players must have their cameras on, be in gallery view, and have their private chat window open and easily visible. Mics are muted by default at the start of the scene.
 

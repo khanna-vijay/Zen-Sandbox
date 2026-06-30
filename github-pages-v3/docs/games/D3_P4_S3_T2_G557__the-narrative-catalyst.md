@@ -80,20 +80,6 @@ Two players establish a grounded, low-stakes slice-of-life scene to build a soli
 
 **Objective:** To develop the ability to establish a stable platform (base reality) and execute a clean narrative tilt (inciting incident), using the 'if true, what else is true' principle to drive story progression.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | Catalyst Cards |
-| Audience | not required |
-
 ## Setup
 An in-person playing space with an audience area. The facilitator prepares a deck of index cards (Catalyst Cards), each containing a high-impact, disruptive narrative prompt (e.g., 'You just realized your partner is a wanted fugitive,' 'You found a map hidden inside the book you are holding'). Two players step up to perform, while the rest observe.
 

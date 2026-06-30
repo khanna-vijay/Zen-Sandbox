@@ -84,20 +84,6 @@ A high-level narrative exercise where performers break the fourth wall to share 
 
 **Objective:** To develop advanced audience-energy management and room-reading skills by treating the audience's non-verbal reactions as direct, narrative-altering offers.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-3 performers plus audience) |
-| Time | ~15 min |
-| Complexity | 4/5 |
-| Skill level | proficient |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 A standard performance space with a clear boundary between the stage and the audience. No props or special materials are required. The audience should be seated close enough for performers to observe subtle physical shifts, facial expressions, and breathing patterns.
 

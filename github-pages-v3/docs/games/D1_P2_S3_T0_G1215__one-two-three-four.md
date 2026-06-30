@@ -70,20 +70,6 @@ A high-energy physical warm-up where players substitute spoken numbers with spec
 
 **Objective:** To build physical coordination, establish a shared group rhythm, and practice 'failing joyfully' by embracing mistakes with laughter rather than frustration.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 1+ (ideal 2-30) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle (or spaced out in the room) with enough space to move their arms and touch their feet. No props needed.
 

@@ -78,20 +78,6 @@ In this physical, collaborative exercise, players work together to assemble a co
 
 **Objective:** To develop practical boundary navigation and real-time consent check-ins, training players to prioritize personal comfort over performative agreement while maintaining collaborative play.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | Boundary Cards |
-| Audience | not required |
-
 ## Setup
 An open, safe physical space with room to move. Prepare a set of pre-written Boundary Cards (index cards with specific physical or social boundaries, e.g., 'No physical contact on the shoulders', 'Must maintain a two-foot distance', 'No high-status commands'). Shuffle the cards and place them face down.
 

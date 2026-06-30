@@ -84,20 +84,6 @@ Status Weave is an advanced, high-cognitive-load partner exercise where players 
 
 **Objective:** To develop advanced status modulation and active listening by training players to simultaneously track, receive, and transform emotional, narrative, and power-dynamic offers in real time.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal Pairs) |
-| Time | ~8 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in pairs facing each other in a clear space. The facilitator provides a simple, low-stakes relationship and scenario.
 

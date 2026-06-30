@@ -75,20 +75,6 @@ A warm-up and scene-work exercise where players share real-life sources of perso
 
 **Objective:** To practice active gifting and endowment by listening closely to a partner's real-world preferences and deliberately setting up a scene to deliver that specific joy to them.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 5-15) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a line or semi-circle facing the playing area. No props or special materials are required; just a moderate open space for two-person scenes.
 

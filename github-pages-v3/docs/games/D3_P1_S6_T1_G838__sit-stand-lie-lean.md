@@ -77,20 +77,6 @@ Four players perform a grounded scene under a strict physical rule: at any given
 
 **Objective:** To develop physical justification, peripheral awareness, and active listening by seamlessly integrating sudden physical shifts into a coherent, emotionally grounded narrative.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–4 (ideal 4) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | chairs |
-| Audience | not required |
-
 ## Setup
 Place a few chairs on stage and identify a wall or sturdy object for leaning. Four players stand on stage. Obtain a simple relationship or location suggestion from the group to establish a base reality.
 

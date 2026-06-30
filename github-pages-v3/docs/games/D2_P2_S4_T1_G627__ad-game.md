@@ -75,20 +75,6 @@ Five players act as a high-energy creative team in an advertising agency. They m
 
 **Objective:** To practice immediate, unfiltered agreement ('Yes, And') and active listening, training players to treat their partner's first offer as an absolute gift.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–5 (ideal 5) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Five players stand in a semi-circle facing the rest of the group. No props or special staging are required.
 

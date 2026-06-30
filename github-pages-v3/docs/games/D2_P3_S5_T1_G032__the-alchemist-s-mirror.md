@@ -86,20 +86,6 @@ A structured, two-player exercise that trains improvisers to actively endow thei
 
 **Objective:** To develop the skill of active gifting and endowment-acceptance, training players to make their partners look brilliant by assuming their absolute competence and modulating status dynamics with precision.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (or any even number in pairs)) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players work in pairs, standing face-to-face with comfortable eye contact in a clear space. The facilitator secretly assigns a positive, high-status endowment target (e.g., 'possesses ancient, quiet wisdom' or 'is a master strategist') to one player in each pair (Player A) without Player B's knowledge.
 

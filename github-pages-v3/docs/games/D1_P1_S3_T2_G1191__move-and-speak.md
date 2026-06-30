@@ -70,20 +70,6 @@ A two-player scene-work drill where speech is strictly rationed by physical acti
 
 **Objective:** To break the habit of 'talking heads' scenes by tying verbal communication directly to physical world-building and 100% commitment to object work.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (per active scene)) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear performance space with no actual props. Two players stand ready to perform, while the rest of the group observes as an active audience.
 

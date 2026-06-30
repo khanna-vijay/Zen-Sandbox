@@ -70,20 +70,6 @@ Players move through the space, periodically stopping to open their hands and ca
 
 **Objective:** To develop unfiltered spontaneity and trust in one's first thoughts. By removing the time to plan, players learn to accept the very first image that enters their mind as a valuable gift, cultivating a playful relationship with failure.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 1+ (ideal 6-20) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open room with enough space for all participants to walk around freely without colliding. No props or materials are required.
 

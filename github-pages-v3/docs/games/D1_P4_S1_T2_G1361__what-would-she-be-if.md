@@ -76,20 +76,6 @@ In this low-stakes, high-connection exercise, one player stands before the group
 
 **Objective:** To develop unfiltered spontaneity and trust in one's first thoughts, training players to share immediate intuitive associations without self-censoring or overthinking.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 8-20) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | low |
-| Physicality | none |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand or sit in a comfortable circle. One volunteer steps into the center of the circle to be the subject of the portrait. No props or special materials are required.
 

@@ -82,20 +82,6 @@ The Story Architects is a hybrid improv game where players alternate between per
 
 **Objective:** To train competent improvisers in recognizing and constructing narrative architecture while applying the 'if true, what else is true' principle to build stakes and justify story developments.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–4 (ideal 2-4 players plus 1 facilitator) |
-| Time | ~15 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | Blueprint Cards (representing narrative beats), Consequence Tokens (poker chips or coins) |
-| Audience | not required |
-
 ## Setup
 Gather 2 to 4 players and 1 facilitator in a small performance space. Prepare a deck of 'Blueprint Cards,' each labeled with a narrative beat (such as Inciting Incident, Complication, Stake Escalation, Midpoint Reversal, Climax, or Resolution). Place a pile of 'Consequence Tokens' (such as poker chips or coins) in a central, accessible location.
 

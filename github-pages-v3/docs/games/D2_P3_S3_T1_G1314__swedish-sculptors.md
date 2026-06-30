@@ -79,20 +79,6 @@ In this deep, physical exercise, players divide into two groups: the Sculptors a
 
 **Objective:** To develop deep physical empathy, non-verbal communication, and spatial awareness by relying on tactile feedback and mirroring without visual cues.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 10-20) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | competent |
-| Energy | low |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, safe room with plenty of space to move without tripping hazards. Divide the group into two equal teams (Team A and Team B). No props are required, but players must be comfortable with gentle, respectful physical contact.
 

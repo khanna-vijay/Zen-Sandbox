@@ -75,20 +75,6 @@ An interactive training game where performers navigate a scene while receiving l
 
 **Objective:** To develop real-time audience-energy management and room-reading skills, specifically training performers to confidently break the fourth wall and use direct address as a deliberate tool to recalibrate a scene's connection with the crowd.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 8-15) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | Green, yellow, and red cards for each audience member |
-| Audience | required |
-
 ## Setup
 An performance space with 2-3 players on stage and an audience of 5 or more seated facing them. Each audience member is equipped with three colored cards: Green (highly engaged), Yellow (neutral/holding), and Red (disengaged/needs a shift). The facilitator stands to the side to moderate.
 

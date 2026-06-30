@@ -75,20 +75,6 @@ A structured pairing exercise that bookends a workshop or rehearsal. Players for
 
 **Objective:** To build psychological safety, practice explicit boundary negotiation, and establish a peer-to-peer support system for active gifting and reflection.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-3 per group) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 In-person, minimal space. Players stand or sit in pairs or trios. No props needed.
 

@@ -84,20 +84,6 @@ A non-verbal ensemble exercise where a single player instantly translates an evo
 
 **Objective:** To develop unfiltered spontaneity and emotional fluidity by training players to instantly express internal impulses physically and vocally, while building deep ensemble attunement.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–15 (ideal 6-10) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, quiet room with enough space for all players to move freely. Players stand in a loose circle or scattered throughout the space. No props or materials are required.
 

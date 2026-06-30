@@ -75,20 +75,6 @@ In this exercise, three players deliver sequential monologues inspired by a sing
 
 **Objective:** To develop narrative justification and reincorporation skills by listening deeply to previous monologues and discovering unexpected, logical connections between different characters and a central object.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | chair, random object |
-| Audience | not required |
-
 ## Setup
 Place a single chair in the center of the playing area. Position the rest of the group in a semi-circle facing the chair. Select a random, mundane physical object from the room (such as a stapler, a shoe, or a coffee mug) and place it clearly on the chair.
 

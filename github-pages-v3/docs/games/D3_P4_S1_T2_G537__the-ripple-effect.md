@@ -76,20 +76,6 @@ A scene-based exercise where players build narrative momentum by treating every 
 
 **Objective:** To master the principle of 'If this is true, what else is true?', training players to identify narrative games, raise stakes organically, and serve the story through tight, justified cause-and-effect progression.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle or semi-circle facing the performance space. No props or special staging are required. The facilitator prompts the first pair of players with a mundane, low-stakes location.
 

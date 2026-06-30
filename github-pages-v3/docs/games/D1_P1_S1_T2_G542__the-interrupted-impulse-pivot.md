@@ -79,20 +79,6 @@ A high-energy, fast-paced drill where players move through a space, instantly em
 
 **Objective:** To develop unfiltered spontaneity and rapid self-recovery by training players to bypass their analytical minds, embrace sudden changes, and commit 100% to contrasting physical and emotional states.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–15 (ideal 4-15) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, clear room with enough space for 4 to 15 players to move around safely at high speeds. No props or materials are required. The facilitator stands where they can see the entire group and project their voice clearly.
 

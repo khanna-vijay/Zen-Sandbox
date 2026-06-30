@@ -68,20 +68,6 @@ In this scene-based drill, two players improvise a scene where the first letter 
 
 **Objective:** To develop deep active listening, eliminate the habit of planning responses while a partner is speaking, and practice immediate offer reception.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–2 (ideal 2) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two players stand facing each other in the performance space. No props or special staging are required. The facilitator or remaining group members can provide a simple relationship or location suggestion to start.
 

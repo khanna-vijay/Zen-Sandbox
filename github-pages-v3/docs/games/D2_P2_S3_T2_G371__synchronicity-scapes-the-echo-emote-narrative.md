@@ -83,20 +83,6 @@ Emotional Echo Chambers is a virtual-native improv game where players build a sh
 
 **Objective:** To develop advanced emotional mirroring, non-verbal offer reception, and multi-modal agreement by utilizing digital platform features to echo and heighten a partner's emotional state.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–12 (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | yes |
-| Audience | not required |
-
 ## Setup
 Conducted on a video conferencing platform with all participants on camera in Gallery View. Players should have access to a variety of virtual backgrounds (abstract colors, textures, or locations) and know how to use platform reaction emojis. No physical props are needed, but players must be familiar with renaming themselves and using the platform's spotlighting features.
 

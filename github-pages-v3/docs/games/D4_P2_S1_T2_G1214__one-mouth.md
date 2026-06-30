@@ -81,20 +81,6 @@ In this exercise, one player acts as an interviewer while the remaining players 
 
 **Objective:** To develop deep peripheral awareness, active listening, and the ability to 'follow the follower' by matching vocal rhythm, pitch, and intent in real time.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 4-8) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An in-person playing space. One player is designated as the Interviewer and stands facing the rest of the group. The remaining players (the Chorus, ideally 3 to 7 people) stand shoulder-to-shoulder in a tight semi-circle or line, maintaining close physical proximity to maximize peripheral vision and auditory connection.
 

@@ -74,20 +74,6 @@ This is a classic long-form format where players perform a detailed, grounded op
 
 **Objective:** Develops thematic synthesis, narrative architecture, and active listening by training players to identify, extract, and expand upon subtle narrative threads from a single source scene.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–12 (ideal 6-10) |
-| Time | ~25 min |
-| Complexity | 4/5 |
-| Skill level | proficient |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 A performance space with a clear stage area and an off-stage 'backline' where the rest of the ensemble stands. No props or set pieces are needed, though two chairs can be placed on stage for the opening scene.
 

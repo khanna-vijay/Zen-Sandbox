@@ -75,20 +75,6 @@ A collaborative storytelling exercise where a small ensemble has exactly sixty s
 
 **Objective:** Develops narrative architecture, rapid offer acceptance, and thematic synthesis by forcing players to quickly agree on a story structure and execute it without overthinking.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–8 (ideal 4-6) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A semi-circle of 3 to 8 players facing a performance space. A facilitator with a stopwatch or timer is required. No props or special materials are needed.
 

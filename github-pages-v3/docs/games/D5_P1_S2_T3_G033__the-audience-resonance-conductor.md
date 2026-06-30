@@ -82,20 +82,6 @@ In this high-focus training drill, performers learn to read, respect, and active
 
 **Objective:** To develop advanced audience-energy management and room-reading skills, specifically training performers to break the fourth wall with deep, character-driven justification rather than cheap, unearned tricks.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~30 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | yes |
-| Audience | required |
-
 ## Setup
 Designate a performance area and an audience area. The facilitator (the Conductor) sits in the front row of the audience. For props, prepare a set of simple, high-contrast emotional cue cards (e.g., Joyful, Tense, Curious, Pensive, Neutral). For smaller groups or low-prep sessions, the Conductor can use simple hand gestures (e.g., thumbs up for Joyful, fists clenched for Tense) or write the target state on a small whiteboard, eliminating the need for complex printed cards.
 

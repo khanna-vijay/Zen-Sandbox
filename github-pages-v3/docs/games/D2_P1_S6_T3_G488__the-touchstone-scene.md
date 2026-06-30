@@ -73,20 +73,6 @@ A structured scene-work exercise where players must explicitly negotiate and obt
 
 **Objective:** To develop precise verbal and non-verbal negotiation skills for physical contact, establishing active, specific, and continuous consent as a foundational element of scene work.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–6 (ideal 2-3) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Arrange players in pairs or trios. Clear a moderate performance space. No props are required. Prepare a list of relationship prompts or scenarios that naturally invite physical proximity or touch (e.g., a tailor fitting a suit, a coach teaching a golf swing, or comforting a grieving relative).
 

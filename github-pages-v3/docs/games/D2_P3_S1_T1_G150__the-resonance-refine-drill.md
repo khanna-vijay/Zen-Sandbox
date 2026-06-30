@@ -80,20 +80,6 @@ This structured, repetitive partner drill isolates the mechanics of interpersona
 
 **Objective:** To develop precise active listening, empathetic mirroring, and conscious status modulation by systematically practicing the giving and receiving of positive endowments.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (or rotating pairs)) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in pairs, facing each other at a comfortable distance with steady, relaxed eye contact. The room should be relatively quiet to allow for close listening.
 

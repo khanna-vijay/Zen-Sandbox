@@ -86,20 +86,6 @@ A high-energy somatic drill where a solo performer rapidly transitions between e
 
 **Objective:** To develop immediate, whole-body emotional fluidity and vocal commitment while training a physical self-recovery mechanism to instantly bypass the inner critic.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–12 (ideal 4-8) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, quiet playing space. One player stands in the center as the 'Resonator,' one player acts as the 'Conductor' with a list of diverse emotions, and the remaining players sit as the supportive 'Chorus.' No props are required.
 

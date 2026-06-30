@@ -78,20 +78,6 @@ Two players perform a grounded scene in a mundane location while holding a speci
 
 **Objective:** To master the principle of 'Show, Don't Tell' by grounding characters in a deep, unspoken objective (C.R.O.W.), driving stakes, and modulating status without explicit exposition.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-10) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space with two chairs. The facilitator prepares a list of simple, everyday locations (e.g., a laundromat, a bus stop, a hardware store) and a list of psychological subtexts or behavioral drives.
 

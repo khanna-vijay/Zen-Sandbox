@@ -82,20 +82,6 @@ The Resonance Chamber is a partner-focused exercise designed to cultivate radica
 
 **Objective:** To develop advanced single-partner empathy, emotional mirroring, and active listening by prioritizing emotional validation over plot progression, ensuring every emotional offer is fully received and amplified.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal Pairs (6-12 players)) |
-| Time | ~45 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | hybrid |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in pairs facing each other with comfortable space to move. No props are required. The exercise can be run in-person or in a virtual gallery view where partners pin each other's video feeds.
 

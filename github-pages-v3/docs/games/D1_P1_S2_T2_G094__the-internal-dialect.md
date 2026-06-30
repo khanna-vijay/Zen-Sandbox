@@ -83,20 +83,6 @@ A fast-paced circle drill where players practice rapid emotional transformation 
 
 **Objective:** To develop emotional fluidity and substitution by training players to instantly access, commit to, and transition between diverse emotional states using a fixed physical and vocal template.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle facing inward. No props or materials are required. The space should be quiet enough for subtle vocalizations to be clearly heard.
 

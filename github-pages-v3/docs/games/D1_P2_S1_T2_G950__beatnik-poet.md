@@ -75,20 +75,6 @@ Players step up to the microphone as overly dramatic, pseudo-intellectual beatni
 
 **Objective:** To practice unfiltered spontaneity and joyful failure by embracing mistakes as high-energy, theatrical exits, while maintaining strong vocal delivery and audience connection.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 4-8) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An active performance space with a designated stage area and an audience area. No physical props are needed, though players can mime a microphone or stand. The remaining players line up at the back of the stage, ready to step forward.
 

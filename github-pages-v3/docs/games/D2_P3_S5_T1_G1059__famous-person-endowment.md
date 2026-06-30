@@ -73,20 +73,6 @@ In this scene-based endowment game, one player is given secret famous identities
 
 **Objective:** To develop active gifting and endowment skills, training players to make their partners look brilliant by treating them with specific, high-stakes status and characteristics.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 3-5) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An in-person stage space. One player is designated as the 'Giver' and remains on stage. The other 2 to 4 players (the 'Receivers') step out of earshot. The facilitator asks the audience for a well-known historical, fictional, or pop-culture figure for each of the Receivers.
 

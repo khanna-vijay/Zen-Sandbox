@@ -79,20 +79,6 @@ One player hosts a social gathering while several guests arrive one by one, each
 
 **Objective:** To develop physical characterization using distinct physical centers and walks, practice joyful failure through rapid-fire guessing, and master the art of justification in a high-energy comedic setup.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-6) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Clear a performance space to represent a living room or party venue. One player (the Host) leaves the room or plugs their ears. The remaining players (the Guests) stand offstage. The facilitator gathers distinct, highly physical quirks, historical figures, or bizarre habits from the audience for each guest.
 

@@ -73,20 +73,6 @@ Players stand in a tight, staggered cluster facing the same direction, mirroring
 
 **Objective:** To develop peripheral awareness, physical mirroring, and the ability to follow the follower by relinquishing individual control to the collective movement of the group.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 5-10) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | low |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a loose diamond or arrowhead formation in the center of the room, all facing the same direction with enough space to move their arms freely. No props are required, though low-tempo ambient music can be used to set the mood.
 

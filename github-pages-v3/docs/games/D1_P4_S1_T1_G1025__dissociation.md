@@ -68,20 +68,6 @@ This rapid-fire warm-up challenges players to speak a sequence of words that sha
 
 **Objective:** Develops unfiltered spontaneity and the ability to fail joyfully by bypassing the brain's analytical filters and embracing immediate, raw impulses.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 1+ (ideal 1-15) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | none |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle, or a single player stands facing the group. No props, materials, or special staging are required.
 

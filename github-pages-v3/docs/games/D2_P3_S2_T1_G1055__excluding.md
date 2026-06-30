@@ -75,20 +75,6 @@ A scene-based exercise for four to six players where alliances naturally form, l
 
 **Objective:** To master status modulation and the 'status seesaw' technique by dynamically adjusting one's social standing in response to group alignment, while practicing the principle of making your partner look good by enthusiastically accepting a low-status, excluded role.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–6 (ideal 4-6) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space. Four to six players stand or sit in a semi-circle or around an imaginary table. No physical props are required. The facilitator stands to the side to coach.
 

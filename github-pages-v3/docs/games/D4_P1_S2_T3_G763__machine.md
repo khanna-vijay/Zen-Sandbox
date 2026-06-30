@@ -80,20 +80,6 @@ Players collaborate physically to construct a complex, moving mechanical device 
 
 **Objective:** To develop group mind, physical support work, and spatial awareness by physically connecting to and building upon the offers of others without verbal planning.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-16) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, spacious room free of obstacles. Players stand in a line or semi-circle along the back wall, facing the open playing space.
 

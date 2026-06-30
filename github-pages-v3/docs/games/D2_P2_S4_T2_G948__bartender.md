@@ -76,20 +76,6 @@ A musical scene-work game where a troubled patron enters a bar and sings their h
 
 **Objective:** To develop deep active listening, immediate acceptance of partner offers (Yes-And), and vocal confidence by transforming a partner's absurd premise into a structured, supportive musical resolution.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–4 (ideal 2-4) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Two players stand on stage: one behind an imaginary bar counter (the Bartender) and one entering the space (the Patron). The remaining players or audience provide a suggestion of a minor, silly life problem (e.g., 'lost my favorite sock' or 'scared of houseplants'). An optional accompanist or simple rhythmic clapping can provide a steady beat.
 

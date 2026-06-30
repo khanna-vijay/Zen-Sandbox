@@ -77,20 +77,6 @@ Players split into two opposing teams to engage in a classic tug-of-war match us
 
 **Objective:** To develop physical endowment-acceptance and peripheral awareness by treating the partner's physical movements as absolute reality.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 8-20) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Clear a large open space. Divide the group into two equal teams facing each other in two parallel lines, leaving about ten to fifteen feet of empty space between the lead players of each line.
 

@@ -80,20 +80,6 @@ Players improvise a scene with playing cards secured to their foreheads, visible
 
 **Objective:** To master status modulation and the status seesaw technique by actively gifting status to partners, allowing them to accurately deduce and embody their own relative social standing.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–12 (ideal 4-8) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | deck of playing cards, rubber bands or string |
-| Audience | not required |
-
 ## Setup
 Gather a standard deck of playing cards and elastic headbands (or string) for each player. Have 4 players step forward. Place a random card on each player's forehead facing outward, ensuring they do not see their own card but can clearly see everyone else's. Establish a high-stakes hierarchical setting, such as a royal court or a prestigious kitchen.
 

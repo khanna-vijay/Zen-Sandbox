@@ -78,20 +78,6 @@ A rapid-fire physical warm-up where players stand in a circle and pass a kinetic
 
 **Objective:** To develop peripheral awareness, active listening, and group mind by training players to track multiple physical and vocal threads in real-time without hesitation.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 8-20) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a clear, open circle facing inward, ensuring everyone has clear sightlines to all other players. No props or materials are required.
 

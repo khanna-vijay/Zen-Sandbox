@@ -71,20 +71,6 @@ A two-player scene-work drill where every line of dialogue must begin with the p
 
 **Objective:** To master offer reception and active gifting by eliminating denial, establishing a rich base reality, and sharing the responsibility of world-building.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–2 (ideal 2) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two players stand facing each other in the performance space. No props or special staging are required. The rest of the group observes as the audience.
 

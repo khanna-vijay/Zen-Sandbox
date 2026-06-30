@@ -85,20 +85,6 @@ In this high-energy comedy game, players stand alongside a projection screen and
 
 **Objective:** Develops active listening, rapid offer reception, and vocal craft by requiring players to instantly justify external visual cues and integrate them with their partner's verbal choices.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–4 (ideal 2-4) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | Projector, Screen, Muted video clips, Microphones (optional) |
-| Audience | required |
-
 ## Setup
 Set up a projector and screen visible to both the audience and the players. Prepare a selection of short, muted video clips (1-2 minutes long) with clear character interactions. Position two to four players at the side of the screen with microphones (optional) so they can see the footage clearly without blocking the audience's view.
 

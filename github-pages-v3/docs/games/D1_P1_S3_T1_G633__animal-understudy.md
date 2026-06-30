@@ -75,20 +75,6 @@ Two players initiate a grounded, relationship-driven scene. At any moment, the f
 
 **Objective:** To develop 100% physical commitment and character embodiment using animal centers, while training players to joyfully justify unexpected physical offers and spatial shifts.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 6-10) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space with room to move safely. Two players stand in the center to begin the scene; the remaining players wait on the wings as the designated 'understudies.' No props or chairs are needed.
 

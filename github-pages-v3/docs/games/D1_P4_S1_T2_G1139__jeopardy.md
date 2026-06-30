@@ -76,20 +76,6 @@ A fast-paced comedy game where players are given a simple, factual answer and mu
 
 **Objective:** To train unfiltered spontaneity and rapid justification by treating the first absurd association that pops into your head as a perfect comedic gift.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 4-8) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | Paper and pen, Whiteboard or notepad |
-| Audience | required |
-
 ## Setup
 An active playing area for 3 to 8 players facing an audience. The facilitator needs a notepad, whiteboard, or paper and pen to record suggestions. Players stand in a line-up facing the audience.
 

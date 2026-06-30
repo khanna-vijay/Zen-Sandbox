@@ -74,20 +74,6 @@ In this high-energy performance game, players take turns stepping forward to del
 
 **Objective:** Develops rapid offer reception, immediate character commitment, and spontaneous verbal support under performance pressure.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 4-8) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | Slips of paper and pens (optional, for audience suggestions) |
-| Audience | required |
-
 ## Setup
 Players stand in a horizontal line at the back of the stage. The facilitator or host stands to the side with a collection of slips of paper containing anonymous confessions gathered from the audience before the show. The performance space in front of the line is kept clear.
 

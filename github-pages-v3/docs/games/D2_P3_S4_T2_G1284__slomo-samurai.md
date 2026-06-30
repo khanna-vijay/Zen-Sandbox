@@ -73,20 +73,6 @@ In this physical warm-up, players move through the space in continuous slow moti
 
 **Objective:** Develops physical offer reception and endowment-acceptance by prioritizing the partner's success and committing to a shared physical reality.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 8-20) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A large, open room free of obstacles. Players stand spaced out across the floor. No props are needed.
 

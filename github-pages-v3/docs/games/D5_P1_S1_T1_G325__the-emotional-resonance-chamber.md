@@ -76,20 +76,6 @@ In this exercise, players perform a standard scene while maintaining a porous fo
 
 **Objective:** To develop advanced room-reading and energy-calibration skills, training improvisers to treat the audience's collective mood as a live, dynamic scene partner and adjust their emotional output accordingly.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-15) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Set up a clear stage area with the remaining workshop participants seated as the audience. No props are required. The facilitator briefs the audience to react naturally without trying to 'help' or force reactions, and briefs the players on maintaining their characters while conducting silent 'vibe checks.'
 

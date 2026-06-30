@@ -81,20 +81,6 @@ In this classic comedy game, two performers improvise a grounded scene while two
 
 **Objective:** To master the art of justification and active listening by treating external, unpredictable auditory inputs as absolute truths that must be integrated into the scene's base reality.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 4-6) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear performance space for two actors, with two off-stage players positioned at the side where they have a clear, unobstructed view of the actors' physical movements.
 

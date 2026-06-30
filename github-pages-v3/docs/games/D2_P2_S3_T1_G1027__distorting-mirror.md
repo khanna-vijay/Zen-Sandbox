@@ -69,20 +69,6 @@ In this physical partner exercise, players stand face-to-face to explore movemen
 
 **Objective:** Develops physical empathy, active listening, and physical commitment by practicing physical 'Yes, And' through exaggeration and adaptation.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal Pairs) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Pairs stand facing each other with about three to four feet of space between them. Ensure the room has enough space for all pairs to move their arms and bodies freely without colliding.
 

@@ -80,20 +80,6 @@ A narrative-driven scene work game where players build a cohesive story while ad
 
 **Objective:** To develop the skill of justifying absurd or sudden shifts in a scene's reality while maintaining narrative continuity, deep active listening, and physical/vocal flexibility to serve the overall story.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | Stylistic Current cards |
-| Audience | not required |
-
 ## Setup
 A clear performance area at the front of the room with space for two to three active players. The facilitator prepares a set of cards, each featuring a distinct genre, tone, or atmospheric style (e.g., Gritty Detective Noir, High-Stakes Space Opera, Victorian Melodrama, Existential Absurdism, Over-the-Top Infomercial). The remaining participants sit as an active audience.
 

@@ -71,20 +71,6 @@ In this exercise, players move dynamically throughout the space with no designat
 
 **Objective:** To develop peripheral awareness, non-verbal connection, and the principle of 'follow the follower' by training players to react to subtle shifts in the group's collective physical state.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-25) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, obstacle-free room where players can walk freely. No props or materials are required. Players begin scattered throughout the space, facing different directions.
 

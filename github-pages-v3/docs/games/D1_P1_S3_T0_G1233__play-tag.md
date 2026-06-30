@@ -69,20 +69,6 @@ This is a high-octane physical warm-up that subverts the classic playground game
 
 **Objective:** To develop physical commitment, rapid decision-making, and a playful relationship with failure by leaning into risk rather than playing it safe.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 8-20) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A large, open room cleared of all obstacles, chairs, and tripping hazards. All players stand scattered throughout the space.
 

@@ -79,20 +79,6 @@ A solo performer takes the stage as an eccentric elder sharing a life story with
 
 **Objective:** This game develops rapid justification skills, narrative flexibility, and the ability to treat unexpected inputs as gifts. It trains performers to maintain a consistent character voice and story arc while seamlessly incorporating absurd, non-sequitur details.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 1+ (ideal 1 active player at a time) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | Slips of paper, Pens, A hat or container |
-| Audience | required |
-
 ## Setup
 Before the performance, audience members write down random phrases, idioms, or bizarre sentences on slips of paper. These slips are folded and placed in a hat or bowl on stage. A single chair is placed center stage for the performer, who acts as the storyteller.
 

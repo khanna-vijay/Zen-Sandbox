@@ -76,20 +76,6 @@ In this highly structured, fast-paced format, two teams of improvisers go head-t
 
 **Objective:** To master shortform game mechanics, develop sharp room-reading skills, manage audience energy, and understand how to serve a larger show format under pressure.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 8-12 players plus a referee) |
-| Time | ~90 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | large_open |
-| Props | brown paper bags, referee whistle, scoreboard |
-| Audience | required |
-
 ## Setup
 A large open stage with two distinct team benches on opposite sides, a central referee station, a visible scoreboard, a referee whistle, and several clean brown paper bags. An audience is seated facing the stage.
 

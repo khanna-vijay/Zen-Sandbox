@@ -86,20 +86,6 @@ A high-energy, two-player exercise where a grounded scene is suddenly disrupted 
 
 **Objective:** To develop rapid emotional mirroring, immediate offer acceptance, and collaborative justification under pressure, reinforcing the core principle of 'Yes, And' through shared emotional states.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | medium |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Conducted in a virtual meeting space with cameras on. Two active players are on screen, while other participants observe with cameras off. No physical props or special space are required, but players should have room to move within their camera frame.
 

@@ -81,20 +81,6 @@ Thematic Loom is an ensemble-building game where players perform a series of unr
 
 **Objective:** To develop the ensemble's ability to track, synthesize, and manipulate thematic threads (verbal, physical, and situational) across multiple scenes, fostering a shared Group Mind and advanced format literacy.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~30 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a semi-circle facing the performance space. No props or special materials are required. The facilitator obtains a single, open-ended suggestion from the group (e.g., 'a hidden compartment' or 'an unexpected delay') to inspire the first scene.
 

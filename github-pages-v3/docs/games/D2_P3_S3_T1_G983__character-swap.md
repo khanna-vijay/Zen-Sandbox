@@ -75,20 +75,6 @@ Two players initiate a scene with bold, distinct physical and vocal choices. At 
 
 **Objective:** To develop deep physical empathy, active listening, and precise mirroring skills by embodying a partner's unique character choices mid-scene.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 per round) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space. Two players stand in the playing area, while the rest of the group observes as active audience members. No props or chairs are needed, though one or two chairs can be used if the scene demands it.
 

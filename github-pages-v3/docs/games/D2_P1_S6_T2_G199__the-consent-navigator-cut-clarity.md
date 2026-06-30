@@ -76,20 +76,6 @@ This exercise integrates real-time consent negotiation directly into active scen
 
 **Objective:** To develop practical boundary navigation and active listening skills, empowering players to prioritize personal safety and truth over scene momentum by confidently executing and responding to cut calls.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | Boundary Cards, Bell or distinct sound cue |
-| Audience | not required |
-
 ## Setup
 An open, comfortable playing space. Prepare a set of index cards ('Boundary Cards'), each listing a specific personal boundary (e.g., 'Maintain at least two feet of physical distance,' 'No physical touch initiated by others,' 'Avoid direct, prolonged eye contact,' 'No high-volume shouting'). A bell, chime, or distinct sound maker for the facilitator.
 

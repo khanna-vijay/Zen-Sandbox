@@ -70,20 +70,6 @@ In this quiet, high-focus partner exercise, one player freezes in a dynamic pose
 
 **Objective:** To develop somatic empathy, non-verbal connection, and precise physical mirroring by relying on tactile feedback rather than visual cues.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (or any even number in pairs)) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | low |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Clear the room of any obstacles to ensure safety. Divide the players into pairs and have them find a comfortable space to stand with some distance from other pairs.
 

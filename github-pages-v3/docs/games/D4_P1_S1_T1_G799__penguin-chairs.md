@@ -72,20 +72,6 @@ In this high-energy ensemble game, players work as a silent, unified group to pr
 
 **Objective:** To develop deep peripheral awareness, non-verbal ensemble communication (Group Mind), and physical commitment to spatial composition.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–20 (ideal 8-15) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | large_open |
-| Props | Chairs (one per player) |
-| Audience | not required |
-
 ## Setup
 Scatter chairs randomly throughout a large, open room, ensuring there is exactly one chair per participant. Position the chairs so they face in various random directions. All players except one begin seated.
 

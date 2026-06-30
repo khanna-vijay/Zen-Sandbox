@@ -80,20 +80,6 @@ In this exercise, a small group of actors performs a standard scene while the re
 
 **Objective:** To develop advanced support work and group mind by training players to physically embody architecture, objects, and atmospheres that dynamically respond to and influence an active scene.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 5-10) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open playing space with no physical props. Divide the group: 2 to 3 players are designated as the Scene Actors, while the remaining 3 to 7 players form the Atmosphere Ensemble. The Atmosphere Ensemble stands ready around the perimeter of the stage.
 

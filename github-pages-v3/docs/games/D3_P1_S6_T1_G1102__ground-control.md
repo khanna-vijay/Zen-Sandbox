@@ -78,20 +78,6 @@ In this dynamic four-player scene, two actors perform a dialogue-driven scene wh
 
 **Objective:** To master physical justification and show-don't-tell by instantly finding logical, character-driven reasons for arbitrary physical movements imposed by an external force.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–4 (ideal 4) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | Flashlights, Cones for flashlights |
-| Audience | not required |
-
 ## Setup
 Four players: two designated as Actors and two as Controllers. The two Controllers stand at the back of the audience space or downstage corners, each holding a flashlight fitted with a high-visibility orange cone. The two Actors stand center stage. The performance space should have dimmable lighting so the flashlight beams are clearly visible.
 

@@ -74,20 +74,6 @@ Players stand in a circle with one caller in the center who triggers rapid-fire 
 
 **Objective:** To develop rapid group coordination, heighten peripheral awareness of neighbors, and practice failing joyfully by turning mistakes into spontaneous creative offers.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 8-15) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a wide circle facing inward, leaving a clear space in the center. One player volunteered to start in the center as the Caller. No props or materials are required.
 

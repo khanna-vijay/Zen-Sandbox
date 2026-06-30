@@ -78,20 +78,6 @@ The Unified Space Harold is an advanced long-form format that blends the three-b
 
 **Objective:** Develops advanced format literacy, spatial awareness, and thematic synthesis by forcing players to maintain narrative continuity and character tracks within a single, unchanging environment.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-10) |
-| Time | ~30 min |
-| Complexity | 5/5 |
-| Skill level | proficient |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An empty stage representing a single, defined location. A line of chairs or a back line for off-stage players. No physical props. An audience is present to provide a suggestion of a location.
 

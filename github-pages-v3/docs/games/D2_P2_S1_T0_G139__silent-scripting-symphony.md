@@ -81,20 +81,6 @@ A virtual narrative game where players collaborate on a silent scene using heigh
 
 **Objective:** To develop advanced active listening and offer reception by forcing players to split focus between visual physical cues and sudden, privately delivered narrative prompts, practicing radical acceptance of unexpected shifts.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Set up a virtual video meeting with all players in gallery view, cameras on, and microphones muted by default. Ensure every player has their private chat window open and easily visible alongside the video grid. No physical props or special space are required.
 

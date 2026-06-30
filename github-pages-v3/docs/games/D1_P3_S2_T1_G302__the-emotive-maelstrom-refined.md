@@ -86,20 +86,6 @@ A high-commitment physical and vocal drill where players deeply embody specific 
 
 **Objective:** To develop emotional fluidity and vulnerability by practicing rapid, full-bodied transitions between contrasting emotional states, bypassing cognitive filters through immediate physical and vocal commitment.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–12 (ideal 4-8) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, safe playing space free of obstacles. No props are required. Players should stand in a loose circle or spread out comfortably across the room to allow for unrestricted movement.
 

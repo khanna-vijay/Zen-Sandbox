@@ -78,20 +78,6 @@ Two players establish a grounded, low-stakes base reality before a facilitator-i
 
 **Objective:** To master the 'Platform and Tilt' technique by establishing a solid base reality and seamlessly integrating a sudden narrative disruption. Players learn to elevate stakes, redefine character objectives, and use immediate, justified action to advance the story.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Designed for a virtual meeting platform with cameras on. Two active players keep their cameras on, while the rest of the group turns their cameras off to act as the audience. The facilitator has a pre-prepared list of narrative disruptions ('tilts') ready to read aloud or drop into the chat.
 

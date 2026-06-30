@@ -75,20 +75,6 @@ Players move dynamically through a shared space, instantly adopting new physical
 
 **Objective:** To develop physical characterization, status modulation, and unfiltered spontaneity by committing instantly to physical centers and relationship prompts without pre-planning.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-30) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open room cleared of obstacles. All players stand scattered throughout the space, ready to move.
 

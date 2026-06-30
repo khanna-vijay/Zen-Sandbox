@@ -74,20 +74,6 @@ A structured scene-work exercise where players must explicitly check in with the
 
 **Objective:** To build practical skills in real-time boundary navigation, explicit verbal check-ins, and prioritizing personal/character truth over people-pleasing within a narrative scene.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–4 (ideal 2-4 per scene) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a neutral playing space. The facilitator establishes a clear, universal 'Cut' or 'Pause' signal that any player can use at any time to immediately halt action. No props or special materials are required.
 

@@ -81,20 +81,6 @@ Two hosts pitch a themed compilation album to the audience, inventing absurd son
 
 **Objective:** Develops active gifting, rapid offer reception, and vocal commitment by forcing partners into specific, challenging, and hilarious performance parameters.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–6 (ideal 4) |
-| Time | ~7 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Four players stand on stage. Two act as the television infomercial hosts (standing downstage left and right). Two act as the musical performers (standing upstage center, ready to step forward). No props or instruments are required.
 

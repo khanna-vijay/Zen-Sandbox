@@ -76,20 +76,6 @@ Players perform a grounded scene while embodying a specific assigned adjective. 
 
 **Objective:** Develops emotional fluidity and total commitment by challenging players to explore the extreme ranges of a single trait without losing narrative connection.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-4) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear performance space. Two to four players on stage, with the remaining group acting as active observers. No props or special materials needed.
 

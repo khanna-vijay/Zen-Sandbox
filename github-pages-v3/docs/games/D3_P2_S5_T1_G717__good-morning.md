@@ -78,20 +78,6 @@ Two players begin a scene asleep on stage. Upon waking at the facilitator's cue,
 
 **Objective:** To build a strong, physicalized base reality (C.R.O.W.) and establish character dynamics and environment before relying on verbal exposition.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 active players) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space with two chairs or space on the floor where two players can comfortably simulate sleeping. The rest of the group observes as the audience.
 

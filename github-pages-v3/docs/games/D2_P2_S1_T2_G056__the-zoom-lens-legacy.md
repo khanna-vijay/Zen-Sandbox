@@ -80,20 +80,6 @@ Legacy of the Frame is a collaborative, sequential storytelling game designed fo
 
 **Objective:** To train active listening, immediate offer reception, and narrative continuity in a digital environment. Players practice the 'Last Word Response' technique physically and verbally, learning to suppress pre-planning by treating the previous player's final moment as the mandatory foundation for their own scene.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–10 (ideal 6-10) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players join a virtual meeting room with cameras enabled. The facilitator prepares a single, evocative visual image (the 'Legacy Prompt') to share on screen, and establishes a clear, sequential player order in the chat. Players adjust their camera setups to ensure they have a small amount of physical space to move within their frame.
 

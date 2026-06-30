@@ -82,20 +82,6 @@ Grid Weavers is a virtual-native exercise that transforms individual video feeds
 
 **Objective:** Develops remote offer reception and endowment-acceptance by using clear physical boundaries, visual-first signaling, and active listening to overcome digital latency.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–6 (ideal 4-6) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | medium |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Conducted on a video conferencing platform with all participants in gallery view. Players position their cameras to show their upper torso, head, and hands clearly, with about an arm's length of space behind them. No virtual backgrounds are recommended to keep hand movements highly visible.
 

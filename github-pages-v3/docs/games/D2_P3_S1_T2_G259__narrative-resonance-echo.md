@@ -83,20 +83,6 @@ A structured, slow-tempo narrative game for pairs that transforms simple stateme
 
 **Objective:** To master active listening and partner elevation by using the Last Word Response technique, ensuring every offer is received physically, validated emotionally, and integrated logically into a shared narrative.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal Pairs) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Designed for virtual platforms. Players work in pairs. Ensure cameras are framed from the chest up so facial expressions and physical shifts are clearly visible. No physical props are needed.
 

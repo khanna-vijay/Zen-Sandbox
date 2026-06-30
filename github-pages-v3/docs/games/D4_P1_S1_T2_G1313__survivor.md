@@ -81,20 +81,6 @@ A high-energy performance game where an ensemble of four to six players improvis
 
 **Objective:** To develop advanced peripheral awareness, active listening, and narrative thread-tracking by forcing players to meticulously observe and recall their teammates' physical and verbal offers so they can replicate them when those teammates are removed.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–6 (ideal 4-6) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An open performance space with a clear stage area and an audience. Four to six players stand on stage, ready to receive a suggestion to start a 2-minute scene. No props or chairs are needed.
 

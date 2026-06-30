@@ -77,20 +77,6 @@ The Boundary Barometer is an active scene-work exercise that uses a continuous, 
 
 **Objective:** To develop real-time boundary navigation, active listening, and the ability to prioritize personal comfort ('Truth Over Pandering') through immediate, low-stakes check-ins and physical adjustments.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 4-6) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | colored cards (Green, Yellow, Red) - optional |
-| Audience | not required |
-
 ## Setup
 Players stand in a semi-circle. Two players step into the center to perform a scene. Each player is given a set of three colored cards (Green, Yellow, Red) or agrees on three distinct hand gestures (e.g., open palm for Green, flat waving hand for Yellow, closed fist for Red) to represent their current comfort level.
 

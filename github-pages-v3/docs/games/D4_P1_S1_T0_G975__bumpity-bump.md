@@ -69,20 +69,6 @@ Players stand in a circle, learning the names of their immediate neighbors. A pl
 
 **Objective:** To develop peripheral awareness and unfiltered spontaneity by forcing players to maintain connection with their immediate physical surroundings while under light, playful pressure.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 8-20) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Have all players stand in a shoulder-to-shoulder circle. Give them 30 seconds to introduce themselves to the players directly to their left and right, ensuring everyone knows their immediate neighbors' names. One player volunteer starts in the center of the circle.
 

@@ -71,20 +71,6 @@ Pulse Association is a high-energy, rhythmic warm-up where players pass word-cou
 
 **Objective:** To develop unfiltered spontaneity and rapid word-association skills by using a steady physical rhythm to bypass the analytical mind, training players to treat their first thought as a gift.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-15) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle facing inward. No props or special materials are required. The facilitator should ensure there is enough space for everyone to stand comfortably and clap or tap their thighs.
 

@@ -82,20 +82,6 @@ A virtual scene-work exercise where players balance spoken dialogue with a live-
 
 **Objective:** To develop advanced active listening and offer reception by forcing players to track, process, and 'Yes, And' both verbal dialogue and written subtext simultaneously, deepening character relationships and narrative nuance.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | computer with internet access, zoom client with chat enabled |
-| Audience | not required |
-
 ## Setup
 Conducted on a video conferencing platform. All participants must have their cameras on in gallery view and their public chat window open, undocked, and positioned next to the video grid for easy reading. No physical props are required, but a stable internet connection and a keyboard are essential.
 

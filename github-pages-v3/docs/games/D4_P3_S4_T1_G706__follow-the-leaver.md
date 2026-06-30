@@ -72,20 +72,6 @@ Follow the Leaver is a dynamic narrative editing game where the physical exit of
 
 **Objective:** To develop seamless editing skills, narrative pacing, and ensemble support by using physical exits as organic scene transitions.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space with a clear playing area and an offstage area where the rest of the ensemble stands ready to edit. No props or chairs are required.
 

@@ -78,20 +78,6 @@ Four players stand shoulder-to-shoulder to perform an improvised, rhythmic folk 
 
 **Objective:** To develop impeccable group timing, active listening, and vocal rhythm, ensuring that individual contributions always serve the overall structure and comedic pacing of the song.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–4 (ideal 4) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Four players stand in a straight line facing the audience. The facilitator or an accompanist establishes a steady, bouncy 4/4 rhythm (clapping, slapping thighs, or using a simple piano/guitar progression) to anchor the performance.
 

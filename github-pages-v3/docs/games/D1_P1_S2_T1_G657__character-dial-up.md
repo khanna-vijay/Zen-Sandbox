@@ -82,20 +82,6 @@ Players stand in a circle and pass a simple character choice—a line of dialogu
 
 **Objective:** Develops emotional fluidity, physical commitment, and active listening. It trains players to incrementally scale their emotional expression using the 1-to-10 dial technique and fully commit to extreme physical and vocal choices without hesitation.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 8-15) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a wide, clear circle with enough space to move their bodies freely. No props or materials are required.
 

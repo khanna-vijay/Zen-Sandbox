@@ -77,20 +77,6 @@ A dynamic, high-energy exercise where players navigate sudden, contrasting emoti
 
 **Objective:** To develop emotional fluidity and vulnerability by practicing emotional substitution—using a visceral, physical, or vocal release to cleanly transition between highly contrasting emotional states.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–6 (ideal 3-6) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, distraction-free playing space. No props are required. Group the participants into teams of three to six. One person acts as the facilitator, while two players enter the performance space to begin a scene.
 

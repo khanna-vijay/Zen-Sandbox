@@ -74,20 +74,6 @@ Players embody a flock of geese, using physical status walks, posture, and non-v
 
 **Objective:** Develops status modulation, physical characterization, and peripheral awareness by requiring players to read and adapt to subtle physical cues to establish a collective hierarchy.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-15) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open room with enough space for all players to walk around freely. No props or materials are required.
 

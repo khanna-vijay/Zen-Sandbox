@@ -79,20 +79,6 @@ Relational Blueprint is an active scene-work exercise where players treat bounda
 
 **Objective:** To develop advanced boundary navigation and active check-in techniques, training players to prioritize truth over pandering by integrating consent negotiations directly into the narrative fabric of a scene.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-12) |
-| Time | ~30 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | Boundary Modifier cards, Scene Prompt cards, Traffic Light cards (optional) |
-| Audience | not required |
-
 ## Setup
 A clear, open playing space with room for active scene work and an observing circle. Prepare a set of 'Scene Prompt' cards (scenarios with inherent relational tension) and 'Boundary Modifier' cards (secret character directives that challenge spatial, emotional, or physical comfort). Optional: Red, Yellow, and Green traffic light cards for visual check-ins.
 

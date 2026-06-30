@@ -80,20 +80,6 @@ This high-energy drill challenges players to instantly and fully embody a rapid 
 
 **Objective:** To cultivate unfiltered spontaneity and emotional fluidity by training players to immediately trust and fully commit to their first physical and vocal impulses without cognitive filtering.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–10 (ideal 4-10) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Clear a moderate-sized playing space. Have the group stand in a semi-circle. One player (the Reactor) steps forward to the center, facing the rest of the group and the facilitator (the Conductor). No props are required.
 

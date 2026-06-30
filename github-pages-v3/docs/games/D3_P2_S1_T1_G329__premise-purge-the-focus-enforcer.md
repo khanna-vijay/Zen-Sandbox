@@ -82,20 +82,6 @@ A structured scene-work drill designed to eliminate narrative wandering and trai
 
 **Objective:** To develop the ability to quickly identify a scene's core comedic or thematic engine (the 'game') and build the discipline to explore and heighten that single pattern while actively filtering out distracting, unrelated narrative threads.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space. No props or special materials are required. The group (ideally 6 to 12 players) sits as an audience, with two players stepping up to the stage. The facilitator is positioned where they can easily observe and call out cues.
 

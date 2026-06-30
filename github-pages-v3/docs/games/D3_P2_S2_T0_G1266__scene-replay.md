@@ -88,20 +88,6 @@ Two players perform a brief, realistic scene to establish a solid base reality. 
 
 **Objective:** Develops the ability to establish a strong base reality first, using subsequent stylistic filters to heighten and explore the scene's core game without losing the underlying relationship.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 4-12) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear performance space at the front of the room. The remaining participants act as the active audience and facilitators. No props or special materials are required.
 

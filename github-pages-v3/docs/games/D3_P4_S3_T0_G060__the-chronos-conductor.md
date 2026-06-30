@@ -86,20 +86,6 @@ A real-time narrative-shaping exercise where a side-coaching facilitator directs
 
 **Objective:** To develop a deep, physical understanding of narrative architecture and pacing, training players to use timing, pauses, and rapid-fire delivery to raise stakes, justify sudden emotional shifts, and control the scene's dramatic tension.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | hybrid |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two to three players stand in the performance space to initiate a grounded scene. The remaining players observe as the audience. The facilitator stands off-stage as the Conductor, ready to call out pacing directives. No props or special materials are required; the space should allow for free movement.
 

@@ -76,20 +76,6 @@ A foundational ensemble warm-up where players stand in a circle and pass a physi
 
 **Objective:** To develop group mind, active listening, and precise timing by aligning the ensemble's physical and auditory focus.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-20) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a comfortable circle facing inward, with enough space to turn slightly toward their neighbors. No props or materials are needed.
 

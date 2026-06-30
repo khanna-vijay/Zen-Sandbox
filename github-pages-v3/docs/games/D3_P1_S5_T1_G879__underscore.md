@@ -81,20 +81,6 @@ Two players perform a completely silent scene, using physical action and environ
 
 **Objective:** To develop physical storytelling, precise object work, and emotional responsiveness by stripping away dialogue and relying on musical cues to establish C.R.O.W. (Character, Relationship, Objective, Where).
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 players at a time) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | low |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | PA system or speaker, Music player, Selection of instrumental music tracks |
-| Audience | not required |
-
 ## Setup
 An open performance space with a clear stage area. A sound system (PA or Bluetooth speaker) connected to a music player loaded with a diverse playlist of instrumental tracks (e.g., melancholic piano, tense thriller strings, whimsical woodwinds, epic orchestral). Two players stand on stage, while the rest of the group observes as an audience.
 

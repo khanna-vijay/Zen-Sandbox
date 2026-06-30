@@ -70,20 +70,6 @@ A high-energy, physical warm-up where players pass an imaginary ball that must a
 
 **Objective:** To build resilience and self-recovery by practicing 'failing joyfully.' It trains players to embrace mistakes instantly, shake off self-judgment, and experience the safety of unconditional group support.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 8-20) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle with plenty of space to move. No physical props are needed, as the ball is entirely imaginary.
 

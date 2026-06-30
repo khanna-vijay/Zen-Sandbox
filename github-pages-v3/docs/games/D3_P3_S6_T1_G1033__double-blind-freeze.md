@@ -83,20 +83,6 @@ A high-energy, fast-paced scene game where off-stage players wait with their bac
 
 **Objective:** To train rapid physical justification and spontaneous scene-initiation by forcing players to inherit unknown physical postures, bypassing cognitive planning to start scenes in the middle of high-stakes physical moments.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-10) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An active stage area with ample space for physical movement. The remaining players form a queue facing completely away from the stage so they cannot see the active players.
 

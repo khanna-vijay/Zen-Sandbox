@@ -88,20 +88,6 @@ Resonance Weave is a two-player scene-building exercise that challenges improvis
 
 **Objective:** To develop advanced emotional mirroring, active listening, and the ability to track and build upon both factual and emotional offers, reinforcing the principle of making your partner look like a genius.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-12) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two players stand facing each other in the center of the playing space, maintaining soft eye contact. The remaining participants observe as active listeners. No props, chairs, or prior suggestions are needed.
 

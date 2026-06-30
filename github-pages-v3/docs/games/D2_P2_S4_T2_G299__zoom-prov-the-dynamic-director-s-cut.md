@@ -82,20 +82,6 @@ The Live Edit is a high-energy virtual improv game where active players perform 
 
 **Objective:** To develop advanced offer reception and endowment-acceptance under high cognitive load, training players to instantly treat external, unexpected digital inputs as absolute truths.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 8–15 (ideal 8-15) |
-| Time | ~15 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Conducted on a virtual meeting platform with gallery view enabled. All participants must have their text chat panels open. The facilitator (or a co-facilitator) must have host privileges to rename participants and spotlight video feeds. Players should have a few diverse digital backgrounds pre-loaded or easily accessible, though default platform backgrounds or simple physical adjustments work too.
 

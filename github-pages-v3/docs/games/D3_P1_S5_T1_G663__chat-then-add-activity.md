@@ -73,20 +73,6 @@ Two players begin a scene focused entirely on a verbal conversation topic. Mid-s
 
 **Objective:** To develop the ability to split focus between verbal storytelling and physical world-building, training players to show their environment and relationships through action rather than explaining them through dialogue.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (on stage) or pairs) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear stage area or classroom space. No props are needed. Players can work in pairs in front of the group, or the entire room can practice simultaneously in pairs.
 

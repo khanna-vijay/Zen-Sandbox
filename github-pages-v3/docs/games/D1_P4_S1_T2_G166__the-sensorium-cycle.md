@@ -90,20 +90,6 @@ A high-intensity, multi-sensory training drill where players continuously adapt 
 
 **Objective:** To develop unfiltered spontaneity and emotional fluidity by training players to instantly commit to their first physical and vocal impulses without cognitive filtering or hesitation.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~20 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | portable speaker or sound system, soft fabric cloth or scarf per player |
-| Audience | not required |
-
 ## Setup
 Clear a moderate-sized room so players can move freely without colliding. Provide each player with a soft fabric scarf or cloth. Set up a portable speaker connected to a sound system capable of playing diverse audio tracks (sustained drones, rhythmic beats, environmental soundscapes). Have the facilitator positioned near the audio controls to guide the transitions.
 

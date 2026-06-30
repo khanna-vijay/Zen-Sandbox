@@ -81,20 +81,6 @@ A solo performer receives a secret combination of an emotion and a physical cent
 
 **Objective:** To develop deep emotional fluidity and physical commitment by instantly embodying contrasting internal states and modulating their intensity without intellectualizing.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–10 (ideal 5-10) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | Index cards with emotions, Index cards with physical characteristics |
-| Audience | not required |
-
 ## Setup
 Prepare two decks of index cards: one containing distinct emotions (e.g., grief, ecstasy, paranoia, awe) and another containing physical centers or movement qualities (e.g., leaden feet, chest-forward, floating, rigid spine). Clear a performance space at the front of the room. Have the group sit as supportive observers.
 

@@ -84,20 +84,6 @@ A high-energy performance game where players perform a scene, periodically drawi
 
 **Objective:** To develop rapid justification of absurd offers, seamless narrative integration, and vocal spontaneity under pressure.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–6 (ideal 3-5) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | slips of paper with audience-written sentences, pens, containers or pockets to hold slips, musical accompaniment (instrumentalist or backing tracks) |
-| Audience | required |
-
 ## Setup
 Before the show, the audience writes random, mundane, or dramatic sentences on slips of paper. These slips are folded and distributed to the players (2-3 per player) to put in their pockets, unread. An accompanist (keyboardist, guitarist, or a tech person with backing tracks) is ready. The stage is clear.
 

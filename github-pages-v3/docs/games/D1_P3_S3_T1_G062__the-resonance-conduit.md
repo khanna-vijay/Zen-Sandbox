@@ -86,20 +86,6 @@ Somatic Echoes is a deep physical exercise where players bypass intellectual pla
 
 **Objective:** To develop deep intrapersonal awareness and vulnerability by using physical centers and weight/resistance to unlock spontaneous emotional states and organic vocalizations.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–10 (ideal 4-10) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a comfortable circle in an open, quiet room. The facilitator should have a list of abstract physical qualities (e.g., porous, dense, evaporating, jagged) ready to whisper to the first player. No props are needed.
 

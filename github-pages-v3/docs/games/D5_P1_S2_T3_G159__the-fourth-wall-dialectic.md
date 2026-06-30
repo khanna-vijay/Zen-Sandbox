@@ -83,20 +83,6 @@ A dynamic, directive-driven training drill where a primary performer navigates a
 
 **Objective:** To develop a performer's ability to read and manage audience energy, intentionally break and re-establish the fourth wall, and project physical and vocal choices clearly to the back row without losing the scene's narrative thread.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-15) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | index cards with directives, bell, chime, or buzzer |
-| Audience | required |
-
 ## Setup
 Set up a clear stage area facing an audience of non-playing participants. Prepare a set of large index cards with clear, bold audience-interaction directives. Have a bell, chime, or buzzer ready. Cast one primary performer (the 'Architect'), one or two supporting scene partners, and designate the facilitator (or an advanced student) as the 'Director' who holds the chime and cards.
 

@@ -77,20 +77,6 @@ A high-energy musical warm-up where players collaborate to describe a single loc
 
 **Objective:** To develop precise rhythmic timing, group mind, and spontaneous world-building by fitting descriptive imagery into a rigid musical structure.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 8-15) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle in an open space. No props or instruments are required, though a steady physical pulse (like clapping or chest-patting) can be established by the facilitator or the group.
 

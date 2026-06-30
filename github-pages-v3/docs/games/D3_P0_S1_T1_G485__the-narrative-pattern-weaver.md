@@ -76,20 +76,6 @@ An active observation and intervention drill where off-stage players watch a sce
 
 **Objective:** To train improvisers in real-time game identification, active listening, and the immediate, disciplined heightening of established comedic or narrative patterns.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two players start a scene in the center of the space. The remaining players stand on the sidelines as Weavers. No props or special staging required.
 

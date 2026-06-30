@@ -81,20 +81,6 @@ This progressive training exercise bridges the gap between the stage and the fur
 
 **Objective:** To develop the ability to treat the audience as an active scene partner by mastering physical projection, reading subtle room energy, and executing purposeful direct address to manage audience engagement.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–12 (ideal 6-10) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | large_open |
-| Props | tape or chairs to mark the Back Row Line, notecards for Audience Mood Objectives |
-| Audience | not required |
-
 ## Setup
 Mark a clear 'Back Row Line' at the far end of a large, open room using tape or a row of chairs. Prepare a few index cards with distinct 'Audience Mood Objectives' (e.g., 'Skeptical and Unimpressed', 'Easily Distracted', 'Highly Enthusiastic', 'Confused but Curious'). Divide the group: 2 to 3 players start on stage, 2 to 3 players act as 'Back-Row Observers' behind the line, and the remaining players observe or wait to rotate in.
 

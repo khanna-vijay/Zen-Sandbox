@@ -75,20 +75,6 @@ In this game, players begin a grounded, emotionally neutral scene. At random int
 
 **Objective:** Develops emotional fluidity and 100% commitment by training players to instantly shift their emotional state (using the 1-10 dial technique) without disrupting the established base reality.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 3-6) |
-| Time | ~8 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An open performance space. Two to three players stand on stage, while the rest of the group acts as the audience and facilitator.
 

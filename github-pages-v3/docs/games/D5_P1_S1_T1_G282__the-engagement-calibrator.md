@@ -75,20 +75,6 @@ The Silent Auditor is a real-time calibration drill designed to sharpen a perfor
 
 **Objective:** Develops real-time energy-calibration, stage presence, and the ability to treat the audience's energy as an active, final scene partner.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 4-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An in-person stage space with two performers on stage. One player is designated as the Auditor and sits in the middle of the audience seating area. The remaining players sit nearby as observers.
 

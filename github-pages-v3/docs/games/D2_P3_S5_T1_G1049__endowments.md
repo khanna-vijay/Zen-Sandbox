@@ -81,20 +81,6 @@ One player steps out of the room while the audience decides on a secret attribut
 
 **Objective:** Develops active gifting, offer reception, and the ability to make your partner look brilliant by endowing them with specific, usable traits.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 4-8) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 One player (the Receiver) steps out of hearing range. The remaining players (the Givers) and the audience agree on a secret identity, occupation, or quirk. The playing space is cleared for a standard two- or three-person scene.
 

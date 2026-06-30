@@ -80,20 +80,6 @@ A physical skill drill where players develop a distinct, repeatable physical ges
 
 **Objective:** To develop stage presence, physical projection, and the ability to read and manage audience energy by making a character's physical choices highly readable and responsive to the room.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 4-12) |
-| Time | ~30 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An open performance space with a designated stage area and an audience seating area. No props are required. Divide the group so that 3 to 5 players are on stage performing, while the remaining players act as the active audience.
 

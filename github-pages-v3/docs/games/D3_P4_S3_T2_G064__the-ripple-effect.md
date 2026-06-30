@@ -81,20 +81,6 @@ A structured scene-work exercise where players introduce a major narrative disru
 
 **Objective:** To master the 'Platform and Tilt' technique by establishing a stable baseline, introducing a disruptive narrative revelation, and rigorously exploring its multi-layered consequences to drive organic story progression.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An in-person playing space with a clear stage area and room for an audience of remaining players. No props or materials are required. The facilitator acts as the timekeeper and occasional side-coach.
 

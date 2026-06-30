@@ -82,20 +82,6 @@ This is a solo-in-group virtual training drill designed to help players access a
 
 **Objective:** To cultivate unfiltered spontaneity and emotional fluidity by training players to instantly accept their first cognitive or physical impulse as a gift, bypassing the analytical editor through immediate physical and vocal commitment.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | virtual |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players join a virtual video call with cameras on and microphones unmuted (or ready to quickly toggle). Each player ensures they have a safe, clear physical space within their camera frame and a home environment where they can vocalize freely without real-world disruption.
 

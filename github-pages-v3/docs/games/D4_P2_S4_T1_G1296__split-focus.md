@@ -74,20 +74,6 @@ Split Focus is an ensemble-building drill where two or more scenes share the sta
 
 **Objective:** Develops ensemble-wide peripheral awareness, intuitive pacing, and the ability to hand off or take focus organically (editing/transitioning) by reading the room and following the follower.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Define two distinct performance zones on stage (e.g., Stage Left and Stage Right). The remaining players sit or stand in the audience area as an active support pool. No props or special materials are required.
 

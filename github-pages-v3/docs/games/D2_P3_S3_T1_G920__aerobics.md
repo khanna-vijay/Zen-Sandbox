@@ -72,20 +72,6 @@ Players walk in a continuous circle, with each person closely observing and repl
 
 **Objective:** Develops deep physical empathy, active observation, and the ability to validate and match a partner's natural movement patterns without caricature.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-15) |
-| Time | ~10 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear, open room with enough space for all participants to walk in a large, unobstructed circle. No props required.
 

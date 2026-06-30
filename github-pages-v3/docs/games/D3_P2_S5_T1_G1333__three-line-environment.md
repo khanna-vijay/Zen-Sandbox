@@ -76,20 +76,6 @@ Two players collaborate to build a fully realized scene foundation—defining wh
 
 **Objective:** To master the rapid establishment of a scene's base reality by integrating physical environment work with economical, high-impact verbal offers.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–2 (ideal 2 (with rotating pairs)) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two players stand in the performance space. The rest of the group observes as the audience. No physical props or chairs are used; all objects and environmental elements must be mimed.
 

@@ -74,20 +74,6 @@ Two players perform a highly predictable, mundane sequence of actions to establi
 
 **Objective:** To master the 'Platform and Tilt' technique by building a stable base reality first, and then introducing a narrative disruption that must be justified and integrated realistically.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 players per round) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two chairs placed side-by-side to represent a couch. The rest of the playing space is clear. The facilitator prepares a few disruptive, high-stakes lines to whisper to one of the players before the second run.
 

@@ -78,20 +78,6 @@ A structured scene-work drill where players must verbally articulate their physi
 
 **Objective:** To develop advanced boundary navigation and physical negotiation skills, training players to proactively frame physical contact as a collaborative offer while honoring personal comfort and the principle of Truth Over Pandering.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, comfortable playing space. Players stand in a circle or semi-circle, with two players stepping into the center to perform a scene. No props or special materials are required.
 

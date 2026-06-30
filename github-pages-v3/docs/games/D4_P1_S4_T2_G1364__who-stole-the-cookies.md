@@ -70,20 +70,6 @@ Players stand in a circle and establish a steady, collective beat. Through a cal
 
 **Objective:** To develop group mind, active listening, and precise rhythmic timing by maintaining a shared tempo while dynamically passing focus.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-20) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Have all players stand in a circle facing inward. No props or special materials are needed. Ensure everyone can see and hear each other clearly.
 

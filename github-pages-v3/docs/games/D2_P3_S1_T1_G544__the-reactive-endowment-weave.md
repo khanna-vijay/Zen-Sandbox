@@ -86,20 +86,6 @@ This two-player exercise bridges the gap between pure repetition and organic sce
 
 **Objective:** To develop advanced active listening and emotional attunement by training players to read, accept, and amplify the subtle vocal and physical subtext behind their partner's words.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (or pairs in a larger group)) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in pairs facing each other in a quiet space, maintaining soft but steady eye contact. No props or physical stages are required. The facilitator prepares to offer simple, neutral starting observations.
 

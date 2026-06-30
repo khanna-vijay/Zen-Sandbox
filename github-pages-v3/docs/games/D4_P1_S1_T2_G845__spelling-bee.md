@@ -74,20 +74,6 @@ A collaborative word-play drill where a small group of players invents a complet
 
 **Objective:** To build group mind, active listening, and peripheral awareness by tracking multiple linguistic threads (letters, words, syntax) across a team without planning ahead.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 3-6) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Three to six players stand in a shoulder-to-shoulder line or a small semi-circle facing the facilitator. No props or special space required.
 

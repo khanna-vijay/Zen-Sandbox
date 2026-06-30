@@ -75,20 +75,6 @@ In this partner-based exercise, one player acts as a Seeker navigating an imagin
 
 **Objective:** To develop practical skills in negotiating physical contact, practicing proactive verbal check-ins, and honoring personal boundaries by prioritizing truth over pandering in real-time collaborative play.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal Pairs) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | low |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Divide players into pairs. Clear the room of physical obstacles to ensure a safe walking space. Designate one player as the Guide and the other as the Seeker. No props are required, but players need enough space to move around each other safely.
 

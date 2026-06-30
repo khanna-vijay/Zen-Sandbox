@@ -75,20 +75,6 @@ Players stand in a circle and pass the word 'Yes' in a single direction to build
 
 **Objective:** To develop group mind, active listening, and rapid pacing by training players to react instantly to auditory cues and maintain a collective rhythm.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-15) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Have all players stand in a circle facing inward. Ensure there is enough space for everyone to see and hear each other clearly. No props or materials are required.
 

@@ -75,20 +75,6 @@ A high-stakes, low-physicality scene-work drill where players practice continuou
 
 **Objective:** To develop advanced boundary navigation and active listening skills, specifically training players to use explicit check-ins and immediate adjustments to honor personal comfort over scene demands.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–5 (ideal 3-5) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Three to five players stand in a small circle in an open space. No props or special staging are required. The facilitator establishes a supportive, low-stakes physical environment and reviews the safety protocols before play begins.
 

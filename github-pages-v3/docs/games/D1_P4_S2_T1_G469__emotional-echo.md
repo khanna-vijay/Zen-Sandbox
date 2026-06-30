@@ -84,20 +84,6 @@ Emotional Echo is a non-verbal group exercise where players stand in a circle an
 
 **Objective:** To develop rapid emotional fluidity and physical responsiveness by training players to accept non-verbal offers instantly and scale their emotional intensity systematically using the 1-to-10 Emotional Dial.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–15 (ideal 5-10) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle with plenty of space to move safely. No props or materials are required. The facilitator should briefly introduce the concept of the Emotional Dial, where 1 is a tiny, barely perceptible seed of emotion, and 10 is absolute, explosive maximum expression.
 

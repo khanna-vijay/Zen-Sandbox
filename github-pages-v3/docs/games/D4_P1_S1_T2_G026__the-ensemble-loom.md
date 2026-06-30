@@ -79,20 +79,6 @@ A high-focus ensemble exercise where players collaboratively construct a multi-l
 
 **Objective:** To develop advanced group mind and peripheral awareness by training players to track, support, and synthesize simultaneous physical and vocal threads into a unified, cohesive stage picture.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~30 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, neutral playing space with clear sightlines. 4 to 8 players stand in a semi-circle, with the facilitator positioned off-stage to observe and offer minimal side-coaching.
 

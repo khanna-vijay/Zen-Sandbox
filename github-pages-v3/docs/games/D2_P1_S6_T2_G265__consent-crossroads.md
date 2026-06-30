@@ -74,20 +74,6 @@ A structured skill drill where two players perform a scene while a facilitator i
 
 **Objective:** To develop practical boundary navigation and offer reception skills, specifically training players to recognize internal discomfort, articulate conditions for physical or emotional safety, and confidently execute 'Cut' calls without prioritizing performance over personal well-being.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 3-15) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open playing space with two active players standing or sitting in the center. The remaining group members sit as supportive observers. No props or materials are required. Before starting, the facilitator establishes a supportive, low-stakes environment and reviews the three response options.
 

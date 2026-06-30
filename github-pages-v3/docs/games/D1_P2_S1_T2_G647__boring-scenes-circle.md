@@ -78,20 +78,6 @@ Players stand in a circle and perform brief, intentionally dull scenes with thei
 
 **Objective:** To develop unfiltered spontaneity and joyful failure by removing the pressure to perform, allowing players to trust their first thoughts and build a solid base reality.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-16) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Have all players stand in a circle in a moderate open space. No props or materials are needed.
 

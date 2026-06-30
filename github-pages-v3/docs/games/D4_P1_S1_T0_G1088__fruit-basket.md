@@ -75,20 +75,6 @@ Players sit in a circle with one person standing in the center. The center playe
 
 **Objective:** To develop peripheral awareness, physical responsiveness, and group mind by recognizing shared traits and navigating a crowded space safely and quickly.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 10-25) |
-| Time | ~10 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | moderate |
-| Props | Chairs (one fewer than the number of players) |
-| Audience | not required |
-
 ## Setup
 Arrange chairs in a tight circle facing inward. There must be exactly one fewer chair than the total number of players. One player starts standing in the center of the circle. Ensure the space inside and around the circle is clear of tripping hazards.
 

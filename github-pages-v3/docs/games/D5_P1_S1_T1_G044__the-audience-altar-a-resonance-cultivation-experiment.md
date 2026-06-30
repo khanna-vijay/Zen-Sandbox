@@ -82,20 +82,6 @@ This gamified training exercise uses a real-time visual feedback mechanism to ma
 
 **Objective:** To develop a performer's capacity for real-time room reading and energy-calibration, training them to actively manage audience engagement and play to the back row.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6+ (ideal 10-20) |
-| Time | ~45 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | Resonance Meter (physical dial, colored lights, or projected display), Challenge Cards |
-| Audience | required |
-
 ## Setup
 Set up a performance space facing an audience of remaining participants. Position a 'Resonance Dial' (a large physical whiteboard dial, colored cards, or a projected slider) where it is clearly visible to the performers on stage. Appoint 3 to 5 participants as the 'Resonance Council' and seat them at the front of the audience. Prepare 'Challenge Cards' containing specific scenarios and target energy pathways.
 

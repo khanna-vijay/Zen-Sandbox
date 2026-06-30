@@ -76,20 +76,6 @@ This structured exercise provides a safe, low-stakes environment for players to 
 
 **Objective:** To build practical skills in boundary navigation, active listening, and real-time consent communication. Players learn to prioritize performer safety and comfort over narrative momentum, transforming potential moments of friction into collaborative, creative pivots.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 4-6) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, comfortable performance space. No props or materials are required. Before beginning, the facilitator leads a brief, confidential circle where players can share any immediate physical or thematic boundaries (e.g., no touch to the face, no themes of family loss) to establish a baseline of safety.
 

@@ -75,20 +75,6 @@ A structured two-player scene drill where one player is secretly assigned a non-
 
 **Objective:** To develop practical skills in identifying, communicating, and respecting physical, emotional, and informational boundaries in real-time improvisation, demonstrating that safety and truth override default agreement.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open playing space with two chairs if needed. The facilitator gathers a group of 6-12 players in a circle. Two players are selected for the active scene: Player A (the Boundary Holder) and Player B (the Navigator). The rest of the group acts as active observers.
 

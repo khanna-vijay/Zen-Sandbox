@@ -75,20 +75,6 @@ In this dynamic scene-work drill, four players navigate a single scene where the
 
 **Objective:** To develop rapid justification skills and active listening, ensuring that sudden physical shifts are integrated logically into the scene's established base reality.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 4-8) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Clear a performance space with designated off-stage areas on either side. Gather four players. Assign each player a unique category cue word (e.g., a color, a number, an animal, or a household object). Two players start on stage in an active scene, while the other two wait off-stage, listening intently.
 

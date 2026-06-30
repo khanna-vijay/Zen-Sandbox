@@ -75,20 +75,6 @@ In this sensory-deprivation exercise, players perform an entire scene without an
 
 **Objective:** To cultivate hyper-focused active listening, vocal variety, and collaborative world-building under the 'Yes, And' principle by removing visual cues, forcing players to build scenes purely through sound, and mastering the pacing of auditory hand-offs.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-6) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A room that can be made completely dark, or where players can comfortably sit with their eyes closed. Ensure the floor is entirely clear of obstacles, chairs, and bags before beginning. For online play, players prepare to turn off their cameras and use high-quality audio settings.
 

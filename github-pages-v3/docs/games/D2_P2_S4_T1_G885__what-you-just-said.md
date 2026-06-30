@@ -74,20 +74,6 @@ A paired exercise where players stand face-to-face and begin every single line w
 
 **Objective:** To develop profound offer reception and active listening. Players practice unconditional acceptance ('Yes, And') by treating their partner's words as the most important thing in the room, bypassing intellectual planning to access genuine emotional responses.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (or pairs in a larger group)) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Divide the group into pairs. Partners stand facing each other in a comfortable space with enough room to focus on one another without excessive distraction from other pairs. No props or stage setup required.
 

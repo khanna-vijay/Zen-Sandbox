@@ -72,20 +72,6 @@ In this twist on a classic warm-up, players gather in a shared imaginary environ
 
 **Objective:** To develop acute offer reception and active gifting by learning to pitch ideas that prioritize the group's joy and physical playability over individual cleverness.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, safe playing space where all players can stand in a loose circle. No props or materials are required. The facilitator establishes a single, broad location (e.g., an amusement park, a ski resort, a medieval castle) to ground the initial suggestions.
 

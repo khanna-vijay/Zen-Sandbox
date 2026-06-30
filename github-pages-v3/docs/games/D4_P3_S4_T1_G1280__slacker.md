@@ -73,20 +73,6 @@ The Relay Edit is a fluid long-form structure where scenes transition seamlessly
 
 **Objective:** To develop advanced pacing, organic editing, and narrative architecture by using physical exits as the sole mechanism for scene transitions.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~20 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space with a clear stage area and an off-stage area where players can observe. No props or chairs are required.
 

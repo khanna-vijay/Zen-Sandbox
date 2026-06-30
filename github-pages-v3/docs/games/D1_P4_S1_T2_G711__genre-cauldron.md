@@ -72,20 +72,6 @@ Players stand in a circle around an imaginary cauldron, taking turns rapidly tos
 
 **Objective:** To train unfiltered spontaneity and rapid association, helping players trust their first thoughts and embrace the obvious clichés that define narrative genres.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-15) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle in an open space. No props or materials are required. The facilitator stands as part of the circle to introduce the first genre.
 

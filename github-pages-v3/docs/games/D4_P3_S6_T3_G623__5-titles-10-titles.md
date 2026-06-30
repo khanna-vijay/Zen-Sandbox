@@ -79,20 +79,6 @@ The Playlist is a structured montage format where players solicit a set number o
 
 **Objective:** To develop format literacy and ensemble awareness by managing the rhythm, variety, and transitions of a multi-scene performance, ensuring the collective set serves the piece as a cohesive whole.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 4-8) |
-| Time | ~25 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | Blackboard or whiteboard, Chalk or markers |
-| Audience | required |
-
 ## Setup
 Set up a large whiteboard or blackboard on stage where it is clearly visible to both the players and the audience. Provide markers or chalk. Arrange the players in a line or semi-circle on the back wall (the backline), ready to step forward.
 

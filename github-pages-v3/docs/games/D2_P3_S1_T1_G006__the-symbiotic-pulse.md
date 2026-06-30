@@ -89,20 +89,6 @@ Two players engage in a low-dialogue, high-attunement scene driven by secret rel
 
 **Objective:** To develop hyper-attuned active listening and precise status modulation by responding to a partner's non-verbal cues while pursuing a secret interpersonal goal.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (per turn), 6-16 workshop) |
-| Time | ~10 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two players stand facing each other, approximately three to five feet apart, in a neutral stance. The facilitator prepares a list of simple, low-action scenarios (e.g., waiting for a delayed train, standing in an elevator, watching a distant fire) and a set of secret relational agendas written on slips of paper or whispered privately.
 

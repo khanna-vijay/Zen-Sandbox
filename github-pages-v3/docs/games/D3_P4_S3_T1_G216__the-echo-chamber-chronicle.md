@@ -78,20 +78,6 @@ The Narrative Relay is a virtual-first storytelling game where players use platf
 
 **Objective:** Develops narrative architecture, active listening, and offer reception by training players to recognize what a story needs next and deliver it collaboratively under structural constraints.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–12 (ideal 6-12) |
-| Time | ~30 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | none |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A virtual meeting platform with gallery view, a text chat panel, and participant renaming capabilities enabled. No physical props or space required. Best suited for 6 to 12 players.
 

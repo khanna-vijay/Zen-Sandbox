@@ -73,20 +73,6 @@ Players stand in a circle and cross the space to deliver a spontaneous list of t
 
 **Objective:** To develop unfiltered spontaneity and rapid offer reception by forcing players to accept and build upon the very first thought that enters their mind without hesitation or self-censorship.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 8-15) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Have all players stand in a circle with clear space in the center to walk across. No props or materials are required.
 

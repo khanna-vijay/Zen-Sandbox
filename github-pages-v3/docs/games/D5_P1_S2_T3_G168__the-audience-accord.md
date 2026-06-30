@@ -78,20 +78,6 @@ A dynamic scene-work exercise where performers actively cultivate a specific col
 
 **Objective:** To master audience-energy management and direct address, training performers to treat the audience as an active co-creative partner whose collective state must be read, respected, and intentionally shifted.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-20) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 A performance space with 1 to 3 players on stage and the remaining participants seated as the active audience. The facilitator selects a target 'Accord' (e.g., Collective Sympathy, Shared Suspicion, or Intellectual Agreement) and displays it clearly for everyone to see.
 

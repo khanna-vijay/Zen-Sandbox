@@ -75,20 +75,6 @@ Two players perform a brief, grounded scene with clear physical actions and emot
 
 **Objective:** To develop vocal variety, emotional commitment, and physical storytelling by stripping away literal words, forcing players to rely on tone, tempo, and body language.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-10) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open playing space. Two active players stand in the performance area, while the rest of the group observes as an active audience. No props or special materials are required.
 

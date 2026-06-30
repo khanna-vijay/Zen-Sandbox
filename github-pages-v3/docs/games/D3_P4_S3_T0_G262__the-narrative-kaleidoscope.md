@@ -72,20 +72,6 @@ An active scene-building game where players pivot their choices at critical junc
 
 **Objective:** To develop advanced narrative architecture and choice-making skills. Players learn to serve the story by consciously breaking habitual performance patterns, deepening character stakes, and practicing immediate justification of unexpected narrative offers.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 3-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | yes |
-| Audience | not required |
-
 ## Setup
 Designed for a virtual platform. The facilitator prepares a digital list of Choice Modifiers. Sample Modifiers include: 'Reveal a hidden vulnerability', 'Raise the stakes by making a confession', 'Shift to a high-status physical posture', 'Express a secret admiration for your partner', or 'Introduce an urgent, unspoken deadline'. Two players turn their cameras on to perform the scene, while the remaining participants keep cameras off as active observers.
 

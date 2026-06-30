@@ -85,20 +85,6 @@ An advanced ensemble exercise where players transition between scenes by extract
 
 **Objective:** To develop high-level group mind and thematic synthesis by training players to track emotional threads, execute organic ensemble-driven edits, and connect scenes through abstract resonance rather than narrative continuity.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~20 min |
-| Complexity | 4/5 |
-| Skill level | proficient |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, moderate-sized playing space. Four to eight players stand in a wide semi-circle or perimeter formation, facing the stage area. No props or chairs are used. The facilitator secures a single abstract noun or thematic word from the group to serve as the initial seed.
 

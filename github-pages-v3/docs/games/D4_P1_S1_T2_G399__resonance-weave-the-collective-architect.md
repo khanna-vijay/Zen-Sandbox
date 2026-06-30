@@ -83,20 +83,6 @@ Resonant Tapestry is an advanced ensemble game where players collaboratively com
 
 **Objective:** To develop deep Group Mind and high-level Peripheral Awareness by training players to track multiple thematic, physical, and vocal threads simultaneously, allowing them to make contributions that serve the emergent composition rather than individual narrative agendas.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–10 (ideal 4-7) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, clear playing space with no chairs or props. Players stand in a semi-circle facing the stage area, ready to step in. The facilitator prepares a list of abstract sensory prompts to initiate the play.
 

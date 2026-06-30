@@ -75,20 +75,6 @@ In this game, a small group of players portrays lifelong friends recounting a sh
 
 **Objective:** Develops active gifting, endowment, and partner support by training players to make their teammates look brilliant through shared history.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–6 (ideal 3-4) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Three to six players stand in a comfortable line or semi-circle facing the group. The facilitator obtains a suggestion of a simple, shared experience (e.g., 'getting a flat tire' or 'eating a giant meal').
 

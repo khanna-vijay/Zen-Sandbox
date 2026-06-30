@@ -79,20 +79,6 @@ A structured scene-work exercise where players alternate between performing in-c
 
 **Objective:** To master narrative architecture and story progression by identifying and integrating the logical and emotional consequences of every offer, directly training the 'if this is true, what else is true' principle.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-10) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Designed for a virtual platform. Two active players turn their cameras on, while the facilitator and remaining ensemble keep cameras off to act as the audience. No physical props or special space required.
 

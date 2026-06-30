@@ -77,20 +77,6 @@ A two-player narrative drill where one player acts as an adoring chronicler who 
 
 **Objective:** To develop active gifting and high-status offer reception by training players to enthusiastically endow their partners with competence, and to help players overcome the instinct to deflect praise or downplay their character's capabilities.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (in pairs)) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players split into pairs and find a comfortable space in the room. No props or special staging are required. The facilitator explains the two roles: the Chronicler (the supportive champion) and the Hero (the celebrated genius).
 

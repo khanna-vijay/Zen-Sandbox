@@ -70,20 +70,6 @@ Players stand in a circle and pass an imaginary ball to one another, with the tw
 
 **Objective:** To develop self-recovery and the ability to fail joyfully by conditioning players to associate mistakes with group support rather than shame.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 8-20) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle with clear sightlines to one another. No physical props are needed; the ball is entirely imaginary.
 

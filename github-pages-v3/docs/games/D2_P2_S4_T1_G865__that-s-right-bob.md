@@ -77,20 +77,6 @@ Two players act as co-hosts on a live home shopping television network, selling 
 
 **Objective:** To master the core mechanics of 'Yes, And' by practicing immediate offer reception, active listening, and collaborative heightening under a playful linguistic constraint.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–2 (ideal 2) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two players stand side-by-side facing the front of the room, as if looking directly into a television camera. No physical props are used; all products and their features are entirely mimed and described. The facilitator or audience provides a simple, mundane object as a starting inspiration.
 

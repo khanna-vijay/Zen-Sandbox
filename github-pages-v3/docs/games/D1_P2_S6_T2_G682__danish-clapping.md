@@ -73,20 +73,6 @@ A high-energy, fast-paced partner game where players attempt to maintain a stead
 
 **Objective:** To build rapid self-recovery and a joyful relationship with mistakes by reframing coordination slips, hesitation, and missed cues as opportunities for playful connection rather than failure.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-30 (in pairs)) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players pair up and stand facing each other with about arm's length of space between them. No props or special materials are required.
 

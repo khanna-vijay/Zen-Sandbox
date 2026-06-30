@@ -80,20 +80,6 @@ A structured performance drill where players execute a scene or monologue while 
 
 **Objective:** To develop advanced room-reading and energy-calibration skills, training performers to treat the fourth wall as a flexible tool rather than a rigid barrier, thereby treating the audience as an active, living scene partner.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 8-15) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | Three distinct colored cards (Green, Yellow, Orange/Red) |
-| Audience | required |
-
 ## Setup
 An in-person performance space with a clear stage area and an audience area. The facilitator stands in the audience holding three distinct colored cards: Green (Invisible Wall), Yellow (Permeable Wall), and Red/Orange (Dissolved Wall). The remaining workshop participants sit in the audience, primed to act as a responsive sounding board.
 

@@ -78,20 +78,6 @@ In this fast-paced scene game, a cast of actors attempts to perform a movie scen
 
 **Objective:** To develop rapid justification skills by forcing players to instantly integrate absurd external constraints into an established base reality without breaking character or narrative continuity.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–6 (ideal 4-6) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Set up a clear stage area for 2 to 5 actors. One player is designated as the Director and stands downstage, facing the actors with their back to the audience. No props or chairs are needed, though players can mime objects as established by their base reality.
 

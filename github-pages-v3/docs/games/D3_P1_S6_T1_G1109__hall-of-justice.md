@@ -80,20 +80,6 @@ In this high-energy, comedic game, players take on the roles of superheroes, sid
 
 **Objective:** To develop physical commitment, active gifting, and the ability to justify absurd offers on the spot, transforming random suggestions into coherent character traits and stage actions.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 6-10) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An open performance space with an audience. No props are needed. The facilitator prepares to gather four distinct, unrelated suggestions from the audience (such as household objects, daily routines, minor ailments, or office supplies).
 

@@ -79,20 +79,6 @@ A structured performance drill where a solo player runs a simple scene while act
 
 **Objective:** To develop active room-reading skills and intentional energy-calibration, training improvisers to treat the audience as an active scene partner whose non-verbal cues dictate staging and engagement choices.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-15) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 A clear stage area for the performer and a seated audience area. No props are required, though a single chair can be used. The facilitator stands near the audience to observe both the performer and the crowd.
 

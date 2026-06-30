@@ -80,20 +80,6 @@ In this quiet, high-focus exercise, players stand in a circle and collectively b
 
 **Objective:** To develop Group Mind and advanced Thematic Synthesis by training players to track multiple abstract threads simultaneously, make non-linear associative leaps, and intuitively pace a collective piece to a shared conclusion.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–7 (ideal 3-7) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An intimate, quiet space. Three to seven players stand in a loose circle. No props, chairs, or physical materials are required. The facilitator should ensure the room is free of distracting noise to support deep listening.
 

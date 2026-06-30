@@ -80,20 +80,6 @@ In this fast-paced scene-building exercise, two chairs on stage represent a sing
 
 **Objective:** To develop rapid offer reception and endowment-acceptance, training players to instantly agree to physical and situational realities established by their partners.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-14) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | Two chairs |
-| Audience | not required |
-
 ## Setup
 Place two chairs side-by-side in the center of the playing area, facing the audience. The rest of the group sits in an audience line or semi-circle facing the stage area. No other props are needed.
 

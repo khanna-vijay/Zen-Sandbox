@@ -82,20 +82,6 @@ An advanced ensemble exercise where players perform a rapid succession of short,
 
 **Objective:** To develop high-level thematic synthesis and group mind by training players to deconstruct scenes for subtext (A-to-C association) and execute seamless, organic group edits without verbal cues.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–10 (ideal 5-10) |
-| Time | ~15 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space with a clear stage area and an off-stage backline where the ensemble stands. No props or chairs are required. The facilitator or an audience member provides a single abstract suggestion (e.g., Gravity, An Unopened Letter).
 

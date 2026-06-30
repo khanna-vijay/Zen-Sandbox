@@ -75,20 +75,6 @@ The Director's Cut is a multi-layered longform game where players improvise both
 
 **Objective:** To develop format literacy and narrative architecture by teaching players how to manage pacing, transition between different narrative layers, and serve the broader structure of a piece.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-10) |
-| Time | ~25 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An open performance space with a designated stage area. Place one chair downstage left or right for the Director, facing the stage at an angle so they can see both the actors and the audience. No props are required.
 

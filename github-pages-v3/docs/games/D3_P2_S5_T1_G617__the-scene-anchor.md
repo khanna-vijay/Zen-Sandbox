@@ -78,20 +78,6 @@ A structured, pre-dialogue exercise where three players sequentially establish a
 
 **Objective:** To master the rapid establishment of C.R.O.W. (Character, Relationship, Objective, Where) and build a robust base reality, ensuring scenes start with immediate momentum, clear stakes, and shared agreement.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 3 per group) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A moderate open space. Three players stand on stage in a line, facing the remaining players who act as observers. The facilitator obtains a simple, non-dramatic suggestion of a location or object to kick off the round.
 

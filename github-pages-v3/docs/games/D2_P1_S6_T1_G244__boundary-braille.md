@@ -73,20 +73,6 @@ This structured exercise trains improvisers to navigate physical and emotional i
 
 **Objective:** To develop proactive boundary navigation, active listening, and honest offer reception by practicing structured, in-scene check-ins and prioritizing personal safety over pleasing the audience.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–5 (ideal 3-5) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open playing space with no props. Two players stand in the center to perform a scene, while one to three players stand on the perimeter as active observers and facilitators.
 

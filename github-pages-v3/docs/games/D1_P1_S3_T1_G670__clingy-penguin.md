@@ -79,20 +79,6 @@ This exercise challenges players to instantly step into a unique character arche
 
 **Objective:** Develops total physical commitment, emotional fluidity, and the ability to build a character from the outside in using physical centers.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-16) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open space where players can move freely. Divide the group into two parallel lines facing each other, designated as Line A and Line B.
 

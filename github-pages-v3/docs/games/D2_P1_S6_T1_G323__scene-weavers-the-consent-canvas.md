@@ -75,20 +75,6 @@ A structured scene-work exercise where players actively pause the action to chec
 
 **Objective:** To develop practical skills in real-time boundary navigation, active listening, and explicit check-ins, ensuring players prioritize personal safety and authentic partner connection over performance pressure.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–5 (ideal 3-5) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, comfortable playing space. Two active players stand in the center, while one to three players observe from the side. No props or materials are required. The facilitator prepares a few low-stakes, relationship-focused scene prompts.
 

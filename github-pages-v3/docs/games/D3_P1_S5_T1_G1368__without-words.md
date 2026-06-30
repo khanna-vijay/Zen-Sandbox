@@ -73,20 +73,6 @@ In this scene-work drill, players perform a fully realized scene without speakin
 
 **Objective:** Develops physical world-building, active listening, and the C.R.O.W. framework (Character, Relationship, Objective, Where) by forcing players to show rather than tell.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–4 (ideal 2-4) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear performance space with no physical props. Two to four players stand ready to enter the playing area.
 

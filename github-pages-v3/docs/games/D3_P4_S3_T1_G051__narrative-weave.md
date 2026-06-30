@@ -81,20 +81,6 @@ A structured narrative scene-work game where players balance macro-level plot po
 
 **Objective:** To master narrative architecture and story progression by integrating fixed plot points and sudden character-driven catalysts, training players to justify unexpected shifts and explore their logical consequences.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~20 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | hybrid |
-| Space | minimal |
-| Props | Whiteboard or large cards for Plot Beats, Pre-printed Catalyst Cards, Pen and paper for Character Seeds |
-| Audience | not required |
-
 ## Setup
 A whiteboard, digital screen, or large index cards visible to all players. A set of pre-written Plot Beats (e.g., 'An item breaks', 'An alliance shifts'). A deck of Catalyst Cards containing narrative prompts (Flashback, Confession, External Shift). Scrap paper and pens for players to write their character's secret Want and Avoid. Space for 2-3 active players, with the remaining participants acting as active observers.
 

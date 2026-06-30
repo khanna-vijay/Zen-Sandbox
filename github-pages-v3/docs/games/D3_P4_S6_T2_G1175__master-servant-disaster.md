@@ -75,20 +75,6 @@ Two players take on high and low status roles—a demanding master and an apolog
 
 **Objective:** To practice narrative reincorporation and justification, training players to accept offers, raise stakes logically, and connect disparate details into a single cohesive storyline.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–2 (ideal 2) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two players stand or sit facing each other in a performance space. No props or special staging are required. One player is designated as the high-status Master, and the other as the low-status Servant.
 

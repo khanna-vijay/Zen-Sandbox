@@ -72,20 +72,6 @@ In this lively guessing game, one player steps out while the remaining four obta
 
 **Objective:** To develop active gifting and endowment skills, training players to make their partner look brilliant by feeding them clear, physical, and contextual clues while maintaining a cohesive scene.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 5) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Five players stand on stage in front of an audience. No physical props are required. One player is designated as the Guesser and temporarily leaves the room or plugs their ears so they cannot hear the setup.
 

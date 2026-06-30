@@ -81,20 +81,6 @@ In this high-agility exercise, players initiate a grounded scene only to have a 
 
 **Objective:** Develops advanced narrative justification and adaptability. It trains players to treat disruptive, absurd, or contradictory information not as a mistake, but as a hidden truth that explains and elevates all prior actions, thereby serving the integrity of the story.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a semi-circle facing the performance space. No props or special materials are required. One person acts as the Facilitator, while two or three players step forward to begin the scene.
 

@@ -71,20 +71,6 @@ A high-energy physical warm-up where players move dynamically through the space 
 
 **Objective:** To develop physical spontaneity and character generation using the outside-in method, training players to trust their first physical impulse as a creative gift.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 1+ (ideal 6-20) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, obstacle-free room where players can move around safely at various speeds. No props or materials are required.
 

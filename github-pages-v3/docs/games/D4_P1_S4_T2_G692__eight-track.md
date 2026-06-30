@@ -74,20 +74,6 @@ Stereo Loop is an ensemble-building warm-up where players establish unique, sync
 
 **Objective:** To develop group mind, precise rhythmic timing, and peripheral awareness by committing to shared physical and vocal cues with adjacent players.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-15) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a comfortable circle facing inward. No props or materials are required. Ensure there is enough space for everyone to turn and clap comfortably.
 

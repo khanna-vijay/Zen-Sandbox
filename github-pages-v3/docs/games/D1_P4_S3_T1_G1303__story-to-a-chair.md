@@ -73,20 +73,6 @@ A solo physical character drill where a player stands before empty chairs, narra
 
 **Objective:** To bridge the gap between verbal imagination and physical embodiment, training players to trust their first narrative thoughts and instantly translate them into distinct physical centers and postures.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 1–1 (ideal 1 (or taking turns in a group)) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | chairs |
-| Audience | not required |
-
 ## Setup
 Place two to three sturdy chairs in the performance space, facing slightly towards each other. The player stands in a neutral space nearby.
 

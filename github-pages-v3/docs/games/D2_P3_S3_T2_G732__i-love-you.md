@@ -77,20 +77,6 @@ Two players improvise a grounded, relationship-focused scene. At some point duri
 
 **Objective:** To develop deep emotional connection, vulnerability, and active listening. It trains players to focus on their partner's emotional state, mirror and echo emotional stakes, and elevate the relationship over plot or conflict.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (played in pairs)) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two chairs placed center stage. The rest of the group acts as supportive observers. No props or special materials are required.
 

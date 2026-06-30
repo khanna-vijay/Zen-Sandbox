@@ -77,20 +77,6 @@ A high-level training drill where a performer navigates a scene while treating t
 
 **Objective:** To develop advanced room-reading and energy-calibration skills, training performers to treat the audience as an active scene partner and make deliberate, character-driven choices to engage or disengage the crowd.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-15) |
-| Time | ~15 min |
-| Complexity | 4/5 |
-| Skill level | proficient |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Set up a clear performance space facing an audience of workshop participants. No props are required. Before starting, the facilitator briefs the audience on silent hand signals used to manipulate their collective energy (e.g., hand raised means lean in and murmur; hand lowered means withdraw and become passive).
 

@@ -72,20 +72,6 @@ A high-energy drill where players leap onto the stage the split-second a locatio
 
 **Objective:** To develop unfiltered spontaneity and rapid world-building by training players to trust their very first instinct as a valuable gift, establishing a clear Who, What, and Where without hesitation.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-16) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An active performance space with a designated stage area and an off-stage wing area. The group stands in the wings or off-stage, ready to enter. One player acts as the Facilitator or Host standing center stage.
 

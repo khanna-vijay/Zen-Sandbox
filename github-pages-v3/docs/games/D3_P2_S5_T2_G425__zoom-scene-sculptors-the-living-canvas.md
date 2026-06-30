@@ -81,20 +81,6 @@ Digital Space Sculptors is a fast-paced virtual game where players use video pla
 
 **Objective:** Develops the ability to establish a strong base reality and construct endowment chains in a virtual space, training players in active listening, offer reception, and visual world-building.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–12 (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Set up a virtual meeting room with Gallery View enabled. Ensure all players know how to rename themselves and change their virtual backgrounds. Open the chat window to manage the turn-taking queue.
 

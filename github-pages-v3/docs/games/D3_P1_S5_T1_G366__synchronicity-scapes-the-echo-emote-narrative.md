@@ -84,20 +84,6 @@ Virtual Echo Scapes is a virtual-first improv game where players construct a col
 
 **Objective:** To develop advanced world-building skills (specifically C.R.O.W.) and active listening by forcing players to 'Show, Don't Tell' using visual and emotional cues alongside verbal offers.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–12 (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | Zoom client, Pre-loaded virtual backgrounds |
-| Audience | not required |
-
 ## Setup
 Played on a video conferencing platform with gallery view enabled. All participants must have a pre-loaded folder of diverse virtual backgrounds (ranging from abstract textures to specific locations) and know how to use platform reactions. The facilitator must have host privileges to rename participants and spotlight speakers.
 

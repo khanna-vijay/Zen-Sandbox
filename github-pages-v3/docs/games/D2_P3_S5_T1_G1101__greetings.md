@@ -78,20 +78,6 @@ Players move freely through an open space, engaging in brief, improvised greetin
 
 **Objective:** Develops active gifting, rapid endowment, and emotional fluidity, training players to make their partner look brilliant by instantly accepting and heightening physical and emotional offers.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-20) |
-| Time | ~10 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, clear room where players can safely walk around and make eye contact. No props or chairs are required.
 

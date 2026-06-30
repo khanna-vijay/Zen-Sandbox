@@ -72,20 +72,6 @@ This physical skill drill guides players through a simplified framework of movem
 
 **Objective:** To develop full physical commitment and character generation through body centers and movement qualities, training players to show character traits rather than explain them.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 1+ (ideal 6-20) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, clear room where players can safely walk around without colliding. No props or chairs are needed.
 

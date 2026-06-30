@@ -69,20 +69,6 @@ This foundational scene-work drill challenges two players to take a single audie
 
 **Objective:** To develop the ability to rapidly establish a clear, grounded base reality (C.R.O.W.) using an audience suggestion, ensuring both players and the audience are aligned from the very first line.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-10) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Two active players stand on stage in a clear performance space. The remaining players sit as the audience to provide suggestions and observe.
 

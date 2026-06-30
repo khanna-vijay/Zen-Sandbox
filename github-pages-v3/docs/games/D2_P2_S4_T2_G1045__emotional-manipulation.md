@@ -76,20 +76,6 @@ A two-player scene-work exercise where players practice receiving and instantly 
 
 **Objective:** To develop the skill of endowment-acceptance by training players to immediately receive, internalize, and physically/vocally express emotional states gifted to them by their scene partner.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (or class in pairs)) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand or sit in pairs facing each other. No props or special staging are required. The facilitator should briefly discuss the distinction between the player's personal feelings and the character's emotional state before beginning.
 

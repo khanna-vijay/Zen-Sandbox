@@ -79,20 +79,6 @@ Resonant Currents is an advanced ensemble exercise where players collectively ma
 
 **Objective:** To develop deep peripheral awareness, thematic synthesis, and non-verbal attunement. Players learn to track subtle physical and sonic threads across the ensemble, allowing them to transition scenes collectively based on shared emotional resonance rather than verbal cues.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–8 (ideal 5-8) |
-| Time | ~25 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, moderate-sized playing space with no chairs or props. Players stand in a semi-circle backline, leaving the center stage clear. The facilitator or group obtains a suggestion of two contrasting emotional states (e.g., 'Frantic to Serene' or 'Isolated to Connected'). One player is designated as the 'Conductor' (who remains on the backline to observe and validate transitions).
 

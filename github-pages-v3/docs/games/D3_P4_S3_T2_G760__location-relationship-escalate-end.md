@@ -79,20 +79,6 @@ This exercise breaks down a scene's narrative arc into four distinct, sequential
 
 **Objective:** To develop a practical understanding of narrative architecture by isolating the key phases of a scene—specifically establishing a stable platform (base reality), introducing a tilt (escalation), and finding a logical resolution.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 4-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Set up a performance space at the front of the room with a clear entrance and exit area. The remaining players sit as an active audience. Divide players into groups of four, or simply have players line up ready to step in. No props or materials are required.
 

@@ -85,20 +85,6 @@ In this virtual narrative exercise, players establish a grounded, stable platfor
 
 **Objective:** To develop the ability to consciously introduce and commit to narrative turning points (Platform/Tilt), shifting a scene from equilibrium to high consequence while serving the overall story arc.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-12) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Designed for a virtual video-conferencing platform. Two active players have their cameras on, while the rest of the group acts as the audience and keeps their cameras off. No physical props or special space required; players should ensure their framing allows for clear facial expressions and upper-body gestures.
 

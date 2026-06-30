@@ -73,20 +73,6 @@ Players move silently through the space, gradually tuning into each other's phys
 
 **Objective:** To develop deep peripheral awareness, group mind, and the ability to follow the follower by reading subtle physical offers and committing to a collective narrative without verbal communication.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 8-15) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear, open room with a defined exit such as a door or a designated boundary line. No props are needed. Players stand scattered throughout the space.
 

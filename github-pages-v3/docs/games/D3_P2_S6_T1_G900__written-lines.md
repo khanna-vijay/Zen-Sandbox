@@ -77,20 +77,6 @@ Two players perform a grounded scene based on an audience suggestion, periodical
 
 **Objective:** To develop advanced justification skills (specifically justifying the absurd) and reinforce the importance of establishing a strong base reality before introducing chaotic elements.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-4) |
-| Time | ~8 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | Slips of paper with written lines, Pens |
-| Audience | required |
-
 ## Setup
 Before the session or show, ask the audience (or non-playing participants) to write down random, single sentences of dialogue on slips of paper. Fold the slips and place them in a container. Each of the active players draws 3 to 4 slips without looking at them, placing them in their pockets or holding them face-down. The facilitator obtains a simple location suggestion from the audience to start the scene.
 

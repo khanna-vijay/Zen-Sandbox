@@ -82,20 +82,6 @@ A collaborative, non-verbal physical exercise where an ensemble builds and trans
 
 **Objective:** To develop Group Mind and master non-verbal A-to-C suggestion deconstruction, training players to read subtle physical cues and collectively escalate a scene's emotional stakes without speaking.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, moderate-sized playing space free of physical obstacles. Players stand in a loose circle or semi-circle, starting in a relaxed, neutral physical posture. No props or chairs are needed.
 

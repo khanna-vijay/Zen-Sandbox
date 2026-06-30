@@ -72,20 +72,6 @@ Two players initiate a grounded scene to establish a clear, realistic base reali
 
 **Objective:** To develop game identification and offer reception by forcing players to pause, actively listen to the first unusual thing, and explore its subtextual patterns rather than rushing forward to new information.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-16) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An in-person playing space with two chairs or a clear stage area. The rest of the group acts as active observers. No props or special materials are required.
 

@@ -73,20 +73,6 @@ A foundational editing game where players transition between scenes by physicall
 
 **Objective:** To master the physical tag-out edit, developing sharp pacing, rhythmic transitions, and the ability to instantly support a partner's physical offer.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space with a clear stage area and a backstage line where off-stage players stand ready to edit. No props or chairs are needed.
 

@@ -76,20 +76,6 @@ A skill-building exercise where players practice pausing scenes to explicitly ne
 
 **Objective:** Develops proactive boundary navigation, active listening, and physical contact negotiation. It trains players to value Truth Over Pandering by making explicit consent a collaborative tool that enhances scene work.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 4-8) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear, open physical space. No props. Divide the group so that two players are active on stage, one or two players act as Boundary Observers on the sidelines, and the rest observe.
 

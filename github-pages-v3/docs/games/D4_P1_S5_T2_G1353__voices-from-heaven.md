@@ -76,20 +76,6 @@ In this structured narrative game, four performers portray characters who met th
 
 **Objective:** Develops thematic synthesis, group mind, and narrative architecture by training players to weave disparate story threads into a singular, satisfying conclusion.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–5 (ideal 4) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Four players stand in a straight line facing the audience. The facilitator asks the audience for four distinct, unrelated occupations or character archetypes, assigning one to each player.
 

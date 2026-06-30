@@ -78,20 +78,6 @@ In this performance format, a designated narrator (the Balladeer) uses improvise
 
 **Objective:** To develop format literacy by mastering the transition between presentational musical narration and grounded, character-driven scene work, while practicing narrative architecture and active listening.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-10) |
-| Time | ~25 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 A performance space with a clear stage area. One player is designated as the Balladeer and stands downstage-left or downstage-right, slightly outside the main playing area. The remaining players (the ensemble) stand upstage or in the wings, ready to enter. An accompanist (keyboard or guitar) is ideal, though the game can be played a cappella.
 

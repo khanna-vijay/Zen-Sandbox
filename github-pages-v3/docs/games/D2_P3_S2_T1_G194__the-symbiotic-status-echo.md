@@ -84,20 +84,6 @@ This progressive, three-phase exercise trains players to read, mirror, and strat
 
 **Objective:** To master status modulation and the status seesaw technique, allowing players to intentionally adjust their own social standing to make their partner's character choices more impactful, believable, and compelling.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (or 6-12 with rotating pairs)) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two active players stand facing each other in the center of the space. The rest of the group acts as an active audience, observing the physical and vocal shifts. No props or special materials are required; the facilitator prepares a few simple, relationship-based scene prompts.
 

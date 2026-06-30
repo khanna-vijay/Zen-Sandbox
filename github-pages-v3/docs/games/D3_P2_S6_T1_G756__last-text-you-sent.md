@@ -77,20 +77,6 @@ Two players perform a scene where they must periodically read aloud real, random
 
 **Objective:** Develops the skill of justification, offer reception, and establishing a strong base reality before introducing absurd elements.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-4 players) |
-| Time | ~7 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | slips of paper, pens, mobile phones (optional for variation) |
-| Audience | required |
-
 ## Setup
 Before the scene begins, ask audience members to write down the absolute last text message they sent on slips of paper. Fold these slips and scatter them face-down across the stage floor. Two players stand ready to perform.
 

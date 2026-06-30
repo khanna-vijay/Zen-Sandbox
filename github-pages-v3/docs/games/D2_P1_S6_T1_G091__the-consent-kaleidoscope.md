@@ -78,20 +78,6 @@ A structured scene-work exercise where players use intentional pauses to step ou
 
 **Objective:** To develop active boundary navigation, real-time check-ins, and the ability to prioritize personal and partner safety over narrative momentum (Truth Over Pandering).
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–6 (ideal 3-6) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, comfortable playing space. Designate a specific physical area slightly off to the side as the 'Reflection Zone' where players step when a pause is called. No props are required.
 

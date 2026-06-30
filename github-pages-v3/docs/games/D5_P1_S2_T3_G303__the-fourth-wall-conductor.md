@@ -81,20 +81,6 @@ A solo performance exercise where an improviser attempts to guide an audience th
 
 **Objective:** To develop a deep, non-verbal connection with the audience, mastering the ability to read collective room energy and intentionally shift the audience's emotional state using physical presence, gaze, and breath.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-15) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 A clear performance space at one end of the room (the stage) with the remaining participants seated as the audience. No props or materials are required. The facilitator prepares a few simple, three-part emotional trajectories (such as curiosity to tension to relief) to whisper to the performer.
 

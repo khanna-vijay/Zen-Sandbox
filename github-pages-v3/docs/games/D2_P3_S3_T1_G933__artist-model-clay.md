@@ -74,20 +74,6 @@ In this three-player physical communication game, one player acts as a block of 
 
 **Objective:** To develop non-verbal communication, physical empathy, and the ability to make your partner look brilliant by tuning into subtle physical cues and spatial relationships.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 3 per group) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | low |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Divide players into groups of three. Each group needs enough space to stand comfortably. No props are required.
 

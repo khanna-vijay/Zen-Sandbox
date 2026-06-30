@@ -77,20 +77,6 @@ A structured training drill where players perform a scene while a facilitator us
 
 **Objective:** To develop precise control over the fourth wall, enhancing audience-energy management, room reading, and stage presence by practicing intentional, clear transitions between internal scene focus and direct address.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-15) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | SCENE and GAZE cards or signs |
-| Audience | required |
-
 ## Setup
 Set up a performance space with 2 to 3 players on stage and the remaining participants seated as the audience. The facilitator stands to the side of the stage, holding two highly visible signs: one labeled 'SCENE' and the other labeled 'GAZE' (or using distinct, pre-arranged hand signals). Obtain a simple relationship or location suggestion to initiate the scene.
 

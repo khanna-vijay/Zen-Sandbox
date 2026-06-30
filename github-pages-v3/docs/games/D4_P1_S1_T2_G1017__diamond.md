@@ -77,20 +77,6 @@ Four players stand in a diamond formation, with each of the four physical orient
 
 **Objective:** Develops advanced thread-tracking, narrative architecture, and group mind by forcing players to hold multiple distinct storylines in their active memory and transition between them seamlessly.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–5 (ideal 4-5) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Four players stand in a diamond formation in the center of the playing space: one at the front (apex), one at the back, one on the left, and one on the right. The remaining workshop participants act as the audience. No props or chairs are needed, but clear floor space is required for rotation.
 

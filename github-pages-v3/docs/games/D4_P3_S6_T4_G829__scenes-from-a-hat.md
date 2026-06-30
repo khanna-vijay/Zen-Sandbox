@@ -82,20 +82,6 @@ Scenes from a Hat is a high-energy, fast-paced shortform game where players step
 
 **Objective:** Develops rapid game identification, format literacy, and the ability to serve the overall piece through quick, collaborative comedic edits and unfiltered spontaneity.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 4-8) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | A hat or container, Slips of paper, Pens |
-| Audience | required |
-
 ## Setup
 Place a hat, bowl, or container at the front of the stage. Distribute slips of paper and pens to the audience before the session to write down prompt ideas. Players line up in a semi-circle or split on either side of the stage, leaving the center performance space clear.
 

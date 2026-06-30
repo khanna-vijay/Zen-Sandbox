@@ -78,20 +78,6 @@ A high-energy, rapid-fire drill where a single active player repeats a simple ph
 
 **Objective:** To develop emotional fluidity and full physical commitment by practicing instant transitions between diverse emotional states and varying levels of intensity (1 to 10) without hesitation.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–15 (ideal 8-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, distraction-free space. Have the group stand in a wide semi-circle facing a designated performance area. No props are required. Before starting, run a brief physical and vocal warm-up (such as gentle stretching and humming) to prepare players for high-energy expression.
 

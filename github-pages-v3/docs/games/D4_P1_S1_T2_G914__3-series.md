@@ -74,20 +74,6 @@ A high-focus ensemble drill where players establish and run multiple distinct wo
 
 **Objective:** To develop peripheral awareness and thread-tracking capabilities, training players to maintain multiple streams of information simultaneously while remaining present and supportive of their teammates.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 8-15) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a comfortable circle with enough space to see everyone clearly. No props or materials are required.
 

@@ -80,20 +80,6 @@ Thread Weavers is an ensemble narrative game where players build a scene while p
 
 **Objective:** To develop advanced peripheral awareness and group mind by training players to track multiple narrative threads simultaneously, allowing for rapid, unified transitions that serve the larger story.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–8 (ideal 4-6) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Three to eight players stand in a semi-circle on stage. One facilitator stands off-stage to act as the Conductor. No props are required, though a whiteboard can optionally be used by the Conductor to track threads during early training.
 

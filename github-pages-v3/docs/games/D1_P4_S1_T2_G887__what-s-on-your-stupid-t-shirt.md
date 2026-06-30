@@ -78,20 +78,6 @@ A high-energy, rapid-fire circle game where players take turns describing a biza
 
 **Objective:** To develop unfiltered spontaneity and trust in one's immediate impulses by practicing rapid offer reception and instant commitment without self-censorship.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-15) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle facing inward. No props or physical materials are required. The facilitator should establish a light, high-energy atmosphere before beginning.
 

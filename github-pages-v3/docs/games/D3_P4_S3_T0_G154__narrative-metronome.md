@@ -81,20 +81,6 @@ A dynamic scene-work exercise where two players improvise a story while a facili
 
 **Objective:** To develop a deep understanding of Narrative Architecture by learning how to consciously manipulate pacing—using speed, deceleration, and silence—to heighten stakes, clarify story beats, and build emotional resonance.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | Pacing cue cards |
-| Audience | not required |
-
 ## Setup
 An open performance space with two players on stage and the remaining group acting as active observers. The facilitator stands downstage, clearly visible to the players but outside the playing area, holding a set of large, legible pacing cue cards (e.g., 'FAST', 'SLOW', 'PAUSE', 'BUILD', 'DECONSTRUCT').
 

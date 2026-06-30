@@ -72,20 +72,6 @@ One player stands alone as the Goalie while a line of teammates bombards them wi
 
 **Objective:** To develop rapid offer reception and instant endowment-acceptance, training players to trust their first instinct and immediately commit to a relationship and character dynamic.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a semi-circle or a straight line facing a single player (the Goalie) who stands about six to eight feet away. No props or special staging are required.
 

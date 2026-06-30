@@ -81,20 +81,6 @@ A paired exercise where players transform mundane, everyday observations into ex
 
 **Objective:** To develop active gifting and endowment skills by training players to actively listen, assume absolute competence, and elevate their partner's status through positive physical and vocal reframing.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (or pairs in a larger group)) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in pairs, facing each other at a comfortable distance. Ensure adequate space between pairs to minimize cross-talk distraction.
 

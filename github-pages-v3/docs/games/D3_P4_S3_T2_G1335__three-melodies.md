@@ -74,20 +74,6 @@ Two players establish distinct characters, occupations, and personal dilemmas th
 
 **Objective:** To master narrative architecture (specifically Platform, Tilt, and Resolution) and active gifting by using musical structure to establish, complicate, and resolve a shared story.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–2 (ideal 2) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Two players stand on stage in front of an audience. No physical props or musical instruments are required, though an improvising accompanist can support them if available. The facilitator asks the audience for two distinct, unrelated occupations.
 

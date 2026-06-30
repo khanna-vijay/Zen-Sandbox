@@ -83,20 +83,6 @@ A fast-paced, highly theatrical competitive format where duos dressed in outrage
 
 **Objective:** Develops format literacy, rapid game identification, and audience-energy management by balancing high-concept showmanship with disciplined, collaborative scene work.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 6-10 players plus audience) |
-| Time | ~60 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | large_open |
-| Props | Extravagant costumes, Wrestling-style outfits or themed dress-up, Voting cards or method for audience voting, Whistle or referee accessories |
-| Audience | required |
-
 ## Setup
 A large performance space with a clear stage area and seating for an audience. A master of ceremonies/referee equipped with a whistle and a book of challenges. Two to four duos (2 players each) dressed in extravagant, matching, or highly stylized costumes (e.g., retro wrestlers, space explorers, Victorian aristocrats). Voting cards (colored cards or digital voting) distributed to the audience.
 

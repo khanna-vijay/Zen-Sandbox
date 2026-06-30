@@ -83,20 +83,6 @@ A high-energy somatic exercise where players practice accessing and committing t
 
 **Objective:** To develop emotional fluidity and somatic spontaneity by training players to bypass cognitive filters, commit fully to their first physical impulse, and consciously modulate emotional intensity on command.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–15 (ideal 5-15) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a spacious circle with ample room to move safely. For larger groups of up to 15 players, the facilitator designates a clear central performance space while ensuring the outer circle remains actively engaged as physical mirrors or supportive witnesses.
 

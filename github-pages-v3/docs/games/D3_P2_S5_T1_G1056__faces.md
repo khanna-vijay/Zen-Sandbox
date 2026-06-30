@@ -81,20 +81,6 @@ In this long-form format, players improvise character monologues inspired by uns
 
 **Objective:** To master the C.R.O.W. framework (Character, Relationship, Objective, Where) by establishing a rich, grounded base reality from visual prompts, and to develop narrative architecture skills by weaving disparate characters into a cohesive story.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 5-8) |
-| Time | ~25 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | projector or display screen, unseen photographs of faces |
-| Audience | required |
-
 ## Setup
 A projector or large display screen visible to both the audience and the stage. A curated slideshow of high-resolution, expressive, and diverse portrait photographs that the players have not seen beforehand. A performance space with a clear stage area and seating for an audience.
 

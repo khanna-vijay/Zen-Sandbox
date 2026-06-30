@@ -82,20 +82,6 @@ Disaster Movie is a high-energy, long-form narrative format where an ensemble bu
 
 **Objective:** To master narrative pacing, genre tropes, and collaborative story architecture using a structured, multi-act narrative engine.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6+ (ideal 8-15) |
-| Time | ~30 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | large_open |
-| Props | lighting effects, sound effects, smoke machine |
-| Audience | required |
-
 ## Setup
 A large, open stage area with access to technical controls (lighting, sound effects, and a smoke machine if available). An audience is seated to provide suggestions and act as the final scene partner. Players assemble offstage or in a back line, ready to edit and enter scenes rapidly.
 

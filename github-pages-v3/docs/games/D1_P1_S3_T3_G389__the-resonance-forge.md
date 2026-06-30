@@ -81,20 +81,6 @@ The Resonance Forge is an immersive physical-to-vocal layering exercise where a 
 
 **Objective:** To cultivate total physical commitment and rapid emotional adaptability by systematically layering physical weight, emotional states, vocal textures, and spontaneous verbalization, bypassing cognitive hesitation.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–15 (ideal 8-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, clear floor space. Players stand in a wide circle with ample room to move their entire bodies freely without physical contact. No props are required. The facilitator designates one player as the Architect (the conductor) who stands in the center, while the remaining players stand in the circle as the Forged.
 

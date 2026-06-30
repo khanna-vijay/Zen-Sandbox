@@ -80,20 +80,6 @@ Two players improvise a scene while periodically receiving secret prompts to ins
 
 **Objective:** To develop advanced justification skills (specifically justifying the absurd or unexpected) and status modulation, demonstrating how sudden internal character shifts can logically drive external narrative architecture and heighten scene stakes.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | Emotional Shift Cards, Status Shift Cards |
-| Audience | not required |
-
 ## Setup
 An open performance space. Prepare two physical decks of cards: 'Emotional Shift Cards' (e.g., 'From Calm to Outraged', 'From Joy to Suspicion') and 'Status Shift Cards' (e.g., 'Seize High Status', 'Surrender to Low Status', 'Equalize Status'). Two players stand in the playing area; the remaining players observe as active audience members. The facilitator stands nearby to manage the cards and cue shifts.
 

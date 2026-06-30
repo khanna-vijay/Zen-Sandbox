@@ -76,20 +76,6 @@ Players move dynamically through the space until a caller on an elevated platfor
 
 **Objective:** To develop rapid physical responsiveness, peripheral awareness, and immediate non-verbal agreement with a partner under high-energy conditions.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 12-30) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | large_open |
-| Props | A sturdy chair or elevated platform |
-| Audience | not required |
-
 ## Setup
 A large, open room free of obstacles. One sturdy chair or low, stable platform placed at the edge of the space for the facilitator or caller. All players start scattered throughout the room.
 

@@ -81,20 +81,6 @@ A high-focus partner exercise where players build a scene using strict verbal an
 
 **Objective:** To develop advanced active listening and multi-modal 'Yes, And' by requiring players to process, mirror, and transform both verbal and physical offers simultaneously, shifting the focus from individual performance to shared relational flow.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (paired up)) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Pairs stand facing each other in a clear space with comfortable room to move. No props or chairs are needed. The facilitator introduces the concept of status modulation and last-word responses before play begins.
 

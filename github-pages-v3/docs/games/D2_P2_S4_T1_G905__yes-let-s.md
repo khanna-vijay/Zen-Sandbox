@@ -81,20 +81,6 @@ In this fast-paced, whole-group warm-up, players take turns proposing physical a
 
 **Objective:** To cultivate radical agreement, immediate physical commitment, and collaborative narrative building by removing the analytical filter that causes players to hesitate or block.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 8-15) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a clear, open room with plenty of space to move around safely. No props or materials are required.
 

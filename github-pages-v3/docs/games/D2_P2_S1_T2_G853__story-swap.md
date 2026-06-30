@@ -76,20 +76,6 @@ Two players collaborate to tell a single, cohesive story. At any moment, the fac
 
 **Objective:** To develop deep active listening and radical acceptance by requiring players to build directly on their partner's immediate last words, fostering unfiltered spontaneity and narrative cohesion.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (in pairs)) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand or sit in pairs facing each other. The facilitator stands where they can be heard by all pairs. No props or special staging required.
 

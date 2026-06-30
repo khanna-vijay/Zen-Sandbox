@@ -67,20 +67,6 @@ A quiet, guided visualization exercise where players stand in absolute stillness
 
 **Objective:** To develop the ability to command presence through absolute physical stillness and internal commitment, learning that doing nothing can be a powerful, active choice.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 1+ (ideal 2-30) |
-| Time | ~3 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players find a comfortable standing position anywhere in the room, ensuring they have enough personal space to stand undisturbed. No props or special staging required.
 

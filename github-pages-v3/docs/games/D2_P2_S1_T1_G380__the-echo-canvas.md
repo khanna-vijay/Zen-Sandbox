@@ -87,20 +87,6 @@ Two players engage in a continuous, structured exchange using only one unchangin
 
 **Objective:** To develop deep active listening and precise offer reception by isolating non-verbal communication. Players learn to 'Yes, And' their partner's emotional subtext and modulate status dynamically without relying on changing dialogue.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Designed for a virtual video-conferencing platform. Players should ensure their cameras are positioned to clearly show their face, shoulders, and upper torso. The facilitator selects a simple, neutral 'seed phrase' (e.g., 'I am here' or 'You called') and designates two active players to turn their cameras on, while others turn theirs off to watch.
 

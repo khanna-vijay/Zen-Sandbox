@@ -76,20 +76,6 @@ A structured scene-work drill where players collaboratively build a narrative wh
 
 **Objective:** To develop real-time boundary navigation and active listening skills by normalizing explicit verbal check-ins, honoring conditional consent, and practicing the non-negotiable 'Cut' call to prioritize personal safety over scene continuity.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–5 (ideal 3-5) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | Pre-written slips of paper with boundary prompts |
-| Audience | not required |
-
 ## Setup
 An open, moderate-sized playing space. The facilitator prepares small, pre-written slips of paper, each containing a subtle, realistic boundary prompt (e.g., 'Avoids direct eye contact,' 'Uncomfortable with touch on the arm'). Players stand in a neutral line, and each secretly draws one boundary slip to keep hidden throughout the round.
 

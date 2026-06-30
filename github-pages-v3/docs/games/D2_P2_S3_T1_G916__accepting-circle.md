@@ -77,20 +77,6 @@ Players stand in a circle and pass a single physical gesture and vocal sound to 
 
 **Objective:** To develop deep partner empathy, active listening, and radical acceptance by treating unintentional mistakes or physical mutations as deliberate, perfect offers to be mirrored.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-15) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Arrange all players in a standing circle with enough space to move their arms and take a step if needed. No props or special materials are required.
 

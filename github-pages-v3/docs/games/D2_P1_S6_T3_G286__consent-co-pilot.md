@@ -79,20 +79,6 @@ A structured partner exercise where players practice initiating, negotiating, an
 
 **Objective:** To develop practical skills in negotiating physical contact, recognizing internal boundaries, and communicating consent clearly without sacrificing active listening or collaborative play.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–12 (ideal 4-8) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | list of scene starters, flashcards with Potential Physical Initiatives (PPIs) |
-| Audience | not required |
-
 ## Setup
 An open playing space. The facilitator prepares a list of simple, relationship-focused scene starters (e.g., estranged siblings meeting, neighbors over a fence) and a set of physical contact prompt cards (e.g., 'offer a warm hug', 'place a hand on their shoulder', 'playfully nudge them'). Players work in pairs, with one pair performing at a time while others observe respectfully.
 

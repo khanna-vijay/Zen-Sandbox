@@ -72,20 +72,6 @@ In this physical connection exercise, players work in pairs to explore movement 
 
 **Objective:** Develops non-verbal communication, physical empathy, and the core principle of supporting your partner by tailoring your actions to their physical capabilities.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal Pairs) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | low |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Clear a moderate space so pairs can move around safely without colliding. No props are required. Players stand in pairs facing each other.
 

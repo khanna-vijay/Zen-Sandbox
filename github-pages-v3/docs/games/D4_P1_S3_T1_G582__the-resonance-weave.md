@@ -83,20 +83,6 @@ An ensemble-building exercise where players collectively construct a rich, non-l
 
 **Objective:** To develop advanced suggestion deconstruction (A-to-C thinking) and group mind by training players to bypass literal narrative progression in favor of thematic synthesis, peripheral awareness, and emotional support work.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–8 (ideal 4-8) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, quiet room. Players stand in a loose circle or a comfortable cluster facing inward. No props or materials are required. The facilitator should ensure the space is free of distractions to support deep listening.
 

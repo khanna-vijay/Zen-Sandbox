@@ -78,20 +78,6 @@ Three players collaborate to perform a complete, multi-segment television news b
 
 **Objective:** Develops format literacy and pacing by teaching players how to use structural hand-offs and thematic callbacks to serve the overall piece rather than just their individual segments.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–3 (ideal 3) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Three players stand or sit in a line facing the audience. Player A (Anchor) is in the center, Player B (Field Reporter) is on one side, and Player C (Specialist) is on the other. No physical props are required.
 

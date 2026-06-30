@@ -79,20 +79,6 @@ Players stand in a circle and pass a virtual energy blade using synchronized phy
 
 **Objective:** To develop group mind, split-second timing, and physical/vocal commitment by coordinating rapid, multi-person physical actions without hesitation.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 8-20) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a clear, open circle with enough space to swing their arms safely without making physical contact. No props are needed.
 

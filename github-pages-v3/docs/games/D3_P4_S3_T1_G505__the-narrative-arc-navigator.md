@@ -76,20 +76,6 @@ In this exercise, two actors improvise a scene while a third player acts as the 
 
 **Objective:** To develop a conscious, real-time awareness of narrative structure, genre conventions, and escalating stakes, transforming reactive play into deliberate story construction.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 3-6) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Conducted in a virtual meeting space using Gallery View. Two players act as the Actors with cameras on, one player acts as the Navigator with camera on and microphone ready, and other participants turn their cameras off to act as the audience. Get a simple, non-narrative suggestion from the group to inspire the start.
 

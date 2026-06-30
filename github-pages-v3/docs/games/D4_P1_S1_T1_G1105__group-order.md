@@ -75,20 +75,6 @@ Players move dynamically through the space and must rapidly organize themselves 
 
 **Objective:** To develop group mind, peripheral awareness, and non-verbal agreement by reading the room and collectively deciding on spatial relationships without explicit verbal debate.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 8-20) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear, open room with enough space for all players to stand in a single straight line. No props needed.
 

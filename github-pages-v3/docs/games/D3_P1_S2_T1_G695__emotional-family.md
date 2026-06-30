@@ -76,20 +76,6 @@ A group of players portrays a family gathering where every member shares the exa
 
 **Objective:** To develop emotional heightening, physical commitment, and group mind by practicing the 'ladder' technique—escalating a shared emotional state in progressive, unified beats without relying on verbal explanation.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–6 (ideal 4-6) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An in-person playing space with a designated 'stage' area representing a domestic setting (e.g., a living room or dining table). 4 to 6 players participate. Two players start on stage in a neutral domestic activity; the remaining players wait off-stage, ready to enter. No physical props are required.
 

@@ -80,20 +80,6 @@ Boundary Bridges is a slow-tempo, highly conscious scene-work exercise where pla
 
 **Objective:** To develop practical boundary navigation and active listening skills by integrating explicit verbal check-ins and non-verbal signaling into active scene work, training players to prioritize mutual consent over narrative momentum.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–6 (ideal 3-5 players plus 1 facilitator) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | boundary beacons (small physical tokens like colored cloth, foam ball, or card) |
-| Audience | not required |
-
 ## Setup
 Players stand in a semi-circle in a quiet, minimal space. Each player selects a small, distinct physical token (such as a colored card, a small foam ball, or a piece of cloth) to act as their 'Boundary Beacon.' The facilitator establishes a low-stakes, supportive atmosphere and reviews the core vocabulary: Potential Interaction Points (PIPs), Boundary Beacons, Verbal Check-ins, and the 'Cut' call.
 

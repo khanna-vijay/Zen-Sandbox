@@ -72,20 +72,6 @@ Players form a circle to guess a secret word held by a central player using only
 
 **Objective:** To build unfiltered spontaneity, active listening, and rapid word-association by forcing players to trust their first instinctual thoughts under pressure.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-15) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle facing inward. One player is selected to start in the center. For virtual play, players use a designated gallery view order or a digital wheel to determine the guessing sequence, with the active guesser unmuting to speak.
 

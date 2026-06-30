@@ -79,20 +79,6 @@ A classic improv game where three players stand shoulder-to-shoulder to portray 
 
 **Objective:** To develop group mind, active listening, and peripheral awareness by forcing players to track a single linguistic thread and instantly justify the collective direction of a sentence.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–6 (ideal 4) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Four players stand at the front of the playing space. Three players stand shoulder-to-shoulder to form the Expert. The fourth player stands slightly to the side, facing them as the Interviewer. No props or special staging are required.
 

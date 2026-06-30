@@ -78,20 +78,6 @@ A group of players stands before the audience as a formal vocal ensemble. Starti
 
 **Objective:** Develops group mind, peripheral awareness, and vocal pacing by training players to listen to the collective soundscape and find where their voice fits best.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Players stand in a semi-circle or a straight line facing the audience. The space should be clear of obstacles. No props or instruments are needed.
 

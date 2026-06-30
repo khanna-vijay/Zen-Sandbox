@@ -81,20 +81,6 @@ In this fast-paced, high-energy elimination game, players improvise a scene spea
 
 **Objective:** To develop active listening, rapid offer reception, and the ability to 'Yes, And' under strict linguistic constraints, transforming questions from passive stalls into active world-building tools.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-12) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Two lines of players stand on opposite sides of the stage, leaving the center clear. The remaining players or spectators act as the audience. No props or special materials are required.
 

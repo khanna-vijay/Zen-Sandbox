@@ -75,20 +75,6 @@ One player steps out of the room while the group establishes three secret heist 
 
 **Objective:** To practice active gifting and endowment, training players to deliver clear, specific physical and verbal clues that elevate their partner rather than testing them.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 4-6) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An in-person playing space with a designated 'offstage' area. One player (the Mastermind) leaves the room. The remaining players (the Accomplices) gather suggestions from the group or audience for: 1) A highly specific target to steal, 2) An unusual tool or weapon, and 3) A bizarre code word, disguise, or physical quirk.
 

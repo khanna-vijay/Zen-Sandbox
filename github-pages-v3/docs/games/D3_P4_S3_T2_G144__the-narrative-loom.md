@@ -82,20 +82,6 @@ A collaborative scene-work game where players explicitly pause the action to ide
 
 **Objective:** To master narrative architecture and the platform/tilt technique by consciously identifying cause-and-effect relationships, raising stakes, and practicing rapid justification of forced narrative shifts.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | none |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Conducted in a virtual meeting space with cameras on. Two players start on screen to establish the platform, while the remaining players keep their cameras on to act as the Weavers who will call out narrative shifts. No physical props or materials are required.
 

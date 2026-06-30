@@ -75,20 +75,6 @@ In this high-energy physical warm-up, pairs engage in a controlled chase across 
 
 **Objective:** To develop instant physical agreement and endowment-acceptance by treating imaginary offers as real, high-stakes physical realities.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal Pairs) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A large, open room cleared of actual physical hazards (bags, chairs, cables). Players pair up and find their own starting space in the room.
 

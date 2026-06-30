@@ -75,20 +75,6 @@ In this game, players perform a continuous scene that leaps forward through dist
 
 **Objective:** To develop narrative architecture and thematic synthesis by tracking a story's core emotional truth while dynamically adapting its external circumstances across time.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 4-8) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space. The facilitator or audience prepares a list of 4-5 chronological eras (e.g., Stone Age, Medieval, Industrial Revolution, Present Day, Far Future). Players stand ready to enter the scene.
 

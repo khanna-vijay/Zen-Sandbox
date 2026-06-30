@@ -81,20 +81,6 @@ A virtual-native storytelling game where players use character names and custom 
 
 **Objective:** To master 'Yes, And' offer reception and active listening in a virtual space, using visual and verbal cues to build a cohesive, shared narrative without overlapping audio or latency delays.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–12 (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | none |
-| Modality | virtual |
-| Space | minimal |
-| Props | yes |
-| Audience | not required |
-
 ## Setup
 A virtual meeting platform with host-controlled spotlighting capabilities. All participants must have webcams enabled. Before starting, players choose a virtual background representing a location or mood, and rename themselves to a fictional character name (e.g., 'Professor Sterling' or 'Scuba Sam'). All players start muted in gallery view.
 

@@ -82,20 +82,6 @@ In this two-player exercise, one player acts as the 'Canvas,' subtly physicalizi
 
 **Objective:** To develop deep interpersonal attunement, active listening, and emotional fluidity by practicing precise endowment-gifting and empathetic mirroring, while exploring how emotional shifts naturally modulate status.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (or multiple pairs in a group of 6-12)) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players work in pairs. They stand or sit facing each other in a shared space. No props are required. The facilitator should prepare a list of nuanced, active emotional states (e.g., 'quietly resentful', 'breathlessly expectant', 'defensively proud') to assign privately.
 

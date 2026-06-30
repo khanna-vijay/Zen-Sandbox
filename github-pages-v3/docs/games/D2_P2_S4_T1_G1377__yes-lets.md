@@ -75,20 +75,6 @@ A high-energy, physical warm-up where players collectively build a shared enviro
 
 **Objective:** To develop radical agreement and instant offer reception by physically committing to every suggestion made by peers, bypassing intellectual filtering.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-20) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a loose circle in an open room with enough space to move around safely. No props or materials are required.
 

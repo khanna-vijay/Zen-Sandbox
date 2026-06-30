@@ -81,20 +81,6 @@ A structured scene-work game where players use physical tokens to budget high-ri
 
 **Objective:** To develop practical boundary navigation and real-time check-in techniques, ensuring that setting limits is frictionless while making high-risk offers is a conscious, budgeted choice.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–10 (ideal 4-10) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | low |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | yes |
-| Audience | not required |
-
 ## Setup
 Players sit in a circle. Each player is given 3 physical tokens (such as poker chips, coins, or beads). Two players step into the center to perform a scene based on a simple relationship prompt, while the rest observe.
 

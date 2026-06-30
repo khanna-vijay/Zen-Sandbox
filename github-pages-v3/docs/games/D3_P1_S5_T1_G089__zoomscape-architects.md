@@ -80,20 +80,6 @@ Virtual Vista Architects is a fast-paced, virtual-native improv game where playe
 
 **Objective:** To develop physical world-building and environmental awareness (C.R.O.W. - specifically the 'Where') in a virtual space, training players to show rather than tell by treating their digital environment as an active scene partner.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Run on a video conferencing platform with gallery view enabled. All players should have access to a pre-curated list of basic background archetypes (e.g., Cozy Cabin, High-Tech Lab, Deep Space, Underwater, Ancient Ruins, Office Cubicle) or know how to quickly switch to standard solid colors. The host must enable screen sharing and annotation tools for all participants.
 

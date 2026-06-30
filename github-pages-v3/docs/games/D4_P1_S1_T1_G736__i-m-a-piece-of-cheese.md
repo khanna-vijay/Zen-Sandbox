@@ -83,20 +83,6 @@ In this physical ensemble game, players work in rapid succession to build collab
 
 **Objective:** Develops peripheral awareness, physical commitment, and group mind. Players learn to read the stage space, receive physical offers instantly, and support their teammates by completing a visual story without overthinking.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-15) |
-| Time | ~10 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Have all players stand in a large circle with a clear open space in the center. No props or materials are required.
 

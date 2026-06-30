@@ -71,20 +71,6 @@ A high-energy circle warm-up where players must maintain intense focus and perip
 
 **Objective:** To develop peripheral awareness, active listening, and unfiltered spontaneity by forcing players to quickly scan the room, recall names under pressure, and stay highly attuned to the physical movement of the group.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 10-25) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Have all players stand in a wide, clear circle with plenty of space in the center. Ensure there are no tripping hazards. No props are required. Ensure everyone knows each other's names before starting.
 

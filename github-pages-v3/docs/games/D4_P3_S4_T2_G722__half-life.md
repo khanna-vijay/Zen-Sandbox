@@ -79,20 +79,6 @@ Players perform a complete, improvised narrative scene with a clear beginning, m
 
 **Objective:** Develops pacing, rhythm, and narrative architecture by forcing players to identify and execute core story beats under extreme time pressure. It trains the ensemble to serve the piece by prioritizing essential actions over verbal filler.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–6 (ideal 3-5) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | moderate |
-| Props | Stopwatch or timer |
-| Audience | not required |
-
 ## Setup
 A clear stage area for two to six players. One facilitator or off-stage player acts as the Timekeeper equipped with a stopwatch or timer. No props are needed, though a suggestion of a well-known movie or story is required.
 

@@ -81,20 +81,6 @@ A non-verbal duet where partners must complete a collaborative physical task usi
 
 **Objective:** To master status modulation and non-verbal attunement, training players to read subtle physical offers and seamlessly transition between high and low status roles.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-20 (in pairs)) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Pairs stand facing each other in a clear space. No physical props are required; the exercise utilizes imaginary space work to ensure accessibility and flexibility.
 

@@ -71,20 +71,6 @@ Two players perform a simple scene, then replay the exact same scenario while si
 
 **Objective:** Develops emotional fluidity and vulnerability by using internal subtext (emotional substitution) to automatically drive physical and vocal choices, bypassing intellectual planning.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two players stand in the performance space. The rest of the group acts as observers. No props or special staging are required.
 

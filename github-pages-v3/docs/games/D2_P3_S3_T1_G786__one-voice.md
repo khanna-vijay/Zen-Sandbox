@@ -77,20 +77,6 @@ Two to three players stand close together and attempt to speak in perfect unison
 
 **Objective:** To develop deep partner empathy, physical mirroring, and the ability to 'follow the follower' by relinquishing individual control and merging vocal and physical expression.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–4 (ideal 2-3) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in pairs or trios, facing each other closely (about arm's length apart) in a quiet space. No props or special staging are required.
 

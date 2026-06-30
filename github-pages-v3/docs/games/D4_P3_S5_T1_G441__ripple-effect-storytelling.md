@@ -76,20 +76,6 @@ A collaborative narrative exercise where players build a multi-layered performan
 
 **Objective:** To develop thematic synthesis and mapping skills by training players to deconstruct scenes to their emotional essence and respond with resonant, non-literal callbacks that serve the collective piece.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open playing space with 4 to 8 players standing in a semi-circle or scattered comfortably. No props or chairs are required. The facilitator stands off-stage to observe and guide the transitions.
 

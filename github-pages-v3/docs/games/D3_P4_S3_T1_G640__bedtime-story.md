@@ -73,20 +73,6 @@ One player acts as a gentle narrator reading an improvised bedtime story to the 
 
 **Objective:** To develop narrative architecture and active listening by practicing the 'Story Spine' structure and sharing focus dynamically between narration and scenic action.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 4-8) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space. One player (the Narrator) stands to one side of the stage, holding an imaginary storybook. The other players (the Actors) stand ready in the upstage or offstage area, prepared to enter the playing space. Obtain a fictional children's book title suggestion from the group.
 

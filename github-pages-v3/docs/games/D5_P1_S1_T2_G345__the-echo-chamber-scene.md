@@ -80,20 +80,6 @@ An advanced scene-work drill where performers treat the audience's spontaneous, 
 
 **Objective:** To develop advanced room-reading and audience-energy management skills, training improvisers to decode the underlying intent of non-verbal audience feedback and immediately integrate it to calibrate their stage presence, projection, and comedic timing.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 8-15) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Set up a standard performance space with a clear stage area and an audience seating area. The remaining workshop participants act as the live audience. No props or special materials are required, but the room should be quiet enough to hear subtle vocalizations.
 

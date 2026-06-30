@@ -77,20 +77,6 @@ Two players perform a grounded scene while holding several slips of paper contai
 
 **Objective:** Develops the skill of justification, active listening, and maintaining a strong base reality even when unexpected, disruptive information is introduced.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–2 (ideal 2) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | index cards, pens |
-| Audience | required |
-
 ## Setup
 Distribute index cards and pens to the audience before the session. Ask them to write single, complete, mundane, or slightly unusual sentences. Collect these cards. Give two players three to four random cards each, which they must place in their pockets or hold face-down without looking at them.
 

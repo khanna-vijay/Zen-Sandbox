@@ -81,20 +81,6 @@ Status Architects is a structured, collaborative scene-building exercise where t
 
 **Objective:** To master status modulation and the Status Seesaw technique by consciously adjusting physical posture, vocal tone, and spatial relationships to elevate and support a partner's choices.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 active (6-14 in workshop)) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two active players stand in the center of the space. The facilitator sets up a whiteboard or visual aid visible to both players and the audience, displaying a simple grid template (e.g., a 2-column, 4-row table showing alternating High and Low status assignments for each line of dialogue). The rest of the group sits as active observers, ready to track or assign the status levels.
 

@@ -78,20 +78,6 @@ In this game, one player acts as an interviewer and another as an expert on a bi
 
 **Objective:** To develop deep active listening, physical commitment, and the principle of making your partner a genius by treating every physical gesture as a meaningful, brilliant translation of the spoken word.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–3 (ideal 3) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Three players stand or sit on stage. The Interviewer and the Expert are positioned on one side, while the Interpreter stands prominently on the opposite side, facing the audience but able to see and hear the speakers. No props are required.
 

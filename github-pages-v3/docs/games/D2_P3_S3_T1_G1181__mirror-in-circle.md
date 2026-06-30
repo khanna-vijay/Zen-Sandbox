@@ -73,20 +73,6 @@ A quiet, highly focused physical warm-up where players work in pairs across a ci
 
 **Objective:** To develop non-verbal connection, peripheral awareness, and the principle of 'following the follower' by sharing physical leadership equally with a partner.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-20) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Have all players stand in a wide, clear circle with enough space in the center for everyone to gather. No props or materials are needed. Ensure the floor is clear of obstacles.
 

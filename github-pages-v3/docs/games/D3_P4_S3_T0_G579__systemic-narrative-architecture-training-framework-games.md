@@ -88,20 +88,6 @@ A structured training game where players initiate a scene organically until a ce
 
 **Objective:** To develop the ability to recognize emergent patterns (the 'game of the scene') and consciously escalate them to serve the story's progression.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-12) |
-| Time | ~30 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | virtual |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Conducted in a virtual meeting space. Two active players have their cameras on, while the remaining participants keep their cameras off to act as the active audience. No physical props are required, but players should have a clear, well-lit frame for physical and facial expression.
 

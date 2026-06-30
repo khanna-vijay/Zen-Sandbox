@@ -83,20 +83,6 @@ The Seamless Oracle is an advanced ensemble exercise where four to eight players
 
 **Objective:** To cultivate an advanced state of Group Mind and hyper-attunement to collective pacing, rhythm, and linguistic flow.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~10 min |
-| Complexity | 4/5 |
-| Skill level | proficient |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a tight semi-circle facing forward. No props or special staging are needed.
 

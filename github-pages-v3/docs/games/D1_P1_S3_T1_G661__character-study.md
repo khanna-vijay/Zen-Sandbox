@@ -72,20 +72,6 @@ Players recall a distinct stranger they have observed in daily life who is physi
 
 **Objective:** Develops 100% commitment to physical and vocal choices that are outside the player's default habits, using external observation as a springboard for deep character work.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | low |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open room where players can walk around safely, with a single chair placed at the front of the space for the interview portion.
 

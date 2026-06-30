@@ -82,20 +82,6 @@ Players stand in a line, collectively improvising a single, cohesive song based 
 
 **Objective:** Develops group mind, peripheral awareness, and thread-tracking by forcing players to track multiple variables simultaneously—melody, rhythm, rhyme, and narrative progression—while anticipating sudden transitions.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 5-8) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a line or semi-circle facing the facilitator, who acts as the conductor. No props or instruments are required, though a clear playing space is needed so players can step back if eliminated.
 

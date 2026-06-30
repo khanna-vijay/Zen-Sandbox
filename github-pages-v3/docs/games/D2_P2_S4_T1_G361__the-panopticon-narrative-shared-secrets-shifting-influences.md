@@ -79,20 +79,6 @@ In this virtual, turn-based storytelling game, players collaboratively build a c
 
 **Objective:** To develop advanced offer reception and 'Yes, And' skills by requiring players to simultaneously synthesize multiple layers of input—the previous line, a shared visual environment, and a private, secret prompt—into a single, seamless narrative contribution.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–10 (ideal 6-10) |
-| Time | ~20 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | none |
-| Modality | virtual |
-| Space | minimal |
-| Props | yes |
-| Audience | not required |
-
 ## Setup
 Players join a video conferencing platform in gallery view with screen-sharing and chat enabled. Establish a clear speaking order. The facilitator prepares 3 to 5 evocative, open-ended images to share. The facilitator also prepares three distinct prompt banks. Bank 1 (Internal Quirks): 1. Deeply suspicious of others, 2. Obsessed with a lost item, 3. Overly formal, 4. Seeking constant approval. Bank 2 (Sensory Details): 1. Smell of ozone, 2. Distant rhythmic ticking, 3. Sudden drop in temperature, 4. Rough, gritty texture. Bank 3 (Action Imperatives): 1. Urge everyone to hurry, 2. Inspect something closely, 3. Shift physical posture, 4. Whisper the line.
 

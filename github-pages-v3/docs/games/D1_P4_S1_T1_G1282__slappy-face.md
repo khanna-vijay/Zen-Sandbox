@@ -74,20 +74,6 @@ A high-energy, paired word-association drill designed to short-circuit the analy
 
 **Objective:** To develop unfiltered spontaneity and active listening by using a physical trigger to bypass the cognitive filter, training players to treat their first thought as a gift.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–2 (ideal 2) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in pairs, facing each other at arm's length in a comfortable space. Before starting, partners must explicitly negotiate and agree upon the physical contact boundary.
 

@@ -79,20 +79,6 @@ This solo performance drill trains improvisers to treat the fourth wall as an ad
 
 **Objective:** To develop precise control over fourth-wall permeability, enabling performers to read audience cues, manage room energy, and treat the audience as an active, live scene partner.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | yes |
-| Audience | required |
-
 ## Setup
 A clear stage area facing an audience. The facilitator sits in the audience with a bell or buzzer. Prepare a list of simple emotional prompts and target emotional shifts.
 

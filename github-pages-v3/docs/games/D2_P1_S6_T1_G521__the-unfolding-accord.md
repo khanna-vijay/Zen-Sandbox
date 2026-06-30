@@ -73,20 +73,6 @@ A slow-burn, high-trust scene-work exercise where players explicitly negotiate p
 
 **Objective:** To develop advanced boundary navigation and active listening skills by practicing explicit, in-scene check-ins, empowering players to prioritize personal comfort and truth over perceived audience expectations or scene momentum.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–5 (ideal 3-5) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An intimate, quiet playing space. Two active players stand or sit in the center, while one to three players act as active observers (the 'Chorus of Conscience') alongside the facilitator. No props or special staging required.
 

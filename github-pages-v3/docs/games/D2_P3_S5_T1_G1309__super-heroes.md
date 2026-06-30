@@ -79,20 +79,6 @@ A high-energy, fast-paced game where players summon one another to solve an incr
 
 **Objective:** To practice active gifting and endowment, forcing players to instantly accept and heighten absurd identities (making their partners look like geniuses) while mastering rapid status shifts from high-energy confidence to humbled defeat.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–6 (ideal 4) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Four to six players stand in a line upstage (the 'hero pool'). One player steps forward to the playing area. The facilitator asks the audience for a trivial, everyday problem (e.g., 'static cling' or 'a stuck drawer') and a random household object (e.g., 'a spatula' or 'a sponge').
 

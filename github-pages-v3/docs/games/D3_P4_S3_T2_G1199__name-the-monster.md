@@ -74,20 +74,6 @@ In this paired exercise, players collaborate word-by-word to build a simple scen
 
 **Objective:** To practice the Platform/Tilt narrative technique by establishing a stable baseline, introducing a clear disruption, and explicitly naming the conflict to drive the story forward.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–2 (ideal 2) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in pairs, facing each other in a clear space. No props or materials are required.
 

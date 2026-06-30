@@ -72,20 +72,6 @@ In this high-stakes physical game, players take turns entering an imaginary, tra
 
 **Objective:** To develop precise physical object work, spatial memory, and total commitment to physical stakes without relying on verbal explanation.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–10 (ideal 5) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Define a clear playing area representing the 'vault' or 'chamber.' Have a group of 5 to 10 players line up at the designated entrance on one side of the space. No physical props are used.
 

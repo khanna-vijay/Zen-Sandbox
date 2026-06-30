@@ -72,20 +72,6 @@ In this exercise, players perform a series of rapid-fire, independent scenes tha
 
 **Objective:** Develops suggestion deconstruction (A-to-C) and thematic synthesis by training players to mine a single location for diverse, non-obvious scenarios using the 'What's interesting about this?' technique.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a line or semi-circle facing the stage area. No physical props or chairs are used; all environments and items must be established through pantomime.
 

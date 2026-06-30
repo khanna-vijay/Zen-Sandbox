@@ -75,20 +75,6 @@ The Shakeout Countdown is a fast-paced, physical warm-up where the entire group 
 
 **Objective:** To develop group mind, physical presence, and collective pacing by aligning vocal rhythm and physical movement across the entire ensemble.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 8-30) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a wide circle with enough space to shake their arms and legs without hitting their neighbors. No props or materials are required.
 

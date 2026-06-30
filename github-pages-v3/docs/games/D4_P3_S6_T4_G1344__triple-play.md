@@ -76,20 +76,6 @@ The Triptych Play is an advanced longform performance format where an ensemble i
 
 **Objective:** Develops format literacy, narrative architecture, and ensemble-wide pacing by managing multiple parallel storylines and understanding how to structure clear beginnings, middles, and ends under strict structural constraints.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-12) |
-| Time | ~45 min |
-| Complexity | 4/5 |
-| Skill level | proficient |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An in-person performance space with a clear stage area and an audience area. The ensemble of 6 to 12 proficient players stands offstage or on the back line. No props or set pieces are required. A host or facilitator is present to introduce the format and gather suggestions.
 

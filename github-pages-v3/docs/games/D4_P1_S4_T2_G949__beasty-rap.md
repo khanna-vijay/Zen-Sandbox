@@ -76,20 +76,6 @@ A high-energy, rhythmic warm-up where players stand in a circle and take turns i
 
 **Objective:** To develop group mind, rhythmic precision, and vocal projection while embracing spontaneous, unfiltered rhyming and celebrating mistakes.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-15) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | Audio player, CD, MP3, or beatbox source |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle. The facilitator sets up a steady, mid-tempo hip-hop beat using an audio player, a digital beat loop, or by having the group establish a simple collective clap-stomp rhythm.
 

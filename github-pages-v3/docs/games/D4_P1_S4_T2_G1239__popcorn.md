@@ -71,20 +71,6 @@ A high-energy physical warm-up where players crouch on the floor as unpopped ker
 
 **Objective:** To develop group mind, physical commitment, and collective pacing by sensing when to accelerate and decelerate physical actions as a unified ensemble.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 8-20) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, unobstructed floor space where all players can crouch down comfortably with enough room to jump up safely without colliding. No props or materials are required.
 

@@ -75,20 +75,6 @@ This structured exercise trains players to navigate physical contact and persona
 
 **Objective:** To develop robust boundary navigation and active listening skills, specifically training players to execute verbal check-ins, assert personal boundaries truthfully, and respect peer boundaries without hesitation.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–6 (ideal 4-6) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | index cards, pens |
-| Audience | not required |
-
 ## Setup
 An open playing space with chairs. Provide each player with an index card and a pen. Ensure the group is briefed on the importance of psychological safety and that no is a complete and celebrated answer.
 

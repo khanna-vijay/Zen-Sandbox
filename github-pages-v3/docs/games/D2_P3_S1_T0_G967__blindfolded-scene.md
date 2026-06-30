@@ -75,20 +75,6 @@ Two to four players perform a fully realized scene while wearing blindfolds. By 
 
 **Objective:** Develops deep active listening, vocal expressiveness, and spatial awareness by forcing players to support their partner without visual cues.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–4 (ideal 2-4) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | Blindfolds |
-| Audience | not required |
-
 ## Setup
 A clear, safe playing area free of tripping hazards. Provide comfortable, clean blindfolds for two to four players. The facilitator or off-stage players act as safety spotters around the perimeter.
 

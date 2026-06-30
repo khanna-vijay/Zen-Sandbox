@@ -83,20 +83,6 @@ A somatic group exercise where players stand in a circle and pass a continuous, 
 
 **Objective:** To develop vocal characterization and vocal craft by bypassing intellectual filters, allowing raw emotional impulses to directly shape pitch, tone, and resonance.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–12 (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a comfortable, shoulder-to-shoulder circle facing inward. The space should be quiet and free of distractions to allow for deep listening. No props or materials are required.
 

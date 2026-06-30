@@ -64,20 +64,6 @@ Infinite Eights is a physical isolation warm-up that gets players out of their h
 
 **Objective:** To develop physical presence, body isolation, and uninhibited commitment to physical movement, preparing players to use their entire physical instrument in scenes.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 1+ (ideal 2-30) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle or scattered throughout the room, ensuring they have at least one arm's length of space in all directions. No props are needed.
 

@@ -72,20 +72,6 @@ A low-risk, high-connection physical exercise where a tight circle of players su
 
 **Objective:** To cultivate group mind, non-verbal communication, and physical support work by safely sharing weight and navigating physical boundaries without lifting.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 9–15 (ideal 9-12) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear, open space with no tripping hazards. Players stand in a tight, closed circle of 9 to 12 people, shoulder-to-shoulder, facing inward. One volunteer stands in the exact center of the circle.
 

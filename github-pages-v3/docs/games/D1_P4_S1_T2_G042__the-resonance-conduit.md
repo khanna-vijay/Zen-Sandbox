@@ -81,20 +81,6 @@ A somatic exploration game where players tune into their immediate physical sens
 
 **Objective:** To develop unfiltered spontaneity and somatic awareness by bypassing intellectual filtering, allowing raw physical impulses to directly dictate vocal and physical expression.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a comfortable circle in an open, quiet room. No props are required. The space should feel safe and free from external distractions to encourage vulnerability.
 

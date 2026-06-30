@@ -75,20 +75,6 @@ A high-energy circle warm-up where players take turns stepping into the center t
 
 **Objective:** To develop vocal projection, diaphragmatic breath support, and 100% physical commitment while bypassing the analytical mind.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 8-20) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a clear circle with enough space to move their arms and step forward safely. No props or materials are needed.
 

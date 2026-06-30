@@ -81,20 +81,6 @@ A high-level training exercise where on-stage performers execute a scene while a
 
 **Objective:** To develop advanced room-reading and real-time energy calibration. Performers learn to balance high cognitive load, manage audience energy dynamically, and break the fourth wall with artistic purpose rather than accidental desperation.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 8+ (ideal 15-30) |
-| Time | ~20 min |
-| Complexity | 4/5 |
-| Skill level | proficient |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An in-person performance space with a clear stage area and seating for at least 8 (ideally 15-30) audience members. No props are required. Divide the audience seating into three distinct physical zones: the Silent Observers (15%), the Energy Meter (70%), and the Architects (1-2 experienced players or the facilitator seated at the back).
 

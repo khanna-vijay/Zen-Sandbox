@@ -73,20 +73,6 @@ Players improvise a brief, high-stakes scene with clear relationships. Afterward
 
 **Objective:** Develops narrative architecture, active listening, and justification by forcing players to track physical actions while re-interpreting emotional subtext and motivations.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 3-6) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A performance space with room for two to three active players and a small audience or waiting area. No props or special materials are required.
 

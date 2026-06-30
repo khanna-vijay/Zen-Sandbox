@@ -77,20 +77,6 @@ One player acts as the narrator of a whimsical children's book, while the remain
 
 **Objective:** To develop physical support work, group mind, and spatial awareness by transforming the body into scenic architecture and responsive mechanical objects.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 4-6) |
-| Time | ~8 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A large, open playing space free of obstacles. One player is designated as the Narrator and stands to the side. The remaining players (3 to 6) lie completely flat on the floor in the center of the stage, representing the closed pages of the book.
 

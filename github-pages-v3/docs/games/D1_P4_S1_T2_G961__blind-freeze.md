@@ -77,20 +77,6 @@ A high-energy physical game where players are unexpectedly sent into an active s
 
 **Objective:** To develop unfiltered spontaneity and physical responsiveness by forcing players to instantly justify an inherited physical posture without any pre-planning or anticipation.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-15) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open playing space with a clear stage area. The remaining players stand in a semi-circle or line off-stage, facing the playing area. One person acts as the Facilitator or Caller to manage the transitions.
 

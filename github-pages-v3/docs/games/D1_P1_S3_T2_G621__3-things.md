@@ -78,20 +78,6 @@ One player steps out while three performers are assigned a mundane activity modi
 
 **Objective:** Develops absolute physical commitment, precise object work, and expressive vocal craft to convey complex, absurd ideas without relying on literal language.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 4-6) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An in-person playing space with a clear stage area. One player (the Guesser) leaves the room or wears noise-canceling headphones. The remaining players stand in a line on stage. No physical props are used.
 

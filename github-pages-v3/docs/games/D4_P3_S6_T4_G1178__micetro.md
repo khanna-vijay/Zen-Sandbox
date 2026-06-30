@@ -81,20 +81,6 @@ The Conductor's Challenge is a high-energy, structured performance format where 
 
 **Objective:** Develops format literacy, self-recovery, and audience-energy management by teaching players how to serve the overall piece under pressure, adapt to live directing, and embrace elimination with joy.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–20 (ideal 10-16) |
-| Time | ~90 min |
-| Complexity | 4/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | large_open |
-| Props | Scoreboard, Hat or bucket, Name tags, Scoring cards or audience voting mechanism |
-| Audience | required |
-
 ## Setup
 A large performance space with a stage area and seating for an audience. A large, highly visible scoreboard (whiteboard or digital screen) listing all player names. A hat or bucket containing name tags for all participating players. Scoring cards (numbered 1 to 5) for the audience, or a designated method for measuring audience applause/cheers. Two experienced facilitators to act as the 'Directors'.
 

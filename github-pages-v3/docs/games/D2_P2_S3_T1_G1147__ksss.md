@@ -75,20 +75,6 @@ A rhythmic, high-focus partner warm-up where players attempt to find a shared gr
 
 **Objective:** To develop deep partner awareness, active listening, and physical mirroring. It trains players to stay present in a shared rhythm and react instantly to their partner's choices without overthinking.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-30 (in pairs)) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in pairs, facing each other with comfortable space to move their arms. No props or special materials are required.
 

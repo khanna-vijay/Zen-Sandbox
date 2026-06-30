@@ -75,20 +75,6 @@ This exercise introduces a proactive yellow-light intervention tool that allows 
 
 **Objective:** To develop advanced boundary navigation and active check-in techniques, ensuring players prioritize personal comfort and vulnerability over automatic agreement.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | hybrid |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A moderate playing space suitable for hybrid or in-person setups. No props are required. Players stand in a semi-circle with two players stepping forward to initiate a scene, while one designated facilitator monitors the action.
 

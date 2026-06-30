@@ -78,20 +78,6 @@ A fast-paced virtual character-development drill that challenges players to synt
 
 **Objective:** To master endowment-acceptance and rapid character building by instantly committing to contrasting traits, using physical and vocal choices to ground the character, and maintaining consistency when placed in new, unscripted scenarios.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–20 (ideal 8-12) |
-| Time | ~25 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | medium |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A virtual meeting platform with breakout rooms enabled, gallery view active, and the host prepared to broadcast messages. The facilitator should have a pre-generated list of contrasting character traits and a series of sudden environmental prompts (catalysts).
 

@@ -73,20 +73,6 @@ This is a high-energy, physical tag game where players must think on their feet 
 
 **Objective:** Develops unfiltered spontaneity, rapid word association under physical pressure, and peripheral awareness by training players to trust their first thoughts.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 8-20) |
-| Time | ~10 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A large, open room free of obstacles. Players spread out across the space. No props are required.
 

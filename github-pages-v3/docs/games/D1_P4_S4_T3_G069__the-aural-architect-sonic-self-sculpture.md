@@ -83,20 +83,6 @@ In this deep vocal exploration, players translate silent, abstract internal stat
 
 **Objective:** To develop vocal craft, breath control, and emotional spontaneity by bypassing cognitive filters, allowing raw somatic impulses to directly shape tone, resonance, and gibberish without intellectual planning.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a comfortable, spacious circle in a quiet room with clear acoustics. Before starting, the facilitator leads a brief physical and vocal warm-up (humming, gentle sighing, and shoulder rolls) to prepare the body and voice.
 

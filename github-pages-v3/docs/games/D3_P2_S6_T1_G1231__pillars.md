@@ -73,20 +73,6 @@ Two actors perform a scene while standing next to two audience volunteers who ac
 
 **Objective:** Develops rapid justification skills, active offer reception, and the ability to maintain a grounded base reality even when injected with absurd, unpredictable audience suggestions.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–6 (ideal 3-4) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Two actors stand center stage. Two audience volunteers are invited up to stand next to each actor, acting as their respective pillars. The facilitator gets a simple, grounded suggestion for a relationship and location to establish a base reality.
 

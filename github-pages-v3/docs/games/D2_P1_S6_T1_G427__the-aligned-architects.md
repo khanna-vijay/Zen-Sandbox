@@ -78,20 +78,6 @@ A collaborative physical and conceptual building game where players co-create an
 
 **Objective:** To develop active boundary navigation, real-time consent check-ins, and the principle of 'Truth Over Pandering' by integrating personal limits directly into the collaborative 'Yes, And' process.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–12 (ideal 4-7) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, safe physical space with clear boundaries. No props are needed. Players stand in a circle or semi-circle, ready to step into the active playing area.
 

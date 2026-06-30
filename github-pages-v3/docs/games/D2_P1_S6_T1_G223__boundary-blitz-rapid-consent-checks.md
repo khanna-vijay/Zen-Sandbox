@@ -75,20 +75,6 @@ A fast-paced training drill where players perform short scene snippets and pause
 
 **Objective:** To build muscle memory for active boundary navigation, normalize explicit verbal check-ins, and practice adjusting scene dynamics in real time to prioritize partner safety over theatrical agreement.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear, open playing space with room for two active players and a circle of observers. No props are required, though a whiteboard or poster displaying the color-coded system (Green, Yellow, Red) can be helpful for quick reference.
 

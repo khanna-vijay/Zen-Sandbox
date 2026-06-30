@@ -75,20 +75,6 @@ In this fast-paced circle game, players pass invented nonsense words to their ne
 
 **Objective:** To develop unfiltered spontaneity and trust in one's first instinct by translating nonsense sounds without hesitation, training active listening and offer reception.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 5-15 (odd number preferred)) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle. An odd number of players is ideal to naturally shift the rhythm of who gives and who translates, though any group size of three or more works. No props or special staging required.
 

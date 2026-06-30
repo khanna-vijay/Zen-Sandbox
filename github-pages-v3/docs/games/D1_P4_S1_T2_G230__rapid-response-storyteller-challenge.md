@@ -77,20 +77,6 @@ The Whisper Feed is a high-energy virtual storytelling drill where one or two na
 
 **Objective:** To train unfiltered spontaneity and immediate offer reception by forcing players to accept their very first creative impulse. By bypassing the analytical filter, players learn to treat sudden disruptions as narrative gifts rather than obstacles.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 3-12) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Conducted on a virtual video platform. The facilitator acts as the Prompter, keeping a list of random words, emotions, and objects ready. The active narrator(s) should have their private chat window visible as a pop-up or side panel. The rest of the participants turn off their cameras or remain in gallery view as the audience, while the active narrator(s) are spotlighted.
 

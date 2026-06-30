@@ -73,20 +73,6 @@ Players stand in a circle holding hands and slowly weave themselves into a compl
 
 **Objective:** To develop deep group mind, peripheral awareness, and physical boundary navigation by coordinating collective movement without a designated leader.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–20 (ideal 8-15) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | low |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, flat space with enough room for all players to stand in a circle and move freely. No props or materials are required. Ensure the floor is clear of tripping hazards.
 

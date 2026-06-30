@@ -78,20 +78,6 @@ Players collaboratively construct a detailed physical location by adding and int
 
 **Objective:** To develop precise physical object work, spatial memory, and a shared commitment to the 'Where' of a scene without relying on verbal explanation.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 8-15) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open playing space representing the stage, with the rest of the group seated as active observers. No physical props are used. The facilitator obtains a suggestion for a specific, object-rich location (e.g., a commercial kitchen, a mechanic's garage, a science lab).
 

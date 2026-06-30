@@ -81,20 +81,6 @@ Four players split into two teams: two physical actors who perform silent, expre
 
 **Objective:** To develop deep offer reception and endowment-acceptance. Players learn to treat every physical movement or spoken word from their partner as an absolute gift, instantly justifying and building upon it to make their partner look brilliant.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 4-8) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space. Two chairs are placed downstage left or right, facing the stage but angled slightly toward the audience, for the voice actors. The remaining performance area is clear for the physical actors. No props are needed.
 

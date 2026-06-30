@@ -84,20 +84,6 @@ The Loom is an advanced ensemble exercise where players stand in a circle and ta
 
 **Objective:** Develops advanced thematic synthesis and group mind by training players to track multiple narrative, physical, and auditory threads simultaneously, finding hidden connections between unrelated offers.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–8 (ideal 4-8) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Four to eight players stand in a comfortable circle with enough space to move and gesture freely. No props or materials are required.
 

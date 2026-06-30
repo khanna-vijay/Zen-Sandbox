@@ -73,20 +73,6 @@ A rapid-fire pairing drill where players practice receiving dry, objective facts
 
 **Objective:** To develop immediate offer reception and endowment-acceptance. Players practice treating neutral external information as a high-stakes personal offer, building skills in justification, emotional fluidity, and establishing a strong personal 'want'.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-20) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Divide the group into two equal lines facing each other in the center of the room, creating pairs. Line A will act as the 'Fact Givers' and Line B as the 'Personalizers'. No props or special staging are required, just enough space for pairs to hear each other clearly.
 

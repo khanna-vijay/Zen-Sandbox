@@ -80,20 +80,6 @@ A fast-paced, high-energy drill where players perform a simple action or line, o
 
 **Objective:** To develop rapid self-recovery and joyful failure by training players to instantly reframe unexpected external feedback as their own original, brilliant choice, bypassing the inner critic.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–15 (ideal 4-15) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a comfortable circle in a clear room with enough space to move. The facilitator stands where they can easily see and hear everyone. No props or materials are required.
 

@@ -80,20 +80,6 @@ The Sightline Lab is an active diagnostic exercise where performers run short sc
 
 **Objective:** To develop physical and vocal projection, master the technique of cheating out without breaking the scene's reality, and build an intuitive spatial awareness of how movement and voice carry to the furthest corners of a performance space.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 8-12) |
-| Time | ~25 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | index cards or slips of paper, pens, markers for hotspots (tape or chairs) |
-| Audience | not required |
-
 ## Setup
 Mark 3 to 5 specific Hotspots in the room using tape, chairs, or cones. These spots must represent challenging viewing angles: the extreme back corner, a side-angle seat, a spot with a partially obstructed view, or the very back row. Prepare index cards and pens for the observers. Divide the group so 2-3 players are on stage, and the remaining players are assigned to the Hotspots as Spotters.
 

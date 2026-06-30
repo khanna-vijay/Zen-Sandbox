@@ -73,20 +73,6 @@ This is a fast-paced physical and vocal warm-up where players replace spoken num
 
 **Objective:** To develop group mind, collective pacing, and physical coordination while training players to fail joyfully and recover instantly when they lose the rhythm.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-20) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle with enough space to move their arms and lift a foot. No props or materials are required.
 

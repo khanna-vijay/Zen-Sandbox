@@ -73,20 +73,6 @@ A solo or group narrative drill where a storyteller must instantly alternate bet
 
 **Objective:** To develop vocal variety, emotional commitment, and physical storytelling by stripping away literal words, forcing the player to rely on tone, gesture, and unfiltered spontaneity.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 1+ (ideal 1-15) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle or semi-circle facing the facilitator. No props are required, though the facilitator needs a clear way to signal a switch, such as a hand clap or calling out 'Switch!'.
 

@@ -87,20 +87,6 @@ Players collectively construct a rich, layered physical and sonic environment wi
 
 **Objective:** To develop advanced peripheral awareness and group mind by training players to synthesize a complex collective stimulus (the "group A") and offer a supportive, thematic response (the "individual C") that organically births narrative scenes.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, moderate-sized playing space. Four to eight players stand in a loose circle or neutral spread, maintaining soft focus and physical readiness. No props or chairs are used.
 

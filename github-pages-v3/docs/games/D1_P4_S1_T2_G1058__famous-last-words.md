@@ -71,20 +71,6 @@ A fast-paced, line-game style comedy exercise where players step forward to deli
 
 **Objective:** To train players to trust their very first impulse without editing or second-guessing, building unfiltered spontaneity and stage presence under pressure.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 4-8) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Players stand in a horizontal line-up facing the audience. One player or the facilitator acts as the host to gather suggestions. No props or special staging are needed.
 

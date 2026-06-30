@@ -80,20 +80,6 @@ C.R.O.W. Ignition is a rapid-fire virtual training drill designed to eliminate t
 
 **Objective:** To develop the ability to establish a robust Base Reality First (C.R.O.W.) instantly, training players to make bold, specific, and unfiltered initiations while their partner immediately justifies and elevates those choices.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-16) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Conducted in a virtual meeting space. All players keep their cameras off except for the two active players. No props or physical materials are required. The facilitator prepares a list of single-word prompts.
 

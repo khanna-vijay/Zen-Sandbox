@@ -77,20 +77,6 @@ In this dynamic scenic game, players alternate between physicalizing random live
 
 **Objective:** To train rapid justification and the establishment of a strong base reality by forcing players to treat unexpected, chaotic external audio inputs as absolute, logical truths within their scene.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-6) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | yes |
-| Audience | required |
-
 ## Setup
 A performance space with a live audio source (such as an AM/FM radio, digital receiver, or smartphone connected to a speaker) controlled by a facilitator or tech operator. For standard theater spaces, lighting controls with blackout capability are used. For low-tech spaces, players simply close their eyes during the audio segments. Two to six players stand on stage, while the rest of the group acts as the audience.
 

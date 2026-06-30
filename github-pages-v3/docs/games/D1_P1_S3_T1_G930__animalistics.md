@@ -79,20 +79,6 @@ In this exercise, players adopt the physical, vocal, and behavioral traits of a 
 
 **Objective:** To develop physical commitment, vocal variety, and status modulation by using animal archetypes as a physical center and behavioral guide.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-4 per scene) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear playing space where players can move freely. The facilitator prepares a list of diverse animals or gathers suggestions from the group.
 

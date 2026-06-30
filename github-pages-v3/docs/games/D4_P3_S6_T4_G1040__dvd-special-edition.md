@@ -73,20 +73,6 @@ The Special Edition Feature is a structured longform format that bridges shortfo
 
 **Objective:** Develops format literacy and narrative architecture by contrasting rapid-fire, shortform-style framing (trailers, bloopers) with the sustained, patient scene work required for a longform narrative.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-10) |
-| Time | ~25 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An open performance space with a clear stage area and an off-stage bench for players not in the current scene. No props are required. One player can act as the Director or Host to guide the menu transitions, or the ensemble can self-edit.
 

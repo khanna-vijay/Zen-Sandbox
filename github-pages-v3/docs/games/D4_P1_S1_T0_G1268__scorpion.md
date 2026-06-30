@@ -79,20 +79,6 @@ In this sensory-deprivation ensemble game, a subset of players navigate a cleare
 
 **Objective:** To develop heightened peripheral awareness, physical trust, and non-visual spatial mapping while practicing active, non-verbal support work.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 10-20) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Clear a large, open room of all physical obstacles. Divide the group: half of the players stand in the center of the space (the navigators), while the other half form a protective perimeter around the edges of the room (the spotters).
 

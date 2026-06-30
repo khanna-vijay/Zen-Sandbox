@@ -69,20 +69,6 @@ This is a collaborative closing exercise where participants stand in a circle an
 
 **Objective:** To build ensemble cohesion, reinforce the principle of making your partner look good, and practice active gifting by celebrating others' creative choices.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-20) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle facing inward. No props or special materials are required; just a clear floor space.
 

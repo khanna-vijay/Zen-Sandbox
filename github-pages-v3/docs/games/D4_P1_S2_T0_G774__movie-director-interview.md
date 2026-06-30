@@ -79,20 +79,6 @@ This game splits the stage into a talk-show interview on one side and a live-act
 
 **Objective:** To develop Group Mind and Support Work by requiring players to listen across two distinct performance zones, instantly justifying and building upon each other's narrative offers.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–6 (ideal 4-6) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Divide the playing area into two halves. On the left side, place two chairs for the Interviewer and the Director. The right side is the screen area, left clear for two to four actors to stand ready. No props are needed.
 

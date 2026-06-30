@@ -78,20 +78,6 @@ A structured, low-energy exercise designed for virtual spaces where pairs explic
 
 **Objective:** To develop proactive boundary navigation and active listening by replacing immediate, unexamined agreement with explicit, verbal check-ins and authentic self-advocacy.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal Pairs (2-16 players)) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | low |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Conducted via a video conferencing platform. Players work in pairs. The facilitator ensures all participants have their cameras on and can easily unmute. No physical props or space are required, making it ideal for remote learning.
 

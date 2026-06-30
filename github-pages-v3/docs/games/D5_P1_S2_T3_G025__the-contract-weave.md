@@ -82,20 +82,6 @@ A dynamic staging drill where performers navigate a shifting boundary between st
 
 **Objective:** To develop conscious control over the fourth wall, training improvisers to read, calibrate, and respond to live audience energy as an active scene partner.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | Green flag or card, Red flag or card, Bell or buzzer |
-| Audience | required |
-
 ## Setup
 A performance space with 2 to 4 players on stage and the remaining group acting as an active audience. The facilitator stands near the audience holding a green card (representing a solid fourth wall), a red card (representing direct address), and a bell or buzzer to pause action.
 

@@ -80,20 +80,6 @@ This high-energy, longform narrative format challenges an ensemble to tell a coh
 
 **Objective:** Develops format literacy, narrative pacing, and vocal craft by forcing players to balance the structural demands of a longform story with the sudden, disruptive shifts of shortform-style musical constraints.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 4-8 players plus 1 musician) |
-| Time | ~30 min |
-| Complexity | 4/5 |
-| Skill level | proficient |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | Keyboard or musical instrument, Whiteboard or paper to track the 10 song styles |
-| Audience | required |
-
 ## Setup
 A stage with a clear performance area, an accompanist with a keyboard or other versatile instrument, and a visible whiteboard or flipchart to list the ten musical styles. An audience is present to provide suggestions.
 

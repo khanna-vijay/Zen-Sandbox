@@ -75,20 +75,6 @@ In this musical narrative game, one player acts as the Balladeer, singing an imp
 
 **Objective:** To develop 'Follow the Follower' dynamics, narrative co-creation, and physical support work by establishing a mutual feedback loop between vocal narrative and physical expression.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 4-8) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear performance space with one player (the Balladeer) standing to the side or downstage corner, and the rest of the ensemble (the Actors) gathered in the center stage area. No props or instruments are required.
 

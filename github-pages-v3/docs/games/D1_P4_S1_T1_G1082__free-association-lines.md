@@ -75,20 +75,6 @@ Players form two parallel lines facing each other. One player walks across the g
 
 **Objective:** To develop unfiltered spontaneity and rapid offer reception by pairing physical movement with immediate, first-thought word association.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6+ (ideal 8-20) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Arrange the group into two equal parallel lines facing each other, leaving a clear gap of about 8 to 12 feet between them. No props or materials are required.
 

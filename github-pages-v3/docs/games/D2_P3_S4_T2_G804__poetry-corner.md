@@ -77,20 +77,6 @@ In this comedic performance game, a high-brow host interviews an eccentric poet 
 
 **Objective:** To develop endowment-acceptance and radical support. Players learn to treat their partner's spontaneous offers as brilliant choices, building comedic heightening through intellectual justification.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 4-8) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Place two chairs downstage for the Host and the Poet. The remaining players (the Ensemble) stand in a line upstage or off to the side, ready to step forward to an imaginary microphone center stage. No props are required.
 

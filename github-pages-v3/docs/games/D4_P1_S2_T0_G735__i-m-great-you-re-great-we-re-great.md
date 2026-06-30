@@ -73,20 +73,6 @@ This fast-paced, high-energy exercise gets the entire room moving, laughing, and
 
 **Objective:** To cultivate Group Mind and Support Work by practicing active gifting, building immediate eye contact, and fostering a joyful, low-stakes environment where players celebrate themselves and each other simultaneously.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 10-30) |
-| Time | ~3 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open room cleared of obstacles to allow safe, rapid movement. No props or materials are required. All players stand and spread out across the space.
 

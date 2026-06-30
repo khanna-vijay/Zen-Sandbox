@@ -86,20 +86,6 @@ An ensemble-focused physical drill where players collaboratively construct and e
 
 **Objective:** To develop advanced peripheral awareness and group mind through thread-tracking, training players to instantly recognize, validate, and amplify subtle physical and environmental shifts introduced by their teammates.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–6 (ideal 4-5) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, moderate-sized playing space with no chairs or props. The facilitator prepares a list of evocative, non-narrative environmental prompts (e.g., 'a place of intense pressure,' 'a delicate glass chamber'). Players stand in a semi-circle off-stage, ready to enter the playing area one by one.
 

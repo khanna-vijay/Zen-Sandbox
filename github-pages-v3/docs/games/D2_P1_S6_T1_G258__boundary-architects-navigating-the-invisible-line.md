@@ -72,20 +72,6 @@ A two-player scene-work drill where one player holds secret personal or characte
 
 **Objective:** To develop advanced boundary navigation and active listening skills. Players learn to recognize non-verbal warning signs, execute seamless verbal check-ins, and prioritize personal safety and partner comfort over comedic or narrative payoff (Truth Over Pandering).
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Arrange the group in a circle or semi-circle to act as active observers. Clear a moderate performance space in the center. No props or materials are required. Explain the concept of 'Yellow Light' (approaching a boundary) and 'Red Light' (boundary reached/crossed) non-verbal signals.
 

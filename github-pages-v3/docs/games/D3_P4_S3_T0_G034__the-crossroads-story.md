@@ -80,20 +80,6 @@ This virtual narrative game challenges players to navigate a scene that is perio
 
 **Objective:** To develop advanced narrative architecture skills by training players to recognize pivotal story junctures, evaluate competing narrative engines, and collaboratively commit to high-stakes plot developments.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | none |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Played in a virtual video-conferencing space. Two active players turn their cameras on to perform, while the remaining participants keep their cameras off to act as the audience. One facilitator acts as the Narrative Guide, ready to pause the action and offer structural choices. No physical props or special materials are required.
 

@@ -72,20 +72,6 @@ Two players step into the center of a supportive circle to trade rapid-fire word
 
 **Objective:** To bypass the internal editor, embrace the first thought without hesitation, and maintain a steady, rapid rhythm under pressure.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 10-20) |
-| Time | ~10 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Have all players stand in a wide, clear circle. No props or materials are required, though the facilitator should have a list of simple categories prepared.
 

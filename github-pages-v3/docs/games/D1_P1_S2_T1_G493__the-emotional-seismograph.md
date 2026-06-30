@@ -86,20 +86,6 @@ A dynamic circle drill where players pass a chain of word associations, each pai
 
 **Objective:** To build emotional fluidity and total physical commitment by practicing rapid, deliberate transitions between diverse emotional states and varying intensities.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–15 (ideal 8-12) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a comfortable circle facing inward with enough space to move their arms and shift their stances. No props are required.
 

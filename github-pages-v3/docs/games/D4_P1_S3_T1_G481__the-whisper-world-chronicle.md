@@ -83,20 +83,6 @@ An advanced ensemble exercise where players collaboratively construct a detailed
 
 **Objective:** To develop advanced Group Mind and A-to-C suggestion deconstruction by training players to infer underlying world rules from subtle physical offers and immediately validate them through supportive, non-expository choices.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–5 (ideal 3-5) |
-| Time | ~25 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, moderate-sized playing space. Three to five players stand ready on stage, with the remaining workshop participants acting as active observers. No props or materials are required. The facilitator prepares a list of evocative, single-word thematic prompts (e.g., 'Heavy', 'Brittle', 'Vapor', 'Tethered').
 

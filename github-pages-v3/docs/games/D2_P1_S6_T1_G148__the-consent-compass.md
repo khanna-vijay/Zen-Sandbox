@@ -76,20 +76,6 @@ A structured partner exercise where players practice translating implicit physic
 
 **Objective:** To develop proactive consent-seeking communication, master verbal check-ins before physical contact, and practice setting clear, honest boundaries without fear of stalling a scene.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 4+) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players form pairs and stand facing each other at a comfortable distance (about four feet apart) in a spacious room. No props or materials are required. The facilitator should ensure the room is quiet enough for pairs to hear each other clearly.
 

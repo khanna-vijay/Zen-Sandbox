@@ -77,20 +77,6 @@ A collaborative narrative game for three to five players who must work together 
 
 **Objective:** To develop advanced boundary navigation and physical contact negotiation skills, teaching players to use 'No, but' as a creative tool that honors personal comfort while maintaining narrative momentum.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–5 (ideal 3-5) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, clear playing space with no physical props. The facilitator gathers three to five players in the center of the space and establishes a collaborative, high-stakes scenario (e.g., escaping a collapsing cavern or moving a heavy, fragile object).
 

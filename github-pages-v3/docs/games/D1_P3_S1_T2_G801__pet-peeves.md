@@ -71,20 +71,6 @@ Players stand in a line and take turns sharing a real, minor personal annoyance 
 
 **Objective:** To develop unfiltered spontaneity and vulnerability by sharing genuine personal truths, demonstrating that authentic human experience is inherently compelling and humorous without the need to manufacture jokes.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 5-10) |
-| Time | ~10 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An in-person playing space where 5 to 10 players can stand in a line facing the rest of the group (who act as the audience). No props or materials are required.
 

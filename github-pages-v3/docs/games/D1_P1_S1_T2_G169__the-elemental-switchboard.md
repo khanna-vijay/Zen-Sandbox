@@ -86,20 +86,6 @@ A high-energy, fast-paced drill where players instantly embody a sequence of rap
 
 **Objective:** To develop unfiltered spontaneity and absolute commitment to physical, vocal, and emotional choices, training the player to treat their first instinct as an undeniable gift.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–12 (ideal 4-12) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a spacious circle facing inward, leaving enough room to move their arms and take a few steps in any direction. No props or materials are required. The facilitator stands outside the circle where they can clearly see and be heard by all participants.
 

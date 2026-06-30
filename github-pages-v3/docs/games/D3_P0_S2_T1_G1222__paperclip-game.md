@@ -76,20 +76,6 @@ Players stand in a backline and step forward one by one to establish and heighte
 
 **Objective:** To develop the skill of heightening and exploration by identifying an established pattern and systematically increasing its scale, emotional weight, or abstraction.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-15) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a straight line (a backline) facing the playing space. No props or materials are required. Ensure there is clear space in front of the line for players to step forward.
 

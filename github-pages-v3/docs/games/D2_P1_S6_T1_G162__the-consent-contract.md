@@ -80,20 +80,6 @@ This structured scene-work drill uses physical tokens to gamify and normalize bo
 
 **Objective:** To develop real-time boundary navigation and active check-in techniques, training players to prioritize personal comfort over scene preservation ('Truth Over Pandering') while maintaining collaborative play.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-12) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | poker chips, pennies, or bottle caps (Consent Coins) |
-| Audience | not required |
-
 ## Setup
 An in-person playing space with a clear stage area. Distribute three physical tokens (such as poker chips, pennies, or bottle caps) to each participant. These represent 'Consent Coins.' No other props are required.
 

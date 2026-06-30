@@ -79,20 +79,6 @@ An active scene-work exercise where players use a specialized verbal cue to inst
 
 **Objective:** To develop real-time boundary navigation and active consent practices within active scene work, teaching players to prioritize partner safety over narrative momentum while maintaining collaborative flow.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6+) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open playing space with room for two to three players to perform, while the remaining participants observe as an active audience. No props or materials are required.
 

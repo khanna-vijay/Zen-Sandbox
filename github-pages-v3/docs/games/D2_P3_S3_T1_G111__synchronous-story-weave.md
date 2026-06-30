@@ -83,20 +83,6 @@ A two-phase partner exercise that uses a strict non-verbal threshold to gate and
 
 **Objective:** To develop deep interpersonal connection, single-partner empathy, and physical mirroring, ensuring that verbal offers emerge organically from a shared physical and emotional reality rather than intellectual planning.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-12) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | low |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Pairs stand facing each other at a comfortable arm's length in a quiet, open space. The facilitator stands nearby to observe and act as the gatekeeper for the transition from movement to speech.
 

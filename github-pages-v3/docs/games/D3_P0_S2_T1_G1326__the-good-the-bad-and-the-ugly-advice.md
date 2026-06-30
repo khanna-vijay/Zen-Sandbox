@@ -75,20 +75,6 @@ Three players stand before the audience to solve a mundane life dilemma. Each pl
 
 **Objective:** To master the 'ladder' technique of comedic heightening, learning how to listen to a premise and escalate its stakes in clear, sequential steps.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 4-8) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Three active players stand in a line facing the audience. The remaining players form a queue offstage or sit in the front row, ready to rotate in. No props or materials are required.
 

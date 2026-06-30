@@ -79,20 +79,6 @@ In this high-stakes performance game, players solicit a completely made-up game 
 
 **Objective:** Develops deep group mind, format literacy, and the ability to instantly establish and commit to structural constraints (shortform vs. longform mechanics) on the fly.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 4-8) |
-| Time | ~5 min |
-| Complexity | 4/5 |
-| Skill level | proficient |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An in-person performance space with an audience. A group of 4 to 8 players stands in a line-up or semi-circle facing the audience. No props or materials are required.
 

@@ -83,20 +83,6 @@ A fast-paced virtual scene-work drill where players must instantly pivot their e
 
 **Objective:** To develop rapid emotional fluidity and physical commitment by practicing emotional substitution under pressure, training players to instantly inhabit unexpected feelings without verbal rationalization.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–5 (ideal 3-5) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | medium |
-| Modality | virtual |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Designed for a virtual platform. Three to five players participate. Two players start on camera in a split-screen setup, while the remaining players and the facilitator keep their cameras off but audio on. No physical props are needed, but players should adjust their cameras to show their upper bodies to allow for physical expression.
 

@@ -69,20 +69,6 @@ Bandage Tag is an active, physical warm-up that transforms a classic playground 
 
 **Objective:** To develop peripheral awareness, physical commitment, and active support work by forcing players to look beyond their immediate survival to assist others in need.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-20) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, safe room free of obstacles. Define clear boundaries for the playing area. No props are required.
 

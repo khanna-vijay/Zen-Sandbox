@@ -82,20 +82,6 @@ A high-trust, character-driven scene study where players explicitly weave person
 
 **Objective:** To develop advanced boundary navigation and active listening skills, training players to prioritize personal safety and authentic responses over people-pleasing without sacrificing narrative momentum.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-4 players per scene) |
-| Time | ~25 min |
-| Complexity | 4/5 |
-| Skill level | proficient |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | Catalyst Object (e.g., blindfold, heavy blanket, worn diary, scarf, rope, shared cup) |
-| Audience | not required |
-
 ## Setup
 An open performance space with moderate room to move. Place a single Catalyst Object (such as a blindfold, a heavy blanket, a worn diary, a long scarf, or a shared cup) on a chair in the center. Divide the group into pairs or small groups of 2-4 players, with the remaining participants acting as active observers.
 

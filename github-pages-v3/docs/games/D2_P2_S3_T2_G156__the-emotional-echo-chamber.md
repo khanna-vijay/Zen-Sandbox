@@ -85,20 +85,6 @@ Two players stand face-to-face, communicating entirely without words. One partne
 
 **Objective:** To develop non-verbal attunement, emotional fluidity, and active empathy by practicing 'Yes, And' on an energetic level, allowing a partner's emotional state to genuinely affect and transform your own.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (in pairs)) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Divide the group into pairs. Partners stand facing each other, approximately three to four feet apart, in a quiet space with minimal distractions. No props or special materials are required.
 

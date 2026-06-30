@@ -76,20 +76,6 @@ A structured narrative game where players actively practice real-time boundary n
 
 **Objective:** To develop advanced boundary navigation and active check-in techniques, transforming safety interventions from disruptive halts into collaborative, narrative-building pivots.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–5 (ideal 3-5) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Arrange a moderate playing space with 2 to 3 players on stage and 1 to 2 players seated off-stage as Navigators who actively watch and support. No props are required. Before beginning, conduct a brief container setup to establish the group's baseline boundaries and review the verbal cues.
 

@@ -69,20 +69,6 @@ Two players perform a scene where the audience's laughter acts as a physical tri
 
 **Objective:** To develop acute room reading and active listening by treating the audience's laughter as an active, physical cue that directly impacts the scene's reality.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–2 (ideal 2) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An open performance space with a clear boundary between the stage and the audience. No props are required, but players must be trained in basic non-contact stage combat safety before beginning.
 

@@ -84,20 +84,6 @@ The Digital Diorama is a collaborative, virtual world-building game where player
 
 **Objective:** To establish a robust, detailed Base Reality using the C.R.O.W. framework (Character, Relationship, Objective, Where) in a virtual space, training players to instantly accept, justify, and build upon environmental offers.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–12 (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | yes |
-| Audience | not required |
-
 ## Setup
 Players join a video call in gallery view. Each player identifies two to three items within immediate arm's reach, or prepares to use wearable items like glasses or clothing. Participants ensure they know how to quickly rename themselves on the platform. The facilitator acts as the host and queue manager.
 

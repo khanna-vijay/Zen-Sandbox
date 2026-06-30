@@ -79,20 +79,6 @@ In this active training game, players initiate a standard scene but must immedia
 
 **Objective:** To develop the ability to recognize narrative stagnation and inject decisive, high-stakes choices (tilts) that redefine the platform and propel the story forward.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle or semi-circle. Two players step into the center performance space. No props or special staging are required.
 

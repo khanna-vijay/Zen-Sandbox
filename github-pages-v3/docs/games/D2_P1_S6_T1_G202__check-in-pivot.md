@@ -76,20 +76,6 @@ A structured skill drill where players pause active scenes to explicitly negotia
 
 **Objective:** To build practical boundary navigation and active listening skills, normalizing real-time consent check-ins as a collaborative tool rather than a creative disruption.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open playing space with no props. Players stand in a circle or line, with two players stepping into the center to perform a scene based on a simple relationship prompt provided by the facilitator.
 

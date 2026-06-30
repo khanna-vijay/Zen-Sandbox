@@ -82,20 +82,6 @@ The Narrative Weaver is a virtual ensemble game that transforms video conferenci
 
 **Objective:** To develop Group Mind and Thematic Synthesis by training players to actively listen, scan multiple streams of input (visual and textual), and seamlessly weave disparate narrative threads into a cohesive story.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–15 (ideal 6-15) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | Zoom client with Virtual Backgrounds enabled, Zoom Chat, Zoom Reactions |
-| Audience | not required |
-
 ## Setup
 A virtual meeting platform with Gallery View enabled. All players must have their cameras on, the chat window open, and reactions accessible. Players should have 2-3 virtual backgrounds ready if possible, and be prepared to rename themselves to reflect character changes. One facilitator acts as the Spotlight Operator to dynamically spotlight the active speaker.
 

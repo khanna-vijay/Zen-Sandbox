@@ -71,20 +71,6 @@ Two players initiate a grounded, slice-of-life scene to establish a clear base r
 
 **Objective:** To develop Game Identification and Heightening skills by deliberately choosing a moment to make a partner's ordinary statement important, transforming it into the scene's central comedic premise.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two players stand in the performance space. The rest of the group acts as an active audience. No props or special staging are required.
 

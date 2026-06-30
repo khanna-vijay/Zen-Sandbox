@@ -73,20 +73,6 @@ Players stand in a circle and pass a count from one to seven using physical shou
 
 **Objective:** To build self-recovery and the ability to fail joyfully by reframing mistakes as active, celebrated physical resets rather than moments of shame.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–20 (ideal 8-15) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a clear, open circle with enough space behind them to safely run or jog around the perimeter. No props or materials are required.
 

@@ -79,20 +79,6 @@ Spotlight Story-Weaving is a virtual narrative game where players collaborativel
 
 **Objective:** To develop rapid offer reception and disciplined 'Yes, And' narrative building in a virtual environment, while training active listening and minimizing digital crosstalk.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–10 (ideal 5-10) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | none |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players join a virtual video meeting. Everyone must turn their cameras on and set their view to 'Gallery View' so they can see all participants. The facilitator must have host privileges and be comfortable using the platform's 'Spotlight' or 'Pin for Everyone' feature. No physical props or materials are required.
 

@@ -73,20 +73,6 @@ A high-energy physical warm-up where players stand in a circle and pass a unique
 
 **Objective:** Develops deep physical listening, non-verbal agreement, and the ability to commit fully to bold physical choices.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-20) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Clear a moderate-sized space so players can stand in a wide circle with enough room to move dynamically without colliding. No props are needed.
 

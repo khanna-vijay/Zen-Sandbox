@@ -77,20 +77,6 @@ A group exercise where players collaborate to deliver a single, cohesive monolog
 
 **Objective:** To develop deep active listening, physical mirroring, and the ability to seamlessly support and build upon a partner's offer without hesitation.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-12) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a comfortable circle with enough space in the center for one person. No props or special materials are required.
 

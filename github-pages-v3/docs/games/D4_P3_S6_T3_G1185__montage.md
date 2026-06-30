@@ -71,20 +71,6 @@ The Scene Montage is a foundational long-form improv format where players use a 
 
 **Objective:** Develops format literacy, pacing, and ensemble-mindset by training players to recognize when to edit, how to support ongoing themes, and how to serve the overall structure of a multi-scene performance.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-10) |
-| Time | ~20 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An open performance space with two or more chairs placed off to the sides. The ensemble stands in a line or 'backline' at the rear of the stage, ready to step forward. An audience (or the rest of the workshop group) sits facing the stage.
 

@@ -79,20 +79,6 @@ A high-energy performance game where players attempt to reenact a real day in th
 
 **Objective:** To develop active room reading, rapid self-recovery, and deep sensitivity to an audience member's intent by treating their real-time feedback as the ultimate guide for scene progression.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 3-6 players plus audience) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 A performance space with three to six players on stage. One chair is placed downstage or in the front row for an audience volunteer. No props are needed, but clear physical space is required for active object work and staging.
 

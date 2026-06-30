@@ -82,20 +82,6 @@ In this exercise, two players establish a grounded scene while a facilitator per
 
 **Objective:** To develop narrative architecture and mastery of the platform/tilt technique by training players to treat sudden, externally imposed changes as deep, permanent internal truths that must be physically and emotionally justified.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space with two chairs (optional). The rest of the group sits as an active audience. The facilitator stands close to the stage area to deliver prompts clearly without disrupting the performance energy.
 

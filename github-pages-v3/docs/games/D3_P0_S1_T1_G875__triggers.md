@@ -74,20 +74,6 @@ Three players perform a grounded scene where each has a secret, assigned trigger
 
 **Objective:** Develops acute active listening, pattern recognition, and game identification. Players learn to discover the 'game of the scene' through physical and verbal cause-and-effect loops, heightening the comedy by deliberately feeding their partners' patterns.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–4 (ideal 3) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Three players stand on stage. The facilitator asks two players to plug their ears while the audience (or remaining players) helps assign a secret trigger (e.g., someone touches their face) and a secret response (e.g., speaking in a high-pitched voice) to the active player. This is repeated for all three players so that everyone has a secret trigger-response pair unknown to the others.
 

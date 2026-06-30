@@ -85,20 +85,6 @@ A physical, non-verbal ensemble game where players co-create a detailed environm
 
 **Objective:** To develop heightened peripheral awareness and group mind by physically committing to a shared space and executing seamless, non-verbal A-to-C environmental transitions.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–7 (ideal 4-7) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear, open playing space with no physical props. Four to seven players stand in a neutral circle or semi-circle, ready to step into the active playing area.
 

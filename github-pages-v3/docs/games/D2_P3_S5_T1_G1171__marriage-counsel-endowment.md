@@ -78,20 +78,6 @@ In this comedic guessing game, one player steps into the role of a relationship 
 
 **Objective:** To develop active gifting, physical endowment, and active listening by focusing entirely on making your scene partner look brilliant.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–4 (ideal 3-4) |
-| Time | ~8 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Arrange three chairs on stage: two close together for the couple, and one facing them for the therapist. One player (the Therapist) leaves the room so they cannot hear. The facilitator solicits two distinct, unusual relationship problems or secret quirks from the audience.
 

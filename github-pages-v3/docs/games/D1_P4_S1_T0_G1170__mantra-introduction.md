@@ -68,20 +68,6 @@ A quiet, reflective group experiment that demonstrates the impossibility of a tr
 
 **Objective:** To dismantle the fear of 'blanking' or running out of ideas on stage by proving that the subconscious mind is an unstoppable generator of thoughts, encouraging players to trust and speak their very first impulse.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 1+ (ideal any) |
-| Time | ~10 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | low |
-| Physicality | none |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players sit comfortably in chairs or on the floor, spaced slightly apart. The room should be relatively quiet, though normal ambient sounds (traffic, building hums) are perfectly fine. No props or materials are required.
 

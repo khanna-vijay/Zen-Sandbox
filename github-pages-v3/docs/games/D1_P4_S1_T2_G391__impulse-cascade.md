@@ -82,20 +82,6 @@ Players stand in a circle and pass a continuous chain of unfiltered physical and
 
 **Objective:** To develop unfiltered spontaneity and trust in one's immediate physical and vocal impulses, bypassing cognitive editing and self-censorship.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–15 (ideal 8-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a comfortable circle with enough space to move freely. No props or materials are required.
 

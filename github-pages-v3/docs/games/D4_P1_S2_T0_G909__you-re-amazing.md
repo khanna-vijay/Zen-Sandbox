@@ -74,20 +74,6 @@ This fast-paced, high-energy closing game invites players to mingle and shower e
 
 **Objective:** To develop status modulation, build ensemble connection, and practice unfiltered spontaneity by turning positive reinforcement into a comedic, low-stakes game of theatrical rejection.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 8-30) |
-| Time | ~3 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open room with enough space for all participants to move around freely. No props or materials are required.
 

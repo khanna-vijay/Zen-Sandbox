@@ -77,20 +77,6 @@ One player initiates a solo scene, establishing a clear physical environment thr
 
 **Objective:** Develops the skill of justifying the absurd while maintaining a strong base reality and practicing active offer reception.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 3-6) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear performance space with no physical props. One player stands in the playing area, while two to five players stand on the sidelines ready to provide off-stage voices.
 

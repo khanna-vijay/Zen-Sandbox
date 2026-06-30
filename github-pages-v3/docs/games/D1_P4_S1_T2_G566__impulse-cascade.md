@@ -87,20 +87,6 @@ Impulse Cascade is a high-energy, fast-paced circle exercise designed to align p
 
 **Objective:** To develop unfiltered spontaneity and emotional fluidity by training players to trust and immediately express their very first physical and vocal impulses without self-censorship.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–12 (ideal 5-12) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a comfortable, open circle facing inward, ensuring everyone has a clear line of sight to all other participants. No props or materials are required. The facilitator should prepare a list of evocative, sensory, or emotionally charged prompts.
 

@@ -78,20 +78,6 @@ A collaborative storytelling game where players construct a rapidly escalating c
 
 **Objective:** To develop stakes-escalation skills and narrative architecture by training players to identify, justify, and amplify the logical consequences of any given theatrical reality.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–5 (ideal 3-5) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Three to five players stand in a semi-circle. Before beginning, establish a clear, sequential turn-taking order (e.g., clockwise) to ensure seamless transitions. For virtual play, the facilitator establishes a speaking order in the chat or has players add numbers to their display names.
 

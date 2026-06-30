@@ -79,20 +79,6 @@ A physicalized narrative exercise where players improvise a scene while moving t
 
 **Objective:** To develop a deep, physical intuition for narrative structure (specifically the Story Spine) and emotional pacing, training players to seamlessly justify sudden structural transitions and emotional shifts.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~20 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | tape, cones, or colored mats, whiteboard, dial, or physical slider |
-| Audience | not required |
-
 ## Setup
 Mark 5 distinct physical zones on the floor in a linear or semi-circular path using tape, cones, or colored mats. Label them conceptually: Zone 1 (Exposition/Status Quo), Zone 2 (Inciting Incident/Catalyst), Zone 3 (Rising Action/Stakes Escalation), Zone 4 (Climax/Crisis Peak), and Zone 5 (Resolution/New Normal). Set up a visible 'Emotional Intensity Meter' (a whiteboard with a drawn dial 1-10, or a physical slider) at the side of the playing space.
 

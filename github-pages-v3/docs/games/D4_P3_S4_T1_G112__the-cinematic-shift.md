@@ -82,20 +82,6 @@ A high-energy, collaborative digital storytelling game where players assume spec
 
 **Objective:** To train rapid narrative pacing, physical economy, and collaborative story building. Players learn to 'serve the piece' by contributing brief, high-impact physical offers that build directly on the previous shot, using camera toggles as instant scenic edits.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–12 (ideal 8-10) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | medium |
-| Modality | virtual |
-| Space | minimal |
-| Props | yes |
-| Audience | not required |
-
 ## Setup
 Set up on a video conferencing platform with 'Hide Non-Video Participants' enabled. All players start with their cameras turned off. Three players rename themselves to indicate their production roles: 'Director', 'Editor', and 'Sound Designer'. The remaining players rename themselves as 'Actor [Name]'. Players prepare a few digital backgrounds or physical props within arm's reach.
 

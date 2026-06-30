@@ -76,20 +76,6 @@ Two players stand face-to-face, moving slowly and deliberately to mimic each oth
 
 **Objective:** To develop physical empathy, active listening, and peripheral awareness while practicing the principle of making your partner look like a genius.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-30 (in pairs)) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | low |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Divide the group into pairs. Have partners stand approximately three feet apart, facing each other directly. Ensure there is enough space between pairs to move freely without colliding.
 

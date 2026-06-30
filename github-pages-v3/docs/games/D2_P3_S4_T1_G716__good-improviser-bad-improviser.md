@@ -73,20 +73,6 @@ In this paired exercise, one player deliberately attempts to derail the scene by
 
 **Objective:** To develop advanced offer reception and justification skills, training players to treat difficult or blocking moves not as mistakes, but as valuable gifts that build a deeper base reality.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players pair up. One player is designated as the 'Disruptor' (who will block and deny) and the other as the 'Alchemist' (who will accept and justify). They stand or sit facing each other in a minimal performance space. No props or special setup required.
 

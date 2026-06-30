@@ -73,20 +73,6 @@ System Overload is a high-energy focus drill where a single player attempts to m
 
 **Objective:** To silence the internal editor and cultivate unfiltered spontaneity by overloading the conscious mind, forcing the player to rely on immediate, instinctual first thoughts.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-10) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Clear a space in the center of the room. One player stands in the middle. Another player stands directly in front of them to act as the physical mirror guide. Two small groups (or individuals) stand on the left and right sides of the central player. No props are needed.
 

@@ -68,20 +68,6 @@ A high-energy, low-stakes icebreaker where players stand in a circle and take tu
 
 **Objective:** To develop a sense of group mind, vulnerability, and active support work by practicing unconditional celebration of one's peers and overcoming the fear of being seen.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 8-25) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle facing inward. No props or special materials are required. Ensure there is enough space for everyone to stand comfortably.
 

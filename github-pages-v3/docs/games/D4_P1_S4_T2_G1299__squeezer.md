@@ -76,20 +76,6 @@ The Pulse is a silent, tactile ensemble warm-up where players stand in a circle 
 
 **Objective:** To develop group mind, active listening, and precise physical timing by tuning into the micro-movements of partners and practicing the principle of 'follow the follower'.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-20) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a closed circle, facing inward, holding hands. The space should be clear of obstacles so players can stand comfortably close.
 

@@ -79,20 +79,6 @@ The Domino Chain is an active improv game where two players collaboratively cons
 
 **Objective:** Develops narrative architecture and the platform/tilt technique by training players to link every plot point directly through cause and effect, while practicing rapid justification and active offer reception.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 active (any group size)) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two active players stand in the performance space. The remaining group acts as an active audience. The facilitator establishes a neutral starting platform with a clear relationship and location to give the scene a grounded beginning.
 

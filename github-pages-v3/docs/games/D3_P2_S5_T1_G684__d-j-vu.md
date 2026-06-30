@@ -80,20 +80,6 @@ A high-energy performance game where pairs of players attempt to recreate a scen
 
 **Objective:** To master rapid world-building (C.R.O.W.) and base reality establishment under extreme information constraints, while practicing deep justification of absurd or incomplete offers.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6+ (ideal 6-10) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An in-person playing space with a clear stage area and an audience. Six players are selected: two remain on stage, while the other four are sent completely out of sight and earshot of the performance space.
 

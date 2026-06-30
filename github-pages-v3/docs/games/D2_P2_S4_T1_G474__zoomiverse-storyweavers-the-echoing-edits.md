@@ -81,20 +81,6 @@ A virtual-native storytelling game where one spotlighted narrator weaves a tale 
 
 **Objective:** To develop rapid offer reception and seamless 'Yes, And' integration under cognitive load, while training the group to offer high-value, low-friction narrative gifts asynchronously.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–12 (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Conducted on a virtual video-conferencing platform with Gallery View enabled. All participants must have permission to rename themselves. The facilitator acts as the host to manage spotlighting. Everyone starts with their actual first names and their microphones muted, except for the designated starting narrator.
 

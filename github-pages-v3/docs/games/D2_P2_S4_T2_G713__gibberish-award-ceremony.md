@@ -82,20 +82,6 @@ In this game, one player accepts a prestigious, highly specific award and delive
 
 **Objective:** To develop deep offer reception and endowment-acceptance. Players learn to read non-verbal cues (tone, posture, gesture) as concrete offers, and practice immediate 'Yes, And' by treating those translated meanings as the foundation for their subsequent physical and vocal choices.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–4 (ideal 2-3) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two players stand center stage. The facilitator or audience provides a highly specific, unusual award title (e.g., 'Most Dramatic Use of a Spatula in a Professional Kitchen' or 'Lifetime Achievement in Untangling Holiday Lights'). One player is designated as the Award Recipient; the other is the Translator.
 

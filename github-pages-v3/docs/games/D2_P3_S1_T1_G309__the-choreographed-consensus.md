@@ -86,20 +86,6 @@ A non-verbal, physical partner exercise where pairs must collaborate to complete
 
 **Objective:** To develop deep active listening and non-verbal attunement by practicing physical offer reception, active gifting of clear intentions, and functional status modulation, directly embodying the principle of making your partner look like a genius.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, moderate-sized physical space. Divide the group into pairs. One pair performs in the center of the space while the remaining participants act as focused, silent observers. No physical props are required.
 

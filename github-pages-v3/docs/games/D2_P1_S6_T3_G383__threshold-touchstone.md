@@ -77,20 +77,6 @@ This exercise provides a structured framework for players to practice initiating
 
 **Objective:** To develop practical boundary navigation and physical negotiation skills, training players to prioritize authentic personal comfort ('truth over pandering') and practice clear verbal and non-verbal consent during high-stakes scene work.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–6 (ideal 3-6) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, safe playing space where two active players can stand 5 to 6 feet apart. The remaining 1 to 4 players sit nearby as active observers. No props or materials are required. The facilitator prepares a list of high-stakes, emotionally intimate scene prompts that suggest a deep connection but do not mandate physical contact.
 

@@ -87,20 +87,6 @@ An advanced ensemble exercise where players collaboratively construct a dynamic,
 
 **Objective:** To develop heightened peripheral awareness and group mind by tracking multiple physical and auditory threads, synthesizing abstract suggestions, and executing collective transitions without verbal coordination.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A moderate, open playing space free of obstacles. Players stand in a wide semi-circle facing the playing area. No props or materials are required.
 

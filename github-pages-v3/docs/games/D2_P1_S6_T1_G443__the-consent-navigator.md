@@ -77,20 +77,6 @@ A structured, audience-interactive training drill where players perform a scene 
 
 **Objective:** To develop real-time boundary navigation and explicit check-in techniques, training players to prioritize personal safety and authentic comfort ('Truth Over Pandering') over audience pleasing.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 8+ (ideal 10-20) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | Yellow CHECK-IN cards, Orange PUSH BOUNDARY cards, Red CUT! cards, Green CONSENTED! cards |
-| Audience | required |
-
 ## Setup
 An in-person playing space with a clear stage area and an audience seating area. Prepare four sets of colored cards for the audience: Yellow ('CHECK-IN'), Orange ('PUSH BOUNDARY'), Red ('CUT!'), and Green ('CONSENTED!'). Distribute these cards among the audience members. Establish a universal, non-verbal physical gesture (e.g., crossing wrists) or a verbal safe word that any player can use to instantly pause the scene.
 

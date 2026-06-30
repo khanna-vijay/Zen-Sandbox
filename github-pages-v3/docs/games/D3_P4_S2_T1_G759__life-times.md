@@ -86,20 +86,6 @@ In this game, one central performer remains on stage as the protagonist of an un
 
 **Objective:** To develop the ability to identify, heightening, and escalate a character's core game or behavioral pattern across different contexts (the 'ladder' technique), while practicing seamless scene transitions and narrative reincorporation.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-10) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Arrange the players in a semi-circle facing the performance space. One player is selected to be the Anchor (the central character) and stands in the center. The facilitator or ensemble secures a simple, non-occupational name for the Anchor's character from the group.
 

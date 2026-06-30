@@ -78,20 +78,6 @@ In this exercise, the ensemble physically clusters together to act as a single, 
 
 **Objective:** To develop a deep sense of Group Mind and Peripheral Awareness by training players to track multiple narrative threads, synthesize thematic suggestions, and share physical and verbal leadership seamlessly.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–10 (ideal 5-8) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Have 3 to 10 players stand close together in a tight, fluid cluster in the center of the room. They should be close enough to feel each other's movements and breathing, forming a single physical mass with no fixed front or back. No props or materials are required.
 

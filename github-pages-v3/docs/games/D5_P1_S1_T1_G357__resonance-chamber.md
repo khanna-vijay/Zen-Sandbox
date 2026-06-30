@@ -79,20 +79,6 @@ In this exercise, performers execute brief, focused stage beats behind an unbrok
 
 **Objective:** To develop advanced room-reading and energy-calibration skills, training performers to project intention clearly and modulate audience energy through the fourth wall without relying on direct address.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-15) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 A standard performance space with a clearly defined stage area and seating for the remaining participants, who act as the active audience. No props are required. The facilitator should have a mental or written list of distinct audience energy states (e.g., restless anticipation, quiet skepticism, warm comfort, focused stillness).
 

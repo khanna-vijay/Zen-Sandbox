@@ -82,20 +82,6 @@ This high-energy, non-verbal drill challenges players to rapidly cycle through e
 
 **Objective:** To develop deep emotional fluidity and absolute physical commitment by training players to rapidly access, embody, and release intense emotional states (levels 7 to 10 on the emotional dial) without intellectual filtering.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 4-8) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, moderate-sized room where players can move freely. Players stand in a circle, spaced about an arm's length apart. No props are required. The facilitator needs two distinct sound makers, such as a hand clap and a chime.
 

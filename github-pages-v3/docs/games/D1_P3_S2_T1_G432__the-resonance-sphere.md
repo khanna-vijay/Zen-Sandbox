@@ -78,20 +78,6 @@ This solo exploration drill invites a single player into a designated space to p
 
 **Objective:** To cultivate deep vulnerability and emotional fluidity by training players to access, scale, and express internal impulses instantly using the Emotional Dial (1 to 10) technique, bypassing intellectual filters.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Clear a circular space in the center of the room to serve as the 'Chamber,' with the remaining players seated in a supportive semi-circle. Before beginning, conduct a brief 2-minute warm-up: have all players shake out their limbs, take three deep collective breaths, and let out low, resonant sighs to release physical tension and transition into a high-vulnerability state.
 

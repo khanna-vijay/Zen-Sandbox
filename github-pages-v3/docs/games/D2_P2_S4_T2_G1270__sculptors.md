@@ -79,20 +79,6 @@ In this physical ensemble game, half the players act as blocks of clay while the
 
 **Objective:** To develop physical offer reception and endowment-acceptance. Players learn to treat their partner's physical state as a valuable gift, building upon existing physical choices rather than erasing or resetting them.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 10-20) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Divide the group into two equal teams. Team A (the Clay) forms a tight circle facing outward, standing completely still and neutral. Team B (the Sculptors) stands in an outer circle, each facing one member of Team A. No props or materials are required; ensure there is enough space for players to move safely around the circle.
 

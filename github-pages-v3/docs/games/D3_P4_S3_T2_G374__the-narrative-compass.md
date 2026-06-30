@@ -82,20 +82,6 @@ Two players establish a stable base reality before a facilitator periodically in
 
 **Objective:** To master the Platform/Tilt technique by establishing a solid base reality and seamlessly integrating sudden, high-stakes narrative disruptions without breaking character or story logic.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | Narrative Compass cards |
-| Audience | not required |
-
 ## Setup
 An open performance space for two players. The facilitator stands nearby holding a prepared deck of 'Narrative Compass' cards, each containing a distinct narrative shift (e.g., a revealed secret, a sudden environmental threat, or a complete shift in relationship dynamics). The remaining participants observe as active listeners.
 

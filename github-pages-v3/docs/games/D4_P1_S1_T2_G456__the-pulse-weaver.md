@@ -84,20 +84,6 @@ In this exercise, players stand in a circle to weave a continuous, atmospheric t
 
 **Objective:** To cultivate advanced group mind and peripheral awareness by training players to track multiple thematic threads simultaneously, surrender individual control, and dynamically modulate the pacing and emotional temperature of an ensemble piece.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–8 (ideal 5-8) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a closed circle, close enough to easily see everyone's facial expressions and body language. No props or materials are required. The space should be quiet to allow subtle vocalizations and whispers to be heard.
 

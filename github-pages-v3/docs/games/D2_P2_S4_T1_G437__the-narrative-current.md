@@ -77,20 +77,6 @@ A virtual collaborative storytelling game where players use their video conferen
 
 **Objective:** To master rapid offer reception and seamless 'Yes, And' integration in a virtual environment, training players to instantly accept and build upon both verbal and visual cues.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–8 (ideal 5-8) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | none |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A virtual meeting platform with Gallery View enabled, participant renaming permitted, and the host capable of spotlighting and monitoring the chat and 'Raise Hand' features. No physical props or space required.
 

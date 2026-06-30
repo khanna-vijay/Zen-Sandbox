@@ -79,20 +79,6 @@ A solo performer takes the stage to consciously manipulate the permeability of t
 
 **Objective:** To develop advanced audience-energy management and room-reading skills, specifically training performers to intentionally break and rebuild the fourth wall using direct address, vocal projection, and physical alignment.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-15) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An open performance space with a clear stage area and an audience seating area. No props are required. The facilitator stands near the audience to observe both the performer and the crowd simultaneously.
 

@@ -75,20 +75,6 @@ In this exercise, players pair up to 'guess' a secret story using only yes-or-no
 
 **Objective:** To develop advanced justification skills and narrative architecture by training players to treat every response—no matter how contradictory—as a gift, seamlessly integrating absurd or unexpected plot points into a logical story.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-20) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Divide the group into two equal halves: the 'Oracles' (who know the secret rule) and the 'Seekers' (who believe they are guessing a real story). Send the Seekers out of the room or to a far corner where they cannot hear the instructions.
 

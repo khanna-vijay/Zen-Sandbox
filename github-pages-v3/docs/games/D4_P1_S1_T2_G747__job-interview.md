@@ -76,20 +76,6 @@ In this high-focus comedy game, three players stand shoulder-to-shoulder to port
 
 **Objective:** To develop deep peripheral awareness, group mind, and thread-tracking skills by forcing players to surrender individual narrative control and build a single cohesive voice.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 4) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 One player is designated as the Interviewer, sitting or standing opposite a panel of three players (the 'Candidate') who stand shoulder-to-shoulder. No props or special materials are required.
 

@@ -90,20 +90,6 @@ This high-energy, non-verbal exercise guides players to connect deeply with thei
 
 **Objective:** To develop unfiltered spontaneity and emotional fluidity by training players to immediately externalize internal impulses using body and voice, bypassing the critical mind.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a close circle facing inward in a quiet, open space. No props or materials are required. The facilitator stands outside the circle to guide the timing and offer prompts.
 

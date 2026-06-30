@@ -76,20 +76,6 @@ A structured scene-work exercise where players deliberately escalate the stakes 
 
 **Objective:** To develop the ability to identify, raise, and justify narrative stakes and character motivations using the 'if true, what else is true' principle, driving scenes to a satisfying climax.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space. Two to three players step forward to perform, while the remaining players observe as active audience members. No props or special materials are required.
 

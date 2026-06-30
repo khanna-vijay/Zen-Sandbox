@@ -77,20 +77,6 @@ This partner-based scene-work exercise challenges players to navigate hidden bou
 
 **Objective:** To develop acute non-verbal observation, practice in-character boundary negotiation, and normalize the use of 'Cut' calls as an active, positive safety tool that prioritizes partner comfort over scenic momentum.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–6 (ideal 3-6) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | Secret threshold cards, Slips of paper |
-| Audience | not required |
-
 ## Setup
 Prepare several slips of paper with specific 'thresholds' (e.g., 'cannot make direct eye contact for more than three seconds,' 'must step back if someone enters arm's length,' 'cannot discuss the future,' 'becomes uncomfortable when receiving compliments'). Arrange the space for a standard two-person scene with the remaining players (1 to 4) acting as active observers.
 

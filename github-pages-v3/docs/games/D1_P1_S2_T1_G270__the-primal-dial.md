@@ -87,20 +87,6 @@ The Primal Dial is an embodied ensemble exercise where players stand in a circle
 
 **Objective:** To build emotional fluidity and physical commitment by practicing the "Emotional Dial" technique, allowing players to consciously scale their expressive intensity from 1 to 10 without intellectual filter.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, comfortable room with enough space for 4 to 8 players to stand in a circle. No props or materials are required. Ensure players have room to move their arms and shift their weight safely.
 

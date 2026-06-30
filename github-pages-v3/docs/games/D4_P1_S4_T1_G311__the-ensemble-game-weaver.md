@@ -78,20 +78,6 @@ An advanced ensemble exercise where players collaboratively identify an emerging
 
 **Objective:** To develop high-level group mind, peripheral awareness, and collective pacing by training players to identify, escalate, and organically retire comedic games using seamless edits.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–12 (ideal 4-8) |
-| Time | ~30 min |
-| Complexity | 4/5 |
-| Skill level | proficient |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear stage area with chairs for off-stage players. No props or physical materials are required. The ensemble stands or sits in a semi-circle facing the performance space, ready to edit or enter at any moment.
 

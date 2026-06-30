@@ -77,20 +77,6 @@ In this long-form narrative format, a guest writer reads the first two pages of 
 
 **Objective:** To develop narrative architecture and format literacy by identifying a written platform and tilt, then collaboratively building a satisfying story arc that honors the established tone and world.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 4-8 players plus 1 guest writer) |
-| Time | ~30 min |
-| Complexity | 4/5 |
-| Skill level | proficient |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | Two pages of a custom, non-existing novel, A chair and reading light for the guest writer |
-| Audience | required |
-
 ## Setup
 Set up a comfortable chair and a reading light on one side of the stage for the guest writer. The performance space should be clear for the improvisers. Prepare a guest writer beforehand to bring two pages of a custom, non-existing novel (rich in character, setting, and a clear inciting incident or 'tilt'). The improvisers stand offstage or in the wings, ready to listen.
 

@@ -84,20 +84,6 @@ In this scene-based exercise, players alternate between breaking the fourth wall
 
 **Objective:** To develop advanced room-reading and energy-calibration skills by treating non-verbal audience feedback as a mandatory, actionable scene offer.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-15) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Arrange the space with a clear stage area and an audience seating area. The game requires at least two active performers on stage, with the remaining workshop participants acting as the live audience. No props or materials are needed.
 

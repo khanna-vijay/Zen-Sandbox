@@ -75,20 +75,6 @@ Two players perform a brief, simple scene while the rest of the group observes w
 
 **Objective:** To develop deep active listening, physical mirroring, and radical acceptance of a partner's exact choices, treating every accidental gesture or vocal slip as a deliberate, genius choice to be preserved.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-12) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Clear a performance space at the front of the room. The rest of the group sits or stands in an audience arc, observing closely. No props or chairs are needed.
 

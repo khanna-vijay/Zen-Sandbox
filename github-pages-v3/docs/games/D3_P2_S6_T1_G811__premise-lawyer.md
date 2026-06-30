@@ -69,20 +69,6 @@ A rapid-fire pairing exercise where one player presents a completely bizarre or 
 
 **Objective:** To master the art of justification, transforming bizarre or accidental choices into logical, character-driven truths that support a stable base reality.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (in pairs)) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand or sit in pairs spread out across the room. No props or special staging are required.
 

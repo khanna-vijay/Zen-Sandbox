@@ -78,20 +78,6 @@ In this high-energy narrative game, a real-life couple from the audience sits on
 
 **Objective:** To develop audience-energy management and narrative agility by treating audience feedback as an active, immediate scene partner that shapes the story's direction.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 4-6) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | bell, horn |
-| Audience | required |
-
 ## Setup
 Set up two chairs on stage for a real-life couple from the audience. Provide them with two distinct sound makers: a bell (representing 'truth/correct') and a horn (representing 'fiction/incorrect'). The performing cast of 4 to 6 players stands ready on the sides of the stage, prepared to enter the scene.
 

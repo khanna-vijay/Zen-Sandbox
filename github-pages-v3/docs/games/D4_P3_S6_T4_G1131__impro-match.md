@@ -85,20 +85,6 @@ This is a highly structured, theatrical competition format modeled after a sport
 
 **Objective:** To develop format literacy, rapid game identification, and the ability to serve the overall piece under strict stylistic constraints and high-pressure performance conditions.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 12+ (ideal 12-15 players plus staff) |
-| Time | ~90 min |
-| Complexity | 5/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | large_open |
-| Props | slippers, colored voting cards, whistle, referee uniform, fault cards, score board |
-| Audience | required |
-
 ## Setup
 Set up a large, open performance space with a clearly defined central 'rink' or playing area. Place two team benches on opposite sides of the rink, with a referee station and a visible scoreboard at the back. Prepare the following props: soft plush slippers (or foam blocks) for the audience, colored voting cards (matching the two team colors) for every audience member, a whistle and referee uniform, a set of fault cards/cheat sheets, and a bucket containing scene prompts.
 

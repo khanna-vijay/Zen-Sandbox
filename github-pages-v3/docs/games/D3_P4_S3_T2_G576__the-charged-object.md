@@ -84,20 +84,6 @@ Two players build a scene around a simple, everyday imaginary item that is sudde
 
 **Objective:** To master the Platform and Tilt technique by establishing a stable base reality (the platform) and using a sudden, meaningful disruption (the tilt) to build compelling narrative architecture.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 players per scene, 6-12 total) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two players stand on stage. The facilitator provides a simple, grounded relationship and a location containing everyday items (e.g., roommates cleaning a garage, coworkers in a breakroom). No physical props are used; all object work is pantomimed.
 

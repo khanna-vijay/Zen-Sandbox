@@ -82,20 +82,6 @@ In this virtual narrative exercise, two to three players establish a grounded ba
 
 **Objective:** To master the 'Platform and Tilt' technique by establishing a stable base reality and seamlessly integrating disruptive narrative shifts, reinforcing the principle of serving the story over individual agendas.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 4-8) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Conducted in a virtual meeting space. Two to three players keep their cameras on as the active Scene Players. One player is designated as the Twist Master, keeping their camera on but remaining muted until they intervene. All other participants turn their cameras off to act as the audience.
 

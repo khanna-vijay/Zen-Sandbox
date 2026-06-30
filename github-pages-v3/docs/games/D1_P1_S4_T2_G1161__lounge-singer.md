@@ -72,20 +72,6 @@ A high-energy solo singing game where a performer adopts the persona of a smooth
 
 **Objective:** To develop vocal characterization, commitment to a high-status persona, and spontaneous lyrical rhyming under pressure.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 1+ (ideal 1-10) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | required |
-
 ## Setup
 A performance space with an audience. No props or instruments are required, though a physical or imaginary microphone helps. The performer stands center stage.
 

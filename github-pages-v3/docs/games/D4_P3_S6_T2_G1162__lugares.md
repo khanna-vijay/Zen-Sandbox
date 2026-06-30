@@ -76,20 +76,6 @@ This is an ensemble-driven long-form format where players interview an audience 
 
 **Objective:** Develops format literacy, active listening, and thematic synthesis by translating real-world architectural and emotional details into a cohesive, multi-scene long-form piece.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-10) |
-| Time | ~25 min |
-| Complexity | 4/5 |
-| Skill level | proficient |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 A semi-circle of chairs upstage for the ensemble, two chairs placed downstage center for the interviewer and the audience guest, and a clear performance space. No props are required.
 

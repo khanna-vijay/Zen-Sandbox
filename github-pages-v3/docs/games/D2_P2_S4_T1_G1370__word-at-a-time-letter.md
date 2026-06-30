@@ -74,20 +74,6 @@ Two players sit together to compose a single written letter, alternating word-by
 
 **Objective:** To develop acute offer reception and 'Yes, And' mechanics by forcing players to slow down, accept their partner's exact linguistic and physical contributions, and collaboratively build a coherent narrative structure.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–2 (ideal 2) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | paper, writing utensil |
-| Audience | not required |
-
 ## Setup
 Pairs sit side-by-side at a table or on the floor. Each pair is given one sheet of blank paper and a single writing utensil to share. No prior planning or genre selection is needed before starting.
 

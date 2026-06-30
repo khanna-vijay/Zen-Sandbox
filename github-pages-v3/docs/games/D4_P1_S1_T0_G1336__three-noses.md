@@ -73,20 +73,6 @@ Anatomy Assembly is a high-energy physical warm-up where players move dynamicall
 
 **Objective:** Develops peripheral awareness, group mind, and physical comfort within the ensemble by making rapid, collaborative spatial adjustments under pressure.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6+ (ideal 10-30) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A large, open room free of obstacles. Players stand scattered throughout the space, ready to move. No props are required.
 

@@ -79,20 +79,6 @@ This high-focus scene-work drill challenges performers to dynamically shift thei
 
 **Objective:** To develop precise, intentional control over the fourth wall, training performers to read audience energy, execute direct address with narrative justification, and manage transitions smoothly without breaking scene momentum.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 1+ (ideal 6-12) |
-| Time | ~30 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | yes |
-| Audience | required |
-
 ## Setup
 An in-person performance space with a clear boundary between the stage and the audience. The facilitator sits in the center of the audience holding three large, highly visible colored cards: Green, Red, and Yellow. Two to three players take the stage, while the remaining participants act as the active audience.
 

@@ -77,20 +77,6 @@ A structured, low-stakes scene-work drill where players practice navigating phys
 
 **Objective:** To develop practical boundary navigation and physical contact negotiation skills, training players to use conditional consent and generative refusal to uphold personal safety and artistic integrity.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-16) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle. Clear a moderate playing space in the center for two active players. No props or materials are required. The facilitator establishes a supportive, low-stakes atmosphere before beginning.
 

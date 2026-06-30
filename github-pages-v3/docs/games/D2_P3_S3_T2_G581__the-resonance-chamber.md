@@ -85,20 +85,6 @@ A two-player exercise that slows down interaction to build profound physical and
 
 **Objective:** To develop deep, multi-modal offer reception and empathetic mirroring, training players to physically internalize their partner's emotional and status choices before formulating a response.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (or pairs in a larger group)) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players work in pairs, standing about an arm's length apart, facing each other in a clear space. No props are needed. The facilitator provides a simple, open-ended relationship prompt (e.g., "two coworkers waiting for a performance review" or "two estranged siblings meeting at a diner").
 

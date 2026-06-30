@@ -80,20 +80,6 @@ A high-connection ensemble exercise where a single player delivers an improvised
 
 **Objective:** To develop deep physical and vocal empathy, active listening, and the ability to make a partner look brilliant by instantly reflecting and validating their creative choices.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–15 (ideal 6-12) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Have players stand in a tight, shoulder-to-shoulder circle in a clear space. Ensure there is enough room in the center for one person to move comfortably. No props or materials are required.
 

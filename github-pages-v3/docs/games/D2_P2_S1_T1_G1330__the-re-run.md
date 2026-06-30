@@ -74,20 +74,6 @@ A slow-tempo, analytical exercise where two players begin a scene, only to be pa
 
 **Objective:** To develop deep active listening, precise offer reception, and a strong base reality by forcing players to slow down, repeat their partner's first line, and analyze the unspoken physical and emotional context before continuing.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 active (plus coach/group)) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two active players stand in the performance space. The rest of the group acts as observers. No props or special staging are required.
 

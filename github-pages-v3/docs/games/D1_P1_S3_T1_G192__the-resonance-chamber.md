@@ -83,20 +83,6 @@ An immersive somatic exercise where a single leader silently initiates an abstra
 
 **Objective:** To develop absolute physical commitment and emotional fluidity by translating abstract internal impulses into progressive layers of body movement, vocalization, and spontaneous verbal expression, specifically training character centers and physical weight.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–12 (ideal 4-8) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a wide circle with ample space to move. One player is designated as the Conductor in the center, while the others stand on the perimeter as Resonators. For online play, players position themselves in gallery view with their cameras adjusted to show their upper bodies clearly.
 

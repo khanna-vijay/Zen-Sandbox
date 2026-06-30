@@ -70,20 +70,6 @@ Players stand in a circle passing a verbal and physical signal that demands deli
 
 **Objective:** To develop group mind, rapid cognitive processing, and rhythmic pacing by forcing players to separate verbal cues from physical gestures while embracing mistakes with enthusiasm.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 8-20) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Have all players stand in a circle facing inward. Ensure there is enough space for everyone to make wide hand gestures without hitting their neighbors. No props or materials are required.
 

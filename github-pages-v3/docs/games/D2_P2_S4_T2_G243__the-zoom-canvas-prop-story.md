@@ -80,20 +80,6 @@ A dynamic virtual game where players use physical space and mime to pass a singl
 
 **Objective:** To develop deep visual offer reception and physical endowment-acceptance in a virtual environment, training players to listen with their eyes and commit fully to physical space work.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–12 (ideal 6-12) |
-| Time | ~30 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Conducted on a video conferencing platform. All participants must enable their cameras and switch to a grid or gallery view so everyone is visible. The facilitator acts as the director, utilizing the platform's spotlight or pin feature to highlight the active player. No physical props are required, but players should ensure their physical background is relatively clear and their upper body is fully visible in the frame.
 

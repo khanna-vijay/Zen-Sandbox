@@ -73,20 +73,6 @@ A scene-building exercise where players temporarily pause the action to describe
 
 **Objective:** To develop robust world-building skills and establish a strong base reality by consciously adding sensory, environmental details that influence the scene's subtext and physical action.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-6) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two active players stand in the performance space. The remaining players observe as an active audience, ready to rotate in. No physical props or set pieces are used; the stage is entirely blank.
 

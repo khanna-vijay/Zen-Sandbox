@@ -87,20 +87,6 @@ In this physical ensemble exercise, players collaboratively construct a highly d
 
 **Objective:** To develop advanced peripheral awareness and group mind by forcing players to actively track, remember, and physically validate every spatial choice made by their teammates.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–6 (ideal 4-6) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An empty stage or playing area with moderate space. Three to six players stand offstage, ready to enter. No physical props are used; all objects and architectural features must be entirely mimed.
 

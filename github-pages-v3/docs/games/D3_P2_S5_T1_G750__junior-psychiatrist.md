@@ -76,20 +76,6 @@ Two players begin a scene to establish a clear base reality, while a third playe
 
 **Objective:** To strengthen C.R.O.W. (Character, Relationship, Objective, Where) and base reality by training players to recognize and amplify the implicit offers they make in the opening moments of a scene.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 3) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Three players take the stage: two as active scene partners and one as the Analyst standing to the side. No props or special staging are required.
 

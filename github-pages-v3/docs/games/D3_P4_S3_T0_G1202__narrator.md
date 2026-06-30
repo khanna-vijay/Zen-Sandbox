@@ -76,20 +76,6 @@ One player acts as an off-stage narrator while two or more players act out the s
 
 **Objective:** To develop narrative architecture and active gifting by balancing external narration with physical scene work, ensuring both elements serve the story.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 3-6) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A performance space with a designated stage area for the actors and a standing spot on the side (downstage left or right) for the narrator. No props or chairs are required.
 

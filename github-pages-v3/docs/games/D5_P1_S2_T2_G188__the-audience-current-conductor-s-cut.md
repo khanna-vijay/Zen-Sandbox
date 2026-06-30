@@ -80,20 +80,6 @@ This dynamic scene-work drill trains performers to actively monitor, interpret, 
 
 **Objective:** To develop advanced audience-energy management, specifically training players to read the room, ride positive reactions, hold dramatic tension, and cushion falling beats (re-bridging) to keep the audience engaged.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-16) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | yes |
-| Audience | required |
-
 ## Setup
 Set up an in-person performance space with a designated stage and an audience area filled by the remaining workshop participants. The facilitator sits in the audience holding a neutral, non-specific auditory signaling device, such as a small bell, chime, or clicker.
 

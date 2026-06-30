@@ -74,20 +74,6 @@ A rapid-fire, paired warm-up where players exchange invisible gifts, naming them
 
 **Objective:** To develop unfiltered spontaneity and trust in one's first instinct, training players to treat their initial thoughts as valuable gifts rather than filtering or judging them.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (played in pairs, scales to any size)) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in pairs facing each other. No physical props are needed. Ensure there is enough space between pairs to allow for comfortable physical gesturing.
 

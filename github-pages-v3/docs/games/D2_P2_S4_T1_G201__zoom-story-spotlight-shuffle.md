@@ -81,20 +81,6 @@ A dynamic, virtual-first storytelling game where players collaboratively constru
 
 **Objective:** To develop rapid offer reception, active listening, and physical embodiment in a virtual space, reinforcing the 'Yes, And' principle by requiring players to physically react to an offer before building upon it.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–12 (ideal 6-12) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Conducted on a video conferencing platform with a spotlight feature. All participants must be in grid view with their cameras on. The facilitator acts as the host with spotlighting privileges. No physical props are required, but players should ensure their upper bodies are visible in their camera frames.
 

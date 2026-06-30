@@ -71,20 +71,6 @@ A high-energy, silent movement game where every player secretly designates two o
 
 **Objective:** To develop deep peripheral awareness, spatial tracking, and the follow-the-follower dynamic by forcing players to monitor multiple moving targets simultaneously without verbal communication.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 7+ (ideal 10-25) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A large, open room free of obstacles. Players stand scattered throughout the space, ensuring there is plenty of room to move safely. No props are required.
 

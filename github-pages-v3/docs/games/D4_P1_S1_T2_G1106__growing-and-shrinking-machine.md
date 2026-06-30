@@ -82,20 +82,6 @@ A progressive ensemble exercise where players build a sequence of nested scenes,
 
 **Objective:** Develops advanced thread-tracking, group mind, and peripheral awareness by forcing players to hold multiple narrative worlds in memory and seamlessly transition between them.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 5-8) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space. A line of 4 to 6 players stands offstage or at the back of the space, ready to enter. No props or chairs are needed, though physical space should be clear for movement.
 

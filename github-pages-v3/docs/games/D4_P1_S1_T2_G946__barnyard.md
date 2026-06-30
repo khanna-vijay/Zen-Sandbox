@@ -74,20 +74,6 @@ A high-energy, sensory-focused warm-up where players are secretly assigned anima
 
 **Objective:** To cultivate peripheral auditory awareness, vocal commitment, and group mind by tracking a specific audio thread within a chaotic, multi-layered soundscape.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6+ (ideal 12-30) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, obstacle-free room. The facilitator secretly assigns each player an animal identity (e.g., cow, sheep, chicken, frog) ensuring that there are matching cohorts of 3 to 5 players per animal. Players then disperse randomly throughout the space.
 

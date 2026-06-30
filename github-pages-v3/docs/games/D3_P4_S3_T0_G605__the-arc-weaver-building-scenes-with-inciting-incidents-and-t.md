@@ -78,20 +78,6 @@ A structured scene-work exercise where players improvise a continuous story whil
 
 **Objective:** To cultivate a deep, instinctual understanding of narrative architecture, helping competent players recognize, justify, and escalate story beats while maintaining a strong base reality and clear character motivations.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space. Two to three players stand on stage, while the rest of the group sits as active observers. The facilitator stands near the stage, ready to side-coach. No props or materials are required. A simple, mundane suggestion is gathered to start.
 

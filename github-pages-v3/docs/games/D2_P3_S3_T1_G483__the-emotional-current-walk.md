@@ -86,20 +86,6 @@ In this entirely non-verbal exercise, partners move through space together, comm
 
 **Objective:** To develop non-verbal empathy, precise physical mirroring, and status modulation. This exercise trains players to receive physical offers with absolute commitment, treat their partner's movement as a brilliant gift, and practice smooth emotional transitions without relying on verbal explanation.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (in pairs)) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open room with enough space for pairs to walk around freely without colliding. No props or materials are required. Divide the group into pairs and have partners stand facing each other, about an arm's length apart, establishing soft eye contact.
 

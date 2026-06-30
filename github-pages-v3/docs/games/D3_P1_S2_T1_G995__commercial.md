@@ -76,20 +76,6 @@ The Infomercial is a high-energy, performance-oriented game where a small group 
 
 **Objective:** To master the 'ladder' technique of escalation (heightening) and practice physicalizing claims ('Show, Don't Tell') under the high-energy pressure of direct audience address.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–5 (ideal 3-4) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Three to four players stand on stage facing the audience. The remaining participants act as the live studio audience. No props are used; all product demonstrations must be entirely mimed.
 

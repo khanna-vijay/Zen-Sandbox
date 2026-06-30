@@ -73,20 +73,6 @@ This is a fast-paced physical spontaneity drill where players instantly transfor
 
 **Objective:** To develop immediate physical commitment and space work by bypassing intellectual filtering, trusting the first physical impulse, and using the whole body to express character centers and physical states.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-20) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, clear room where players can move freely without colliding. No props or materials are required. Players stand scattered throughout the space, facing any direction.
 

@@ -80,20 +80,6 @@ A collaborative scene-building exercise where players take turns stepping into a
 
 **Objective:** To develop conscious narrative architecture and active story-building skills by explicitly identifying, introducing, and justifying core dramatic elements in real-time.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open playing space for 2-3 active players, with the remaining group observing as an active audience. No props or special materials are required. The facilitator secures a simple suggestion (e.g., a location or a relationship) to initiate the scene.
 

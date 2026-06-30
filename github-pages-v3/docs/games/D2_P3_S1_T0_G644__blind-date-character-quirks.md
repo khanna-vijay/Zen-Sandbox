@@ -79,20 +79,6 @@ In this classic short-form comedy game, a single dater attempts to find love amo
 
 **Objective:** Develops active listening, supportive hosting, and spontaneous character commitment. It teaches players to make their partners look brilliant by treating every offer as a gift and embracing mistakes with joy.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–5 (ideal 5) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Arrange five chairs on stage: three side-by-side for the contestants, one for the host on the side, and one for the dater facing the contestants. The remaining workshop participants act as the live studio audience. No props are required.
 

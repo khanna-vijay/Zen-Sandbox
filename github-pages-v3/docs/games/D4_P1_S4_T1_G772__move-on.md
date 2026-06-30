@@ -76,20 +76,6 @@ A fast-paced ensemble game where players line up on the backline while two perfo
 
 **Objective:** To develop group mind and sharp pacing through rapid, external edits. Players practice active listening to identify strong offers and learn to initiate instantly with high commitment, supporting the momentum of the entire ensemble.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–12 (ideal 5-8) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open stage space with a clear backline area. Players stand in a horizontal line at the back of the stage, facing forward. No props or chairs are needed. The facilitator stands in the audience area to call out the edits.
 

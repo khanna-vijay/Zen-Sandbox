@@ -86,20 +86,6 @@ Two players engage in a highly focused, alternating dialogue where they must per
 
 **Objective:** To develop deep interpersonal attunement, precise emotional mirroring, and granular control over status and emotional shifts, ensuring every offer is fully received and elevated.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-16 (in pairs)) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Pairs stand facing each other, about four feet apart, in a neutral physical stance. No props or special materials are required; just a quiet space where pairs can hear each other clearly.
 

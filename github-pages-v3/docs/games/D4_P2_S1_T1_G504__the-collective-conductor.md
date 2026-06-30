@@ -80,20 +80,6 @@ An immersive, non-verbal ensemble exercise where players collaboratively build a
 
 **Objective:** To develop advanced peripheral awareness and responsive support work by training players to detect, interpret, and instantly integrate subtle, non-verbal shifts in group dynamics, pacing, and physical stage pictures.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 8-12) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, moderate-sized playing space free of obstacles. Players stand in a loose circle or spread evenly across the stage, ensuring everyone has a clear line of sight to all other participants. No props or instruments are required.
 

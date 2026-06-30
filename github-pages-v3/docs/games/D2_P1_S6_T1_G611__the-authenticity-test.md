@@ -75,20 +75,6 @@ A structured, low-energy skill drill where players practice pausing and evaluati
 
 **Objective:** To develop the skill of boundary navigation and active self-assessment, training players to prioritize personal truth and consent over the pressure to pander or blindly yes-and uncomfortable offers.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–5 (ideal 3-5) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, quiet space. Three to five players stand in a circle or semi-circle. Two players step into the center to perform, while the remaining players and the facilitator act as supportive observers.
 

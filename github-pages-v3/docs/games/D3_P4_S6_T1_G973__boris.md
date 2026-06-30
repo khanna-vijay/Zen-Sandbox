@@ -79,20 +79,6 @@ This high-energy, two-player scene features an interrogator accusing a suspect o
 
 **Objective:** Develops rapid justification of absurd offers, high-stakes narrative commitment, and physical space work by reacting to an invisible scene partner.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–2 (ideal 2) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Set up two chairs in the performance space. One chair is for the suspect, while the interrogator can stand or sit opposite them. Ensure the surrounding area is clear of obstacles to allow for safe physical movement.
 

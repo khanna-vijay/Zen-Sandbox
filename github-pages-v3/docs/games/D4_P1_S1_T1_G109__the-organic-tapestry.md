@@ -89,20 +89,6 @@ In this physical and vocal ensemble exercise, players build a cohesive, abstract
 
 **Objective:** To develop deep ensemble connection and Group Mind by training players to use peripheral awareness, physical support, and intuitive pacing to co-create a unified, non-linear environment.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–10 (ideal 5-10) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A moderate, open playing space. Five to ten players stand in a loose circle or scattered formation where everyone has clear sightlines and auditory access to the entire group. No props or materials are required.
 

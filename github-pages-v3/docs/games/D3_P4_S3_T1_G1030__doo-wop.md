@@ -76,20 +76,6 @@ In this musical narrative game, a lead singer and a backing group collaborate to
 
 **Objective:** To develop narrative architecture and pacing by mapping the classic Story Spine onto a highly structured, rhythmic musical format.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–5 (ideal 3-5) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Three to five players stand in a line or semi-circle facing the audience. No instruments or props are required. The facilitator obtains a suggestion of a mundane household object to start.
 

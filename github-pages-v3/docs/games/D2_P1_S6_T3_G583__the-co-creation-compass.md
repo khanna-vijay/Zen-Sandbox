@@ -76,20 +76,6 @@ An active scene-work drill where players practice explicit physical consent and 
 
 **Objective:** To develop the ability to proactively negotiate physical contact, read subtle non-verbal cues, and gracefully integrate boundaries into the scene's narrative without breaking flow or sacrificing character truth.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle. Designate two active players to step into the center to perform a scene, and one player to act as the 'Navigator' (an active observer standing just outside the playing space). The rest of the group acts as the supportive audience. No props or special materials are required.
 

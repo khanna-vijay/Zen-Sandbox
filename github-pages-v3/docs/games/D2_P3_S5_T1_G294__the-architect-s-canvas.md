@@ -78,20 +78,6 @@ In this exercise, pairs of improvisers work to subtly guide each other toward a 
 
 **Objective:** To develop advanced active gifting and endowment techniques, training players to proactively construct supportive scene environments that make their partner look brilliant without controlling or dictating their choices.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–12 (ideal 6-12) |
-| Time | ~25 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | Brilliance Blueprint Cards |
-| Audience | not required |
-
 ## Setup
 Prepare a set of 'Genius Blueprint Cards' (slips of paper with specific, challenging prompts for a partner to achieve, such as delivering a profound philosophical insight about a mundane object, or revealing an absurd phobia). Divide the group of 6 to 12 players into pairs. Each player secretly draws one card, which dictates the specific 'genius' behavior they must coax out of their partner.
 

@@ -82,20 +82,6 @@ A scene-driven drill where one performer secretly plays with a hidden agenda or 
 
 **Objective:** To master the art of direct address and audience-energy management, training players to read non-verbal room cues, project intimate thoughts clearly to the back row, and seamlessly transition between onstage scene work and fourth-wall-breaking monologues.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An in-person stage or open floor space with a clear boundary between the performance area and the seated audience (which can consist of off-stage workshop participants). No props are required. The facilitator privately designates one player as 'The Confidant' before the scene begins, while the other 2-3 players remain unaware of the specific secret or the exact timing of the confessions.
 

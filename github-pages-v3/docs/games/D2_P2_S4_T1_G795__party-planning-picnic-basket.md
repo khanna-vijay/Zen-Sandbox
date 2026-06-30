@@ -74,20 +74,6 @@ A classic two-phase partner exercise where players attempt to plan an event toge
 
 **Objective:** To physically and emotionally experience the difference between blocking and 'Yes, And-ing,' highlighting how offer reception affects collaboration, momentum, and partner trust.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal Pairs) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand or sit in pairs facing each other. No props or special staging required. The facilitator sets a clear, low-stakes event context like a backyard party or a space expedition launch.
 

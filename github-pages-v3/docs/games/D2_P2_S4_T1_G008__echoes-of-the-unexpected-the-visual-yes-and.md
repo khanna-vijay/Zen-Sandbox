@@ -77,20 +77,6 @@ A collaborative, multi-modal remote game where players sequentially build both a
 
 **Objective:** To develop deep offer reception and 'Yes, And' skills by requiring players to actively listen to verbal cues and visually adapt to graphic offers, building a cohesive world together.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–15 (ideal 6-12) |
-| Time | ~20 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | Zoom video conferencing software with screen sharing and annotation enabled |
-| Audience | not required |
-
 ## Setup
 Conducted via a virtual video conferencing platform. The facilitator shares a blank white screen (or a solid neutral background) and ensures all participants have annotation privileges enabled. Players should be in Gallery View with their annotation toolbars open and ready.
 

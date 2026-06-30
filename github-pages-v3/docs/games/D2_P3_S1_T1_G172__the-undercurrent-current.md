@@ -86,20 +86,6 @@ Two players engage in a seemingly mundane virtual scene, but one player holds a 
 
 **Objective:** To develop advanced active listening and emotional attunement by training players to send, detect, and yield to subtle non-verbal offers, embodying the principle of making one's partner look brilliant.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (per scene) or 6-12 (with rotation)) |
-| Time | ~10 min |
-| Complexity | 4/5 |
-| Skill level | proficient |
-| Energy | low |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Played virtually over a video conferencing platform. Two active players have their cameras on; the rest of the group and the facilitator have cameras off to minimize distractions. The facilitator privately messages Player A a secret 'Undercurrent Goal' (e.g., 'Make Player B feel deeply validated' or 'Shift Player B from anxious to confident').
 

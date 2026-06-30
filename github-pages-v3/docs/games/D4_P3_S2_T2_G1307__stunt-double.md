@@ -74,20 +74,6 @@ Two players initiate a grounded scene, but whenever a physically demanding, emot
 
 **Objective:** To develop active support work and seamless tap-ins, training sideline players to maintain high peripheral awareness and jump in to make their partners look brilliant.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 4-10) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space with two active players center stage, and the remaining players standing on the sidelines (the backline) ready to jump in. No props or chairs are needed.
 

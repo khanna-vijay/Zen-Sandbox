@@ -81,20 +81,6 @@ In this exercise, a small group of players collaborates to perform a scene where
 
 **Objective:** To develop strong world-building and C.R.O.W. skills by establishing a clear, shared emotional foundation (Base Reality First) through group agreement and physical mirroring.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–8 (ideal 4-6) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A semi-circle of 4 to 6 players on stage, with the remaining participants acting as active observers. No props or chairs are required, though the space should be clear for physical movement.
 

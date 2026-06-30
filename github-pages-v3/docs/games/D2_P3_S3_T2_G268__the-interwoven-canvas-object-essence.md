@@ -86,20 +86,6 @@ Two players stand face-to-face to collaboratively build a single, deeply detaile
 
 **Objective:** To develop single-partner empathy, active listening, and status modulation by practicing emotional-echo drills and collaborative endowment, ensuring every contribution elevates the partner's previous offer.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (or pairs in a larger group)) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players pair up and stand facing each other, maintaining soft eye contact. No physical props or staging are required. The facilitator prepares a list of simple, evocative, and ambiguous seed objects (e.g., a rusted key, a faded photograph, a heavy brass key, a cracked porcelain saucer).
 

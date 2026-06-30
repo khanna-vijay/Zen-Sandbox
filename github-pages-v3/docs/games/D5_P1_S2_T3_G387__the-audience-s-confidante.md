@@ -81,20 +81,6 @@ A skill-building exercise where players perform a standard scene but periodicall
 
 **Objective:** To develop the ability to intentionally break and re-establish the fourth wall with justification, managing audience energy and practicing vocal projection, physical cheating out, and room reading while keeping the scene's reality intact.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An in-person performance space with a clear boundary between the stage and the audience. Two to four players start on stage, while the rest of the group acts as the active audience. No props or materials are required.
 

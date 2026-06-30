@@ -75,20 +75,6 @@ Two players step onto the stage as world-class co-presenters delivering a highly
 
 **Objective:** To develop commanding stage presence, vocal projection, and physical clarity by adopting the high-status persona of expert public speakers who play to the very back of the room.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–2 (ideal 2) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two players stand at the front of the playing space, facing the rest of the group (who act as the lecture audience). No physical props or slides are used; the players must fully manifest their environment, slide clickers, and visual aids through physical commitment and vocal clarity.
 

@@ -77,20 +77,6 @@ This structured skill drill trains improvisers to navigate physical and emotiona
 
 **Objective:** To develop competent boundary navigation and active listening skills, specifically training players to execute clear, non-negotiable cut calls when personal limits are approached, and to collaboratively adjust scenes when minor discomfort arises.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 3-5) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | Boundary Cards (index cards with common triggers) |
-| Audience | not required |
-
 ## Setup
 Prepare a deck of Boundary Cards (index cards listing common improvisational triggers, such as sudden loud shouting, unsolicited physical contact to the face, mock restraint, or intense staring). Clear a moderate performance space. Players work in groups of 3 to 5, with one person acting as the dedicated facilitator and the others rotating as active players and safety spotters.
 

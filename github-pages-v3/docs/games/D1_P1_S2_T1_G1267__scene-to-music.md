@@ -73,20 +73,6 @@ Players perform a completely silent scene where their emotional states, physical
 
 **Objective:** To develop emotional fluidity and physical commitment by using external auditory cues to instantly shift emotional states from 1 to 10 on the emotional dial without relying on verbal explanation.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–4 (ideal 2-4) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | Music player, Audio tracks of varying emotional styles |
-| Audience | not required |
-
 ## Setup
 A clear performance space with a moderate footprint. A music player (phone, laptop, or speaker system) preloaded with 4-5 distinct instrumental tracks of contrasting emotional tones (e.g., whimsical, suspenseful, melancholic, triumphant, chaotic). Two to four players stand in the playing area.
 

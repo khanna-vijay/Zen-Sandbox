@@ -86,20 +86,6 @@ This exercise challenges two players to co-create a scene's dramatic premise, em
 
 **Objective:** To develop deep interpersonal attunement, emotional mirroring, and status modulation by forcing players to prioritize physical subtext over verbal plot generation, aligning with the principle of making one's partner look brilliant.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 per scene, 6-16 total) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open playing space with no props. Two active players stand or sit in the performance area, while the rest of the group observes as active listeners. The facilitator provides a simple, open-ended setting and time of day (e.g., 'a waiting room, midnight') with no pre-determined relationship or conflict.
 

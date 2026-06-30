@@ -83,20 +83,6 @@ An ensemble-driven, non-narrative exploration where players collectively build a
 
 **Objective:** To develop advanced thematic synthesis and group mind by training players to listen globally, support non-verbally, and weave disparate sensory threads into a cohesive, unified artistic expression.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–12 (ideal 4-8) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, moderate-sized playing space. Players stand in a semi-circle or perimeter around the stage area, leaving the center clear. No props or materials are required.
 

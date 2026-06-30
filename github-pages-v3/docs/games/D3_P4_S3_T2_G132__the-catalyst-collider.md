@@ -82,20 +82,6 @@ The Catalyst Collider is an advanced narrative game where a scene's trajectory i
 
 **Objective:** To master the Platform and Tilt technique by training players to use sudden, disruptive inputs as structural opportunities to re-evaluate, justify, and synthesize a cohesive story.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-12) |
-| Time | ~10 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | yes |
-| Audience | not required |
-
 ## Setup
 Three active players stand in the performance space while the remaining players act as the Narrative Guild off-stage. For in-person play, the facilitator or off-stage players hold physical Catalyst Cards and random objects. For digital play, a shared digital document, private chat messages, or a virtual random generator is prepared to distribute prompts instantly.
 

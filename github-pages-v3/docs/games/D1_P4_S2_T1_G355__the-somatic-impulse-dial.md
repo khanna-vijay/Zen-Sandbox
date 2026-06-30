@@ -86,20 +86,6 @@ A high-commitment physical and vocal drill where players translate abstract prom
 
 **Objective:** To develop emotional fluidity and somatic control by practicing the 'Emotional Dial' technique, training players to trust their first instinctive physical impulses and scale their expressive intensity dynamically.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–15 (ideal 5-15) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, comfortable room with enough space for players to move and vocalize freely. Players stand in a wide circle facing inward. No props or materials are required.
 

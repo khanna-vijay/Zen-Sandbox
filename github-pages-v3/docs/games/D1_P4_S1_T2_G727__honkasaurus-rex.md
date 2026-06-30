@@ -82,20 +82,6 @@ Two players improvise a scene while audience members armed with squeaky horns di
 
 **Objective:** To develop unfiltered spontaneity and rapid self-recovery by forcing players to instantly discard their planned lines and commit to immediate, intuitive alternatives without hesitation.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 6-20) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | 3 squeaky or bicycle horns |
-| Audience | required |
-
 ## Setup
 An in-person performance space with a clear stage area and an audience seating area. Three squeaky toys or bicycle horns are distributed to three different audience members in the front row. The facilitator keeps a fourth horn to assist with pacing if needed. Two players stand on stage ready to perform, while the rest of the group acts as the active audience.
 

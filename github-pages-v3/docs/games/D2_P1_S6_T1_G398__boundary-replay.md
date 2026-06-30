@@ -81,20 +81,6 @@ Two players begin an scene until a moment of tension, physical contact, or bound
 
 **Objective:** To develop active listening, single-partner empathy, and practical boundary navigation. Players learn to execute real-time check-ins, negotiate physical contact, and prioritize authentic character truth over polite scene agreement.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 4-6) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear, open performance space with no props. The facilitator stands close to the stage to observe closely. The remaining participants sit as active observers.
 

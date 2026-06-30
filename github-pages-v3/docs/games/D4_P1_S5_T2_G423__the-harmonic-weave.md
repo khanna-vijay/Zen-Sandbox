@@ -86,20 +86,6 @@ Resonant Threads is an advanced ensemble exercise where players build a non-line
 
 **Objective:** To develop the ensemble's ability to synthesize themes and track emotional undercurrents across multiple scenes, mastering the art of non-linear storytelling (A-to-C association) and collective, un-cued transitions.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–7 (ideal 4-7) |
-| Time | ~20 min |
-| Complexity | 4/5 |
-| Skill level | proficient |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear performance space with a designated backstage semi-circle where off-stage players stand. No props or chairs are used. The facilitator secures a single, open-ended suggestion from the group (such as an abstract concept or an everyday object) to inspire the first scene.
 

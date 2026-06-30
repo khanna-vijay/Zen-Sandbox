@@ -80,20 +80,6 @@ A high-energy, spotlight-style drill where a single performer is secretly assign
 
 **Objective:** To develop deep emotional fluidity and physical commitment by forcing players to instantly synthesize and modulate contrasting internal states without overthinking.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–10 (ideal 5-10) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | Index cards with Emotions, Index cards with Physical Characteristics |
-| Audience | not required |
-
 ## Setup
 Prepare two decks of index cards: one containing distinct emotions (e.g., awe, paranoia, grief, ecstasy) and the other containing physical centers or movement qualities (e.g., leaden feet, leading with the chin, hollow chest, floating spine). Establish a clear performance space ('the spotlight') and select a simple, neutral phrase for the session (e.g., 'The package has arrived').
 

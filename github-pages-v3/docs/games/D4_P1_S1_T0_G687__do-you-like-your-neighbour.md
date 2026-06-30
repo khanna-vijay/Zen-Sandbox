@@ -75,20 +75,6 @@ Players sit in a circle with one person standing in the center. By asking a seat
 
 **Objective:** Develops peripheral awareness, rapid physical reaction times, and unfiltered spontaneity while building ensemble cohesion and discovering shared commonalities.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6+ (ideal 10-25) |
-| Time | ~10 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | Chairs (one fewer than the number of players) |
-| Audience | not required |
-
 ## Setup
 Arrange chairs in a tight circle facing inward. There must be exactly one fewer chair than the total number of players. One player starts standing in the center of the circle, while all other players sit.
 

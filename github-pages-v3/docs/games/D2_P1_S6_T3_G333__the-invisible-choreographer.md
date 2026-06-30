@@ -78,20 +78,6 @@ A physical scene-work exercise where players navigate secret personal boundaries
 
 **Objective:** To develop advanced boundary navigation and physical contact negotiation skills, training players to read non-verbal cues, offer and receive physical touch with explicit consent, and practice 'Truth Over Pandering' by honoring personal comfort over scene agreement.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–12 (ideal 4-6) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | blank cards, pens |
-| Audience | not required |
-
 ## Setup
 Arrange chairs in a semi-circle facing a moderate performance space. Provide blank index cards and pens. Before starting, establish a universal, silent 'cut' signal (e.g., crossing hands over the chest) that any player can use to instantly freeze the action if they feel uncomfortable.
 

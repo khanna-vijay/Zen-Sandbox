@@ -81,20 +81,6 @@ Two players share a scene centered around a mimed control box featuring three bu
 
 **Objective:** To practice instant physical and emotional endowment-acceptance, active gifting, and collaborative game-building by responding immediately to a partner's physical prompts.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–2 (ideal 2) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two players stand in the performance space. No physical props are needed; the control box is entirely mimed. The rest of the group watches as the audience.
 

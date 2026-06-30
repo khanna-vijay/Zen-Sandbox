@@ -82,20 +82,6 @@ Theme Tapestry is an ensemble-driven exercise where players discover and amplify
 
 **Objective:** To develop Group Mind and Thematic Synthesis by training players to look past surface-level plot, identify abstract emotional or conceptual patterns, and collaboratively align their choices to serve a singular artistic focus.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 4-6) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | hybrid |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open playing space. 4 to 6 players stand in a backline, with 2 to 3 players stepping forward to begin. No props or physical materials are required. The facilitator or audience provides 3 to 5 completely unrelated words, objects, or concepts to start. This game can be played in-person or in a virtual setting.
 

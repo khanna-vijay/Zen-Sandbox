@@ -82,20 +82,6 @@ An advanced ensemble training framework where players learn to design, adapt, an
 
 **Objective:** To develop high-level Group Mind and Peripheral Awareness by training players to track structural threads, decode implicit staging offers, and collaboratively author novel performance formats without pre-planning.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~60 min |
-| Complexity | 4/5 |
-| Skill level | proficient |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, moderate-sized performance space with clear boundaries for the stage and a designated off-stage sideline area. No props or materials are required. Best suited for an established ensemble of 4 to 8 proficient players.
 

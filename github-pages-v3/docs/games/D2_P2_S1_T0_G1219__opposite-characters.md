@@ -79,20 +79,6 @@ Polar Opposites is a paired scene-work exercise where players build contrasting 
 
 **Objective:** Develops deep active listening, physical awareness, and status modulation, teaching players to use their partner's choices as the foundation for their own character creation.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (or pairs in a larger group)) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Pairs of players stand facing each other in a clear space. No props or materials are required. One player is designated as the Initiator and the other as the Responder.
 

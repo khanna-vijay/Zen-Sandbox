@@ -88,20 +88,6 @@ A two-player exercise that cultivates deep interpersonal attunement by establish
 
 **Objective:** To develop advanced single-partner empathy, active listening, and status modulation by training players to receive, mirror, and actively gift emotional subtext before any narrative content is spoken.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (or 6-12 with rotating pairs)) |
-| Time | ~7 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | two chairs |
-| Audience | not required |
-
 ## Setup
 Place two chairs facing each other, about three to four feet apart, in a quiet space. The rest of the group sits close by as an attentive, supportive audience. No props or materials are required.
 

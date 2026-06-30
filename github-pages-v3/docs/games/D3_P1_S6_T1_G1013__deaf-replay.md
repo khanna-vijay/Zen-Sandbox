@@ -74,20 +74,6 @@ Two players perform a fully voiced, highly physical scene while two other player
 
 **Objective:** To develop physical offer reception, active visual listening, and the ability to justify absurd or unexpected physical choices in the moment.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 4-8) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Four players step forward. Two are designated as the 'Actors' and two as the 'Observers'. The Observers must plug their ears, wear noise-canceling headphones, or step out of earshot while remaining in a position where they can clearly see the stage.
 

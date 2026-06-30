@@ -76,20 +76,6 @@ A high-energy, physical warm-up where players work in teams to keep an invisible
 
 **Objective:** To build peripheral awareness, active listening, and group mind by tracking a single physical focus point while dynamically gifting focus to others.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–12 (ideal 6-12) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Divide players into two equal teams of 3 to 6 players. Have the teams face each other across an imaginary net in a moderate-sized room with clear boundaries. No physical props are needed.
 

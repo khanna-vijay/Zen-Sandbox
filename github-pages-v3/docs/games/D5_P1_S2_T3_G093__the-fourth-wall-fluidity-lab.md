@@ -86,20 +86,6 @@ This exercise trains performers to consciously control the permeability of the f
 
 **Objective:** To develop conscious control over the performer-audience relationship, mastering the transition between internal scene focus and direct address while dynamically reading and integrating the room's energy.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 8-15) |
-| Time | ~20 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Set up a clear performance space at one end of the room. Divide the group: 2 to 3 players start on stage, while the remaining 5 to 12 participants sit in the audience area to act as an active, responsive crowd. No props or materials are required.
 

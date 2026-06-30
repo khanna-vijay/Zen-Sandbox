@@ -61,20 +61,6 @@ Xylophone is a solo spontaneity drill where the player uses the physical metapho
 
 **Objective:** To develop unfiltered spontaneity and the ability to fail joyfully by maintaining a steady verbal rhythm without planning, censoring, or correcting mistakes.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 1–1 (ideal 1) |
-| Time | ~1 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | low |
-| Physicality | none |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Stand or sit comfortably with a small clear space in front of you. Imagine a classic wooden xylophone resting at waist height. No physical props or partners are required.
 

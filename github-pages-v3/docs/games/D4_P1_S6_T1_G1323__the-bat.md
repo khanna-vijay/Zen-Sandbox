@@ -81,20 +81,6 @@ The Bat is a challenging long-form improv format performed entirely in pitch-bla
 
 **Objective:** Develops deep group mind, heightened active listening, vocal craft, and format literacy by stripping away visual communication and forcing players to co-create purely through sound.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-10) |
-| Time | ~25 min |
-| Complexity | 5/5 |
-| Skill level | proficient |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An in-person performance space that can be made completely dark. Players stand in a safe, stationary line or semi-circle on stage. A suggestion is taken from the audience before the lights are turned off.
 

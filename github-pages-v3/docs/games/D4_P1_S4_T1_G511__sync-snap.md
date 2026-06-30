@@ -75,20 +75,6 @@ Ensemble Snap is a high-focus training drill that transforms individual scene tr
 
 **Objective:** To develop a shared group mind and precise rhythmic pacing by training players to instantly recognize, support, and execute physical scene transitions as a unified collective.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~25 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, clear playing space with a designated stage area and an off-stage wings area. No props or materials are required. Players should stand in a semi-circle around the stage area, ready to enter or observe. Begin with a brief physical warm-up such as group mirroring or synchronized clapping to align the group's physical rhythm.
 

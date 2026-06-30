@@ -73,20 +73,6 @@ In this high-stakes performance drill, a player must justify a highly ridiculous
 
 **Objective:** To develop the ability to prioritize truth over pandering, master audience-energy management, and cushion comedic beats by committing 100% to a grounded base reality under absurd circumstances.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An active stage area with two chairs. One player sits or stands as the 'accuser' or 'receiver' of the news. Another player stands ready to deliver the explanation. The remaining players sit in the audience, acting as the active crowd. No props are needed.
 

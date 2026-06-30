@@ -71,20 +71,6 @@ A fast-paced, physical warm-up where small groups must instantly collaborate to 
 
 **Objective:** To develop peripheral awareness, physical collaboration, and group mind by forcing players to instantly read their teammates' physical choices and adapt their own bodies to complete a collective stage picture.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal groups of 4-5) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A large, open room free of obstacles. Divide the players into small groups of 4 to 5 people. Each group needs enough floor space to lie down, stand, or bend safely. No props are required.
 

@@ -77,20 +77,6 @@ A high-energy physical warm-up where players stand in a circle and pass a single
 
 **Objective:** To develop deep physical empathy, active listening, and the core 'Yes, And' principle by accepting a partner's physical offer and building upon it without changing its fundamental essence.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-20) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Have all players stand in a circle with enough space to move their arms and take a step forward. No props or materials are required.
 

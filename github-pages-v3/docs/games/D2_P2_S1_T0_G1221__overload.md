@@ -74,20 +74,6 @@ The Focus Crucible is a high-energy attention-splitting drill where a central pl
 
 **Objective:** To develop advanced active listening, cognitive flexibility, and peripheral awareness under pressure. This drill trains players to accept multiple simultaneous inputs (practicing the core of 'Yes, And') and respond instantly without overthinking, cultivating deep trust in their first instinctual thoughts.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 4-12) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Divide players into quartets. In each quartet, one player is designated as the 'Receiver' and stands in the center. The other three players surround them: the 'Mirror' stands directly in front, the 'Logician' stands to the left, and the 'Biographer' stands to the right. Ensure there is enough space between quartets to prevent auditory cross-contamination.
 

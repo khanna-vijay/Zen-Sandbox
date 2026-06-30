@@ -78,20 +78,6 @@ A virtual-first improv game where players collaboratively construct a scene's en
 
 **Objective:** To master the C.R.O.W. framework (Character, Relationship, Objective, Where) in a virtual space, training players to show rather than tell by integrating visual, environmental, and verbal offers without cognitive overload.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–7 (ideal 4-7) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | yes |
-| Audience | not required |
-
 ## Setup
 Players join a video conferencing platform in gallery view. Each player prepares a small folder of diverse virtual backgrounds (e.g., interiors, outdoor landscapes, abstract textures). The facilitator or a designated player (the Scene Architect) shares a blank digital whiteboard screen visible to all participants.
 

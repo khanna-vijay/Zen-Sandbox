@@ -80,20 +80,6 @@ Two players perform a scene while standing in front of two other players, who sl
 
 **Objective:** To develop deep physical listening, endowment-acceptance, and justification by treating unexpected physical movements as gifts to be integrated into the scene's narrative.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4 on stage) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | high |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Four players on stage, split into two pairs. In each pair, Player A stands in front with their hands clasped behind their back. Player B stands directly behind Player A, slipping their arms under Player A's armpits. The remaining players watch as the audience.
 

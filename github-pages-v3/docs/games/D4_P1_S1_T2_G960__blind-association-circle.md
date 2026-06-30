@@ -74,20 +74,6 @@ A progressive ensemble drill where players pass a rapid-fire word association ar
 
 **Objective:** To develop deep peripheral awareness, active listening, and group mind by forcing players to track a verbal thread and physical positions using only auditory and spatial cues.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6+ (ideal 8-12) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A large, open room cleared of all obstacles, chairs, and tripping hazards. Players stand in a shoulder-to-shoulder circle.
 

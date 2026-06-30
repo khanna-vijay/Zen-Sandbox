@@ -66,20 +66,6 @@ Players sit in a circle while a leader points and makes sounds, seemingly follow
 
 **Objective:** Develops peripheral awareness, active listening, and group mind by training players to look beyond the obvious focal point and tune into the entire room's subtle behaviors.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 10+ (ideal 10-20) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players sit or stand in a circle. The facilitator (or one designated player) knows the secret rule beforehand. No props are needed.
 

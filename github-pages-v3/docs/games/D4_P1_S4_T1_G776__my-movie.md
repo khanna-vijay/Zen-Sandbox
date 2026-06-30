@@ -78,20 +78,6 @@ Players stand in a backline, ready to pitch fictional films based on two audienc
 
 **Objective:** Develops rapid group mind, sharp pacing, and seamless ensemble edits. Players practice immediate commitment to their first thoughts, instant scene support, and collective rhythmic transitions.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–12 (ideal 6-10) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An in-person stage or open playing space with a clear backline area. The ensemble stands in a horizontal line facing the audience. The facilitator acts as the director/host standing downstage or off to the side. No props are required.
 

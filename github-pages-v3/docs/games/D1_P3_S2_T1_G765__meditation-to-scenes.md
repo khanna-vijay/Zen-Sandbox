@@ -74,20 +74,6 @@ In this exercise, pairs sit in silence and listen to a curated instrumental trac
 
 **Objective:** Develops emotional fluidity and vulnerability by using external auditory stimuli to bypass intellectual planning, allowing players to access authentic emotional states and physicalize them instantly.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal Pairs) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | Music player, Audio tracks |
-| Audience | not required |
-
 ## Setup
 Pairs sit facing each other in chairs or on the floor, spaced out across the room. The facilitator needs a music player with a curated playlist of instrumental tracks of varying moods (e.g., melancholic, tense, joyful, mysterious).
 

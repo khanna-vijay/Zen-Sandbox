@@ -79,20 +79,6 @@ In this long-form narrative format, three to five players portray distinct membe
 
 **Objective:** To develop thematic synthesis and ensemble cohesion by training players to actively listen to disparate narrative threads and weave them into a singular, emotionally resonant story.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–5 (ideal 3-5) |
-| Time | ~20 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Players stand in a straight line facing the audience. The space is clear. The facilitator obtains a single suggestion of a location (e.g., 'a coastal town,' 'a fading mining outpost') or a central event (e.g., 'the day the clock tower stopped').
 

@@ -72,20 +72,6 @@ In this physical exercise, pairs work together to form interlocking, cooperative
 
 **Objective:** To develop deep physical empathy, peripheral awareness, and non-verbal 'yes-and' by responding directly to a partner's physical choices and making them look brilliant.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 per pair) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open room with enough space for pairs to move freely without colliding. No props or materials are required. Players pair up and stand facing each other with about three feet of space between them.
 

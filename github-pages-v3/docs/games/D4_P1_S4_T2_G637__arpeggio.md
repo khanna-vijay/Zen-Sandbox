@@ -74,20 +74,6 @@ A musical ensemble warm-up where players collectively construct a major chord ar
 
 **Objective:** To develop group mind, active listening, and vocal precision by requiring players to match pitch, maintain a steady tempo, and anticipate their entry within a shared musical structure.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 8-15) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle facing inward. No instruments or props are required, though the facilitator may use a pitch pipe or hum a starting note to establish the key.
 

@@ -79,20 +79,6 @@ Two players improvise a narrative scene while a facilitator controls the flow of
 
 **Objective:** To develop deep active listening, precise physical recall, and narrative tracking by forcing players to commit to and remember every word and movement their partner makes.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 3-6) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Clear a moderate performance space. Two players stand in the playing area, while a third player or the facilitator acts as the 'Time Controller' standing off-stage. The remaining players watch as active observers.
 

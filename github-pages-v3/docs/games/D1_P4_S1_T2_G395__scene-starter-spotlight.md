@@ -79,20 +79,6 @@ A high-octane virtual warm-up where a facilitator uses the platform's spotlight 
 
 **Objective:** To train unfiltered spontaneity and the ability to trust one's first creative impulse without self-censorship, while developing vocal presence and peripheral awareness in a virtual environment.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 8–15 (ideal 8-12) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An online video meeting room with 8 to 15 participants. All players must be in grid view with cameras turned on and microphones muted. The facilitator must have host privileges to control the platform's spotlight or focus feature, which forces a specific participant's video to become large for all attendees.
 

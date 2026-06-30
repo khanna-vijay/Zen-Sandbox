@@ -75,20 +75,6 @@ In this high-energy game, players initiate a standard spoken scene until an off-
 
 **Objective:** To develop active listening and immediate agreement (Yes, And) by using the last spoken line as the launchpad for a spontaneous song, fostering vocal confidence and unfiltered spontaneity.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 4-8) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An in-person playing space with two players on stage and the remaining players standing on the wings as the active audience/facilitators. No instruments or props are required; the music is entirely a cappella and self-generated.
 

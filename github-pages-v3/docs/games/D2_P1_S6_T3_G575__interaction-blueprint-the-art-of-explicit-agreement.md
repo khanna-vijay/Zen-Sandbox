@@ -73,20 +73,6 @@ This structured exercise provides a safe, low-stakes environment for players to 
 
 **Objective:** To develop practical skills in boundary navigation and physical contact negotiation, ensuring players can confidently initiate, modify, or decline physical touch while prioritizing personal safety over performance pressure.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-30 (in pairs)) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open room with enough space for players to work in pairs without crowding. No props or materials are required. The facilitator should prepare a list of common physical interactions (e.g., a hand on the shoulder, a high-five, a comforting hug, guiding someone by the elbow).
 

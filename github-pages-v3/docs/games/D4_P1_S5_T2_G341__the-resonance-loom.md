@@ -85,20 +85,6 @@ An ensemble-building exercise where players stand in a circle to co-create a non
 
 **Objective:** To develop thematic synthesis and group mind by training players to listen to the emotional subtext of contributions and weave them together across physical, vocal, and verbal modalities.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–12 (ideal 5-12) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a spacious circle, facing inward. The space should be quiet and free of physical obstacles to allow for clear vocal projection and physical movement. No props or materials are required.
 

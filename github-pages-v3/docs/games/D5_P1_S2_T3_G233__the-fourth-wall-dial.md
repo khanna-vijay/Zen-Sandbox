@@ -81,20 +81,6 @@ In this dynamic scene-work drill, performers adjust their level of audience enga
 
 **Objective:** To develop precise audience-energy management and master the technique of breaking the fourth wall. Performers learn to read the room, project clearly, and consciously choose when to let the audience in or shut them out to serve the scene's dramatic or comedic needs.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-15) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An active stage area facing a seated audience of workshop participants. No physical props are required, though the facilitator should stand where they can be easily seen or heard by the performers to deliver dial cues (numbered 0 to 3).
 

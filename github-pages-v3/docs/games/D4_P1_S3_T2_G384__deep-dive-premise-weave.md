@@ -77,20 +77,6 @@ An active ensemble drill where players dissect a single suggestion through a rap
 
 **Objective:** To develop advanced suggestion deconstruction (A-to-C association) and cultivate a unified Group Mind by collectively mapping out the thematic, emotional, and physical possibilities of a single prompt without relying on linear storytelling.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, moderate-sized playing space. Players stand in a semi-circle or back line facing the stage area. No props or materials are required. The facilitator prepares to act as the primary editor to maintain a brisk tempo.
 

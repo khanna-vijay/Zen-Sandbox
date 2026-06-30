@@ -69,20 +69,6 @@ Players sit in a row, hide their faces, and contort their features into bizarre 
 
 **Objective:** To develop unfiltered spontaneity and trust in physical impulses, demonstrating that a physical commitment instantly generates character, emotion, and dialogue without cognitive strain.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–6 (ideal 4-5) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | chairs |
-| Audience | not required |
-
 ## Setup
 Place four to five chairs in a straight line facing the playing area. Players sit in the chairs. No other props or materials are needed.
 

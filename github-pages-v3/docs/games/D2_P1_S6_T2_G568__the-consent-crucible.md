@@ -79,20 +79,6 @@ Two players engage in an urgent, high-stakes scene while secretly holding non-ne
 
 **Objective:** Develops the ability to recognize, articulate, and defend personal boundaries under social and narrative pressure, mastering the use of real-time check-ins and 'Cut' calls.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-16) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | Boundary Cards, High-Stakes Scene Prompts |
-| Audience | not required |
-
 ## Setup
 Prepare a deck of 'Boundary Cards' (e.g., 'No physical contact above the shoulders', 'No questions about family history') and a deck of 'High-Stakes Scene Prompts' (e.g., 'Two spies escaping a collapsing bunker'). Players stand in a circle with a clear performance space in the center.
 

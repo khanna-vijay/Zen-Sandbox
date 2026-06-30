@@ -83,20 +83,6 @@ In this classic, high-energy character game, players ride in an imaginary car co
 
 **Objective:** To develop deep partner empathy, rapid offer reception, and emotional fluidity by instantly mirroring and justifying another player's physical and emotional choices.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-12) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | 4 chairs |
-| Audience | not required |
-
 ## Setup
 Arrange four chairs in a 2x2 grid to represent the front and back seats of a car. The rest of the players form a line offstage to act as the upcoming hitchhikers.
 

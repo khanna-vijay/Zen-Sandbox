@@ -72,20 +72,6 @@ A high-energy, fast-paced circle game where a single player steps into the cente
 
 **Objective:** To bypass the internal editor, embrace unfiltered spontaneity, and experience the profound safety of unconditional group support.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-20) |
-| Time | ~10 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle facing inward. No props or special materials are required. The facilitator or a player will act as the category-giver.
 

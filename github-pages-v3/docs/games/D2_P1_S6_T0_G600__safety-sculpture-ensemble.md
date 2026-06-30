@@ -81,20 +81,6 @@ This workshop activity establishes a shared, group-specific physical vocabulary 
 
 **Objective:** To develop practical boundary navigation, single-partner empathy, and non-verbal communication skills by establishing a clear, physical safety container.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-15) |
-| Time | ~60 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | whiteboard or flipchart, markers |
-| Audience | not required |
-
 ## Setup
 An open room with space to move. A whiteboard or flipchart with markers is placed at the front of the room. No other props are required.
 

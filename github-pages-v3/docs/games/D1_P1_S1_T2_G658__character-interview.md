@@ -81,20 +81,6 @@ A single player sits in a central chair and immediately adopts a distinct physic
 
 **Objective:** Develops unfiltered spontaneity, physical commitment, and rapid justification by training players to trust their first instinctual thoughts without self-censoring.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-15) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | chair |
-| Audience | not required |
-
 ## Setup
 Place a single chair at the front of the room facing the rest of the group, who sit or stand in a semi-circle as the interviewers.
 

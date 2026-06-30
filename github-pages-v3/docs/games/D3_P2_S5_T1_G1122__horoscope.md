@@ -76,20 +76,6 @@ In this performance-oriented game, players use a real horoscope read from a maga
 
 **Objective:** To develop skills in suggestion deconstruction, world-building, and establishing a strong base reality (C.R.O.W.) from abstract prompts.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-6) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | magazine with horoscopes |
-| Audience | required |
-
 ## Setup
 Two players stand on stage. The facilitator holds a magazine, newspaper, or printout containing horoscopes. An audience is present to provide a birth date or zodiac sign.
 

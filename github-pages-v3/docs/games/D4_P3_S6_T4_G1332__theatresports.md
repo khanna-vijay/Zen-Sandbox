@@ -82,20 +82,6 @@ A structured, high-energy performance format where two teams face off in a serie
 
 **Objective:** Develops format literacy, audience-energy management, and pacing. Players learn to transition smoothly between different shortform structures, recognize when a scene has peaked, and collaborate with the audience as their ultimate scene partner.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6+ (ideal 8-16) |
-| Time | ~45 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | large_open |
-| Props | horn, basket, scorecards |
-| Audience | required |
-
 ## Setup
 A large open stage with a clear performance area. Two team benches on opposite sides. A central table for 1-3 judges equipped with a horn (or buzzer), scorecards, and a penalty basket (to place over a player's head or hold as a physical penalty marker). An MC/host with a microphone. An audience seated facing the stage.
 

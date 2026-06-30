@@ -72,20 +72,6 @@ This format is a streamlined, fast-paced shortform showcase designed for small v
 
 **Objective:** Develops format literacy by contrasting shortform and longform mechanics, specifically focusing on hosting duties, rapid game setups, tight physical space work, and serving the overall momentum of a showcase.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 5-7) |
-| Time | ~50 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An intimate performance space with the audience seated close to the stage area. No props, chairs, or set pieces are used; players stand at the sides or back of the stage when not in a scene. Prepare a list of four to five classic shortform games that require minimal setup.
 

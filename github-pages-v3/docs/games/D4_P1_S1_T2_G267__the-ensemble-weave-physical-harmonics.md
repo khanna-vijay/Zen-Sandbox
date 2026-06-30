@@ -82,20 +82,6 @@ A non-verbal, movement-based ensemble exercise where players co-create a dynamic
 
 **Objective:** To develop advanced Group Mind and peripheral awareness by training players to track multiple physical threads, yield to emergent group focus, and execute collective transitions without verbal cues.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–8 (ideal 4-7) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | high |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, spacious room free of obstacles. Players stand scattered throughout the space in a neutral, relaxed posture. The room must remain completely silent throughout the exercise.
 

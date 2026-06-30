@@ -71,20 +71,6 @@ Two players step into the space with the singular goal of establishing and agree
 
 **Objective:** To develop the skill of establishing a clear Base Reality (C.R.O.W.) through immediate agreement and physical/verbal offer reception, preventing early-scene confusion or negotiation.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (performing at a time)) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear performance space at the front of the room. The rest of the group sits as an active audience. No props or materials are needed. The facilitator prepares a list of 'Agreement Categories' (e.g., Location, Relationship, Activity, Emotion, Atmosphere).
 

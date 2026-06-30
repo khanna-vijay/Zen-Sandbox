@@ -72,20 +72,6 @@ In this classic ensemble exercise, players stand in a circle and mirror the phys
 
 **Objective:** Develops peripheral awareness, group mind, and physical mirroring skills, teaching players to follow non-verbal cues without breaking the illusion of a unified group.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 8-20) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a spacious circle facing inward. No props or special materials are required.
 

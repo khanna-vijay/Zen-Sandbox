@@ -83,20 +83,6 @@ An ensemble-driven exercise where a designated conductor dynamically steers a li
 
 **Objective:** To cultivate a unified group mind and sharpen collective pacing by training players to instantly align their physical, vocal, and emotional rhythms to external and internal shifts.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 5-7) |
-| Time | ~30 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Clear a moderate-sized performance space. One player is designated as the Conductor and stands downstage or off-stage where they have a clear view of the entire playing area. The remaining 3 to 7 players form the active Ensemble on stage. No props or materials are required.
 

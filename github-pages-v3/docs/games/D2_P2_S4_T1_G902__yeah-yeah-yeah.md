@@ -77,20 +77,6 @@ In this high-energy, paired storytelling game, players take turns building a sin
 
 **Objective:** Develops rapid offer reception, active listening, and physical commitment by practicing unconditional agreement and enthusiastic narrative hand-offs.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (played in pairs)) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in pairs facing each other with comfortable spacing. No props or special staging required.
 

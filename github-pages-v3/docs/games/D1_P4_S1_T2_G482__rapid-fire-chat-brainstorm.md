@@ -78,20 +78,6 @@ A high-energy virtual warm-up that repurposes the video-conferencing chat window
 
 **Objective:** To develop unfiltered spontaneity and rapid offer reception by forcing players to bypass their internal editor, instantly committing to the first written suggestion that catches their eye.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–15 (ideal 5-15) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Conducted in a virtual meeting space with all participants on camera in Gallery View. The public chat window must be open and visible to everyone. No physical props or materials are required. Ideal for 5 to 15 players.
 

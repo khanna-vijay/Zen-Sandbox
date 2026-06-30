@@ -83,20 +83,6 @@ In this intimate, low-energy exercise, pairs stand face-to-face to co-create a s
 
 **Objective:** To develop advanced active listening, emotional attunement, and status modulation by combining repetition-based mirroring with precise, incremental gifting.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (or any size in pairs)) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Divide the group into pairs. Partners stand facing each other, about three to four feet apart, maintaining comfortable eye contact. No props or special staging are required; the space should be quiet enough for pairs to hear each other's vocal nuances.
 

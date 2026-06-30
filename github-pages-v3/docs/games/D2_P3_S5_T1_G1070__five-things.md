@@ -75,20 +75,6 @@ One player leaves the room while the group and audience establish a mundane acti
 
 **Objective:** To develop active gifting and endowment-gifting drills, training players to make their partner look like a genius by setting up clear, physically legible offers.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 4-6) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An in-person performance space with a clear stage area. One player (the Guesser) leaves the room or wears noise-canceling headphones. The remaining players (the Gifters) stand on stage with the facilitator and the audience.
 

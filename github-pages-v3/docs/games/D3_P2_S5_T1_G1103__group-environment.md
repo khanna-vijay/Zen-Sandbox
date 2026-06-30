@@ -75,20 +75,6 @@ Players take turns entering an empty stage to establish and interact with a sing
 
 **Objective:** To develop a strong sense of 'Where' (from C.R.O.W.) and establish a solid Base Reality. Players learn to show rather than tell, using precise physicality and space work to make imaginary objects feel tangible and permanent to both the performers and the audience.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An empty stage or playing area representing the room to be built. The remaining players sit in an audience line facing the stage, observing closely to track the location and dimensions of every established object.
 

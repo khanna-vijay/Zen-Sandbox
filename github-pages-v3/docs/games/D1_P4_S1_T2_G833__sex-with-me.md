@@ -72,20 +72,6 @@ A high-energy, line-up style comedy game where players receive a suggestion of a
 
 **Objective:** To develop unfiltered spontaneity and trust in one's first thoughts by forcing rapid-fire associations under pressure, while building stage presence and comedic timing.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 4-8) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Players stand in a horizontal line facing the audience. The facilitator acts as the host, standing to one side to solicit suggestions from the audience. No props or special staging are required.
 

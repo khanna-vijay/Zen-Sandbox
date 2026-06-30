@@ -77,20 +77,6 @@ This dynamic icebreaker pairs participants for rapid-fire, timed conversations g
 
 **Objective:** Develops active listening, rapid empathy, and unfiltered spontaneity by stripping away the time to overthink or plan responses.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-30) |
-| Time | ~10 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | Timer, List of prompts |
-| Audience | not required |
-
 ## Setup
 An open room with enough space for players to form two concentric circles facing each other (or two parallel lines). The facilitator needs a stopwatch and a list of engaging, low-to-medium stakes prompts.
 

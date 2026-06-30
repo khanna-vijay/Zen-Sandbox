@@ -79,20 +79,6 @@ A high-energy, physical warm-up where players move dynamically through the space
 
 **Objective:** To develop non-verbal group mind, physical support work, and immediate commitment to a collective physical offer.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 8-20) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A large, open room free of obstacles. Players stand scattered throughout the space, ready to move. No props or materials are required.
 

@@ -76,20 +76,6 @@ In this exercise, two players initiate a scene where they immediately adopt iden
 
 **Objective:** To develop deep physical and vocal empathy, active listening, and radical agreement ('Yes, And') by matching a partner's physical and verbal choices instantly.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-20 (in pairs)) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Divide the group into pairs. Partners stand facing each other in a clear space with enough room to move comfortably. No props or chairs are required.
 

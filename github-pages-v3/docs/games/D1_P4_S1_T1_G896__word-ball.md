@@ -76,20 +76,6 @@ A fast-paced, physicalized warm-up where players pass an invisible ball across a
 
 **Objective:** To develop unfiltered spontaneity and active listening by training players to accept their first instinctual thought as a gift, maintaining a steady group rhythm without hesitation or self-censorship.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-20) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a comfortable, open circle facing inward. No props or special materials are required. The facilitator should ensure there is enough space for everyone to make clear eye contact and physical throwing gestures.
 

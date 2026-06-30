@@ -76,20 +76,6 @@ A high-energy, rapid-fire warm-up where players stand in a circle and pass the l
 
 **Objective:** To develop group mind, peripheral awareness, and precise pacing by training players to receive and pass verbal offers instantly without hesitation.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-15) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle facing inward. No props or special materials are needed; just a clear space where everyone can see each other.
 

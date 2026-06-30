@@ -82,20 +82,6 @@ In this exercise, a solo performer is given a secret target audience reaction—
 
 **Objective:** To develop precise audience-energy management and room-reading skills, specifically training performers to treat the audience as an active scene partner by intentionally landing and cushioning beats to evoke targeted emotional responses.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-15) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | Index cards with specific audience reactions written on them |
-| Audience | required |
-
 ## Setup
 An in-person performance space with a clear stage area and seating for the remaining participants (acting as the audience). The facilitator prepares a deck of index cards, each containing a specific, observable audience reaction (e.g., 'A collective gasp of surprise', 'A sympathetic aww', 'A heavy, uncomfortable silence', 'A sudden, sharp laugh'). No other props are needed, though a single chair can be on stage.
 

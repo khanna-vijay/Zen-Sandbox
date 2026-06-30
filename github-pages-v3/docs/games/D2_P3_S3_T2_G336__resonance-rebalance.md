@@ -85,20 +85,6 @@ A progressive three-phase partner exercise designed to build deep interpersonal 
 
 **Objective:** To cultivate deep partner empathy, active listening, and responsive status modulation by layering physical, emotional, and verbal attunement, training players to make their partner the focal point of the scene.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–12 (ideal 6-12) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, quiet space where pairs can stand or sit facing each other at a comfortable distance. No props are required. For online play, partners pin each other's video feeds to maintain direct, uninterrupted eye contact.
 

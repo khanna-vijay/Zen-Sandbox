@@ -76,20 +76,6 @@ A high-stakes narrative game where players explore consent and boundary navigati
 
 **Objective:** To train players in active check-ins, boundary navigation, and narrative architecture by demonstrating how respecting fictional character limits organically raises dramatic stakes without relying on real-life personal vulnerability.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-6) |
-| Time | ~35 min |
-| Complexity | 4/5 |
-| Skill level | proficient |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | yes |
-| Audience | not required |
-
 ## Setup
 Set up a performance space with chairs for the active players and a separate observation station for two to three Weavers. Provide slips of paper and pens. The facilitator prepares a list of high-stakes, relationship-driven scenarios.
 

@@ -76,20 +76,6 @@ This high-energy training structure teaches ensembles how to synthesize a multi-
 
 **Objective:** Develops thematic synthesis, narrative architecture, and group-mind pacing by training players to treat previous scenes as musical motifs to be woven together.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~10 min |
-| Complexity | 4/5 |
-| Skill level | proficient |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear stage area with the rest of the ensemble standing on the backline or in the wings. No props or materials are required.
 

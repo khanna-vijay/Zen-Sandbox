@@ -78,20 +78,6 @@ Visible Echoes is a virtual-native improv game designed to make the foundational
 
 **Objective:** To develop immediate offer reception and active listening in a virtual space, using a structured multi-sensory ritual to reinforce the 'Yes, And' principle before contributing new narrative details.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–12 (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 All players join a virtual video meeting in Gallery View. Everyone except the active speaker remains muted. The chat window must be open and visible to all participants. No physical props are required.
 

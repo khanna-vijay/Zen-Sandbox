@@ -78,20 +78,6 @@ The Ripple Effect is an analytical scene-work game where players pause the actio
 
 **Objective:** Develops advanced active listening and narrative architecture by training players to recognize, justify, and expand upon subtle, non-verbal, or implicit offers, moving from intuitive reaction to conscious story construction.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A simple performance space. Two players stand ready to perform a scene. The remaining players sit as active observers (spotters). No props or special materials are required.
 

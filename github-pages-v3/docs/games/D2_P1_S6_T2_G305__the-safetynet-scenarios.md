@@ -77,20 +77,6 @@ This is an iterative training exercise where players perform short, prompt-drive
 
 **Objective:** To build practical competency in real-time boundary navigation, normalize the use of the "Cut" call as an active safety tool, and train players to prioritize personal and partner safety over comedic or narrative momentum.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 4-8) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a semi-circle facing a designated performance space. No props or special materials are required. The facilitator prepares a list of low-stakes, everyday prompts that naturally involve close physical proximity, personal space negotiation, or mild emotional vulnerability.
 

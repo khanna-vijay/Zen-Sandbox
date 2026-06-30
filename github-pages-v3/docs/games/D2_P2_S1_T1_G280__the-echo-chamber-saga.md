@@ -80,20 +80,6 @@ A structured virtual storytelling game designed to combat remote-call latency an
 
 **Objective:** To develop deep active listening and radical acceptance (Yes, And) using a virtual adaptation of Meisner repetition, ensuring players fully receive an offer before building upon it.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–12 (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | none |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Conducted on a video conferencing platform. The facilitator renames all participants with a leading number (e.g., '1 - Alex', '2 - Taylor') to establish a clear, sequential speaking order. All players start in gallery view with their microphones muted and the chat window open.
 

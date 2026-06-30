@@ -72,20 +72,6 @@ The Cadence Pass is a high-focus ensemble warm-up where players pass a rhythmic 
 
 **Objective:** Develops group mind, active listening, and peripheral awareness by training players to align their individual timing with the collective rhythm of the ensemble.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-20) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle in an open space with room to move. No props or materials are required.
 

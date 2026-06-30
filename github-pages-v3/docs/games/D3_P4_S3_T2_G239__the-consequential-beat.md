@@ -80,20 +80,6 @@ A dynamic scene-work exercise designed to cure meandering middles by forcing act
 
 **Objective:** To master narrative architecture by practicing the Platform/Tilt technique, ensuring that scenes build progressively through cause-and-effect rather than stalling or resolving too quickly.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-12) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | hybrid |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two active players stand in the performance space (or on screen for virtual play). The remaining participants act as active observers. No props or special staging are required.
 

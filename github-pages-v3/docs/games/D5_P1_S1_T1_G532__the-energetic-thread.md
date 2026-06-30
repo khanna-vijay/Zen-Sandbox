@@ -81,20 +81,6 @@ In this exercise, performers treat the audience's collective attention as an act
 
 **Objective:** To develop advanced room-reading instincts and proactive energy-calibration, training performers to manage audience engagement through subtle, in-character theatrical adjustments rather than overt, fourth-wall-breaking tricks.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An in-person performance space with a clear boundary between the stage and the audience. No props are required. The active performers (2 to 4) stand on stage, while the remaining participants (the audience) sit in the house, instructed to react naturally and authentically without forcing or faking their engagement.
 

@@ -86,20 +86,6 @@ In this virtual improv game, players collaborate on a scene performed primarily 
 
 **Objective:** To master the Platform and Tilt technique by establishing a clear, non-verbal baseline (the platform) and seamlessly integrating sudden, disruptive narrative offers (the tilts) delivered via private text, training deep physical commitment and rapid justification.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~15 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An online video conferencing platform with gallery view enabled. All players must have their cameras on, well-lit, and their private chat window open and easily visible without blocking their view of the other participants. Microphones are muted by default, to be unmuted only when a player is prompted to speak.
 

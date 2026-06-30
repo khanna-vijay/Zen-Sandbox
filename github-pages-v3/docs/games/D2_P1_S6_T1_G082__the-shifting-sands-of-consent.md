@@ -81,20 +81,6 @@ In this exercise, players improvise scenes while holding secret, non-negotiable 
 
 **Objective:** To develop competent boundary navigation and active listening skills, specifically training players to use explicit check-ins, practice 'Truth Over Pandering' through conditional agreements, and safely manage high-stakes character objectives.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~25 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | Boundary Cards, Desire Cards |
-| Audience | not required |
-
 ## Setup
 Prepare two sets of index cards: 'Boundary Cards' (e.g., 'Cannot be touched above the elbow', 'Cannot discuss past relationships') and 'Desire Cards' (e.g., 'Must convince partner to hold hands', 'Must uncover a secret'). Arrange the playing space with two chairs in the center for the active players, while the remaining 2-6 players sit in a semi-circle as active observers.
 

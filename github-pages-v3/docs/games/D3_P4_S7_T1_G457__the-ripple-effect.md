@@ -79,20 +79,6 @@ A structured, turn-based scene-building exercise designed for virtual play where
 
 **Objective:** To develop the ability to raise stakes systematically and serve the story by training players to explicitly connect narrative cause-and-effect to personal character motivations and emotional investment.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (or pairs in a larger group)) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Designed for virtual video platforms. Two active players turn their cameras on, while the rest of the group keeps cameras off to act as the gallery. No physical props or special space are required; players just need a clear audio connection and a simple, everyday suggestion to begin.
 

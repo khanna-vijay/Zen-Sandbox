@@ -74,20 +74,6 @@ Braided Narratives is a long-form improv structure where players establish sever
 
 **Objective:** Develops thematic synthesis, narrative architecture, and ensemble pacing by training players to self-edit, track multiple storylines, and find organic connections across disparate scenes.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 4-8) |
-| Time | ~15 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An ensemble of 4 to 8 players stands in a semi-circle facing a clear performance space. No props or chairs are required, though two chairs can be placed off-stage for optional use.
 

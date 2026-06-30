@@ -78,20 +78,6 @@ La Ronde is a classic longform structure where players explore a chain of two-pe
 
 **Objective:** Develops longform format literacy, pacing, and narrative architecture by tracking character history, gifting details to partners, and serving the overall structural arc of the piece.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-10) |
-| Time | ~20 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a backline or sit in a semi-circle facing the stage area. No props are needed, though two chairs can be available if players wish to use them.
 

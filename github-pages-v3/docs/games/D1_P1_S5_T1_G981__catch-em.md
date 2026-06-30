@@ -73,20 +73,6 @@ In this high-focus physical game, players attempt to cross an open room while a 
 
 **Objective:** Develops physical commitment, absolute stillness, and peripheral awareness by training players to 'do nothing' and embrace silence under pressure.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 5-15) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, clear room with a designated starting line at one end and a finish line at the other. One player is selected as the Sentinel and stands at the finish line facing the wall. All other players line up at the starting line.
 

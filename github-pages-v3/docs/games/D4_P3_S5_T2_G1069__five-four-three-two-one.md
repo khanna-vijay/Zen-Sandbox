@@ -77,20 +77,6 @@ A structured long-form format where an ensemble launches five distinct, unrelate
 
 **Objective:** To develop advanced narrative synthesis, thematic weaving, and format literacy by training players to find unexpected connections between disparate storylines under structural pressure.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–12 (ideal 6-10) |
-| Time | ~30 min |
-| Complexity | 4/5 |
-| Skill level | proficient |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 A clear performance space with a designated off-stage area for players to watch. No props or set pieces are required. An active audience is necessary to act as the voting body.
 

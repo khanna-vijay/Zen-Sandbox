@@ -77,20 +77,6 @@ A structured scene-work exercise where two players begin with hidden, asymmetric
 
 **Objective:** To develop narrative architecture skills by practicing the Platform/Tilt technique, teaching players how to introduce disruptive information (tilts) and immediately justify them to serve the broader story.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-12) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An in-person performance space. The facilitator needs a quiet way to whisper or privately brief two players before the scene starts. No props or physical materials are required.
 

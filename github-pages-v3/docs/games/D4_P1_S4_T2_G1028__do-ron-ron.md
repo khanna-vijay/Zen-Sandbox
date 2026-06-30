@@ -75,20 +75,6 @@ Four players stand in a line and improvise a rhyming song based on an audience s
 
 **Objective:** To develop group mind, rhythmic timing, and unfiltered spontaneity under pressure by sharing the responsibility of a structured song.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–4 (ideal 4) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Four players stand shoulder-to-shoulder in a line facing the audience. The facilitator or audience provides a simple suggestion (e.g., an occupation, an everyday object, or a name). No instruments are required, though a steady hand-clap or foot-tap from the group helps establish the tempo.
 

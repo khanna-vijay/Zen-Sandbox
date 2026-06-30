@@ -77,20 +77,6 @@ This is a high-energy, long-form narrative format where players collaborate to b
 
 **Objective:** To master narrative architecture and pacing by integrating spontaneous musical numbers that serve the story's emotional peaks and plot progression.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-12) |
-| Time | ~45 min |
-| Complexity | 5/5 |
-| Skill level | proficient |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | required |
-
 ## Setup
 A large open performance space with a designated stage area and an audience area. An accompanist (keyboardist or guitarist) is highly recommended, though an energetic a cappella or beatbox rhythm section from off-stage players can work. Players stand in a backline, ready to edit and enter.
 

@@ -73,20 +73,6 @@ In this meta-cognitive scene-work exercise, players alternate between acting in 
 
 **Objective:** To cultivate a deep, real-time awareness of narrative architecture, training players to make purposeful offers that establish stakes, justify previous choices, and actively drive the story forward.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two players stand in the performance space, while the remaining players sit as active observers. No props or special staging are required. The facilitator prepares a list of simple relationship or situational prompts.
 

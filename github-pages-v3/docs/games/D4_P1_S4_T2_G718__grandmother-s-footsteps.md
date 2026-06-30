@@ -78,20 +78,6 @@ A classic physical game of stealth and sudden stillness where players attempt to
 
 **Objective:** To develop group mind, physical control, and collective pacing by learning to read the subtle physical cues of the group and the Guardian, mastering the transition between high-energy movement and absolute stillness.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 8-20) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A large, open room with a clear starting line at one end and a designated spot for the Guardian at the opposite end. No props are required. All players except the Guardian line up behind the starting line.
 

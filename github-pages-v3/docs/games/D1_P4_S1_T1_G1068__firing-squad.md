@@ -72,20 +72,6 @@ This high-energy, fast-paced warm-up places one player opposite a line of their 
 
 **Objective:** To develop unfiltered spontaneity, active listening, and trust in one's first instinct, training players to accept their initial thoughts as valuable gifts.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-15) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Have the group form a straight line side-by-side. One player steps out to stand as the "responder," facing the line from about five to eight feet away. No props or special materials are required.
 

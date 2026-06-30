@@ -76,20 +76,6 @@ A high-energy, physical icebreaker that flips the classic competitive game of mu
 
 **Objective:** To build group mind, physical trust, and active support work by shifting the focus from individual survival to collective success through physical cooperation.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–15 (ideal 8-12) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | moderate |
-| Props | sturdy chairs, music player |
-| Audience | not required |
-
 ## Setup
 Arrange a circle of sturdy, armless chairs in the center of the room, using one fewer chair than the total number of players. Set up a music player with upbeat, high-energy tracks. Ensure the surrounding space is clear of tripping hazards.
 

@@ -79,20 +79,6 @@ One player acts as a presenter sharing a slideshow of a grand adventure, while t
 
 **Objective:** To develop group mind and peripheral awareness by co-creating balanced stage pictures that advance a narrative without verbal negotiation.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 4-6) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear stage area with moderate space. One player (the Narrator) stands to one side facing the audience, holding an imaginary remote control. The other players (the Slide Actors) stand ready at the back or sides of the playing area.
 

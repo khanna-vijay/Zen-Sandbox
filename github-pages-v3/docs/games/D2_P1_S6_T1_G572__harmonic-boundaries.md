@@ -74,20 +74,6 @@ Harmonic Boundaries is an active scene-work game where players practice navigati
 
 **Objective:** To train players in executing seamless, real-time consent check-ins and navigating physical or emotional boundaries without stalling narrative momentum. This builds active listening and teaches players to prioritize truth over pandering by honoring limits as creative opportunities.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–6 (ideal 3-6) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open playing space. A group of 3 to 6 players. Two players enter the scene, while the remaining players act as active observers. No physical props are required.
 

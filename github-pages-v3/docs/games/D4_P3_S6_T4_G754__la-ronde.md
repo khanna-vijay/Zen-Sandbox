@@ -77,20 +77,6 @@ A classic longform structure where players explore a shared universe through a s
 
 **Objective:** To develop format literacy, thematic synthesis, and world-building by sustaining a character across different relational contexts without relying on heavy plot-driving.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-10) |
-| Time | ~20 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand or sit in a semi-circle facing the performance space. No props are needed, though two chairs can be placed in the playing area.
 

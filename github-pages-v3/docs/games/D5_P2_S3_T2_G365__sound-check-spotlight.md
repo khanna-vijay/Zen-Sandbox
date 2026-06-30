@@ -79,20 +79,6 @@ Two players perform an active scene while a facilitator silently points to diffe
 
 **Objective:** Develops healthy vocal projection, crisp articulation, and spatial awareness ('playing for the back row') while maintaining emotional connection with a scene partner.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An indoor rehearsal or performance space. Identify 4-5 distinct target zones around the room (e.g., front row center, back-left corner, side exit). Two players stand on stage; the facilitator stands in the audience area; other players observe.
 

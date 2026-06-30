@@ -83,20 +83,6 @@ Scenic Shifts is a virtual-native narrative game where players use their video b
 
 **Objective:** To develop advanced Yes-And skills by integrating visual and verbal offers simultaneously, sharpening active listening, and building cohesive narrative worlds under digital constraints.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 6) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | none |
-| Modality | virtual |
-| Space | minimal |
-| Props | Zoom client with virtual background capability, Pre-prepared folder of 10-15 diverse virtual backgrounds per player |
-| Audience | not required |
-
 ## Setup
 Four to eight players on a video conferencing platform. Each player must have virtual backgrounds enabled and a pre-prepared folder of 10 to 15 diverse images (ranging from mundane offices to fantastical landscapes). Everyone must be in Gallery View. The facilitator establishes a speaking order in the chat.
 

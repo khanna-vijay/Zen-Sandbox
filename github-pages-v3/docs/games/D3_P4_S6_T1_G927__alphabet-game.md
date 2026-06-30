@@ -78,20 +78,6 @@ Two players perform a scene where each successive line of dialogue must begin wi
 
 **Objective:** To develop rapid justification skills under pressure, training players to make absurd or forced starting words make perfect sense within the context of an ongoing narrative.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An active playing area for two performers, with the remaining players forming a bench or line at the back or side of the stage, ready to tag in instantly.
 

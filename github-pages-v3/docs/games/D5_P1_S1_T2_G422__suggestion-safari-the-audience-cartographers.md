@@ -83,20 +83,6 @@ In this advanced training drill, designated off-stage observers act as cartograp
 
 **Objective:** To develop the advanced skill of room reading and reading a suggestion's intent. Performers learn to look past surface-level laughter to decode the audience's deeper emotional and narrative desires, adjusting their energy, physical presence, and scenic choices to match.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-15) |
-| Time | ~15 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Set up a performance space with a clear boundary between the stage and the audience. Select 2 to 3 participants to act as the Cartographers; they should sit near the front of the audience, facing slightly outward so they can easily observe both the stage and the crowd's physical and vocal reactions. The remaining participants form the audience, with 2 to 4 players designated to start on stage. No props are required.
 

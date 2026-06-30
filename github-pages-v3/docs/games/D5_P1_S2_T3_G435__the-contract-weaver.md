@@ -79,20 +79,6 @@ A structured, phased scene-work drill where players dynamically adjust their rel
 
 **Objective:** To develop audience-energy management and room reading by practicing controlled, readable shifts in the performer-audience contract, ensuring direct address serves the narrative rather than disrupting it.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-15) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 A clear performance space (stage) with the remaining workshop participants seated as the active audience. No props are required. Two to three players start on stage, while the facilitator stands near the audience to call out phase transitions.
 

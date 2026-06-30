@@ -79,20 +79,6 @@ In this high-utility skill drill, performers pause an active scene to step out o
 
 **Objective:** To develop advanced proficiency in breaking the fourth wall, managing audience energy, and treating the audience as an active scene partner whose feedback is instantly integrated into the performance.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-15) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | proficient |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An in-person performance space with a clear boundary between the stage and the audience. Two to three players start on stage, while the remaining participants act as the audience. The facilitator stands near the stage with a bell or a clear vocal signal to pause the action.
 

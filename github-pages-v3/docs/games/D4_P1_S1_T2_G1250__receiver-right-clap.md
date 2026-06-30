@@ -75,20 +75,6 @@ A high-focus circle warm-up where the person who receives an energy pass is not 
 
 **Objective:** To build peripheral awareness and group mind by training players to track interactions they are not directly involved in, preparing them to support and build on moments instantly.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 8-15) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a comfortable, open circle with clear lines of sight to everyone else. No props or materials are required.
 

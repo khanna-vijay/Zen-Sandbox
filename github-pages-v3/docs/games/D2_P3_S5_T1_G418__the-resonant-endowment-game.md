@@ -80,20 +80,6 @@ A slow-tempo partner exercise where players practice deep physical attunement an
 
 **Objective:** To develop active gifting and partner attunement by training players to treat their partner's ambiguous physical cues as deliberate, genius choices that deserve a high-stakes, supportive definition.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–20 (ideal 4-20) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Divide the group into pairs. Partners stand facing each other in a comfortable, distraction-free space with enough room to move slightly. No props or materials are required.
 

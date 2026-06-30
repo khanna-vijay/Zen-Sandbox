@@ -85,20 +85,6 @@ A high-energy, individual training drill where players rapidly cycle through abs
 
 **Objective:** To develop unfiltered spontaneity and 100% commitment by training the body and voice to respond instantly to abstract prompts, bypassing the analytical brain to access immediate physical and emotional expression.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–12 (ideal 4-12) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand scattered throughout the room, ensuring each person has at least a six-foot radius of personal space to move safely and dynamically. No props are required. The facilitator stands at the front or center where they can be clearly heard and can observe all participants.
 

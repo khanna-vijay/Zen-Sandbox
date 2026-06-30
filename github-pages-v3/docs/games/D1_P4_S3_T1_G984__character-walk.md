@@ -71,20 +71,6 @@ Players move dynamically through a shared space, using sudden prompts to alter t
 
 **Objective:** Develops physical characterization, spatial awareness, and unfiltered spontaneity by letting physical choices precede intellectual choices.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 1+ (ideal 6-25) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A large, open room free of obstacles. Players stand scattered throughout the space, ready to move. No props or materials are required.
 

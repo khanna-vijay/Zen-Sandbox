@@ -82,20 +82,6 @@ A solo performer delivers a direct-address monologue while a facilitator acts as
 
 **Objective:** To develop rapid audience-energy management and room-reading skills, training performers to break the fourth wall intentionally and adjust their stage presence to match or shift the room's energy.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | Colored cards (Green, Yellow, Red, Blue) |
-| Audience | not required |
-
 ## Setup
 One performer stands center stage facing the rest of the group, who act as the seated audience. The facilitator stands or sits in the front row, clearly visible to the performer, holding four colored cards: Green (Enthusiastic/Engaged), Yellow (Distracted/Bored), Red (Skeptical/Hostile), and Blue (Thoughtful/Contemplative). Prepare a list of simple, open-ended monologue prompts.
 

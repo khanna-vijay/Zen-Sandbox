@@ -77,20 +77,6 @@ Players work in rapid succession to build a three-person physical tableau based 
 
 **Objective:** To develop group mind and physical support work by making immediate, obvious offers that build on a teammate's physical and verbal premise without overthinking.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 8-15) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a large, open circle with a clear performance space in the center. No props or materials are required.
 

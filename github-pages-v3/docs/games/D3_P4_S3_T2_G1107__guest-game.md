@@ -75,20 +75,6 @@ One player enters a scene as an ordinary visitor with a simple, clear objective,
 
 **Objective:** To develop narrative architecture through the Platform and Tilt technique, teaching players how to establish a baseline reality and gradually introduce a disruptive, unified secret without rushing the reveal.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–6 (ideal 3-5) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A performance space with a clear entrance (such as a door). One player is designated as the Guest and steps out of earshot. The remaining two to five players (the Hosts) quickly agree on a shared secret (e.g., 'we accidentally shrank the dog' or 'we are hiding a fugitive'). The Guest returns, unaware of the secret, and prepares to enter.
 

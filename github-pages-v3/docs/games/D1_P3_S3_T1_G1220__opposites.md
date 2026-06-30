@@ -74,20 +74,6 @@ An active, physical exploration where players identify their own default persona
 
 **Objective:** To develop physical and emotional range by consciously shedding personal defaults, exploring status modulation, and building characters from a place of physical vulnerability and total commitment.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-16) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, unobstructed room with enough space for all participants to walk around freely without colliding. No props or chairs are required initially.
 

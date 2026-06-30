@@ -88,20 +88,6 @@ Somatic Weather Systems is an active, self-reflective exploration where players 
 
 **Objective:** Develops emotional fluidity, vulnerability, and somatic awareness by training the nervous system to express, sustain, and transition between complex, non-verbal emotional states.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-15) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand scattered throughout an open room, ensuring enough space to move safely without colliding. No props are needed. The facilitator acts as the guide.
 

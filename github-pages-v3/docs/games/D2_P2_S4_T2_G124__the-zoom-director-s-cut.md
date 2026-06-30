@@ -84,20 +84,6 @@ A dynamic virtual-platform game where a designated Director guides two to three 
 
 **Objective:** To develop rapid offer reception and endowment-acceptance in a virtual environment, training players to instantly 'Yes, And' unexpected narrative shifts without breaking character.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–12 (ideal 6-12) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Conducted on a video conferencing platform with chat functionality. All players start in gallery view. The facilitator designates one player as the Director and two to three players as the active Actors. The facilitator spotlights the active Actors so they are prominent on screen, while the remaining players act as the audience and suggestion pool.
 

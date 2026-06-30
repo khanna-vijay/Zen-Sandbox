@@ -79,20 +79,6 @@ In this game, players establish a simple, mundane base reality in a short scene,
 
 **Objective:** To develop the ability to establish a clear, simple base reality first, and then use extreme commitment and emotional fluidity to heighten and explore that reality through stylistic filters.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An active playing space at the front of the room with the rest of the group acting as the audience. No props or special staging are required, though two chairs can be used if needed.
 

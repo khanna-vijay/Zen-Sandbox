@@ -81,20 +81,6 @@ Two players engage in a focused, repetitive verbal exchange using a single neutr
 
 **Objective:** To develop deep active listening, precise offer reception, and controlled status modulation by isolating non-verbal subtext from narrative content.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (or rotating pairs in any group size)) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | low |
-| Physicality | low |
-| Modality | hybrid |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand or sit facing each other in pairs. This can be done with one pair performing for the group or with the entire room working in simultaneous pairs. No props or special staging are required; it functions equally well in physical spaces or video-conferencing grids.
 

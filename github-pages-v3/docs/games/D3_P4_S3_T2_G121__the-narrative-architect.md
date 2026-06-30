@@ -77,20 +77,6 @@ In this exercise, an off-stage director periodically freezes an active scene to 
 
 **Objective:** To develop narrative agility and structural control by practicing the 'Platform/Tilt' technique, forcing players to immediately justify external disruptions ('tilts') and integrate them into a coherent, escalating story arc.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 3-4) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two to three players stand in the performance space to perform a scene. One player (or the facilitator) stands off-stage to act as the 'Architect.' No props or special materials are required; the space should simply allow for clear vocal projection from the Architect.
 

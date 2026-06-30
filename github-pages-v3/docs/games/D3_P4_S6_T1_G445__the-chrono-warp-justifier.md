@@ -79,20 +79,6 @@ In this high-agility virtual narrative game, two players establish a grounded, r
 
 **Objective:** To master retroactive justification and narrative agility, training players to treat unexpected disruptions not as mistakes, but as logical truths that enrich the story's history.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 3-12) |
-| Time | ~15 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Conducted in a video conferencing platform. Two active players keep their cameras on; the facilitator and other participants turn their cameras off. No physical props are needed, but a chat window can be used for prompts.
 

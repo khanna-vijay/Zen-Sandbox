@@ -86,20 +86,6 @@ A multi-layered scene work exercise where a primary realistic scene is shadowed 
 
 **Objective:** To develop advanced Group Mind and Peripheral Awareness by training players to physically manifest abstract subtext and integrate non-verbal, spatial cues into a cohesive, multi-layered narrative.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–12 (ideal 5-8) |
-| Time | ~15 min |
-| Complexity | 4/5 |
-| Skill level | proficient |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Clear a moderate performance space. Divide the space into two zones: the Active Stage (center) and the Shadow Zone (the periphery, flanking or behind the active stage). No props are needed. Group size: 5-12 players (ideal 5-8).
 

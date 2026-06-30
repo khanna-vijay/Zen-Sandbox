@@ -75,20 +75,6 @@ A fast-paced, conducted lineup game where players are given common objects or co
 
 **Objective:** To develop unfiltered spontaneity and 100% commitment by forcing players to bypass their analytical filters and immediately justify an extreme, counter-intuitive emotional stance.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–10 (ideal 5-6) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Have 5 to 6 players stand in a shoulder-to-shoulder line facing the facilitator (who acts as the conductor). The remaining players act as the active audience. No props or special staging are required.
 

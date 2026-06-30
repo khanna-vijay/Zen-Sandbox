@@ -70,20 +70,6 @@ A high-energy, rapid-fire pairing exercise where players initiate a scene and mu
 
 **Objective:** To develop immediate offer reception and unfiltered spontaneity by replacing hesitation with enthusiastic, full-bodied agreement.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in pairs facing each other. No props or special staging required; can be played simultaneously in a circle or scattered across the room.
 

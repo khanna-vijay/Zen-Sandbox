@@ -74,20 +74,6 @@ A high-energy pairing exercise where one player introduces a simple physical mov
 
 **Objective:** To master the 'ladder' technique of escalation by incrementally increasing the intensity, size, and emotional stakes of a physical and vocal offer, while practicing active support and validation.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (or any size split into pairs)) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in pairs facing each other. No props or special staging required; can be played simultaneously across the room.
 

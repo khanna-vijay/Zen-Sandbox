@@ -81,20 +81,6 @@ A high-energy narrative exercise where two active players establish a scene with
 
 **Objective:** To develop the ability to rapidly raise stakes, adapt character objectives under pressure, and construct a compelling narrative arc using external constraints (Stakes-escalation reps).
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-16 (2 active players)) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space with no props. The group gathers as an audience, with two active players taking the stage. The facilitator stands nearby, ready to actively side-coach and manage the timer.
 

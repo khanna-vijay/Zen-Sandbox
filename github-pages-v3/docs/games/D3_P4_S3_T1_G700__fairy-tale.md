@@ -70,20 +70,6 @@ Fairy Tale Spine is a collaborative storytelling game where players construct a 
 
 **Objective:** Develops narrative architecture, thematic synthesis, and collaborative world-building by utilizing the Story Spine technique to ensure a satisfying story arc.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 3-5) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a line or a semi-circle facing the audience or each other. No props or physical materials are required.
 

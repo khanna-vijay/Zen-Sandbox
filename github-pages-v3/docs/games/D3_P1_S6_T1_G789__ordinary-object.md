@@ -78,20 +78,6 @@ Players take turns stepping into the spotlight to interact with a single, mundan
 
 **Objective:** Develops physical justification, spatial awareness, and spontaneous commitment by instantly treating a real prop as an imaginary object.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 4-10) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | An ordinary object provided by the audience (e.g., scarf, glove, keys) |
-| Audience | required |
-
 ## Setup
 Players stand in a line or semi-circle facing the performance space. The facilitator obtains one ordinary, safe physical object from the audience (such as a scarf, a glove, a water bottle, or a shoe).
 

@@ -80,20 +80,6 @@ A fast-paced ensemble exercise where players construct a multi-sensory thematic 
 
 **Objective:** To develop Group Mind and thematic synthesis by training players to track, echo, and connect disparate physical and verbal threads without falling into traditional, sequential narrative habits.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 5-7) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a comfortable circle facing inward, ensuring everyone has clear sightlines and physical space to move. No props or materials are required. The facilitator stands ready to offer an abstract prompt and guide the pacing.
 

@@ -81,20 +81,6 @@ Players perform scenes inspired by randomly generated online encyclopedia articl
 
 **Objective:** Develops rapid editing skills, pacing, and the ability to quickly establish a base reality from a random text prompt while serving the overall rhythm of the show.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-10) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | Projector, Computer with internet access, Screen or back wall |
-| Audience | required |
-
 ## Setup
 Set up a projector and computer with internet access, displaying a collaborative online encyclopedia. Project the screen onto the back wall of the stage or a screen visible to both players and the audience. Position a designated Tech Operator at the computer.
 

@@ -73,20 +73,6 @@ Four players collaborate on a scene where two main characters try to navigate a 
 
 **Objective:** To develop advanced justification skills by forcing players to accept, integrate, and rationalize highly disruptive, absurd choices while maintaining a grounded base reality.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–4 (ideal 4) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Four players stand in the playing space. Two players step forward to begin a grounded scene. The other two players stand on the wings, designated as the 'evil twins' (one assigned to each active player). No props or special staging are required.
 

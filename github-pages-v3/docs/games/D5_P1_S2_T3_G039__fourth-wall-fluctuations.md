@@ -83,20 +83,6 @@ A solo-performer training drill where an actor delivers a monologue while a faci
 
 **Objective:** To develop real-time audience-energy management, vocal projection, and purposeful direct address by treating the audience's shifting needs as active, physical scene partners.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | Audience Cue Cards, Bell or chime (optional) |
-| Audience | not required |
-
 ## Setup
 One performer stands center stage. The facilitator (or another player) acts as the Audience Proxy and sits in the audience area with a deck of printed or written Audience Cue Cards and an optional bell or chime. The rest of the group sits as the observing audience. The performer is given a simple, open-ended monologue prompt.
 

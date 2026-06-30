@@ -78,20 +78,6 @@ This exercise introduces a structured, auditory feedback loop to help players re
 
 **Objective:** To develop advanced boundary navigation, active listening, and the technique of constructive 'cut calls' by prioritizing player safety and character integrity over cheap comedic choices.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–6 (ideal 4-6) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | small bell or chime, gong or loud bell |
-| Audience | not required |
-
 ## Setup
 Arrange a moderate physical space for a standard two-player scene with the remaining 2 to 4 players and the facilitator sitting as active observers. Place a small, soft chime or bell and a larger, distinct gong or loud bell near the facilitator. Conduct a brief pre-game check-in where players can share any hard physical or thematic boundaries for the session.
 

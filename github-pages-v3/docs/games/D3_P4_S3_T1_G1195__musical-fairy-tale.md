@@ -84,20 +84,6 @@ A collaborative musical storytelling game where players reconstruct a well-known
 
 **Objective:** To develop narrative architecture and vocal craft by using the Story Spine framework to advance a plot collaboratively while adapting to diverse musical genres and rhythms.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–8 (ideal 6-8) |
-| Time | ~10 min |
-| Complexity | 4/5 |
-| Skill level | proficient |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | Keyboard or musical instrument for accompaniment |
-| Audience | required |
-
 ## Setup
 An in-person performance space with a stage area and seating for an audience. A live musician (keyboardist, guitarist, or multi-instrumentalist) is positioned to accompany the players. 6 to 8 proficient players stand in a line facing the audience.
 

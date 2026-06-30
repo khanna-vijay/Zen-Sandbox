@@ -74,20 +74,6 @@ A structured partner exercise designed to normalize boundary-setting and consent
 
 **Objective:** To build muscle memory for using and respecting 'Cut' calls, navigating personal boundaries in real-time, and practicing non-defensive active listening and negotiation.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-16 (in pairs)) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open room with enough space for pairs to work simultaneously or in front of the group. No props or materials are required. Divide the group into pairs.
 

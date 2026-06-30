@@ -76,20 +76,6 @@ A high-energy, physical circle game where players work in trios to simulate a sp
 
 **Objective:** To develop group mind, physical coordination, and precise timing by training players to anticipate and react to non-verbal cues within a fast-paced ensemble.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 8-15) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a wide, clear circle with enough space to jump and duck safely. No props are required.
 

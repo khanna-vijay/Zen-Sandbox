@@ -77,20 +77,6 @@ Two players perform a scene where one speaks freely while the other must read th
 
 **Objective:** Develops the skill of justifying the absurd, active listening, and establishing a strong base reality under highly unpredictable constraints.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–2 (ideal 2 players) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | Audience member's cellphone with text history |
-| Audience | required |
-
 ## Setup
 Two players stand on stage. The facilitator borrows a volunteer's mobile phone with a text message conversation open. One player holds this phone.
 

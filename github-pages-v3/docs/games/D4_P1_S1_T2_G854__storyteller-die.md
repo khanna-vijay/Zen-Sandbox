@@ -85,20 +85,6 @@ Players stand in a line while a conductor points to different storytellers in ra
 
 **Objective:** To develop deep peripheral awareness, active listening, and thread-tracking skills, allowing players to merge their individual voices into a single, cohesive group mind under high-pressure conditions.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 5-8) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Players stand in a horizontal line facing the audience. One person acts as the Conductor, standing with their back to the audience, facing the line of players. No props or materials are required.
 

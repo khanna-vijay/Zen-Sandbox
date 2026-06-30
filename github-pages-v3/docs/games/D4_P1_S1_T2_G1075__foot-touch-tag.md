@@ -73,20 +73,6 @@ Players form pairs touching foot-to-foot and swap names with their partners, whi
 
 **Objective:** To develop peripheral awareness, active listening, and split-second cognitive processing by decoupling physical self-identity from verbal cues while maintaining physical readiness.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–30 (ideal 10-20) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A large, open room free of obstacles. Players form pairs and spread out across the space. One player is designated as the "Caller" and stands alone in the center of the room. Within each pair, partners stand side-by-side, touching the outer edge of one foot to their partner's adjacent foot.
 

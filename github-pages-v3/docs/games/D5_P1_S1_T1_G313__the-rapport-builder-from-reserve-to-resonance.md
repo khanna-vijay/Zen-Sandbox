@@ -75,20 +75,6 @@ Two performers execute a scene starting from a highly dry, slow, or abstract pre
 
 **Objective:** Develops the ability to read a room's unspoken energy and proactively calibrate performance intensity, clarity, and projection to transform skepticism into deep engagement.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A standard performance space with two chairs. The remaining participants sit in the audience area as the Audience Proxy. No props are required.
 

@@ -83,20 +83,6 @@ The Story Chronometer is a structured narrative exercise where two to four playe
 
 **Objective:** To master narrative architecture by practicing the deliberate progression of a scene through distinct phases (Platform, Tilt, Complication, Climax, and Resolution) while rapidly justifying unexpected external offers.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–5 (ideal 3-5 (2-4 players + 1 facilitator)) |
-| Time | ~10 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | Timer or stopwatch, Pre-prepared narrative prompts |
-| Audience | not required |
-
 ## Setup
 This game is played virtually. Two to four active players turn their cameras on, while the facilitator keeps their camera on to act as the timekeeper. The facilitator needs a stopwatch and a list of pre-prepared, escalating narrative prompts (ranging from subtle environmental shifts to catastrophic climaxes). The remaining participants act as an active audience with cameras off.
 

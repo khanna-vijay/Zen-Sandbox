@@ -85,20 +85,6 @@ The Shared Synapse is an advanced ensemble exercise where players collaborativel
 
 **Objective:** To develop deep Group Mind and Peripheral Awareness by training players to track a complex narrative thread while simultaneously reading the physical and energetic cues of the ensemble to self-regulate turn-taking.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–8 (ideal 4-8) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a comfortable, open circle. The space should be quiet to allow for subtle vocal and physical cues. No props or materials are required.
 

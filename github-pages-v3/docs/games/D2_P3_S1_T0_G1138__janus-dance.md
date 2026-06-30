@@ -77,20 +77,6 @@ Two players engage in a slow, continuous dance with their heads resting on each 
 
 **Objective:** To develop deep active listening and physical empathy by stripping away visual cues, forcing players to support and elevate their partner's choices through physical and vocal attunement.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–2 (ideal pairs) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | low |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Clear a safe, open space. Players pair up. No props are needed, but ensure the room is quiet enough for players to hear subtle vocal shifts and breathing.
 

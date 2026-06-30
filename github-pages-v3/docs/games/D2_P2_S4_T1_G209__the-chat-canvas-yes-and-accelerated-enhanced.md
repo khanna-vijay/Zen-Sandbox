@@ -83,20 +83,6 @@ This high-energy virtual training game transforms the video-conferencing chat bo
 
 **Objective:** To master rapid offer reception and active listening across multiple sensory inputs, training players to instantly validate and integrate diverse narrative gifts without interrupting the verbal flow.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–9 (ideal 5-9) |
-| Time | ~15 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Conducted in a virtual meeting space. All players must use Gallery View, keep their chat window open and pinned to the side, and have their microphones ready to unmute instantly. No physical props or special software are required.
 

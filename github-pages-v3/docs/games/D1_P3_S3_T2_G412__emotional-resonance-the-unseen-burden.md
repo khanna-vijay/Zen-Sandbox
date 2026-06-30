@@ -76,20 +76,6 @@ A solo physical drill where players step into the space to silently manipulate a
 
 **Objective:** To develop deep intrapersonal vulnerability and physical precision by translating complex, abstract emotional states into concrete, non-verbal object work and spatial relationships.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–15 (ideal 5-15) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, distraction-free playing space with a clear performance area at the center. The remaining players form a supportive circle around this central space. The facilitator should prepare a list of evocative, contrasting object-emotion pairings beforehand (e.g., holding a delicate glass sculpture while feeling explosive rage, or carrying a heavy boulder while feeling profound peace).
 

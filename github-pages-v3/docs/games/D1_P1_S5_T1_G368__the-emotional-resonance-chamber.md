@@ -77,20 +77,6 @@ A low-energy, high-focus exercise where players transition from a simple, low-st
 
 **Objective:** To develop absolute commitment to internal emotional states, master the power of physical stillness, and build the capacity to rapidly access and release deep feelings without relying on external theatricality.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–7 (ideal 3-6) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, quiet room with minimal distractions. Three to seven players stand or sit in a loose circle or casual stage arrangement. No props or special materials are required.
 

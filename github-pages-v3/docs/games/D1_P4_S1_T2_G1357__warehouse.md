@@ -72,20 +72,6 @@ Players move through a shared imaginary space filled with floor-to-ceiling shelv
 
 **Objective:** To develop unfiltered spontaneity and trust in one's first instinct while simultaneously practicing physical object work and spatial awareness.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 1+ (ideal 6-20) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open room with enough space for all participants to walk around safely. No physical props or chairs are needed.
 

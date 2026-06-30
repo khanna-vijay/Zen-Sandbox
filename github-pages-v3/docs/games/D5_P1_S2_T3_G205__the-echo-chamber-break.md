@@ -77,20 +77,6 @@ A dynamic training drill where players perform a standard scene but must periodi
 
 **Objective:** To develop precise audience-energy management and seamless fourth-wall breaks, training players to treat the audience as an active, responsive scene partner.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-15) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | Echo Meter Display (placards, whiteboard, or digital display) |
-| Audience | required |
-
 ## Setup
 Set up a performance space with an audience facing the stage. Prepare an Echo Meter display (such as a whiteboard with numbers 1-5, large numbered cards, or a digital slider) visible to both the players and the facilitator.
 

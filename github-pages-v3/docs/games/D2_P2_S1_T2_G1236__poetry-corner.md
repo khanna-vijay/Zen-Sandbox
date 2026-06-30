@@ -78,20 +78,6 @@ Poetry Corner is a collaborative verbal drill where players construct a cohesive
 
 **Objective:** To develop deep active listening and immediate offer reception by utilizing the Last Word Response technique, preventing players from planning ahead and encouraging unfiltered spontaneity.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-10) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | none |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in pairs facing each other, or in a small circle of up to 10 players. No props, stages, or writing materials are required; the focus is entirely on vocal delivery and auditory focus.
 

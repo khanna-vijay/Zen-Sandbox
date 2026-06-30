@@ -74,20 +74,6 @@ Players are called at random to step into the space, immediately initiating with
 
 **Objective:** To develop rapid world-building and justification skills by establishing a cohesive base reality from two independent, simultaneous physical and verbal offers.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-12) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a line-up or semi-circle facing the playing area. The facilitator assigns each player a number from 1 to N. No props or special materials are needed.
 

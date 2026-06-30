@@ -70,20 +70,6 @@ In this exercise, players collaboratively construct a single, strictly chronolog
 
 **Objective:** To master narrative architecture and pacing by utilizing the Story Spine technique, training players to resist distractions and serve the core story.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 4-8) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a semi-circle facing the facilitator. No props or special staging are required.
 

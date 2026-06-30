@@ -71,20 +71,6 @@ This is a rapid-fire, high-energy word association drill played in a circle. Ins
 
 **Objective:** Develops unfiltered spontaneity and active listening by forcing players to focus on the exact ending of an offer and trust their very first cognitive response without editing.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 4-15) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle facing inward. No props or physical materials are required. The space should be clear of obstructions to allow for comfortable standing.
 

@@ -93,20 +93,6 @@ A high-intensity circle drill where players absorb their neighbor's physical and
 
 **Objective:** Develops unfiltered spontaneity and emotional fluidity by training players to instantly access, scale, and physically embody diverse emotional states without intellectual hesitation.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, moderate-sized space. 4 to 8 players stand in a wide, comfortable circle with enough room for dynamic physical movement. No props are required. The facilitator stands outside the circle to establish a steady, medium-paced rhythm and call out emotional prompts.
 

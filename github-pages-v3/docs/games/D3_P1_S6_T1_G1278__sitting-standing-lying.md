@@ -79,20 +79,6 @@ A dynamic three-player scene where players must constantly maintain a strict phy
 
 **Objective:** To develop physical justification, peripheral awareness, and rapid offer reception by forcing players to find logical, character-driven reasons for sudden, arbitrary physical changes.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 3 players on stage) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | high |
-| Modality | in_person |
-| Space | moderate |
-| Props | Chairs |
-| Audience | not required |
-
 ## Setup
 Place one or two chairs on the stage. Three players step up to perform. The rest of the group watches as the audience/support.
 

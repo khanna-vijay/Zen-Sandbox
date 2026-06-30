@@ -73,20 +73,6 @@ A high-energy, fast-paced warm-up where a single player attempts to generate a s
 
 **Objective:** To bypass the internal editor, embrace the first thought, and build comfort with rapid-fire spontaneity under light, playful pressure.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | tennis ball or knotted towel |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle. The facilitator provides a small, easily passable object, such as a tennis ball, a soft beanbag, or a knotted towel.
 

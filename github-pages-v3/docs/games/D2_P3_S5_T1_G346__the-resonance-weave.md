@@ -82,20 +82,6 @@ A two-player connection exercise where partners build a rich, subtextual relatio
 
 **Objective:** To develop active gifting and endowment-acceptance skills by training players to read non-verbal cues, modulate status dynamically, and make their partner look brilliant through validating character offers.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (or multiple pairs)) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Pairs stand facing each other, about four feet apart, in a quiet space with enough room to move comfortably. No props or materials are required.
 

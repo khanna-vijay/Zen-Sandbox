@@ -77,20 +77,6 @@ Captured Moments is a long-form montage format where players perform a series of
 
 **Objective:** To develop format literacy, montage transitions, and rapid world-building by using visual suggestions to establish a strong base reality and serve the overall flow of the piece.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-12) |
-| Time | ~25 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | Projector, Photographs, Screen |
-| Audience | required |
-
 ## Setup
 Set up a projector and screen on stage, clearly visible to both the players and the audience. Prepare a curated slideshow of diverse, evocative photographs (e.g., landscapes, portraits, unusual situations, historical moments) controlled by a tech operator or facilitator. Players stand in the wings or off-stage, ready to enter.
 

@@ -71,20 +71,6 @@ In this scene-based exercise, players secretly select a status rank from one to 
 
 **Objective:** To master status modulation and active listening by dynamically adjusting one's own status in response to others, practicing the status seesaw technique to make scene partners look brilliant.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–8 (ideal 3-5) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Clear a moderate performance space. Have 3 to 5 players stand in the playing area while the remaining participants act as observers. No props are required, though chairs can be used to establish physical levels.
 

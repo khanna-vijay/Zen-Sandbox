@@ -76,20 +76,6 @@ This is a fast-paced, physical montage game where players use the classic freeze
 
 **Objective:** To develop advanced thematic synthesis, group mind, and callback techniques by tracking narrative threads and physical motifs over multiple rapid-fire scenes.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-12) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a semi-circle backline facing a clear performance space. No props or chairs are used.
 

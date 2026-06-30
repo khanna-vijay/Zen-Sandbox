@@ -75,20 +75,6 @@ Inside Out Amplification is a somatic character-generation exercise that invites
 
 **Objective:** Develops emotional fluidity, vulnerability, and physical commitment by teaching players to use their authentic internal state as a foundation for character work, utilizing the Emotional Dial technique to scale expression from a subtle internal spark to a fully realized physical and vocal performance.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-20) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, comfortable room with enough space for all participants to stand, sit, or lie down without crowding each other. No props or materials are required. The facilitator should prepare a calm, focused atmosphere.
 

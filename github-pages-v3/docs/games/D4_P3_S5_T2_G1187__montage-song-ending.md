@@ -79,20 +79,6 @@ This high-energy, collaborative musical game is designed to close a multi-narrat
 
 **Objective:** To develop thematic synthesis and ensemble cohesion by weaving disparate narrative threads into a singular, satisfying musical conclusion.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~5 min |
-| Complexity | 4/5 |
-| Skill level | proficient |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 A performance space with a clear stage area. An accompanist (keyboardist, guitarist, or a designated beatboxer from the ensemble) is highly recommended. The players should have just completed a series of scenes (or a simulated long-form set with two to three distinct storylines) so they have narrative material to draw from.
 

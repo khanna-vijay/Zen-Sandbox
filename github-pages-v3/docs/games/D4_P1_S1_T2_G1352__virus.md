@@ -72,20 +72,6 @@ A high-energy, physical warm-up where a group of infected players attempts to ta
 
 **Objective:** Develops peripheral awareness, group mind, and spatial tracking. Players must monitor multiple moving targets and teammates simultaneously, practicing non-verbal coordination under high-energy conditions.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 10-20) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | large_open |
-| Props | empty plastic soft drink bottle |
-| Audience | not required |
-
 ## Setup
 A large, open room clear of obstacles. One empty, clean plastic bottle (2-liter or 20-ounce soft drink bottle). All players scatter across the space.
 

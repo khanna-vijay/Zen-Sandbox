@@ -79,20 +79,6 @@ A structured narrative scene-work game where a facilitator's verbal cue forces p
 
 **Objective:** To develop narrative architecture and master the Platform/Tilt technique by training players to instantly accept unexpected narrative shifts, raise stakes, and logically justify escalating complications using the 'if true, what else is true' principle.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An in-person playing space with two to three active players on stage and the remaining group acting as active observers. A facilitator stands to the side, ready to call out prompts. No props or special materials are required.
 

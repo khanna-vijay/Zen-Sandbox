@@ -81,20 +81,6 @@ In this exercise, a designated Conductor acts as a live translator of the audien
 
 **Objective:** To develop room-reading and energy-calibration skills, training performers to actively monitor, interpret, and adapt to the audience's physical and vocal feedback as a dynamic scene input.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-15) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Arrange a standard performance space with a clear stage area and audience seating. Two to three players start on stage, one player is designated as the initial Conductor sitting in the center of the audience, and the remaining players act as the active audience. For virtual play, all non-performing players keep their cameras on to serve as the gallery audience.
 

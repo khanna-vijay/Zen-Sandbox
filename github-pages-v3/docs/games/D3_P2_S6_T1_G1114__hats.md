@@ -72,20 +72,6 @@ Two players wear physical hats and perform a grounded, realistic scene. The unde
 
 **Objective:** To develop the skill of justification (specifically justifying absurd or sudden physical movements) while maintaining a strong base reality and active listening.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–2 (ideal 2) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | Two hats |
-| Audience | not required |
-
 ## Setup
 Two players stand in the performance space, each wearing a physical hat (ideally of similar size and secure fit). No other props are needed. The facilitator establishes a simple, grounded suggestion for a relationship and location.
 

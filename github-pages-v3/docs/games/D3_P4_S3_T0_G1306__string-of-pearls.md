@@ -73,20 +73,6 @@ In this collaborative storytelling exercise, players construct a narrative from 
 
 **Objective:** Develops narrative architecture, thematic synthesis, and peripheral awareness by forcing players to look at the macro-structure of a story and fill in logical or thematic gaps.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–10 (ideal 7-8) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear line on the floor where 7 to 8 players can stand side-by-side. The rest of the group watches as an active audience.
 

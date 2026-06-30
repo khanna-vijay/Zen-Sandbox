@@ -77,20 +77,6 @@ A high-utility training drill where a standard scene is interrupted by sudden gl
 
 **Objective:** To master purposeful fourth-wall breaks, manage audience energy dynamically, and practice landing sudden narrative transitions with high stage clarity.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-15) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | bell or buzzer (optional) |
-| Audience | required |
-
 ## Setup
 An open performance space with a clear boundary between the stage and the audience. The facilitator sits in the audience with an optional bell, buzzer, or clear vocal cue. Two to four players start on stage, while the remaining participants act as the active audience.
 

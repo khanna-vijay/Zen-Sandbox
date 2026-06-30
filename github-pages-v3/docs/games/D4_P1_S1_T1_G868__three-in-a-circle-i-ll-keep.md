@@ -80,20 +80,6 @@ Players work together to construct a three-dimensional physical tableau, one ele
 
 **Objective:** Develops peripheral awareness, physical offer reception, and group mind by training players to visually support an existing stage picture and establish a clear base reality.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-15) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a large circle with an open space in the center. No props or materials are required.
 

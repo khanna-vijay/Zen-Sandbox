@@ -84,20 +84,6 @@ A fast-paced virtual storytelling engine where players use video conferencing fe
 
 **Objective:** To develop advanced-beginner skills in virtual world-building using the C.R.O.W. framework (Character, Relationship, Objective, Where). Players learn to instantly establish and justify environmental shifts and character identities while serving a singular, cohesive story.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–10 (ideal 6-10) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | Zoom client with virtual backgrounds enabled, Library of virtual background images |
-| Audience | not required |
-
 ## Setup
 Conducted on a video conferencing platform with virtual backgrounds and participant renaming enabled. Players should have a pre-loaded library of diverse virtual background images ranging from mundane offices to fantastical landscapes. All players start in Gallery View with cameras on and microphones muted until called upon.
 

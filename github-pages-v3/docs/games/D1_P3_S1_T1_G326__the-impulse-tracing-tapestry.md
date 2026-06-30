@@ -89,20 +89,6 @@ A deep, somatic ensemble exercise where a single player verbally tracks their re
 
 **Objective:** To develop unfiltered spontaneity and vulnerability by practicing real-time somatic self-observation, while training the ensemble to translate abstract emotional states into non-mimetic physical and vocal expressions.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–15 (ideal 5-15) |
-| Time | ~20 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, quiet room with moderate space. The players stand in a relaxed circle. No props or materials are required. The environment should be quiet and free from external distractions to support deep concentration.
 

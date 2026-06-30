@@ -82,20 +82,6 @@ A high-connection partner game where players build a rich, unspoken relationship
 
 **Objective:** To master physical empathy and emotional-echoing, allowing players to practice radical 'Yes, And' agreement through non-verbal status shifts and emotional alignment.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (in pairs)) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | low |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in pairs facing each other with comfortable space to move. For online play, players position themselves mid-torso up in the camera frame, ensuring their hands and facial expressions are clearly visible.
 

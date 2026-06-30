@@ -80,20 +80,6 @@ A two-player scene-work exercise where one player is restricted to labeling thei
 
 **Objective:** To develop deep partner empathy, active listening, and emotional fluidity by treating a partner's physical and vocal cues as the primary source of scene information.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (in pairs)) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in pairs facing each other in a clear space. No props or special staging are required. Designate one player as Player A (the Free Speaker) and the other as Player B (the Emotional Mirror).
 

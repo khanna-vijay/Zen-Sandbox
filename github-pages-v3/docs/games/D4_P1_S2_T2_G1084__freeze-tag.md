@@ -80,20 +80,6 @@ Two players initiate a highly physical scene in the center of the space. At any 
 
 **Objective:** To develop rapid physical justification, active listening, and seamless support work (tap-ins) while building a shared group mind.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-15) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear stage area with the remaining players forming a line or semi-circle at the back or sides of the playing space, ready to jump in. No props or chairs needed.
 

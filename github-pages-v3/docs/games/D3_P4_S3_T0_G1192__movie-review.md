@@ -75,20 +75,6 @@ Two players act as talk-show hosts or film critics discussing a newly released, 
 
 **Objective:** Develops narrative architecture, active gifting, and justification by training players to seamlessly transition between narration and scenic action.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–10 (ideal 6-8) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Place two chairs downstage facing the audience for the critics. The remaining players (the ensemble) stand in a line upstage, ready to jump into the playing space.
 

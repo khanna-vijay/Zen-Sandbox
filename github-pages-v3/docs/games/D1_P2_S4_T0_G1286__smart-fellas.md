@@ -71,20 +71,6 @@ Players stand in a circle and count upward sequentially while navigating a trick
 
 **Objective:** Develops vocal articulation, rhythmic pacing, mental agility, and the ability to fail joyfully under pressure.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 8-15) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | none |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle facing inward. No props or special materials are required.
 

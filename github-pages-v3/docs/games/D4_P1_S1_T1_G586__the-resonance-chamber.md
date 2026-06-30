@@ -85,20 +85,6 @@ An ensemble-driven exercise where players collectively construct a rich physical
 
 **Objective:** To cultivate deep group mind and peripheral awareness by prioritizing environmental world-building and physical relationships over verbal plot generation.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–7 (ideal 3-7) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear, open playing space with moderate room for movement. 3 to 7 players stand in a loose circle facing inward. No props or chairs are needed. The facilitator stands outside the playing area to deliver the initial stimulus.
 

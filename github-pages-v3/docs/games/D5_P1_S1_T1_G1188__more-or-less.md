@@ -77,20 +77,6 @@ A dynamic showcase format where individual players take turns directing and cast
 
 **Objective:** To develop room-reading skills and energy calibration, teaching players to sense audience engagement, manage narrative pacing, and treat the audience's energy as an active guide for scene duration.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 6-12) |
-| Time | ~30 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An performance space with a clear stage area and an audience area. Players sit or stand on the wings/sidelines, ready to be cast. No props or special materials are required.
 

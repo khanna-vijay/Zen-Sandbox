@@ -73,20 +73,6 @@ A warm, low-energy ensemble-building exercise where players take turns sitting i
 
 **Objective:** To develop deep ensemble trust, practice active gifting through positive reinforcement, and help players internalize their unique strengths as seen by their peers.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 8-16) |
-| Time | ~10 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | one chair |
-| Audience | not required |
-
 ## Setup
 Place a single chair at the front of the room facing the rest of the group, who are seated or standing in a semi-circle. No other props are needed.
 

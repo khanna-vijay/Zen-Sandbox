@@ -85,20 +85,6 @@ A fast-paced, non-narrative circle exercise where players pass a continuous chai
 
 **Objective:** To cultivate unfiltered spontaneity and emotional fluidity by training players to bypass cognitive filtering, accept their first instinct as a gift, and rapidly translate internal impulses into distinct physical, vocal, or emotional expressions.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–12 (ideal 4-12) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a shoulder-to-shoulder circle in a clear, open space. No props are required. Before starting, the facilitator leads a brief physical shake-out and vocal sigh to release tension and establish a supportive, non-judgmental group agreement.
 

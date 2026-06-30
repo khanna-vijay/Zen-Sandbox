@@ -80,20 +80,6 @@ The Sonic Loom is an advanced ensemble exercise where players co-create a series
 
 **Objective:** To develop Group Mind and Thematic Synthesis by training players to extract subtextual themes (A-to-C association) and seamlessly integrate external, non-verbal auditory stimuli into their scene work.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–9 (ideal 5-9) |
-| Time | ~25 min |
-| Complexity | 4/5 |
-| Skill level | proficient |
-| Energy | medium |
-| Physicality | low |
-| Modality | hybrid |
-| Space | moderate |
-| Props | soundboard or audio software with pre-selected ambient soundscapes |
-| Audience | not required |
-
 ## Setup
 Arrange the playing space with a clear stage area and a semi-circle of chairs for off-stage players. Set up a laptop, tablet, or soundboard connected to speakers, pre-loaded with 5-8 distinct, loopable ambient soundscapes (e.g., metallic drone, rain on glass, low-frequency hum, ticking clock, whimsical wind chimes). Designate one person as the Audio Weaver to control the soundscapes.
 

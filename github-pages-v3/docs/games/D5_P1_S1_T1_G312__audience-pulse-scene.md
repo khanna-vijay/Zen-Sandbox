@@ -76,20 +76,6 @@ A virtual scene-work game where active players perform a scene while the rest of
 
 **Objective:** To develop real-time room reading and energy-calibration skills. Players learn to treat audience reactions not as distractions, but as immediate, actionable offers that dictate the emotional direction of the scene.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 10-50) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Conducted on a virtual video platform with gallery view enabled. Active players (2-3) keep their cameras on, while the remaining participants (the audience) keep their cameras on or off but must have their reaction menu ready. No physical props or space are required.
 

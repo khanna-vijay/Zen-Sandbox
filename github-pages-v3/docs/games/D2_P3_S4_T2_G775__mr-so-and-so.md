@@ -78,20 +78,6 @@ In this exercise, a small group of players establishes a rich, detailed backstor
 
 **Objective:** To practice high-level endowment-acceptance and active gifting. Players learn to listen closely to offstage setup details and immediately physicalize and vocalize those traits upon entry, while the setup players learn to support and celebrate their partner's choices.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–6 (ideal 4-5) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An in-person playing space with 4 to 6 players. One player is designated as the 'Guest' and steps slightly aside (or turns their back, but remains close enough to hear the conversation clearly). The remaining 3 to 5 players stand in a semi-circle on stage, establishing a realistic, grounded environment (e.g., a retirement party, a faculty lounge, or a family reunion).
 

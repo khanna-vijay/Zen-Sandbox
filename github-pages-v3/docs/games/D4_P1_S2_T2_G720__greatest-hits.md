@@ -78,20 +78,6 @@ Two charismatic hosts sell a themed compilation album to the audience, inventing
 
 **Objective:** Develops group mind, active gifting, and vocal support by requiring players to instantly harmonize, back up, or lead musical numbers based on minimal information.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–8 (ideal 6) |
-| Time | ~7 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Two hosts stand downstage left and right. A lineup of four singers stands upstage. No props or instruments are required; the singers perform a cappella.
 

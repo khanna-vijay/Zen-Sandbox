@@ -83,20 +83,6 @@ A high-focus circle drill where players receive a neutral physical and vocal imp
 
 **Objective:** To develop emotional fluidity and mastery over emotional substitution by isolating physical and vocal forms, demanding 100% commitment to rapid, authentic emotional shifts.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle facing inward. No props or materials are required. The space should be quiet enough to hear subtle vocal inflections.
 

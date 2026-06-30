@@ -71,20 +71,6 @@ A fast-paced solo or group warm-up where players move through the space, pointin
 
 **Objective:** To develop unfiltered spontaneity and trust in one's first instinct by deliberately breaking the cognitive link between sight and language.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 1+ (ideal Any) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open room with various everyday objects. Players spread out across the space. No props or special materials needed.
 

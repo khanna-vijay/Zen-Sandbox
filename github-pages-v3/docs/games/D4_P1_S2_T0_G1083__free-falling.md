@@ -74,20 +74,6 @@ This is a physical ensemble exercise where one player stands in the center of a 
 
 **Objective:** To cultivate a deep sense of group mind, physical support work, and mutual vulnerability by sharing physical responsibility for a teammate's safety.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 8-12) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | high |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a tight, shoulder-to-shoulder circle on a flat, non-slip floor. One volunteer stands in the exact center of the circle. No props are required.
 

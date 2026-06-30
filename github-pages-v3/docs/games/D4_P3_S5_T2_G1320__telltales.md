@@ -81,20 +81,6 @@ A long-form narrative format for exactly five players where each performer initi
 
 **Objective:** To develop thematic synthesis and narrative architecture by connecting disparate solo threads into a singular, cohesive ensemble piece without ever sharing the stage simultaneously.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–5 (ideal 5) |
-| Time | ~25 min |
-| Complexity | 4/5 |
-| Skill level | proficient |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Five players stand in a line or semi-circle at the back or sides of the stage (the off-stage area). The stage is clear. The facilitator or audience provides five distinct, unrelated suggestions (e.g., an object, a location, a secret, a profession, a headline), one assigned to each player.
 

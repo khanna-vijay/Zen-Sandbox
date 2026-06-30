@@ -77,20 +77,6 @@ In this partner-based exercise, one player acts as the storyteller while the oth
 
 **Objective:** To develop rapid justification skills, practice accepting and integrating unexpected offers, and maintain narrative cohesion under pressure.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-3) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | none |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players pair up and stand or sit facing each other in a shared space. No props, materials, or special staging are required.
 

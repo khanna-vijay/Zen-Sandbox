@@ -74,20 +74,6 @@ A high-energy, non-verbal warm-up where players occupy designated perimeter spot
 
 **Objective:** To develop peripheral awareness, non-verbal communication, and group mind by reading subtle physical cues and coordinating movement without speaking.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–7 (ideal 5-7) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Clear a moderate-sized playing space. Define four to six perimeter stations (using actual room corners, chairs, or tape marks). One player starts in the center, while the remaining five to six players occupy the perimeter spots.
 

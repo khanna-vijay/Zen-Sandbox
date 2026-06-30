@@ -71,20 +71,6 @@ Players improvise a series of interconnected scenes where the chronological orde
 
 **Objective:** Develops narrative architecture, pacing, and room reading by training players to explore cause-and-effect relationships out of chronological order.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 4-8) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An in-person performance space with a clear stage area and an audience. A facilitator acts as the host to moderate the timeline choices. No props or special materials are required.
 

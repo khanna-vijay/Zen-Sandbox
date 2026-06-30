@@ -74,20 +74,6 @@ A sensory-deprivation ensemble game where players move through space with their 
 
 **Objective:** To develop peripheral awareness, non-visual spatial mapping, and group mind by relying on sound, touch, and intuition to navigate a shared space safely.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–25 (ideal 8-15) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | large_open |
-| Props | towel or scarf |
-| Audience | not required |
-
 ## Setup
 A large, open room cleared of all physical obstacles. A soft scarf or small towel is required as a prop. Players stand in a circle and close their eyes.
 

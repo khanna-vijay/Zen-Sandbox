@@ -84,20 +84,6 @@ A two-player scene-work exercise where players pause before speaking to scan the
 
 **Objective:** To develop deep active listening and precise offer reception by training players to look past literal words and respond directly to their partner's emotional and status subtext.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2) |
-| Time | ~7 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | hybrid |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two players face each other (in-person or on-screen). No props are needed. The facilitator provides a simple, low-stakes relationship and a mundane setting.
 

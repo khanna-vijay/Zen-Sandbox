@@ -79,20 +79,6 @@ This structured training drill helps competent improvisers identify an emerging 
 
 **Objective:** To develop the ability to recognize an emerging scene dynamic and deliberately apply the 'ladder' technique of escalating beats through variation, exaggeration, and escalation, while maintaining a strong base reality.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | hybrid |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two players stand in the performance space while the remaining participants act as active observers. No props or special staging are required, and the facilitator stands ready to side-coach.
 

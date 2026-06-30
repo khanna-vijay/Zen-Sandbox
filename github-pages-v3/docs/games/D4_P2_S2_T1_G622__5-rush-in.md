@@ -76,20 +76,6 @@ A high-energy training drill where a single player initiates a scene's location 
 
 **Objective:** To develop rapid offer reception, immediate physical and verbal support work (walk-ons), and the 'follow the follower' mindset by eliminating hesitation and instantly validating a teammate's initiation.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 5-10) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open playing space with a clear 'stage' area and an 'offstage' area where the rest of the group stands. No props or chairs are needed. Group size of 5 to 10 players is ideal.
 

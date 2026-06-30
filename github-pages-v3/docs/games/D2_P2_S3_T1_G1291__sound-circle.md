@@ -77,20 +77,6 @@ Players stand in a circle to rapidly pass physical gestures and vocalizations to
 
 **Objective:** To develop deep partner empathy and physical mirroring skills, training players to receive offers without judgment and commit instantly to spontaneous physical and vocal expression.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-20) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, comfortable space where all players can stand in a clear, unobstructed circle facing inward. No props or materials are required.
 

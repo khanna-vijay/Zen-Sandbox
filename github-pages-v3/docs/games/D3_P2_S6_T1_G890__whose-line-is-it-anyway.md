@@ -79,20 +79,6 @@ Two to four players perform a grounded scene while periodically drawing random, 
 
 **Objective:** To develop advanced justification skills by forcing players to establish a strong base reality first, and then immediately rationalize unexpected, absurd dialogue offers as logical character choices.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–4 (ideal 2-4) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | slips of paper, pens, hat or basket |
-| Audience | required |
-
 ## Setup
 Before the scene begins, ask the audience to write down random, distinct sentences, clichés, or song lyrics on slips of paper. Fold these slips and place them in a basket or scatter them face-down on the stage floor. Two to four players step forward, each taking two to three folded slips of paper and placing them in their pockets without looking at them. Get a simple, grounded suggestion for a relationship and location to start the scene.
 

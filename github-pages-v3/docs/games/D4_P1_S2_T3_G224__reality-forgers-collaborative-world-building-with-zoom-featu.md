@@ -85,20 +85,6 @@ A virtual-native ensemble game where players use video platform features to buil
 
 **Objective:** To develop advanced support work and group mind by training players to receive, integrate, and build upon multi-modal visual and emotional offers simultaneously.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–10 (ideal 6-10) |
-| Time | ~15 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | Zoom Whiteboard or Google Jamboard, Virtual Backgrounds, Zoom Reactions |
-| Audience | not required |
-
 ## Setup
 Run this game on a video conferencing platform with screen-sharing, annotation/whiteboard capabilities, virtual backgrounds, and reaction emojis enabled. Have players rename themselves to reflect their assigned roles: 'Actor 1', 'Actor 2', 'Architect 1', 'Architect 2', 'Prop Master 1', 'Prop Master 2', and 'Mood Shaper'. Ensure all players have a few diverse virtual backgrounds ready to use.
 

@@ -78,20 +78,6 @@ Players stand in a circle and pass a rapid-fire, three-person physical puppet ar
 
 **Objective:** To develop peripheral awareness, group mind, and rapid response times by requiring players to instantly recognize their changing relationship to the focus of the circle.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 8-20) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Have all players stand in a clear, open circle with enough space to move their arms freely. No props or materials are required.
 

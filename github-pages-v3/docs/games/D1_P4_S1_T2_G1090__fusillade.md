@@ -70,20 +70,6 @@ A high-energy, fast-paced drill where players take turns stepping forward to per
 
 **Objective:** To develop unfiltered spontaneity and trust in one's immediate impulses, training players to treat their first thought as a gift and maintain a rapid, rhythmic pace.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-16) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Divide the group into two equal lines facing each other across the room, leaving a clear performance space in the middle. No props or materials are needed. The facilitator stands at the head of the lines to act as the prompt-giver and timekeeper.
 

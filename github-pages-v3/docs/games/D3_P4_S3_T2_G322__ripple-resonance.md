@@ -78,20 +78,6 @@ This exercise challenges players to construct a cohesive narrative arc by focusi
 
 **Objective:** To master narrative architecture by practicing the Platform and Tilt technique, learning to establish a stable baseline, introduce a disruptive catalyst, and build a justified chain of escalating consequences that serves the story.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–12 (ideal 3-5) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a semi-circle facing the performance space. No props or special materials are required. The facilitator stands to the side to guide the pacing and call out transitions.
 

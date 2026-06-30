@@ -73,20 +73,6 @@ A fast-paced, rhythmic warm-up where players stand in a circle and pass single-w
 
 **Objective:** To develop unfiltered spontaneity and trust in one's immediate impulses, training players to bypass their internal editor and embrace the 'first thought' as a gift while maintaining a collective rhythm.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-15) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle facing inward. No props or special materials are needed; just a clear space where everyone can see and hear each other.
 

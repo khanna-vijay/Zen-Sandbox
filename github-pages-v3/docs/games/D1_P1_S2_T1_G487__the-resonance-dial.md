@@ -85,20 +85,6 @@ This high-energy physical and vocal drill challenges players to simultaneously e
 
 **Objective:** To build emotional fluidity and unfiltered spontaneity by training players to instantly access, scale, and shed intense emotional states using only physical and non-verbal vocal tools.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–10 (ideal 4-10) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, spacious room free of obstacles. Players stand scattered throughout the space, ensuring they have at least arm's length of personal space in all directions. No props or materials are required.
 

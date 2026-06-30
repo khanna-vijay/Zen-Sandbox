@@ -81,20 +81,6 @@ Two players sit on a couch as television viewers, while the rest of the ensemble
 
 **Objective:** To develop rapid support work and seamless walk-ons by training the ensemble to instantly commit to physical and narrative offers initiated by the viewers' commentary.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-10) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Place two chairs center-stage to represent a couch. The remaining players (the ensemble) stand in the wings or along the back wall, ready to enter the 'screen' area directly in front of the couch. Obtain a suggestion from the audience for a genre of a show or a snack the viewers are eating to kick off the scene.
 

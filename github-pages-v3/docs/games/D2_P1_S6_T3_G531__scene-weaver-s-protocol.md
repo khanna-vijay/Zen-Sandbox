@@ -73,20 +73,6 @@ The Touch Protocol is a structured scene-work drill where players deliberately i
 
 **Objective:** To develop practical skills in negotiating physical contact, navigating personal boundaries, and practicing 'Truth Over Pandering' by asserting comfort levels in real-time.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-16) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle. The facilitator introduces the concept of physical safety, the 'Protocol Pause', and the 'Cut' command. Players are paired up and given a simple scenario that naturally invites physical proximity or contact.
 

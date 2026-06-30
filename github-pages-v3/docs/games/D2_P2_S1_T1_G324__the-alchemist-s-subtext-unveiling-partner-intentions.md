@@ -80,20 +80,6 @@ In this exercise, two players perform a completely ordinary, low-stakes scene wh
 
 **Objective:** To develop deep partner attunement, active listening for non-verbal offers, and the ability to 'Yes, And' a partner's emotional subtext while dynamically modulating status.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 3) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players form groups of three. Two players (A and B) will perform the scene, while the third player (C) acts as the Facilitator/Coach. No props or special staging are required; the active players simply stand or sit facing each other in the performance space.
 

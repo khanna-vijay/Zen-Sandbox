@@ -80,20 +80,6 @@ Resonance Bridges is an advanced ensemble game where players transition between 
 
 **Objective:** To develop the ensemble's ability to read, internalize, and physically translate the emotional and rhythmic momentum of a scene's conclusion, fostering Group Mind and seamless transition edits.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, moderate-sized playing space. Four to eight players stand in a backline or semi-circle facing the stage area. No props or chairs are needed. The facilitator secures a single, simple suggestion to inspire the entire run.
 

@@ -82,20 +82,6 @@ The Multi-Tiered Oracle is a high-energy, comedic ensemble game where four playe
 
 **Objective:** Develops group mind, peripheral awareness, and thread-tracking skills by requiring players to listen intensely to the rhythm, grammar, and tone of their teammates to construct coherent sentences.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–4 (ideal 4) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | two sturdy chairs |
-| Audience | required |
-
 ## Setup
 Place two sturdy chairs in the center of the playing space. Arrange four players in a vertical column facing the audience: Player 1 sits cross-legged on the floor in front; Player 2 sits on the first chair; Player 3 stands behind the chair; Player 4 stands on the second sturdy chair behind Player 3. This creates a vertical 'totem pole' of faces so the audience can see everyone clearly.
 

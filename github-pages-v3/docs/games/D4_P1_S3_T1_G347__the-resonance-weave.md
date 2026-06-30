@@ -79,20 +79,6 @@ The Essence Weave is an ensemble-driven exercise where players collaboratively d
 
 **Objective:** To develop Group Mind and master A-to-C suggestion deconstruction by training players to identify, extract, and physically manifest the core essence of an abstract concept across diverse, unrelated contexts.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open playing space with clear onstage and offstage areas. No props or chairs are required. The facilitator gathers the group of 4 to 8 players standing offstage, ready to enter the space. The facilitator secures a single, highly abstract suggestion from the group or an external source (such as Gravity, Friction, or The Eleventh Hour).
 

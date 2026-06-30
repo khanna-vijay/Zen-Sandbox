@@ -75,20 +75,6 @@ A fast-paced, rhythmic circle game where players pass a verbal pulse using assig
 
 **Objective:** To build resilience and self-recovery by reframing mistakes as moments of shared joy, while sharpening rhythmic coordination and peripheral awareness.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 8-15) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle. One player is designated as the leader ('Big Booty'). Moving clockwise from the leader, the remaining players are numbered sequentially starting from 'Number One' up to the total number of players minus one.
 

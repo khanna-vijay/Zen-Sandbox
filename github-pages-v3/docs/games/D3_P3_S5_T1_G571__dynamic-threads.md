@@ -81,20 +81,6 @@ Relational Threads is an active scene-work exercise where players establish comp
 
 **Objective:** To develop the ability to start scenes in the middle by establishing immediate C.R.O.W. foundations, specifically focusing on deep relationship dynamics and clear character objectives to drive narrative progression.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–3 (ideal 2-3) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Two to three players stand on stage in front of an audience. No props or special staging are required. The facilitator prepares to solicit an abstract mood from the audience and provide a simple, open-ended situational prompt.
 

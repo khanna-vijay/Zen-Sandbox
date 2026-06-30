@@ -79,20 +79,6 @@ Grid Worlds is a virtual-first improv game where players transform their video s
 
 **Objective:** To rapidly establish and adapt the C.R.O.W. framework (Character, Relationship, Objective, Where) in a digital space, training players to treat visual, textual, and physical cues as immediate gifts to build a cohesive base reality.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–12 (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | none |
-| Modality | virtual |
-| Space | minimal |
-| Props | yes |
-| Audience | not required |
-
 ## Setup
 A virtual video platform with gallery view enabled and renaming permissions active. Players prepare by either selecting 3-5 virtual backgrounds or gathering 3-5 distinct physical household items or colored papers to hold up to their camera if virtual backgrounds are unsupported by their hardware.
 

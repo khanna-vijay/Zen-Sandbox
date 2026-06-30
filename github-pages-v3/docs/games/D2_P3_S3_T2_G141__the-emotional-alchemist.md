@@ -87,20 +87,6 @@ A partner-focused exercise where players work in pairs to practice deep emotiona
 
 **Objective:** To develop advanced partner empathy, active listening, and status modulation by practicing emotional-echo techniques and retrospective justification.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-20) |
-| Time | ~35 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A moderate open space where players can work in pairs without distracting one another. No props or materials are required.
 

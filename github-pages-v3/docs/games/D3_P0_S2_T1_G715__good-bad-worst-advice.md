@@ -75,20 +75,6 @@ A panel of three experts takes a real, minor problem from the audience and offer
 
 **Objective:** Develops the ability to heighten and explore a premise using the 'ladder' technique, while practicing unfiltered spontaneity and maintaining strong stage presence.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–6 (ideal 3-4 players) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Three players sit or stand in a line facing the audience. A facilitator stands to the side to host and gather suggestions. No props are required, though three chairs can be used for the panel.
 

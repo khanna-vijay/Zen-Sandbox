@@ -79,20 +79,6 @@ In this scene-based game, players can freeze the action at any moment to step fo
 
 **Objective:** To master breaking the fourth wall, manage audience energy through direct address, and use dramatic irony as a powerful narrative engine.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 4-8) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A simple performance space. The players not currently in the scene sit close by, acting as the active audience. No props or set pieces are required.
 

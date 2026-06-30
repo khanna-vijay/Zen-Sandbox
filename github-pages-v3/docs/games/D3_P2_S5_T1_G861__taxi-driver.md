@@ -76,20 +76,6 @@ In this scene-building exercise, two players share a confined vehicle space: one
 
 **Objective:** To develop the ability to establish a strong Base Reality (C.R.O.W.) by contrasting an extreme character choice with a grounded, realistic partner who validates and justifies the unusual behavior.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | two chairs |
-| Audience | not required |
-
 ## Setup
 Place two chairs side-by-side facing the audience to represent the front seats of a taxi cab. The rest of the group sits as active observers.
 

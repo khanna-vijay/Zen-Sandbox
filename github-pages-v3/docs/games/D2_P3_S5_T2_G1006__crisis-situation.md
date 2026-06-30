@@ -76,20 +76,6 @@ Two players face off, each declaring a personal crisis and a completely unrelate
 
 **Objective:** To develop active gifting and rapid justification by forcing players to immediately 'give the answer' to their partner's problem, making their partner look brilliant and relieved.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 at a time) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two players stand facing each other in the center of the playing space. The rest of the group watches as the active audience. No physical props are needed; all objects are mimed or declared.
 

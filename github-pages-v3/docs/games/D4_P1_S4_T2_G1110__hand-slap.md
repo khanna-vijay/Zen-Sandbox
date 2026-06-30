@@ -69,20 +69,6 @@ Players sit in a tight circle on the floor, crossing their arms with their neigh
 
 **Objective:** To develop group mind, peripheral awareness, and precise rhythmic timing by reacting to physical cues rather than intellectualizing the sequence.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–20 (ideal 6-12) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players sit or kneel in a tight circle on the floor. Everyone leans forward and places their hands flat on the floor in front of them. Crucially, each player crosses their arms over their neighbors' arms, so that the physical order of hands on the floor alternates (e.g., Player A's left hand, Player B's right hand, Player A's right hand, Player B's left hand).
 

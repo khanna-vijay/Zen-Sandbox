@@ -83,20 +83,6 @@ The Narrative Loom is a virtual ensemble game that transforms the challenges of 
 
 **Objective:** To develop Group Mind and Thematic Synthesis by training players to actively listen, scan multiple inputs simultaneously, and weave disparate narrative threads into a cohesive story.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–15 (ideal 6-15) |
-| Time | ~15 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Conducted on a virtual video platform with gallery view, chat, spotlighting, and reaction features enabled. Players should have their cameras on and chat windows open. No physical props are required, but players are encouraged to have 2-3 virtual backgrounds ready if possible.
 

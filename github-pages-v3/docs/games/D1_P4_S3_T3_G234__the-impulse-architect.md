@@ -84,20 +84,6 @@ A somatic, two-player exercise where one player physically embodies a subtle, pr
 
 **Objective:** To develop deep intrapersonal awareness, physical precision, and emotional fluidity by translating abstract internal sensations into concrete physical and vocal choices, and responding to them without intellectualization.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | low |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, quiet room with a clear performance space. No props are needed. The group sits in a semi-circle to observe, creating a focused, supportive, and quiet atmosphere.
 

@@ -77,20 +77,6 @@ Two players build a solid foundation for a scene by combining physical environme
 
 **Objective:** To master the C.R.O.W. framework (Character, Relationship, Objective, Where) by prioritizing a strong base reality, using physical space work to define the setting, and using emotional offers to establish relationships without relying on verbal exposition.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 per scene, 8-16 total) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space with a designated 'stage' area and an 'off-stage' wing. The rest of the group sits as an active audience. No physical props are used; all objects must be mimed.
 

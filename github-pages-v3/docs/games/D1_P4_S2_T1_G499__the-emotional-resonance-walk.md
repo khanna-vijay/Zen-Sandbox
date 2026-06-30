@@ -83,20 +83,6 @@ A physical, fast-paced group exercise where players walk through a shared space 
 
 **Objective:** To develop immediate, unfiltered access to a wide spectrum of emotional states, strengthening the mind-body connection and building rapid emotional fluidity and self-recovery.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–15 (ideal 4-15) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A large, open room free of obstacles. Four to fifteen players stand spread out in the space. No props are needed. A facilitator stands where they can observe and call out cues.
 

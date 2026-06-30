@@ -85,20 +85,6 @@ A structured, two-player dialogue loop where partners alternate between deep emo
 
 **Objective:** To develop deep interpersonal attunement, precise status modulation, and generous endowment-gifting by practicing emotional mirroring and immediate, supportive acceptance of partner offers.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (or any even numbered group)) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | hybrid |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand or sit in pairs directly facing one another. This game can be played in-person or in a virtual gallery view. No props or physical materials are required.
 

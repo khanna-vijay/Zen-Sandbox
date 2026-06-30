@@ -78,20 +78,6 @@ One player acts as a party host while the remaining players enter one by one as 
 
 **Objective:** To practice active gifting and endowment, helping your scene partner succeed by delivering clear, physical, and contextual clues without explicitly stating your secret identity.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–6 (ideal 4-5) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An in-person performance space with a designated party room area. One player (the Host) leaves the room or plugs their ears. The remaining 2 to 4 players (the Guests) receive unique, secret identities, habits, or quirks suggested by the audience. The Host then returns to the performance space to begin the party.
 

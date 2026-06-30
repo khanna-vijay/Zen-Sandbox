@@ -71,20 +71,6 @@ In this cooperative exercise, a small group of players collaboratively defines a
 
 **Objective:** To develop deep active listening, offer reception, and thematic synthesis by forcing players to build directly on their partners' clues rather than pushing their own agenda.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–4 (ideal 2-4) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | low |
-| Physicality | none |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Arrange 2 to 4 players in a small circle facing each other. No props, stage space, or audience are required.
 

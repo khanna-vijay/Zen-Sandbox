@@ -77,20 +77,6 @@ A high-focus physical scene-work drill where players navigate a physically conte
 
 **Objective:** To develop advanced boundary navigation and physical contact negotiation skills, training players to read subtle physical cues, assert personal and character limits, and align artistic intent with physical impact.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 4-5) |
-| Time | ~25 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | tape to mark the Contested Zone |
-| Audience | not required |
-
 ## Setup
 Use tape to mark a 4x4 foot 'Contested Zone' in the center of the playing space. Two primary players stand on opposite sides outside the zone. If available, one or two off-stage players act as environmental narrators. The facilitator stands nearby to monitor safety.
 

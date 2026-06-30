@@ -81,20 +81,6 @@ A silent performance exercise where players convey complex relationships and nar
 
 **Objective:** To develop audience-energy management and room-reading skills by using physical projection and direct address to negotiate the fourth wall without words.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 8-15) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An in-person performance space with a clear stage area and seating for the remaining players, who act as the active audience. No props or materials are required.
 
