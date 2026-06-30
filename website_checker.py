@@ -28,6 +28,7 @@ Options:
     --seed N            RNG seed for reproducible random walks
 """
 import argparse
+import json
 import random
 import re
 import sys
@@ -127,6 +128,42 @@ def seed_from_sitemap(base, timeout):
     return [urldefrag(u)[0] for u in locs]
 
 
+def site_health(base, timeout):
+    """Verify JS-driven content actually has its data/assets. A pure link crawl can't tell
+    that the Game Finder will show 'Could not load games' because games.json is missing or
+    invalid, or that hero images fail to display. Returns [label, rel, detail, ok]."""
+    rows = []
+
+    def add(label, rel, detail, ok):
+        rows.append([label, rel, detail, ok])
+
+    for rel in ["assets/games.json", "assets/games-filter.js", "assets/games-page.js",
+                "assets/nav-resize.js", "assets/keynav.js", "assets/extra.css"]:
+        code, _ = check_status(urljoin(base, rel), timeout)
+        add(rel, rel, f"HTTP {code or 'ERR'}", code == 200)
+
+    code, _ct, body = fetch(urljoin(base, "assets/games.json"), timeout, "GET")
+    data = None
+    if code == 200:
+        try:
+            data = json.loads(body)
+        except Exception:  # noqa: BLE001
+            data = None
+    ok = isinstance(data, list) and len(data) > 0
+    add("games.json valid + non-empty", "assets/games.json",
+        (f"{len(data)} games" if ok else "INVALID / empty"), ok)
+
+    if ok:                                       # sample hero images actually load
+        mid = len(data) // 2
+        for b in {(data[0].get("u") or "").rstrip("/"),
+                  (data[mid].get("u") or "").rstrip("/"),
+                  (data[-1].get("u") or "").rstrip("/")} - {""}:
+            rel = f"games/img/{b}.jpg"
+            code, _ = check_status(urljoin(base, rel), timeout)
+            add(f"hero image · {b[:36]}", rel, f"HTTP {code or 'ERR'}", code == 200)
+    return rows
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("base", nargs="?", default="https://khanna-vijay.github.io/Zen-Sandbox/")
@@ -152,6 +189,7 @@ def main():
 
     status = {}                     # url -> (code, content_type/note)
     refs = defaultdict(set)         # target url -> {source pages}
+    kinds = defaultdict(set)        # target url -> {kinds: link/image/script/asset}
     graph = defaultdict(list)       # page -> [internal link targets]
     page_links = {}                 # page -> kind set (for typing)
     visited = set()
@@ -189,6 +227,7 @@ def main():
                 continue
             target = canon(target)
             refs[target].add(page)
+            kinds[target].add(kind)
             if kind == "link" and internal(target):
                 graph[page].append(target)
                 if target not in visited:
@@ -219,6 +258,12 @@ def main():
     internal_broken = sorted(u for u in refs if internal(u) and broken(u))
     # Only count externals we actually checked (skip-external leaves them unchecked).
     external_broken = sorted(u for u in refs if not internal(u) and u in status and broken(u))
+    # Broken / missing images (so "images not showing" is surfaced on its own).
+    broken_images = sorted(u for u in refs if "image" in kinds.get(u, set()) and broken(u))
+
+    # Site-health checks for JS-driven content (catches "Could not load games", missing
+    # data/assets, and dead hero images that a pure link crawl can't infer).
+    health = site_health(base, args.timeout)
 
     # ---- Random navigation walks over the internal link graph ----
     walk_results = []
@@ -243,34 +288,55 @@ def main():
         walk_results.append((path, failure))
 
     write_report(args, base, host, status, refs, internal_broken,
-                 external_broken, walk_results, crawled)
-    total_broken = len(internal_broken) + (0 if args.skip_external else len(external_broken))
+                 external_broken, walk_results, crawled, broken_images, health)
+    health_fail = [h for h in health if not h[3]]
     print(f"[done] crawled {crawled} pages · {len(status)} urls checked · "
-          f"{len(internal_broken)} internal broken · {len(external_broken)} external broken")
+          f"{len(internal_broken)} internal broken · {len(broken_images)} broken images · "
+          f"{len(external_broken)} external broken · {len(health_fail)} health checks failed")
     print(f"[done] report → {args.out}")
-    return 1 if internal_broken else 0
+    return 1 if (internal_broken or broken_images or health_fail) else 0
 
 
 def write_report(args, base, host, status, refs, internal_broken,
-                 external_broken, walk_results, crawled):
+                 external_broken, walk_results, crawled, broken_images=None, health=None):
+    broken_images = broken_images or []
+    health = health or []
+    health_fail = [h for h in health if not h[3]]
     rel = lambda u: u[len(base):] or "/" if u.startswith(base) else u  # noqa: E731
     now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     walk_fail = [r for r in walk_results if r[1]]
     lines = []
-    lines.append(f"# 🔗 Website Link Audit — {host}")
+    lines.append(f"# 🔗 Website Audit — {host}")
     lines.append("")
     lines.append(f"- **Site:** {base}")
     lines.append(f"- **Generated:** {now}")
     lines.append(f"- **Pages crawled:** {crawled}")
     lines.append(f"- **Unique URLs checked:** {len(status)}")
-    lines.append(f"- **Broken internal:** {len(internal_broken)}")
+    lines.append(f"- **Broken internal links:** {len(internal_broken)}")
+    lines.append(f"- **Broken / missing images:** {len(broken_images)}")
     lines.append(f"- **Broken external:** "
                  f"{'(skipped)' if args.skip_external else len(external_broken)}")
+    lines.append(f"- **Site-health checks failed:** {len(health_fail)} of {len(health)}")
     lines.append(f"- **Random walks:** {len(walk_results)} "
                  f"({len(walk_fail)} hit a non-200 page)")
     lines.append("")
-    lines.append("✅ **No broken internal links found.**" if not internal_broken
-                 else f"❌ **{len(internal_broken)} broken internal link(s) found.**")
+    problems = len(internal_broken) + len(broken_images) + len(health_fail)
+    lines.append("✅ **No problems found.**" if not problems
+                 else f"❌ **{problems} problem(s) found** "
+                      f"({len(internal_broken)} links, {len(broken_images)} images, "
+                      f"{len(health_fail)} health).")
+    lines.append("")
+
+    # ---- Site health (JS-driven content: data + assets + sample images) ----
+    lines.append("## 🩺 Site health (data & assets)")
+    lines.append("")
+    if not health:
+        lines.append("_Not run._")
+    else:
+        lines.append("| Check | Path | Result | OK |")
+        lines.append("|---|---|---|---|")
+        for label, hrel, detail, ok in health:
+            lines.append(f"| {label} | `{hrel}` | {detail} | {'✅' if ok else '❌'} |")
     lines.append("")
 
     def table(urls):
@@ -285,6 +351,13 @@ def write_report(args, base, host, status, refs, internal_broken,
     lines.append("## Broken internal links")
     lines += table(internal_broken) if internal_broken else ["", "_None._"]
     lines.append("")
+
+    lines.append("## 🖼️ Broken / missing images")
+    lines.append("")
+    lines.append("> Images referenced via `<img>` that returned a non-200 status (won't display).")
+    lines += table(broken_images) if broken_images else ["", "_None._"]
+    lines.append("")
+
     if not args.skip_external:
         lines.append("## Broken external links")
         lines.append("")
