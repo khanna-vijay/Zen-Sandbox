@@ -2,7 +2,7 @@
 title: My Philosophical view on Improv
 ---
 
-# My Philosophy of Improv - The Spontaneity Architecture
+# My Philosophical Analysis of Improv
 
 > *"Each soul is potentially divine. The goal is to manifest this divinity within."* - Swami Vivekananda
 
