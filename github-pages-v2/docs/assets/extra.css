@@ -8,3 +8,5 @@
   display: block; margin: 1.4rem auto; width: 100%; max-width: 640px;
   border-radius: 14px; box-shadow: 0 8px 28px rgba(0,0,0,.14); cursor: zoom-in;
 }
+/* De-linked reference/quote citations: keep the link color, but not clickable. */
+.md-typeset .ref { color: var(--md-typeset-a-color); }

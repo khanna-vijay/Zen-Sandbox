@@ -276,22 +276,22 @@ Ultimately, the Status Seesaw teaches improvisers that they are never just deliv
 *   **Keith Johnstone, *Impro: Improvisation and the Theatre* (1979)** — The undisputed foundational text for this concept; Johnstone explicitly coined the "seesaw principle" of status ("I go up and you go down") and decoupled it from social class. 
 
 ### Practitioner guides & manuals
-*   **Tom Salinsky & Deborah Frances-White, *The Improv Handbook: The Ultimate Guide to Improvising in Comedy, Theatre, and Beyond* (2008)** — Contains extensive practical breakdowns of Johnstone's status work, including master-servant games and the mechanics of the status seesaw. [Bloomsbury](https://www.bloomsbury.com/us/improv-handbook-9781350026148/)
-*   **Patti Stiles, *Improvise Freely: Throw away the rulebook and unleash your creativity* (2021)** — Written by a Johnstone student and Loose Moose Theatre veteran, this guide expands on playing status dynamically and breaking the rigid "rules" of improv. [Goodreads](https://www.goodreads.com/book/show/58784822-improvise-freely)
-*   **Theresa Robbins Dudeck, *Keith Johnstone: A Critical Biography* (2013)** — The definitive scholarly look at Johnstone's lineage, detailing the exact origins and development of his theories on status and human interaction. [Bloomsbury](https://www.bloomsbury.com/us/keith-johnstone-9781408183274/)
+*   **Tom Salinsky & Deborah Frances-White, *The Improv Handbook: The Ultimate Guide to Improvising in Comedy, Theatre, and Beyond* (2008)** — Contains extensive practical breakdowns of Johnstone's status work, including master-servant games and the mechanics of the status seesaw. [Bloomsbury]{.ref}
+*   **Patti Stiles, *Improvise Freely: Throw away the rulebook and unleash your creativity* (2021)** — Written by a Johnstone student and Loose Moose Theatre veteran, this guide expands on playing status dynamically and breaking the rigid "rules" of improv. [Goodreads]{.ref}
+*   **Theresa Robbins Dudeck, *Keith Johnstone: A Critical Biography* (2013)** — The definitive scholarly look at Johnstone's lineage, detailing the exact origins and development of his theories on status and human interaction. [Bloomsbury]{.ref}
 
 ### Lineage & teachers
-*   **Keith Johnstone & Mel Tonken, *Loose Moose Theatre Company* (1977)** — The Calgary-based theatre that served as the primary laboratory where the Status Seesaw and other foundational status exercises were developed, tested, and refined. [loosemoose.com](https://www.loosemoose.com/)
-*   **Keith Johnstone, *International Theatresports Institute* (1998)** — The global network established to oversee Johnstone's formats and connect teachers who continue to study and teach his ground-breaking work on status. [impro.global](https://www.impro.global/)
+*   **Keith Johnstone & Mel Tonken, *Loose Moose Theatre Company* (1977)** — The Calgary-based theatre that served as the primary laboratory where the Status Seesaw and other foundational status exercises were developed, tested, and refined. [loosemoose.com]{.ref}
+*   **Keith Johnstone, *International Theatresports Institute* (1998)** — The global network established to oversee Johnstone's formats and connect teachers who continue to study and teach his ground-breaking work on status. [impro.global]{.ref}
 
 ### Research & theory
 *   **Desmond Morris, *The Naked Ape* (1967)** — The ethological foundation for Johnstone's status work; Johnstone explicitly credits Morris's observations of animal dominance and submission hierarchies as the inspiration for his theatrical status theories.
-*   **Timothy Leary & Jerry Wiggins, *The Interpersonal Circumplex* (1957/1979)** — A foundational psychological model mapping human interaction on two orthogonal axes: Agency (Dominance/Submission) and Communion (Warmth/Hostility), where the vertical axis perfectly maps to the mechanics of the Status Seesaw. [Wikipedia](https://en.wikipedia.org/wiki/Interpersonal_circumplex)
-*   **Judith A. Hall, Erik J. Coats, & Lavonia Smith LeBeau, *Nonverbal behavior and the vertical dimension of social relations: a meta-analysis* (2005)** — A massive meta-analysis published in the *Psychological Bulletin* on how dominance, power, and status are communicated nonverbally through posture, gaze, space, and touch—the exact physical cues trained by the Status Seesaw. [APA PsycNet](https://doi.org/10.1037/0033-2909.131.6.898)
+*   **Timothy Leary & Jerry Wiggins, *The Interpersonal Circumplex* (1957/1979)** — A foundational psychological model mapping human interaction on two orthogonal axes: Agency (Dominance/Submission) and Communion (Warmth/Hostility), where the vertical axis perfectly maps to the mechanics of the Status Seesaw. [Wikipedia]{.ref}
+*   **Judith A. Hall, Erik J. Coats, & Lavonia Smith LeBeau, *Nonverbal behavior and the vertical dimension of social relations: a meta-analysis* (2005)** — A massive meta-analysis published in the *Psychological Bulletin* on how dominance, power, and status are communicated nonverbally through posture, gaze, space, and touch—the exact physical cues trained by the Status Seesaw. [APA PsycNet]{.ref}
 
 ### Talks, videos & courses
-*   **Keith Johnstone, *Don't Do Your Best* (2016)** — Johnstone's TEDxYYC talk where he discusses his overarching philosophy on improvisation, including how the "seesaw" dynamic of human interaction drives compelling scenes. [TEDxYYC](http://tedxyyc.ca/talks/keith-johnstone/)
-*   **Theresa Robbins Dudeck & Alicia Robbins, *On Keith: Artists Speak on Johnstone & Impro* (2020)** — A YouTube docuseries featuring interviews with international artists and original Theatre Machine members discussing how Johnstone's methods, including status, support their creative processes. [onkeith.com](https://www.onkeith.com/)
+*   **Keith Johnstone, *Don't Do Your Best* (2016)** — Johnstone's TEDxYYC talk where he discusses his overarching philosophy on improvisation, including how the "seesaw" dynamic of human interaction drives compelling scenes. [TEDxYYC]{.ref}
+*   **Theresa Robbins Dudeck & Alicia Robbins, *On Keith: Artists Speak on Johnstone & Impro* (2020)** — A YouTube docuseries featuring interviews with international artists and original Theatre Machine members discussing how Johnstone's methods, including status, support their creative processes. [onkeith.com]{.ref}
 
 ## 💬 Quotes & Anecdotes
 

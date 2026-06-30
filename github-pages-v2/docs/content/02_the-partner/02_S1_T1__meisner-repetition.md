@@ -278,25 +278,25 @@ Beyond just listening, this technique ripples outward into the wider craft of im
 ## 📚 References & Further Reading
 
 ### Foundational sources
-*   **Sanford Meisner & Dennis Longwell, *Sanford Meisner on Acting* (1987)** — The definitive text on the Meisner Technique, providing a fly-on-the-wall view of his classroom and detailing the exact mechanics, purpose, and progression of the repetition exercise. [Penguin Random House](https://www.penguinrandomhouse.com/books/112815/sanford-meisner-on-acting-by-sanford-meisner-and-dennis-longwell/)
+*   **Sanford Meisner & Dennis Longwell, *Sanford Meisner on Acting* (1987)** — The definitive text on the Meisner Technique, providing a fly-on-the-wall view of his classroom and detailing the exact mechanics, purpose, and progression of the repetition exercise. [Penguin Random House]{.ref}
 
 ### Practitioner guides & manuals
-*   **T.J. Jagodowski, David Pasquesi, and Pam Victor, *Improvisation at the Speed of Life: The TJ and Dave Book* (2015)** — While not strictly a Meisner manual, this book is the definitive guide to applying Meisner's core philosophy—"realizing what is already occurring" rather than inventing—to long-form improv. [Goodreads](https://www.goodreads.com/book/show/25416040-improvisation-at-the-speed-of-life)
-*   **Mary Scruggs and Michael J. Gellman, *Process: An Improviser's Journey* (2007)** — Modeled after Stanislavski's *An Actor Prepares*, this book details Gellman's real-world workshops at Second City, explicitly bridging traditional acting techniques (like Meisner's focus on truth and repetition) with Chicago-style slow-burn improvisation. [Northwestern University Press](https://nupress.northwestern.edu/9780810124733/process/)
+*   **T.J. Jagodowski, David Pasquesi, and Pam Victor, *Improvisation at the Speed of Life: The TJ and Dave Book* (2015)** — While not strictly a Meisner manual, this book is the definitive guide to applying Meisner's core philosophy—"realizing what is already occurring" rather than inventing—to long-form improv. [Goodreads]{.ref}
+*   **Mary Scruggs and Michael J. Gellman, *Process: An Improviser's Journey* (2007)** — Modeled after Stanislavski's *An Actor Prepares*, this book details Gellman's real-world workshops at Second City, explicitly bridging traditional acting techniques (like Meisner's focus on truth and repetition) with Chicago-style slow-burn improvisation. [Northwestern University Press]{.ref}
 
 ### Lineage & teachers
-*   **The Neighborhood Playhouse School of the Theatre** — The New York conservatory where Sanford Meisner developed and taught his technique from 1935 onward; it remains the primary institution for traditional Meisner training. [Neighborhood Playhouse](https://neighborhoodplayhouse.org/)
-*   **Michael Gellman** — A Second City director and teacher who was instrumental in bringing formal acting techniques, including Meisner's repetition and focus on truth, into the modern Chicago improv curriculum. [Process Theatre](https://processtheatre.ca/)
+*   **The Neighborhood Playhouse School of the Theatre** — The New York conservatory where Sanford Meisner developed and taught his technique from 1935 onward; it remains the primary institution for traditional Meisner training. [Neighborhood Playhouse]{.ref}
+*   **Michael Gellman** — A Second City director and teacher who was instrumental in bringing formal acting techniques, including Meisner's repetition and focus on truth, into the modern Chicago improv curriculum. [Process Theatre]{.ref}
 
 ### Research & theory
-*   **John Sweller, *Cognitive load during problem solving: Effects on learning* (1988)** — The foundational paper on Cognitive Load Theory. Sweller's research explains the psychological engine behind the repetition exercise: by removing the extraneous cognitive load of inventing dialogue, working memory is freed to process subtle behavioral and emotional cues. [Cognitive Science](https://onlinelibrary.wiley.com/doi/10.1207/s15516709cog1202_4)
-*   **Thalia R. Goldstein, *Why Theatre Education Matters: Understanding its Cognitive, Social, and Emotional Benefits* (2024)** — Goldstein's research at the intersection of developmental psychology and theater demonstrates how acting exercises (like Meisner) actively develop empathy, theory of mind, and social-emotional regulation. [Teachers College Press](https://www.tcpress.com/why-theatre-education-matters-9780807769466)
+*   **John Sweller, *Cognitive load during problem solving: Effects on learning* (1988)** — The foundational paper on Cognitive Load Theory. Sweller's research explains the psychological engine behind the repetition exercise: by removing the extraneous cognitive load of inventing dialogue, working memory is freed to process subtle behavioral and emotional cues. [Cognitive Science]{.ref}
+*   **Thalia R. Goldstein, *Why Theatre Education Matters: Understanding its Cognitive, Social, and Emotional Benefits* (2024)** — Goldstein's research at the intersection of developmental psychology and theater demonstrates how acting exercises (like Meisner) actively develop empathy, theory of mind, and social-emotional regulation. [Teachers College Press]{.ref}
 
 ### Talks, videos & courses
-*   **Sanford Meisner Master Class (Directed by Sydney Pollack, 1980)** — A rare, digitized master class featuring Sanford Meisner himself teaching his students, providing invaluable visual reference for the speed, strictness, and emotional evolution of the repetition exercise. [IMDb](https://www.imdb.com/title/tt0244181/)
+*   **Sanford Meisner Master Class (Directed by Sydney Pollack, 1980)** — A rare, digitized master class featuring Sanford Meisner himself teaching his students, providing invaluable visual reference for the speed, strictness, and emotional evolution of the repetition exercise. [IMDb]{.ref}
 
 ### Communities & adjacent reading
-*   **Viola Spolin, *Improvisation for the Theater* (1963)** — While Spolin's approach is game-based rather than psychologically driven, her "Mirror Exercises" serve as a physical counterpart to Meisner's verbal repetition, training the exact same muscles of external focus and partner attunement. [Northwestern University Press](https://nupress.northwestern.edu/9780810140085/improvisation-for-the-theater/)
+*   **Viola Spolin, *Improvisation for the Theater* (1963)** — While Spolin's approach is game-based rather than psychologically driven, her "Mirror Exercises" serve as a physical counterpart to Meisner's verbal repetition, training the exact same muscles of external focus and partner attunement. [Northwestern University Press]{.ref}
 
 ## 💬 Quotes & Anecdotes
 
