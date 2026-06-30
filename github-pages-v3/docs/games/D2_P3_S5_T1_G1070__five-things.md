@@ -59,7 +59,7 @@ aliases: []
 
 # Five-Point Endowment
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Five-Point Endowment — infographic](img/D2_P3_S5_T1_G1070__five-things.jpg){ .game-hero }
 
 > Deduce five absurd, highly specific scene details communicated entirely through gibberish and physical endowment.
 

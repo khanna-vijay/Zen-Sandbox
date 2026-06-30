@@ -69,7 +69,7 @@ aliases: []
 
 # Echo and Align
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Echo and Align — infographic](img/D2_P3_S3_T2_G392__resonance-realignment.jpg){ .game-hero }
 
 > Mirror your partner's emotional truth, then gift them a new reality to transform the scene.
 

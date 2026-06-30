@@ -66,7 +66,7 @@ aliases: []
 
 # The Endowment Loop
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Endowment Loop — infographic](img/D2_P2_S4_T2_G595__the-endowment-echo.jpg){ .game-hero }
 
 > Absorb your partner's physical gifts instantly, transforming every detail into immediate, embodied reality.
 

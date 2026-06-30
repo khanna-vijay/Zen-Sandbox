@@ -58,7 +58,7 @@ aliases: []
 
 # Stunt Double
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Stunt Double — infographic](img/D4_P3_S2_T2_G1307__stunt-double.jpg){ .game-hero }
 
 > Step in from the sidelines to perform high-stakes physical actions for your scene partners.
 

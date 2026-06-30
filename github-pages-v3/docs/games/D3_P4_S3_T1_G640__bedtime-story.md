@@ -57,7 +57,7 @@ aliases: []
 
 # Bedtime Story
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Bedtime Story — infographic](img/D3_P4_S3_T1_G640__bedtime-story.jpg){ .game-hero }
 
 > Co-create a whimsical, physicalized fairy tale through a dynamic handoff between narrator and actors.
 

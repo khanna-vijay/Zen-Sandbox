@@ -60,7 +60,7 @@ aliases:
 
 # Pure Gibberish
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Pure Gibberish — infographic](img/D1_P1_S4_T3_G1141__just-gibberish.jpg){ .game-hero }
 
 > Communicate deep relationships and clear narratives using only nonsense language and physical commitment.
 

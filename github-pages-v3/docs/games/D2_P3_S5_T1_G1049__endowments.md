@@ -65,7 +65,7 @@ aliases:
 
 # The Secret Gift
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Secret Gift — infographic](img/D2_P3_S5_T1_G1049__endowments.jpg){ .game-hero }
 
 > Discover your hidden identity through the physical and verbal clues your partner generously gifts you.
 

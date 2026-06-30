@@ -66,7 +66,7 @@ aliases:
 
 # Incremental Character Dial
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Incremental Character Dial — infographic](img/D1_P1_S2_T1_G657__character-dial-up.jpg){ .game-hero }
 
 > Pass a character trait around the circle, escalating the intensity with every single step.
 

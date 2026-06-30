@@ -58,7 +58,7 @@ aliases: []
 
 # The Cheers Tilt
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Cheers Tilt — infographic](img/D3_P4_S3_T2_G664__cheers-i-m-an-alien.jpg){ .game-hero }
 
 > Establish a perfectly normal routine, then shatter it with a single, game-changing revelation.
 

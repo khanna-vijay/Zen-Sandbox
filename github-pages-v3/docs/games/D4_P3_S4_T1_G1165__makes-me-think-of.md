@@ -60,7 +60,7 @@ aliases:
 
 # Association Edits
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Association Edits — infographic](img/D4_P3_S4_T1_G1165__makes-me-think-of.jpg){ .game-hero }
 
 > Edit scenes instantly using verbal association to build a fast-paced, interconnected montage.
 

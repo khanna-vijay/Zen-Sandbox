@@ -58,7 +58,7 @@ aliases: []
 
 # Hat Swap Continuity
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Hat Swap Continuity — infographic](img/D2_P2_S4_T2_G1113__hat-continuation.jpg){ .game-hero }
 
 > Inhabit your partner's character instantly by swapping physical hats and continuing their narrative journey.
 

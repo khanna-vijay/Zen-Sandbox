@@ -58,7 +58,7 @@ aliases: []
 
 # That Scene Was About
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![That Scene Was About — infographic](img/D3_P0_S1_T1_G864__that-scene-was-about.jpg){ .game-hero }
 
 > Extract the core theme of a scene to inspire the next, deeper exploration.
 

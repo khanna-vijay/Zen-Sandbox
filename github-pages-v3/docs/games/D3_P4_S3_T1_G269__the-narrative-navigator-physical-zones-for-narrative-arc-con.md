@@ -64,7 +64,7 @@ aliases:
 
 # Narrative Thresholds
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Narrative Thresholds — infographic](img/D3_P4_S3_T1_G269__the-narrative-navigator-physical-zones-for-narrative-arc-con.jpg){ .game-hero }
 
 > Walk through physical stage zones to build, escalate, and resolve a complete narrative arc.
 

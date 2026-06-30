@@ -66,7 +66,7 @@ aliases:
 
 # Composite Characters
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Composite Characters — infographic](img/D2_P2_S4_T2_G642__big-body-tiny-head.jpg){ .game-hero }
 
 > Two players fuse into one physical entity, splitting speech and movement to build hilarious scenes.
 

@@ -66,7 +66,7 @@ aliases:
 
 # Gibberish Award Ceremony
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Gibberish Award Ceremony — infographic](img/D2_P2_S4_T2_G713__gibberish-award-ceremony.jpg){ .game-hero }
 
 > Deliver and translate an emotional acceptance speech using nonsense language, physical commitment, and instant translation.
 

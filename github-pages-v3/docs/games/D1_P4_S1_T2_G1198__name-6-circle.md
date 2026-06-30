@@ -56,7 +56,7 @@ aliases: []
 
 # The Passing Clock
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Passing Clock — infographic](img/D1_P4_S1_T2_G1198__name-6-circle.jpg){ .game-hero }
 
 > Race against a passing object to shout out six category items without filtering.
 

@@ -66,7 +66,7 @@ aliases:
 
 # The Honk Engine
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Honk Engine — infographic](img/D1_P4_S1_T2_G727__honkasaurus-rex.jpg){ .game-hero }
 
 > Instantly pivot your choices at the sound of an audience-controlled squeak.
 

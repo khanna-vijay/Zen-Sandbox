@@ -70,7 +70,7 @@ aliases: []
 
 # The Expressive Switchboard
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Expressive Switchboard — infographic](img/D1_P1_S1_T2_G169__the-elemental-switchboard.jpg){ .game-hero }
 
 > Bypass overthinking with rapid-fire physical, vocal, and emotional shifts that demand instant, total commitment.
 

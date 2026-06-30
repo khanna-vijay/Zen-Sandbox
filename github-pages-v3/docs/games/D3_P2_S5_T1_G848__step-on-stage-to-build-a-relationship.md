@@ -56,7 +56,7 @@ aliases:
 
 # Beyond the Transaction
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Beyond the Transaction — infographic](img/D3_P2_S5_T1_G848__step-on-stage-to-build-a-relationship.jpg){ .game-hero }
 
 > Transform dry transactional setups into rich, emotionally connected relationships from the very first line.
 

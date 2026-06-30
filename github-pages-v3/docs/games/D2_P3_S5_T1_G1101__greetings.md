@@ -62,7 +62,7 @@ aliases:
 
 # Dynamic Greetings
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Dynamic Greetings — infographic](img/D2_P3_S5_T1_G1101__greetings.jpg){ .game-hero }
 
 > Transform simple hellos into high-stakes relationships through instant physical and emotional endowments.
 

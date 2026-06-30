@@ -62,7 +62,7 @@ aliases:
 
 # The Physical Interpreter
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Physical Interpreter — infographic](img/D2_P3_S1_T1_G1133__interpretation-for-the-deaf.jpg){ .game-hero }
 
 > A high-energy trio game of physical translation, active listening, and making your partner look brilliant.
 

@@ -60,7 +60,7 @@ aliases:
 
 # The Mindful Scene Container
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Mindful Scene Container — infographic](img/D2_P1_S6_T2_G134__the-reflective-scene-container.jpg){ .game-hero }
 
 > Navigate boundaries in real-time using subtle self-checks and structured, non-judgmental scene pauses.
 

@@ -63,7 +63,7 @@ aliases: []
 
 # Undercurrent Weave
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Undercurrent Weave — infographic](img/D4_P1_S5_T2_G263__the-undercurrent-weave.jpg){ .game-hero }
 
 > Track, shift, and synthesize a shared emotional atmosphere across a series of seamless, intuitive scenes.
 

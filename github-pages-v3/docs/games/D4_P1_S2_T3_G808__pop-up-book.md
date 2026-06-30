@@ -61,7 +61,7 @@ aliases: []
 
 # Pop-Up Book
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Pop-Up Book — infographic](img/D4_P1_S2_T3_G808__pop-up-book.jpg){ .game-hero }
 
 > Bring a physical storybook to life through synchronized narration, sudden poses, and mechanical animations.
 

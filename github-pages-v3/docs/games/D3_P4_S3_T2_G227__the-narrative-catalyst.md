@@ -62,7 +62,7 @@ aliases:
 
 # The Plot Pivot
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Plot Pivot — infographic](img/D3_P4_S3_T2_G227__the-narrative-catalyst.jpg){ .game-hero }
 
 > Transform a stable scene instantly by embracing a sudden narrative disruption with immediate, justified action.
 

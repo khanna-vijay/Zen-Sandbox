@@ -58,7 +58,7 @@ aliases: []
 
 # Proverbial Wisdom
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Proverbial Wisdom — infographic](img/D4_P1_S1_T2_G893__wise-wise-wise.jpg){ .game-hero }
 
 > Co-create profound, word-at-a-time proverbs and seal them with a collective bow of mock-solemnity.
 

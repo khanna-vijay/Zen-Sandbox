@@ -63,7 +63,7 @@ aliases:
 
 # The Scene Resuscitator
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Scene Resuscitator — infographic](img/D3_P4_S3_T2_G130__the-scene-resuscitator.jpg){ .game-hero }
 
 > Freeze stagnant scenes, diagnose the narrative stall, and inject immediate dramatic action to drive the story.
 

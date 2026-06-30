@@ -67,7 +67,7 @@ aliases: []
 
 # Co-Architects of the Unseen
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Co-Architects of the Unseen — infographic](img/D2_P2_S1_T2_G475__co-architects-of-the-unseen.jpg){ .game-hero }
 
 > Build intricate, invisible worlds together, one precise verbal brick at a time, sitting back-to-back.
 

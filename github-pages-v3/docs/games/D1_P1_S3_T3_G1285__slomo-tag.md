@@ -60,7 +60,7 @@ aliases:
 
 # Slow-Motion Tag
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Slow-Motion Tag — infographic](img/D1_P1_S3_T3_G1285__slomo-tag.jpg){ .game-hero }
 
 > A high-commitment, physical game of tag played entirely in hyper-detailed slow motion.
 

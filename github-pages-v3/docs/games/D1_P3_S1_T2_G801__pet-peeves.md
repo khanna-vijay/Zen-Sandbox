@@ -55,7 +55,7 @@ aliases: []
 
 # Pet Peeves
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Pet Peeves — infographic](img/D1_P3_S1_T2_G801__pet-peeves.jpg){ .game-hero }
 
 > Share genuine, minor irritations to discover how vulnerability and truth naturally captivate an audience.
 

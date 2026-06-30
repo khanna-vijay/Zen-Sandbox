@@ -57,7 +57,7 @@ aliases: []
 
 # Rapid Fire Letters
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Rapid Fire Letters — infographic](img/D1_P4_S1_T1_G925__alliterations.jpg){ .game-hero }
 
 > Race a passing object by shouting out words starting with a single target letter.
 

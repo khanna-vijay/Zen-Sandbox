@@ -65,7 +65,7 @@ aliases:
 
 # Narrative Metronome
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Narrative Metronome — infographic](img/D3_P4_S3_T0_G154__narrative-metronome.jpg){ .game-hero }
 
 > Master the rhythm of storytelling by dynamically justifying sudden shifts in scene tempo.
 

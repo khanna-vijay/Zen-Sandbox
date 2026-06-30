@@ -59,7 +59,7 @@ aliases:
 
 # Want and Wall
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Want and Wall — infographic](img/D3_P4_S4_T0_G397__want-wall.jpg){ .game-hero }
 
 > Declare your character's deepest desire and greatest obstacle out-of-character to instantly supercharge scene tension.
 

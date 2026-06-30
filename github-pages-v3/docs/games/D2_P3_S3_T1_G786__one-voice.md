@@ -61,7 +61,7 @@ aliases:
 
 # Unison Voice
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Unison Voice — infographic](img/D2_P3_S3_T1_G786__one-voice.jpg){ .game-hero }
 
 > Speak, move, and think as a single entity by sharing every syllable in real time.
 

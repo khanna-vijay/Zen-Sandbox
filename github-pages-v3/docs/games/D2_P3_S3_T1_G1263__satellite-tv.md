@@ -55,7 +55,7 @@ aliases: []
 
 # Echo Mirror
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Echo Mirror — infographic](img/D2_P3_S3_T1_G1263__satellite-tv.jpg){ .game-hero }
 
 > Track, store, and replicate your partner's physical movements with a precise, one-beat delayed echo.
 

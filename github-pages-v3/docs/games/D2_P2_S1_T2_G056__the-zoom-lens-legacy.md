@@ -64,7 +64,7 @@ aliases: []
 
 # Legacy of the Frame
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Legacy of the Frame — infographic](img/D2_P2_S1_T2_G056__the-zoom-lens-legacy.jpg){ .game-hero }
 
 > Weave a seamless virtual narrative by inheriting the physical and verbal cliffhangers of your peers.
 
