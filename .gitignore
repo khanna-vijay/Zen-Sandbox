@@ -31,6 +31,8 @@ Thumbs.db
 /github-pages-v3/pipeline/
 /github-pages-v3/README.md
 /v3-github-pages/
+# local curriculum generator + specs (its output already lives in github-pages-v3/docs/workshops)
+/workshop_design/
 /start_gitpages_server.sh
 /start_gitpages_v2_server.sh
 /01_setup_gh.sh
