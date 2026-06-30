@@ -58,6 +58,8 @@ aliases: []
 
 # Wild West
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A high-energy circle game of rapid-fire physical commands, sudden shifts, and joyful mistakes.
 
 ## Overview

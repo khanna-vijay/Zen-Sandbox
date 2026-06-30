@@ -57,6 +57,8 @@ aliases: []
 
 # Give and Take: Sound and Motion
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Pass the invisible baton of movement and sound using pure group awareness.
 
 ## Overview

@@ -63,6 +63,8 @@ aliases:
 
 # Forward and Rewind
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Navigate a scene's timeline backwards and forwards on command, testing memory, physicality, and active listening.
 
 ## Overview

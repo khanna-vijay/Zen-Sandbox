@@ -59,6 +59,8 @@ aliases:
 
 # The Living Agreement
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Co-create a dynamic safety roadmap before playing, then navigate boundaries in real-time.
 
 ## Overview

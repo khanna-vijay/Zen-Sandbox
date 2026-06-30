@@ -58,6 +58,8 @@ aliases: []
 
 # Chain Reactions
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Uncover and exploit secret cause-and-effect loops to build a hilarious, high-energy comedic scene.
 
 ## Overview

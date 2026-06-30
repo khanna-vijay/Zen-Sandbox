@@ -61,6 +61,8 @@ aliases: []
 
 # The Unwritten Novel
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Launch a fully improvised narrative from the opening pages of a fictional, never-completed book.
 
 ## Overview

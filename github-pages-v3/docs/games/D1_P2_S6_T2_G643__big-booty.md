@@ -59,6 +59,8 @@ aliases: []
 
 # Big Booty
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A high-energy rhythm game where making mistakes is celebrated with a collective, joyful reset.
 
 ## Overview

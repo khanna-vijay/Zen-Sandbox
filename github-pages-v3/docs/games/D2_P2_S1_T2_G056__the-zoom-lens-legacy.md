@@ -2,7 +2,7 @@
 catalog_serial: 56
 filename: "D2_P2_S1_T2_G056__the-zoom-lens-legacy.md"
 title: "Legacy of the Frame"
-tagline: "Build a continuous, visually rich virtual story one spotlighted frame at a time."
+tagline: "Weave a seamless virtual narrative by inheriting the physical and verbal cliffhangers of your peers."
 status: "enriched"
 primary_domain: 2
 primary_domain_name: "The Partner"
@@ -64,10 +64,12 @@ aliases: []
 
 # Legacy of the Frame
 
-> Build a continuous, visually rich virtual story one spotlighted frame at a time.
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
+> Weave a seamless virtual narrative by inheriting the physical and verbal cliffhangers of your peers.
 
 ## Overview
-A collaborative, sequential storytelling game designed specifically for virtual platforms. Participants take turns performing short, 45-to-60-second solo scenes that build a single, cohesive narrative inspired by a shared visual prompt. Each player must seamlessly inherit the physical or verbal cliffhanger left by the previous storyteller, transforming their individual camera frame into a dynamic, interconnected stage.
+Legacy of the Frame is a collaborative, sequential storytelling game designed for virtual spaces where players co-create a continuous narrative. Taking turns, each player delivers a short monologue that must seamlessly inherit the exact physical posture, gesture, or final words of the preceding storyteller. The result is a highly focused, cinematic chain reaction that transforms isolated webcam feeds into a unified, living story.
 
 ## What It Trains
 - **Domain:** D2 — The Partner
@@ -76,7 +78,7 @@ A collaborative, sequential storytelling game designed specifically for virtual 
 - **Technique(s):** Last Word Response; Yes, And… sentence games; Story Spine; Object work
 - **Focus:** narrative
 
-**Objective:** To develop advanced active listening, offer reception, and narrative architecture in a virtual space. Players practice the 'Last Word Response' technique by directly building on the exact visual or verbal hook of the preceding player, reinforcing the core principle of 'Yes, And' through digital physical alignment.
+**Objective:** To train active listening, immediate offer reception, and narrative continuity in a digital environment. Players practice the 'Last Word Response' technique physically and verbally, learning to suppress pre-planning by treating the previous player's final moment as the mandatory foundation for their own scene.
 
 ## At a Glance
 | Aspect | Detail |
@@ -93,36 +95,36 @@ A collaborative, sequential storytelling game designed specifically for virtual 
 | Audience | not required |
 
 ## Setup
-Players join a virtual meeting room with cameras enabled and switch to grid view. The facilitator prepares an evocative, mysterious image (the 'Legacy Prompt') to share on screen, along with a list of potential narrative twists. Players rename themselves to include their character name (e.g., 'Alex - The Deep Sea Diver') to establish immediate context.
+Players join a virtual meeting room with cameras enabled. The facilitator prepares a single, evocative visual image (the 'Legacy Prompt') to share on screen, and establishes a clear, sequential player order in the chat. Players adjust their camera setups to ensure they have a small amount of physical space to move within their frame.
 
 ## How to Play
-1. The facilitator shares an evocative image on screen to serve as the 'Legacy Prompt' and explains that the group will co-create a continuous story inspired by this visual.
-2. The facilitator designates the first storyteller and spotlights their video feed, while all other players remain in grid view to watch closely.
-3. The first player performs a 45-to-60-second monologue or solo scene, establishing their character, setting, and relationship to the prompt using their camera frame as a physical stage.
-4. The first player must conclude their turn with a highly specific verbal or physical 'hook'—such as reaching for an object off-screen, reacting to a sudden sound, or asking a cliffhanger question.
-5. The facilitator immediately types the next player's name in the chat and spotlights their video feed to transition the focus seamlessly.
-6. The next player must instantly adopt the previous player's hook, treating it as the absolute truth of their scene's starting point (e.g., catching the object thrown, answering the question, or reacting to the same sound).
-7. This cycle continues through all participants, with each player building the narrative arc, maintaining physical consistency across frames, and passing a new hook to the next person.
-8. The facilitator calls 'Scene!' to conclude the story after a natural narrative climax or once every player has contributed.
+1. The facilitator displays the visual 'Legacy Prompt' on screen to inspire the narrative's tone and setting, then establishes a clear, sequential player order in the chat.
+2. The first player begins the story, delivering a monologue of up to 60 seconds that establishes their character, their environment, and their relationship to the prompt.
+3. To manage pacing, the facilitator uses a non-disruptive visual cue (like raising a hand or typing a 10-second warning in chat) as the player approaches the 45-second mark.
+4. The active player must conclude their turn with a highly specific, high-stakes physical or verbal 'hook' (e.g., reaching off-screen, gasping at an unseen object, or ending on a cliffhanger sentence).
+5. The transition to the next player occurs immediately. If the platform supports spotlighting, the facilitator switches the spotlight; if not, the next player simply unmutes and speaks, or players use 'Hide Non-Video Participants' to auto-focus on the active speaker.
+6. The incoming player must instantly adopt the previous player's final state, using the 'Last Word Response' technique by repeating the last word spoken, or physically mirroring the exact posture and gesture of the hand-off.
+7. The new player continues the narrative from their character's perspective, building on the established lore while maintaining physical and narrative consistency.
+8. This cycle repeats through the established order until all players have contributed, culminating in a final player who wraps up the narrative arc.
 
 ## Facilitation Notes
-- Side-coaching cue: 'Catch the offer!' Remind players to physically react to the previous player's exit action as if it occurred in their own room.
-- Pitfall: Players plan their scenes in advance and ignore the actual hook provided. Fix: Side-coach the incoming player to repeat or physically mirror the exact last action or word of the previous player before speaking.
-- Pacing tip: Use the chat window to announce the 'on deck' player 15 seconds before their turn so they can prepare their physical positioning without interrupting the current speaker.
-- Encourage players to use their immediate physical environment (depth, height, lighting, or simple household items) to make their individual frame feel like a distinct, three-dimensional location.
+- To prevent monologues from dragging, establish a strict visual time-keeping system. Use a physical colored card (yellow for 'wrap up', red for 'stop') held to the camera, or a gentle chime sound to signal the 15-second wrap-up window without breaking the player's flow.
+- If manual spotlighting is too slow or unavailable on your platform, instruct all non-speaking players to turn off their cameras and select 'Hide Non-Video Participants.' The active player simply turns their camera off at the end of their turn, and the next player turns theirs on, creating an instant, automated transition.
+- Watch out for players who clearly planned their entry and ignored the previous player's hook. If this happens, gently pause the scene and ask the incoming player: 'What was the very last word or movement you saw? Start exactly there.'
+- Encourage players to play with depth (moving close to or far from the camera) and levels (sitting, standing, crouching) to make the virtual frames feel dynamic and three-dimensional rather than static talking heads.
 
 ## Variations
-- The Director's Twist: Mid-scene, the facilitator drops a sudden plot twist into the chat (e.g., 'The gravity fails!' or 'An old rival enters'), which the active player must immediately integrate.
-- Last Word Relay: The incoming player must start their very first sentence using the exact last word spoken by the previous player, strictly enforcing the Last Word Response technique.
-- Object Pass: Every transition must involve a physical object being passed out of the side of one frame and received from the opposite side of the next player's frame.
+- The Last Word Relay: A stricter verbal constraint where the incoming player's very first sentence must begin with the exact last word spoken by the previous player, reinforcing literal active listening.
+- The Object Pass: A physical variation where each transition must involve passing a physical object (like a pen, cup, or book) out of the right side of the frame, and the next player must 'receive' it from the left side of their frame, matching the speed and trajectory.
+- Large Group Scaling: For groups larger than 10, split players into 'Performers' and 'Directors.' Directors can use the chat to drop mid-scene environmental shifts (e.g., 'The room is filling with water!') that the active performer must immediately justify.
 
 ## Debrief
-- How did focusing on the previous player's exact final moment change how you entered your own scene?
-- What visual cues (gestures, eye lines, physical depth) were most effective in making the separate video frames feel like a single, shared world?
-- How did we balance our individual creative ideas with the collective responsibility to serve the overall story?
+- How did having to inherit the exact physical or verbal end-state of the previous player change your focus while listening?
+- What strategies did you use to let go of your pre-planned ideas when the incoming hook didn't match your expectations?
+- How did we make the separate, isolated video frames feel like a single, interconnected physical world?
 
 ## Safety & Inclusion
-Ensure players are aware they can use virtual backgrounds or adjust their physical space if they have privacy concerns about showing their home environment. Remind players to keep physical movements safe within their immediate physical surroundings to avoid tripping or knocking over equipment.
+Be mindful of camera comfort and home privacy. Allow players to use virtual backgrounds or blur their screens if they prefer not to show their living space. For players with physical mobility limitations, emphasize that 'physical hooks' can be purely facial expressions, eye-line shifts, or small hand gestures close to the camera, ensuring equal participation without physical strain.
 
 ## Why It Works
-By forcing players to wait for a specific visual or verbal hook, the game eliminates pre-planning and demands deep active listening. The spotlight transition mimics theatrical focus, while the physical hand-offs bridge the digital divide, turning isolated video feeds into a unified, highly collaborative narrative engine.
+This game works because it gamifies the transition point, which is where virtual collaboration often falters. By making the hand-off the most critical narrative and physical moment, players cannot afford to zone out or plan ahead. It forces absolute presence, turning the technical limitations of video grids into a creative asset that demands rigorous 'Yes, And' commitment.

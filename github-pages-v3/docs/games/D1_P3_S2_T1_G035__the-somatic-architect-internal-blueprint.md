@@ -70,6 +70,8 @@ aliases: []
 
 # The Somatic Blueprint
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Consciously scan, sculpt, and scale your internal emotional landscape before passing it to a partner.
 
 ## Overview

@@ -61,6 +61,8 @@ aliases: []
 
 # The Negotiated Passage
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Navigate physical obstacles by explicitly proposing, negotiating, and respecting physical boundaries in real time.
 
 ## Overview

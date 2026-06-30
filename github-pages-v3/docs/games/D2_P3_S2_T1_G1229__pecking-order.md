@@ -55,6 +55,8 @@ aliases: []
 
 # Secret Status Scale
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Discover your place in a hidden social hierarchy through dynamic, real-time status adjustments.
 
 ## Overview

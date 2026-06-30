@@ -60,6 +60,8 @@ aliases:
 
 # Pure Gibberish
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Communicate deep relationships and clear narratives using only nonsense language and physical commitment.
 
 ## Overview

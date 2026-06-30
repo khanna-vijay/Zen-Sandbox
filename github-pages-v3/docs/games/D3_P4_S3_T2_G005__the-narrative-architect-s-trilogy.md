@@ -67,6 +67,8 @@ aliases:
 
 # Platform, Pattern, Pivot
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Establish a stable reality, find its rhythmic pattern, and execute a perfectly justified narrative tilt.
 
 ## Overview

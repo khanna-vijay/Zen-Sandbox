@@ -59,6 +59,8 @@ aliases:
 
 # The Triple Constraint
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Weave three absurd, audience-imposed limitations into a perfectly logical, grounded scene.
 
 ## Overview

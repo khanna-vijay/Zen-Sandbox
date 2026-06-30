@@ -68,6 +68,8 @@ aliases:
 
 # Pattern and Pivot
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Establish a predictable behavioral loop, then break it with a justified, story-altering choice.
 
 ## Overview

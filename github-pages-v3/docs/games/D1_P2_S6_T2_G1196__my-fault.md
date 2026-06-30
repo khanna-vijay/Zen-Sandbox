@@ -58,6 +58,8 @@ aliases: []
 
 # My Fault!
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Celebrate mistakes instantly by diving to the floor and claiming full responsibility for every drop.
 
 ## Overview

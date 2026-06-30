@@ -60,6 +60,8 @@ aliases:
 
 # Metaphorical Portrait
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Discover the power of instant, intuitive association by painting a classmate in vivid metaphors.
 
 ## Overview

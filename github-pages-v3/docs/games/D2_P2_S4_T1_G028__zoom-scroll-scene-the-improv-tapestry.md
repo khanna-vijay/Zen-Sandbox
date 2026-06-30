@@ -67,6 +67,8 @@ aliases:
 
 # The Digital Tapestry
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Weave a rich, multi-layered narrative using silent physical reactions, verbal additions, and live chat atmosphere.
 
 ## Overview

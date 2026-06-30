@@ -70,6 +70,8 @@ aliases:
 
 # The Resonance Forge
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Cultivate deep emotional agility and physical self-regulation through subtle, internal somatic exploration.
 
 ## Overview

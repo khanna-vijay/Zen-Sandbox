@@ -60,6 +60,8 @@ aliases:
 
 # Instant Game Engine
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Spontaneously invent and play absurd, unwritten games by committing to the unknown together.
 
 ## Overview

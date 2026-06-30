@@ -64,6 +64,8 @@ aliases:
 
 # Remote Control Playback
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Manipulate time and space as an ensemble using physical and vocal playback commands.
 
 ## Overview

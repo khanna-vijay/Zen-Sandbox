@@ -65,6 +65,8 @@ aliases: []
 
 # The Living Canvas
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Shape, inhabit, and collectively transform a silent physical world through shared movement and instant adaptation.
 
 ## Overview

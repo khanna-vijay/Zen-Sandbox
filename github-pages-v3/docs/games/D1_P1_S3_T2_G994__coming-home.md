@@ -56,6 +56,8 @@ aliases: []
 
 # Coming Home
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Step into a familiar person's shoes to explore physical world-building and emotional commitment.
 
 ## Overview

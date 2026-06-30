@@ -66,6 +66,8 @@ aliases: []
 
 # The Status Oracle
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Deepen partner connection by mirroring present truths, gifting brilliant motivations, and dynamically shifting status.
 
 ## Overview

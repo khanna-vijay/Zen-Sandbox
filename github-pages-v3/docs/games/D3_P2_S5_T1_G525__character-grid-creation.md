@@ -70,6 +70,8 @@ aliases:
 
 # The Digital Neighborhood
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build an interconnected community of characters using virtual backgrounds, custom names, and grid-based relationships.
 
 ## Overview

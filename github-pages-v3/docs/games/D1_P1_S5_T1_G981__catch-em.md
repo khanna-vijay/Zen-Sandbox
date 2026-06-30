@@ -57,6 +57,8 @@ aliases:
 
 # The Frozen Path
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Creep silently toward a turning sentinel, freezing instantly into absolute stillness to avoid detection.
 
 ## Overview

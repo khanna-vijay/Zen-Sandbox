@@ -62,6 +62,8 @@ aliases: []
 
 # The Rhythmic Conveyor Belt
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Pass physical gestures down a circle in perfect sync with a shared vocal rhythm.
 
 ## Overview

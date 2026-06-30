@@ -68,6 +68,8 @@ aliases: []
 
 # Emotional Echo
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Pass, absorb, and amplify non-verbal emotional impulses in a high-energy chain reaction.
 
 ## Overview

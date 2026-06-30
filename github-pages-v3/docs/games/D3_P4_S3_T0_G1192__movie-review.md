@@ -59,6 +59,8 @@ aliases: []
 
 # The Film Review
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Bring a fictional movie to life through live-action clips prompted by a talk-show critique.
 
 ## Overview

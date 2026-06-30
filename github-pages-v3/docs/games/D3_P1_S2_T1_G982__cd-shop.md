@@ -67,6 +67,8 @@ aliases:
 
 # The Soundtrack Shop
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Pitch absurd custom albums and bring their hilarious hit songs to life on the spot.
 
 ## Overview

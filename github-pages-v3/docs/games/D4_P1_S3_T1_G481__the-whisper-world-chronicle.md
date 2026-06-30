@@ -67,6 +67,8 @@ aliases:
 
 # Echoes of the Unspoken
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build a rich, complex fictional reality entirely through physical behavior and indirect, subtextual dialogue.
 
 ## Overview

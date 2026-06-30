@@ -61,6 +61,8 @@ aliases:
 
 # Character Relay
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Step instantly into your ensemble mate's shoes to keep a single story flowing seamlessly.
 
 ## Overview

@@ -70,6 +70,8 @@ aliases:
 
 # Object and Essence
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Collaboratively sculpt a single imaginary object by echoing, elevating, and deepening your partner's sensory details.
 
 ## Overview

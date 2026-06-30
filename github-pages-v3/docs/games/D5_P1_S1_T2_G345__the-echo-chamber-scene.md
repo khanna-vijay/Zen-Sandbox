@@ -64,6 +64,8 @@ aliases:
 
 # The Echo Chamber
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Treat every gasp, chuckle, and murmur from the crowd as your next scene partner's line.
 
 ## Overview

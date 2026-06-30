@@ -65,6 +65,8 @@ aliases: []
 
 # Thematic Architects
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Sculpt and elevate the hidden meaning of your scenes in real-time.
 
 ## Overview

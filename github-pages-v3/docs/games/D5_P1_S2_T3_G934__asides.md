@@ -63,6 +63,8 @@ aliases:
 
 # Inner Monologue Asides
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Step out of the action to share your character's hidden truths directly with the audience.
 
 ## Overview

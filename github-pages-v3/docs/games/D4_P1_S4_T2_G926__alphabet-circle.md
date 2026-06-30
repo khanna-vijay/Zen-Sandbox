@@ -60,6 +60,8 @@ aliases: []
 
 # Alphabet Volley
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Pass the alphabet across a circle at lightning speed to build collective rhythm and focus.
 
 ## Overview

@@ -67,6 +67,8 @@ aliases:
 
 # Audience Cartographers
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Translate the audience's unspoken reactions into real-time scenic directions to master the art of room reading.
 
 ## Overview

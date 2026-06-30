@@ -63,6 +63,8 @@ aliases:
 
 # The Reality Weavers
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Co-create and instantly adapt to a dynamically shifting visual world on a shared digital stage.
 
 ## Overview

@@ -59,6 +59,8 @@ aliases: []
 
 # Affirmative Exchanges
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build collaborative worlds one positive step at a time by starting every sentence with Yes.
 
 ## Overview

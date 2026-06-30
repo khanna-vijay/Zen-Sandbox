@@ -65,6 +65,8 @@ aliases:
 
 # The Single Voice
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Speak simultaneously as a single entity to answer questions in perfect, unscripted unison.
 
 ## Overview

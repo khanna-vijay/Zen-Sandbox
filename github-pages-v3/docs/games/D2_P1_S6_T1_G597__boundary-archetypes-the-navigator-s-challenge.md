@@ -60,6 +60,8 @@ aliases:
 
 # Boundary Archetypes
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Navigate contrasting personal boundaries and practice real-time consent tools through character-driven scene work.
 
 ## Overview

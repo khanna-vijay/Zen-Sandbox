@@ -60,6 +60,8 @@ aliases:
 
 # The Best Friend Alignment
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Rewind and refine physical and verbal choices to build radical, authentic connection on stage.
 
 ## Overview

@@ -63,6 +63,8 @@ aliases:
 
 # The Quirky Dating Show
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A hilarious matchmaking game of active listening, bold character choices, and supportive guessing.
 
 ## Overview

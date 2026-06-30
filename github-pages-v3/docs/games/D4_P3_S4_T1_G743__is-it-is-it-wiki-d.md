@@ -65,6 +65,8 @@ aliases:
 
 # Hyperlink Roulette
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A fast-paced, tech-assisted scene game driven by random online articles and audience-triggered edits.
 
 ## Overview

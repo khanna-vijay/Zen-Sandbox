@@ -56,6 +56,8 @@ aliases:
 
 # Eight Rapid Things
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Shout out eight rapid-fire answers to a random category while your team enthusiastically counts along.
 
 ## Overview

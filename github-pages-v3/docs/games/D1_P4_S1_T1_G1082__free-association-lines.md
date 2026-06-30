@@ -59,6 +59,8 @@ aliases: []
 
 # Association Crossings
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Cross the floor and pass a word to spark instant, unfiltered association.
 
 ## Overview

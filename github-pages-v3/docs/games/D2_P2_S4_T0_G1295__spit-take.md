@@ -60,6 +60,8 @@ aliases: []
 
 # Spit Take
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Receive every line as a shocking revelation with a high-energy, water-spraying physical reaction.
 
 ## Overview

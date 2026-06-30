@@ -61,6 +61,8 @@ aliases:
 
 # The Hero's Chronicler
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Elevate your partner to legendary status while practicing the art of fearless, high-status acceptance.
 
 ## Overview

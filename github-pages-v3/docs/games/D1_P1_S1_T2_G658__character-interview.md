@@ -65,6 +65,8 @@ aliases:
 
 # The Hot Seat Interview
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Step into an instant persona and defend your choices through rapid-fire audience interrogation.
 
 ## Overview

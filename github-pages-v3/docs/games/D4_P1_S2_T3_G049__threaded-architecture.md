@@ -64,6 +64,8 @@ aliases: []
 
 # Symbiotic Environments
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A physical and narrative feedback loop where the environment and the story dynamically shape each other.
 
 ## Overview

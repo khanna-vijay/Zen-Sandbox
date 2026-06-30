@@ -61,6 +61,8 @@ aliases: []
 
 # Prop Transformations
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Instantly redefine physical objects through rapid-fire physical play and spontaneous justification.
 
 ## Overview

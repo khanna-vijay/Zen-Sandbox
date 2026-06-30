@@ -62,6 +62,8 @@ aliases:
 
 # Undercurrents
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Drive compelling narrative tension by playing powerful, unspoken desires beneath mundane everyday interactions.
 
 ## Overview

@@ -65,6 +65,8 @@ aliases:
 
 # Streaming Queue
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Two viewers control the remote while an ensemble physically manifests their chaotic television screen.
 
 ## Overview

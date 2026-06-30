@@ -57,6 +57,8 @@ aliases: []
 
 # World's Worst
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Leap forward instantly to showcase the absolute worst examples of any profession or role.
 
 ## Overview

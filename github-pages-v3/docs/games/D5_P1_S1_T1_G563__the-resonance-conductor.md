@@ -65,6 +65,8 @@ aliases:
 
 # The Resonance Conductor
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Conduct the room's energy by balancing silent witnesses, active feedback meters, and strategic fourth-wall breaks.
 
 ## Overview

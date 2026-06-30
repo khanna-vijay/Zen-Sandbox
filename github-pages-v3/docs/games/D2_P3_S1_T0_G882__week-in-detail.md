@@ -54,6 +54,8 @@ aliases: []
 
 # Granular Week
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Share the tiniest details of your week and watch your partner recall them all.
 
 ## Overview

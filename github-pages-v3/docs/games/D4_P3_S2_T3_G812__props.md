@@ -58,6 +58,8 @@ aliases: []
 
 # Living Props
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Transform the ensemble into dynamic physical objects, vehicles, and environments to support a scene.
 
 ## Overview

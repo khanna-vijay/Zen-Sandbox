@@ -62,6 +62,8 @@ aliases:
 
 # The Unified Space Harold
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A high-wire long-form structure merging the thematic depth of a Harold with single-location continuity.
 
 ## Overview

@@ -2,7 +2,7 @@
 catalog_serial: 1263
 filename: "D2_P3_S3_T1_G1263__satellite-tv.md"
 title: "Echo Mirror"
-tagline: "Mirror your partner's physical movements with a precise, one-beat delay to build deep physical connection."
+tagline: "Track, store, and replicate your partner's physical movements with a precise, one-beat delayed echo."
 status: "enriched"
 primary_domain: 2
 primary_domain_name: "The Partner"
@@ -50,13 +50,14 @@ keywords:
   - "concentration"
   - "pairs"
   - "warm-up"
-aliases:
-  - "Satellite Radio"
+aliases: []
 ---
 
 # Echo Mirror
 
-> Mirror your partner's physical movements with a precise, one-beat delay to build deep physical connection.
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
+> Track, store, and replicate your partner's physical movements with a precise, one-beat delayed echo.
 
 ## Overview
 In this physical partner exercise, players work in pairs to establish a rhythmic physical dialogue. One player leads with a new movement on every beat, while the other mirrors those movements exactly one beat behind. It creates a beautiful, canon-like physical sequence that demands intense focus, memory, and physical empathy.
@@ -107,6 +108,7 @@ Players stand in pairs facing each other with comfortable space to move. No prop
 - Two-Beat Lag: Increase the cognitive and physical difficulty by having the follower mirror with a strict two-beat delay.
 - Bidirectional Echo: Both players lead and follow simultaneously without designated roles, passing the physical impulse back and forth organically.
 - Vocal Echo: Add a simple vocal sound or syllable to each physical movement, which must also be mirrored with a one-beat delay.
+- Latency-Leveraged Echo (Online): For video calls, use the natural internet lag as the delay. The follower mirrors the leader's movements as they appear on screen, using a shared verbal count to keep the rhythm synchronized.
 
 ## Debrief
 - How did it feel to be the follower, knowing you had to store your partner's movement in your memory while executing the previous one?
@@ -114,7 +116,7 @@ Players stand in pairs facing each other with comfortable space to move. No prop
 - How does this level of physical attention translate to active listening in a spoken scene?
 
 ## Safety & Inclusion
-Ensure players are mindful of their physical limits and their partner's mobility. Encourage low-impact, controlled movements, and allow players to participate seated if needed, focusing the movements on the upper body.
+Ensure players are mindful of physical limits. For limited mobility, players can sit and focus on upper-body or facial movements. For visual impairments, adapt to an auditory echo using vocal tones or claps. For neurodivergent players, allow side-by-side shadow mirroring to reduce intense eye contact.
 
 ## Why It Works
 By decoupling the action from the reaction by exactly one beat, this game forces players to split their attention between immediate observation and physical execution. This builds a high level of physical empathy and trust, embodying the 'Make Your Partner a Genius' principle by requiring the leader to offer clear, usable offers and the follower to commit fully to reproducing them.

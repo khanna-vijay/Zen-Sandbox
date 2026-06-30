@@ -62,6 +62,8 @@ aliases: []
 
 # Greatest Hits
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Hosts pitch a hilarious compilation album while singers instantly bring the fictional tracks to life.
 
 ## Overview

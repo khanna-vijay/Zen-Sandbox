@@ -61,6 +61,8 @@ aliases:
 
 # The Serialized Saga
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Weave multiple high-stakes storylines together using dramatic cliffhangers, slow-burn tension, and shocking character reveals.
 
 ## Overview

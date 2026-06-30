@@ -64,6 +64,8 @@ aliases:
 
 # Exactly What I Meant
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Transform any perceived mistake into a brilliant, deliberate choice with instant physical and vocal commitment.
 
 ## Overview

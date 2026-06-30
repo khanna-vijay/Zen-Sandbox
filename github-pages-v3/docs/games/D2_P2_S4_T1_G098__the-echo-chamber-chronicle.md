@@ -60,6 +60,8 @@ aliases: []
 
 # The Persona Chronicle
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build an evolving virtual story one sentence—and one brand-new character—at a time.
 
 ## Overview

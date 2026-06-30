@@ -62,6 +62,8 @@ aliases:
 
 # Base Reality Barometers
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build a rock-solid scene foundation with the help of live, physical progress meters.
 
 ## Overview

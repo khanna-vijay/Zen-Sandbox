@@ -66,6 +66,8 @@ aliases:
 
 # Atmospheric Resonance
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Co-create an immersive, evolving environment through simultaneous physical, vocal, and emotional echo.
 
 ## Overview

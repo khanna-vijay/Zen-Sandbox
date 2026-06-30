@@ -65,6 +65,8 @@ aliases:
 
 # The Conductor's Challenge
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A fast-paced, director-driven elimination tournament where the audience holds the ultimate scoring power.
 
 ## Overview

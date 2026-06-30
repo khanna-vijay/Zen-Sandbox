@@ -66,6 +66,8 @@ aliases:
 
 # The Audience Conductor
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Calibrate your performance in real-time by treating the audience's reaction as a live, measurable score.
 
 ## Overview

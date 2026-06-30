@@ -60,6 +60,8 @@ aliases:
 
 # The Consent Weave
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Integrate active, in-character boundary negotiation directly into the creative flow of your scenes.
 
 ## Overview

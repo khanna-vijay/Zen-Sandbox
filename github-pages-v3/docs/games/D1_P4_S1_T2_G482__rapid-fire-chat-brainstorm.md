@@ -62,6 +62,8 @@ aliases:
 
 # Rapid Chat Roulette
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Transform a flood of digital text into instant, unfiltered solo performances.
 
 ## Overview

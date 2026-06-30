@@ -58,6 +58,8 @@ aliases:
 
 # Watching You, Watching Me
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build deep connection and hyper-awareness by repeating a simple phrase while maintaining unbroken eye contact.
 
 ## Overview

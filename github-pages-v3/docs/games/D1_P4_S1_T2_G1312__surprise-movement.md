@@ -54,6 +54,8 @@ aliases: []
 
 # Accidental Action
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Act first and discover the meaning later by turning physical impulses into instant activities.
 
 ## Overview

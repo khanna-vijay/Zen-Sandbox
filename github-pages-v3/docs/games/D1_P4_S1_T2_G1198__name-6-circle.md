@@ -56,6 +56,8 @@ aliases: []
 
 # The Passing Clock
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Race against a passing object to shout out six category items without filtering.
 
 ## Overview

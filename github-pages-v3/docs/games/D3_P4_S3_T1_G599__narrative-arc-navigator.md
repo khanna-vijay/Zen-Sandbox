@@ -2,7 +2,7 @@
 catalog_serial: 599
 filename: "D3_P4_S3_T1_G599__narrative-arc-navigator.md"
 title: "Narrative Arc Navigator"
-tagline: "Steer a scene collaboratively through structured narrative beats to build a satisfying, character-driven story."
+tagline: "Steer collaborative scenes through structured narrative milestones to master the natural flow of storytelling."
 status: "enriched"
 primary_domain: 3
 primary_domain_name: "The Scene"
@@ -45,9 +45,7 @@ energy_level: "medium"
 physicality_level: "low"
 audience_required: "no"
 props_required: "yes"
-props_list:
-  - "Timer"
-  - "Visual display of Story Spine beats"
+props_list: []
 space_required: "minimal"
 est_duration_minutes: 15
 keywords:
@@ -64,10 +62,12 @@ aliases: []
 
 # Narrative Arc Navigator
 
-> Steer a scene collaboratively through structured narrative beats to build a satisfying, character-driven story.
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
+> Steer collaborative scenes through structured narrative milestones to master the natural flow of storytelling.
 
 ## Overview
-A structured, facilitator-led exercise that guides a small group of players through the classic beats of a complete story arc. By moving through timed phases, players learn to establish a stable reality, introduce a disruptive conflict, escalate the stakes logically, and resolve the narrative organically. The experience builds an intuitive muscle memory for story progression without sacrificing spontaneous character play.
+This structured, facilitator-guided exercise helps players navigate the classic stages of a story arc in real time. Operating in a virtual space, players collaborate to build a stable reality, introduce a disruptive catalyst, escalate the stakes, and resolve the narrative. The guided pacing helps improvisers internalize story structure without losing the joy of spontaneous character play.
 
 ## What It Trains
 - **Domain:** D3 — The Scene
@@ -76,7 +76,7 @@ A structured, facilitator-led exercise that guides a small group of players thro
 - **Technique(s):** Story Spine; C.R.O.W. (Character, Relationship, Objective, Where); If this is true, what else is true?; Stakes-escalation reps
 - **Focus:** narrative
 
-**Objective:** To develop a deep, instinctual understanding of Narrative Architecture by training players to establish a clear base reality, introduce high-stakes character objectives, and apply cause-and-effect logic to escalate and resolve a scene.
+**Objective:** To build intuitive narrative architecture skills by practicing the Story Spine framework, helping players establish a firm base reality, introduce high-stakes objectives, and execute logical cause-and-effect progression.
 
 ## At a Glance
 | Aspect | Detail |
@@ -89,39 +89,40 @@ A structured, facilitator-led exercise that guides a small group of players thro
 | Physicality | low |
 | Modality | virtual |
 | Space | minimal |
-| Props | Timer, Visual display of Story Spine beats |
+| Props | yes |
 | Audience | not required |
 
 ## Setup
-Designed for a virtual classroom. The facilitator prepares a digital visual display of the seven Story Spine beats (shared screen or chat paste) and a timer. Two to three players are selected to perform the scene, while the remaining participants observe. No physical props are required.
+Conducted in a virtual meeting room. The facilitator prepares a shared screen or chat template displaying the seven narrative milestones (Once upon a time, Every day, But one day, Because of that, Because of that, Until finally, And ever since then). Two to three active players turn their cameras on; all other participants turn their cameras off to act as the audience.
 
 ## How to Play
-1. The facilitator shares a visual reference of the seven narrative beats on screen and prompts the active players with a simple, mundane starting scenario.
-2. Phase 1 - Once upon a time: The facilitator starts the timer and calls out the first phase. For 60 seconds, players establish the baseline environment, their characters, and their relationship, focusing on low-stakes, ordinary routines.
-3. Phase 2 - Every day: The facilitator calls the transition. For 60 seconds, players deepen this status quo, showing repetitive patterns of their daily lives and hinting at minor, unfulfilled desires or underlying tensions.
-4. Phase 3 - But one day: The facilitator signals the next phase. For 75 seconds, players must introduce a sudden, disruptive event that shatters the routine, forcing at least one character to declare a clear, high-stakes objective.
-5. Phase 4 - Because of that (First Escalation): The facilitator calls the transition. For 75 seconds, players explore the immediate, logical consequences of the disruption, applying cause-and-effect logic to make the pursuit of their objective more difficult.
-6. Phase 5 - Because of that (Second Escalation): The facilitator signals the next phase. For 75 seconds, players escalate the complications further, raising the emotional and situational stakes to a fever pitch where options begin to run out.
-7. Phase 6 - Until finally: The facilitator calls the climax. For 75 seconds, the scene reaches its peak confrontation or decisive turning point, forcing a major choice or revelation that permanently alters the characters' trajectory.
-8. Phase 7 - And ever since then: The facilitator calls the final phase. For 60 seconds, players establish the new normal, showing how the characters and their world have been transformed by the journey before the facilitator calls 'Scene!'
+1. The facilitator displays the seven narrative milestones on screen and prompts the active players with a mundane, low-stakes relationship and setting.
+2. Phase 1 (Once upon a time): The facilitator starts a 60-second timer. Players establish their characters, relationship, and environment, focusing entirely on ordinary, low-stakes routines.
+3. Phase 2 (Every day): The facilitator announces the transition. For 60 seconds, players deepen this status quo, establishing repetitive daily patterns and hinting at unfulfilled desires.
+4. Phase 3 (But one day): The facilitator signals the disruption. For 75 seconds, players introduce a sudden event that shatters their routine, forcing a character to declare a clear, high-stakes objective.
+5. Phase 4 & 5 (Because of that): The facilitator guides two successive 75-second escalation phases. Players explore the direct, logical consequences of the disruption, using 'yes, and' to raise the stakes and complicate their objective.
+6. Phase 6 (Until finally): The facilitator calls the climax. For 75 seconds, the scene reaches its peak confrontation or decisive turning point, forcing a permanent choice or revelation.
+7. Phase 7 (And ever since then): The facilitator calls the resolution. For 60 seconds, players establish the 'new normal,' showing how their world has been transformed before the facilitator calls 'Scene!'
+8. If a phase naturally resolves or reaches its narrative beat before the timer runs out, players should not stall; instead, they must explore the immediate emotional aftermath or deepen their character relationship within that new reality until the next prompt.
 
 ## Facilitation Notes
-- Keep transitions crisp: Use a clear, authoritative voice to announce each phase so players immediately pivot their narrative focus without breaking character.
-- Enforce the timer strictly: The time constraints prevent players from lingering too long in exposition or stalling during the escalation phases.
-- Side-coach the 'Want': If players lose their objective during the 'Because of that' phases, gently remind them of their character's core desire.
-- Avoid over-directing: Let the players discover the plot points themselves. Only intervene if they completely ignore a phase's structural requirement.
+- Managing Cognitive Load: To reduce player anxiety during rapid transitions, the facilitator should drop a 10-second warning in the chat or use a gentle verbal cue (e.g., 'Preparing to transition...') before calling the next milestone.
+- Handling Early Resolutions: If players resolve a conflict or reach a milestone ahead of schedule, coach them to explore the 'micro-beats'—focusing on character reactions, sensory details of the environment, or deepening the relationship rather than inventing new plot points.
+- Dynamic Timer Adjustments: As facilitator, remain flexible. If a scene is flowing beautifully but needs more time to breathe, extend a phase by 15 seconds. Conversely, if a beat is fully realized, call the next transition early to keep the momentum high.
+- Side-Coaching the 'Want': If players get bogged down in plot mechanics during the 'Because of that' phases, call out: 'What does your character want right now?' to ground the narrative back in character-driven stakes.
 
 ## Variations
-- Silent Navigator: Run the game with the same phases, but the facilitator uses visual cards or chat messages to signal transitions, forcing players to keep their eyes on the screen and adapt silently.
-- Tag-Team Arc: Have a larger pool of players. When the facilitator calls a new phase, the current players freeze, and new players tag in to continue the exact same story from that structural beat.
+- The Chat-Only Navigator: To lower cognitive load and support different processing styles, the facilitator posts the prompts silently in the chat window, allowing players to focus entirely on the verbal scene without auditory interruptions.
+- The Relay Arc: For larger groups, when the facilitator calls a new narrative phase, the active players turn their cameras off, and a new set of players instantly turn their cameras on to inherit the characters and continue the story.
+- The Solo Odyssey: A single player takes on all roles, narrating the story and playing multiple characters, using the milestones to practice solo narrative control and physical character differentiation.
 
 ## Debrief
-- How did establishing a detailed 'everyday' routine in the first two phases make the disruption in Phase 3 more impactful?
-- Did the escalations in the 'Because of that' phases feel like logical consequences, or did they feel like random events? How can we ensure they flow organically?
-- How did the urgency of the timer affect your ability to make bold narrative choices?
+- How did having the structural milestones called out for you change your focus during the scene?
+- When a phase resolved early, how did you fill the remaining time without rushing the plot forward?
+- What strategies helped you manage the cognitive load of listening to your partner while anticipating the next transition?
 
 ## Safety & Inclusion
-Since this game relies on rapid narrative escalation, remind players that they retain full agency over their boundaries. If an escalation heads into uncomfortable territory, any player can instantly steer the narrative to a safer alternative or use a pre-established virtual stop signal.
+To ensure a safe virtual environment, establish a 'Pause' gesture (like a hand to the camera) that any player can use if an escalation crosses a personal boundary. For accessibility, the facilitator should provide both verbal and visual cues (via chat or screen share) for all transitions to accommodate different processing and sensory needs.
 
 ## Why It Works
-By externalizing the structural beats of the Story Spine to a facilitator, players are freed from the cognitive load of planning the story's shape. This allows them to focus entirely on active listening, character relationships, and immediate justification. Over time, this structured pacing becomes an intuitive, internalized habit, helping players naturally build satisfying narrative arcs in unguided scenes.
+By offloading the structural pacing to the facilitator, players are freed from the cognitive burden of planning 'what happens next.' This allows them to stay fully present in the base reality, ensuring that escalations are grounded in character relationships rather than arbitrary plot twists. Over time, this builds an organic muscle memory for narrative pacing.

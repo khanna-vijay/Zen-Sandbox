@@ -67,6 +67,8 @@ aliases:
 
 # Household Olympiad
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Turn mundane chores into high-stakes athletic drama through slow-motion physical comedy and play-by-play commentary.
 
 ## Overview

@@ -56,6 +56,8 @@ aliases: []
 
 # Rapid Fire Association
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Train instant, unfiltered word association by responding to a rapid succession of verbal prompts.
 
 ## Overview

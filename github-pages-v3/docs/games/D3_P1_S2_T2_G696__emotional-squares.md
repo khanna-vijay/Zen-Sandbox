@@ -64,6 +64,8 @@ aliases:
 
 # Emotional Squares
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Navigate a stage divided into four distinct emotional zones, justifying sudden shifts in feeling.
 
 ## Overview

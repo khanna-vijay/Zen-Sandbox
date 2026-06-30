@@ -57,6 +57,8 @@ aliases: []
 
 # Object Morphing
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Transform imaginary items through precise physical commitment and creative manipulation.
 
 ## Overview

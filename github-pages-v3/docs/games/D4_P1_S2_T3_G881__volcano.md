@@ -63,6 +63,8 @@ aliases: []
 
 # Instant Architecture
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Coalesce instantly as a group to physically build complex objects before the countdown ends.
 
 ## Overview

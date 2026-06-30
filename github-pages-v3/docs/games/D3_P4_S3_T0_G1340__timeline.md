@@ -59,6 +59,8 @@ aliases: []
 
 # Timeline
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Track a single narrative thread as it evolves across different historical eras.
 
 ## Overview

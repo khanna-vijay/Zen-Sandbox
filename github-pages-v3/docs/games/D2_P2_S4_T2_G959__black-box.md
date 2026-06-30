@@ -65,6 +65,8 @@ aliases: []
 
 # The Three-Button Box
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Control your partner's physical and emotional reactions with the press of an imaginary button.
 
 ## Overview

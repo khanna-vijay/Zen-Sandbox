@@ -61,6 +61,8 @@ aliases: []
 
 # Premise Kaleidoscope
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Deconstruct suggestions into a rich mosaic of rapid, non-linear physical and emotional snapshots.
 
 ## Overview

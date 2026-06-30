@@ -54,6 +54,8 @@ aliases:
 
 # The Cookie Jar Rhythm
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A rhythmic name-passing game that builds group mind, active listening, and collective tempo.
 
 ## Overview

@@ -63,6 +63,8 @@ aliases:
 
 # The Boundary Crucible
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Uphold secret personal boundaries under intense narrative pressure, prioritizing safety over scene completion.
 
 ## Overview

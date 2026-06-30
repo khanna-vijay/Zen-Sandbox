@@ -62,6 +62,8 @@ aliases: []
 
 # Mundane Rituals
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Transform an ordinary daily chore into a solemn, high-stakes ceremonial rite.
 
 ## Overview

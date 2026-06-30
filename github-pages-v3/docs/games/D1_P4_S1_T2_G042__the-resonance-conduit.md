@@ -65,6 +65,8 @@ aliases: []
 
 # Somatic Echo
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Translate raw internal sensations into instant vocal and physical expressions echoed by the group.
 
 ## Overview

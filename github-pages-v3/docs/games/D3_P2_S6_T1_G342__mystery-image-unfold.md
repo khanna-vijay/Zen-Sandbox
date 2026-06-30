@@ -63,6 +63,8 @@ aliases:
 
 # Visual Reality Warp
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Justify sudden, surreal visual shifts instantly to keep your scene's reality alive.
 
 ## Overview

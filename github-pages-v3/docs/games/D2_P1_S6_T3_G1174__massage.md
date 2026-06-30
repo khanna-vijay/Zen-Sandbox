@@ -54,6 +54,8 @@ aliases: []
 
 # The Consent Connection
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Practice explicit consent and physical boundary negotiation through a structured, supportive group warm-up.
 
 ## Overview

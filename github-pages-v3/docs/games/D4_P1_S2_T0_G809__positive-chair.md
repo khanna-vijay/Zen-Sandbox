@@ -57,6 +57,8 @@ aliases: []
 
 # The Appreciation Seat
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Shower a single player with genuine, specific praise to build trust and ensemble connection.
 
 ## Overview

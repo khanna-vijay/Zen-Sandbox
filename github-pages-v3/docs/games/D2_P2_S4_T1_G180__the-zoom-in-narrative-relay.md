@@ -2,7 +2,7 @@
 catalog_serial: 180
 filename: "D2_P2_S4_T1_G180__the-zoom-in-narrative-relay.md"
 title: "Spotlight Narrative Relay"
-tagline: "Weave a seamless collaborative story using virtual spotlights, active listening, and instant visual character endowments."
+tagline: "Weave a seamless virtual story using video spotlights, active listening, and instant visual character endowments."
 status: "enriched"
 primary_domain: 2
 primary_domain_name: "The Partner"
@@ -47,10 +47,7 @@ energy_level: "medium"
 physicality_level: "none"
 audience_required: "no"
 props_required: "yes"
-props_list:
-  - "Zoom account with Host privileges"
-  - "computer with webcam"
-  - "virtual backgrounds"
+props_list: []
 space_required: "minimal"
 est_duration_minutes: 15
 keywords:
@@ -63,17 +60,17 @@ keywords:
   - "remote team"
   - "active listening"
   - "endowment"
-aliases:
-  - "Zoom-In Narrative Relay"
-  - "Narrative Relay"
+aliases: []
 ---
 
 # Spotlight Narrative Relay
 
-> Weave a seamless collaborative story using virtual spotlights, active listening, and instant visual character endowments.
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
+> Weave a seamless virtual story using video spotlights, active listening, and instant visual character endowments.
 
 ## Overview
-A virtual-native storytelling game where players use character names and custom virtual backgrounds to build a continuous narrative. By utilizing the platform's spotlight and chat features, players take turns adding to the story, ensuring everyone is actively listening and ready to build on the previous offer.
+A virtual-native storytelling game where players use character names and custom virtual backgrounds to build a continuous narrative. By utilizing the platform's spotlight features and a pre-determined speaker order, players take turns adding to the story, ensuring everyone is actively listening and ready to build on the previous offer.
 
 ## What It Trains
 - **Domain:** D2 — The Partner
@@ -82,7 +79,7 @@ A virtual-native storytelling game where players use character names and custom 
 - **Technique(s):** Yes, And… sentence games; Endowment-gifting drills; Story Spine; C.R.O.W. (Character, Relationship, Objective, Where)
 - **Focus:** narrative
 
-**Objective:** To master 'Yes, And' offer reception and active listening in a virtual space, using visual and verbal cues to build a cohesive, shared narrative without overlapping audio.
+**Objective:** To master 'Yes, And' offer reception and active listening in a virtual space, using visual and verbal cues to build a cohesive, shared narrative without overlapping audio or latency delays.
 
 ## At a Glance
 | Aspect | Detail |
@@ -95,40 +92,40 @@ A virtual-native storytelling game where players use character names and custom 
 | Physicality | none |
 | Modality | virtual |
 | Space | minimal |
-| Props | Zoom account with Host privileges, computer with webcam, virtual backgrounds |
+| Props | yes |
 | Audience | not required |
 
 ## Setup
-A virtual meeting platform with host-controlled spotlighting capabilities. All participants must have webcams enabled and access to the chat window. Before starting, players choose a virtual background representing a location or mood, and rename themselves to a fictional character name (e.g., 'Professor Sterling' or 'Scuba Sam'). All players start muted in gallery view.
+A virtual meeting platform with host-controlled spotlighting capabilities. All participants must have webcams enabled. Before starting, players choose a virtual background representing a location or mood, and rename themselves to a fictional character name (e.g., 'Professor Sterling' or 'Scuba Sam'). All players start muted in gallery view.
 
 ## How to Play
-1. The facilitator introduces the narrative premise to kick off the story.
-2. The facilitator spotlights the first player, who unmutes and speaks for 30 to 45 seconds to establish their character and accept the premise.
-3. The active speaker must integrate their virtual background and character name into their contribution, treating these visual elements as active narrative offers.
-4. When the active speaker is ready to pass the narrative baton, they type 'NEXT!' into the public chat window.
-5. The facilitator immediately removes the current spotlight and spotlights the next player who typed 'NEXT!' in the chat.
-6. The newly spotlighted player unmutes, immediately accepts the previous player's final statement with a clear 'Yes, And' mindset, and continues the story.
-7. This relay continues, with players building on the cumulative narrative, until the facilitator determines the story has reached a satisfying climax or resolution.
+1. The facilitator establishes a clear, visible speaker order in the chat window (e.g., alphabetical by character name) so every player knows exactly who they follow.
+2. The facilitator introduces a narrative premise to kick off the story and spotlights the first player.
+3. The first player unmutes and speaks for 30 to 45 seconds to establish their character, accepting the premise and integrating their virtual background into the narrative.
+4. With 5 seconds remaining in their turn, the current speaker gives a visual hand signal, prompting the next player in the queue to unmute immediately.
+5. The next player begins speaking their 'Yes, and...' acceptance of the previous line before the facilitator shifts the spotlight, ensuring zero dead air.
+6. As the new speaker begins talking, the facilitator shifts the spotlight to them, creating a seamless visual and audio transition.
+7. Each subsequent player repeats this process, building on the cumulative narrative and incorporating their unique character and background offers.
+8. The relay continues through the established order until the final player delivers a satisfying narrative resolution.
 
 ## Facilitation Notes
-- Managing the Queue: If multiple players type 'NEXT!' at once, the facilitator should prioritize players who have not spoken yet to ensure equal participation.
-- Supporting Stuck Players: If a spotlighted player freezes, the facilitator can type a supportive prompt in the chat or gently ask a guiding question verbally to keep the momentum going.
-- Time Management: Use a subtle visual cue, like raising a hand or showing a colored card to the camera, when the speaker has 10 seconds left, helping them transition smoothly.
-- Pitfall - Pre-planning: Players often plan their lines while waiting. Remind them that the story can change instantly; they must 'Yes, And' the exact last offer made, not their pre-planned idea.
+- Eliminate Bottlenecks: Avoid managing a live queue during play. Posting the complete speaker order in the chat before starting allows the game to run self-sufficiently.
+- Pacing and Dead Air: Coach players to unmute early. The audio transition should lead the visual spotlight transition; hearing the new voice immediately keeps the energy high while the facilitator updates the spotlight.
+- Visual Cues: Have the active speaker raise a hand or use a physical gesture when they are wrapping up their final sentence to give the next speaker a clear, non-verbal cue to unmute.
+- Prevent Pre-planning: Remind players that they must 'Yes, And' the exact last sentence spoken. If they pre-plan their speech, the narrative will feel disjointed and lose its collaborative flow.
 
 ## Variations
-- Genre Shift: The facilitator can type a new genre (e.g., 'Sci-Fi', 'Film Noir', 'Soap Opera') into the chat mid-story, forcing the next spotlighted player to instantly adapt the narrative style.
-- Object Gifting: The active speaker must verbally 'hand off' an imaginary object to the next player, who must physically mime receiving it on camera when spotlighted.
-- Emotional Swing: The facilitator private-messages an emotion to the next player in line, which they must adopt as their character's primary state during their turn.
+- Physical Object Pass: The active speaker must verbally 'hand off' an imaginary or real physical object to the next player, who must physically mime receiving it from the side of their screen.
+- Genre Shift: The facilitator types a new genre (e.g., 'Sci-Fi', 'Film Noir', 'Soap Opera') into the chat mid-story, forcing the next spotlighted player to instantly adapt the narrative style.
+- Emotional Relay: The preceding speaker endows the next speaker with an emotion (e.g., 'and then you became incredibly suspicious') as they hand off the story.
 
 ## Debrief
-- How did having a visual background and character name help you make immediate offers?
-- What did it feel like to let go of a pre-planned story idea when the previous speaker took the plot in an unexpected direction?
-- How did the spotlight mechanic affect your ability to focus entirely on the active speaker?
-- In what ways can we apply this level of active listening and 'Yes, And' acceptance to our daily virtual collaboration?
+- How did knowing your exact place in the order change how you listened to the story unfold?
+- What strategies did you use to seamlessly integrate your pre-selected background and name into a story you couldn't predict?
+- How did unmuting early and starting to speak before the spotlight shifted affect the momentum and energy of the scene?
 
 ## Safety & Inclusion
-If a participant's hardware or environment does not support virtual backgrounds, invite them to verbally describe their setting in their first three seconds, or use a physical household object held up to the camera as their visual endowment. Ensure players are comfortable with the rapid-fire pace; the facilitator can offer a 'pass' option in the chat if a player needs more time.
+If a participant's hardware or environment does not support virtual backgrounds, invite them to use a physical household object held up to the camera as their visual endowment, or verbally describe their setting in their first three seconds. Ensure players are comfortable with the rapid-fire pace; the facilitator can offer a 'pass' option in the chat if a player needs more time.
 
 ## Why It Works
-By isolating the active speaker through the spotlight feature, this game eliminates the audio latency and overlap common in virtual spaces. It forces players to practice pure offer reception because they cannot predict the narrative state when their turn arrives. The visual constraints of backgrounds and names act as instant creative scaffolding, reducing cognitive load and allowing players to focus entirely on the core improv principle of 'Yes, Anding' the immediate past offer.
+By decoupling the audio transition from the visual spotlight transition, this game eliminates the latency and dead air common in virtual spaces. A pre-determined speaker order removes cognitive load from both the facilitator and the players, allowing everyone to focus entirely on active listening and immediate offer reception.

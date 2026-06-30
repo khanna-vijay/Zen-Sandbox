@@ -57,6 +57,8 @@ aliases: []
 
 # The Four-Step Cadence
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A high-energy coordination warm-up that builds group rhythm and celebrates physical mistakes.
 
 ## Overview

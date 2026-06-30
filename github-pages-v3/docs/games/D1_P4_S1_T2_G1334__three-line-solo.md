@@ -56,6 +56,8 @@ aliases: []
 
 # Solo Three-Line Scene
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Play both sides of a rapid-fire, three-line scene to bypass your inner editor instantly.
 
 ## Overview

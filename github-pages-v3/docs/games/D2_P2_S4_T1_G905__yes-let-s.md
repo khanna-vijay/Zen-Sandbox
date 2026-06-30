@@ -65,6 +65,8 @@ aliases:
 
 # Yes, Let's!
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A high-energy physical agreement game where every suggestion is instantly embraced and acted out.
 
 ## Overview

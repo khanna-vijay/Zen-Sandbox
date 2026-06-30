@@ -64,6 +64,8 @@ aliases:
 
 # Silent C.R.O.W.
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build a rich, physical world and deep relationships without uttering a single sound.
 
 ## Overview

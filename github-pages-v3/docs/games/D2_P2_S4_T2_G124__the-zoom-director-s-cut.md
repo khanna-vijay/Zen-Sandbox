@@ -68,6 +68,8 @@ aliases:
 
 # The Chat-Cut Director
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Shape virtual scenes in real-time using instant text-based side-coaching and sudden narrative pivots.
 
 ## Overview

@@ -66,6 +66,8 @@ aliases:
 
 # Virtual Horizon Shifters
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Instantly adapt to sudden environmental shifts by justifying the absurd in a virtual space.
 
 ## Overview

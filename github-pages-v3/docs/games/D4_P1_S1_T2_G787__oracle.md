@@ -66,6 +66,8 @@ aliases:
 
 # The Multi-Tiered Oracle
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Four minds merge into one vertically stacked, word-at-a-time entity to answer life's deepest questions.
 
 ## Overview

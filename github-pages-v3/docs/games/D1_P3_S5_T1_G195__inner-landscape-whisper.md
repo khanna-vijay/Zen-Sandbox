@@ -61,6 +61,8 @@ aliases: []
 
 # The Quiet Storm
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Inhabit intense internal emotional worlds while maintaining absolute, unbroken external stillness.
 
 ## Overview

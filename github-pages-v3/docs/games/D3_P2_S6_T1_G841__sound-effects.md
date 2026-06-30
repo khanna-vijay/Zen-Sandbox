@@ -65,6 +65,8 @@ aliases:
 
 # Sound Effects
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Two actors perform a scene while off-stage partners vocally generate all their environmental sounds.
 
 ## Overview

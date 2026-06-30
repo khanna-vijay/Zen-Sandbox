@@ -63,6 +63,8 @@ aliases:
 
 # Simultaneous Worlds
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Two distinct scenes share the same stage space, weaving together through rhythm and timing.
 
 ## Overview

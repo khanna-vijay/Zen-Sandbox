@@ -62,6 +62,8 @@ aliases:
 
 # Stupid T-Shirt
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Instantly caption absurd imaginary graphics to bypass your inner editor and embrace your first thought.
 
 ## Overview

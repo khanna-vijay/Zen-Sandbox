@@ -57,6 +57,8 @@ aliases:
 
 # Slow-Motion Duelists
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Defend and fall in hyper-slow motion to make your partner look like a master.
 
 ## Overview

@@ -63,6 +63,8 @@ aliases:
 
 # Point of View Post-Its
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Explore how contrasting emotional lenses shape a shared base reality and spark organic scene dynamics.
 
 ## Overview

@@ -64,6 +64,8 @@ aliases:
 
 # Subtext Resonance Chamber
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Uncover how hidden emotional currents build the platform and drive the narrative tilt.
 
 ## Overview

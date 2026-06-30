@@ -68,6 +68,8 @@ aliases: []
 
 # The Shared Subconscious
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Treat the audience's silent, collective energy as an active, narrative-altering scene partner.
 
 ## Overview

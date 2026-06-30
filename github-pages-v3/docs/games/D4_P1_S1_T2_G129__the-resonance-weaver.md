@@ -67,6 +67,8 @@ aliases:
 
 # Resonant Tapestry
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Weave abstract physical and vocal impulses into a fully realized, collectively discovered theatrical world.
 
 ## Overview

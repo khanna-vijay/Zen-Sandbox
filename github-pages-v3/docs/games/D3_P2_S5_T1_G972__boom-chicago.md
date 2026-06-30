@@ -62,6 +62,8 @@ aliases: []
 
 # C.R.O.W. Build
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Rapidly construct a complete base reality and resolve a narrative arc in three simple steps.
 
 ## Overview

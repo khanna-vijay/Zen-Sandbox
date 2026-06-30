@@ -59,6 +59,8 @@ aliases: []
 
 # The Invisible Labyrinth
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Navigate an unseen maze of personal boundaries through explicit, step-by-step consent and active negotiation.
 
 ## Overview

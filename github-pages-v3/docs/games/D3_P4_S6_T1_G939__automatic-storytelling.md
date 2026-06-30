@@ -59,6 +59,8 @@ aliases: []
 
 # The Illusion of Plot
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Discover how easily our minds build narrative structure by solving a story that doesn't exist.
 
 ## Overview

@@ -61,6 +61,8 @@ aliases: []
 
 # Thresholds
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Establish a rich, shared physical world in just two lines of dialogue.
 
 ## Overview

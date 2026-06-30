@@ -63,6 +63,8 @@ aliases:
 
 # Flashpoint Spotlight
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Leap into the digital spotlight and instantly voice your very first unfiltered creative impulse.
 
 ## Overview

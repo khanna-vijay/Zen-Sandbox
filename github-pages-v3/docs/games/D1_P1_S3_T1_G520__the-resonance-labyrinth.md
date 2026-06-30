@@ -65,6 +65,8 @@ aliases:
 
 # The Resonance Labyrinth
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Navigate a physical grid of shifting emotional charges to master physical, vocal, and internal commitment.
 
 ## Overview

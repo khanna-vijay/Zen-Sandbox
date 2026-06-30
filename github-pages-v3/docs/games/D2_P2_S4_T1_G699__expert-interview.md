@@ -65,6 +65,8 @@ aliases: []
 
 # Co-Expert Panel
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Two experts share one absurd specialty, instantly validating and expanding on each other's wild claims.
 
 ## Overview

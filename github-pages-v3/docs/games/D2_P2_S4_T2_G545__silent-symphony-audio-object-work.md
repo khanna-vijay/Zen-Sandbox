@@ -63,6 +63,8 @@ aliases:
 
 # Muted Symphony
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Translate silent physical offers into rich, audible realities using your video platform's mute button.
 
 ## Overview

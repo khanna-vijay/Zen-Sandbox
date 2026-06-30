@@ -59,6 +59,8 @@ aliases:
 
 # Circle Swap
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A high-energy physical warm-up that builds rapid group connection and sharp peripheral awareness.
 
 ## Overview

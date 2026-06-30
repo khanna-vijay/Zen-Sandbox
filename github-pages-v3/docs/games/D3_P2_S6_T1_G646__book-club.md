@@ -59,6 +59,8 @@ aliases: []
 
 # Book Club
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Two players read random book lines while one player desperately justifies them into a coherent scene.
 
 ## Overview

@@ -61,6 +61,8 @@ aliases:
 
 # Scene Carousel
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A fast-paced rotation of two-person scenes focusing on establishing a strong, immediate base reality.
 
 ## Overview

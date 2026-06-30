@@ -60,6 +60,8 @@ aliases: []
 
 # The Resonance Chamber
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Calibrate your scene's emotional volume by reading and reflecting the audience's unspoken collective energy.
 
 ## Overview

@@ -67,6 +67,8 @@ aliases:
 
 # The Narrative Loom
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Weave a seamless digital tapestry by synthesizing simultaneous text suggestions and visual cues in real-time.
 
 ## Overview

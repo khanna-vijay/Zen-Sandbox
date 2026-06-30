@@ -57,6 +57,8 @@ aliases: []
 
 # The Millipede
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Transform a linked group into a single, high-speed rolling organism to build instant physical connection.
 
 ## Overview

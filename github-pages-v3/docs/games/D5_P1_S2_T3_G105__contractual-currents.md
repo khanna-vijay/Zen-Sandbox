@@ -66,6 +66,8 @@ aliases: []
 
 # Permeable Currents
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Navigate real-time audience feedback by dynamically breaking, reinforcing, or calibrating the fourth wall.
 
 ## Overview

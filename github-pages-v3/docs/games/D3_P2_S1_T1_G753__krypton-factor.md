@@ -56,6 +56,8 @@ aliases: []
 
 # The Observation Audit
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Train hyper-focused listening and spot the game by auditing the details of a grounded scene.
 
 ## Overview

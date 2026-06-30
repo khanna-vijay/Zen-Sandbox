@@ -64,6 +64,8 @@ aliases:
 
 # The Living Atmosphere
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Transform the physical space into a responsive, non-verbal mirror of the scene's emotional heartbeat.
 
 ## Overview

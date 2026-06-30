@@ -60,6 +60,8 @@ aliases:
 
 # Synchronized Pulse
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Pass a single, simultaneous clap around the circle using pure eye contact and shared timing.
 
 ## Overview

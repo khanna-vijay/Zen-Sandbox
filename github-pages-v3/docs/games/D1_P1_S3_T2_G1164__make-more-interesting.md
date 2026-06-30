@@ -56,6 +56,8 @@ aliases:
 
 # Magnify the Action
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Slow down time and amplify your physical choices through deep, committed exploration.
 
 ## Overview

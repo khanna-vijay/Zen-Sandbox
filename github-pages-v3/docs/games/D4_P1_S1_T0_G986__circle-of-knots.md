@@ -57,6 +57,8 @@ aliases: []
 
 # Ensemble Knot
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Weave yourselves into a gentle physical puzzle and unravel together using pure group awareness.
 
 ## Overview

@@ -55,6 +55,8 @@ aliases: []
 
 # Walk, Stop, Shuffle, Drop
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Move, freeze, and drop in perfect unison by tuning into the collective rhythm of the room.
 
 ## Overview

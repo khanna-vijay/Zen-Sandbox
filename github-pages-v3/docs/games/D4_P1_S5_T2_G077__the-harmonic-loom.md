@@ -69,6 +69,8 @@ aliases:
 
 # The Harmonic Loom
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Weave disparate thematic threads into a rich, interconnected tapestry of non-linear performance.
 
 ## Overview

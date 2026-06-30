@@ -58,6 +58,8 @@ aliases: []
 
 # Association Jump
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Leap into a frozen pose and watch your ensemble instantly build a world around you.
 
 ## Overview

@@ -65,6 +65,8 @@ aliases: []
 
 # The Ripple Effect
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Explore the cascading consequences of a single dramatic revelation to build deep, interconnected stories.
 
 ## Overview

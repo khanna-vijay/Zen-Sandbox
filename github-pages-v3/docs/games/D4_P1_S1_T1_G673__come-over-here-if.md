@@ -54,6 +54,8 @@ aliases: []
 
 # Common Ground
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Map your shared experiences and build instant ensemble connection through physical proximity.
 
 ## Overview

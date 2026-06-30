@@ -63,6 +63,8 @@ aliases:
 
 # The Narrative Pulse
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Steer the narrative arc in real time by responding to subtle, non-verbal environmental cues.
 
 ## Overview

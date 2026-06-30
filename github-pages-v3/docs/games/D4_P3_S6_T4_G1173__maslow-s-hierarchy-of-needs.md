@@ -58,6 +58,8 @@ aliases: []
 
 # Spatial Anchors
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Map a multi-scene narrative across time and space using physical chair configurations as portal anchors.
 
 ## Overview

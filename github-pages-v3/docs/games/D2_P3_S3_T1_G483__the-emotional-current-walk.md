@@ -70,6 +70,8 @@ aliases:
 
 # The Emotional Current Walk
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A silent, physical dialogue of mirroring, amplifying, and shifting emotional and status states in pairs.
 
 ## Overview

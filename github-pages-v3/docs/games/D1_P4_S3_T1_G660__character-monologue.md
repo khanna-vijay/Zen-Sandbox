@@ -53,6 +53,8 @@ aliases: []
 
 # Physical Impulse Monologue
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Transform a simple physical gesture into a fully realized character voice and monologue.
 
 ## Overview

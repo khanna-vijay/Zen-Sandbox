@@ -55,6 +55,8 @@ aliases:
 
 # Impulse Jump
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Leap into an instant physical shape and discover a character from the outside in.
 
 ## Overview

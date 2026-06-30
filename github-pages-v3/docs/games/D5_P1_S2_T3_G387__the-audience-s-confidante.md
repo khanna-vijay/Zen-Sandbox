@@ -65,6 +65,8 @@ aliases:
 
 # The Confidante's Aside
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Step out of the scene to share secrets with your ultimate partner: the audience.
 
 ## Overview

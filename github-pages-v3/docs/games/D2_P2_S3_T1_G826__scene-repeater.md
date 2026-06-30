@@ -59,6 +59,8 @@ aliases:
 
 # Scene Replication
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Replicate a partner's scene down to the smallest twitch, breath, and verbal slip.
 
 ## Overview

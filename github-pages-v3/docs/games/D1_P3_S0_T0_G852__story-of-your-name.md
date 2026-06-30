@@ -53,6 +53,8 @@ aliases: []
 
 # The Story of My Name
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build deep, authentic group connection by sharing the simple, unvarnished truth behind your name.
 
 ## Overview

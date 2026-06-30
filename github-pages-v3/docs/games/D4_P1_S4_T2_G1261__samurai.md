@@ -63,6 +63,8 @@ aliases: []
 
 # Samurai Circle
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A high-energy, rhythmic passing game that builds group focus, physical commitment, and split-second timing.
 
 ## Overview

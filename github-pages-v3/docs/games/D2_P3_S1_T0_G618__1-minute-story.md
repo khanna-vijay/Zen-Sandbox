@@ -53,6 +53,8 @@ aliases: []
 
 # Sixty-Second Biography
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Listen deeply to a partner's life story, then repeat it back with absolute accuracy.
 
 ## Overview

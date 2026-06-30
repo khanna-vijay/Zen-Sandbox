@@ -63,6 +63,8 @@ aliases:
 
 # The Narrative Pivot
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Inject sudden, game-changing choices to rescue stalling scenes and master dynamic narrative architecture.
 
 ## Overview

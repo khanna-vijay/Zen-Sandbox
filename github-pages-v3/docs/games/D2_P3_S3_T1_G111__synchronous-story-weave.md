@@ -67,6 +67,8 @@ aliases: []
 
 # Synchronous Story Weave
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Speak only when your bodies are in perfect, unspoken agreement.
 
 ## Overview

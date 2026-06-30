@@ -68,6 +68,8 @@ aliases:
 
 # The Silent Confessional
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Step out of the scene, read the room's silent reactions, and let them change you.
 
 ## Overview

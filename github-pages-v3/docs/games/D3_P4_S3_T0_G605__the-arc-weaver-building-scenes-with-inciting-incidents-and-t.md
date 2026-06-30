@@ -62,6 +62,8 @@ aliases:
 
 # The Arc Weaver
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Co-create complete narrative arcs in real time guided by structural side-coaching.
 
 ## Overview

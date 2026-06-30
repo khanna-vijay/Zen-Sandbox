@@ -64,6 +64,8 @@ aliases: []
 
 # The Subtext Echo Chamber
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build a deep, evolving relationship using only a single repeated sentence and silent physical offers.
 
 ## Overview

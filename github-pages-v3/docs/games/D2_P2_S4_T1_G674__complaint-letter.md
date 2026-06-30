@@ -56,6 +56,8 @@ aliases: []
 
 # The Complaint Letter
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Co-write a hilarious letter of grievance one word at a time, building radical agreement.
 
 ## Overview

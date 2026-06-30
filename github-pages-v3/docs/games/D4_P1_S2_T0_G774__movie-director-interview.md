@@ -63,6 +63,8 @@ aliases:
 
 # The Director's Cut
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > An interviewer and director discuss a film career while actors instantly bring the clips to life.
 
 ## Overview

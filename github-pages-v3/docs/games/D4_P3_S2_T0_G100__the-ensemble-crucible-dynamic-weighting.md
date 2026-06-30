@@ -70,6 +70,8 @@ aliases:
 
 # Dynamic Weighting
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Balance the stage by consciously dividing the labor of driving, sustaining, and disrupting a scene.
 
 ## Overview

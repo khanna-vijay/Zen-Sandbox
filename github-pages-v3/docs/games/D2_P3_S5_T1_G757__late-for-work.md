@@ -60,6 +60,8 @@ aliases: []
 
 # Late for Work
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A high-stakes comedic guessing game where colleagues mime absurd excuses to save their coworker's job.
 
 ## Overview

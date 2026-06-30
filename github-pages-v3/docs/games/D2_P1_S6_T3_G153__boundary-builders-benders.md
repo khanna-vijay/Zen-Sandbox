@@ -61,6 +61,8 @@ aliases: []
 
 # Bridges and Boundaries
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Master the art of conditional agreement and generative refusal to build safer, more truthful scenes.
 
 ## Overview

@@ -70,6 +70,8 @@ aliases:
 
 # Resonance Shift
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Instantly embody high-contrast emotional states using raw vocalization, physical commitment, and rapid self-recovery.
 
 ## Overview

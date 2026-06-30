@@ -57,6 +57,8 @@ aliases:
 
 # Equilateral Triangles
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A silent, kinetic group exercise where players dynamically balance the space using secret physical relationships.
 
 ## Overview

@@ -58,6 +58,8 @@ aliases:
 
 # Flock Movement
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Move as a single, organic unit by shifting leadership based on the direction you face.
 
 ## Overview

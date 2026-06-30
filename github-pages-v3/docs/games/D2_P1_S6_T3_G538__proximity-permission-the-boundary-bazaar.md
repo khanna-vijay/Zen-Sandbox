@@ -64,6 +64,8 @@ aliases:
 
 # The Boundary Bazaar
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > In-character negotiation meets physical boundaries to build trust, safety, and authentic scene work.
 
 ## Overview

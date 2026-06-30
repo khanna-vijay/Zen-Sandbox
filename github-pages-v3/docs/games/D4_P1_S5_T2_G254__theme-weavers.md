@@ -66,6 +66,8 @@ aliases: []
 
 # Theme Tapestry
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Discover, name, and collectively deepen the hidden thematic currents running beneath your scenes.
 
 ## Overview

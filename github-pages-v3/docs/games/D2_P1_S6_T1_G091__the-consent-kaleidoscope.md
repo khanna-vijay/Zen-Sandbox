@@ -62,6 +62,8 @@ aliases: []
 
 # The Consent Prism
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Pause, negotiate, and replay scene moments to master real-time boundary navigation and partner support.
 
 ## Overview

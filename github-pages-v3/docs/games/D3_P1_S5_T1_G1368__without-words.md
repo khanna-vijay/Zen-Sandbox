@@ -57,6 +57,8 @@ aliases: []
 
 # The Wordless World
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build rich scenes and relationships using only physical action, environmental sounds, and silence.
 
 ## Overview

@@ -62,6 +62,8 @@ aliases: []
 
 # The Truth Cascade
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Escalate dramatic tension instantly by justifying and integrating sudden, high-stakes narrative truths.
 
 ## Overview

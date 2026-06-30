@@ -55,6 +55,8 @@ aliases: []
 
 # Collective Definition
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Discover a hidden object together by contributing one descriptive clue at a time.
 
 ## Overview

@@ -64,6 +64,8 @@ aliases:
 
 # The Sightline Lab
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Train your physical and vocal projection using targeted feedback from the room's most challenging seats.
 
 ## Overview

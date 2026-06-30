@@ -58,6 +58,8 @@ aliases: []
 
 # Stunt Double
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Step in from the sidelines to perform high-stakes physical actions for your scene partners.
 
 ## Overview

@@ -2,7 +2,7 @@
 catalog_serial: 196
 filename: "D4_P1_S4_T1_G196__kinetic-transitions.md"
 title: "Resonance Bridges"
-tagline: "Unify your ensemble by transforming the final breath of one scene into the spark of the next."
+tagline: "Unify your ensemble by channeling the final energy of one scene into the next."
 status: "enriched"
 primary_domain: 4
 primary_domain_name: "The Ensemble"
@@ -64,10 +64,12 @@ aliases: []
 
 # Resonance Bridges
 
-> Unify your ensemble by transforming the final breath of one scene into the spark of the next.
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
+> Unify your ensemble by channeling the final energy of one scene into the next.
 
 ## Overview
-A dynamic ensemble exercise where players bridge separate scenes by collectively absorbing and physically embodying the final emotional and rhythmic energy of the preceding scene. Instead of a hard reset, the entire group pauses to internalize the ending momentum, using it as a launchpad for the next narrative beat. This creates a highly connected, fluid long-form flow that values transitions as much as the scenes themselves.
+Resonance Bridges is an advanced ensemble game where players transition between scenes by collectively absorbing and physically embodying the final emotional and rhythmic energy of the preceding piece. Instead of a clean slate reset, the entire group pauses to internalize the ending momentum, using it as a launchpad for the next narrative beat. This creates a highly connected, fluid long-form flow that values transitions as much as the scenes themselves.
 
 ## What It Trains
 - **Domain:** D4 — The Ensemble
@@ -93,13 +95,13 @@ A dynamic ensemble exercise where players bridge separate scenes by collectively
 | Audience | not required |
 
 ## Setup
-An open, moderate-sized playing space. 4 to 8 players stand in a backline or semi-circle facing the stage area. No props or chairs are needed. The facilitator secures a single, simple suggestion (e.g., an object or location) to inspire the entire run.
+An open, moderate-sized playing space. Four to eight players stand in a backline or semi-circle facing the stage area. No props or chairs are needed. The facilitator secures a single, simple suggestion to inspire the entire run.
 
 ## How to Play
-1. Begin with two players stepping forward to initiate a scene based on the initial suggestion, establishing clear characters and relationships.
+1. Two players step forward to initiate a scene based on the initial suggestion, establishing clear characters and relationships.
 2. As the scene develops, the offstage players and facilitator actively track the emotional, physical, and rhythmic trajectory of the performance.
-3. When the scene reaches a high-energy climax, a poignant realization, or a resonant silence, an offstage player or the facilitator executes a swift sweep edit.
-4. Immediately upon the edit, the entire ensemble (both onstage and offstage players) takes a synchronized, deep, audible collective breath together.
+3. When the scene reaches a high-energy climax, a poignant realization, or a resonant silence, an offstage player executes a swift sweep edit.
+4. Immediately upon the edit, the entire ensemble (both onstage and offstage players) takes a synchronized, deep, audible collective breath or a shared physical gesture.
 5. For the next three to five seconds, every player silently and physically embodies the dominant emotional state, physical posture, or rhythmic pulse of the scene's final moment.
 6. Two new players immediately step into the space, initiating the next scene by directly adopting, reacting to, or expanding upon this shared physical and emotional resonance.
 7. The new scene must justify its high or low energy, rapid or slow pacing, and physical tension based on the inherited momentum, even if the characters and setting are entirely new.
@@ -115,6 +117,7 @@ An open, moderate-sized playing space. 4 to 8 players stand in a backline or sem
 - Resonance Whisper: During the silent embodiment phase, one offstage player whispers a single evocative word that captures the energy. The incoming players must use this word in their opening exchange.
 - Physical Inheritance: The exiting players freeze in their final postures. The incoming players must physically enter the space, assume those exact physical shapes, and then justify why their new characters are in those positions.
 - Dynamic Counterpoint: Instead of matching the energy, the incoming players must initiate with the exact opposite emotional or physical rhythm, but immediately justify how this sudden shift was caused by the previous scene's climax.
+- Virtual Resonance: In online play, players use camera-on/camera-off transitions. When an edit occurs, all players turn their cameras on, assume the physical/emotional posture in their frame, take a collective breath, and then the next two players remain on camera while others turn theirs off.
 
 ## Debrief
 - How did taking a collective breath change your awareness of the scene's ending compared to a standard sweep edit?
@@ -122,7 +125,7 @@ An open, moderate-sized playing space. 4 to 8 players stand in a backline or sem
 - How did this practice affect the overall pacing and rhythm of the entire set of scenes?
 
 ## Safety & Inclusion
-Ensure players are mindful of physical boundaries during the rapid transitions. Since players are embodying intense physical or emotional states quickly, remind them to maintain control of their movements and respect personal space when entering the stage.
+For players with respiratory limitations, the collective breath can be replaced with a shared physical gesture, a synchronized nod, or a soft vocal hum. For players with physical or mobility limitations, the physical embodiment can be adapted to facial expressions, hand gestures, or vocal tone shifts. Ensure the space is clear of obstacles for safe, rapid transitions.
 
 ## Why It Works
 By formalizing the transition phase, this game transforms edits from simple stop-buttons into active creative conduits. The collective breath and physical embodiment force the entire ensemble to align their focus, building Group Mind. It trains players to view a long-form set not as isolated sketches, but as a continuous, rhythmic wave where every scene's ending directly feeds the next's beginning.

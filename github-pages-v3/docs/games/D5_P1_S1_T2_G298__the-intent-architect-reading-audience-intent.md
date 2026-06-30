@@ -2,7 +2,7 @@
 catalog_serial: 298
 filename: "D5_P1_S1_T2_G298__the-intent-architect-reading-audience-intent.md"
 title: "The Intent Architect"
-tagline: "Decode the unspoken emotional desires behind audience suggestions to build deeply resonant, impactful scenes."
+tagline: "Decode the unspoken emotional desires behind audience suggestions to build deeply resonant, high-impact scenes."
 status: "enriched"
 primary_domain: 5
 primary_domain_name: "The Audience"
@@ -57,16 +57,17 @@ keywords:
   - "huddle"
   - "meta-improv"
   - "audience connection"
-aliases:
-  - "The Intent Architect"
+aliases: []
 ---
 
 # The Intent Architect
 
-> Decode the unspoken emotional desires behind audience suggestions to build deeply resonant, impactful scenes.
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
+> Decode the unspoken emotional desires behind audience suggestions to build deeply resonant, high-impact scenes.
 
 ## Overview
-This exercise trains players to look past the literal definition of an audience suggestion and uncover its underlying emotional or thematic promise. By holding a brief, structured huddle before the scene starts, the team aligns on what the audience subconsciously wants to experience, then performs a scene designed to fulfill that specific expectation. It transforms the audience from a passive source of random words into an active, respected creative partner.
+This exercise trains players to look past the literal definition of an audience suggestion and uncover its underlying emotional or thematic promise. By holding a rapid, highly structured 15-second huddle before the scene starts, the team aligns on what the audience subconsciously wants to experience, then performs a scene designed to fulfill that specific expectation. It transforms the audience from a passive source of random words into an active, respected creative partner.
 
 ## What It Trains
 - **Domain:** D5 — The Audience
@@ -92,26 +93,29 @@ This exercise trains players to look past the literal definition of an audience 
 | Audience | not required |
 
 ## Setup
-An in-person playing space with a clear stage area and an audience area (which can be populated by other workshop participants). No props or materials are required.
+An in-person playing space with a clear stage area and an audience area (which can be populated by other workshop participants). No props or materials are required. For virtual play, ensure all players have functioning microphones and cameras, with a designated facilitator to manage timing.
 
 ## How to Play
 1. Gather a group of 4 to 6 players on stage and solicit a single-word or short-phrase suggestion from the audience.
-2. Immediately enter a tight, visible huddle on stage that is audible to the room but clearly separated from the upcoming scene.
-3. In the huddle, brainstorm the subconscious emotional, thematic, or stylistic desires behind the suggestion, asking what the audience actually wants to feel or see when they hear this word.
-4. Select one or two strong Audience Intent Hypotheses, moving away from literal interpretations toward emotional or thematic dynamics.
-5. Quickly agree on a scene engine or starting dynamic, such as a two-person relationship scene or a high-energy group game, that best serves this identified intent.
-6. Break the huddle and immediately initiate the scene, using the literal suggestion only as a launching pad while treating the agreed-upon audience intent as the true compass.
-7. Play the scene with high clarity and strong stage presence, ensuring that the choices made are highly readable and directly address the chosen emotional or thematic arc.
-8. Conclude the scene when the core emotional promise or thematic arc has been clearly delivered and landed with the room.
+2. Immediately enter a tight, visible huddle on stage. The facilitator starts a strict 15-second timer.
+3. In the huddle, rapidly brainstorm the subconscious emotional, thematic, or stylistic desires behind the suggestion, asking what the audience actually wants to feel or see when they hear this word.
+4. Select one strong Audience Intent Hypothesis, moving away from literal interpretations toward emotional or thematic dynamics (e.g., if the suggestion is 'keys', the intent might be 'the anxiety of being locked out' or 'the thrill of gaining access').
+5. Quickly agree on a starting dynamic, such as a two-person relationship scene or a high-energy group game, that best serves this identified intent.
+6. Break the huddle immediately when the 15-second timer expires, transitioning instantly into the scene.
+7. Initiate the scene, using the literal suggestion only as a launching pad while treating the agreed-upon audience intent as the true compass.
+8. Play the scene with high clarity and strong stage presence, ensuring that the choices made are highly readable and directly address the chosen emotional or thematic arc.
+9. Conclude the scene when the core emotional promise or thematic arc has been clearly delivered and landed with the room.
 
 ## Facilitation Notes
-- Side-coaching cue: If players start planning specific plot points or lines in the huddle, interrupt them and redirect: Focus on the feeling or the dynamic the audience wants, not the plot!
-- Pitfall: Players often fall into literal representation. Fix: Remind them that the suggestion is a gateway to a human dynamic, not a literal prop requirement.
-- Side-coaching cue: Encourage players to play for the back row by making their chosen intent bold and readable from the very first line of the scene.
-- Pitfall: Pandering to the audience for cheap laughs instead of delivering a satisfying thematic arc. Fix: Coach players to respect the audience's intelligence by committing to the emotional truth of the chosen intent.
+- Enforce the 15-second huddle limit strictly. Use a physical buzzer, a verbal countdown, or a clap to break the huddle, which keeps the energy high and prevents over-planning.
+- If players start planning specific plot points or lines in the huddle, interrupt them and redirect: 'Focus on the feeling or the dynamic the audience wants, not the plot!'
+- Encourage players to play for the back row by making their chosen intent bold and readable from the very first line of the scene.
+- Watch out for literal representation. If the suggestion is 'dentist' and they perform a literal dental exam without any emotional subtext, pause the scene and ask: 'What is the emotional core of a dentist visit that we can play instead?'
+- Coach players to respect the audience's intelligence by committing to the emotional truth of the chosen intent rather than pandering for cheap, superficial laughs.
 
 ## Variations
-- The Blind Intent: One player leaves the room while the audience and the remaining players agree on the suggestion and its underlying intent. The returning player must discover and adapt to the chosen intent purely through room reading and scene work.
+- The Virtual Huddle: In online play, players use a designated 'hot mic' huddle where they lean close to their cameras and whisper, or use a rapid 15-second private chat blast to align on the intent before turning their cameras on to start the scene.
+- The Blind Intent: One player leaves the room (or enters a virtual waiting room) while the audience and the remaining players agree on the suggestion and its underlying intent. The returning player must discover and adapt to the chosen intent purely through room reading and scene work.
 - The Silent Huddle: Instead of talking, the players have 15 seconds of silent eye contact in the huddle to non-verbally align on the energy and emotional tone they will bring to the suggestion.
 
 ## Debrief
@@ -120,7 +124,7 @@ An in-person playing space with a clear stage area and an audience area (which c
 - What techniques did you use to make your chosen intent clear and readable to the back row without explicitly stating it?
 
 ## Safety & Inclusion
-Ensure the huddle remains a supportive, low-pressure space where all ideas are welcomed rapidly. If players have physical or sensory boundaries, adapt the huddle formation so everyone can comfortably hear and contribute without physical crowding.
+Ensure the huddle remains a supportive, low-pressure space where all ideas are welcomed rapidly. If players have physical or sensory boundaries, adapt the huddle formation so everyone can comfortably hear and contribute without physical crowding. For hearing-impaired players, the huddle can be conducted using rapid hand gestures, a shared whiteboard, or a text chat in virtual settings.
 
 ## Why It Works
-This game works because it formalizes the subconscious process of reading the room and interpreting suggestions. By forcing players to articulate the audience's emotional desires out loud before playing, it breaks the habit of literal, surface-level play. It treats the audience as an active, respected partner in the creative process, leading to scenes with higher emotional stakes, clearer narrative direction, and stronger audience connection.
+This game works because it formalizes the subconscious process of reading the room and interpreting suggestions. By forcing players to articulate the audience's emotional desires out loud under a strict 15-second time constraint, it breaks the habit of literal, surface-level play and prevents intellectual over-thinking. It treats the audience as an active, respected partner in the creative process, leading to scenes with higher emotional stakes, clearer narrative direction, and stronger audience connection.

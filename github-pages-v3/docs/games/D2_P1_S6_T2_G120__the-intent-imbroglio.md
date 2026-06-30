@@ -60,6 +60,8 @@ aliases:
 
 # Intentional Intersections
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Navigate ambiguous character motives while practicing explicit, active consent and boundary-setting in real time.
 
 ## Overview

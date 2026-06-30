@@ -56,6 +56,8 @@ aliases: []
 
 # Hot Spot
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Rescue your teammates from the spotlight by jumping in with a new song.
 
 ## Overview

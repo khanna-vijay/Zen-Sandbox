@@ -67,6 +67,8 @@ aliases: []
 
 # Resonant Echo
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build deep partner connection and emotional subtext through precise verbal mirroring and micro-gifting.
 
 ## Overview

@@ -62,6 +62,8 @@ aliases:
 
 # The Silent Crucible
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Forge unwavering stage presence and crystal-clear choices by performing to a completely unresponsive audience.
 
 ## Overview

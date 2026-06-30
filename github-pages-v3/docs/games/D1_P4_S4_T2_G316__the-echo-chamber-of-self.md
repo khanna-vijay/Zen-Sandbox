@@ -67,6 +67,8 @@ aliases:
 
 # Vocal Resonance Ripple
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Transform raw internal impulses into an evolving, non-linguistic vocal soundscape around the circle.
 
 ## Overview

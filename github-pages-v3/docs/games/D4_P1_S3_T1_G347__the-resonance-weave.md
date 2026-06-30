@@ -63,6 +63,8 @@ aliases:
 
 # The Essence Weave
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Deconstruct a single abstract theme through rapid, disconnected vignettes edited by collective instinct.
 
 ## Overview

@@ -59,6 +59,8 @@ aliases:
 
 # The Open Canvas
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Navigate a seamless, self-directed longform set using only organic edits and collective intuition.
 
 ## Overview

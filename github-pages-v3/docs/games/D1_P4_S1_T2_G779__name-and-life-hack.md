@@ -54,6 +54,8 @@ aliases: []
 
 # Spontaneous Life Hacks
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Bypass your inner editor by sharing your name and the very first tip you think of.
 
 ## Overview

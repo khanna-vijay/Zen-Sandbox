@@ -62,6 +62,8 @@ aliases: []
 
 # The Tri-State Reset
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Instantly fuse emotion, movement, and voice, then wipe the slate clean on command.
 
 ## Overview

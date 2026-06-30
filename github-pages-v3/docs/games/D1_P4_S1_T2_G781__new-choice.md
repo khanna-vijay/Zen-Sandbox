@@ -60,6 +60,8 @@ aliases:
 
 # New Choice
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Bypass your inner editor by instantly replacing your last line on command.
 
 ## Overview

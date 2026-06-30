@@ -65,6 +65,8 @@ aliases:
 
 # Retroactive Reality
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Instantly rewrite the past to justify a sudden, reality-shifting twist in your scene.
 
 ## Overview

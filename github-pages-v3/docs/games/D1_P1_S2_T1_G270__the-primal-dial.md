@@ -71,6 +71,8 @@ aliases: []
 
 # The Primal Dial
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Pass and amplify abstract physical impulses, scaling emotional intensity from a spark to a roar.
 
 ## Overview

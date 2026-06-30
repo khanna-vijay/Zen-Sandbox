@@ -60,6 +60,8 @@ aliases:
 
 # Boundary Compass
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Navigate personal boundaries in real-time scenes using active check-ins and empowering cut calls.
 
 ## Overview

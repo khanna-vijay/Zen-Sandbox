@@ -59,6 +59,8 @@ aliases:
 
 # Blindfolded Scene
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Strip away visual cues to unlock deep auditory listening and heightened spatial awareness.
 
 ## Overview

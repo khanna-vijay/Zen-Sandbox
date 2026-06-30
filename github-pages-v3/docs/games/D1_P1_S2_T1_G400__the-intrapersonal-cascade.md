@@ -66,6 +66,8 @@ aliases: []
 
 # The Emotional Pivot
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Master rapid emotional transitions through total physical commitment and sudden, silent internal shifts.
 
 ## Overview

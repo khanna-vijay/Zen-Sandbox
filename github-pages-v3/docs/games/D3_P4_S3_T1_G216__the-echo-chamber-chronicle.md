@@ -62,6 +62,8 @@ aliases:
 
 # The Narrative Relay
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Co-create structured, dynamic stories over video chat by claiming specialized narrative roles.
 
 ## Overview

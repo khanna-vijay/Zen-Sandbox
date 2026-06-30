@@ -64,6 +64,8 @@ aliases:
 
 # The Guided Traveler
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Guide a blindfolded partner safely through an obstacle course using only clear, supportive vocal cues.
 
 ## Overview

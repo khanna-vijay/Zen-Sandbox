@@ -62,6 +62,8 @@ aliases:
 
 # The Physical Interpreter
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A high-energy trio game of physical translation, active listening, and making your partner look brilliant.
 
 ## Overview

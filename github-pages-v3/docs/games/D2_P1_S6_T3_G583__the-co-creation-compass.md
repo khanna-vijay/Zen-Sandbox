@@ -60,6 +60,8 @@ aliases:
 
 # The Boundary Compass
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Navigate physical boundaries and integrate 'no' as a creative gift to build trust and safety.
 
 ## Overview

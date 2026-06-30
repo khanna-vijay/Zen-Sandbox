@@ -70,6 +70,8 @@ aliases:
 
 # Somatic Echoes
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Pass a physical impulse down a chain by translating felt emotional impact into new movement.
 
 ## Overview

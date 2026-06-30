@@ -60,6 +60,8 @@ aliases:
 
 # Pass the Pulse
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Send a single, shared beat around the circle to build collective focus and rhythm.
 
 ## Overview

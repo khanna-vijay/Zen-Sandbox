@@ -54,6 +54,8 @@ aliases: []
 
 # Complaints Department
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Decode the audience's energy to guess the bizarre item you are returning to a store.
 
 ## Overview

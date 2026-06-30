@@ -54,6 +54,8 @@ aliases: []
 
 # The Four-Step Rhythm Shift
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A fast-paced physical coordination drill that turns mental short-circuits into shared laughter.
 
 ## Overview

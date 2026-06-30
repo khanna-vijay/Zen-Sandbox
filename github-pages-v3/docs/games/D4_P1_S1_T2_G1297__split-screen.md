@@ -61,6 +61,8 @@ aliases: []
 
 # Split Screen
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Two characters played by four actors across a split stage using seamless, portal-like transitions.
 
 ## Overview

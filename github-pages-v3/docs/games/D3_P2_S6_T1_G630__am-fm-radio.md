@@ -2,7 +2,7 @@
 catalog_serial: 630
 filename: "D3_P2_S6_T1_G630__am-fm-radio.md"
 title: "AM/FM Radio"
-tagline: "Justify random live radio broadcasts to build, disrupt, and rebuild a cohesive scenic reality."
+tagline: "Instantly justify random live audio broadcasts to build and rebuild a committed scenic reality."
 status: "enriched"
 primary_domain: 3
 primary_domain_name: "The Scene"
@@ -44,10 +44,7 @@ energy_level: "medium"
 physicality_level: "medium"
 audience_required: "yes"
 props_required: "yes"
-props_list:
-  - "AM/FM radio or digital receiver"
-  - "PA system connection"
-  - "Theater lighting controls"
+props_list: []
 space_required: "moderate"
 est_duration_minutes: 10
 keywords:
@@ -59,16 +56,17 @@ keywords:
   - "audience interaction"
   - "mouthing along"
   - "freeze"
-aliases:
-  - "AM/FM Radio"
+aliases: []
 ---
 
 # AM/FM Radio
 
-> Justify random live radio broadcasts to build, disrupt, and rebuild a cohesive scenic reality.
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
+> Instantly justify random live audio broadcasts to build and rebuild a committed scenic reality.
 
 ## Overview
-In this high-energy scenic game, players alternate between physicalizing random live radio broadcasts in the dark and performing scenes in the light. When the volume drops, the actors must instantly justify whatever bizarre audio just played, integrating it into a grounded base reality. The result is a fast-paced exercise in active listening, physical commitment, and rapid justification.
+In this dynamic scenic game, players alternate between physicalizing random live radio broadcasts and performing scenes. When the audio cuts out, the actors must instantly justify whatever bizarre sounds, words, or music just played, seamlessly integrating them into a grounded base reality. This high-energy exercise challenges players to listen deeply, commit physically, and find logical explanations for the absurd.
 
 ## What It Trains
 - **Domain:** D3 — The Scene
@@ -77,7 +75,7 @@ In this high-energy scenic game, players alternate between physicalizing random 
 - **Technique(s):** Justify the absurd; Reading the suggestion's intent
 - **Focus:** mixed
 
-**Objective:** To develop rapid justification skills (D3.S6) and establish a strong base reality (D3.P2) that can absorb and normalize absurd, unexpected external inputs (D3.S6.T1).
+**Objective:** To train rapid justification and the establishment of a strong base reality by forcing players to treat unexpected, chaotic external audio inputs as absolute, logical truths within their scene.
 
 ## At a Glance
 | Aspect | Detail |
@@ -90,40 +88,41 @@ In this high-energy scenic game, players alternate between physicalizing random 
 | Physicality | medium |
 | Modality | in_person |
 | Space | moderate |
-| Props | AM/FM radio or digital receiver, PA system connection, Theater lighting controls |
+| Props | yes |
 | Audience | required |
 
 ## Setup
-A stage with theater lighting controls (blackout capability) and a live AM/FM radio receiver (or digital equivalent) routed through the venue's PA system. An audience volunteer or tech improviser is positioned near the receiver to scan stations. Two to six players stand on stage.
+A performance space with a live audio source (such as an AM/FM radio, digital receiver, or smartphone connected to a speaker) controlled by a facilitator or tech operator. For standard theater spaces, lighting controls with blackout capability are used. For low-tech spaces, players simply close their eyes during the audio segments. Two to six players stand on stage, while the rest of the group acts as the audience.
 
 ## How to Play
-1. Position the players on stage in a frozen physical tableau, and plunge the stage into a blackout.
-2. Have the tech operator or an audience volunteer spin the radio dial to a completely random, live station and raise the volume through the PA.
-3. While the lights are down and the radio plays, the players must physically move, mime, and mouth along to the audio, embodying its rhythm, tone, and emotion.
-4. Fade the radio volume down completely and bring the stage lights up to reveal the players in their new physical positions.
-5. The players immediately begin a scene, using the exact words, tone, or theme of the radio broadcast as the absolute truth of their current reality.
-6. Establish a grounded base reality first, treating the bizarre radio inspiration not as an outside joke, but as a logical foundation for their relationship and environment.
-7. After a minute of scenic play, the tech operator triggers a blackout and turns the radio back up, prompting the actors to freeze and adapt to a brand-new random broadcast.
-8. Repeat this cycle two to three times, requiring the actors to either continue the same scene with new absurd justifications or transition seamlessly into a new grounded reality.
+1. Two players step onto the stage and close their eyes (or the theater lights are cut to a safe, low-light blackout).
+2. The tech operator or facilitator plays a random, live radio broadcast or audio clip at a high volume for five to ten seconds.
+3. While the audio plays, the players physically embody the rhythm, tone, and emotional energy of the sound, moving safely within their immediate personal space without traveling across the stage.
+4. The facilitator abruptly cuts the audio and signals the players to open their eyes (or brings the stage lights up).
+5. The players immediately freeze in their physical postures and begin an improvised scene based on their physical states and the audio they just heard.
+6. The players must treat the audio content—whether a commercial, a sports broadcast, or a song—as the absolute, literal truth of their current reality, establishing a grounded relationship and environment.
+7. Rather than commenting on the radio broadcast as an outside force, the characters must fully own the content as their own thoughts, professions, or immediate circumstances.
+8. After approximately one minute of scenic play, the facilitator cuts the lights or calls 'Freeze/Eyes Closed' and plays a new random audio clip, repeating the cycle.
 
 ## Facilitation Notes
-- Side-coaching cue: 'Don't comment on the radio—be the radio! Let the emotion land in your body before you speak.'
-- Pitfall: Players treating the radio broadcast as an external force (e.g., saying 'Did you hear that weird radio?'). Fix: Coach them to internalize it. If a commercial for car insurance played, they are insurance agents or people desperately needing insurance.
-- Side-coaching cue: 'Justify the absurd! Why is this specific topic the most important thing in your lives right now?'
-- Pitfall: Tech delays or dead air. Fix: Have a backup playlist of weird podcasts or pre-recorded static/clips if live radio reception is poor in the theater.
+- Coaching Cue: 'Don't comment on the noise—be the noise!' Remind players to internalize the broadcast. If a commercial for lawnmowers plays, they are not listening to a radio; they are competitive landscapers or neighbors arguing over a lawn.
+- Safety Tip: To prevent collisions during blackouts, instruct players to keep one foot planted or only move within their immediate arm's reach. Alternatively, use a dim blue safety light instead of a total blackout.
+- Low-Tech Fix: If theater lighting is unavailable, have players stand with their eyes closed during the audio sweep. When the audio stops, the facilitator claps to signal them to open their eyes and begin.
+- Pitfall: Players waiting to speak until they have a 'clever' idea. Coach them to speak immediately using the very first word or emotion that the audio inspired, trusting their partner to help justify it.
+- Audio Backup: Keep a pre-loaded playlist of diverse audio clips (podcasts, foreign language news, sound effects) on a phone in case live radio reception is poor or contains dead air.
 
 ## Variations
-- Podcast Roulette: Use a mobile device to skip to random spots in obscure podcasts or audiobooks instead of live radio.
-- Genre Jump: The radio broadcast dictates the genre of the scene (e.g., classical music forces a melodrama, sports talk forces high-energy competition).
-- Continuous Narrative: Players must maintain the exact same characters and storyline across multiple radio interruptions, justifying how the new audio fits into their ongoing plot.
+- Continuous Narrative: Players maintain the same characters and storyline across multiple audio interruptions, justifying how each new random broadcast represents a new development or internal thought in their ongoing scene.
+- Online Adaptation: Play over a video conferencing platform. Players turn their cameras off and close their eyes while the host shares computer audio of a random radio scanner. When the audio stops, players turn their cameras on and immediately begin the scene.
+- Genre Dial: The style of the audio dictates the theatrical genre of the scene (e.g., classical music triggers a period drama, high-tempo electronic music triggers a sci-fi thriller).
 
 ## Debrief
-- How did the physical movement during the blackout help you commit to the radio's tone before the scene even started?
-- What strategies did you use to make a completely random piece of audio feel like a logical, grounded part of your character's life?
-- How does treating the 'absurd' input as absolute truth help prevent the scene from devolving into shallow jokes?
+- How did physicalizing the audio before speaking help you commit to an emotional state?
+- What is the difference between commenting on an absurd input ('What was that weird sound?') versus justifying it ('My heart beats like a techno song when I'm near you')?
+- How did you balance the absurdity of the radio clip with the need to keep the scene's relationship grounded?
 
 ## Safety & Inclusion
-Ensure the volume levels are comfortable for both players and audience. If a live broadcast contains highly offensive or triggering content, the tech operator should immediately spin the dial to a new station without hesitation.
+To ensure physical safety during blackouts, players must remain in their starting spots or move only within their personal bubble. If a live broadcast accidentally airs offensive, triggering, or inappropriate content, the tech operator must immediately spin the dial or mute the audio, and players should treat the interruption as a standard transition.
 
 ## Why It Works
-By forcing players to physically align with random audio in the dark, it bypasses intellectual filtering. When the lights come up, the immediate need to justify their physical state and the audio input drives them to establish a fast, committed base reality. It teaches that any offer—no matter how chaotic—can be integrated logically.
+This game bypasses the analytical mind by combining physical commitment with immediate auditory stimulation. By forcing players to physicalize the sound before they can intellectualize it, they enter the scene with a pre-established emotional baseline. Justifying the random audio as an absolute truth trains the brain to treat every unexpected offer as a gift, reinforcing the core principle of Yes, And.

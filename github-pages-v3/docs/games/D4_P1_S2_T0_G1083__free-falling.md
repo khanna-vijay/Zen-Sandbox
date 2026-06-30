@@ -58,6 +58,8 @@ aliases:
 
 # Circle of Support
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build deep ensemble trust and physical responsiveness by catching and supporting a leaning teammate.
 
 ## Overview

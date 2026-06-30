@@ -63,6 +63,8 @@ aliases: []
 
 # The Invisible Enforcer
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Justify absurd accusations and react to an invisible brute to survive a high-stakes interrogation.
 
 ## Overview

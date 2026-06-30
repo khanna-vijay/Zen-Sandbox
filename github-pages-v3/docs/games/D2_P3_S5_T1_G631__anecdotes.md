@@ -59,6 +59,8 @@ aliases: []
 
 # Shared Anecdotes
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Co-create a seamless, highly supportive shared memory where every player is made to look brilliant.
 
 ## Overview

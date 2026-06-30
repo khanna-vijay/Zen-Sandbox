@@ -67,6 +67,8 @@ aliases:
 
 # The Emotional Crucible
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Embody a core emotion while instantly integrating a rapid-fire barrage of physical and vocal constraints.
 
 ## Overview

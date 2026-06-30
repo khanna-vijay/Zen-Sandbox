@@ -57,6 +57,8 @@ aliases:
 
 # Gibberish Switch
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Seamlessly toggle a single narrative between clear English and expressive, high-commitment gibberish.
 
 ## Overview

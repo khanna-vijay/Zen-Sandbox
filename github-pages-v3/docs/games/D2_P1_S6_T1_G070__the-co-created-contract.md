@@ -61,6 +61,8 @@ aliases:
 
 # The Negotiated Scene
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build compelling scenes by pausing to explicitly negotiate physical and emotional boundaries in real time.
 
 ## Overview

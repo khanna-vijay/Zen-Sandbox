@@ -56,6 +56,8 @@ aliases: []
 
 # Sound Flocks
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Find your sonic family using only animal sounds and physical movement in a chaotic space.
 
 ## Overview

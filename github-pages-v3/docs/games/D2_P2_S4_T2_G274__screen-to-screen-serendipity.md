@@ -66,6 +66,8 @@ aliases: []
 
 # Grid Gift Relay
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Co-create and pass an invisible, evolving object across your virtual video grid.
 
 ## Overview

@@ -62,6 +62,8 @@ aliases:
 
 # The Ultimate Audition
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Belt out improvised anthems under the hilarious scrutiny of highly opinionated judges.
 
 ## Overview

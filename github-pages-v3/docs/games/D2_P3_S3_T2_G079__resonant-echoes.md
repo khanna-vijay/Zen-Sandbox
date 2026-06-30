@@ -72,6 +72,8 @@ aliases:
 
 # Resonant Echoes
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build profound, unspoken relationships by mirroring and elevating your partner's subtle emotional and status cues.
 
 ## Overview

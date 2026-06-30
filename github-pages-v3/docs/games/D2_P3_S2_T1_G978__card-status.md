@@ -64,6 +64,8 @@ aliases:
 
 # Card Status
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Discover your social standing solely through how your scene partners treat you.
 
 ## Overview

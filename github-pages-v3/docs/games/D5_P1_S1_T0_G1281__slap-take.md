@@ -54,6 +54,8 @@ aliases: []
 
 # The Reaction Strike
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Listen to the room and turn audience laughter into sudden, justified physical comedy.
 
 ## Overview

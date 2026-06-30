@@ -61,6 +61,8 @@ aliases:
 
 # Platforming the Partner
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Set up your partner to deliver the most brilliant, insightful line of the scene.
 
 ## Overview

@@ -55,6 +55,8 @@ aliases: []
 
 # Last Letter Association
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Bypass your inner editor by launching new words from the tail end of the last.
 
 ## Overview

@@ -59,6 +59,8 @@ aliases: []
 
 # Sounds Like a Song
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Transform ordinary spoken dialogue into high-energy, spontaneous musical numbers on a single cue.
 
 ## Overview

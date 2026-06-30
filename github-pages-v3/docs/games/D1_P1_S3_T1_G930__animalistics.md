@@ -63,6 +63,8 @@ aliases:
 
 # Animal Instincts
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Transform animal traits into fully realized human characters through physical, vocal, and status choices.
 
 ## Overview

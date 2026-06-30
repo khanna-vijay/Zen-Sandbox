@@ -64,6 +64,8 @@ aliases:
 
 # Atmospheric Architects
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Sculpt, sustain, and seamlessly transition through collective emotional landscapes using only movement, sound, and space.
 
 ## Overview

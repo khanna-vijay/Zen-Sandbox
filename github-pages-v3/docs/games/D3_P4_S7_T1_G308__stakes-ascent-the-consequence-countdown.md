@@ -65,6 +65,8 @@ aliases:
 
 # Consequence Countdown
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Escalate narrative tension under rapid-fire time constraints and high-stakes external consequences.
 
 ## Overview

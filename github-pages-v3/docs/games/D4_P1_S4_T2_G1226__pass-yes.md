@@ -59,6 +59,8 @@ aliases:
 
 # Pass Yes
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A rapid-fire circle game of agreement, reversal, and shared rhythmic momentum.
 
 ## Overview

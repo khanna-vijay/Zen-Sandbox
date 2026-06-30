@@ -59,6 +59,8 @@ aliases: []
 
 # Old Job, New Job
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Perform a current profession using the physical habits, vocabulary, and mindset of a past career.
 
 ## Overview

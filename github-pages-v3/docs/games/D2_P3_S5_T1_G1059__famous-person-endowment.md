@@ -57,6 +57,8 @@ aliases: []
 
 # Famous Persona Gifting
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Empower your scene partners by treating them as iconic historical or pop-culture figures.
 
 ## Overview

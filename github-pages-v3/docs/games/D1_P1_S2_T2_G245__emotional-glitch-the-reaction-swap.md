@@ -67,6 +67,8 @@ aliases: []
 
 # Emotional Glitch
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Instantly swap your emotional state mid-scene to build radical versatility and physical commitment.
 
 ## Overview

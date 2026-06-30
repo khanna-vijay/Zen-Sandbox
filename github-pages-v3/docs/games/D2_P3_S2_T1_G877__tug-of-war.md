@@ -58,6 +58,8 @@ aliases: []
 
 # Cooperative Tug of War
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Yield control to elevate your partner in a physical battle of status and space.
 
 ## Overview

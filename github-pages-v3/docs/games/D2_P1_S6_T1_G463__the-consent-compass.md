@@ -60,6 +60,8 @@ aliases:
 
 # The Consent Compass
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Pause, check in, and navigate physical and emotional boundaries collaboratively before taking the leap.
 
 ## Overview

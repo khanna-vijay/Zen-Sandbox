@@ -61,6 +61,8 @@ aliases:
 
 # Pocket Lines
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Players seamlessly justify random, audience-written lines pulled from their pockets mid-scene.
 
 ## Overview

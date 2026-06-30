@@ -57,6 +57,8 @@ aliases: []
 
 # The Turning Circle
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Synchronize movement and shift directions instantly as a single, unified organism.
 
 ## Overview

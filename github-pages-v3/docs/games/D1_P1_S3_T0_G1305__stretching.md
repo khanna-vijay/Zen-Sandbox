@@ -55,6 +55,8 @@ aliases: []
 
 # Pass the Stretch
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A physical follow-the-leader warm-up that builds group connection and full-body commitment.
 
 ## Overview

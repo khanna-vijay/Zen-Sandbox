@@ -60,6 +60,8 @@ aliases: []
 
 # Boundary Co-Pilot
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Practice navigating physical contact, setting clear boundaries, and negotiating alternatives in real-time scenes.
 
 ## Overview

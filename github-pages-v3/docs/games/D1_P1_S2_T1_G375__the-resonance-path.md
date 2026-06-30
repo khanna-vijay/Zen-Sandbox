@@ -65,6 +65,8 @@ aliases: []
 
 # The Resonance Path
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Rapidly shift emotional intensity and physical commitment using a single spoken word as your anchor.
 
 ## Overview

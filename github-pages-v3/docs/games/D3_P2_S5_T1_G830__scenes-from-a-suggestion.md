@@ -53,6 +53,8 @@ aliases: []
 
 # C.R.O.W. Launchpad
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Transform any audience suggestion into a rich, fully realized scene foundation in seconds.
 
 ## Overview

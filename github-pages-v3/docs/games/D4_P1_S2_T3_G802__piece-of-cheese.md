@@ -61,6 +61,8 @@ aliases:
 
 # Three-Part Tableau
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build instant, three-part physical pictures by offering the most obvious, supportive connection possible.
 
 ## Overview

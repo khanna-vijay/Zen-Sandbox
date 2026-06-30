@@ -58,6 +58,8 @@ aliases: []
 
 # Word-at-a-Time Letter
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Co-write a single letter one word at a time, treating every pen stroke as an offer.
 
 ## Overview

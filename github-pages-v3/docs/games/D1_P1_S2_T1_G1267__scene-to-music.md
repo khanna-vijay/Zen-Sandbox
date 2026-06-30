@@ -57,6 +57,8 @@ aliases: []
 
 # Emotional Soundtrack
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Let changing musical genres dictate your emotional intensity and physical choices in a silent scene.
 
 ## Overview

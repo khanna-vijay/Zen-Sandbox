@@ -60,6 +60,8 @@ aliases:
 
 # The Spontaneity Spotlight
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Leap into the virtual spotlight and instantly launch a scene with your very first thought.
 
 ## Overview

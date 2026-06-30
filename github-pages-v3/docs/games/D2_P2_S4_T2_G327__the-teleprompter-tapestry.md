@@ -69,6 +69,8 @@ aliases:
 
 # The Teleprompter Tapestry
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Weave a seamless, real-time digital narrative using dynamic renaming, private prompts, and visual turn-taking.
 
 ## Overview

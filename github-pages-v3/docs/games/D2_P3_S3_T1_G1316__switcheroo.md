@@ -62,6 +62,8 @@ aliases:
 
 # Role Swap
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Players instantly trade characters mid-scene, matching their partner's physical, emotional, and narrative choices.
 
 ## Overview

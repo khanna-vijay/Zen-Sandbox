@@ -70,6 +70,8 @@ aliases:
 
 # The Somatic Impulse Dial
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Master emotional range and physical commitment by scaling raw, instinctive impulses from one to ten.
 
 ## Overview

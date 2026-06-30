@@ -69,6 +69,8 @@ aliases: []
 
 # The Expert's Echo
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Elevate your partner to supreme brilliance through precise physical mirroring, verbal validation, and generous endowments.
 
 ## Overview

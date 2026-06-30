@@ -64,6 +64,8 @@ aliases:
 
 # Echo and Elevate
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A structured four-step conversational cycle to master active listening, generous gifting, and status modulation.
 
 ## Overview

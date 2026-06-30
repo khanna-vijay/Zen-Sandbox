@@ -58,6 +58,8 @@ aliases:
 
 # Muted Replay
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Recreate a scene's physical movements while inventing entirely new dialogue to justify the action.
 
 ## Overview

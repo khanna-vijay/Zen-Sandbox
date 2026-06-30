@@ -53,6 +53,8 @@ aliases: []
 
 # Trunk Tag
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A high-energy tag game where getting tagged triggers a joyful, vocal release.
 
 ## Overview

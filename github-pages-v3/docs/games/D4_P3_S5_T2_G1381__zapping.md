@@ -61,6 +61,8 @@ aliases:
 
 # Channel Surfing
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Switch between distinct television channels that are all hilariously connected by a single audience suggestion.
 
 ## Overview

@@ -66,6 +66,8 @@ aliases:
 
 # The Silent Attunement Loop
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Pass, absorb, and subtly shift unspoken emotions and status in a silent, continuous loop.
 
 ## Overview

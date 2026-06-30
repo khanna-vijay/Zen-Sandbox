@@ -62,6 +62,8 @@ aliases: []
 
 # The Pink Slip Script
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Transform a rigid, six-line script into a masterclass of shifting power dynamics and subtext.
 
 ## Overview

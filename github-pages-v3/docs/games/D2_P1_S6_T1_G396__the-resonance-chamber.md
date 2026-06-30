@@ -62,6 +62,8 @@ aliases: []
 
 # The Resonance Chamber
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Weave real-time consent and boundary navigation directly into the creative flow of your scenes.
 
 ## Overview

@@ -60,6 +60,8 @@ aliases:
 
 # Three-Line Launches
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Establish a rich, complete base reality using only three lines of dialogue.
 
 ## Overview

@@ -69,6 +69,8 @@ aliases:
 
 # Story, Story, Die
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A high-stakes narrative game where players must seamlessly continue a story or face joyful elimination.
 
 ## Overview

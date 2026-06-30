@@ -66,6 +66,8 @@ aliases: []
 
 # Award-Winning Moments
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Unleash maximum commitment by executing highly specific, award-worthy cinematic highlights within a collaborative scene.
 
 ## Overview

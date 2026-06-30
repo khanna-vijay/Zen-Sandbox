@@ -55,6 +55,8 @@ aliases:
 
 # Smart Fellas
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A high-speed, tongue-twisting counting game where vocal slips and math errors are celebrated.
 
 ## Overview

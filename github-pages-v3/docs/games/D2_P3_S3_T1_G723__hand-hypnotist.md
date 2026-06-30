@@ -58,6 +58,8 @@ aliases:
 
 # Magnetic Palms
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Lead and follow through physical connection, keeping your partner safe, successful, and in flow.
 
 ## Overview

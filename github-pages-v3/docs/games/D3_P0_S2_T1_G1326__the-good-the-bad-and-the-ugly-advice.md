@@ -59,6 +59,8 @@ aliases:
 
 # The Advice Ladder
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Climb the ladder of comedic heightening by offering increasingly terrible solutions to simple problems.
 
 ## Overview

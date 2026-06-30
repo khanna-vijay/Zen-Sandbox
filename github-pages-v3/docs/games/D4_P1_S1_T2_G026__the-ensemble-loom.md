@@ -63,6 +63,8 @@ aliases: []
 
 # The Sensory Loom
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Weave physical motifs and vocal fragments into a living, breathing atmospheric collage.
 
 ## Overview

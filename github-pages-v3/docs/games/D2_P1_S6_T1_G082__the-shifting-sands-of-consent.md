@@ -65,6 +65,8 @@ aliases:
 
 # Dynamic Boundaries
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Navigate hidden character limits and pursue objectives through active, real-time consent check-ins.
 
 ## Overview

@@ -57,6 +57,8 @@ aliases: []
 
 # Sevens
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A high-energy, fast-paced counting game where mistakes are celebrated with a joyful lap of honor.
 
 ## Overview

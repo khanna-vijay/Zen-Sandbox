@@ -59,6 +59,8 @@ aliases:
 
 # Beatnik Poetry Slam
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Improvise pretentious rhyming poetry and fail spectacularly when the audience calls you out.
 
 ## Overview

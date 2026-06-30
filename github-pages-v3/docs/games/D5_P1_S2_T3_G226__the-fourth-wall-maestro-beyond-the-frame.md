@@ -65,6 +65,8 @@ aliases: []
 
 # The Fourth Wall Conductor
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Master the art of projecting energy, reading the room, and breaking the fourth wall intentionally.
 
 ## Overview

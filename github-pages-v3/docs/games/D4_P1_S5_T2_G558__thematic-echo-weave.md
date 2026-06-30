@@ -66,6 +66,8 @@ aliases:
 
 # Thematic Resonance Weave
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Weave a tapestry of non-linear scenes connected only by abstract themes, emotions, and physical motifs.
 
 ## Overview

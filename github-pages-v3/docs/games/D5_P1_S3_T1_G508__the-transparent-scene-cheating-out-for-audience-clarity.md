@@ -2,7 +2,7 @@
 catalog_serial: 508
 filename: "D5_P1_S3_T1_G508__the-transparent-scene-cheating-out-for-audience-clarity.md"
 title: "The Open Frame"
-tagline: "Master the physical art of cheating out to make every silent choice readable to the back row."
+tagline: "Master physical sightlines and body angles to share every silent choice with the entire room."
 status: "enriched"
 primary_domain: 5
 primary_domain_name: "The Audience"
@@ -41,12 +41,7 @@ energy_level: "medium"
 physicality_level: "medium"
 audience_required: "no"
 props_required: "yes"
-props_list:
-  - "small book"
-  - "coin"
-  - "letter"
-  - "pen"
-  - "photograph"
+props_list: []
 space_required: "moderate"
 est_duration_minutes: 15
 keywords:
@@ -58,16 +53,17 @@ keywords:
   - "physical awareness"
   - "sightlines"
   - "props work"
-aliases:
-  - "The Transparent Scene"
+aliases: []
 ---
 
 # The Open Frame
 
-> Master the physical art of cheating out to make every silent choice readable to the back row.
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
+> Master physical sightlines and body angles to share every silent choice with the entire room.
 
 ## Overview
-A dynamic staging drill where a facilitator pauses active scenes to physically adjust players' body angles, sightlines, and prop placement. By instantly correcting obscured moments, players build muscle memory for cheating out and sharing their performance with the entire room.
+The Open Frame is an interactive staging drill where players perform short, prop-heavy scenes while a facilitator or peers pause the action to physically adjust body angles and sightlines. By instantly correcting obscured moments, players build physical muscle memory for cheating out and sharing their performance with the audience. The experience transforms abstract staging rules into immediate, felt physical adjustments.
 
 ## What It Trains
 - **Domain:** D5 — The Audience
@@ -76,7 +72,7 @@ A dynamic staging drill where a facilitator pauses active scenes to physically a
 - **Technique(s):** Cheating out; Make the choice readable; Object work
 - **Focus:** skill_drill
 
-**Objective:** To develop physical stage presence, spatial awareness, and the habit of cheating out so that subtle emotional beats, physical actions, and prop work remain completely visible and legible to the audience.
+**Objective:** To build physical stage presence, spatial awareness, and the habit of cheating out so that subtle emotional beats, physical actions, and prop work remain completely visible and legible to the audience.
 
 ## At a Glance
 | Aspect | Detail |
@@ -89,29 +85,31 @@ A dynamic staging drill where a facilitator pauses active scenes to physically a
 | Physicality | medium |
 | Modality | in_person |
 | Space | moderate |
-| Props | small book, coin, letter, pen, photograph |
+| Props | yes |
 | Audience | not required |
 
 ## Setup
-An open performance space with a clearly defined stage and audience area. Place a small table with physical props (a small book, a coin, a letter, a pen, and a photograph) nearby. The facilitator sits in the center of the audience area, occasionally moving to the sides to check different sightlines.
+An open performance space with a clearly defined stage area and an audience area. Place a small table on stage with physical props (e.g., a small book, a coin, a letter, a pen, a photograph). The facilitator sits in the center of the audience area, with other players seated around them as active observers.
 
 ## How to Play
-1. Select two to three players to step onto the stage and assign them a simple, physically-focused scenario involving the provided props, such as secretly inspecting a stolen coin or reading a scandalous letter together.
+1. Select two to three players to step onto the stage and assign them a simple, physically-focused scenario involving the provided props (e.g., inspecting a stolen coin or reading a secret letter).
 2. Instruct the players to begin the scene, focusing on their characters' objectives while keeping their bodies, faces, and props open to the audience.
-3. The facilitator and remaining players watch from the audience area, actively tracking sightlines and visibility.
-4. Whenever a player turns their back completely, blocks a partner, hides a prop, or masks an emotional reaction, the facilitator calls Freeze!
-5. While the players hold their physical positions, the facilitator identifies the obscured element, such as losing a face during a line or hiding a prop in a palm.
+3. The facilitator and remaining players watch from the audience area, actively tracking sightlines, physical angles, and prop visibility.
+4. Whenever a player turns their back completely, blocks a partner, hides a prop, or masks an emotional reaction, the facilitator calls 'Freeze!'
+5. While the players hold their physical positions, the facilitator identifies the obscured element (e.g., 'We lost your face when you looked down' or 'The letter is hidden in your palm').
 6. Instruct the frozen players to slowly adjust their physical angles, shift their weight, or tilt the prop until the action is fully visible to the back row, without changing the emotional reality of the scene.
-7. Once the adjustment is visually clear, the facilitator calls Resume!, and the players continue the scene from their newly adjusted, open positions.
+7. Once the adjustment is visually clear, the facilitator calls 'Resume!', and the players continue the scene from their newly adjusted, open positions.
 8. Rotate players every three to four minutes, ensuring everyone has a turn to experience the physical adjustments on stage.
 
 ## Facilitation Notes
-- Side-coaching cue: Share your profile with the back wall, not just your partner, or Let the audience see the discovery first, then react to your partner.
+- Side-coaching cue: 'Share your profile with the back wall, not just your partner' or 'Let the audience see the discovery first, then react to your partner.'
 - Pitfall: Players feel unnatural cheating out and resist the physical angles. Fix: Remind them that stage reality is a physical illusion; what feels weirdly angled to them looks perfectly natural and engaging to the audience.
 - Pitfall: Over-freezing kills the narrative momentum. Fix: Keep the freezes brief and highly physical. Do not let players talk or explain their choices while frozen; simply adjust and resume.
 - Coaching tip: Encourage players to exaggerate their physical choices and prop handling initially. It is much easier to scale back an oversized choice than to expand a microscopic one.
 
 ## Variations
+- Self-Correction (Player-Led): Transition from facilitator-led freezes to player-led adjustments. When a player realizes they are blocking themselves or a prop, they must call 'Adjust!' on themselves, pause, correct their angle, and resume without facilitator intervention.
+- The Virtual Lens (Online Adaptation): On a video call, players 'cheat out' to the camera. Instead of turning profile to their physical room, they adjust their distance, angle, and prop placement relative to their webcam so their eyes and actions remain visible to the virtual audience.
 - The Silent Frame: Run the entire scene in complete silence, forcing players to rely entirely on physical posture, facial expressions, and prop manipulation to convey the narrative.
 - The Moving Target: The facilitator continuously walks around the perimeter of the room during the scene, forcing players to dynamically adjust their angles to stay open to a shifting audience perspective.
 
@@ -122,7 +120,7 @@ An open performance space with a clearly defined stage and audience area. Place 
 - How can we maintain an intimate connection with our scene partner while physically opening up to the back row?
 
 ## Safety & Inclusion
-Ensure the physical adjustments respect players' physical boundaries and mobility levels. If a player has limited mobility, focus on adjusting prop angles, head turns, or seating arrangements rather than demanding complex standing pivots.
+Ensure physical adjustments respect players' physical boundaries and mobility levels. If a player has limited mobility, focus on adjusting prop angles, head turns, or seating arrangements rather than demanding complex standing pivots. Always ask for consent before physically touching a player to adjust their posture, or use verbal cues exclusively to guide their adjustments.
 
 ## Why It Works
 This game works because it bridges the gap between internal character logic and external theatrical reality. By using immediate, physical feedback, it bypasses intellectual overthinking and builds direct muscle memory. Players physically feel the difference between a closed posture and an open, communicative stance, learning that the audience is indeed their final scene partner.

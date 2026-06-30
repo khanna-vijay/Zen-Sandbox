@@ -65,6 +65,8 @@ aliases: []
 
 # Thematic Loom
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Weave recurring patterns, behaviors, and themes across disconnected scenes to build a unified collective mind.
 
 ## Overview

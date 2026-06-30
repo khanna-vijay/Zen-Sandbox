@@ -63,6 +63,8 @@ aliases:
 
 # Half-Life Story
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Recreate a complete narrative in progressively halved time limits, testing memory, pacing, and physical commitment.
 
 ## Overview

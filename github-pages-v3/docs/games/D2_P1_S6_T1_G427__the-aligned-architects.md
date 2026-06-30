@@ -62,6 +62,8 @@ aliases:
 
 # The Aligned Architects
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build an imaginary structure while dynamically negotiating personal boundaries and practicing radical creative honesty.
 
 ## Overview

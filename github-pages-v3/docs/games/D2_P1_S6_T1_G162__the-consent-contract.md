@@ -64,6 +64,8 @@ aliases:
 
 # Consent Coins
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Navigate physical and emotional boundaries in real-time using physical tokens to pause and check in.
 
 ## Overview

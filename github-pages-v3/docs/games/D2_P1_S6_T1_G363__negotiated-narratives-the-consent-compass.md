@@ -61,6 +61,8 @@ aliases:
 
 # The Consent Compass
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Navigate physical, emotional, and thematic boundaries in real-time through structured, active verbal check-ins.
 
 ## Overview

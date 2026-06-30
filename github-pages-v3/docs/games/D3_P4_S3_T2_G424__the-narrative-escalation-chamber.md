@@ -67,6 +67,8 @@ aliases:
 
 # The Narrative Crucible
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Consciously construct high-stakes narrative arcs by pausing to articulate internal turning points.
 
 ## Overview

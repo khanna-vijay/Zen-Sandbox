@@ -63,6 +63,8 @@ aliases: []
 
 # Spatial Story Engine
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Navigate physical zones and shifting emotional intensities to master the architecture of dramatic storytelling.
 
 ## Overview

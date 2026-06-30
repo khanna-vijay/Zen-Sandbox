@@ -57,6 +57,8 @@ aliases: []
 
 # The Oracle's Vision
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Help a clueless psychic discover their clients' bizarre futures through physical and verbal clues.
 
 ## Overview

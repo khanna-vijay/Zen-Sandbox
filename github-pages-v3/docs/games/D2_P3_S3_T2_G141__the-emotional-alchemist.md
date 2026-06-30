@@ -71,6 +71,8 @@ aliases: []
 
 # Emotional Alchemy
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Transform your partner's emotional offers into narrative gold by mirroring and then elevating their choices.
 
 ## Overview

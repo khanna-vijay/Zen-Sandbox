@@ -62,6 +62,8 @@ aliases:
 
 # Invitation Engine
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Integrate explicit physical consent directly into the narrative flow of your scenes.
 
 ## Overview

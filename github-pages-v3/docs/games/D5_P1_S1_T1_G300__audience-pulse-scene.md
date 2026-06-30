@@ -59,6 +59,8 @@ aliases:
 
 # Audience Pulse
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Calibrate your scene's energy in real-time by treating digital audience reactions as active physical offers.
 
 ## Overview

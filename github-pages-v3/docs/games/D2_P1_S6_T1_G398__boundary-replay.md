@@ -65,6 +65,8 @@ aliases:
 
 # Boundary Swap
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Step into your partner's shoes to navigate boundaries, practice check-ins, and discover authentic responses.
 
 ## Overview

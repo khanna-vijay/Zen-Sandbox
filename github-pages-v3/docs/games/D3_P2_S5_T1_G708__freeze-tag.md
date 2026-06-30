@@ -61,6 +61,8 @@ aliases:
 
 # Freeze Tag
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Interrupt physical poses to instantly launch brand-new scenes using immediate, physical C.R.O.W. justification.
 
 ## Overview

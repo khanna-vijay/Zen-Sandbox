@@ -59,6 +59,8 @@ aliases: []
 
 # The Pitch Meeting
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Co-create a wild advertising campaign by instantly and enthusiastically agreeing with every single idea.
 
 ## Overview

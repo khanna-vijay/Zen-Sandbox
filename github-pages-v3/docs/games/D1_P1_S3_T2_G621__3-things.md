@@ -62,6 +62,8 @@ aliases: []
 
 # Triple Substitution
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Decode absurdly modified activities using only committed physical mime and expressive gibberish.
 
 ## Overview

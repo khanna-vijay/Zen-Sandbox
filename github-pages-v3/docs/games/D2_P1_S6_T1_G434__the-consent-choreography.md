@@ -60,6 +60,8 @@ aliases: []
 
 # The Boundary Threshold
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Step out of character to negotiate physical and emotional intensity before stepping back into play.
 
 ## Overview

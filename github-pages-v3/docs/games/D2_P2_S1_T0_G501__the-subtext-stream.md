@@ -66,6 +66,8 @@ aliases: []
 
 # Subtext Stream
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Speak your character's dialogue while typing their secret inner thoughts in real-time.
 
 ## Overview

@@ -60,6 +60,8 @@ aliases: []
 
 # Truthful Beginnings
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Launch scenes with genuine personal truths to build an instant, deeply grounded base reality.
 
 ## Overview

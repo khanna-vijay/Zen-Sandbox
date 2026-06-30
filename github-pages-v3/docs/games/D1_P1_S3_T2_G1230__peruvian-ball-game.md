@@ -62,6 +62,8 @@ aliases: []
 
 # The Traveling Sphere
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Track, pass, and reclaim unique imaginary spheres in a chaotic, high-commitment physical exchange.
 
 ## Overview

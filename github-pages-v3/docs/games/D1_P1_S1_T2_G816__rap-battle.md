@@ -62,6 +62,8 @@ aliases: []
 
 # Spontaneous Rap Duel
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A high-energy battle of wits, rhythm, and unfiltered commitment under pressure.
 
 ## Overview

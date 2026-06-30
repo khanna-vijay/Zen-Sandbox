@@ -72,6 +72,8 @@ aliases:
 
 # Resonance Weave
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Weave deep emotional attunement and factual co-creation into every single line of dialogue.
 
 ## Overview

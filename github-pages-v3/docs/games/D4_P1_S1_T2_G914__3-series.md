@@ -58,6 +58,8 @@ aliases:
 
 # Parallel Threads
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Weave multiple independent word patterns simultaneously through the circle using intense focus and peripheral awareness.
 
 ## Overview

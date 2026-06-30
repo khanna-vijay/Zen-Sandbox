@@ -62,6 +62,8 @@ aliases: []
 
 # Soap Opera Circle
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A high-energy circle game of passing dramatic cues, tracking multiple threads, and failing joyfully.
 
 ## Overview

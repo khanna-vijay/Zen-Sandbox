@@ -62,6 +62,8 @@ aliases:
 
 # The Legend of So-and-So
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build a vivid offstage character through gossip, then watch a partner bring them to life.
 
 ## Overview

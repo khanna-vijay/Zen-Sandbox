@@ -61,6 +61,8 @@ aliases: []
 
 # Blind Freeze
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Thrust into frozen physical shapes to spark instant, unfiltered comedic scenes without preparation.
 
 ## Overview

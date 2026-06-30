@@ -65,6 +65,8 @@ aliases:
 
 # Narrative Metronome
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Master the rhythm of storytelling by dynamically justifying sudden shifts in scene tempo.
 
 ## Overview

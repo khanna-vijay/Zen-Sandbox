@@ -65,6 +65,8 @@ aliases:
 
 # Virtual Object Metamorphosis
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Pass, transform, and elevate imaginary items across screens using precise physical and digital cues.
 
 ## Overview

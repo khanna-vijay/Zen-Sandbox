@@ -64,6 +64,8 @@ aliases: []
 
 # The Story Architect
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build strong narrative arcs by stepping out to explicitly declare and integrate key story elements.
 
 ## Overview

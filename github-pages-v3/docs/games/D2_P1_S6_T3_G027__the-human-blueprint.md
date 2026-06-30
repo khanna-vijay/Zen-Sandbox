@@ -62,6 +62,8 @@ aliases: []
 
 # The Shared Blueprint
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build abstract physical connections through explicit, real-time boundary negotiation and enthusiastic consent.
 
 ## Overview

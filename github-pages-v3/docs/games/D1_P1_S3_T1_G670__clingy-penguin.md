@@ -63,6 +63,8 @@ aliases: []
 
 # The Gifted Persona
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Embody a highly specific, physically committed character gifted to you by a peer.
 
 ## Overview

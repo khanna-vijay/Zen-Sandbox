@@ -72,6 +72,8 @@ aliases:
 
 # Status Architects
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Master the silent levers of relational power by gifting and receiving status through physical subtext.
 
 ## Overview

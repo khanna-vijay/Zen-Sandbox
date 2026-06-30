@@ -56,6 +56,8 @@ aliases:
 
 # The Rhythm Association
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Keep the group in sync while bypassing your inner editor on every fourth beat.
 
 ## Overview

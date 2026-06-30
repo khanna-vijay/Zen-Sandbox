@@ -57,6 +57,8 @@ aliases:
 
 # Perspective Shift
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Replay a single scene through the biased, subjective lenses of its different characters.
 
 ## Overview

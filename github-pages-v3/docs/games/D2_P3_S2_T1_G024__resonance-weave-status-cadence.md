@@ -73,6 +73,8 @@ aliases:
 
 # Status Architects
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Master the invisible levers of status through silent physical offers and immediate, complementary embodiment.
 
 ## Overview

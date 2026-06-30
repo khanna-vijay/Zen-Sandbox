@@ -53,6 +53,8 @@ aliases: []
 
 # The Absurd Advocate
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Defend the indefensible by finding the logical core behind the wildest claims.
 
 ## Overview

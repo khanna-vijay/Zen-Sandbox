@@ -54,6 +54,8 @@ aliases: []
 
 # Making Faces
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > High-stakes status play where subordinates mock their strict leader the moment their back is turned.
 
 ## Overview

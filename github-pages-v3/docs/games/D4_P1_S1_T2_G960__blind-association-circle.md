@@ -58,6 +58,8 @@ aliases:
 
 # Sensory Thread Circle
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Track the verbal thread and rebuild the circle entirely by sound with eyes closed.
 
 ## Overview

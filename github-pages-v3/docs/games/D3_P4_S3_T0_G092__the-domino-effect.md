@@ -63,6 +63,8 @@ aliases:
 
 # The Domino Effect
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build a tight, escalating narrative arc through a structured chain of cause and logical consequence.
 
 ## Overview

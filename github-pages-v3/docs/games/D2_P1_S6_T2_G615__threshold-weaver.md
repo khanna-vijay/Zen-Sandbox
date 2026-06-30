@@ -61,6 +61,8 @@ aliases: []
 
 # The Silent Line
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Read subtle cues and honor unspoken boundaries to build deep, safe scenic connection.
 
 ## Overview

@@ -66,6 +66,8 @@ aliases:
 
 # Incremental Character Dial
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Pass a character trait around the circle, escalating the intensity with every single step.
 
 ## Overview

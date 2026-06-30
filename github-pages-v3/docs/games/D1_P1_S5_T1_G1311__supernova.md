@@ -51,6 +51,8 @@ aliases: []
 
 # The Radiant Core
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Expand your internal presence from a single point of stillness to the entire universe.
 
 ## Overview

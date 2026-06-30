@@ -58,6 +58,8 @@ aliases: []
 
 # What You Just Said
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build deep emotional connection and radical validation by justifying every single word your partner speaks.
 
 ## Overview

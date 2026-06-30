@@ -60,6 +60,8 @@ aliases: []
 
 # The Adjective Dial
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Scale your commitment to a single descriptive trait from a whisper to a roar.
 
 ## Overview

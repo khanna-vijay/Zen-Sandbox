@@ -59,6 +59,8 @@ aliases:
 
 # Status Pendulum
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Instantly reverse power dynamics and justify the sudden shift to drive a surprising narrative.
 
 ## Overview

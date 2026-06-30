@@ -63,6 +63,8 @@ aliases:
 
 # Lines in Pocket
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Justify random, pre-written audience lines to keep a grounded scene from collapsing into chaos.
 
 ## Overview

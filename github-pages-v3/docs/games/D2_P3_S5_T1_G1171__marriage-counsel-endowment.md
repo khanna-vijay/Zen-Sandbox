@@ -62,6 +62,8 @@ aliases:
 
 # Relationship Therapy Endowment
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Help a clueless therapist diagnose bizarre relationship issues through active, physicalized gifting.
 
 ## Overview

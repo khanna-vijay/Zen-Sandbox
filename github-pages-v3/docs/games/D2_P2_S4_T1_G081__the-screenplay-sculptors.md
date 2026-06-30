@@ -60,6 +60,8 @@ aliases:
 
 # The Secret Scriptwriters
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Weave hidden personal constraints into a collaborative virtual story using cryptic name changes and active listening.
 
 ## Overview

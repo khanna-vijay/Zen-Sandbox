@@ -58,6 +58,8 @@ aliases:
 
 # The Fourth Wall Architect
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Step out of the scene to reveal hidden truths that structurally elevate the narrative.
 
 ## Overview

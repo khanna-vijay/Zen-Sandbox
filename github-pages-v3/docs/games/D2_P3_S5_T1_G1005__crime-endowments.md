@@ -59,6 +59,8 @@ aliases:
 
 # The Mastermind's Briefing
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Equip your clueless boss with heist details by treating them like an absolute genius.
 
 ## Overview

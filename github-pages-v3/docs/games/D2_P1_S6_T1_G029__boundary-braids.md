@@ -2,7 +2,7 @@
 catalog_serial: 29
 filename: "D2_P1_S6_T1_G029__boundary-braids.md"
 title: "Consent Currency"
-tagline: "Navigate physical and thematic boundaries in real-time using a tangible system of conversational currency."
+tagline: "Practice safe, high-stakes physical and thematic offers by budgeting risk and making boundary-setting entirely free."
 status: "enriched"
 primary_domain: 2
 primary_domain_name: "The Partner"
@@ -48,8 +48,7 @@ energy_level: "low"
 physicality_level: "medium"
 audience_required: "no"
 props_required: "yes"
-props_list:
-  - "4 physical tokens per player (e.g., poker chips, beads, paper clips)"
+props_list: []
 space_required: "moderate"
 est_duration_minutes: 20
 keywords:
@@ -66,10 +65,12 @@ aliases: []
 
 # Consent Currency
 
-> Navigate physical and thematic boundaries in real-time using a tangible system of conversational currency.
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
+> Practice safe, high-stakes physical and thematic offers by budgeting risk and making boundary-setting entirely free.
 
 ## Overview
-A structured, scene-based exercise where players use physical tokens to negotiate physical contact, proximity, and sensitive thematic choices in real-time. By gamifying the act of checking in and setting boundaries, players learn to treat consent as a generative, creative tool rather than a narrative roadblock. The experience shifts the focus from polite compliance to active, honest collaboration.
+A structured scene-work game where players use physical tokens to budget high-risk physical or thematic offers. By requiring initiators to pay a token to propose high-proximity or sensitive choices, the game makes asserting boundaries completely free and effortless. This shifts the social pressure away from the defender and onto the initiator, fostering a highly supportive and safe creative environment.
 
 ## What It Trains
 - **Domain:** D2 — The Partner
@@ -78,7 +79,7 @@ A structured, scene-based exercise where players use physical tokens to negotiat
 - **Technique(s):** Check-ins; Cut calls; Negotiating physical contact; Yes, And… sentence games; Justify the absurd
 - **Focus:** skill_drill
 
-**Objective:** To develop practical boundary navigation and real-time check-in techniques, helping players confidently assert personal limits and creatively adapt to their partner's boundaries without stalling the scene's momentum.
+**Objective:** To develop practical boundary navigation and real-time check-in techniques, ensuring that setting limits is frictionless while making high-risk offers is a conscious, budgeted choice.
 
 ## At a Glance
 | Aspect | Detail |
@@ -91,42 +92,38 @@ A structured, scene-based exercise where players use physical tokens to negotiat
 | Physicality | medium |
 | Modality | in_person |
 | Space | moderate |
-| Props | 4 physical tokens per player (e.g., poker chips, beads, paper clips) |
+| Props | yes |
 | Audience | not required |
 
 ## Setup
-Arrange the group in a circle. Each player receives four physical tokens (such as poker chips, beads, or coins). Two players step into the performance space to start a scene based on a simple relationship or location prompt, while the remaining players observe. Keep a designated discard bowl or space in the center for spent tokens.
+Players sit in a circle. Each player is given 3 physical tokens (such as poker chips, coins, or beads). Two players step into the center to perform a scene based on a simple relationship prompt, while the rest observe.
 
 ## How to Play
 1. Begin a standard two-person scene, establishing a clear relationship and environment.
-2. Before initiating any physical contact, entering close personal space (within one foot), or introducing a sensitive thematic topic, the initiating player must pause, verbally telegraph their intent, spend one token by placing it in the center, and ask, 'May I?'
-3. If the receiving player is fully comfortable with the proposed action, they respond with 'Yes, and...' and immediately integrate the action into the scene without spending any tokens.
-4. If the receiving player is uncomfortable with the specific action but wants to keep the scene moving, they spend one token and say, 'No, but...' followed by a constructive, scene-advancing alternative (e.g., 'No, but I would love a high-five instead').
-5. If the receiving player accepts the emotional intent of the offer but needs to modify the physical execution, they spend one token and say, 'Yes, and my boundary is...' to propose a modified action (e.g., 'Yes, and my boundary is a hand squeeze instead of a hug').
-6. If a player makes an unsolicited physical or thematic move without checking in, the receiving player can spend one token to call a 'Boundary Check-in!', pausing the scene briefly to adjust the action before resuming.
-7. If a player runs out of tokens but must assert a boundary, they may call a 'Grace Call' once per scene to set a boundary without a token.
-8. If any player attempts to assert a boundary or check-in after their Grace Call has already been used, the scene immediately ends, signaling a need for a supportive group debrief.
-9. At any point, any player can call 'CUT!' for immediate physical or psychological safety concerns, which immediately halts the scene without requiring any tokens.
+2. To initiate a high-risk offer—such as physical contact, entering close personal space (under two feet), or introducing a sensitive thematic topic—the initiating player must pause, hold out a token, and state their intent clearly (e.g., 'I want to hug you').
+3. The receiving player must respond immediately using one of three simple, free options: 'Yes' (accepts fully), 'Adjust' (accepts the intent but modifies the action, e.g., 'Adjust to a high-five'), or 'No' (declines the action entirely).
+4. Setting a boundary ('Adjust' or 'No') is always completely free and costs the receiving player zero tokens.
+5. Once the response is given, the initiator places their spent token into a central discard bowl, and the scene immediately continues incorporating the agreed-upon action.
+6. If an initiator runs out of tokens, they can no longer initiate high-risk physical or thematic offers, but the scene continues normally using standard verbal and low-risk choices.
+7. At any point, any player (onstage or offstage) can call 'Cut!' to immediately halt the scene for safety reasons, with no tokens or explanations required.
 
 ## Facilitation Notes
-- Frame boundary adjustments as creative gifts. A 'No, but...' or a modified 'Yes, and...' is not a rejection of the partner, but a specific, exciting offer that defines the characters' relationship.
-- Model the mechanics clearly before starting. Demonstrate the exact phrasing for 'Telegraphing,' 'No, but,' and 'Yes, and my boundary is' so players feel comfortable with the vocabulary.
-- Watch for token hoarding. If players avoid physical or thematic risks entirely to save tokens, coach them to actively initiate 'Consent Opportunities' to practice the negotiation loop.
-- Monitor non-verbal cues. If a player looks physically uncomfortable but hesitates to spend a token to set a boundary, gently pause the scene and remind them that spending a token is an act of creative generosity.
-- Clearly define 'Consent Opportunities' beforehand. Give concrete examples of physical boundaries (hugs, close proximity, lifting) and thematic boundaries (sensitive personal histories, intense romantic dynamics).
+- Ensure players understand that running out of tokens is not a failure or a scene-ender; it simply transitions the scene into a standard, low-risk verbal space.
+- Actively coach the three simplified responses ('Yes', 'Adjust', 'No') to keep cognitive load low during active play.
+- Watch for initiators who try to bypass the token system by making 'stealth' physical offers; gently pause and remind them to pay the toll.
+- Reinforce that saying 'No' or 'Adjust' requires no justification or apology; the scene must immediately pivot without awkwardness.
 
 ## Variations
-- Silent Currency: Run the same exercise but perform the check-ins and boundary adjustments entirely through non-verbal gestures (e.g., a hand-to-heart gesture for a check-in, a step back for a modification) to build physical attunement.
-- Thematic Only: Restrict the token usage entirely to emotional and thematic boundaries (e.g., bringing up family trauma, secrets, or high-stakes relationship drama) to practice navigating narrative consent.
+- Online Adaptation: In a video-call setting, players hold up a physical object (like a pen or card) to the camera to represent spending a token, using the same simplified 'Yes', 'Adjust', 'No' responses.
+- Thematic Tolls: Restrict token usage strictly to high-stakes emotional or narrative secrets (e.g., bringing up a character's tragic past) to practice narrative consent.
 
 ## Debrief
-- How did it feel to have a physical token system representing your boundaries? Did it make asserting your limits feel easier or harder?
-- For those who received a 'No, but...' or a modification, how did you use that boundary to deepen your character's relationship or the scene's story?
-- Did the explicit check-ins slow down the scene in a way that felt disruptive, or did it add a helpful layer of tension and realism?
-- How can we carry the spirit of these explicit check-ins into regular, token-free improv scenes?
+- How did it feel knowing that setting a boundary ('No' or 'Adjust') was completely free and carried no penalty?
+- As an initiator, how did having a limited budget of tokens change how mindfully you made physical or thematic offers?
+- How did the simplified three-word response system ('Yes', 'Adjust', 'No') affect the pacing and flow of the scene?
 
 ## Safety & Inclusion
-This game is highly safety-sensitive. Ensure all players understand that the 'CUT!' command is absolute and overrides all game mechanics. Participation is voluntary, and players may opt out of any scene or pass their turn without explanation. Establish a supportive, non-judgmental atmosphere before play begins.
+This game is explicitly designed to protect player autonomy. Asserting boundaries is structurally free. The 'Cut!' command is absolute and immediately ends all action. Participation is entirely voluntary, and players may pass on any turn without explanation.
 
 ## Why It Works
-By assigning a physical currency to boundary negotiation, the game removes the social stigma of saying 'no' in improv. It reframes boundary setting as a structured, gamified mechanic rather than a personal rejection. This allows players to practice self-advocacy in a low-stakes environment, building the muscle memory needed to navigate consent dynamically and truthfully in unscripted performance.
+By flipping the token economy, the game removes the systemic penalty for self-advocacy. Making boundaries free eliminates the social pressure to comply, while charging initiators a token encourages mindful, deliberate choices. The simplified three-option response system reduces cognitive load, allowing players to maintain theatrical flow while staying safe.

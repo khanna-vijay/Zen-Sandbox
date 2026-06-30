@@ -70,6 +70,8 @@ aliases:
 
 # The Emotional Crucible
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Embody extreme emotional states, navigate chaotic transitions, and master the art of conscious self-recovery.
 
 ## Overview

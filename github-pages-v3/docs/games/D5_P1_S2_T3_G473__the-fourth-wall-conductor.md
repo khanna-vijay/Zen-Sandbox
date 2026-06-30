@@ -63,6 +63,8 @@ aliases:
 
 # The Fourth Wall Conductor
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Orchestrate the room's energy by masterfully opening, closing, and shattering the invisible fourth wall.
 
 ## Overview

@@ -70,6 +70,8 @@ aliases:
 
 # Resonant Threads
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Weave overlapping, thematic scenes together using intuitive, un-cued transitions and shared emotional resonance.
 
 ## Overview

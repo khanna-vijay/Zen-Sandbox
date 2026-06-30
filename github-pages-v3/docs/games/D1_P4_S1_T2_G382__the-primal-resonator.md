@@ -74,6 +74,8 @@ aliases:
 
 # The Resonance Wave
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Bypass the analytical mind by instantly translating raw internal impulses into physical and vocal expression.
 
 ## Overview

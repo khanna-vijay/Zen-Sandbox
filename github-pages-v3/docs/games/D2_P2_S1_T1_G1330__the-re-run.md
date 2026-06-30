@@ -58,6 +58,8 @@ aliases:
 
 # The Echo Rewind
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Pause, dissect, and replay the opening moments of a scene to unlock deep active listening.
 
 ## Overview

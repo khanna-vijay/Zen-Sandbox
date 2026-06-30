@@ -62,6 +62,8 @@ aliases: []
 
 # Architect of Genius
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Secretly engineer the perfect conditions for your partner to shine in a specific, brilliant way.
 
 ## Overview

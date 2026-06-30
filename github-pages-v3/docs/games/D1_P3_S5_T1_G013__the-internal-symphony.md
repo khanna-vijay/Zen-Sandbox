@@ -69,6 +69,8 @@ aliases:
 
 # The Inner Council
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Synthesize conflicting internal voices through silence and stillness to make a single, committed choice.
 
 ## Overview

@@ -70,6 +70,8 @@ aliases:
 
 # Biographical Beats
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Explore a single character's lifetime through non-linear, escalating snapshots of their defining relationships.
 
 ## Overview

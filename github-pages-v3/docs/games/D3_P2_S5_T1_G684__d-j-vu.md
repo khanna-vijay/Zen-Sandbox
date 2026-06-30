@@ -64,6 +64,8 @@ aliases:
 
 # Déjà Vu
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Recreate a scene you never saw using a frantic five-second audience recap.
 
 ## Overview

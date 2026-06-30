@@ -64,6 +64,8 @@ aliases:
 
 # Transforming Bench
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Two chairs constantly redefine their reality as players cycle through imaginative, high-agreement scenes.
 
 ## Overview

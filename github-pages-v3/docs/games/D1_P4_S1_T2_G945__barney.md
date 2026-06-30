@@ -54,6 +54,8 @@ aliases: []
 
 # Alphabet Vendor
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Bypass your inner editor with rapid-fire, alliterative sales pitches delivered on the spot.
 
 ## Overview

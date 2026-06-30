@@ -57,6 +57,8 @@ aliases: []
 
 # I Need A...
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A rapid-fire passing game where your last need becomes the next player's first inspiration.
 
 ## Overview

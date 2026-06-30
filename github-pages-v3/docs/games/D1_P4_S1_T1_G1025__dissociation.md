@@ -52,6 +52,8 @@ aliases: []
 
 # Dissociation Drill
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Train unfiltered spontaneity by trying—and joyfully failing—to speak completely unrelated words.
 
 ## Overview

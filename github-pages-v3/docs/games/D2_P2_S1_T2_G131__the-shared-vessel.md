@@ -71,6 +71,8 @@ aliases: []
 
 # The Shared Vessel
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Navigate an escalating crisis together by treating every environmental glitch as an absolute, shared reality.
 
 ## Overview

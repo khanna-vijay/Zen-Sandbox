@@ -58,6 +58,8 @@ aliases: []
 
 # The Cheers Tilt
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Establish a perfectly normal routine, then shatter it with a single, game-changing revelation.
 
 ## Overview

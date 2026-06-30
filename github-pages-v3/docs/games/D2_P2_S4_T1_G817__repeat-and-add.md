@@ -57,6 +57,8 @@ aliases: []
 
 # Echo and Expand
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Listen closely, repeat your partner's exact words, and add the next logical step.
 
 ## Overview

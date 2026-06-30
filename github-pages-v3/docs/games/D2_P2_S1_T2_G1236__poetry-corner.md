@@ -62,6 +62,8 @@ aliases: []
 
 # Poetry Corner
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Co-create spontaneous poetry where your partner's final word becomes your very first step.
 
 ## Overview

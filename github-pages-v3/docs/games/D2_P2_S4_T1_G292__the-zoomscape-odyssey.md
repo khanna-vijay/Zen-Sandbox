@@ -67,6 +67,8 @@ aliases: []
 
 # Backdrop Odyssey
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Co-create an evolving narrative by matching verbal 'Yes, And' with instant virtual background shifts.
 
 ## Overview

@@ -55,6 +55,8 @@ aliases: []
 
 # Bunny Bunny
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A high-energy, multi-layered rhythmic warm-up that demands total group focus and peripheral awareness.
 
 ## Overview

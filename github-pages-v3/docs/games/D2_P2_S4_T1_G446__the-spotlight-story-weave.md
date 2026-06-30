@@ -63,6 +63,8 @@ aliases:
 
 # Spotlight Story-Weaving
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build a seamless collaborative story in the virtual spotlight, one focused sentence at a time.
 
 ## Overview

@@ -70,6 +70,8 @@ aliases: []
 
 # Stakes Topography
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Navigate physical stage zones to dynamically escalate, de-escalate, and resolve narrative tension in real time.
 
 ## Overview

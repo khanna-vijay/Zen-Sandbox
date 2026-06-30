@@ -66,6 +66,8 @@ aliases:
 
 # The Resonance Loop
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Deepen partner connection by translating subtle physical cues into layered, co-created emotional realities.
 
 ## Overview

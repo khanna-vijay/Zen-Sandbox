@@ -65,6 +65,8 @@ aliases:
 
 # The Echoing Chamber
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Transform the physical environment from a static backdrop into an active, narrative-driving scene partner.
 
 ## Overview

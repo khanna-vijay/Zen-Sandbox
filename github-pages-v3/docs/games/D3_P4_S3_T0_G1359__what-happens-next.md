@@ -59,6 +59,8 @@ aliases:
 
 # What Happens Next
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Collaboratively direct a solo performer's physical journey, building a cohesive story one step at a time.
 
 ## Overview

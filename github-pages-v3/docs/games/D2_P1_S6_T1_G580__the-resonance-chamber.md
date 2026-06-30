@@ -62,6 +62,8 @@ aliases:
 
 # The Attunement Chamber
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Navigate personal boundaries and deepen ensemble connection through subtle, real-time non-verbal adjustments.
 
 ## Overview

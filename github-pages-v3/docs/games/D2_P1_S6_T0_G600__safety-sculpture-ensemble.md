@@ -65,6 +65,8 @@ aliases: []
 
 # Consent Sculpture Ensemble
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Co-create a physical, non-verbal vocabulary for boundaries and safety through collaborative, silent group tableaus.
 
 ## Overview

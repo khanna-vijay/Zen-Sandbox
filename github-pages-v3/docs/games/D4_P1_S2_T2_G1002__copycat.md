@@ -61,6 +61,8 @@ aliases:
 
 # Echo Tag
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Step in, repeat a line, and launch a brand-new scene from that exact moment.
 
 ## Overview

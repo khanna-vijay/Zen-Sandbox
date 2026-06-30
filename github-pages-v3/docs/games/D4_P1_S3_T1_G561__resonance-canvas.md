@@ -66,6 +66,8 @@ aliases:
 
 # Resonance Canvas
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Paint a living, shifting environment together using silent physical actions and intuitive emotional escalation.
 
 ## Overview

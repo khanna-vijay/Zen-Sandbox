@@ -60,6 +60,8 @@ aliases: []
 
 # Stereotype to Soul
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Infuse highly exaggerated, comedic archetypes with genuine personal truths to create instant, vulnerable depth.
 
 ## Overview

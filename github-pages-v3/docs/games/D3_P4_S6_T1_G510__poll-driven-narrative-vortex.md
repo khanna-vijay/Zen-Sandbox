@@ -2,7 +2,7 @@
 catalog_serial: 510
 filename: "D3_P4_S6_T1_G510__poll-driven-narrative-vortex.md"
 title: "The Narrative Vortex"
-tagline: "Steer a scene through sudden, audience-voted twists by instantly justifying the most absurd narrative pivots."
+tagline: "Steer a virtual scene through sudden, audience-voted twists by instantly justifying absurd narrative pivots."
 status: "enriched"
 primary_domain: 3
 primary_domain_name: "The Scene"
@@ -47,9 +47,7 @@ energy_level: "high"
 physicality_level: "low"
 audience_required: "yes"
 props_required: "yes"
-props_list:
-  - "Zoom Pro account with polling enabled"
-  - "Pre-prepared Zoom polls"
+props_list: []
 space_required: "minimal"
 est_duration_minutes: 15
 keywords:
@@ -67,10 +65,12 @@ aliases: []
 
 # The Narrative Vortex
 
-> Steer a scene through sudden, audience-voted twists by instantly justifying the most absurd narrative pivots.
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
+> Steer a virtual scene through sudden, audience-voted twists by instantly justifying absurd narrative pivots.
 
 ## Overview
-A high-energy virtual game where a small group of active players improvises a scene that is periodically interrupted by live audience polls. When a poll launches, players freeze, wait for the audience's verdict, and must instantly justify and integrate the winning twist—no matter how bizarre—into their ongoing story. It transforms passive viewers into active co-creators while pushing performers to their absolute limits of adaptability.
+A high-energy virtual game where active players improvise a scene that is periodically interrupted by rapid audience votes. When a vote is called, players freeze instantly while the audience decides the next narrative twist from a set of disruptive options. The performers must immediately unfreeze and seamlessly justify the winning choice, integrating it as absolute reality.
 
 ## What It Trains
 - **Domain:** D3 — The Scene
@@ -79,7 +79,7 @@ A high-energy virtual game where a small group of active players improvises a sc
 - **Technique(s):** First Thought drills; Endowment-acceptance; Platform/Tilt; Justify the absurd
 - **Focus:** mixed
 
-**Objective:** To develop the skill of instant justification (specifically justifying the absurd) and narrative agility, training players to treat sudden, disruptive external inputs as logical, inevitable plot points that serve the story.
+**Objective:** To build rapid justification skills and narrative agility under pressure, training players to treat disruptive, audience-imposed constraints not as obstacles, but as logical and necessary plot points that serve the story.
 
 ## At a Glance
 | Aspect | Detail |
@@ -92,41 +92,42 @@ A high-energy virtual game where a small group of active players improvises a sc
 | Physicality | low |
 | Modality | virtual |
 | Space | minimal |
-| Props | Zoom Pro account with polling enabled, Pre-prepared Zoom polls |
+| Props | yes |
 | Audience | required |
 
 ## Setup
-Conducted on a video conferencing platform with polling features enabled. The facilitator prepares 3 to 5 multi-choice polls beforehand, each containing 2-3 highly contrasting, disruptive choices (e.g., 'What is the secret weapon? A) A sentient rubber duck, B) The last slice of pizza, C) A forgotten dream'). 2 to 4 players act as the active Scene Drivers with cameras on, while the remaining participants act as the audience with cameras off, ready to vote.
+Conducted on any video conferencing platform. The facilitator prepares 3 to 5 multi-choice prompts beforehand, each containing highly contrasting, disruptive narrative choices. Two to four players act as active scene drivers with cameras on, while the remaining participants act as the audience with cameras off, ready to vote using built-in polls, chat-based reactions, or hand-raising.
 
 ## How to Play
-1. The facilitator gathers an initial scene suggestion from the audience via the chat box to establish the platform.
-2. The active Scene Drivers turn their cameras on and begin improvising a grounded scene, establishing clear characters, relationships, and a basic platform.
-3. Once the scene is established and reaches a decision point or a moment of tension, the facilitator launches one of the pre-prepared polls.
-4. The moment the poll appears, the Scene Drivers must immediately freeze physically and vocally, holding their last pose while the audience votes.
-5. The audience has 15 to 20 seconds to cast their votes on the poll options.
-6. The facilitator closes the poll, shares the results on screen, and verbally announces the winning option.
-7. The Scene Drivers instantly unfreeze and resume the scene, immediately accepting the winning option as absolute reality and justifying how or why it has occurred.
-8. The players must not merely acknowledge the twist; they must explain its presence and use it to drive the narrative forward, serving the overall story.
-9. The facilitator repeats this cycle 2 to 3 times during the scene, culminating in a final poll that leads directly to a satisfying, justified resolution.
+1. The facilitator gathers an initial scene suggestion from the audience via the chat to establish the platform and relationship.
+2. The active scene drivers turn their cameras on and begin improvising a grounded scene, establishing clear characters and a stable reality.
+3. Once the scene is established and reaches a moment of tension, the facilitator calls 'Vortex!' to trigger an immediate freeze.
+4. The scene drivers instantly freeze physically and vocally, holding their exact poses to maintain visual tension and prevent pacing drops.
+5. The facilitator immediately launches a rapid-fire vote using the platform's polling tool, or by typing options in the chat for quick emoji or number reactions.
+6. The audience has a strict 10-second window to cast their votes, keeping the energy high and the transition seamless.
+7. The facilitator closes the voting, dynamically announces the winning option, and calls 'Action!'
+8. The scene drivers instantly unfreeze and resume the scene, immediately accepting the winning option as absolute truth and justifying why it makes perfect sense.
+9. The players must use the twist to drive the narrative forward, repeating this cycle two to three times before bringing the scene to a justified resolution.
 
 ## Facilitation Notes
-- Coaching Cue: 'Don't fight the twist—embrace it as the absolute truth of your world!'
-- Pitfall: Players spend too much time questioning or reacting in disbelief to the poll result. Fix: Side-coach them to immediately explain why it makes sense (e.g., 'Of course it's a sentient rubber duck, because...').
-- Coaching Cue: 'Freeze cleanly!' Remind players that the physical freeze builds anticipation for the audience and prevents audio lag or overlapping speech.
-- Pitfall: The facilitator takes too long to launch or close polls, killing the scene's momentum. Fix: Keep polls simple, limit voting to 15 seconds, and announce the winner dynamically like a sports commentator.
+- To prevent pacing drops, use a sharp verbal cue like 'Vortex!' for the freeze and 'Action!' to resume. Keep the voting window to a strict 10 seconds to maintain high audience and player energy.
+- If the platform lacks a native polling tool, have the audience type '1', '2', or '3' in the chat, or use video reaction emojis. The facilitator can quickly scan and declare the visual majority.
+- Side-coach players to avoid reacting with denial or shock. Use the cue: 'Don't fight the twist—explain why it was always meant to happen!'
+- Remind players to freeze cleanly. A crisp physical freeze builds anticipation and prevents audio overlap or lag when the scene resumes.
+- Keep the pre-prepared options highly active and physical (e.g., 'The floor turns to hot honey' rather than 'They remember a sad memory') to force immediate physical and narrative adaptation.
 
 ## Variations
-- The Secret Variable: Instead of pre-prepared polls, the facilitator quickly types a custom poll on the fly based on the specific details established in the scene.
-- Character Swap: A poll option dictates that two players must instantly swap characters or emotional states, forcing them to justify the sudden psychological shift.
-- The Silent Partner: One player is designated as the only one who can see the poll results, and they must physically or verbally introduce the twist to the other players, who must catch on and justify it.
+- The Chat Storm: Instead of pre-prepared polls, the facilitator calls 'Vortex!' and the audience types random nouns in the chat. The facilitator picks the first one they see, and the players must instantly justify its sudden appearance.
+- Emotional Hijack: The poll options dictate sudden emotional shifts for the characters (e.g., 'A becomes ecstatic, B becomes paranoid'). Players must instantly justify this psychological pivot within the scene's context.
+- Low-Bandwidth / Audio-Only: For groups with limited video bandwidth, players keep cameras off. The freeze is purely vocal, and voting is conducted via voice-chat consensus or simple audio cues.
 
 ## Debrief
-- How did it feel to have your narrative control stripped away by the audience, and how did you find agency within those constraints?
-- What strategies did you use to make an absurd poll option feel grounded and logical within the context of your scene?
-- How does active listening change when you are listening not just to your scene partner, but also to the silent input of the audience?
+- How did the strict 10-second voting window affect your ability to overthink your next move?
+- What strategies did you use to make an absurd, audience-chosen twist feel like a logical part of the story?
+- How does treating a disruptive external choice as 'the absolute truth' help serve the overall narrative?
 
 ## Safety & Inclusion
-Since players must freeze on camera, ensure participants are in comfortable physical positions. If a player has physical limitations or camera anxiety, they can participate as a 'Voice-Only Driver' or focus on the crucial role of the voting audience.
+Since players must freeze on camera, ensure participants are in comfortable physical positions before the freeze. If a player has physical limitations, camera fatigue, or anxiety, they can participate as a 'Voice-Only Driver' or focus on the crucial role of the voting audience.
 
 ## Why It Works
-By forcing a physical freeze and introducing a hard, external constraint via the poll, the game bypasses the analytical mind's tendency to reject weird ideas. Players cannot negotiate; they must practice radical offer reception. The requirement to justify the absurd forces them to find narrative logic in chaos, proving that any choice can serve the story if the players commit to making it make sense.
+By forcing an instant physical freeze and introducing a rapid, external constraint, the game bypasses the analytical mind's tendency to reject weird ideas. The strict time limits and immediate transition prevent players from planning, forcing radical offer reception. The requirement to justify the absurd trains players to find narrative logic in chaos, proving that any choice can serve the story if the players commit to making it make sense.

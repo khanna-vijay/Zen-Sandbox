@@ -60,6 +60,8 @@ aliases: []
 
 # The Echo Chamber
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Pass a physical and vocal offer around the circle, mimicking your neighbor to discover organic mutation.
 
 ## Overview

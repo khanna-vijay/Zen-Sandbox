@@ -63,6 +63,8 @@ aliases: []
 
 # Polar Opposites
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > React to your partner by instantly embodying their physical, vocal, and status-based opposite.
 
 ## Overview

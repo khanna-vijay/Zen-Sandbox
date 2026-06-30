@@ -59,6 +59,8 @@ aliases:
 
 # Zoom In, Zoom Out
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Instantly scale your characters from full-bodied humans to tiny finger puppets without losing dramatic commitment.
 
 ## Overview

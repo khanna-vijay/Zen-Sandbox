@@ -52,6 +52,8 @@ aliases: []
 
 # Association Advance
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Advance across the room by taking one physical step for every spontaneous word association.
 
 ## Overview

@@ -61,6 +61,8 @@ aliases:
 
 # Pocket Lines
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Justify absurd, audience-written dialogue on the fly while keeping your scene's reality grounded.
 
 ## Overview

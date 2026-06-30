@@ -59,6 +59,8 @@ aliases:
 
 # All Hands on Deck
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A high-energy physical reaction game that builds rapid group cohesion and sharp spatial awareness.
 
 ## Overview

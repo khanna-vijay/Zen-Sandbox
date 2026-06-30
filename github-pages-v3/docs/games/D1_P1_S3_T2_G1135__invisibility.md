@@ -59,6 +59,8 @@ aliases: []
 
 # The Unseen Companion
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Bring an invisible character to life through precise physical reactions and shared spatial commitment.
 
 ## Overview

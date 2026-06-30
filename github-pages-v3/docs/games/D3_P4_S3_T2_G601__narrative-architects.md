@@ -60,6 +60,8 @@ aliases:
 
 # Narrative Architects
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Shape dynamic story arcs by instantly integrating structural plot twists called out by a director.
 
 ## Overview

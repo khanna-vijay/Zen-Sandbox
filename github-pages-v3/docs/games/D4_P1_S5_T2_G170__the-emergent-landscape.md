@@ -65,6 +65,8 @@ aliases:
 
 # Emergent Landscapes
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build a wordless physical environment, then collectively speak its hidden thematic truths into existence.
 
 ## Overview

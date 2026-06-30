@@ -69,6 +69,8 @@ aliases:
 
 # Resonant Echoes
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Deepen partner connection by physically absorbing their emotional and status offers before responding.
 
 ## Overview

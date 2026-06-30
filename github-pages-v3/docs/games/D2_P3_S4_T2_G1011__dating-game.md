@@ -60,6 +60,8 @@ aliases:
 
 # The Dating Panel
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Discover hidden identities through playful questions and bold, character-defining answers.
 
 ## Overview

@@ -58,6 +58,8 @@ aliases: []
 
 # Proverbial Wisdom
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Co-create profound, word-at-a-time proverbs and seal them with a collective bow of mock-solemnity.
 
 ## Overview

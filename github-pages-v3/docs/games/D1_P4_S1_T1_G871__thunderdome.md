@@ -56,6 +56,8 @@ aliases: []
 
 # Category Arena
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Face off in a high-energy, rapid-fire category battle where hesitation is your only opponent.
 
 ## Overview

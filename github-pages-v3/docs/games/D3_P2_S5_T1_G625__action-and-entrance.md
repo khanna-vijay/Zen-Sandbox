@@ -61,6 +61,8 @@ aliases: []
 
 # Action and Entrance
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Establish a rich physical environment and a compelling relationship through committed action and emotional entry.
 
 ## Overview

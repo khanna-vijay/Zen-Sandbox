@@ -67,6 +67,8 @@ aliases: []
 
 # The Emotional Echo
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Transform neutral physical and vocal impulses into high-commitment emotional expressions in a continuous passing circle.
 
 ## Overview

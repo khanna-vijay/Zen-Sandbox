@@ -64,6 +64,8 @@ aliases: []
 
 # C.R.O.W. Ignition
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Launch scenes instantly with bold, specific choices that establish a rich base reality.
 
 ## Overview

@@ -53,6 +53,8 @@ aliases: []
 
 # Time Jump
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Leap forward and backward through time to instantly discover the high-stakes moments of a story.
 
 ## Overview

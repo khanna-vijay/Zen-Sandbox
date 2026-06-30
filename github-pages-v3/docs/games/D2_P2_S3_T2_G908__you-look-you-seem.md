@@ -64,6 +64,8 @@ aliases: []
 
 # You Look, You Seem
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Deepen scene connection by naming and instantly amplifying your partner's real-time emotional states.
 
 ## Overview

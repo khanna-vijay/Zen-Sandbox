@@ -65,6 +65,8 @@ aliases: []
 
 # The Harold
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Weave disparate scenes, group games, and themes into a cohesive, multi-layered long-form tapestry.
 
 ## Overview

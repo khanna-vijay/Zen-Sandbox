@@ -63,6 +63,8 @@ aliases: []
 
 # The Genre Blueprint
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Deconstruct a specific film genre through audience-sourced tropes, then weave them into a cohesive feature.
 
 ## Overview

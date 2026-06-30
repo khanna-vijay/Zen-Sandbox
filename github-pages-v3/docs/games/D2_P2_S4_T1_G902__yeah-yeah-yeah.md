@@ -61,6 +61,8 @@ aliases: []
 
 # Yeah Yeah Yeah
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build a collaborative story by enthusiastically agreeing and physicalizing your partner's narrative offers.
 
 ## Overview

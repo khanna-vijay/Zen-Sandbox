@@ -63,6 +63,8 @@ aliases:
 
 # Echoes of the Valley
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Weave a single, rich narrative tapestry through the intersecting monologues of a shared community.
 
 ## Overview

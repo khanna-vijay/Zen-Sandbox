@@ -64,6 +64,8 @@ aliases:
 
 # The Domino Effect
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Escalate scene stakes instantly by declaring and justifying the inevitable, cascading consequences of established facts.
 
 ## Overview

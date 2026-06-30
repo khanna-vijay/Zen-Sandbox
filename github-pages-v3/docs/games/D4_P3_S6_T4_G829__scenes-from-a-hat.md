@@ -66,6 +66,8 @@ aliases:
 
 # Scenes from a Hat
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Rapid-fire comedic scenes inspired by random audience suggestions drawn directly from a hat.
 
 ## Overview

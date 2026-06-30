@@ -62,6 +62,8 @@ aliases:
 
 # Human Puppets
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Speak the words while your partner moves your body, or move your partner to match their words.
 
 ## Overview

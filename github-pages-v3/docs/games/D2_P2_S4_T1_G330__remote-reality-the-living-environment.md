@@ -63,6 +63,8 @@ aliases:
 
 # Background Biomes
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Co-create immersive digital worlds using virtual backgrounds, physical mime, and radical 'Yes, And' acceptance.
 
 ## Overview

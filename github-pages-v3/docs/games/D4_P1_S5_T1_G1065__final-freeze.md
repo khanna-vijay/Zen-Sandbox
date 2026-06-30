@@ -60,6 +60,8 @@ aliases:
 
 # Synthesis Freeze
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Weave past characters, themes, and physical shapes into a unified, high-energy tapestry of callbacks.
 
 ## Overview

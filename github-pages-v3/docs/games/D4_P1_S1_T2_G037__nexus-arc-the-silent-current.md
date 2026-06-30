@@ -63,6 +63,8 @@ aliases:
 
 # Resonant Currents
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Navigate a collective, non-verbal emotional journey guided by shared physical and sonic echoes.
 
 ## Overview

@@ -55,6 +55,8 @@ aliases: []
 
 # Agreement Anchors
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Establish a rock-solid base reality by aligning instantly on a single shared element of the scene.
 
 ## Overview

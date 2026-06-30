@@ -67,6 +67,8 @@ aliases: []
 
 # The Resonance Object
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build a rich, physical reality by silently embodying your partner's sensory gifts before adding your own.
 
 ## Overview

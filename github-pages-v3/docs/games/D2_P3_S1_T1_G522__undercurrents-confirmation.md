@@ -65,6 +65,8 @@ aliases: []
 
 # Undercurrents
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Navigate hidden agendas and adapt to shifting emotional subtext in real time.
 
 ## Overview

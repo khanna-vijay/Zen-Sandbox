@@ -60,6 +60,8 @@ aliases:
 
 # Departed Voices
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Four souls weave their separate lives into a single, shared fatal moment of destiny.
 
 ## Overview

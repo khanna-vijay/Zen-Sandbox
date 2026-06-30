@@ -56,6 +56,8 @@ aliases: []
 
 # Ensemble Shield
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Conceal a teammate using only your collective bodies and sharp spatial awareness.
 
 ## Overview

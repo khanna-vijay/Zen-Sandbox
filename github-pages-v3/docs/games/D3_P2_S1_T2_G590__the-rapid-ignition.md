@@ -69,6 +69,8 @@ aliases:
 
 # The Instant Spark
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Ignite a compelling scene dynamic and establish the game within the first two exchanges.
 
 ## Overview

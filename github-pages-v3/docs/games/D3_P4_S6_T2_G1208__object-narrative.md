@@ -59,6 +59,8 @@ aliases: []
 
 # Object Perspectives
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Three distinct characters weave a unified narrative web around a single, ordinary physical object.
 
 ## Overview

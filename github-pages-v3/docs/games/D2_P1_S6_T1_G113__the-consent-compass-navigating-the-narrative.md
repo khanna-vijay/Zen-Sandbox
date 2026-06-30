@@ -60,6 +60,8 @@ aliases:
 
 # The Consent Compass
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Transform boundary navigation into a dynamic, collaborative engine for rich and safe narrative storytelling.
 
 ## Overview

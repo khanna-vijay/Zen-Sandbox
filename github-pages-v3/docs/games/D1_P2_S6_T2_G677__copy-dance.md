@@ -63,6 +63,8 @@ aliases: []
 
 # Instant Backup Dancers
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Perform a freshly witnessed dance routine with absolute confidence, celebrating every glorious mistake along the way.
 
 ## Overview

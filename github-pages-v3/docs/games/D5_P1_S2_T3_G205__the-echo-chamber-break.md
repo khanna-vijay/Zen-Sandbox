@@ -61,6 +61,8 @@ aliases:
 
 # The Echo Meter
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Master the art of direct address by calibrating fourth-wall breaks to real-time audience feedback.
 
 ## Overview

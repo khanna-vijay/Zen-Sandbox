@@ -65,6 +65,8 @@ aliases:
 
 # Holiday Slideshow
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Present a hilarious vacation travelogue by justifying the bizarre physical tableaus your castmates freeze into.
 
 ## Overview

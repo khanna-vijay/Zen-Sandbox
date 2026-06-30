@@ -66,6 +66,8 @@ aliases:
 
 # The Resonance Chamber
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Deepen partner connection by pausing the narrative to physically and vocally amplify their emotional offers.
 
 ## Overview

@@ -69,6 +69,8 @@ aliases:
 
 # Shifting Landscapes
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Collaboratively build and seamlessly transform physical environments using only non-verbal movement and group intuition.
 
 ## Overview

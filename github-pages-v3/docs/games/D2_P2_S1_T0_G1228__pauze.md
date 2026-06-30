@@ -58,6 +58,8 @@ aliases:
 
 # The Five-Second Pause
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Slow down the dialogue to discover the deep subtext hidden in every single offer.
 
 ## Overview

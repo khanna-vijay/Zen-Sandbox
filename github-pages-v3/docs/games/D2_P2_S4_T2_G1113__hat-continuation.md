@@ -2,7 +2,7 @@
 catalog_serial: 1113
 filename: "D2_P2_S4_T2_G1113__hat-continuation.md"
 title: "Hat Swap Continuity"
-tagline: "Step into your partner's character instantly with the swap of a hat."
+tagline: "Inhabit your partner's character instantly by swapping physical hats and continuing their narrative journey."
 status: "enriched"
 primary_domain: 2
 primary_domain_name: "The Partner"
@@ -43,8 +43,7 @@ energy_level: "medium"
 physicality_level: "low"
 audience_required: "no"
 props_required: "yes"
-props_list:
-  - "Distinctive hats (one per player)"
+props_list: []
 space_required: "minimal"
 est_duration_minutes: 10
 keywords:
@@ -54,16 +53,17 @@ keywords:
   - "bermuda triangle"
   - "role swap"
   - "narrative"
-aliases:
-  - "Bermuda Triangle"
+aliases: []
 ---
 
 # Hat Swap Continuity
 
-> Step into your partner's character instantly with the swap of a hat.
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
+> Inhabit your partner's character instantly by swapping physical hats and continuing their narrative journey.
 
 ## Overview
-A narrative scene-work game where players establish distinct characters marked by unique hats. At any moment, the facilitator freezes the action and redistributes the hats, forcing players to instantly adopt the character, physical life, and narrative stakes of whoever previously wore their new hat.
+This is a dynamic narrative scene-work game where players establish distinct characters marked by unique hats. When the facilitator calls a freeze, players swap hats and must instantly adopt the physical life, vocal patterns, spatial relationships, and narrative stakes of the character associated with their new hat. The scene continues seamlessly, demanding high-fidelity character tracking and immediate endowment-acceptance.
 
 ## What It Trains
 - **Domain:** D2 — The Partner
@@ -72,7 +72,7 @@ A narrative scene-work game where players establish distinct characters marked b
 - **Technique(s):** Endowment-acceptance; Story Spine; Edits (Sweep, Tag-Out, Sound/Light)
 - **Focus:** mixed
 
-**Objective:** To develop rapid offer reception and endowment-acceptance. Players must listen deeply to their partners' choices so they can seamlessly step into their shoes (and hats) at a moment's notice, maintaining narrative integrity.
+**Objective:** To train rapid offer reception and immediate endowment-acceptance by forcing players to surrender ownership of their characters and seamlessly step into a partner's established physical, vocal, and narrative identity.
 
 ## At a Glance
 | Aspect | Detail |
@@ -85,39 +85,40 @@ A narrative scene-work game where players establish distinct characters marked b
 | Physicality | low |
 | Modality | in_person |
 | Space | minimal |
-| Props | Distinctive hats (one per player) |
+| Props | yes |
 | Audience | not required |
 
 ## Setup
-Gather 3 to 5 players on stage. Provide each player with a highly distinctive hat (e.g., a bowler hat, a baseball cap, a tiara, a chef's hat). The facilitator stands off-stage, ready to call freezes and manage the hat swaps.
+Set up a performance space with 3 to 5 players standing in a semi-circle. Provide each player with a highly distinct, easily removable hat (e.g., a crown, a hard hat, a chef's hat). The facilitator stands off-stage with a clear view of the playing area.
 
 ## How to Play
-1. Assign one unique hat to each of the active players on stage.
-2. Begin a standard narrative scene based on a simple suggestion, with each player establishing a distinct character defined by their hat's look, a specific physical posture, voice, and relationship.
-3. Play the scene normally for 1 to 2 minutes, ensuring clear character traits, objectives, and physical locations are established.
-4. The facilitator calls 'Freeze!' at a moment of high engagement or narrative development.
-5. While players remain frozen, the facilitator quickly swaps the hats among the players, ensuring everyone receives a different hat.
+1. Assign one unique hat to each player and have them stand on stage.
+2. Begin a narrative scene based on a simple suggestion, with each player establishing a distinct character defined by their hat, a specific physical posture, vocal quality, and clear relationship.
+3. Play the scene for 1 to 2 minutes to establish clear narrative stakes, physical locations, and character viewpoints.
+4. The facilitator calls 'Freeze!' at a moment of high action or narrative development, and all players lock their physical positions.
+5. While frozen, players physically swap hats as directed by the facilitator, and then physically move to occupy the exact stage position and body posture of the player who previously wore their new hat.
 6. The facilitator calls 'Unfreeze!' to resume the scene.
-7. Players must instantly adopt the character, voice, physical posture, and spatial position of the character associated with their new hat, continuing the story from the exact moment it was paused.
-8. Continue swapping hats every minute or two, challenging players to keep the narrative moving forward rather than restarting or commenting on the swap.
+7. Players instantly adopt the voice, attitude, and relationships of their new character, continuing the story from the exact moment of the freeze without acknowledging the swap.
+8. Repeat the freeze-and-swap process every 1 to 2 minutes, keeping the narrative moving forward rather than resetting the plot.
 
 ## Facilitation Notes
-- Side-coach players to focus on the internal state and relationships of the character they inherit, rather than just doing a superficial caricature.
-- Pitfall: Players commenting on the physical 'teleportation' or magic of the swap. Fix: Remind them that the characters themselves do not know they have swapped bodies; the audience sees the character, not the actor.
-- Encourage active listening while not playing a character, as you might have to play them next. Track their physical quirks and vocal patterns.
-- Keep the swaps fast. Do not let players negotiate who gets which hat; the facilitator should make the swaps decisive.
+- Emphasize spatial continuity: when swapping, players must not only take the hat but also step into the exact physical footprint and posture of the previous character to maintain the stage picture.
+- Watch out for 'commentary lag' where players make jokes about the swap or express confusion. Side-coach them to immediately speak in character: 'Stay in the reality of the scene!'
+- Encourage active listening from the sidelines or while playing; players must track every character's physical quirks and vocal patterns because they could inherit them next.
+- Keep the freezes sudden and the swaps fast to prevent players from overthinking or planning their next moves.
 
 ## Variations
-- Blind Swaps: Players close their eyes during the freeze, and the facilitator places a new hat on their head. They must figure out who they are based on the first line directed at them.
-- Prop Swap: Instead of hats, use highly distinct hand props (e.g., a magnifying glass, a feather duster, a clipboard) that dictate the character's role and physical behavior.
+- Virtual Hat Swap: In a video-call setting, players use virtual background colors, digital filters, or easily held household items (like a mug, a book, or a pen) instead of physical hats. When 'Freeze' is called, the facilitator private-messages the new character assignments, and players instantly swap their digital filters or props and adopt the corresponding character's camera framing and vocal style.
+- Blind Swap: Players close their eyes during the freeze. The facilitator swaps the hats. Upon unfreezing, players must deduce which character they are based on how their scene partners treat them, practicing pure endowment-acceptance.
+- Prop-Based Swap: Replace hats with distinct hand props (e.g., a magnifying glass, a feather duster) that dictate the character's profession and physical gestures.
 
 ## Debrief
-- How did tracking your partner's physical and vocal choices help you step into their character instantly?
-- What did it feel like to 'yes-and' an endowment that you didn't create yourself?
-- How did we keep the narrative moving forward instead of getting stuck in the novelty of the swap?
+- How did physically stepping into your partner's exact stage position and posture help you adopt their character's mindset?
+- What strategies did you use to track the details of characters you weren't currently playing?
+- How does letting go of 'ownership' of your character serve the overall narrative?
 
 ## Safety & Inclusion
-Ensure hats are clean and adjustable to accommodate different head sizes and hair textures. If sharing hats presents a hygiene or sensory barrier, players can hold distinct colored cards or wear colored sashes instead.
+To accommodate different hair textures, sensory sensitivities, or hygiene preferences, players can use distinct colored sashes, clip-on badges, or hand-held props instead of hats. For players with limited mobility, instead of physically swapping stage positions, players can remain in their original spots and simply swap the character identities and relationships, adapting the spatial narrative verbally.
 
 ## Why It Works
-By physically transferring the character's marker (the hat), the game forces immediate endowment-acceptance. It strips away ego and ownership of a character, requiring players to treat characters as shared group property. This builds deep active listening and a strong sense of group mind, as the narrative engine relies on everyone supporting the collective story rather than individual performance.
+By physically transferring the character's marker (the hat) and stage position, the game forces immediate endowment-acceptance and strips away individual ego. It treats characters as shared group property, requiring deep active listening and a strong sense of group mind to keep the narrative engine running smoothly.

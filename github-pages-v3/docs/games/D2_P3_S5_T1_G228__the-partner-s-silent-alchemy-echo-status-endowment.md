@@ -73,6 +73,8 @@ aliases:
 
 # Silent Alchemy
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build deep physical connection and dynamic status relationships without speaking a single word.
 
 ## Overview

@@ -60,6 +60,8 @@ aliases: []
 
 # Creature Pairs
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Discover your secret animal match through total physical commitment and non-verbal connection.
 
 ## Overview

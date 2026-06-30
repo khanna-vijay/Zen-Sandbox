@@ -59,6 +59,8 @@ aliases:
 
 # One Eighty-Five
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A rapid-fire pun game that trains players to trust and deliver their very first thought.
 
 ## Overview

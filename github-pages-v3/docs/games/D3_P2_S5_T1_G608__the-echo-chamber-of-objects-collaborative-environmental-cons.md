@@ -66,6 +66,8 @@ aliases:
 
 # The Object Echo Chain
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build a rich, physically consistent world by letting every new object justify the last.
 
 ## Overview

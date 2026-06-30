@@ -60,6 +60,8 @@ aliases: []
 
 # Double Endowment
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Guide your partner to perform a secret physical action using only environmental and physical clues.
 
 ## Overview

@@ -68,6 +68,8 @@ aliases:
 
 # The Musical Pocket
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Players weave random, audience-written lines into fully justified, spontaneous musical theater showstoppers.
 
 ## Overview

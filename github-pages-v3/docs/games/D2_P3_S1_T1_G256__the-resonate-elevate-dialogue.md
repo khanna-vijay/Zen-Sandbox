@@ -69,6 +69,8 @@ aliases:
 
 # Resonate and Elevate
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Echo your partner's emotional truth, then build a brilliant justification to make them shine.
 
 ## Overview

@@ -59,6 +59,8 @@ aliases:
 
 # Dynamic Calibration
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Navigate emotional and physical boundaries in real time through structured, active check-ins and adjustments.
 
 ## Overview

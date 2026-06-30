@@ -60,6 +60,8 @@ aliases:
 
 # World's Worst
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Step forward and instantly embody the absolute worst version of any profession or role.
 
 ## Overview

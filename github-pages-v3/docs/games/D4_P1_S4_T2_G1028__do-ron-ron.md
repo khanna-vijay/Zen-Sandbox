@@ -59,6 +59,8 @@ aliases: []
 
 # The Run-Run Song
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A high-energy, fast-paced rhyming song game that builds group mind and rhythmic precision.
 
 ## Overview

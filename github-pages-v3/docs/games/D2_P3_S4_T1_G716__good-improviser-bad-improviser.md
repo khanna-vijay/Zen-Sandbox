@@ -57,6 +57,8 @@ aliases:
 
 # The Alchemist
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Transform every block, denial, and difficult choice into a brilliant, justified moment of connection.
 
 ## Overview

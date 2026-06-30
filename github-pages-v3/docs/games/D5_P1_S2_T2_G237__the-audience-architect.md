@@ -66,6 +66,8 @@ aliases:
 
 # The Response Architect
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Design and execute precise performance choices to elicit specific, targeted emotional reactions from your audience.
 
 ## Overview

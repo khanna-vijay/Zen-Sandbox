@@ -70,6 +70,8 @@ aliases:
 
 # The Emotional Seismograph
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Ride the waves of shifting feelings by dialing emotional intensity up and down instantly.
 
 ## Overview

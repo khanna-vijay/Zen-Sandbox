@@ -64,6 +64,8 @@ aliases:
 
 # Rhythmic Impulse
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Master the rapid shift between profound stillness and explosive, unfiltered physical and vocal expression.
 
 ## Overview

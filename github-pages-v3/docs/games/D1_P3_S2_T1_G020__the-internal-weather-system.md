@@ -65,6 +65,8 @@ aliases: []
 
 # Internal Weather System
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Channel shifting emotional currents into physical tasks to build somatic vulnerability and fluid expression.
 
 ## Overview

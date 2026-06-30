@@ -63,6 +63,8 @@ aliases:
 
 # The Four-Stage Scene
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Four players enter one by one, each executing a specific narrative duty to build a scene.
 
 ## Overview

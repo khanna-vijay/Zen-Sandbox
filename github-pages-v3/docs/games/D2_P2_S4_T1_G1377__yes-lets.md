@@ -59,6 +59,8 @@ aliases:
 
 # Yes, Let's!
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Enthusiastically agree to every physical suggestion and jump into action together as a unified group.
 
 ## Overview

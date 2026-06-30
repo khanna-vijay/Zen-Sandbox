@@ -62,6 +62,8 @@ aliases:
 
 # Boundary Zones
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Navigate physical and emotional proximity through active, real-time verbal check-ins and dynamic boundary setting.
 
 ## Overview

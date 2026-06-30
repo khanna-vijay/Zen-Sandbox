@@ -69,6 +69,8 @@ aliases:
 
 # The Conceptual Weave
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build a living, breathing physical and vocal tapestry to explore abstract themes without words.
 
 ## Overview

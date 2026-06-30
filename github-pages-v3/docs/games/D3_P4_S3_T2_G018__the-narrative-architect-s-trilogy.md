@@ -68,6 +68,8 @@ aliases:
 
 # The Platform Tilt
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Establish a stable behavioral routine, then disrupt it with a justified, narrative-shifting choice.
 
 ## Overview

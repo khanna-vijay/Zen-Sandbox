@@ -61,6 +61,8 @@ aliases: []
 
 # Cooperative Action
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Ground your scene in shared physical work while letting your dialogue build the relationship.
 
 ## Overview

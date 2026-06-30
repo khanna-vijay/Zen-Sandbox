@@ -60,6 +60,8 @@ aliases: []
 
 # The Imaginary Sphere
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Pass an invisible ball that constantly shifts in weight, size, and physical resistance.
 
 ## Overview

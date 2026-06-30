@@ -62,6 +62,8 @@ aliases:
 
 # Trait Fusion Lab
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Fuse contrasting traits into bold characters and test them under pressure in virtual space.
 
 ## Overview

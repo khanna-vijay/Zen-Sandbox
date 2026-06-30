@@ -60,6 +60,8 @@ aliases: []
 
 # Fortune Cookie Scene
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Launch a grounded scene by treating a random fortune as your character's deep personal truth.
 
 ## Overview

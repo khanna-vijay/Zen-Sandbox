@@ -55,6 +55,8 @@ aliases: []
 
 # Restricted Word Count
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Navigate a scene where every line you speak must meet an exact, unchanging word count.
 
 ## Overview

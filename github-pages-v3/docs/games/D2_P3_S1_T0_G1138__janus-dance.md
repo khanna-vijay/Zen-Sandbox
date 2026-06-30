@@ -61,6 +61,8 @@ aliases:
 
 # The Connected Waltz
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Speak, move, and listen as one while dancing cheek-to-cheek without eye contact.
 
 ## Overview

@@ -59,6 +59,8 @@ aliases:
 
 # The Physical Agreement Drill
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Master the art of precise physical negotiation, prioritizing personal comfort over theatrical momentum.
 
 ## Overview

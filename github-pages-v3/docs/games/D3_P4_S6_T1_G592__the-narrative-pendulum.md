@@ -64,6 +64,8 @@ aliases: []
 
 # The Narrative Pendulum
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Drive dramatic story arcs by instantly justifying sudden, forced shifts in emotion and social status.
 
 ## Overview

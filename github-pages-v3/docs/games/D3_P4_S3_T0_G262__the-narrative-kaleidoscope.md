@@ -40,9 +40,7 @@ energy_level: "medium"
 physicality_level: "low"
 audience_required: "no"
 props_required: "yes"
-props_list:
-  - "Kaleidoscope Cards"
-  - "List of Choice Modifiers"
+props_list: []
 space_required: "minimal"
 est_duration_minutes: 15
 keywords:
@@ -53,12 +51,12 @@ keywords:
   - "character depth"
   - "storytelling"
   - "facilitator"
-aliases:
-  - "New Choice Modifiers"
-  - "Choice Modifiers"
+aliases: []
 ---
 
 # The Narrative Kaleidoscope
+
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
 
 > Disrupt habitual scene patterns by applying targeted narrative modifiers to critical character decisions.
 
@@ -85,11 +83,11 @@ An active scene-building game where players pivot their choices at critical junc
 | Physicality | low |
 | Modality | virtual |
 | Space | minimal |
-| Props | Kaleidoscope Cards, List of Choice Modifiers |
+| Props | yes |
 | Audience | not required |
 
 ## Setup
-Designed for a virtual platform. The facilitator prepares a digital list or a deck of Choice Modifiers (e.g., shared via screen-share, chat, or a digital card generator). Two players turn their cameras on to perform the scene, while the remaining participants keep cameras off as active observers.
+Designed for a virtual platform. The facilitator prepares a digital list of Choice Modifiers. Sample Modifiers include: 'Reveal a hidden vulnerability', 'Raise the stakes by making a confession', 'Shift to a high-status physical posture', 'Express a secret admiration for your partner', or 'Introduce an urgent, unspoken deadline'. Two players turn their cameras on to perform the scene, while the remaining participants keep cameras off as active observers.
 
 ## How to Play
 1. Initiate a standard two-player scene based on a simple relationship suggestion, establishing a clear platform of who, where, and what.
@@ -101,7 +99,7 @@ Designed for a virtual platform. The facilitator prepares a digital list or a de
 7. The scene continues naturally from this new trajectory until the facilitator calls another pivot or brings the scene to a close.
 
 ## Facilitation Notes
-- Timing is everything: Call the pivot right before a player speaks when they are at a crossroads, rather than interrupting a fully formed thought.
+- Pacing and Frequency: Limit pivots to 1 or 2 per scene. Calling pivots too frequently (e.g., every 30 seconds) disrupts the narrative flow and prevents players from fully exploring and justifying the previous shift. Allow at least 60-90 seconds of organic play between pivots.
 - Avoid literalism: Coach players to integrate the spirit of the modifier rather than speaking the prompt word-for-word. For example, if the prompt is 'reveal a vulnerability,' they shouldn't say 'I am now going to reveal a vulnerability,' but instead share a quiet, honest fear.
 - Pitfall: Players freezing up trying to find the 'perfect' choice. Fix: Side-coach them to take a breath, make the first physical or emotional shift that comes to mind, and trust their partner to help justify it.
 - Ensure the non-prompted player doesn't ignore the shift. If Player A suddenly becomes vulnerable, Player B must immediately adjust their status and emotional temperature to match.
@@ -118,7 +116,7 @@ Designed for a virtual platform. The facilitator prepares a digital list or a de
 - In what ways did the modifiers help us 'serve the story' rather than just our individual comedic instincts?
 
 ## Safety & Inclusion
-Because modifiers can ask for vulnerability or emotional escalation, establish a safety tap-out or skip option. If a player receives a modifier that touches on a personal boundary, they can simply say 'Next' to receive a different prompt with no explanation needed.
+Because modifiers can ask for vulnerability or emotional escalation, establish a safety tap-out or skip option. If a player receives a modifier that touches on a personal boundary, they can simply say 'Next' or use a designated virtual reaction (like a thumbs-down or hand-raise) to receive a different prompt with no explanation needed. Ensure modifiers avoid sensitive personal trauma unless explicitly agreed upon beforehand.
 
 ## Why It Works
 By introducing targeted cognitive disruptions, this game bypasses the brain's default narrative pathways. Instead of relying on easy jokes or repetitive conflict, the structured modifiers force players to explore nuanced human behavior. This builds robust narrative architecture by demonstrating how small, high-stakes choices can organically transform a scene's direction.

@@ -58,6 +58,8 @@ aliases: []
 
 # Sound Herd
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Find your secret sound family using only your ears and vocal cues in a chaotic space.
 
 ## Overview

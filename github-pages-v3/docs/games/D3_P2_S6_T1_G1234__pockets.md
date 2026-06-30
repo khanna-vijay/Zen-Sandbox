@@ -58,6 +58,8 @@ aliases: []
 
 # Pocket Lines
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Justify absurd, audience-written lines seamlessly into a grounded, two-person scene.
 
 ## Overview

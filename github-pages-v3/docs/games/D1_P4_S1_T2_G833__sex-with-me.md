@@ -56,6 +56,8 @@ aliases: []
 
 # Sex With Me
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Deliver rapid-fire, suggestive comparisons using everyday objects to practice unfiltered, high-energy spontaneity.
 
 ## Overview

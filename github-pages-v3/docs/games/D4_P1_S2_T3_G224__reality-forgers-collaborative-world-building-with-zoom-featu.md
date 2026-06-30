@@ -69,6 +69,8 @@ aliases:
 
 # Reality Architects
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Co-create a living, breathing digital environment in real-time using every virtual tool at your disposal.
 
 ## Overview

@@ -59,6 +59,8 @@ aliases:
 
 # Status Alliances
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Explore the shifting sands of social inclusion and status through organic, group-driven alliances.
 
 ## Overview

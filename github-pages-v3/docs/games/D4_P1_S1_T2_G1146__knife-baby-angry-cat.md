@@ -60,6 +60,8 @@ aliases: []
 
 # Knife, Baby, Angry Cat
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Track and pass three wildly different imaginary objects simultaneously through a moving crowd.
 
 ## Overview

@@ -60,6 +60,8 @@ aliases:
 
 # Mind Meld
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Two players attempt to speak the exact same word simultaneously by finding their conceptual midpoint.
 
 ## Overview

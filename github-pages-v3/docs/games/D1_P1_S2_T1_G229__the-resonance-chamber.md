@@ -63,6 +63,8 @@ aliases: []
 
 # The Resonance Chamber
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Translate abstract internal sensations into bold physical and vocal expressions, mastering emotional range and recovery.
 
 ## Overview

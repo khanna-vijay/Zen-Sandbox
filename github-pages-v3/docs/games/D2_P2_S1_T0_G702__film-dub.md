@@ -69,6 +69,8 @@ aliases:
 
 # Cinematic Dubbing
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Improvise the dialogue and sound effects for a muted movie clip in real time.
 
 ## Overview

@@ -60,6 +60,8 @@ aliases: []
 
 # The Boundary Compass
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Navigate physical and emotional boundaries through structured, honest check-ins and explicit verbal agreements.
 
 ## Overview

@@ -62,6 +62,8 @@ aliases:
 
 # Subtitled Cinema
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Co-create a cinematic story through physical gibberish and instant English translation.
 
 ## Overview

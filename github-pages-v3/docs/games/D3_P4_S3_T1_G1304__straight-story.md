@@ -54,6 +54,8 @@ aliases: []
 
 # Straight Story
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build a single, unadorned narrative arc from beginning to end without tangents or distractions.
 
 ## Overview

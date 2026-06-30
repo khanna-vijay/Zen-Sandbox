@@ -57,6 +57,8 @@ aliases: []
 
 # I'm Great, You're Great
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A high-energy, rapid-fire celebration of self, partner, and ensemble connection.
 
 ## Overview

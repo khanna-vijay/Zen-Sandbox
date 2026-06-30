@@ -57,6 +57,8 @@ aliases:
 
 # The Touch Protocol
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Master physical boundary negotiation in real-time by prioritizing safety over scene momentum.
 
 ## Overview

@@ -58,6 +58,8 @@ aliases: []
 
 # Braided Narratives
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Interlace multiple distinct storylines to discover unexpected thematic connections and build a cohesive ensemble piece.
 
 ## Overview

@@ -61,6 +61,8 @@ aliases:
 
 # The Classic Musical Structure
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Craft a cohesive, song-filled narrative using a structured story spine and high-energy musical numbers.
 
 ## Overview

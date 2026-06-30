@@ -67,6 +67,8 @@ aliases:
 
 # The Tempo Conductor
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Command and synchronize the physical, vocal, and emotional tempo of your ensemble in real time.
 
 ## Overview

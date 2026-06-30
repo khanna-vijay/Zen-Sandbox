@@ -65,6 +65,8 @@ aliases:
 
 # The Conscious Universe
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Characters discover the structural rules of their own reality, weaving meta-analysis directly into the narrative.
 
 ## Overview

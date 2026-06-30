@@ -70,6 +70,8 @@ aliases:
 
 # The Fourth Wall Dial
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Dynamically shift the boundary between stage and spectator to co-create with your audience in real time.
 
 ## Overview

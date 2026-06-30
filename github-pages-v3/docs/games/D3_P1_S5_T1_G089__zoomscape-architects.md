@@ -2,7 +2,7 @@
 catalog_serial: 89
 filename: "D3_P1_S5_T1_G089__zoomscape-architects.md"
 title: "Virtual Vista Architects"
-tagline: "Build immersive digital worlds and instant props using video backgrounds and collaborative screen annotations."
+tagline: "Co-create immersive digital environments and interactive props using virtual backgrounds and collaborative screen annotations."
 status: "enriched"
 primary_domain: 3
 primary_domain_name: "The Scene"
@@ -59,16 +59,17 @@ keywords:
   - "world-building"
   - "online improv"
   - "collaboration"
-aliases:
-  - "ZoomScape Architects: Dynamic Visual Storytelling with Virtual Backgrounds and Annotations"
+aliases: []
 ---
 
 # Virtual Vista Architects
 
-> Build immersive digital worlds and instant props using video backgrounds and collaborative screen annotations.
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
+> Co-create immersive digital environments and interactive props using virtual backgrounds and collaborative screen annotations.
 
 ## Overview
-A fast-paced, virtual-native improv game where players use their video conferencing backgrounds and shared screen annotation tools to co-create a dynamic environment. Instead of just talking about where they are, players visually 'Yes, And' each other's settings in real-time, creating a rich, multi-layered scene. The experience is highly collaborative, turning the limitations of remote play into a playground for visual storytelling.
+Virtual Vista Architects is a fast-paced, virtual-native improv game where players use their video conferencing backgrounds and shared screen annotation tools to co-create a dynamic environment. Instead of just talking about where they are, players visually 'Yes, And' each other's settings in real-time, creating a rich, multi-layered scene. The experience is highly collaborative, turning the limitations of remote play into a playground for visual storytelling.
 
 ## What It Trains
 - **Domain:** D3 — The Scene
@@ -94,34 +95,35 @@ A fast-paced, virtual-native improv game where players use their video conferenc
 | Audience | not required |
 
 ## Setup
-Run on a video conferencing platform with gallery view enabled. All players must have a pre-loaded folder of diverse virtual backgrounds (e.g., landscapes, interiors, abstract spaces) and know how to switch them quickly. The host must enable screen sharing and annotation tools for all participants.
+Run on a video conferencing platform with gallery view enabled. All players should have access to a pre-curated list of basic background archetypes (e.g., Cozy Cabin, High-Tech Lab, Deep Space, Underwater, Ancient Ruins, Office Cubicle) or know how to quickly switch to standard solid colors. The host must enable screen sharing and annotation tools for all participants.
 
 ## How to Play
 1. The facilitator obtains a broad location suggestion from the group, such as a subterranean laboratory or ancient ruins.
-2. The facilitator designates Player 1, who immediately changes their virtual background to match the suggestion and delivers an opening line establishing their Character, Relationship, and Objective within this 'Where'.
-3. The facilitator calls on Player 2, who must immediately change their own virtual background to a complementary or adjacent location and speak a line that accepts and expands the narrative.
-4. This pattern continues with subsequent players, each adding a visual layer with their background and a verbal layer that deepens the scene's context, building a cohesive, multi-frame graphic novel layout in gallery view.
-5. At a high-energy moment, the facilitator or a designated 'Prop Master' shares their screen, displaying a blank white canvas or a simple geometric shape representing a key object in the scene.
-6. For 30 to 45 seconds, all players use the platform's annotation tools to draw, label, or add details to this shared object, such as adding glowing runes, cracks, or control buttons.
-7. The screen share ends, and the active players must immediately incorporate these newly drawn visual details and props into their physical actions and dialogue, bringing the scene to a natural, satisfying climax.
+2. To counter unstable platform gallery views, the facilitator establishes a 'spatial map' where players verbally and physically anchor their positions (e.g., looking down to speak to someone 'below' them, regardless of where their video tile actually sits).
+3. Player 1 activates a background representing the primary location and delivers an opening line establishing their Character, Relationship, and Objective (C.R.O.W.) within this 'Where'.
+4. Player 2 joins, selecting an adjacent or complementary background from the curated list (e.g., the generator room next to the control room) and establishes their connection to Player 1.
+5. Subsequent players enter one by one, adding visual layers with their backgrounds and verbal layers that deepen the scene's context, using consistent eye-lines to maintain spatial continuity.
+6. At a high-energy moment, the facilitator shares a blank white screen representing a key object or blueprint in the scene.
+7. For 30 to 45 seconds, all players use the platform's annotation tools to collaboratively draw, label, or add details to this shared object.
+8. The screen share ends, and the active players must immediately incorporate these newly drawn visual details and props into their physical actions and dialogue, bringing the scene to a climax.
 
 ## Facilitation Notes
+- To combat shifting video tiles, coach players to use explicit verbal anchors ('I am looking at you through the security camera') and exaggerated physical eye-lines rather than relying on the platform's grid layout.
+- Keep setup friction low by using the curated background list; if a player cannot change their background quickly, have them verbally describe their 'frame' or hold up a physical household object as a backdrop.
 - Coaching Cue: 'React to the background, not just the words!' Remind players to look at their partner's digital environment and treat it as a physical reality.
-- Pitfall: Technical lag or background fumbling. Fix: Have players practice switching backgrounds once or twice before starting, and encourage them to use simple, pre-installed platform backgrounds if custom ones fail.
-- Coaching Cue: 'Keep annotations simple.' During the Prop Shop phase, prevent visual clutter by instructing players to add only one clear detail (a line, a word, a shape) rather than scribbling.
-- Pitfall: Talking over each other due to virtual latency. Fix: The facilitator should actively 'conduct' by calling out the next player's name to pass the focus clearly.
+- During the annotation phase, prevent visual clutter by instructing players to add only one clear detail (a line, a word, a shape) rather than scribbling.
 
 ## Variations
-- The Split-Screen Split: Two players act as the foreground characters while two other players act as the background environment, changing their backdrops to reflect shifts in weather, time, or dramatic tension behind the actors.
-- Silent Architects: Run the entire background-building phase in complete silence, relying purely on physical reactions, object work, and background changes to tell the story before opening up the microphones for the final act.
+- The Environmental Chorus: Non-active players act as the background environment, changing their backdrops to reflect shifts in weather, lighting, or dramatic tension (e.g., switching to a red background to indicate an alarm) behind the main actors.
+- The Silent Architects: Run the entire background-building phase in complete silence, relying purely on physical reactions, object work, and background changes to tell the story before opening up the microphones for the final act.
 
 ## Debrief
-- How did having a concrete visual background change how you physicalized your character and object work?
-- In what ways did the collaborative annotations force you to adapt your character's immediate objectives?
-- How does 'showing' your environment digitally differ from describing it verbally, and how can we bring this visual specificity back to physical stage work?
+- How did establishing verbal and physical spatial anchors help overcome the shifting video grid?
+- How did the curated background archetypes help you make faster, more confident choices about your character's environment?
+- In what ways did the collaborative annotation phase change your character's immediate objective or relationship?
 
 ## Safety & Inclusion
-Ensure all pre-loaded backgrounds are appropriate for the group's agreed-upon boundaries. For players with hardware limitations that prevent virtual backgrounds, allow them to use physical household items held up to the camera, or designate them as the primary 'Prop Masters' who lead the annotation phases.
+Ensure all pre-loaded backgrounds are appropriate for the group's agreed-upon boundaries. For players with hardware limitations that prevent virtual backgrounds, allow them to use physical household items held up to the camera, use solid color filters, or designate them as the primary 'Prop Masters' who lead the annotation phases.
 
 ## Why It Works
 By turning the video grid into a shared physical canvas, this game bypasses the typical 'talking heads' trap of virtual improv. It forces players to practice active observation, as they cannot respond effectively without looking at their partner's visual frame. The combination of background shifts and real-time annotations builds a strong sense of Group Mind and shared ownership over the scene's physical reality.

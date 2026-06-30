@@ -59,6 +59,8 @@ aliases: []
 
 # Primal Echo
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Unleash full-body vocalizations and physical gestures to build group energy and uninhibited commitment.
 
 ## Overview

@@ -59,6 +59,8 @@ aliases:
 
 # Follow the Leaver
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Edit scenes dynamically by tracking a single departing character into their next narrative world.
 
 ## Overview

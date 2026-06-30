@@ -63,6 +63,8 @@ aliases:
 
 # Snap, Clap, Stamp
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A high-energy coordination game of mutual support, rhythm, and joyful failure.
 
 ## Overview

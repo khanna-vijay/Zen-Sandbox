@@ -56,6 +56,8 @@ aliases: []
 
 # Silent Resonance Pairs
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build instant non-verbal connection and emotional agility through silent, shared eye contact.
 
 ## Overview

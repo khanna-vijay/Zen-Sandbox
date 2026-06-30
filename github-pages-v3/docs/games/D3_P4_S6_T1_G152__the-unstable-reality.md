@@ -63,6 +63,8 @@ aliases:
 
 # Shifting Foundations
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Adapt to sudden, fundamental changes in your scene's reality by retroactively justifying everything before.
 
 ## Overview

@@ -62,6 +62,8 @@ aliases: []
 
 # The Folk Song Quartet
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A high-energy, rhyming musical game where four players build a cohesive song one line at a time.
 
 ## Overview

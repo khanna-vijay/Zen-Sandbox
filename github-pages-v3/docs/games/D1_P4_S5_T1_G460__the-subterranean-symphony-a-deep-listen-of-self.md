@@ -68,6 +68,8 @@ aliases: []
 
 # The Silent Symphony
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Discover the profound power of micro-impulses and shared stillness in a silent, collective soundscape.
 
 ## Overview

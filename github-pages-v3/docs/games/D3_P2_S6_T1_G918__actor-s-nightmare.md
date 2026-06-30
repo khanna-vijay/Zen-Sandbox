@@ -62,6 +62,8 @@ aliases:
 
 # Actor's Nightmare
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > One actor reads verbatim from a script while the other justifies every bizarre line.
 
 ## Overview

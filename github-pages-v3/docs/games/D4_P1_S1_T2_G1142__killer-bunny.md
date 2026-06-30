@@ -57,6 +57,8 @@ aliases:
 
 # Predatory Bunny
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A high-stakes rhythm game of sudden betrayal, rapid defense, and hyper-focused group awareness.
 
 ## Overview

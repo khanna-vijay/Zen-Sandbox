@@ -72,6 +72,8 @@ aliases:
 
 # Status Architects
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Master the silent shifts of power and elevate your partner through physical status modulation.
 
 ## Overview

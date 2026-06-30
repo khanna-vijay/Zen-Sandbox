@@ -62,6 +62,8 @@ aliases: []
 
 # Ground Control
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Puppeteer your partner's movements with flashlights, forcing them to justify every absurd physical choice.
 
 ## Overview

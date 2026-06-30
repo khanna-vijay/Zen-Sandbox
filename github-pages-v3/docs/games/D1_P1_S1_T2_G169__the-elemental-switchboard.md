@@ -70,6 +70,8 @@ aliases: []
 
 # The Expressive Switchboard
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Bypass overthinking with rapid-fire physical, vocal, and emotional shifts that demand instant, total commitment.
 
 ## Overview

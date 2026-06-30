@@ -71,6 +71,8 @@ aliases:
 
 # Spatial Echoes
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build a rich physical world by physically echoing and expanding upon your ensemble's spatial choices.
 
 ## Overview

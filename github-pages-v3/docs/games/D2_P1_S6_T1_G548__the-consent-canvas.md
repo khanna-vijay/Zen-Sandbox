@@ -60,6 +60,8 @@ aliases: []
 
 # The Consent Canvas
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Navigate hidden boundaries and prioritize player safety over scene momentum through active, real-time check-ins.
 
 ## Overview

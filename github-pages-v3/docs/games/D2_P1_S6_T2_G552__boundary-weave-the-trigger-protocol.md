@@ -61,6 +61,8 @@ aliases:
 
 # The Trigger Protocol
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Practice setting firm limits and executing decisive cut calls using pre-selected boundary cards.
 
 ## Overview

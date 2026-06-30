@@ -56,6 +56,8 @@ aliases: []
 
 # Emotional Quadrants
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Navigate a physically mapped stage where shifting locations instantly triggers extreme emotional transformations.
 
 ## Overview

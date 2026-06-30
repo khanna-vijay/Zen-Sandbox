@@ -61,6 +61,8 @@ aliases: []
 
 # La Ronde
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Connect a chain of character-driven duets to map a shared, living world.
 
 ## Overview

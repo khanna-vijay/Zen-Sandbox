@@ -58,6 +58,8 @@ aliases: []
 
 # Split Focus
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Master the art of organic focus shifts and seamless scene transitions across the stage.
 
 ## Overview

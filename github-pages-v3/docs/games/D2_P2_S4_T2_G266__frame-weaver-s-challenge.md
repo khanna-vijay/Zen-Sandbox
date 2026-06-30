@@ -66,6 +66,8 @@ aliases: []
 
 # Grid Weavers
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Connect individual video screens into a single physical playground through precise physical offers and visual agreements.
 
 ## Overview
