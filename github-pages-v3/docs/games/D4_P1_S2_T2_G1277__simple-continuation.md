@@ -77,20 +77,6 @@ A narrative scene is played by a small group while the rest of the ensemble watc
 
 **Objective:** To develop deep ensemble support, active listening, and physical empathy by seamlessly inheriting and advancing a partner's character choices and narrative trajectory.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 6-12) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear stage area with the rest of the ensemble lined up on the sidelines where they can clearly see and hear everything. No props or chairs are needed, though standard stage furniture can be used if desired.
 

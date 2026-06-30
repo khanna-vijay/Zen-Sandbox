@@ -80,20 +80,6 @@ This structured training drill transforms the audience from passive observers in
 
 **Objective:** Develops acute room-reading capabilities, audience-energy management, and the strategic use of direct address to re-engage a room and command the stage.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6+ (ideal 8-15) |
-| Time | ~25 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Set up a clear stage area facing an audience seating area. Divide the group: 2 to 3 players start on stage, while the rest sit in the audience. The facilitator stands at the back of the audience, visible to the seated players but out of the direct line of sight of the onstage performers.
 

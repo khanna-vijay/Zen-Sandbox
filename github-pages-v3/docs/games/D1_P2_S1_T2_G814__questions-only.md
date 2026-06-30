@@ -79,20 +79,6 @@ Two lines of players face off in a fast-paced scenic challenge where the only al
 
 **Objective:** To build unfiltered spontaneity and the ability to fail joyfully by forcing players to bypass their internal editors under strict, fast-paced constraints.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-15) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Divide the players into two equal lines facing each other in the center of the playing space. The two players at the front of each line step forward to face each other. No props or special materials are required.
 

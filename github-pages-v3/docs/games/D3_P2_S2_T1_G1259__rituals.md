@@ -78,20 +78,6 @@ In this game, players take a simple, everyday task and perform it with the gravi
 
 **Objective:** To develop the skill of heightening and exploration by establishing a clear base reality first, then systematically elevating the emotional and physical stakes of simple actions using the ladder technique.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–6 (ideal 2-4) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 A clear stage area for 2 to 4 active players. The remaining group acts as the audience, seated in front of the stage to provide a suggestion and serve as the congregation.
 

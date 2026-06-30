@@ -84,20 +84,6 @@ A dynamic, facilitated scene-work exercise where a side-coach periodically pause
 
 **Objective:** To master narrative architecture by consciously identifying, articulating, and integrating structural story elements like platform, tilt, stakes, and subtext to drive a scene's progression.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 3-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two players stand in the performance space to initiate a scene. The remaining players observe as the audience. One facilitator acts as the Director, positioned where they can easily observe the players and call out prompts.
 

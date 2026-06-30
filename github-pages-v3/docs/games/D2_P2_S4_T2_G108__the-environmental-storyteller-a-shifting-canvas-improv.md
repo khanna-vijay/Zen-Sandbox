@@ -88,20 +88,6 @@ A high-energy virtual game where players use pre-prepared digital backgrounds as
 
 **Objective:** To develop rapid offer reception and endowment-acceptance by treating visual, environmental changes as immediate narrative truths that must be validated and built upon.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–12 (ideal 6-12) |
-| Time | ~25 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | 5-7 pre-prepared virtual backgrounds per participant, Zoom client with virtual background capability |
-| Audience | not required |
-
 ## Setup
 Designed for 6 to 12 players in a virtual meeting space. Before the session, instruct all participants to prepare 5 to 7 distinct, high-contrast virtual backgrounds (e.g., a desert, an underwater trench, a spaceship, a cozy library). Players must know how to quickly toggle these backgrounds. Ensure the platform is set to Gallery View, and the facilitator is ready to use spotlighting and monitor the chat.
 

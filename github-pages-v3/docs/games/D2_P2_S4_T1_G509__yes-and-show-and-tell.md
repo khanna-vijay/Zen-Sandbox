@@ -83,20 +83,6 @@ A virtual storytelling game where players build a continuous narrative one sente
 
 **Objective:** To develop deep active listening and physical offer reception in a virtual space, reinforcing the core 'Yes, And' principle by requiring players to physically and verbally validate their partner's contribution before building upon it.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–12 (ideal 6-10) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Played in a virtual meeting room with all participants on camera in a gallery view. The chat window is open and used to manage the turn order. No physical props are required, but players should ensure their upper bodies are clearly visible in their camera frames.
 

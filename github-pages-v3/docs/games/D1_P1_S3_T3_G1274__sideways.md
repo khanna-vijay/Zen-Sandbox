@@ -72,20 +72,6 @@ In this highly physical game, players perform a scene while lying down on the fl
 
 **Objective:** To develop total physical commitment, core body control, and precise weight and resistance mime by forcing players to consciously simulate gravity in a rotated plane.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–4 (ideal 2-3) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Clear a wide, clean, and comfortable floor space, ensuring it is free of debris or splinters. Players must wear comfortable clothing that covers their arms and legs (such as long sleeves and sweatpants) to prevent friction burns, and remove any sharp jewelry or accessories.
 

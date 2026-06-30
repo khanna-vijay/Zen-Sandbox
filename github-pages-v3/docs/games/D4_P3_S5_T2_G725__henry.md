@@ -80,20 +80,6 @@ Township Threads is a structured narrative format where five players portray the
 
 **Objective:** To develop thematic synthesis, active listening, and narrative architecture by tracking character continuity and weaving disparate storylines into a unified ensemble piece.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–5 (ideal 5) |
-| Time | ~15 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Five chairs are arranged in a row upstage. The performance space downstage is kept clear for scenes. The facilitator asks the audience for the name of a fictional small town, its population, and five distinct local landmarks or businesses (such as a bakery, a local museum, a community garden, a hardware store, and a bus stop). Assign one location to each of the five pairings in order.
 

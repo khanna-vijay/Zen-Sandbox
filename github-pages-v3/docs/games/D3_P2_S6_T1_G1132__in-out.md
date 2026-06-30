@@ -73,20 +73,6 @@ A dynamic scene-work game where players are assigned unique trigger words. Whene
 
 **Objective:** Develops rapid justification skills, active listening, and support work by forcing players to ground sudden, arbitrary entrances and exits in a believable base reality.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–8 (ideal 4-6) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A group of 3 to 8 players stands in a semi-circle. The facilitator assigns one distinct, common word to each player. Two players start on stage to begin a scene, while the remaining players wait off-stage as active listeners.
 

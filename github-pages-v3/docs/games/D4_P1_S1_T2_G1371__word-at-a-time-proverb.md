@@ -76,20 +76,6 @@ Players stand in a circle and collaborate to construct a brand-new, fictional pr
 
 **Objective:** To develop group mind, peripheral awareness, and thread-tracking by forcing players to surrender individual control and tune into the collective rhythm and grammatical flow of the group.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | none |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Have players stand in a circle facing inward. No props or special staging required.
 

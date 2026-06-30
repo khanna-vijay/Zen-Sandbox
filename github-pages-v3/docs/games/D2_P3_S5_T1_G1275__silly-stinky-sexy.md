@@ -77,20 +77,6 @@ In this high-energy endowment game, four players enter a shared social scene whe
 
 **Objective:** Develops active gifting, endowment, and offer reception by forcing players to define their partners' characteristics through physical and verbal reactions rather than self-generating their own characters.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 4 players (plus audience)) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Four players stand on stage. The facilitator establishes a simple, high-occupancy social setting (e.g., a backyard barbecue, a gallery opening, or a waiting room). Before starting, each player secretly decides which of the three traits—Silly, Stinky, or Sexy—they will project onto each of the other three players (one unique trait per partner).
 

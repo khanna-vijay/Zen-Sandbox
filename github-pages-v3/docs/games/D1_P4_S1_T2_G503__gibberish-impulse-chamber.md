@@ -82,20 +82,6 @@ A high-energy, fast-paced training drill where players step into a designated sp
 
 **Objective:** To develop unfiltered spontaneity and rapid self-recovery by training players to trust their immediate physical and vocal impulses without cognitive filtering.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Designate a clear physical boundary on the floor (such as a taped square or a center-stage area) representing the Chamber. The rest of the group stands around the perimeter as active observers. No props or materials are required.
 

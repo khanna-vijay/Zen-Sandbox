@@ -77,20 +77,6 @@ Shared Count is a quiet, focus-building exercise where a group attempts to count
 
 **Objective:** To develop deep active listening, peripheral awareness, and group mind by practicing patience, embracing silence, and tuning into the collective rhythm of the room.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 5-15) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | low |
-| Physicality | none |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a comfortable circle facing inward. No props or special materials are required. The space should be relatively quiet to allow players to hear subtle auditory cues like breathing.
 

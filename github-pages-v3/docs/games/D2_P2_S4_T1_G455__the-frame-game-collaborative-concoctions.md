@@ -83,20 +83,6 @@ In this virtual-first game, players use their individual video feeds as miniatur
 
 **Objective:** To master the 'Yes, And' principle in a virtual environment by actively receiving verbal and physical offers, immediately validating them through physical embodiment, and passing clear, actionable gifts to the next player.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–12 (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Ensure all participants are in 'Gallery View' so everyone can see all video feeds simultaneously. The facilitator creates a sequential speaker order and posts it in the meeting chat. No physical props are required, but players should position their cameras so their upper bodies and hands are clearly visible.
 

@@ -76,20 +76,6 @@ A fast-paced, circle-based warm-up where players step into the center to build a
 
 **Objective:** To develop instant offer reception, thematic synthesis, and the 'Yes, And' mindset by building on a partner's premise without hesitation.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-15) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle with an open space in the center. No props or special materials are required.
 

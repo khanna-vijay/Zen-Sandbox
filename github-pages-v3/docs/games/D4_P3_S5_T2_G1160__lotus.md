@@ -73,20 +73,6 @@ The Lotus is a sophisticated long-form structure where the stage is divided into
 
 **Objective:** Develops thematic synthesis, narrative architecture, and peripheral awareness, training players to serve the overall piece by weaving subtextual threads rather than relying on literal plot connections.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6+ (ideal 6-12) |
-| Time | ~20 min |
-| Complexity | 4/5 |
-| Skill level | proficient |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Divide the stage into three side-by-side playing areas (Left, Center, Right). Divide an ensemble of 6 to 12 players into three distinct groups (pairs or trios), assigning each group to one of the three stage areas.
 

@@ -73,20 +73,6 @@ In this high-energy physical warm-up, players link arms to form a tight circle, 
 
 **Objective:** To develop group mind, peripheral awareness, and physical coordination by forcing players to move as a single, connected physical unit.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6+ (ideal 10-25) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A large, open room with completely clear walls. Ensure all chairs, bags, and hazards are moved away from the perimeter. Players begin by standing in a circle in the center of the space.
 

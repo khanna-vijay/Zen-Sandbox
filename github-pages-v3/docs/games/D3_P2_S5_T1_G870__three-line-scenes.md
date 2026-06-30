@@ -75,20 +75,6 @@ Two players step up to perform a micro-scene consisting of exactly three spoken 
 
 **Objective:** To master the rapid establishment of a scene's base reality (Character, Relationship, Objective, Where) using economical, high-impact offers and active listening.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 8-16) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in two parallel lines facing each other, creating a central performance space. No props, chairs, or special materials are required.
 

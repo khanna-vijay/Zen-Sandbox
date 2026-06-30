@@ -76,20 +76,6 @@ Players move dynamically through the space while passing multiple imaginary obje
 
 **Objective:** To develop peripheral awareness, multi-thread tracking, and non-verbal connection by demanding high physical commitment and split-second eye contact.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-20) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open room free of physical obstacles. Players stand in a loose circle to start, then begin walking around the space at a moderate pace, filling the gaps.
 

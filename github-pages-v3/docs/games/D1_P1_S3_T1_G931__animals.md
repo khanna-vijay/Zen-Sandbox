@@ -76,20 +76,6 @@ Players are secretly assigned matching animal identities in pairs. Moving throug
 
 **Objective:** To develop uninhibited physical commitment, explore non-verbal character centers, and cultivate deep peripheral awareness and partner empathy.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-20) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, safe room free of obstacles. The facilitator prepares matching pairs of animal identities (written on slips of paper or whispered secretly to players). Ensure an even number of participants.
 

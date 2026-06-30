@@ -79,20 +79,6 @@ A somatic exploration game where a single player navigates the room by transitio
 
 **Objective:** To develop rapid emotional fluidity, full-body commitment, and self-recovery by training players to instantly access, transition through, and cleanly shed diverse emotional states using physical and vocal impulses.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 4-8) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, clear playing space with enough room for a player to walk 5-10 steps in any direction. One player (the 'Traveler') stands in the center of the space, while the remaining players stand around the perimeter as active, supportive observers.
 

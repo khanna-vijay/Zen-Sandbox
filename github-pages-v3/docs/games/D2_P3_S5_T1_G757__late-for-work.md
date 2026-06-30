@@ -76,20 +76,6 @@ One player steps out of the room while the group establishes three secrets: an a
 
 **Objective:** To practice active gifting and physical endowment, training players to support their partner by sending clear, readable physical offers that make the guesser look brilliant.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 4-8) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An in-person playing space with a clear 'stage' area. One player (the Employee) is sent out of hearing range. The remaining players (the Boss and the Colleagues) gather to solicit or decide on three specific details: 1) an unusual reason for being late, 2) a bizarre method of transportation, and 3) a highly specific, unusual occupation.
 

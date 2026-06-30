@@ -73,20 +73,6 @@ A physical partner drill where players construct, pass, and transform imaginary 
 
 **Objective:** To develop high-fidelity object work, active gifting, and physical commitment by treating imaginary space as a tangible, malleable medium.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 or 8-15) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in pairs facing each other with comfortable space between them. No physical props are used; the entire exercise relies on pantomime and spatial awareness.
 

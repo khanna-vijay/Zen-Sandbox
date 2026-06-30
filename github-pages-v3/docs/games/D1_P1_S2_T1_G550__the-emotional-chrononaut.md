@@ -79,20 +79,6 @@ This high-energy drill challenges players to rapidly cycle through distinct emot
 
 **Objective:** To develop emotional fluidity and absolute physical commitment by practicing the rapid calibration of emotional states (using a 1-10 scale) and integrating those states into physical actions without hesitation.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–15 (ideal 5-15) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, comfortable space where 5 to 15 players can stand in a loose circle or spread out across the room. No props are required. The facilitator stands where they can be easily seen and heard by all participants.
 

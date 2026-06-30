@@ -76,20 +76,6 @@ A classic circle-based icebreaker and focus exercise where players introduce the
 
 **Objective:** Develops group mind, active listening, and thread-tracking by requiring players to physically and vocally mirror their peers' choices while maintaining focus under cumulative pressure.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–25 (ideal 8-15) |
-| Time | ~10 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a clear circle facing inward with enough space to move their arms and take a step forward. No props or materials are required.
 

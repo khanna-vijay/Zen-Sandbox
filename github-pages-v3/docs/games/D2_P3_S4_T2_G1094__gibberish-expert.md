@@ -80,20 +80,6 @@ A high-energy, collaborative game where one player acts as a world-renowned expe
 
 **Objective:** To develop deep active listening, physical endowment, and the ability to accept and elevate a partner's offers instantly, demonstrating that meaning is co-created through physical commitment and vocal tone.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–4 (ideal 2-3) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two players stand side-by-side facing the group. No props are needed. The facilitator or audience provides a highly specific, mundane topic (e.g., 'the history of the paperclip' or 'how to train a pet snail'). One player is designated as the Expert, and the other as the Translator.
 

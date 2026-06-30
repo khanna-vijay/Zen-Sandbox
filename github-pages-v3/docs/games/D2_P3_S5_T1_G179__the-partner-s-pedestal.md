@@ -87,20 +87,6 @@ A two-player scene-work exercise that trains improvisers to aggressively support
 
 **Objective:** To master active gifting and endowment-gifting, training players to instinctively elevate their partner's status, assume their absolute competence, and gracefully accept high-status endowments.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (active) or 6-12 (workshop)) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two active players stand facing each other at a comfortable conversational distance in the center of the space. The rest of the group acts as active observers. The facilitator prepares a few neutral relationship prompts that do not imply pre-existing status dynamics.
 

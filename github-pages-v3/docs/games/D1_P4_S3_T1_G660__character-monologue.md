@@ -69,20 +69,6 @@ A solo character-building exercise where a player receives a simple physical ges
 
 **Objective:** To develop the ability to trust physical impulses (The First Thought Is a Gift) and use physical centers/gestures (Character Walks/Centers) to instantly unlock vocal choices, emotional states, and character points of view.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 1+ (ideal 1-15) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle or a semi-circle. One player steps into the center or stands before the group. No props or special staging required; just enough space to move comfortably.
 

@@ -88,20 +88,6 @@ Status Architects is a structured, three-phase partner exercise that isolates an
 
 **Objective:** To develop precise control over status modulation and the status seesaw technique. This drill trains players to actively gift status to their partner (making them a genius) and to receive and embody status offers instantly through physical alignment, spatial awareness, and active listening.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 8) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | Secret Objective Cards |
-| Audience | not required |
-
 ## Setup
 An open workshop space with room for pairs to stand comfortably at arm's length. Prepare a set of 'Secret Objective Cards' beforehand. Each card should have one of four prompts: 'Elevate your partner's status,' 'Lower your partner's status,' 'Elevate your own status,' or 'Lower your own status.' Divide the group into pairs.
 

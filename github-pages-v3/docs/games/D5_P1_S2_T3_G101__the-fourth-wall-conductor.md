@@ -76,20 +76,6 @@ In this high-focus training drill, a performer improvises a solo scene while a f
 
 **Objective:** To build precise, intentional control over the fourth wall, moving beyond accidental breaks to purposeful audience engagement. This drill trains performers to read the room's energy, project choices clearly to the back row, and treat the audience as an active, responsive scene partner.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An in-person stage space with a clear boundary between the performance area and the audience. One player starts on stage to establish a solo scene based on a simple, mundane suggestion (e.g., waiting in line, sorting mail). The remaining players sit in the audience, acting as a highly observant, responsive crowd. The facilitator stands to the side, ready to call out commands.
 

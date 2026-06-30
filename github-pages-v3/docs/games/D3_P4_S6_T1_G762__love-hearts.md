@@ -75,20 +75,6 @@ Two players portray bitter professional rivals who unexpectedly cross paths year
 
 **Objective:** Develops the ability to justify absurd, mismatched offers (D3.S6.T1) and integrate them into a cohesive narrative arc, moving from hostility to romance while serving the story.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–2 (ideal 2) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | Love Heart sweets (conversation hearts) |
-| Audience | not required |
-
 ## Setup
 Two players stand center stage. Each player is given a small box or roll of conversation hearts (candy hearts with short text printed on them). The facilitator obtains a suggestion of a shared past invention or achievement (e.g., 'the self-cleaning toaster') and a neutral location where they run into each other years later.
 

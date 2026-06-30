@@ -75,20 +75,6 @@ A high-focus ensemble warm-up where players stand in a circle, assign themselves
 
 **Objective:** To develop deep group mind, peripheral awareness, and rhythmic precision by forcing players to listen actively and adapt instantly to changing roles without breaking the collective tempo.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 8-15) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle. Number the players sequentially from 1 to the total number of players (e.g., 1 to 12), going clockwise. No props or special materials are required.
 

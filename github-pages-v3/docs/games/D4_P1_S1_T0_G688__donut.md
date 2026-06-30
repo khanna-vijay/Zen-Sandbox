@@ -69,20 +69,6 @@ The Orbit is a high-tension, silent group game where two secretly designated pla
 
 **Objective:** Develops peripheral awareness, non-verbal communication, and group mind by forcing players to read subtle physical shifts and coordinate actions without speaking.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6+ (ideal 10-20) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a spacious circle facing inward. The facilitator needs enough space to walk around the outside of the circle. No props are required.
 

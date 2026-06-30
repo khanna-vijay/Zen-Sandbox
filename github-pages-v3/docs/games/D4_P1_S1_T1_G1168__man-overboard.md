@@ -75,20 +75,6 @@ Players move dynamically through a shared space and must instantly react to phys
 
 **Objective:** To develop peripheral awareness, rapid physical commitment, active listening, and group mind by forcing players to coordinate non-verbally and assemble physical pictures under time pressure.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 10-30) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A large, open room free of obstacles. All players stand scattered throughout the space, facing the facilitator.
 

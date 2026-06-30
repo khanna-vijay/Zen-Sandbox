@@ -70,20 +70,6 @@ A dynamic, whole-room warm-up where players physically cluster based on shared t
 
 **Objective:** Develops peripheral awareness and group mind by forcing players to constantly read the physical space, observe who is standing where, and make spontaneous, honest choices about their own placement.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 10-30) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A wide, open room with cleared furniture so players can move freely. No props needed. Players start scattered randomly throughout the space.
 

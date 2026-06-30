@@ -78,20 +78,6 @@ A structured narrative format where players establish a high-stakes social gathe
 
 **Objective:** Develops narrative architecture, thematic synthesis, and format literacy by structuring a multi-part story with clear exposition, rising action, and a logical climax.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 6-12) |
-| Time | ~25 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space with chairs arranged to suggest a parlor, mansion, or isolated venue. One player is designated as the Detective (and optionally one as a Sidekick), while the remaining players form the ensemble of suspects.
 

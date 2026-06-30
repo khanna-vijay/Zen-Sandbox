@@ -74,20 +74,6 @@ A narrative-driven scene-work game where players strategically break the fourth 
 
 **Objective:** To develop narrative architecture and justification skills by using deliberate meta-commentary to inject high-stakes subtext and drive story progression.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear performance space with the rest of the workshop group seated as the audience. No props or special materials are required.
 

@@ -83,20 +83,6 @@ In this dynamic exercise, a designated 'Conductor' stands offstage, reading the 
 
 **Objective:** To develop advanced audience-energy management and room-reading skills, training players to treat the audience as an active scene partner by seamlessly breaking and re-establishing the fourth wall.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-15) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An audience sits facing a clear performance space. One player is designated as the Conductor and stands downstage-side (left or right) where they have a clear view of both the stage and the entire audience. Two to three players stand center stage ready to begin a scene. No props are required.
 

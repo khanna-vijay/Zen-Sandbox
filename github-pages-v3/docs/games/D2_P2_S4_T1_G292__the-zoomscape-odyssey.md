@@ -83,20 +83,6 @@ Backdrop Odyssey is a virtual-first improv game where players collaboratively bu
 
 **Objective:** To develop advanced offer reception and active listening by forcing players to process and build upon both visual and verbal offers simultaneously, reinforcing the core principle of 'Yes, And' in a digital space.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–12 (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | Zoom client with virtual backgrounds enabled, Pre-selected library of virtual backgrounds |
-| Audience | not required |
-
 ## Setup
 Players join a virtual meeting platform in Gallery View. Before starting, every participant must pre-load a diverse folder of 10-15 virtual backgrounds (such as landscapes, interiors, abstract spaces, or historical sites) into their platform settings so they can switch them instantly with one click.
 

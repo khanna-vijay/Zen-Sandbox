@@ -80,20 +80,6 @@ A fast-paced narrative engine where players use physical and emotional reactions
 
 **Objective:** To develop advanced justification skills, specifically the ability to justify sudden or absurd emotional shifts, transforming raw physical offers into logical, high-stakes narrative architecture.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Designed for a virtual platform. Two active players turn their cameras on, while the rest of the group keeps cameras off to act as the gallery. No physical props are required, but players should position their cameras to show at least their upper torso to capture physical offers.
 

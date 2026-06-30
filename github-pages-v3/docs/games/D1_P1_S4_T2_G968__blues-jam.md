@@ -74,20 +74,6 @@ A high-energy musical game where players take minor audience grievances and tran
 
 **Objective:** Develops vocal characterization, rhythmic timing, and uninhibited commitment by leaning into the musicality of the blues genre.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 4-6) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Players stand in a line or semi-circle facing the audience. No physical instruments are needed; all music is generated vocally by the players.
 

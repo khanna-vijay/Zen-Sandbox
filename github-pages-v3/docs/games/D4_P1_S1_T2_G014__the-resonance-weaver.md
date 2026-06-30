@@ -79,20 +79,6 @@ The Ambient Web is an immersive ensemble exercise that trains players to operate
 
 **Objective:** To develop advanced peripheral awareness and non-verbal group mind, training players to track multiple physical and auditory threads simultaneously and translate abstract suggestions into physical atmospheres.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 5-7) |
-| Time | ~25 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | low |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear, open room with moderate space and no obstacles. Players stand in a wide circle to begin, then disperse throughout the space. No props or materials are required.
 

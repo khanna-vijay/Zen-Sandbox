@@ -81,20 +81,6 @@ An ensemble-focused exercise where players construct a shared, atmospheric chamb
 
 **Objective:** To develop the ensemble's ability to synthesize abstract themes and track multiple emotional threads simultaneously, moving past literal yes-and responses into deep, non-linear group connection.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a loose, comfortable circle in a quiet, open space. No props or materials are required. The center of the circle serves as the active playing space.
 

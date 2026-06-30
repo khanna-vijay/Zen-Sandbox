@@ -74,20 +74,6 @@ A structured partner exercise where players use physical and verbal signals to p
 
 **Objective:** To develop practical boundary navigation and active listening skills by practicing real-time check-ins and immediate scene redirection, reinforcing the principle of consent and prioritizing truth over pandering.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–12 (ideal 4-12) |
-| Time | ~30 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, comfortable playing space. Players stand in a circle for the initial briefing and physical practice, then split into pairs or trios to perform on the stage area while the remaining players observe as supportive active listeners. No props or materials are required.
 

@@ -74,20 +74,6 @@ A dynamic partner exercise where players practice receiving physical offers and 
 
 **Objective:** To develop rapid offer reception and endowment-acceptance by translating physical movement into a logical, shared narrative context.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-30 (in pairs)) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Divide the group into pairs. Have partners stand facing each other with enough space between them to move their arms and bodies safely without collision. No props or chairs are required.
 

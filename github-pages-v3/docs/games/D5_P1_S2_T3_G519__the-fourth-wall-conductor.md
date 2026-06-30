@@ -80,20 +80,6 @@ In this exercise, a team of players improvises a standard scene, but one designa
 
 **Objective:** To develop a performer's ability to treat the audience as an active, living scene partner. Players learn to read the room's energy, make intentional choices about when to break the fourth wall, and use direct address to manage audience engagement and clarify narrative progression.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-15) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Arrange the playing space with a clear performance area and an audience area. Gather a group of 6 to 15 players, with 3 to 5 selected to perform in the active scene and the remaining players acting as the live audience. No props or special materials are required.
 

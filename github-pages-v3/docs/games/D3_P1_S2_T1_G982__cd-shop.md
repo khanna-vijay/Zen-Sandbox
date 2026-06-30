@@ -83,20 +83,6 @@ A high-energy musical comedy game where a customer seeks the perfect audio gift 
 
 **Objective:** To master the 'ladder' technique of escalating comedic beats, while practicing active gifting and immediate physical/vocal commitment to musical styles.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 4-6) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | musical instrument (optional) |
-| Audience | required |
-
 ## Setup
 An performance space with a clear stage area. Two chairs or a counter setup for the shopkeeper and customer. A designated 'stage' area nearby for 2-3 singers (and an optional keyboardist/musician). The rest of the group acts as the audience.
 

@@ -80,20 +80,6 @@ A two-player scene-based drill where a customer enters a shop with a highly dist
 
 **Objective:** To develop deep physical and vocal mirroring skills, active listening, and character generation. It trains players to make their partner look brilliant by instantly validating and adopting their creative choices.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–2 (ideal 2) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two players stand facing each other in a designated performance space. One is designated as the Customer, the other as the Shopkeeper. The facilitator or group provides a simple shop type (e.g., a hat shop, a bakery) and a physical or vocal prompt for the Customer to build their character.
 

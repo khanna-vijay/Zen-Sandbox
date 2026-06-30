@@ -71,20 +71,6 @@ A high-energy, low-stakes icebreaker where players take turns standing in the ce
 
 **Objective:** To practice unfiltered spontaneity and vulnerability by sharing personal truths without overthinking, while the group practices active, enthusiastic support.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 8-15) |
-| Time | ~10 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle. No props or special staging required; just enough space for everyone to see and hear each other.
 

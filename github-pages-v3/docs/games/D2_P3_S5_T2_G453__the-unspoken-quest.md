@@ -80,20 +80,6 @@ A two-player scene work exercise where one player harbors a secret, character-dr
 
 **Objective:** To develop the ability to read subtext, body language, and indirect offers, training players to proactively 'give their partner the answer' and make them look like a genius without requiring explicit verbal instruction.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | hybrid |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two active players stand in the performance space, while the rest of the group acts as observers. The facilitator privately assigns a simple, physical, or situational secret objective to Player A (e.g., 'You need to find a quiet place to read a book' or 'You need to find your lost keys to leave'). Player B is instructed that their sole purpose is to discover Player A's hidden need and proactively fulfill it. A basic relationship and location are established.
 

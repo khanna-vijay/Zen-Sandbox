@@ -77,20 +77,6 @@ A classic four-player scene where two composite characters are created. For each
 
 **Objective:** To develop rapid endowment-acceptance and physical justification by forcing players to instantly adapt to and validate physical offers they do not control.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–4 (ideal 4) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Four players divide into two pairs. In each pair, Player A stands in front with their hands clasped behind their back. Player B stands directly behind Player A, slipping their arms under Player A's armpits so their hands are positioned where Player A's hands would naturally be. The two composite characters face each other in a clear performance space.
 

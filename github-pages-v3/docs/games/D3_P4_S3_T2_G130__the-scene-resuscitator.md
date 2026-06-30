@@ -79,20 +79,6 @@ The Scene Resuscitator is an active diagnostic exercise where players learn to r
 
 **Objective:** To develop a keen sense of narrative architecture, specifically mastering the 'Platform and Tilt' technique. Players learn to identify when a platform is stable but stagnant, and how to introduce a deliberate tilt (stakes, conflict, or a shift in wants) to serve the story and propel the scene forward.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | hybrid |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Arrange the group in a semi-circle facing a performance space. No props or special materials are required. This game can be played in-person or in a virtual gallery view. Two players step into the performance space to begin a scene, while the remaining players act as active observers.
 

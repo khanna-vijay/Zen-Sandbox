@@ -83,20 +83,6 @@ A virtual ensemble game that transforms the limitations of video conferencing in
 
 **Objective:** To develop advanced offer reception and active listening in a virtual space, specifically training players to integrate physical, verbal, and textual offers simultaneously while practicing the core 'Yes, And' principle.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–12 (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Run on a video conferencing platform. All participants must have their cameras turned on and be in a grid or gallery view with the chat window open. Everyone starts muted. No physical props are required, but a stable internet connection is essential.
 

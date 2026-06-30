@@ -68,20 +68,6 @@ A gentle, low-stakes icebreaker where participants take turns sharing the histor
 
 **Objective:** To cultivate vulnerability and unfiltered self-expression by sharing personal truth without the pressure to be funny, clever, or dramatic.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-15) |
-| Time | ~10 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | low |
-| Physicality | none |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Arrange the group in a comfortable standing or seated circle. No props or physical preparation are required.
 

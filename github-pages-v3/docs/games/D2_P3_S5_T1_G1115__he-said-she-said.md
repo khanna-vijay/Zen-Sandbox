@@ -77,20 +77,6 @@ A two-player scene-building drill where players alternate speaking dialogue and 
 
 **Objective:** To practice active gifting and physical endowment, training players to make their partner look brilliant by giving them clear, playable physical offers and instantly accepting the physical offers given to them.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–4 (ideal 2-4) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two players stand in the performance space. No props or special staging are required; just enough room to move and pantomime object work.
 

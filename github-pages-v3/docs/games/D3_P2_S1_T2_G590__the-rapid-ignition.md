@@ -85,20 +85,6 @@ A high-speed, high-repetition drill where pairs of improvisers rapidly construct
 
 **Objective:** To master the rapid establishment of a scene's Base Reality and immediately identify the Game of the scene using the principle of 'If this is true, what else is true?'.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 8-12) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space. The facilitator gathers the group (ideally 8-12 players) in a semi-circle facing the stage area. No props or chairs are required. The facilitator will solicit a simple, generic location suggestion from the group to serve as the backdrop for each round.
 

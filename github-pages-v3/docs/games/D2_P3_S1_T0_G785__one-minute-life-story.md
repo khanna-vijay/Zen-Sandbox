@@ -71,20 +71,6 @@ In this paired exercise, one player shares their life story for a continuous min
 
 **Objective:** Develops deep active listening, empathy, and the ability to make one's partner look brilliant by reflecting their narrative with care and accuracy.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal pairs) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand or sit in pairs facing each other in a shared space. No props or special staging are required. The facilitator will need a timer.
 

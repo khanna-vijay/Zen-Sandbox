@@ -78,20 +78,6 @@ A dynamic scene-work drill where performers actively manipulate the permeability
 
 **Objective:** To develop audience-energy management, room reading, and direct address techniques, training performers to treat the audience's real-time reactions as active, co-creative input that shapes the scene's direction.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 8+ (ideal 8-15) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An in-person performance space with a clear stage area and an audience of at least five to ten people drawn from the workshop participants. No props are required, though the facilitator may use a small bell or chime to trigger transitions.
 

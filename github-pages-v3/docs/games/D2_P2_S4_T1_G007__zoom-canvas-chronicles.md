@@ -83,20 +83,6 @@ Shared Canvas Chronicles is a collaborative virtual game where players build an 
 
 **Objective:** To develop deep offer reception and multi-modal 'Yes, And' skills by requiring players to actively listen to verbal narrative threads while simultaneously integrating and building upon visual offers on a shared screen.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–15 (ideal 6-12) |
-| Time | ~25 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Set up a virtual meeting room using a platform that supports screen sharing and participant annotation. The facilitator shares a blank white screen (or a simple, solid-colored background). Ensure all participants have annotation permissions enabled and know how to access the drawing tools (pen, stamp, or shapes). Instruct everyone to switch to grid view so they can see both the canvas and their fellow players' faces.
 

@@ -74,20 +74,6 @@ Players form trios consisting of a two-person 'house' sheltering a single 'creat
 
 **Objective:** To develop peripheral awareness, rapid physical adaptability, and group mind by forcing players to constantly read the stage picture and fill spatial gaps under pressure.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 12-24) |
-| Time | ~10 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, obstacle-free room. Players stand scattered across the space. No props are required.
 

@@ -76,20 +76,6 @@ A rapid-fire scene-initiation drill where pairs of players have exactly three li
 
 **Objective:** To master the C.R.O.W. technique (Character, Relationship, Objective, Where) instantly, establishing a solid base reality and starting in the middle of the action.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-16) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle or line up facing a designated performance space. No props or chairs are needed. The facilitator stands nearby to count lines and call 'scene' after the third line.
 

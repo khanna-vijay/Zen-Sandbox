@@ -74,20 +74,6 @@ This exercise integrates real-time consent and boundary negotiation directly int
 
 **Objective:** To develop high-level boundary navigation and active listening skills, allowing players to execute spontaneous non-verbal check-ins and respect 'cut' signals without breaking the artistic momentum of a scene.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 3-12) |
-| Time | ~20 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Arrange the group in a circle. Two players step into the center playing space. A third player is designated as the 'Weaver' and stands just outside the playing area. Before starting, all players spend one minute in silent reflection to map their personal physical and emotional comfort thresholds for the session.
 

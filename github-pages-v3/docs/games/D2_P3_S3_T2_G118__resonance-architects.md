@@ -86,20 +86,6 @@ A two-player exercise focused on radical attunement and subtextual collaboration
 
 **Objective:** To develop deep interpersonal attunement, precise emotional mirroring, and subtle status modulation, training players to treat every micro-offer as a brilliant foundation for collaboration.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (per pair)) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Pairs stand facing each other in a quiet space with comfortable eye contact. No props or special staging required.
 

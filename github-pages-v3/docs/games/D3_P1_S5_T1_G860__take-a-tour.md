@@ -75,20 +75,6 @@ Players form a physical chain to step through an imaginary portal into a new env
 
 **Objective:** To develop physical world-building (the 'Where' of C.R.O.W.) and group mind by showing environmental conditions (temperature, gravity, obstacles) through physical commitment and sensory reaction rather than verbal exposition.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 4-5 per group) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Divide players into small groups of 4 to 5. Ensure there is enough open floor space for groups to move around safely without colliding. No props are needed.
 

@@ -81,20 +81,6 @@ A high-energy talk-show style game where one host interviews two co-experts on a
 
 **Objective:** To practice deep offer reception and immediate justification by having two players share a single, unified expertise, ensuring they never contradict each other and always treat their partner's wild claims as absolute truth.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–15 (ideal 3-6) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Three chairs are set up on stage facing the audience: one for the host on one side, and two next to each other for the co-experts. The remaining workshop participants act as the live studio audience.
 

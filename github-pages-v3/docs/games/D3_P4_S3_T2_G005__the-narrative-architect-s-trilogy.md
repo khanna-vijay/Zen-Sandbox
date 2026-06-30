@@ -83,20 +83,6 @@ A structured three-phase scene-work exercise where players build a rich base rea
 
 **Objective:** To master the Platform/Tilt technique by establishing a solid base reality (the platform) and executing a logical, high-stakes disruption (the tilt) that is fully justified by prior details.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-12) |
-| Time | ~30 min |
-| Complexity | 4/5 |
-| Skill level | proficient |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An in-person playing space with two chairs. The remaining players sit in an audience arc to observe, listen actively, and analyze the narrative architecture.
 

@@ -68,20 +68,6 @@ Players navigate a shared space trying to tag others' lower backs with one arm (
 
 **Objective:** To cultivate a playful relationship with failure (failing joyfully) while sharpening physical agility, spatial awareness, and spontaneous vocal expression.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 8-20) |
-| Time | ~3 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A large, open room free of obstacles. Players stand scattered throughout the space. No props required.
 

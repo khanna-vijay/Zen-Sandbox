@@ -68,20 +68,6 @@ In this fast-paced, low-stakes movement exercise, participants walk freely throu
 
 **Objective:** To develop emotional fluidity and vulnerability by practicing the rapid delivery and reception of high-stakes emotional statements without overthinking or hesitation.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-20) |
-| Time | ~3 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, clear room where participants can walk freely in all directions. No props or chairs are needed.
 

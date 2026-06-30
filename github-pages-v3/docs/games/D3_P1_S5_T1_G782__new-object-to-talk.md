@@ -69,20 +69,6 @@ This scene-work drill requires players to physically interact with or discover a
 
 **Objective:** To develop physical world-building, establish the 'Where' of C.R.O.W., and practice showing rather than telling by prioritizing spatial awareness and object work over verbal exposition.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 per scene) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two players stand in the performance space. The rest of the group acts as an active audience. No physical props are used; all objects must be mimed using space work. Get a simple location suggestion from the group.
 

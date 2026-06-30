@@ -75,20 +75,6 @@ Two players step on stage to build a scene starting from the most ordinary, low-
 
 **Objective:** To practice endowment-acceptance and active gifting by treating every minor offer as a crucial, high-stakes plot point, making your partner look like a genius storyteller.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (with workshop observing)) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two players stand in the performance space. The rest of the group acts as an active, observing audience. No props or special staging are required.
 

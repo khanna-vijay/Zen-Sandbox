@@ -76,20 +76,6 @@ In this structured exercise, players adopt specific character archetypes that em
 
 **Objective:** To develop competent boundary navigation and active listening skills by practicing proactive check-ins, establishing clear personal limits, and honoring safety signals while maintaining character integrity.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–10 (ideal 4-10) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | Character Archetype cards, Scene prompts |
-| Audience | not required |
-
 ## Setup
 Prepare a set of index cards featuring different boundary archetypes (such as 'The Space Invader,' 'The Private Sentinel,' 'The People-Pleaser,' 'The Direct Inquirer'). Prepare a list of neutral, everyday scene prompts (such as 'Waiting for a delayed train' or 'Sharing a small office desk'). Establish a clear, physical and verbal safety signal (such as raising both hands and saying 'Cut' or 'Time Out') that immediately halts all action. Arrange the space with a moderate playing area and seating for the off-stage players.
 

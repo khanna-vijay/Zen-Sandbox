@@ -71,20 +71,6 @@ Players stand in a circle and pass a rhythmic 'bunny' energy around, while neigh
 
 **Objective:** To develop peripheral awareness and thread-tracking skills by managing multiple simultaneous layers of rhythm, movement, and vocal cues within a group.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 10-25) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Have all players stand in a wide, clear circle with enough space to move their arms and step side-to-side. No props or materials are required.
 

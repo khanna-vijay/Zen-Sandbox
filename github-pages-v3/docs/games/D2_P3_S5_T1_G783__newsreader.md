@@ -83,20 +83,6 @@ Two anchors sit at a news desk, introducing field reporters scattered around the
 
 **Objective:** To practice active gifting and endowment, learning how to set up a partner with a clear, fun, and supportive premise while practicing rapid offer acceptance.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–12 (ideal 6-10) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Place two chairs at the front of the room to serve as the news desk. The remaining players stand in the space behind or around the desk, acting as field reporters waiting for their cue.
 

@@ -84,20 +84,6 @@ An advanced ensemble exercise where players build a shared theatrical world enti
 
 **Objective:** To develop deep Group Mind and Peripheral Awareness by training players to track multiple sensory threads simultaneously, synthesize abstract themes, and transition organically from non-verbal atmosphere to collaborative scene work.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~15 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, quiet room with enough space for 4 to 8 players to stand in a loose, scattered formation or a wide circle. No props, chairs, or materials are required. Ensure the space is free of physical hazards as players will begin with their eyes closed.
 

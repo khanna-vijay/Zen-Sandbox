@@ -80,20 +80,6 @@ In this physical and narrative exercise, players divide into environmental eleme
 
 **Objective:** To develop a deep sense of Group Mind and Support Work by training players to physically embody environments, read subtle physical and verbal cues, and dynamically co-create a scene where physical space and narrative theme are completely integrated.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–7 (ideal 5-7) |
-| Time | ~30 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear, open playing space with no physical chairs or props. Divide a group of 5 to 7 competent players into two initial teams: 3 'Architects' and 3 'Characters' (adjusting to a 3/2 or 4/3 split if needed). The facilitator secures a single, evocative location suggestion that has both physical and thematic potential (e.g., 'a decaying clock tower' or 'a sterile high-security vault').
 

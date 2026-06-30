@@ -84,20 +84,6 @@ This high-intensity drill plunges a single player into a fast-paced sensory stor
 
 **Objective:** Develops unfiltered spontaneity, emotional fluidity, and absolute commitment by training players to treat their first instinct as a gift and to recover instantly from moments of hesitation.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–15 (ideal 5-15) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Form a circle with 5 to 15 players in an open room with ample space for movement. One player steps into the center as the Core Player. Select 2 to 3 players in the circle to act as the active Impulse Providers, while the remaining players and the facilitator stand in the outer circle to support the energy. No props are required.
 

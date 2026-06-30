@@ -85,20 +85,6 @@ A highly structured, two-player interview drill where one participant acts as an
 
 **Objective:** To master the art of making your partner look brilliant by practicing active gifting, status modulation, and immediate physical and verbal validation.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (or any even group size split into pairs)) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players split into pairs. One player is designated as the Interviewer (the Reflector) and the other as the Expert (the Oracle). The facilitator or the rest of the group provides a highly specific, fictional, or absurd topic of expertise (e.g., 'The migratory patterns of dust bunnies' or 'The emotional life of paperclips'). No props or special staging are required; players simply stand or sit facing each other.
 

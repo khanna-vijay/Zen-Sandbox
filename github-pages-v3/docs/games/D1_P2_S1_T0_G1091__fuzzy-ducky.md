@@ -70,20 +70,6 @@ Players stand in a circle and attempt to count upward sequentially while replaci
 
 **Objective:** Develops unfiltered spontaneity, rapid mental processing, and a joyful relationship with failure by overloading the analytical mind.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-15) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle facing inward. No props, materials, or special staging are required.
 

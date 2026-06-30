@@ -80,20 +80,6 @@ A high-energy, rapid-fire virtual drill where a facilitator dynamically shifts t
 
 **Objective:** To cultivate unfiltered spontaneity and immediate commitment by training players to treat their very first impulse as a gift, bypassing self-censorship in a virtual environment.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 8–15 (ideal 8-10) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Conducted on a video conferencing platform supporting a host-controlled spotlight feature. All participants keep their cameras on, set their view to Gallery View, and mute their microphones. The facilitator acts as the technical director, ready to manually toggle the spotlight.
 

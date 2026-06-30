@@ -72,20 +72,6 @@ A fast-paced, rhythmic circle drill designed to break the habit of apologizing f
 
 **Objective:** To build self-recovery skills and joyful failure by training players to style out verbal mistakes instead of stopping to correct themselves.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–25 (ideal 8-15) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a shoulder-to-shoulder circle in an open space. No props or materials are required.
 

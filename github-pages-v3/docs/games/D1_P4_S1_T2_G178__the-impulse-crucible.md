@@ -81,20 +81,6 @@ A high-energy, fast-paced drill where players step into a central space to insta
 
 **Objective:** To develop unfiltered spontaneity and emotional fluidity by training players to bypass cognitive filtering, instantly integrating physical, vocal, and emotional impulses into a single, committed moment of expression.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle with a designated space in the center called the Chamber. No props or materials are required. The facilitator stands outside the circle to guide the flow.
 

@@ -75,20 +75,6 @@ Players stand in a circle with one challenger in the center who points and issue
 
 **Objective:** Develops unfiltered spontaneity, rapid physical commitment, and the ability to fail joyfully by reframing mistakes as moments of high-energy celebration.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6+ (ideal 8-20) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Have all players stand in a shoulder-to-shoulder circle facing inward. One player volunteer starts in the center as the Challenger. No props or materials are required.
 

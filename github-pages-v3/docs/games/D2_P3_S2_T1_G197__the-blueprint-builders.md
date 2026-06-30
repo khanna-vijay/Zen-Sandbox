@@ -86,20 +86,6 @@ A two-player collaborative design exercise where participants build an imaginary
 
 **Objective:** To master status modulation and the 'Status Seesaw' technique, training players to elevate their partner's ideas ('Make Your Partner a Genius') while fluidly adjusting their own physical and verbal authority.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (or pairs in a larger group)) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in pairs facing each other with comfortable eye contact and a neutral, open posture. No physical props or materials are required. The facilitator prepares a list of vague, open-ended prompts (e.g., 'We are designing a monumental structure' or 'We are planning an elaborate escape').
 

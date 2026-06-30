@@ -76,20 +76,6 @@ Association Edits is a dynamic montage format where players use rapid verbal tra
 
 **Objective:** To develop sharp pacing, rhythmic editing, and seamless transitions while practicing A-to-C suggestion deconstruction and serving the overall flow of a piece.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 4-8) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space with a clear stage area and an off-stage back line where inactive players stand. No props or chairs are required.
 

@@ -81,20 +81,6 @@ Two players share an imaginary car ride in a tight-knit community where everyone
 
 **Objective:** To practice active gifting and immediate endowment, training players to establish deep, emotionally honest relationships instantly without relying on transactional plot or small talk.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Arrange two chairs side-by-side facing the audience to represent the front seats of a car. The remaining players form a line or queue to the side of the stage, acting as upcoming passengers. No props are needed.
 

@@ -69,20 +69,6 @@ A highly physical, cooperative trust exercise where the entire group forms a sel
 
 **Objective:** To build deep physical trust, develop peripheral awareness, and experience the literal manifestation of mutual support and Group Mind.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 8+ (ideal 10-25) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | high |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, flat floor space with no obstacles. Players stand in a tight, shoulder-to-shoulder circle facing inward.
 

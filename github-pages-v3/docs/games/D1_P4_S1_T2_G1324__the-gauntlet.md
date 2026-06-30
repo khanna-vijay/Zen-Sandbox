@@ -76,20 +76,6 @@ The Solo Gauntlet is a high-tempo, solo improvisation drill designed to bypass t
 
 **Objective:** To cultivate unfiltered spontaneity, rapid character physicalization, and narrative agility by training the player to treat every immediate impulse as an absolute truth, outrunning the internal editor through structured time pressure.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 1–1 (ideal 1) |
-| Time | ~10 min |
-| Complexity | 4/5 |
-| Skill level | proficient |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear, safe performance space free of physical hazards. A timer visible to the player, set for 3 to 5 minutes, or a facilitator ready to call out structural milestones. No chairs or props are used to maximize physical engagement, though modifications are welcomed.
 

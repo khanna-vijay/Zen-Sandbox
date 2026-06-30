@@ -82,20 +82,6 @@ A high-energy narrative game where a team of bizarre, audience-suggested superhe
 
 **Objective:** To practice unfiltered spontaneity and joyful failure by committing to absurd character concepts and celebrating unsuccessful attempts before finding a collaborative resolution.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–6 (ideal 4-6) |
-| Time | ~8 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Players stand in a line-of-sight offstage or at the back of the playing space. One player starts on stage. The facilitator asks the audience for a minor, mundane crisis and a ridiculous superhero name for the first player.
 

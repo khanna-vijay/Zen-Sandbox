@@ -85,20 +85,6 @@ A two-player exercise where partners build a scene by strictly dividing every co
 
 **Objective:** To develop deep active listening, emotional mirroring, and dynamic status modulation, training players to prioritize their partner's offers and make them look brilliant before advancing the scene.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (in pairs)) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in pairs facing each other with comfortable eye contact. No pre-determined characters or settings are established. The facilitator provides a simple, open-ended relationship prompt to kick off the dialogue.
 

@@ -74,20 +74,6 @@ Spatial Anchors is a longform narrative format where players use the physical ar
 
 **Objective:** To develop format literacy and narrative architecture by using physical staging as a structural editing tool, helping players track complex timelines and thematic threads.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-4) |
-| Time | ~20 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | chairs |
-| Audience | required |
-
 ## Setup
 Two to four chairs placed on an open stage. An audience is seated facing the performance space. No other props are required.
 

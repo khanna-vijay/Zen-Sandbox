@@ -74,20 +74,6 @@ A scene-based game where players must speak in rhyming couplets, with the twist 
 
 **Objective:** To develop unfiltered spontaneity and active listening by using the constraint of rhyming to bypass the analytical mind, treating the first rhyming word that comes to mind as a gift.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–4 (ideal 2-3) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two to three players stand in the performance space. No props or special staging are required. The facilitator asks the audience or remaining workshop participants for a simple relationship or location to start the scene.
 

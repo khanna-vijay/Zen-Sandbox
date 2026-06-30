@@ -78,20 +78,6 @@ In this game, a team of players improvises a single, continuous scene that is pe
 
 **Objective:** To develop narrative architecture and story preservation by practicing how to establish a solid platform and tilt, and then maintain that narrative spine even when the stylistic presentation is radically altered.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–6 (ideal 3-5) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An active playing area (stage) for 3 to 5 players, with the remaining workshop participants acting as the audience. A facilitator stands off-stage or at the side, ready to call out styles. No props or special materials are required.
 

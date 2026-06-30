@@ -74,20 +74,6 @@ This exercise provides a structured, step-by-step framework for players to pract
 
 **Objective:** To develop practical boundary navigation and physical negotiation skills, training players to prioritize consent and authentic comfort ('Truth Over Pandering') over automatic agreement.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–5 (ideal 3-5) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | low |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Arrange the space with clear boundaries. Write the Proximity Scale (Levels 0 to 6) on a board visible to all players. Have two active players stand at least six feet apart in the playing area, with one to three players observing as active safety monitors.
 

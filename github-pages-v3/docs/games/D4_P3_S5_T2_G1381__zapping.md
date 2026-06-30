@@ -77,20 +77,6 @@ In this fast-paced comedy game, players represent different television channels,
 
 **Objective:** Develops thematic synthesis, active listening, and narrative weaving by challenging players to adapt a single core theme into diverse genres on the fly.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–6 (ideal 5) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Five players stand in a line facing the audience. One player is designated as the Host (holding an imaginary remote), while the other four players represent the television channels. No props or special staging are required.
 

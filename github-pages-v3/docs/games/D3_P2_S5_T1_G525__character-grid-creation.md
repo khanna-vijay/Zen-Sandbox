@@ -86,20 +86,6 @@ The Digital Neighborhood is a virtual-native improv game where players transform
 
 **Objective:** To rapidly establish a solid Base Reality using the C.R.O.W. framework (Character, Relationship, Objective, Where) by leveraging visual cues, active listening, and spatial constraints in a virtual environment.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–16 (ideal 8-12) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | Zoom client with Gallery View, Virtual backgrounds, Rename capability |
-| Audience | not required |
-
 ## Setup
 Players join a virtual meeting platform in Gallery View. Each player must have access to virtual backgrounds and the ability to rename themselves. The facilitator acts as the Grid Master, using their screen's layout as the definitive Master Grid to determine spatial adjacency. Before starting, players are given 2 minutes to select a virtual background representing a specific location (e.g., a messy kitchen, a serene forest, a high-tech lab) and rename themselves to include a character name and role (e.g., 'Dr. Aris - Lead Botanist').
 

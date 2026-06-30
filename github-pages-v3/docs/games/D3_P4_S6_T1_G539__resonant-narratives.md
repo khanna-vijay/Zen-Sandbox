@@ -81,20 +81,6 @@ A trio of players collaborates to construct a scene where the physical environme
 
 **Objective:** To develop advanced justification skills by treating abstract, non-verbal auditory constraints as foundational narrative truths, forcing players to build cohesive worlds and serve the story through active listening and physical space work.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 3) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Designed for a virtual platform. Three active players are selected: two Scene Players and one Sound Architect. The Sound Architect should ensure their microphone is clear and positioned to capture vocalizations or gentle body percussion. No physical props or special software are required.
 

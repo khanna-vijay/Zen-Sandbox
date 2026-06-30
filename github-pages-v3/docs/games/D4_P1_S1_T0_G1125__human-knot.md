@@ -71,20 +71,6 @@ A physical, collaborative puzzle where players form a tight circle, reach in to 
 
 **Objective:** To develop group mind, peripheral awareness, and physical boundary navigation by coordinating complex, multi-person movements without a single leader.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–16 (ideal 8-12) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | high |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear, open space with enough room for 6 to 16 players to move around safely. No props are needed. Players stand in a tight, shoulder-to-shoulder circle facing inward.
 

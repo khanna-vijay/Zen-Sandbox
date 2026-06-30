@@ -69,20 +69,6 @@ Players move dynamically through a shared space, shifting their physical center 
 
 **Objective:** To develop physical commitment, spatial awareness, and spontaneous character generation by bypassing intellectual analysis in favor of physical exploration.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 8-20) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open room free of obstacles. Players stand scattered throughout the space, ready to move. No props or materials are required.
 

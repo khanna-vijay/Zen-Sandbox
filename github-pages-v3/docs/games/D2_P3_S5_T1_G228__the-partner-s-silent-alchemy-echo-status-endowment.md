@@ -89,20 +89,6 @@ A fully non-verbal partner exercise where players build a shared physical enviro
 
 **Objective:** To develop active gifting and endowment-acceptance skills, allowing players to make their partner look brilliant by fully committing to and elevating their physical offers while dynamically modulating status.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (or any even number in pairs)) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, quiet room with enough space for players to work in pairs. No props or chairs are needed. Players stand facing their partners with comfortable eye contact.
 

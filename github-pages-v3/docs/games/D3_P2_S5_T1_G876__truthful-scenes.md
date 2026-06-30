@@ -76,20 +76,6 @@ Two players initiate a scene by sharing authentic personal memories, opinions, o
 
 **Objective:** To master the C.R.O.W. technique (Character, Relationship, Objective, Where) by anchoring the scene's initial reality in genuine personal truth, making the base reality instantly believable and compelling.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-15) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space. Two players stand in the playing area, while the rest of the group sits as active observers. No props or special staging are required.
 

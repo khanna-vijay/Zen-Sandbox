@@ -78,20 +78,6 @@ A structured narrative game where a live scene is paused at critical turning poi
 
 **Objective:** To develop a conscious grasp of narrative architecture, cause-and-effect progression, and collaborative story-building by pausing action to deliberately evaluate and select high-stakes plot developments.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–12 (ideal 4-6) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space. Two to three players start on stage to perform a scene, while the remaining players stand offstage as the 'Weavers' (story architects). No props or special materials are required.
 

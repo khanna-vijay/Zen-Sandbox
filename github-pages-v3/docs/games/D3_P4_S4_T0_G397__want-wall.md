@@ -75,20 +75,6 @@ A structured scene-initiation exercise where players step out of character to ex
 
 **Objective:** To develop the ability to rapidly identify, articulate, and commit to high-stakes character desires and immediate obstacles, establishing a robust narrative engine from the very first line.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 per scene) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open playing space for two players, with the remaining group acting as observers. No props or special materials are required. The facilitator secures a simple suggestion of a location or a relationship to inspire the scene.
 

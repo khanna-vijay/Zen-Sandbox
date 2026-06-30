@@ -75,20 +75,6 @@ Six players sit in pairs representing three separate tables at a social gatherin
 
 **Objective:** To develop thematic synthesis, active listening, and peripheral awareness by training players to find unexpected connections between unrelated topics and execute seamless focus transitions.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–6 (ideal 6) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Arrange six chairs in three distinct pairs (representing tables) spaced out across the playing area. Assign each pair a broad, everyday topic (e.g., 'public transit', 'gardening', 'childhood toys'). No props or materials are required.
 

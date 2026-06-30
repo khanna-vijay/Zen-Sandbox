@@ -71,20 +71,6 @@ Players perform a condensed, high-speed version of a well-known movie with a hil
 
 **Objective:** Develops uninhibited vocal characterization, unfiltered spontaneity, and absolute commitment by forcing players to abandon subtlety and embrace an extreme vocal and physical choice.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–6 (ideal 3-5) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two to six players stand in a line or semi-circle facing the playing space. No props or special staging are required.
 

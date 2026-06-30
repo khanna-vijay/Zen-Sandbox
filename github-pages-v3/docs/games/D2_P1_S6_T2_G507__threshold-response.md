@@ -73,20 +73,6 @@ A structured scene-work drill where players navigate high-stakes scenarios desig
 
 **Objective:** To develop practical boundary navigation skills, specifically training players to recognize internal discomfort, execute clear 'Cut' calls that instantly override scene agreements, and prioritize genuine emotional truth over people-pleasing or pandering.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–6 (ideal 3-6) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An intimate, trust-focused space with 3 to 6 players. The facilitator prepares a list of 'Threshold Prompts'—scenarios that naturally invite tension, physical proximity, or emotional intensity without being genuinely traumatic. Players sit in a semi-circle facing the performance space.
 

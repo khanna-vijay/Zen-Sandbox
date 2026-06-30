@@ -73,20 +73,6 @@ Evolution is a fast-paced, highly physical warm-up game where players navigate a
 
 **Objective:** Develops physical commitment, character centers, peripheral awareness, and a joyful, resilient attitude toward failure and sudden setbacks.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 10-30) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open room cleared of chairs and obstacles. Players stand scattered throughout the space, ready to move.
 

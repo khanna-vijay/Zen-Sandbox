@@ -85,20 +85,6 @@ An advanced ensemble exercise where players collaboratively construct a non-line
 
 **Objective:** To develop a hyper-sensitive Group Mind and master thematic synthesis by training players to track multiple historical threads and weave them simultaneously into new, evolved contexts.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–8 (ideal 4-8) |
-| Time | ~20 min |
-| Complexity | 4/5 |
-| Skill level | proficient |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open playing space with no chairs or props. Three to eight players stand in a loose semi-circle or scattered around the perimeter, ready to step into the active playing area. No physical materials are required.
 

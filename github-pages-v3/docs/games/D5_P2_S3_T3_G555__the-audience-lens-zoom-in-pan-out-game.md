@@ -81,20 +81,6 @@ In this exercise, players perform a standard scene while a facilitator or peer a
 
 **Objective:** To develop stage presence and clarity by mastering the physical and vocal projection of internal character states, ensuring every choice is readable to the back row of an audience.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 3-8) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space representing a stage. Two to three players step up to perform a scene, while the remaining players sit as the audience. One person (initially the facilitator, later rotating to other players) stands at the back of the audience area to act as the 'Camera Operator.'
 

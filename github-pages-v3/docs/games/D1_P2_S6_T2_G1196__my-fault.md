@@ -74,20 +74,6 @@ A high-energy, physical warm-up where players walk around a space tossing water-
 
 **Objective:** To build resilience against the fear of making mistakes, practice rapid self-recovery, and foster a supportive group dynamic where failure is met with enthusiasm rather than shame.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-20) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | 2 sturdy plastic bottles with a small amount of water |
-| Audience | not required |
-
 ## Setup
 Clear a moderate-sized room of obstacles. Prepare two sturdy plastic bottles, each filled with about an inch of water to give them a satisfying weight for tossing. Have players stand scattered throughout the space.
 

@@ -83,20 +83,6 @@ In this physical and verbal ensemble exercise, players enter a scene one by one 
 
 **Objective:** To develop high-level peripheral awareness and group mind by training players to physically and verbally map out multi-character relationships in real-time.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–8 (ideal 4-8) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A moderate playing space with three to eight players standing offstage or in a neutral semi-circle. The facilitator obtains a simple, open-ended location suggestion with no pre-assigned characters or roles.
 

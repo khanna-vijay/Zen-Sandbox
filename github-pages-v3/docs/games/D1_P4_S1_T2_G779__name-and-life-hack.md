@@ -70,20 +70,6 @@ This is a rapid-fire introductory game played in a circle where participants sha
 
 **Objective:** Develops unfiltered spontaneity and trains players to treat their first thought as a gift rather than filtering or judging their ideas before speaking.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 8-15) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Have all players stand in a circle facing inward. No props or special materials are required. The facilitator should prepare to model the exercise first to set a playful, low-stakes tone.
 

@@ -78,20 +78,6 @@ Two to three players launch into a scene with a strict sixty-second time limit. 
 
 **Objective:** To develop rapid justification skills and narrative pacing under pressure, specifically training players to embrace sudden, extreme plot shifts and make them make sense within the story's logic.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–3 (ideal 2-3) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear performance space with a visible timer or a facilitator ready to call out time. Two to three players stand on stage. No props are needed, though players should use object work to establish the environment.
 

@@ -82,20 +82,6 @@ Two players initiate a standard, relationship-driven scene. At unpredictable int
 
 **Objective:** To develop unfiltered spontaneity and rapid characterization by forcing players to trust their immediate physical and vocal impulses without hesitation or planning.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 active players) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | bell, buzzer, sound effect |
-| Audience | not required |
-
 ## Setup
 Two active players stand in the performance space. The facilitator stands nearby with a bell, buzzer, or a clear vocal sound effect. The rest of the group watches as active listeners. No props or special staging are required.
 

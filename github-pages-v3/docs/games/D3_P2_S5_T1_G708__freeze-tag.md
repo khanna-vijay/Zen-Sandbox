@@ -77,20 +77,6 @@ Two players begin an active, physical scene. At any moment, an off-stage player 
 
 **Objective:** To rapidly establish a clear base reality (C.R.O.W.) using physical shapes as the primary inspiration, fostering unfiltered spontaneity and immediate justification.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open playing space with a designated stage area. The remaining players line up along the back wall (the 'back line') acting as active observers ready to jump in. No props or chairs are used.
 

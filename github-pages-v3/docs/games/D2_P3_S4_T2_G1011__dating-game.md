@@ -76,20 +76,6 @@ One player acts as a hopeful dater seeking a match among three mysterious contes
 
 **Objective:** To practice receiving and fully committing to external endowments while making your partner look brilliant by giving clear, playable clues.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–4 (ideal 4) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Four chairs are arranged on stage: three facing forward for the contestants, and one angled for the questioner. One player leaves the room while the audience brainstorms distinct, comedic endowments for the other three.
 

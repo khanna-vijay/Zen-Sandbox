@@ -76,20 +76,6 @@ Two players initiate a grounded, realistic scene to establish a firm base realit
 
 **Objective:** To develop rapid game identification and physical/emotional heightening. Players practice isolating a partner's subtle behavioral choices, amplifying them as an understudy, and seamlessly mirroring those heightened choices when returning to the scene.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-10) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space with two active players on stage and the remaining players standing on the wings as an active audience/ensemble. The facilitator acts as the Director, positioned where they can clearly observe and call out cues.
 

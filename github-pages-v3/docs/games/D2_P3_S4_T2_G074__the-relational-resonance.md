@@ -85,20 +85,6 @@ Two players improvise a mundane, everyday scene while a facilitator periodically
 
 **Objective:** To develop advanced offer reception and endowment-acceptance by training players to detect, validate, and physically support their partner's subtle, unvoiced relational shifts.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | pre-written list of relational prompts |
-| Audience | not required |
-
 ## Setup
 An in-person playing space with two active players standing center stage, while the rest of the group observes as active listeners. The facilitator needs a pre-written list of relational prompts (such as 'you desperately seek their approval', 'you view them as fragile', or 'you are hiding a joyful secret').
 

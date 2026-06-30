@@ -71,20 +71,6 @@ Players take turns stepping into the spotlight to deliver a brief, high-energy m
 
 **Objective:** Develops vocal characterization, projection, and uninhibited commitment by challenging players to make extreme vocal choices and play to the back row.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 8-20) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a semi-circle facing a designated performance space. No props or materials are required.
 

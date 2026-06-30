@@ -72,20 +72,6 @@ A structured partner exercise where players co-create a scene while explicitly p
 
 **Objective:** To develop practical boundary navigation and active listening skills by prioritizing personal comfort over the theatrical impulse to blindly agree, establishing a reliable framework for real-time check-ins.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-3 per scene) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two active players stand or sit in the performance space. The rest of the group observes as an active audience. No props or special staging are required. The facilitator establishes a low-stakes, supportive atmosphere before beginning.
 

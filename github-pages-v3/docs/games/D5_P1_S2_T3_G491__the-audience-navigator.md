@@ -78,20 +78,6 @@ The Live Feed is an interactive scene-based game where performers actively manag
 
 **Objective:** Develops real-time room reading, audience-energy management, and the purposeful use of direct address to calibrate clarity, pacing, and emotional stakes.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-4 players plus audience) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Two to four players stand on stage in front of a seated audience. Before starting, the facilitator establishes three simple non-verbal signals for the audience to use (e.g., thumbs up/down for clarity, hand-waving for pacing, or chest-patting for emotional resonance). Obtain a standard scene suggestion to begin.
 

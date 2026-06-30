@@ -76,20 +76,6 @@ Two players repeat a simple, mundane four-line dialogue while secretly trying to
 
 **Objective:** To develop status modulation, physical awareness, and partner empathy by using spatial proximity as a tool to drive emotional stakes and subtext.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–2 (ideal 2) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | stick (optional), rope (optional) |
-| Audience | not required |
-
 ## Setup
 A clear, moderate-sized playing space where two players can move freely. No special materials are required, though a short stick or rope can be used for advanced variations.
 

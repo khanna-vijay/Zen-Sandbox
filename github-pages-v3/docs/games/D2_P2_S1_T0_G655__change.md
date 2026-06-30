@@ -75,20 +75,6 @@ Two players collaborate to tell a single, cohesive first-person story about a pa
 
 **Objective:** To develop active listening and immediate 'yes-and' acceptance by forcing players to seamlessly adopt and build upon a partner's spontaneous narrative details.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-3) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand or sit in pairs facing each other. No props or special staging are required. The facilitator stands nearby to act as the cue-giver.
 

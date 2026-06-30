@@ -76,20 +76,6 @@ A fast-paced, high-energy line-up game where players take turns stepping forward
 
 **Objective:** To bypass the internal editor, embrace the very first comedic instinct that comes to mind, and deliver it with absolute commitment and stage presence.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 4-8) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Players form a horizontal line facing the audience (the back line). The facilitator acts as the host/emcee. No props or special staging are required, just a clear performance space.
 

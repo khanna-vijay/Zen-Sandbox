@@ -81,20 +81,6 @@ In this exercise, players establish a grounded physical reality that is periodic
 
 **Objective:** To develop narrative architecture and mastery of the Platform/Tilt technique by treating the physical environment as a dynamic catalyst for story progression, character transformation, and justification.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space with no physical props. Players stand in a semi-circle facing the playing area. The facilitator stands to the side, ready to observe closely and deliver verbal environmental prompts.
 

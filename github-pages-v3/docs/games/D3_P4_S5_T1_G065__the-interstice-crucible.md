@@ -81,20 +81,6 @@ A structured narrative game where players map their characters' unspoken assumpt
 
 **Objective:** To master C.R.O.W. (Character, Relationship, Objective, Where) and narrative architecture by externalizing subtext, forcing players to actively justify their actions based on established relational stakes and evolving character wants.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–5 (ideal 3-5) |
-| Time | ~20 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | moderate |
-| Props | whiteboard or digital canvas, markers |
-| Audience | not required |
-
 ## Setup
 Designed for a virtual platform with a shared digital whiteboard. Three to five players join the virtual space. The facilitator prepares a blank canvas with space to draw nodes for each player. The group establishes a single, high-stakes location and circumstance without defining specific character details yet.
 

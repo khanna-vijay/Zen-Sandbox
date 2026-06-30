@@ -81,20 +81,6 @@ A solo performer steps onto the stage to deliver an improvised narrative where t
 
 **Objective:** To master room reading and energy-calibration by translating non-verbal audience feedback into immediate, readable physical and narrative choices on stage.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 1+ (ideal 1 performer + audience) |
-| Time | ~15 min |
-| Complexity | 4/5 |
-| Skill level | proficient |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 A clear performance space with a seated audience (which can consist of fellow workshop participants). No props or materials are required. The facilitator stands near the back or side to observe both the performer and the audience's collective behavior.
 

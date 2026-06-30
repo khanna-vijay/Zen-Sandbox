@@ -80,20 +80,6 @@ A solo or paired scene-work exercise where a player establishes a strong physica
 
 **Objective:** Develops self-recovery and absolute commitment by training improvisers to instantly adapt their physical, vocal, and emotional states to sudden disruptions, treating every unexpected change as if it were exactly what they meant to do.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 3-6) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, moderate-sized playing space. One active player stands in the center, with one optional passive scene partner to react simply. The rest of the group observes as active listeners. No props are required.
 

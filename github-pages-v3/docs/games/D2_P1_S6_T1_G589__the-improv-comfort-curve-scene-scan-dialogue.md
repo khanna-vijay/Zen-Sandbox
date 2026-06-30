@@ -76,20 +76,6 @@ A structured exercise where players use a physical tracking tool to silently mon
 
 **Objective:** To develop self-awareness of personal boundaries, practice explicit post-scene communication, and master the use of active check-ins and cut calls to navigate physical and emotional intensity.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–12 (ideal 6-12) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | Comfort Tracker (paper plate dial, paper scale, or small whiteboard) |
-| Audience | not required |
-
 ## Setup
 Players sit in a circle. Each player is given a Comfort Tracker (a paper plate with a rotating arrow dial, a 1-10 scale on paper, or a small whiteboard). The scale is defined as: 1-3 (highly uncomfortable/needs a cut), 4-6 (mildly uncomfortable/needs a check-in or adjustment), 7-8 (mostly comfortable), and 9-10 (fully comfortable and open). A performance space is cleared at the front.
 

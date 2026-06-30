@@ -70,20 +70,6 @@ One player acts as a customer returning an unusual item with a highly specific d
 
 **Objective:** Develops room reading and energy-calibration by training players to treat the audience's physical and vocal reactions as an active, live scene partner.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-20) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | required |
-
 ## Setup
 One player (the Customer) steps out of the room. Another player (the Clerk) stands behind an imaginary counter. The remaining players act as the Audience.
 

@@ -76,20 +76,6 @@ A structured scene-work exercise where players practice setting and respecting b
 
 **Objective:** To develop practical skills in active boundary navigation and ongoing consent negotiation, training players to use in-character check-ins and constructive "No, but..." responses to prioritize personal safety and authentic character choices over people-pleasing.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–4 (ideal 2-4) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two to four players stand in a clear, minimal performance space. No props or special materials are required. The facilitator prepares a few low-stakes, relationship-focused scene prompts (e.g., two neighbors dividing a garden plot, coworkers organizing a breakroom).
 

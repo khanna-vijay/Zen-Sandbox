@@ -70,20 +70,6 @@ Players work in pairs to share a hyper-detailed, mundane account of their recent
 
 **Objective:** To develop deep active listening and recall, while practicing valuing the mundane and making your partner look brilliant by remembering their specific details.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2+ (in pairs)) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | low |
-| Physicality | none |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand or sit in pairs facing each other in a shared space. No props or materials are required.
 

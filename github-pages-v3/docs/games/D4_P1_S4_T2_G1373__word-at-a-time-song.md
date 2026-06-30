@@ -76,20 +76,6 @@ In this musical ensemble game, players stand in a line and collaborate to improv
 
 **Objective:** Develops deep group mind, active listening, and rhythmic timing by requiring players to surrender individual control and adapt instantly to the musical and narrative flow of the ensemble.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–8 (ideal 3-5) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | piano or musical accompaniment (optional) |
-| Audience | not required |
-
 ## Setup
 Position 3 to 5 players in a line or semi-circle. If using a live accompanist (such as a keyboardist), place them where they have a clear line of sight to the players. No props or special materials are required.
 

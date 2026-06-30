@@ -85,20 +85,6 @@ A high-energy, rapid-fire partner exercise where players cycle through a continu
 
 **Objective:** To build advanced skills in offer reception, active listening, and justification by training players to enthusiastically validate their partner's ideas and treat every contribution as a stroke of genius.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (or multiple pairs)) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in pairs facing each other. The exercise can be run simultaneously across the entire room, or with one pair performing at a time in front of the group.
 

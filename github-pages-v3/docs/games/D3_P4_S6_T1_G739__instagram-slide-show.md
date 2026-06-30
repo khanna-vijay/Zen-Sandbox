@@ -80,20 +80,6 @@ Players portray travelers returning from an unusual trip, presenting a slideshow
 
 **Objective:** Develops rapid justification of absurd offers, narrative cohesion, active listening, and collaborative world-building.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–4 (ideal 2-3 players) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | Projector or screen, Internet-connected device with Instagram access |
-| Audience | required |
-
 ## Setup
 A stage area with a projection screen or large monitor visible to both the audience and the players. A tech operator with an internet-connected device ready to pull up a random image feed or pre-selected folder of unusual photos. Two to three players stand on stage.
 

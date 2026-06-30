@@ -74,20 +74,6 @@ A high-energy, high-stakes short-form game where players pitch game titles based
 
 **Objective:** To develop unfiltered spontaneity and rapid format literacy by forcing players to trust their first instinct, confidently command the stage, and instantly structure a playable comedic game from a random prompt.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 4-8) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An in-person performance space with a clear stage area and an audience. 4 to 8 players stand in a line facing the audience. No props or materials are required.
 

@@ -80,20 +80,6 @@ Players collaborate to construct a complex, synchronized human machine. One by o
 
 **Objective:** Develops group mind, active listening, and physical support work by challenging players to physically integrate with others and maintain a collective tempo.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-15) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, clear playing space. Players stand in a circle or semi-circle, leaving the center open for the machine to be built.
 

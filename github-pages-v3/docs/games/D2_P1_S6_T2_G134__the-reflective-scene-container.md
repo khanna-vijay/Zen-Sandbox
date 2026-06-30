@@ -76,20 +76,6 @@ This exercise establishes a highly supportive framework for players to practice 
 
 **Objective:** To develop practical boundary navigation skills, specifically mastering the use of 'cut' calls as constructive learning tools, practicing active self-awareness, and prioritizing personal and artistic truth over people-pleasing (Truth Over Pandering).
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, comfortable playing space. Players stand in a circle or semi-circle. No props or special materials are required. Before starting, the facilitator must establish a shared agreement of psychological safety, emphasizing that boundary management is a sign of high-level ensemble work, not a failure.
 

@@ -73,20 +73,6 @@ Two players stand face-to-face, moving in perfect synchronization as if one is t
 
 **Objective:** To develop deep non-verbal empathy, active physical listening, and the ability to support a partner's choices instantly without judgment.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal Pairs) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | low |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players pair up and stand facing each other, about two to three feet apart, with enough space around them to move their arms and shift their weight safely. No props or special materials are needed.
 

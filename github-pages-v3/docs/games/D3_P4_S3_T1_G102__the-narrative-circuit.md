@@ -78,20 +78,6 @@ In this physicalized storytelling exercise, players step through a sequence of d
 
 **Objective:** To develop a deep, physical intuition for narrative architecture and the Story Spine. Players practice identifying when a story beat has been fulfilled, escalating stakes, clarifying character wants, and justifying sudden plot shifts within a collaborative scene.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | tape, hula hoops, station signs |
-| Audience | not required |
-
 ## Setup
 Mark 7 distinct zones on the floor in a linear or circular path using tape, hula hoops, or labeled signs. Label the stations in order: 1) Platform (C.R.O.W.), 2) Inciting Incident, 3) The Want/Objective, 4) Complication, 5) Raising the Stakes, 6) Turning Point, and 7) Resolution. Designate one person as the Narrative Conductor (usually the facilitator to start) who stands outside the circuit with a bell, clicker, or clear verbal cue.
 

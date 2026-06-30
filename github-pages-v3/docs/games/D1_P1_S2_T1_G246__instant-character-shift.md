@@ -81,20 +81,6 @@ A high-energy virtual scene-work drill where players must instantly adapt to sud
 
 **Objective:** To develop emotional fluidity, unfiltered spontaneity, and 100% commitment by practicing rapid transitions between contrasting emotional states (using the 1-to-10 emotional dial) and character archetypes without breaking scene continuity.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–12 (ideal 6-10) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | medium |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Conducted via a virtual video platform. All players must be in Gallery View with cameras on and microphones unmuted. The facilitator acts as the 'Chaos Conductor' and must have their chat window open and ready to type direct messages or global chat prompts. No physical props or special space is required, but players should position their cameras to show their upper bodies for physical expression.
 

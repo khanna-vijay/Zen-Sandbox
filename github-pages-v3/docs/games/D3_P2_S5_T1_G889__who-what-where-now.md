@@ -78,20 +78,6 @@ Two players improvise a scene while four classmates act as physical 'barometers'
 
 **Objective:** To rapidly establish a clear, shared base reality at the top of a scene through active gifting, physical world-building, and immediate, present-moment stakes.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-16) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space with two chairs for the active players. Four players stand to the side or in the front row of the audience, acting as the Barometers. No props are needed.
 

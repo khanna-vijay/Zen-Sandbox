@@ -76,20 +76,6 @@ A foundational two-player drill where partners co-create a scene by strictly beg
 
 **Objective:** To build muscle memory for active listening and immediate offer acceptance, training players to treat every partner contribution as an absolute truth to be expanded upon.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal Pairs) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand or sit in pairs facing each other. No props, stage, or special materials are required. The facilitator can run this for the entire room simultaneously in pairs.
 

@@ -72,20 +72,6 @@ In this physical ensemble exercise, a small team works together to completely ob
 
 **Objective:** To build group mind, physical support, and peripheral awareness by collaboratively composing a dynamic stage picture that blocks all lines of sight to a central player.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6+ (ideal 8-20) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | high |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, safe playing space with clear boundaries. No props are required. The group splits into an active team of five players (one 'Target' and four 'Shields') while the remaining players act as observers standing in a circle around them.
 

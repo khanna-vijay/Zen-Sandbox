@@ -80,20 +80,6 @@ In this two-player scene exercise, one player initiates with an unusual, unconte
 
 **Objective:** To develop the habit of radical support by treating every partner offer as inherently competent, using retroactive justification to make your partner look brilliant.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 per scene (6-12 in workshop)) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in pairs. The rest of the group acts as an active audience, ready to rotate. No props or special staging are required.
 

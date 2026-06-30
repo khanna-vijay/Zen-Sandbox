@@ -78,20 +78,6 @@ A high-energy training drill where players rapidly transition through a series o
 
 **Objective:** To develop unfiltered spontaneity and absolute commitment by training players to instantly trust and physically manifest their very first creative impulse without self-censorship.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a wide semi-circle facing the facilitator (who acts as the conductor). Ensure there is enough physical space for each player to move, gesture, and change postures safely without colliding.
 

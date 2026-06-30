@@ -81,20 +81,6 @@ A fast-paced, virtual storytelling game where players build a cohesive narrative
 
 **Objective:** To develop immediate offer reception and active listening in a virtual environment, training players to build directly on the last line spoken without pre-planning.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–12 (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | none |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players join a virtual video meeting with gallery view enabled and the chat panel open. No physical props are required. The facilitator acts as the 'Conductor' who will monitor the chat queue and manage the platform's spotlighting or pinning features.
 

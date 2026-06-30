@@ -74,20 +74,6 @@ A high-energy narrative technique where players instantly pause a main scene to 
 
 **Objective:** Develops rapid ensemble editing, narrative pacing, and the ability to serve the larger piece by providing instant, supportive context without derailing the primary scene.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-10) |
-| Time | ~10 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space. Players stand in a backline or wings configuration, leaving the center stage clear. No props or chairs are needed, though players should be ready to move quickly.
 

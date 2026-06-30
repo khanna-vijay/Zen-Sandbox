@@ -81,20 +81,6 @@ A group of players improvises a domestic dinner scene while guided by a single a
 
 **Objective:** To develop rapid offer reception and endowment-acceptance by treating external, unpredictable audience feedback as absolute truth that must be instantly justified and integrated into the scene.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 5-10) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | bell, buzzer |
-| Audience | required |
-
 ## Setup
 Four players stand or sit in a semi-circle on stage, mimicking a dining table setup. One audience volunteer is seated in the front row, holding a bell (or high-pitched sound maker) and a buzzer (or low-pitched sound maker). The facilitator stands nearby to guide the initial setup.
 

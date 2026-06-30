@@ -77,20 +77,6 @@ In this performance-oriented narrative game, players interview an audience membe
 
 **Objective:** Develops narrative architecture, active listening, and world-building by translating real-world interview details into a structured, satisfying story using the Story Spine framework.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 4-8) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An in-person performance space with a stage area and seating for an audience. Place a single chair on stage for the volunteer. The performing cast of 4 to 8 players stands ready at the sides of the stage, prepared to take notes or listen intently.
 

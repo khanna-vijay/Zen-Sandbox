@@ -84,20 +84,6 @@ A structured narrative exercise where players establish a predictable behavioral
 
 **Objective:** To develop the ability to construct a solid narrative foundation and execute a purposeful, justified disruption that advances the story without breaking reality.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-16) |
-| Time | ~30 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Conducted in a virtual meeting space. Two active players have their cameras turned on, while the rest of the group keeps their cameras off to act as the active audience. No physical props are required.
 

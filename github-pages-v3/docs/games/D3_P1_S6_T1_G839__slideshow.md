@@ -81,20 +81,6 @@ Two presenters share memories of a recent trip using a virtual slideshow clicker
 
 **Objective:** To develop rapid justification skills and physical offer reception by connecting abstract or unexpected physical poses to a cohesive narrative.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 5-8) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space. Two players stand downstage facing the audience (the presenters). The remaining players (three to six) stand upstage in a line (the slide-makers), ready to step forward and freeze.
 

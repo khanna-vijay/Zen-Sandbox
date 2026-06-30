@@ -86,20 +86,6 @@ This exercise guides players through a structured process of internal scanning, 
 
 **Objective:** To develop emotional fluidity, self-recovery, and physical commitment by training players to consciously access, modulate, and transform their internal states rather than relying on automatic, unexamined reactions.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–12 (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a comfortable, spacious circle. No props are required. The facilitator should prepare a list of evocative, abstract words such as unravel, anchor, shimmer, crystallize, or surge.
 

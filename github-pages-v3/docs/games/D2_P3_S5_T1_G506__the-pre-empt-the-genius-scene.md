@@ -77,20 +77,6 @@ A two-player virtual scene work exercise where one player acts as the architect,
 
 **Objective:** To develop active gifting and status modulation by intentionally lowering one's own spotlight to engineer a high-status, brilliant moment for a scene partner.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (or 6-12 in rotating pairs)) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Played in virtual breakout rooms or on the main screen with two active players (cameras on) and the rest of the group observing (cameras off). No physical props or special space required; players just need a stable video connection.
 

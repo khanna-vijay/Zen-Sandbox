@@ -75,20 +75,6 @@ Players stand in a line and take turns delivering fast-paced, pun-based jokes us
 
 **Objective:** To build unfiltered spontaneity and rapid association skills, helping players overcome the fear of failure by celebrating every punchline, brilliant or terrible.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 4-8) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a line or a semi-circle facing the facilitator. No props, materials, or special staging are required.
 

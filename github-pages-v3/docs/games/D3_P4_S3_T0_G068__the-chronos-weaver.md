@@ -76,20 +76,6 @@ Temporal Tapestry is an advanced narrative game where players construct a rich, 
 
 **Objective:** To master narrative architecture and retroactive justification. Players learn to treat story structure as a modular puzzle, discovering how to establish clear causality, heighten emotional stakes, and maintain character consistency across disjointed timelines.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | whiteboard or notepad |
-| Audience | not required |
-
 ## Setup
 An open performance space with a whiteboard or notepad for the facilitator to track key narrative details (character names, core conflicts, key objects). Two to three players start on stage, while the remaining participants observe as active audience members, ready to rotate in.
 

@@ -69,20 +69,6 @@ The Story Bridge is a collaborative narrative exercise where two players establi
 
 **Objective:** Develops narrative architecture, thematic synthesis, and the ability to serve the story by identifying logical gaps and filling them with cohesive plot points.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 8-15) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two players stand on opposite sides of the playing space (Stage Left and Stage Right). The remaining players stand in a semi-circle facing the space, ready to step in.
 

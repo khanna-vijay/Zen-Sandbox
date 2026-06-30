@@ -86,20 +86,6 @@ A virtual, multi-modal storytelling game where participants co-create a single, 
 
 **Objective:** To master the Yes, And principle by receiving and building upon both visual and verbal offers, developing narrative agility, active listening, and collaborative world-building in a virtual environment.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–12 (ideal 6-12) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | none |
-| Modality | virtual |
-| Space | minimal |
-| Props | Zoom Whiteboard, Annotation Tools, Chat |
-| Audience | not required |
-
 ## Setup
 Set up a virtual meeting room with a shared digital whiteboard accessible to all participants. Ensure all players have annotation tools enabled and their chat window open. Instruct players to use gallery view to maintain visual connection.
 

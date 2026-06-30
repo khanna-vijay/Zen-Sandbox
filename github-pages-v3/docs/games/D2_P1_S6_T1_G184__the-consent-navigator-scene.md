@@ -75,20 +75,6 @@ A structured training drill where a dedicated third player acts as an active Nav
 
 **Objective:** To build practical, in-the-moment skills for navigating physical and emotional boundaries, executing active check-ins, and prioritizing authentic personal comfort over the pressure to please the audience or partner.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–5 (ideal 3-5) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Three to five players stand in a moderate open space. Two players step forward to perform a scene, while one player is designated as the Consent Navigator. The remaining players observe.
 

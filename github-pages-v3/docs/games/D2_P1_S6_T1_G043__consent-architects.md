@@ -71,20 +71,6 @@ A structured, low-physicality skill drill where players integrate real-time verb
 
 **Objective:** To master real-time boundary navigation and verbal check-ins, training players to honor their own and others' comfort levels without sacrificing collaborative play.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–5 (ideal 3-5) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An intimate, in-person playing space with minimal footprint. Arrange 3 to 5 players in a semi-circle. Two players step forward to perform, while the remaining players act as active observers/facilitators. No props or materials are required.
 

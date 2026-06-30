@@ -76,20 +76,6 @@ Toaster is a fast-paced, high-energy scene-generation game where players crouch 
 
 **Objective:** To develop rapid world-building (C.R.O.W.) and the ability to start scenes in the middle of an active moment, bypassing overthinking and embracing immediate physical and verbal choices.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-12) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a semi-circle or line at the back of the playing space. They all crouch down low, out of the active stage view, as if hidden inside a toaster. No physical props or chairs are needed, but a clear performance area in front of the crouched players is required.
 

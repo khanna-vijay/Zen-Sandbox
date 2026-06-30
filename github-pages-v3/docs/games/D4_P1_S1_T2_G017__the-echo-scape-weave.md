@@ -88,20 +88,6 @@ A three-phase ensemble exercise that challenges players to build a rich, sensory
 
 **Objective:** To develop advanced peripheral awareness and thread-tracking skills, training players to actively listen, recall physical and verbal offers, and synthesize disparate elements into a cohesive, group-mind-driven narrative.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~20 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, moderate-sized playing space. Four to eight players stand in a loose, scattered formation, facing inward but maintaining soft focus to observe the entire space. No audience or external suggestions are needed.
 

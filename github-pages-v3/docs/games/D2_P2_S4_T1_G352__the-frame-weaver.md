@@ -81,20 +81,6 @@ Grid Weavers is a virtual-native improv game designed to turn the limitations of
 
 **Objective:** To develop advanced offer reception and multi-modal Yes, And skills in a virtual environment, training players to build stories collaboratively by integrating verbal, physical, and digital cues.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–12 (ideal 6-12) |
-| Time | ~30 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | Computer with Zoom client, Virtual backgrounds |
-| Audience | not required |
-
 ## Setup
 Players join a virtual meeting room with their cameras on, set to grid view so everyone is visible. All players should have their text chat window open and have access to digital reaction emojis. Players are encouraged to have a few virtual backgrounds pre-loaded or be ready to use their physical space creatively. One person is designated as the Director.
 

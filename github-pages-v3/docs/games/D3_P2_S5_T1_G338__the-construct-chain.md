@@ -79,20 +79,6 @@ The Narrative Scaffold is a structured scene-building game designed for virtual 
 
 **Objective:** To develop a deep, intuitive grasp of C.R.O.W. (Character, Relationship, Objective, Where) and Base Reality First. Players learn to move beyond generic agreement by making targeted, high-value narrative contributions that establish stakes and physical context early in a scene.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–3 (ideal 2-3) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | Category cards or whiteboard/digital screen share |
-| Audience | not required |
-
 ## Setup
 Designed for a virtual video platform. The facilitator shares their screen displaying a digital whiteboard or document listing five to seven narrative categories: 1. Relationship Revelation, 2. Environmental Anchor, 3. Objective/Problem Ignited, 4. Stakes Escalated, 5. Implied History, 6. Emotional Arc. No physical props are required, but players must be able to see the shared list.
 

@@ -74,20 +74,6 @@ This is a dynamic narrative scene-work game where players establish distinct cha
 
 **Objective:** To train rapid offer reception and immediate endowment-acceptance by forcing players to surrender ownership of their characters and seamlessly step into a partner's established physical, vocal, and narrative identity.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–6 (ideal 3-5) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | yes |
-| Audience | not required |
-
 ## Setup
 Set up a performance space with 3 to 5 players standing in a semi-circle. Provide each player with a highly distinct, easily removable hat (e.g., a crown, a hard hat, a chef's hat). The facilitator stands off-stage with a clear view of the playing area.
 

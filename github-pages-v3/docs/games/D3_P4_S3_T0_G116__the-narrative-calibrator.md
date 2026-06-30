@@ -81,20 +81,6 @@ A dynamic training exercise where a facilitator periodically pauses a live scene
 
 **Objective:** To develop a conscious, real-time awareness of narrative structure, helping players move from passive reactivity to active, intentional story progression by mastering stakes, justification, and relationship dynamics.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Designed for virtual platforms. Two to three active players turn their cameras on, while the rest of the group keeps their cameras off to act as the active audience. The facilitator acts as the Calibrator, ready to unmute and intervene. No physical props or special space required.
 

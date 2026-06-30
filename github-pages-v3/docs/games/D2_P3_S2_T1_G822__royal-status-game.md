@@ -76,20 +76,6 @@ In this high-stakes status drill, one player assumes the role of an absolute rul
 
 **Objective:** To master the 'Status Seesaw' by physically and vocally committing to extreme high and low status, using subservience to make the partner look incredibly powerful.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-15) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An empty stage with a single chair placed center-stage to serve as the throne. The remaining players form a line off-stage or sit in the audience area, ready to enter one by one.
 

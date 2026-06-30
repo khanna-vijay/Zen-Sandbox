@@ -79,20 +79,6 @@ A high-energy circle warm-up where players pass an imaginary ball across the roo
 
 **Objective:** To develop deep partner connection, active listening, and physical mirroring by practicing immediate, unfiltered agreement with a partner's vocal and physical offer.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-15) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a comfortable circle facing inward with clear sightlines to everyone else. No props or materials are needed, but ensure there is enough space for players to move their arms and take wide stances.
 

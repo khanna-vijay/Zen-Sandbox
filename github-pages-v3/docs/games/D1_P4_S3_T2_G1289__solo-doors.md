@@ -72,20 +72,6 @@ A fast-paced solo physical drill where players repeatedly enter and exit an imag
 
 **Objective:** To develop immediate physical commitment and trust in one's first instinct. Players learn to let their physical environment (specifically object work with a door) dictate their character's status, emotion, and relationship, bypassing intellectual planning.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 1+ (ideal 1-12) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear playing area representing the stage, with the rest of the group sitting or standing as active observers. No physical props are used.
 

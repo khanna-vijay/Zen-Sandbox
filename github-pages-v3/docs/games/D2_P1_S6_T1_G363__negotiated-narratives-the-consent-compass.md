@@ -77,20 +77,6 @@ A structured scene-work exercise where players explicitly pause the action to ne
 
 **Objective:** To build practical skills in boundary navigation, active listening, and honest offer reception, ensuring players can confidently advocate for their own comfort while supporting their partner's boundaries.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A moderate open space. Players stand in a circle or semi-circle. Two players step into the center to perform a scene, while the remaining players act as supportive observers. No props or materials are required.
 

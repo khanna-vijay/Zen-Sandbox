@@ -71,20 +71,6 @@ In this game, players recreate a well-known historical event, starting with a re
 
 **Objective:** To develop narrative architecture skills, specifically mastering the Platform/Tilt technique by establishing a clear baseline and successfully justifying a major story disruption.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-5) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space suitable for 2 to 5 players. No props or special materials are required. The facilitator or group should have a few famous historical events ready as suggestions.
 

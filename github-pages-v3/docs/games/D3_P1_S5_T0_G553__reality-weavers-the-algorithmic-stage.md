@@ -76,20 +76,6 @@ A high-energy virtual improv game where players collaboratively build and alter 
 
 **Objective:** To develop advanced world-building and 'Show, Don't Tell' skills by integrating immediate, player-driven visual changes into the narrative, fostering deep offer reception, active gifting, and group mind.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–12 (ideal 6-12) |
-| Time | ~20 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | yes |
-| Audience | not required |
-
 ## Setup
 Players join a video call and open a shared, collaborative digital whiteboard in a split-screen or secondary window. The whiteboard is divided into two zones: a central 'Stage Frame' (which is screen-shared by the facilitator) and a surrounding 'Backstage Palette' pre-loaded with simple, high-impact visual assets (icons, landscapes, weather effects, and objects). Two players are designated as the active actors, while the remaining players act as the environmental weavers.
 

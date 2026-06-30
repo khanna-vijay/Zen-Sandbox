@@ -76,20 +76,6 @@ Two players improvise a scene while a facilitator calls out a trigger word to fo
 
 **Objective:** To develop unfiltered spontaneity and rapid justification by forcing players to abandon their initial plans, embrace their immediate next thoughts, and treat every sudden pivot as a gift.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 3-15) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two players stand in the performance space. The remaining players sit as the audience. The facilitator stands nearby, ready to call out the trigger word ('Change!' or 'New Choice!'). No props or special staging are required.
 

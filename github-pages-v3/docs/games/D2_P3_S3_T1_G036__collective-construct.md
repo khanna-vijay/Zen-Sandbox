@@ -79,20 +79,6 @@ A non-verbal partner exercise where pairs collaboratively lift, move, or operate
 
 **Objective:** To develop deep non-verbal empathy, physical listening, and the instinct to support a partner's physical choices ('Make Your Partner a Genius') by sharing the physical burden of an imagined object.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 per pair) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Pairs stand facing each other or side-by-side in a clear space with enough room to move freely. No props are required. The room should be quiet to support non-verbal focus.
 

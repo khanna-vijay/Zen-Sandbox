@@ -72,20 +72,6 @@ A high-energy circle game where players take turns singing in the center while t
 
 **Objective:** Develops group mind, rapid support work, and unfiltered spontaneity by practicing immediate, active rescue of ensemble members in high-pressure moments.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 8-15) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a shoulder-to-shoulder circle with an open space in the center. No props or instruments are needed.
 

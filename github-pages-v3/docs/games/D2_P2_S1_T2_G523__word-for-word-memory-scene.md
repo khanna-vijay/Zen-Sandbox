@@ -77,20 +77,6 @@ A high-focus virtual scene-work drill where players must repeat their partner's 
 
 **Objective:** To develop absolute active listening, precise offer reception, and unfiltered spontaneity by removing the ability to pre-plan responses.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–4 (ideal 2-4) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Conducted in a virtual meeting space. The facilitator spotlights 2 to 4 active players while other participants remain on camera in gallery view with microphones muted. The facilitator keeps a private chat window open to act as a discreet prompter if a player gets stuck. No physical props or materials are required.
 

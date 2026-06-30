@@ -83,20 +83,6 @@ This ensemble exercise guides players through a three-stage progression from sil
 
 **Objective:** To cultivate advanced group mind and peripheral awareness by training players to track multiple abstract physical, auditory, and thematic threads simultaneously, synthesizing them into a cohesive, emergent narrative without a predetermined premise.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–8 (ideal 4-8) |
-| Time | ~20 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a loose, scattered formation across a clear, quiet room, ensuring they have enough space to move freely without colliding. No props or materials are required, but a quiet environment is essential to allow subtle sounds to be heard.
 

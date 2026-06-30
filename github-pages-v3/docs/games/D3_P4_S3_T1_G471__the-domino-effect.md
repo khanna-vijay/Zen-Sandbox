@@ -78,20 +78,6 @@ A dynamic narrative-building game where players explore the logical ripple effec
 
 **Objective:** To master narrative architecture and the principle of 'if true, what else is true' by training players to discover plot progression through logical consequences rather than arbitrary inventions.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space. Players stand in a circle or line-up, with two players stepping forward to initiate a scene. The facilitator stands where they can clearly observe and call out prompts.
 

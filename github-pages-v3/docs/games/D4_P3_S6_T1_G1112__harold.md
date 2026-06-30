@@ -81,20 +81,6 @@ The Harold is a signature long-form improvisation format where an ensemble uses 
 
 **Objective:** Develops advanced format literacy, thematic synthesis, and ensemble cohesion by training players to track multiple narrative threads, identify comedic patterns, and serve the overall piece.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-12) |
-| Time | ~30 min |
-| Complexity | 5/5 |
-| Skill level | proficient |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An open stage area with at least two chairs on the sides for staging. An ensemble of 6 to 12 players stands in a 'backline' at the rear of the stage, ready to step forward. An audience is present to provide a single-word suggestion.
 

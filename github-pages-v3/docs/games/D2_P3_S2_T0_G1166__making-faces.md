@@ -69,20 +69,6 @@ A high-energy status game where one player acts as a demanding leader giving ord
 
 **Objective:** To develop status modulation, physical commitment, and peripheral awareness while supporting the leader's high-status authority.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–10 (ideal 6-10) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Set up a line of three to four chairs (or standing spots) for the active subordinates. One player stands in front of them as the Leader. The remaining players form a queue offstage, ready to sub in.
 

@@ -71,20 +71,6 @@ In this highly visual exercise, players position themselves along an imaginary s
 
 **Objective:** To develop peripheral awareness, group mind, and stage-picture composition by having players physically organize themselves in space, translating abstract concepts into dynamic theatrical staging.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 8-25) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open room with a clear path from one side to the other. For virtual play, ensure players have their cameras on in gallery view and access to the rename or chat function.
 

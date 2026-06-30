@@ -74,20 +74,6 @@ Two players perform a scene based on a trivial, everyday suggestion, treating it
 
 **Objective:** Develops 100% commitment to extreme emotional states (Emotional Dial 10) and physical expression, teaching players to justify absurdly high stakes without relying on cheap jokes.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-10) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Clear a performance space. The remaining players act as an active audience. No props or chairs are needed, as players should use expansive physicality and space work.
 

@@ -81,20 +81,6 @@ In this game, two actors perform a scene while two off-stage players provide all
 
 **Objective:** Develops endowment-acceptance and active listening by forcing actors to instantly justify unexpected auditory offers and integrate them into their physical reality.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–6 (ideal 4) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two actors stand in the performance space. Two sound makers stand to the side where they can clearly see the actors' movements. No physical props are used.
 

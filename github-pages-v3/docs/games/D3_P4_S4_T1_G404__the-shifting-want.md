@@ -80,20 +80,6 @@ A dynamic, turn-based scene-building exercise where players explicitly state and
 
 **Objective:** To develop the ability to identify, articulate, and escalate character wants and stakes in real-time, specifically practicing the technique of defining what characters stand to lose to serve the overall story structure.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An in-person playing space with two chairs or a clear stage area. The rest of the group sits as active observers. No props or materials are required. The facilitator prepares to side-coach actively.
 

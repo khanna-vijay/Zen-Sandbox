@@ -82,20 +82,6 @@ The Invocation is a ritualistic long-form opening where the ensemble collectivel
 
 **Objective:** Develops advanced A-to-C suggestion deconstruction, active listening, and thematic synthesis, helping players move past literal interpretations into emotional and metaphorical play.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–12 (ideal 6-10) |
-| Time | ~15 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a tight semi-circle facing the playing space. No props or materials are required. The facilitator or audience provides a single, concrete, mundane object as a suggestion.
 

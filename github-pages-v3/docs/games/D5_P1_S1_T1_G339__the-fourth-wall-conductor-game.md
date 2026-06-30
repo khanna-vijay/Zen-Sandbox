@@ -79,20 +79,6 @@ In this exercise, one performer acts out a simple narrative scene while a second
 
 **Objective:** To develop acute room-reading skills and master energy-calibration by externalizing the decision-making process of when, why, and how to break the fourth wall to engage an audience.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-15) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 A clear performance space at the front of the room. One player stands on stage as the Storyteller. A second player stands downstage-side (the Conductor), positioned where they can clearly see both the Storyteller and the rest of the group, who act as the active Audience. No props are required.
 

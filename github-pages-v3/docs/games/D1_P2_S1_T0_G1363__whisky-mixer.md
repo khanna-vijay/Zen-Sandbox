@@ -75,20 +75,6 @@ Players stand in a circle passing specific phonetic phrases clockwise or counter
 
 **Objective:** Develops unfiltered spontaneity, rapid cognitive switching, and the ability to fail joyfully by turning mistakes and laughter into a celebrated physical action.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 8-15) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A wide, standing circle with a completely clear perimeter behind the players to allow for safe running. No props or materials are required.
 

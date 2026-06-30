@@ -77,20 +77,6 @@ Players stand in a circle with one person in the center who challenges individua
 
 **Objective:** To develop group mind, rapid physical support work, and spatial awareness by forcing players to instantly collaborate with their neighbors to build physical structures without hesitation.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–25 (ideal 8-15) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Have all players stand in a shoulder-to-shoulder circle facing inward. One player starts in the center as the Caller. No props or materials are needed; just an open space.
 

@@ -75,20 +75,6 @@ A high-energy, physical circle warm-up where players share their names broken do
 
 **Objective:** To develop peripheral awareness, physical memory, and group mind by tracking and reproducing a growing sequence of vocal and physical offers.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–25 (ideal 8-15) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a clear circle with enough space to move their arms and take small steps without colliding. No props or materials are required.
 

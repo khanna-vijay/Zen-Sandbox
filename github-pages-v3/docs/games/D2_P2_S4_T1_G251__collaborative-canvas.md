@@ -75,20 +75,6 @@ The Narrative Canvas is a virtual storytelling game where players collaborate to
 
 **Objective:** To train rapid offer reception and active listening by requiring players to fully accept the immediately preceding sentence and build directly upon it without pre-planning.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~8 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Set up a virtual meeting room with all participants in gallery view. Ensure the text chat panel is open and visible to everyone. The facilitator should prepare a few narrative-starting prompts.
 

@@ -72,20 +72,6 @@ Ensemble Bobsled is a high-energy, physically cooperative race where players sit
 
 **Objective:** To cultivate deep peripheral awareness and group mind by requiring players to synchronize physical impulses, negotiate close-contact boundaries, and move as a single cohesive organism.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-24) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | large_open |
-| Props | yes |
-| Audience | not required |
-
 ## Setup
 Mark a starting line and a parallel finish line 10 to 15 feet apart using masking tape. Ensure the floor is clean, smooth, and free of splinters, debris, or rough spots. Divide players into teams of 4 to 6. Ensure all players are wearing comfortable clothing that covers their legs and arms to prevent friction burns.
 

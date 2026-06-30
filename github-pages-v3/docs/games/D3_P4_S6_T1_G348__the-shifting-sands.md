@@ -75,20 +75,6 @@ Two players initiate a scene with a stark, well-defined status gap. At the facil
 
 **Objective:** To master status modulation and rapid justification under pressure, training players to treat sudden, absurd shifts in power as logical narrative gifts that deepen character relationships and escalate stakes.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space. Two active players stand center stage; the remaining participants sit as an active audience. The facilitator stands ready with a clear auditory cue (such as a handclap or calling 'Flip!'). No props or special materials are required.
 

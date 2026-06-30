@@ -79,20 +79,6 @@ Three players initiate a scene with highly distinct, exaggerated physical and vo
 
 **Objective:** To develop deep physical empathy, active listening, and instant mirroring skills. Players learn to let go of their own ideas and fully inhabit the physical, vocal, and emotional choices made by their partners, heightening those choices with 100% commitment.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–12 (ideal 3 players plus a host) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space. Three players stand in a line or a clear triangle facing the audience/facilitator. The remaining group members watch as active observers. The facilitator acts as the host/caller.
 

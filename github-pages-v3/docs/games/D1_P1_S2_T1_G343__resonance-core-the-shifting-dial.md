@@ -83,20 +83,6 @@ Two players initiate a scene, each embodying a distinct, chosen emotion. Through
 
 **Objective:** To develop precise, simultaneous control over emotional, physical, and vocal expression, training players to commit fully to extreme shifts in intensity while maintaining narrative integrity.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space with no props. Two players stand in the playing area, while the remaining participants observe. One person (usually the facilitator) acts as the Dial Master, positioned where they can clearly see and be heard by the players.
 

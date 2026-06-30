@@ -77,20 +77,6 @@ In this exercise, the fourth wall becomes a permeable membrane rather than a bar
 
 **Objective:** To master audience-energy management and direct address by treating the audience's non-verbal reactions as active, narrative-driving scene partner offers.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 10-30) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An in-person performance space with a clear boundary between the stage and the audience. No props are required. The audience (which can consist of off-stage workshop participants) sits facing the stage. The facilitator stands to the side to guide transitions.
 

@@ -79,20 +79,6 @@ A solo performer delivers a monologue while the rest of the group acts as a live
 
 **Objective:** To develop acute room-reading skills and master audience-energy management by using direct address and fourth-wall breaks as deliberate tools to calibrate performance energy and maintain engagement.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-15) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An in-person performance space with a clear stage area and seating for the remaining players (acting as the audience). No props or materials are required. The facilitator stands to the side to observe and coach.
 

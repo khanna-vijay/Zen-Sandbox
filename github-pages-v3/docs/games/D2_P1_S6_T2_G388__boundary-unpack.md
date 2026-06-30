@@ -73,20 +73,6 @@ This structured skill drill places players in scenes where they must navigate am
 
 **Objective:** To develop practical boundary navigation, active listening, and offer reception skills, specifically training players to prioritize truth over pandering and confidently use safety overrides.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-12) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, safe physical space. The facilitator prepares a list of unsolicited propositions (socially awkward, slightly intrusive, or physically suggestive character offers that require negotiation). Players stand in a circle or line, ready to step forward in pairs.
 

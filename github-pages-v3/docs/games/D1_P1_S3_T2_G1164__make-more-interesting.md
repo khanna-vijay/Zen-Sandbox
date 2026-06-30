@@ -72,20 +72,6 @@ In this physical skill drill, players are challenged to unpack a single, mundane
 
 **Objective:** Develops physical commitment, precise object work, and the ability to heighten a moment through physical expression rather than relying on verbal exposition.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-12) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear playing space where players can move freely. The group stands in a circle or semi-circle, with one player stepping into the center. The facilitator needs to be ready to provide a sharp audio cue, such as a single clap.
 

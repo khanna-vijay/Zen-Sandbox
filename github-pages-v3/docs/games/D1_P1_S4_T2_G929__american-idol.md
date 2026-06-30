@@ -78,20 +78,6 @@ A high-energy comedy game where players step into the high-stakes world of a tel
 
 **Objective:** To develop vocal characterization, uninhibited commitment to musical choices, and status modulation under pressure.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–6 (ideal 4-6) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Arrange the stage with a clear performance area for the contestants. Position the host to one side, and set up a 'judges' table' (or two chairs) facing the performers. The remaining workshop participants act as the live studio audience.
 

@@ -74,20 +74,6 @@ One player steps up to a podium as a public figure without knowing their own ide
 
 **Objective:** To train active gifting and endowment-acceptance, teaching players to construct supportive offers that set their partner up for success while practicing high-stakes active listening.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–8 (ideal 3-8) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | required |
-
 ## Setup
 The group sits or stands in a semi-circle facing a central podium area. One player (the Subject) is selected to step away, or use an accessible alternative, while the rest of the group (the Journalists) and the audience agree on a well-known historical, fictional, or pop-culture identity.
 

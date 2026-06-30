@@ -86,20 +86,6 @@ This exercise guides players through a three-stage progression to tune into thei
 
 **Objective:** To develop advanced partner attunement, emotional mirroring, and active subtextual listening, specifically training players to use status modulation as a collaborative tool to elevate their partner's artistic choices.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–20 (ideal 6-20) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in pairs facing each other with comfortable eye contact. The exercise can be run with all pairs working simultaneously in the space, or with one pair performing in the center while the rest of the group observes.
 

@@ -79,20 +79,6 @@ An active scene-work drill where players are paused mid-action to verbally analy
 
 **Objective:** To develop acute room-reading skills and real-time energy calibration, training performers to consciously adjust their projection, physical clarity, and pacing to match or guide the audience's emotional state.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A standard performance space with a designated stage area and an audience area. The players not currently in the scene sit in the audience seats to act as the active crowd. No props or materials are required.
 

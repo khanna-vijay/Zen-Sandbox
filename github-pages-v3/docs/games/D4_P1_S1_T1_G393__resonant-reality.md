@@ -82,20 +82,6 @@ Atmospheric Resonance is an ensemble-building exercise where players collectivel
 
 **Objective:** To develop deep peripheral awareness and group mind by training players to process multiple simultaneous offers and co-create a physical and emotional landscape without a single designated leader.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A group of 4 to 8 players stands in a loose, open circle or scattered throughout a moderate-sized playing space. No props or materials are required. The space should be clear of obstacles to allow for safe, fluid physical movement.
 

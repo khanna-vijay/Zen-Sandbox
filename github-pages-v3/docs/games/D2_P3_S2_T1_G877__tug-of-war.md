@@ -74,20 +74,6 @@ A physical, mimed exercise where pairs engage in a tug-of-war using an imaginary
 
 **Objective:** To develop status modulation and physical offer reception by learning that yielding control (lowering one's status) elevates the partner and advances the physical narrative.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal Pairs (any size)) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Pairs stand facing each other with about six to eight feet of open space between them. No physical props are needed, but players must imagine a thick, heavy rope connecting them.
 

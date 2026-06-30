@@ -82,20 +82,6 @@ Resonant Threads is an advanced ensemble exercise where players collaboratively 
 
 **Objective:** To develop advanced peripheral awareness and group mind by training players to track, synthesize, and re-incorporate multiple narrative and physical threads simultaneously.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–12 (ideal 4-8) |
-| Time | ~20 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, quiet playing space. Players stand in a comfortable semicircle facing the center. No props or materials are required.
 

@@ -78,20 +78,6 @@ A high-energy, fast-paced focus game where players stand in a circle and pass an
 
 **Objective:** To develop hyper-focused offer reception, active listening, and peripheral awareness by making your partner look good through perfectly synchronized physical and vocal reactions.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 8-20) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle with clear sightlines to everyone else. No props or special materials are required.
 

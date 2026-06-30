@@ -86,20 +86,6 @@ In this physical drill, a single player stands in the center to embody a series 
 
 **Objective:** Develops unfiltered spontaneity, deep physical commitment, and the ability to trust and execute the very first impulse without cognitive filtering.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Four to eight players stand in a circle in an open, unobstructed space. One player is designated as the Sculptor in the center, one as the Soundboard on the perimeter, and the rest act as Prompters.
 

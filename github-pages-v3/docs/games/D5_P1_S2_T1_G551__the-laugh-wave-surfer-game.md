@@ -74,20 +74,6 @@ A focused scene-work drill where performers treat audience laughter as an active
 
 **Objective:** To develop advanced audience-energy management and room-reading skills. Performers learn the technique of tag-running (riding a laugh wave) and landing/cushioning beats, treating the audience's vocal reactions as a dynamic scene partner without breaking character or direct address.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 7+ (ideal 8-15) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An in-person performance space with a clear stage area and seating for an audience of at least 5-12 active observers (the rest of the workshop group). No props or special materials are required. The facilitator stands near the audience to observe and offer minimal, silent physical cues if needed.
 

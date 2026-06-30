@@ -80,20 +80,6 @@ Three players collaborate to treat an ordinary, everyday task as an elite, high-
 
 **Objective:** To develop rapid justification of physical choices, heightening mundane actions into high-comedy, and practicing active gifting between physical performers and verbal commentators.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–3 (ideal 3) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Three players stand in the performance space. One player (the Athlete) stands center-stage to perform the physical task. The other two players (the Commentators) stand to one side, facing the audience as if in a broadcast booth. No props are used; all physical actions are mimed. The facilitator or group provides a simple, mundane daily chore (e.g., making toast, tying shoes, folding laundry).
 

@@ -82,20 +82,6 @@ A collaborative physical-theater exercise where a small group constructs a detai
 
 **Objective:** To master the Base Reality First principle by establishing a solid, shared physical world (the Where of C.R.O.W.) using rigorous justification and physical commitment.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–5 (ideal 3-5) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Arrange 3 to 5 players in a semi-circle facing a clear, open performance space. No physical props are used; the entire environment will be built using pantomime and descriptive justification.
 

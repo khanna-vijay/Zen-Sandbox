@@ -80,20 +80,6 @@ In this exercise, players perform scenes while secretly holding cards that dicta
 
 **Objective:** To develop advanced boundary navigation and active listening skills. Players learn to execute in-character check-ins, negotiate physical contact dynamically, and confidently prioritize personal safety and artistic truth over polite compliance.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–6 (ideal 4-6) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | Threshold Cards, Notepad for Judges |
-| Audience | not required |
-
 ## Setup
 A moderate playing space with chairs for the audience/judges. Prepare a deck of 'Threshold Cards' divided into three categories: Player-Centric (non-negotiable personal limits), Character-Centric (fictional traits to resist in-character), and Dynamic (situational triggers). Provide a notepad and pen for the designated observer.
 

@@ -70,20 +70,6 @@ Viscosity Walk is a whole-group physical exploration where players move through 
 
 **Objective:** To develop physical commitment, full-body engagement, and realistic weight and resistance mime by reacting to imaginary environmental changes.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-20) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | high |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A large, open room free of obstacles. Players spread out so they have room to move freely without colliding. No props are required.
 

@@ -85,20 +85,6 @@ Two players initiate a grounded, realistic scene, only to be interrupted by sudd
 
 **Objective:** To develop rapid emotional fluidity, deep somatic connection, and robust self-recovery. Players learn to fail joyfully when narrative logic is disrupted, using physical awareness and the 'and that's exactly what I meant' technique to regain presence and purpose.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, safe physical space with clear boundaries. Two active players stand in the performance area, while the remaining participants observe as active listeners. No props or materials are required.
 

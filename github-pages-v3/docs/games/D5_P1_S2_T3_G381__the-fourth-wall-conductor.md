@@ -73,20 +73,6 @@ An active training drill where players perform a standard scene but must instant
 
 **Objective:** To develop a performer's ability to read a room in real time, intentionally break the fourth wall to manage audience energy, and seamlessly transition between in-character play and direct address.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-15) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | bell or sound cue |
-| Audience | required |
-
 ## Setup
 Set up a clear performance space (the stage) facing an audience area (which can be comprised of the remaining workshop participants). The facilitator stands near the stage with a bell, buzzer, or distinct sound-making device. Prepare a simple suggestion to kick off a standard scene.
 

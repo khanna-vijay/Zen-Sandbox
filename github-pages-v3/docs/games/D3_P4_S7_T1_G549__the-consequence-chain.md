@@ -81,20 +81,6 @@ The Consequence Chain is a structured virtual scene-work exercise where players 
 
 **Objective:** Develops the ability to raise stakes progressively and build a dynamic narrative arc by applying the 'if true, what else is true' principle to justify escalating consequences.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-12) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Designed for virtual platforms. Two active players keep their cameras on to perform, while the remaining participants turn their cameras off to act as the audience. The facilitator remains unmuted to deliver verbal prompts. No physical props or special space are required.
 

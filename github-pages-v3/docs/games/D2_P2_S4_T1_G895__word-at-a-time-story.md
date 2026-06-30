@@ -76,20 +76,6 @@ Two or more players collaborate to construct a single, grammatically correct sto
 
 **Objective:** Develops deep offer reception and active listening. Players learn to let go of pre-planned ideas, accept their partner's immediate contribution as a gift, and practice grammatical and narrative agility under pressure.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-15) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in pairs facing each other, or in a circle if playing with a larger group. No props or special staging are required; a clear, quiet space is ideal to ensure players can hear each other clearly.
 

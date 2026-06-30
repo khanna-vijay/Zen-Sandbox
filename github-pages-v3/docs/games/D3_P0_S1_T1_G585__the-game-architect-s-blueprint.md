@@ -80,20 +80,6 @@ A structured, virtual-friendly exercise where one player initiates a scene with 
 
 **Objective:** To train players in establishing a clear, playable comedic pattern (the 'game') from a single initiation, and to develop the partner's ability to actively listen, identify, and co-sign that pattern immediately.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 per pair) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | whiteboards or paper, markers or pens |
-| Audience | not required |
-
 ## Setup
 Players work in pairs in a virtual meeting space. Each player must have a small physical whiteboard, a piece of paper, and a dark marker. The facilitator prepares a list of prompts categorized into three types: a distinct character trait, an unusual circumstance, or a strong opinion.
 

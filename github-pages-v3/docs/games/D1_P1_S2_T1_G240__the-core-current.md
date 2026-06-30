@@ -79,20 +79,6 @@ One player steps into the center to instantly embody a prompt using their entire
 
 **Objective:** To develop deep emotional fluidity and physical-vocal commitment by practicing rapid, controlled modulation of internal and external states without losing the core character of the impulse.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle. The center of the circle is designated as the active playing space. No props or materials are required.
 

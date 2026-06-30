@@ -82,20 +82,6 @@ This exercise is a structured, intimate partner drill that strips away conversat
 
 **Objective:** To develop advanced partner empathy, precise physical mirroring, and the ability to gift complex internal states. It trains players to treat every physical adjustment as a brilliant offer, practicing radical acceptance and emotional fluidity.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–2 (ideal 2 (can be run simultaneously in pairs)) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | low |
-| Physicality | low |
-| Modality | hybrid |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Pairs stand or sit facing each other in a quiet space with comfortable eye contact. No props or special staging are required. This can be run simultaneously for an entire group divided into pairs, either in-person or in a virtual gallery view.
 

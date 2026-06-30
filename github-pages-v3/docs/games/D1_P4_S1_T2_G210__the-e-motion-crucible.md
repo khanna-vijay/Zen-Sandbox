@@ -84,20 +84,6 @@ This high-energy, solo-focused drill challenges a single player to immediately e
 
 **Objective:** To develop unfiltered spontaneity and emotional fluidity by training players to instantly commit to physical, vocal, and emotional shifts without intellectualizing or hesitating.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, clear floor space. One player stands in the center of the room (the 'Catalyst'). The remaining players stand in a wide semi-circle or circle around them (the 'Conductors'). No props or materials are required.
 

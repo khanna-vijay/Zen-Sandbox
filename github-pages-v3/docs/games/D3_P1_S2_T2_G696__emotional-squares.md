@@ -80,20 +80,6 @@ In this high-energy scene-work game, the stage is divided into an invisible two-
 
 **Objective:** To develop emotional fluidity, spatial awareness, and justification skills. Players learn to let physical movement drive their emotional state, discovering the 'why' behind their feelings after they begin experiencing them.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–4 (ideal 2-4 players on stage) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Define a clear performance area. Mentally divide this space into a two-by-two grid (four equal quadrants: front-left, front-right, back-left, back-right). Ask the audience or workshop group for four distinct, contrasting emotions (e.g., ecstatic joy, deep suspicion, profound grief, intense panic) and assign one to each quadrant. Ensure all players and the audience know which emotion belongs to which zone.
 

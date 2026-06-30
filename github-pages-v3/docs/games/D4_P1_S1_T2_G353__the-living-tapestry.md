@@ -80,20 +80,6 @@ An ensemble-focused exercise where players collaboratively construct a rich, non
 
 **Objective:** To develop deep group mind and peripheral awareness by training players to track multiple simultaneous physical and auditory threads, synthesize abstract themes, and practice patient, non-verbal support work.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 5-7) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | low |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a loose circle or scattered formation in a clear, quiet room. No props or materials are needed. The facilitator ensures the space is quiet and free of distractions to allow for deep concentration.
 

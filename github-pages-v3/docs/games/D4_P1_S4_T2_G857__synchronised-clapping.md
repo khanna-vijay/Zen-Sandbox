@@ -76,20 +76,6 @@ A high-focus circle game where players pass a clap from person to person. Instea
 
 **Objective:** Develops group mind, precise timing, and active listening by shifting focus from individual action to shared, synchronized moments.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 8-20) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a clear circle with enough space to turn and face their neighbors. No props are needed.
 

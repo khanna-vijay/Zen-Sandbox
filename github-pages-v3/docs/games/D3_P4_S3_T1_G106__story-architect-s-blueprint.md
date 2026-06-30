@@ -78,20 +78,6 @@ The Narrative Scaffold is an active scene-work exercise where a facilitator coac
 
 **Objective:** To develop a practical, intuitive understanding of narrative architecture by identifying, introducing, and justifying key story beats—such as the platform, inciting incident, rising action, climax, and resolution—within a collaborative scene.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12 (2-3 active at a time)) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space. The facilitator stands where they can clearly see the stage. Two to three active players step up, while the remaining players sit in the audience area, assigned active observation roles. The facilitator obtains a simple suggestion of a location or relationship to begin.
 

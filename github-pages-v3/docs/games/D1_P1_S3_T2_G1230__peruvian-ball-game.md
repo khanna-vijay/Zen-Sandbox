@@ -78,20 +78,6 @@ Players create and physically define a highly specific imaginary ball, establish
 
 **Objective:** To develop absolute physical commitment to object work, sharpen peripheral awareness, and practice receiving and gifting physical offers with precision.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-20) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open room with plenty of space for 8-20 players to walk around safely. No physical props are required.
 

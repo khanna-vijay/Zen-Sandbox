@@ -77,20 +77,6 @@ A structured, two-round scene study where players first improvise a baseline sce
 
 **Objective:** To develop practical boundary navigation, active listening, and offer reception by practicing real-time 'Cut' calls and prioritizing personal truth over artistic pandering.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, comfortable playing space. No props or materials are required. Players should be arranged in a circle or semi-circle so everyone can clearly observe the scenes and participate in the debriefs.
 

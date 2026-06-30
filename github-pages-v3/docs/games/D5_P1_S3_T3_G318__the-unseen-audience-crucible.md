@@ -78,20 +78,6 @@ A high-focus performance drill where an active audience of peers is instructed t
 
 **Objective:** To develop resilient stage presence and absolute physical and vocal clarity by forcing performers to generate their own theatrical energy internally rather than relying on immediate audience validation.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-15) |
-| Time | ~25 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 A standard stage or performance area facing an audience of peers. No props or special materials are required. The facilitator needs a subtle, non-disruptive signaling device such as a soft bell, a raised hand, or a quiet clicker.
 

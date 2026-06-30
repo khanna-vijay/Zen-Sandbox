@@ -76,20 +76,6 @@ In this comedic scene-work game, players intentionally pause mid-dialogue to sol
 
 **Objective:** To develop rapid justification skills, practice unfiltered spontaneity, and master audience-energy management by treating unexpected suggestions as absolute truth.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-4 players) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Two to four players stand in the performance space. An active audience is seated facing them. No props or physical materials are required.
 

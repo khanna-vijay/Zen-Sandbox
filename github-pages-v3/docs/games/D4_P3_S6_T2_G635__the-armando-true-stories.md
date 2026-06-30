@@ -83,20 +83,6 @@ The Armando is a classic long-form improv format where a central storyteller sha
 
 **Objective:** Develops format literacy, thematic synthesis, and the ability to serve the piece by listening deeply to a monologue and deconstructing it to inspire diverse, high-quality scenes rather than literal reenactments.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-10) |
-| Time | ~25 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An in-person performance space with a clear stage area and a designated spot for the monologist. The rest of the ensemble stands on the wings (the backline) ready to edit and enter. No props or set pieces are needed beyond a few chairs.
 

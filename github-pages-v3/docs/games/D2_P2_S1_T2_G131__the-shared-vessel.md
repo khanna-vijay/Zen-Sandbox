@@ -87,20 +87,6 @@ Two players find themselves inside a confined, unstable environment—the 'vesse
 
 **Objective:** To build deep partner connection and active listening by practicing immediate 'Yes, And' acceptance of physical offers, using the Last Word Response technique to ensure every environmental threat is instantly validated and escalated.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (or 6-12 rotating)) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | hybrid |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two players stand or sit close together in the performance space, establishing a shared physical boundary (e.g., a cockpit, a submarine cabin, or a hot air balloon basket). No physical props are used; all controls, walls, and hazards must be established through consistent object work. The facilitator provides a simple, high-stakes setting involving a shared, precarious vehicle or station.
 

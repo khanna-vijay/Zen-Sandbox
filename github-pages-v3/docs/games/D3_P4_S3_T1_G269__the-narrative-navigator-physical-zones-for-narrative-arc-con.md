@@ -80,20 +80,6 @@ A physicalized staging exercise where players navigate a series of marked floor 
 
 **Objective:** To master narrative architecture by physically mapping the classic story spine onto the stage, training players to recognize when to establish a platform, when to escalate conflict, and how to execute a justified climax and resolution.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | Tape or chalk to mark physical zones |
-| Audience | not required |
-
 ## Setup
 Use tape, chalk, or colored mats to divide the playing area into three distinct, adjacent horizontal lanes or zones from stage-left to stage-right. Label these zones: Zone 1 (The Platform & Want), Zone 2 (The Rising Complication), and Zone 3 (The Climax & Resolution). Optionally, mark a small, distinct circle off to the side as Zone 4 (The New Normal).
 

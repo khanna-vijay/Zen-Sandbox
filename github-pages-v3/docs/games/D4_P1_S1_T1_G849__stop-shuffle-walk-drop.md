@@ -71,20 +71,6 @@ A high-energy movement warm-up where players transition between four distinct ph
 
 **Objective:** To develop peripheral awareness, physical responsiveness, and the 'follow the follower' principle by shifting focus from individual action to collective movement.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-25) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A large, open room free of obstacles. Players stand scattered throughout the space, facing different directions. No props needed.
 

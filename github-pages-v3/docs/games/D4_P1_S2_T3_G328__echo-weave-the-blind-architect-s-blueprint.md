@@ -86,20 +86,6 @@ In this collaborative world-building exercise, one or two blindfolded players ac
 
 **Objective:** To develop Group Mind and Support Work by collaboratively constructing a consistent, highly detailed physical environment. Players practice active listening, spatial awareness, and 'Show, Don't Tell' physicality by relying entirely on auditory cues to establish a shared reality.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–6 (ideal 3-6) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | Blindfolds |
-| Audience | not required |
-
 ## Setup
 Clear a safe, flat playing area free of physical obstacles. Divide a group of 3 to 6 players into one or two 'Architects' and two to four 'Weavers.' Provide the Architects with comfortable blindfolds (or have them close their eyes tightly). The Weavers stand in a semi-circle around the playing space, keeping their eyes open. The facilitator provides a simple, evocative starting location (e.g., 'an abandoned greenhouse' or 'a submarine control room').
 

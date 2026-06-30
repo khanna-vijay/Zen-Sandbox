@@ -80,20 +80,6 @@ In this immersive ensemble exercise, players work together to physically and son
 
 **Objective:** To cultivate Group Mind and advanced Support Work by training players to surrender individual narrative control, play the physical architecture of a space, and respond instantly to collective shifts in rhythm and atmosphere.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–12 (ideal 5-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, clear floor space where 5 to 12 players can stand in a loose circle or semi-circle, ensuring everyone has a clear line of sight to all other participants. No props or materials are required.
 

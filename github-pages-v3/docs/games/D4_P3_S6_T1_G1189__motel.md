@@ -79,20 +79,6 @@ This is a structured long-form format based on the classic three-beat framework,
 
 **Objective:** Develops format literacy, narrative architecture, and thematic synthesis by using a fixed physical location to connect disparate storylines and build tension.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-10) |
-| Time | ~25 min |
-| Complexity | 4/5 |
-| Skill level | proficient |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An ensemble of 6 to 10 players stands on the backline. Two chairs are placed on stage to represent furniture (like a bed or a desk) in a motel room. The physical layout of the room (door, window, bathroom) is established and must remain consistent throughout the performance.
 

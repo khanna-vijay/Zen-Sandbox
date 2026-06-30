@@ -71,20 +71,6 @@ In this high-energy comedy game, players stand in a panel lineup to answer actua
 
 **Objective:** To develop unfiltered spontaneity and stage presence by training players to speak before they think, embracing their first instinct as a creative gift.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–8 (ideal 4-6) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | Trivial Pursuit cards |
-| Audience | required |
-
 ## Setup
 A lineup of 3 to 8 players stands center stage facing the audience. A host stands to the side holding a deck of generic trivia cards. No other props are needed.
 

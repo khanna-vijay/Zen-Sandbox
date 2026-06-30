@@ -83,20 +83,6 @@ Two physical performers compete in a mundane household chore elevated to an elit
 
 **Objective:** To practice active gifting and endowment. Commentators gift physical players with specific strategies, physical traits, and emotional stakes, while physical players immediately accept and physicalize these gifts, making each other look brilliant.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 4 per round) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Four players step forward. Two act as the athletes and stand center-stage in a neutral starting position. The other two act as commentators and stand to the side. Ask the group or audience for a mundane household chore to serve as the event.
 

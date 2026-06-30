@@ -83,20 +83,6 @@ A two-player scene-work exercise designed for virtual spaces where players must 
 
 **Objective:** To develop deep active listening, status modulation, and immediate offer reception by forcing players to physically process and display the emotional impact of their partner's dialogue before formulating a verbal response.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-16 (in pairs)) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 In a virtual meeting space, players work in pairs. Both players must have their cameras turned on, framed from the chest up so their facial expressions, shoulders, and posture are clearly visible. All other participants turn off their cameras and mute themselves to act as observers. No physical props or special software are required.
 

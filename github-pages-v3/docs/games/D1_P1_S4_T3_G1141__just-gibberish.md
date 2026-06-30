@@ -76,20 +76,6 @@ Two players perform a fully realized scene using entirely made-up, nonsense lang
 
 **Objective:** To develop vocal craft and physical commitment by removing the crutch of literal language, forcing players to establish a clear base reality and emotional truth through tone, gesture, and active listening.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–4 (ideal 2) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two active players stand in the performance space. The remaining group acts as observers. No props or chairs are needed, though players should utilize imaginary object work to define their environment.
 

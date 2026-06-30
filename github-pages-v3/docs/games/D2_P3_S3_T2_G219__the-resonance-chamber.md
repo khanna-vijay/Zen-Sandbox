@@ -85,20 +85,6 @@ The Resonance Chamber is a structured, three-phase partner exercise designed to 
 
 **Objective:** To develop deep partner empathy, active listening, and the ability to elevate a partner's status by transforming simple observations into rich, supportive character endowments.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (in pairs)) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in pairs facing each other, maintaining comfortable eye contact. No props or special staging are required; minimal physical space is needed.
 

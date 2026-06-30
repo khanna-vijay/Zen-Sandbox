@@ -80,20 +80,6 @@ One player is blindfolded and must navigate a room filled with safe obstacles. T
 
 **Objective:** To develop active listening, precise vocal gifting, and partner support by shifting focus entirely to the partner's physical safety and success.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-15) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | Blindfold, Chairs, Miscellaneous safe obstacles |
-| Audience | not required |
-
 ## Setup
 Clear a moderate-sized room. Scatter several safe obstacles (such as plastic chairs, soft bags, or sweaters) across the floor to create a winding path. One player is blindfolded at one end of the room, while the other players stand at the opposite end.
 

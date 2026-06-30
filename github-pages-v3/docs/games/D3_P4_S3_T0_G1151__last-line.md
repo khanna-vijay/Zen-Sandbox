@@ -75,20 +75,6 @@ In this narrative-focused game, players receive a random sentence from the audie
 
 **Objective:** Develops narrative architecture, active listening, and justification by training players to reverse-engineer a scene's progression so that every beat serves a specific story destination.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-4) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An open performance space with an audience. Two to four players stand on stage, ready to perform.
 

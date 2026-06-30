@@ -77,20 +77,6 @@ Players stand in a line and co-create a single cohesive story guided by a conduc
 
 **Objective:** To develop deep peripheral awareness, active listening, and thread-tracking skills, ensuring players can instantly pick up a narrative thread without pre-planning.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 4-8) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Players stand shoulder-to-shoulder in a line facing the audience. One facilitator acts as the conductor, standing in front of the line with their back or side to the audience. The audience is primed to act as the active judges of the story's flow.
 

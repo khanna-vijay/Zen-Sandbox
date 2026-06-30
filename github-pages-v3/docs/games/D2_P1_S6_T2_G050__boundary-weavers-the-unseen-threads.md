@@ -74,20 +74,6 @@ A structured skill drill where players navigate scenes while honoring secret, in
 
 **Objective:** To develop advanced boundary navigation, active listening, and real-time consent skills, training players to seamlessly pivot scenes when personal or physical limits are reached.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–6 (ideal 3-6) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | Secret Boundary Cards |
-| Audience | not required |
-
 ## Setup
 Prepare a set of index cards, each containing a specific personal boundary (e.g., 'No physical contact above the waist without verbal consent', 'No shouting or high-volume dialogue', 'Avoid topics related to financial distress'). Arrange the space for a two-player performance area with the remaining players observing as active listeners.
 

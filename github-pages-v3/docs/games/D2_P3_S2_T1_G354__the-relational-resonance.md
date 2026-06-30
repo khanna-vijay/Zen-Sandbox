@@ -84,20 +84,6 @@ A paired exercise where one player secretly shifts their relational attitude and
 
 **Objective:** To develop advanced status modulation and deep interpersonal attunement, training players to instantly receive subtle non-verbal offers and adjust their own relational stance to make their partner's choices look intentional and brilliant.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-10) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | Relational Stance cards or prompts |
-| Audience | not required |
-
 ## Setup
 An open, moderate-sized room where players can work in pairs without excessive noise interference. The facilitator prepares a set of physical index cards or digital prompts containing distinct 'Relational Stances' (e.g., 'Treat your partner like a fragile treasure,' 'Treat your partner like a rival you must outwit,' 'Treat your partner like a revered mentor'). No other props are required.
 

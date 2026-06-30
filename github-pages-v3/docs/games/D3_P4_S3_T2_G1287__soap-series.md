@@ -77,20 +77,6 @@ In this game, players collaborate to perform a multi-threaded, melodramatic epis
 
 **Objective:** To master narrative architecture and the platform/tilt technique by managing slow-tempo story progression, raising stakes through dramatic reveals, and editing scenes at high-tension cliffhangers.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-10) |
-| Time | ~25 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An in-person playing space with a clear stage area and a backstage/off-stage area where players can wait. No props are needed. The facilitator divides the group of 6-10 players into three distinct pairs or trios, each representing a different storyline branch (e.g., a high-stakes family business, a medical crisis, or a secret romance).
 

@@ -70,20 +70,6 @@ Players move freely around the space, pointing at physical objects and instantly
 
 **Objective:** To develop unfiltered spontaneity and vocal craft by training players to trust their very first impulse without hesitation or self-correction.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 1+ (ideal 1-30) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open room with various objects (chairs, walls, shoes, light fixtures). Players stand scattered throughout the space, ready to move. No props or materials are required.
 

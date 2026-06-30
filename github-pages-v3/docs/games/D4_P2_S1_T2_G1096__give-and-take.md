@@ -73,20 +73,6 @@ In this ensemble exercise, players distribute their focus across a shared space 
 
 **Objective:** To develop deep peripheral awareness, group mind, and the ability to 'follow the follower' by sharing focus seamlessly without explicit leadership.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-15) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open room cleared of obstacles. Players scatter randomly throughout the space, standing in stillness and silence, facing any direction they choose.
 

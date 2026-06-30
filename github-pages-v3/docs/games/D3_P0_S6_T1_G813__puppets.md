@@ -73,20 +73,6 @@ Two actors perform a standard scene but are physically paralyzed from the neck d
 
 **Objective:** Develops advanced justification, active listening, and physical offer reception by forcing players to find logical reasons for absurd, involuntary movements.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 4) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | high |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Four players stand in a clear, moderate-sized performance space. Divide them into two pairs: each pair consists of one 'Puppet' and one 'Puppeteer.' No props are required.
 

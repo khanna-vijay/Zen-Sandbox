@@ -89,20 +89,6 @@ The Living Tapestry is a physical and narrative ensemble game where players buil
 
 **Objective:** To develop advanced peripheral awareness and group mind by challenging players to physically map, support, and dynamically re-negotiate their relationships to other characters, objects, and abstract themes within an evolving stage picture.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear, moderate-sized playing space with no chairs or props. The remaining players stand in a semi-circle or offstage line facing the playing area, ready to enter. No materials are needed.
 

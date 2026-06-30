@@ -77,20 +77,6 @@ In this virtual exercise, two active players perform a scene while a third playe
 
 **Objective:** To develop a practical understanding of narrative architecture and story pacing. Players learn to recognize structural needs in real-time, practice immediate justification of unexpected plot twists, and collaborate to serve the overarching story rather than just their individual character agendas.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 3-4) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | yes |
-| Audience | not required |
-
 ## Setup
 Conducted in a virtual video-conferencing space. Two players keep their cameras on as the active performers. A third player is designated as the Narrative Architect. To prepare, the Architect is provided with a curated list of 'Narrative Impulses' (e.g., 'Raise the Stakes', 'Introduce an Obstacle', 'Reveal a Secret') and instructed to track the scene's platform, looking for moments where the momentum plateaus or needs a structural push. The Architect turns their camera off but keeps their microphone active.
 

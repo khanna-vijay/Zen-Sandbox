@@ -79,20 +79,6 @@ A high-energy virtual drill where a facilitator uses video spotlighting to unpre
 
 **Objective:** To develop unfiltered spontaneity and trust in one's initial impulses within a virtual environment, while building vocal confidence and physical presence on camera.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 8–15 (ideal 8-10) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Conducted via a virtual video platform with a spotlight or pin-for-everyone feature. All players must have their cameras turned on, set their display to grid view, and keep their microphones muted. The facilitator acts as the technical director, controlling the spotlight.
 

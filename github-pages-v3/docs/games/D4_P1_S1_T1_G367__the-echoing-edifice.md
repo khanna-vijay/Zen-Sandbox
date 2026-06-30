@@ -86,20 +86,6 @@ In this non-verbal ensemble exercise, players collaboratively build an evolving 
 
 **Objective:** To develop heightened peripheral awareness and group mind by challenging players to co-create a dynamic stage picture and soundscape without verbal communication. This builds the ensemble's capacity to support a shared physical reality, synthesize thematic elements, and execute non-verbal world-building.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, quiet playing space with moderate room to move. No props or materials are required. Players begin standing in a loose circle or scattered around the perimeter of the space, focused and silent.
 

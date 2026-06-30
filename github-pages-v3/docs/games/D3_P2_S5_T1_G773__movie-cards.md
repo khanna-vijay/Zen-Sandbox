@@ -74,20 +74,6 @@ In this high-energy narrative game, players improvise a short film based on an a
 
 **Objective:** To train players in establishing a strong, immediate base reality (C.R.O.W.) that can withstand high-energy, chaotic external disruptions, while practicing narrative architecture and audience interaction.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 4-8) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | moderate |
-| Props | Action cards, Microphone |
-| Audience | required |
-
 ## Setup
 Prepare 4 to 6 large, easily readable cue cards with cinematic tropes (e.g., 'Slow Motion', 'Montage', 'CGI Effects', 'Romantic Interlude', 'Dramatic Death Scene'). Set up a microphone off-stage for a narrator. Distribute the cards to two or three audience members sitting in the front row. Position 2 to 4 active players on stage, with remaining players off-stage ready to support.
 

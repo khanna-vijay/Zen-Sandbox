@@ -76,20 +76,6 @@ In this low-stakes scene-work exercise, players inhabit a shared space and perfo
 
 **Objective:** Develops vulnerability, silence, stillness, active listening, and establishing a base reality first by resisting the urge to invent conflict or jokes.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-16) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Set up two chairs or a simple performance space representing a familiar, everyday environment. No physical props are needed; all object work is mimed. Players work in pairs while the rest of the group acts as supportive observers.
 

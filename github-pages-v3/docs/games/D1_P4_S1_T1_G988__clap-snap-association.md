@@ -72,20 +72,6 @@ A fast-paced, physical warm-up that combines a steady four-beat body percussion 
 
 **Objective:** To develop unfiltered spontaneity and trust in one's immediate, unedited thoughts by using physical rhythm to bypass the internal editor.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-15) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Have all players stand in a circle facing inward. No props or special materials are required; just enough space for everyone to comfortably move their arms.
 

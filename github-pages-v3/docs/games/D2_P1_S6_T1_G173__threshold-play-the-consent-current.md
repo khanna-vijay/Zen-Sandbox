@@ -78,20 +78,6 @@ This exercise introduces a dynamic, mid-scene pause mechanic that allows players
 
 **Objective:** To develop proactive boundary navigation and active listening skills, allowing players to execute real-time check-ins and honor personal truth over artistic pandering.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–8 (ideal 4-8) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open playing space. Players stand in a circle or semi-circle. No props or materials are required. The facilitator establishes a shared understanding of physical safety and emotional boundaries before beginning.
 

@@ -77,20 +77,6 @@ In this high-focus ensemble warm-up, players navigate a shared space by calling 
 
 **Objective:** To build peripheral awareness, active listening, and group mind by training players to track multiple physical and verbal threads simultaneously.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 8-20) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Arrange all players in a spacious, standing circle facing inward with a clear center. No props or materials are required.
 

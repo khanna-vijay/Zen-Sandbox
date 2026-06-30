@@ -75,20 +75,6 @@ A structured, low-stakes technical drill where players practice explicit, granul
 
 **Objective:** To build muscle memory for negotiating physical contact, establishing clear boundaries, and confidently revoking consent in real-time without disrupting creative collaboration.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-4 per group) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | low |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, comfortable space. Players work in pairs or small groups of three. No props are required.
 

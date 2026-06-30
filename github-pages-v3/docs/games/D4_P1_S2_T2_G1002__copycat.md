@@ -77,20 +77,6 @@ A dynamic scene-work exercise where players on the sideline actively listen for 
 
 **Objective:** Develops active listening, rapid scene initiation, and seamless ensemble support through physical and verbal tap-ins.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A performance space with two players starting a scene in the center, and the remaining players standing on the sideline ready to edit. No props or materials are needed.
 

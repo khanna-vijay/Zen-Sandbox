@@ -82,20 +82,6 @@ The Endowment Loop is a structured, rapid-fire partner drill that isolates offer
 
 **Objective:** To train immediate, non-judgmental acceptance of partner offers by translating verbal endowments into instant physical adjustments, establishing a shared base reality without cognitive delay.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (or 6-12 rotating)) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two players stand facing each other in an open space, maintaining comfortable eye contact. The remaining participants form an active observation circle around them, ready to rotate in or provide focus.
 

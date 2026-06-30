@@ -79,20 +79,6 @@ A virtual-first storytelling game where players build a continuous narrative usi
 
 **Objective:** To master the 'Show, Don't Tell' principle by establishing C.R.O.W. (Character, Relationship, Objective, Where) through visual choices, physical scale, and environmental backgrounds rather than relying on verbal exposition.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–12 (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | yes |
-| Audience | not required |
-
 ## Setup
 Conducted on a video conferencing platform with virtual backgrounds enabled. To minimize setup friction, players should pre-load 3 to 5 images from this standard curated list: 1) A dense, misty forest, 2) A high-tech laboratory, 3) A cozy, warm kitchen, 4) A dark, narrow alleyway, and 5) An empty, grand throne room. All players start in Gallery View with cameras on.
 

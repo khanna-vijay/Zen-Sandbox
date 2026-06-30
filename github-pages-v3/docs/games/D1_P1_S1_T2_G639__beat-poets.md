@@ -74,20 +74,6 @@ Players step into the spotlight of a smoky 1950s coffeehouse to perform short, c
 
 **Objective:** To bypass the internal editor and practice unfiltered spontaneity by using a high-commitment, stylized performance persona.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-15) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle. No physical props are needed, though players can mime holding a microphone or a sheet of paper. The center of the circle serves as the performance stage.
 

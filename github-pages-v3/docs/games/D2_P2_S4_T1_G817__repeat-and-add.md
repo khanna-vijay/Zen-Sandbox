@@ -73,20 +73,6 @@ A rapid-fire pairing exercise where players must repeat their partner's last sta
 
 **Objective:** To develop precise offer reception and active listening by requiring players to hear, retain, and repeat their partner's exact words before contributing their own unfiltered spontaneous addition.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (or pairs in a group)) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand or sit in pairs facing each other. No props or special staging are required; the exercise can be run simultaneously across the entire room.
 

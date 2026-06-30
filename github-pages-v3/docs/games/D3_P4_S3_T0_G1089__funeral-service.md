@@ -81,20 +81,6 @@ In this structured narrative format, players construct the life story of a recen
 
 **Objective:** To develop narrative architecture, edit-by-entrance, and collaborative world-building by weaving monologues and active scenes into a unified story.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-10) |
-| Time | ~20 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | table, chairs |
-| Audience | not required |
-
 ## Setup
 Place a table or a row of chairs in the center of the stage to represent a casket. One player lies down as the deceased. The remaining players sit or stand in a semi-circle around the casket, acting as mourners.
 

@@ -79,20 +79,6 @@ This is a two-part longform format that explores genre conventions and narrative
 
 **Objective:** Develops format literacy, thematic synthesis, and narrative architecture by balancing shortform-style trope play with longform narrative patience.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-10) |
-| Time | ~45 min |
-| Complexity | 4/5 |
-| Skill level | proficient |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | Whiteboard or flipchart, Markers |
-| Audience | required |
-
 ## Setup
 Set up a whiteboard or flipchart visible to both the players and the audience. Have markers ready. Arrange the stage with a clear performance area and an offstage space for the ensemble.
 

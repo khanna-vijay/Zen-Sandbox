@@ -83,20 +83,6 @@ A deep, slow-tempo partner exercise where players establish a continuous, non-ve
 
 **Objective:** To develop profound non-verbal attunement, active somatic listening, and fluid status modulation, training players to treat every micro-offer as a stroke of genius.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal Pairs) |
-| Time | ~20 min |
-| Complexity | 4/5 |
-| Skill level | proficient |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in pairs, facing each other about three to five feet apart. The space should be quiet and free of distractions. No props are required.
 

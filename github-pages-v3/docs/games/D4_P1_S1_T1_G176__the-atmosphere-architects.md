@@ -87,20 +87,6 @@ An ensemble-driven exercise where players collectively construct and shift disti
 
 **Objective:** To develop deep group mind, peripheral awareness, and physical stage-picture composition by prioritizing collective emotional resonance over individual narrative or character development.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, moderate-sized playing space free of obstacles. Players stand in a loose circle or semi-circle, ready to step into the active space. No props or materials are required.
 

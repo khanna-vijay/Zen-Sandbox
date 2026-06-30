@@ -75,20 +75,6 @@ A rapid-fire pairing exercise where players build a shared scenario by explicitl
 
 **Objective:** To develop immediate offer reception, active listening, and unfiltered spontaneity by practicing the foundational Yes, And technique in its purest linguistic form.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal Pairs) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand or sit in pairs facing each other. No props or special staging required; minimal space is needed.
 

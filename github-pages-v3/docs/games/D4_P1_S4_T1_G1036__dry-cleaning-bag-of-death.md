@@ -76,20 +76,6 @@ In this high-energy ensemble game, two players perform a grounded scene while a 
 
 **Objective:** Develops group mind, rapid physical editing, and the ability to instantly justify sudden entrances and exits under physical pressure, training players to prioritize the collective pacing of the performance over individual scene comfort.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–5 (ideal 3-4) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | moderate |
-| Props | yes |
-| Audience | not required |
-
 ## Setup
 An open performance space with a designated 'Endurance Zone' marked offstage, equipped with a yoga mat or a medicine ball. Three to five players participate, with two starting onstage and the remaining players waiting in the Endurance Zone.
 

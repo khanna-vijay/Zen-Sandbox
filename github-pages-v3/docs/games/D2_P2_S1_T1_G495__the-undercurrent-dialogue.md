@@ -79,20 +79,6 @@ Two players engage in a continuous loop of repeating a single, unchanging factua
 
 **Objective:** To develop deep interpersonal attunement, active listening, and status modulation by isolating communication to non-verbal cues, vocal tone, and emotional vulnerability.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal Pairs) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | low |
-| Physicality | low |
-| Modality | hybrid |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand or sit facing each other, maintaining soft but steady eye contact. This can be played in-person or virtually with cameras on. No props or physical materials are required.
 

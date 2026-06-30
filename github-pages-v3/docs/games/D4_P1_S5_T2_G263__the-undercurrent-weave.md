@@ -79,20 +79,6 @@ An advanced ensemble exercise where players collectively track and evolve an abs
 
 **Objective:** To develop deep Group Mind and thematic synthesis by training players to prioritize collective emotional progression over individual narrative agendas, mastering organic transitions and non-verbal ensemble alignment.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~20 min |
-| Complexity | 4/5 |
-| Skill level | proficient |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a wide semi-circle facing the playing space. No props or chairs are used. The facilitator secures an abstract, evocative suggestion from the group representing a mood, tension, or state of being (such as 'unspoken suspicion' or 'fading optimism') rather than a physical location.
 

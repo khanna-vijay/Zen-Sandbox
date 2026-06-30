@@ -75,20 +75,6 @@ In this scene-building exercise, players collaboratively construct and inhabit a
 
 **Objective:** To develop strong world-building, physical space awareness, and immediate C.R.O.W. (Character, Relationship, Objective, Where) establishment within a shared base reality.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Clear a moderate performance space. Place two chairs to define the boundaries of an imaginary reception desk, leaving the rest of the stage empty for physical exploration. No actual props are used.
 

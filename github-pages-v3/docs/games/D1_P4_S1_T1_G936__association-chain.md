@@ -65,20 +65,6 @@ Word Bridge is a rapid-fire association game that trains players to trust their 
 
 **Objective:** To cultivate unfiltered spontaneity and rapid word-association by removing the ability to plan ahead, teaching players to trust their immediate instinctual thoughts.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 1+ (ideal 1-15) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | low |
-| Physicality | none |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand or sit in a circle. No props are required. The facilitator or players prepare pairs of highly contrasting, unrelated words.
 

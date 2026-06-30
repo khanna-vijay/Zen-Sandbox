@@ -76,20 +76,6 @@ Players stand in a circle and pass a short phrase accompanied by a distinct phys
 
 **Objective:** To develop deep physical and vocal empathy by practicing 'Yes, And' through exact replication, cultivating active listening, and embracing the concept of 'Follow the Follower' as a group.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-15) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, moderate-sized space. Players stand in a circle facing inward, ensuring everyone has enough room to move their arms and shift their weight without colliding.
 

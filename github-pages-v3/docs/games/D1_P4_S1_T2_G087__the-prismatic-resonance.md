@@ -93,20 +93,6 @@ A high-energy, fast-paced training drill where players practice immediate, unfil
 
 **Objective:** To bypass intellectualization and shorten the pipeline between an internal impulse and external expression, developing unfiltered spontaneity, emotional fluidity, and the ability to cleanly shed intense physical and vocal states.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–15 (ideal 5-15) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | large_open |
-| Props | sound library, visual prompts, tactile prompts, timer |
-| Audience | not required |
-
 ## Setup
 A large, open room free of obstacles. Players stand in a wide circle. The facilitator stands where they can be seen and heard by all, equipped with a sound player for abstract noises, a set of abstract visual cards, a few tactile objects like sandpaper or smooth stones, and a timer.
 

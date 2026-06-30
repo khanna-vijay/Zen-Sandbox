@@ -76,20 +76,6 @@ Players engage in a classic game of tag, but with a strict constraint: every mov
 
 **Objective:** To develop physical commitment, body awareness, and spatial control by exploring weight, resistance, and pacing. It trains players to commit 100% to a physical constraint and use their entire body to convey effort and tension.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-20) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | high |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A large, open room free of obstacles. Players spread out across the space. No props are needed.
 

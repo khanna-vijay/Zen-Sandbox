@@ -82,20 +82,6 @@ A fast-paced virtual scene-work game where players use dynamic virtual backgroun
 
 **Objective:** To develop the skill of immediate justification of absurd or sudden environmental changes, reinforcing the establishment of a strong base reality that can withstand and integrate unexpected physical offers.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–12 (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | Zoom client with virtual background capability, 10-15 pre-selected virtual backgrounds per player |
-| Audience | not required |
-
 ## Setup
 Played on a video conferencing platform in Gallery View. Before starting, each player must pre-load 10 to 15 highly distinct virtual backgrounds (such as a desert, an underwater scene, a medieval castle, or a giant kitchen sink). Players should select 5 power backgrounds that offer high visual contrast and clear narrative stakes. In the meeting chat, establish a clear, sequential order of players who will act as the shifters.
 

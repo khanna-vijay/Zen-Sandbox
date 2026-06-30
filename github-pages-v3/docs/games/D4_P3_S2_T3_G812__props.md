@@ -74,20 +74,6 @@ Two actors initiate a high-stakes narrative scene while the remaining ensemble m
 
 **Objective:** To develop active ensemble support, physical commitment, and spatial awareness by training off-stage players to instantly serve the scene as physical architecture and objects.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-12) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A large, open playing space. Two players start in the center of the stage to begin the scene. The remaining players (the 'prop closet') stand in a semi-circle or along the back and sides of the stage, poised to jump in at a moment's notice.
 

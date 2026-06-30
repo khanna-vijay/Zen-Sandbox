@@ -83,20 +83,6 @@ Virtual Scene Architects is a remote-first improv game where players collaborati
 
 **Objective:** Develops rapid offer reception, active listening, and multi-modal 'Yes, And' skills by integrating digital tools into active scene-building.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–12 (ideal 8-10) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | virtual backgrounds, everyday desk props (pen, mug, book, scarf) |
-| Audience | not required |
-
 ## Setup
 A virtual meeting room with renaming and virtual background features enabled. Participants should have 2-3 simple desk props (e.g., a pen, a mug, a book, a scarf) nearby. The facilitator must be ready to manage the platform's spotlight or pinning features.
 

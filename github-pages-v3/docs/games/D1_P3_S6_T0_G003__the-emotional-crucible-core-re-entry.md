@@ -86,20 +86,6 @@ The Emotional Crucible is an intensive physical and emotional training drill des
 
 **Objective:** To build emotional fluidity, physical integration, and vocal spontaneity while developing the crucial self-recovery skills needed to safely enter and exit high-intensity performance states.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a wide circle with one player starting in the center. The facilitator acts as the guide and cue-caller. No props or materials are required, though a clear, open physical space is necessary.
 

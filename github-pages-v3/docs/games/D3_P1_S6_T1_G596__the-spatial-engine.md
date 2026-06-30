@@ -82,20 +82,6 @@ In this active scene-work exercise, two to three players build a narrative while
 
 **Objective:** To develop rapid justification skills and physical storytelling by treating stage blocking as the primary driver of narrative, character status, and relationship dynamics.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 3-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open stage space with moderate room for movement. No props are required. Two to three players step into the performance space to begin a scene, while the remaining participants observe. One person (the facilitator or an advanced student) acts as the Spatial Conductor.
 

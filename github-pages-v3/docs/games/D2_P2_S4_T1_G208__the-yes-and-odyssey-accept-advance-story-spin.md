@@ -80,20 +80,6 @@ A virtual-native storytelling drill where players build a cohesive narrative one
 
 **Objective:** To internalize the 'Yes, And' rule of narrative progression, practice active listening under virtual constraints, and master the physical and verbal handoff of story offers.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–10 (ideal 5-10) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | none |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Set up a virtual meeting room with all participants in grid view. Ensure the facilitator has host privileges to manage video spotlighting. Establish a clear speaking order in the chat or by renaming participants with numbers (e.g., '1 - Alex', '2 - Taylor'). All players start muted with cameras on.
 

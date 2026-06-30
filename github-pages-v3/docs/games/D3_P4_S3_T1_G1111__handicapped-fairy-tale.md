@@ -81,20 +81,6 @@ In this high-energy narrative game, a small ensemble improvises a well-known fai
 
 **Objective:** Develops narrative architecture and emotional fluidity by challenging players to balance macro-storytelling with micro-character commitments.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–8 (ideal 4-6) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An ensemble of 4 to 6 players stands on stage in front of an audience. No props or set pieces are required, but a clear playing space is needed for physical movement.
 

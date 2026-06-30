@@ -79,20 +79,6 @@ A high-agility scene-work game where players must instantly adapt to sudden, fun
 
 **Objective:** To develop advanced justification skills, specifically justifying the absurd, and to train narrative agility. Players learn to treat unexpected disruptions not as mistakes, but as gifts that instantly raise the stakes and deepen the story's architecture.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-15) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open playing space for an in-person workshop. Two to three players stand in the performance area, while the remaining participants sit as active observers. No props or special materials are required. The facilitator stands nearby, ready to side-coach and deliver shifts.
 

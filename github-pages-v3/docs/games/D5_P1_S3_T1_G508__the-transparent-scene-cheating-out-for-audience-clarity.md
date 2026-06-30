@@ -74,20 +74,6 @@ The Open Frame is an interactive staging drill where players perform short, prop
 
 **Objective:** To build physical stage presence, spatial awareness, and the habit of cheating out so that subtle emotional beats, physical actions, and prop work remain completely visible and legible to the audience.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | yes |
-| Audience | not required |
-
 ## Setup
 An open performance space with a clearly defined stage area and an audience area. Place a small table on stage with physical props (e.g., a small book, a coin, a letter, a pen, a photograph). The facilitator sits in the center of the audience area, with other players seated around them as active observers.
 

@@ -78,20 +78,6 @@ In this dynamic, low-stakes warm-up, the entire group moves through the space an
 
 **Objective:** To rapidly establish a clear Base Reality using the C.R.O.W. framework (Character, Relationship, Objective, Where) through active listening and immediate offer reception.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 10-30) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open room with cleared floor space allowing all participants to walk around freely. No props, chairs, or materials are required.
 

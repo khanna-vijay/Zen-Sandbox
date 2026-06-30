@@ -74,20 +74,6 @@ A fast-paced circle warm-up where players use their index fingers as miniature a
 
 **Objective:** To bypass the internal editor, practice unfiltered spontaneity, and establish a clear base reality instantly using physicalized characters.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-15) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle in an open space. No props, chairs, or materials are required.
 

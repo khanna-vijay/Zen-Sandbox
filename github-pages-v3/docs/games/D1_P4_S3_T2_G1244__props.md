@@ -77,20 +77,6 @@ Players take turns stepping into the center of the space to interact with an unu
 
 **Objective:** To bypass intellectual filtering by accepting the first physical inspiration an object offers, developing spatial awareness, object work precision, and comedic justification.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 4-10) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | A variety of unusual physical props (e.g., foam shapes, household items, sports equipment) |
-| Audience | not required |
-
 ## Setup
 Gather a collection of 5 to 10 abstract or unusual physical props (such as a pool noodle, a funnel, a tennis racket, or a geometric foam block). Players stand in a semi-circle facing a central performance space where the active props are placed.
 

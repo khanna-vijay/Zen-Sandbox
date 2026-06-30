@@ -84,20 +84,6 @@ The Resonance Dial is an advanced solo training drill designed to build deep emo
 
 **Objective:** Develops emotional fluidity, somatic commitment, and self-recovery by training players to consciously manipulate their emotional intensity (the Emotional Dial) and safely navigate high-energy performance states.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–8 (ideal 3-8) |
-| Time | ~20 min |
-| Complexity | 4/5 |
-| Skill level | proficient |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | moderate |
-| Props | bell, chime |
-| Audience | not required |
-
 ## Setup
 Set up a clear, moderate-sized playing space in the center of the room (the 'Resonance Zone'). The remaining 2 to 7 players sit in a semi-circle as supportive observers. The facilitator needs a small bell, chime, or clicker to signal transitions.
 

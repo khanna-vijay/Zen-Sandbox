@@ -79,20 +79,6 @@ A solo performer executes a simple, open-ended monologue or task while the remai
 
 **Objective:** To develop advanced room-reading skills, master the purposeful navigation of the fourth wall, and treat the audience as an active, live scene partner whose energy must be managed and integrated.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-15) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An in-person performance space with one clear stage area and a seated audience area. No props are required. The facilitator prepares a list of structured audience cues (e.g., leaning forward for interest, rubbing chin for confusion) to brief the audience beforehand.
 

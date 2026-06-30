@@ -83,20 +83,6 @@ Two players stand face-to-face, engaging in a silent, continuous exchange of phy
 
 **Objective:** To develop advanced non-verbal attunement, physical empathy, and rapid status modulation by applying the 'Yes, And' principle directly to physical and emotional states without words.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (or pairs in a larger group)) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players pair up and stand facing each other at a comfortable distance (about arm's length) in a clear space. No props are required. The room should be relatively quiet to support deep focus.
 

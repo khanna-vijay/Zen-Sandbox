@@ -76,20 +76,6 @@ A paired physical and verbal drill where players practice giving and receiving i
 
 **Objective:** To develop active gifting, physical offer reception, and justification skills, training players to enthusiastically 'yes-and' their partner's physical choices and build immediate narrative depth.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal pairs) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Divide the group into pairs. Partners stand facing each other with comfortable space to move and mime. No physical props are required.
 

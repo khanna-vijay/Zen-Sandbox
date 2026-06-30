@@ -71,20 +71,6 @@ In this physical warm-up, players stand in a circle and take turns leading a phy
 
 **Objective:** To develop physical commitment, active mirroring, and peripheral awareness by sharing leadership and fully embodying physical movements.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 3-30) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle with enough space to stretch their arms and legs comfortably without making accidental contact. No props or materials are needed.
 

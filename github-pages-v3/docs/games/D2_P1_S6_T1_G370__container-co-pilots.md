@@ -74,20 +74,6 @@ A structured exercise where two active players improvise a scene while the remai
 
 **Objective:** To build a shared vocabulary for dynamic consent, practice proactive boundary navigation, and prioritize personal comfort over narrative momentum (Truth Over Pandering).
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 5-8) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand or sit in a semi-circle facing a designated performance space. No props are required. The facilitator assigns two players to be the active performers ('Scene Pilots') and divides the remaining players ('Co-Pilots') into specific observational roles, each focusing on a different lens: Physical Proximity, Emotional Escalation, Power Dynamics, or Non-Verbal Comfort Cues.
 

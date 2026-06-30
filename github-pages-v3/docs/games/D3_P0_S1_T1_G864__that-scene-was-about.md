@@ -74,20 +74,6 @@ A fast-paced scenework drill where players perform a scene, and the next pair of
 
 **Objective:** Develops the ability to identify the 'game' or core theme of a scene (Game Identification) and synthesize it into an abstract concept (Thematic Synthesis), which is then applied to a new scenario using A-to-C association.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a line-up or semi-circle facing the performance space. No props or chairs are needed, though two chairs can be available if preferred. The facilitator prepares to offer an initial suggestion to kick off the first scene.
 

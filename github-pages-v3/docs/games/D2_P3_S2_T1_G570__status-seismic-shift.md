@@ -89,20 +89,6 @@ A dynamic, fast-paced partner exercise where two players establish a clear high-
 
 **Objective:** To develop rapid status modulation and master the status seesaw technique, training players to actively gift power to or receive power from their partner through physical, vocal, and spatial choices.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 4-12) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, moderate-sized playing space. No props are required. The group of 4 to 12 players forms a semi-circle to observe, with two players stepping into the center to perform. The facilitator stands where they can easily observe and cue the players.
 

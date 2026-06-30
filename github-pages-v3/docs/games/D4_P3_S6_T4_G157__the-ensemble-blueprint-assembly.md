@@ -90,20 +90,6 @@ This is a collaborative, physical, and analytical rehearsal method where an ense
 
 **Objective:** To build deep format literacy and group mind by translating structural rules into physical, collective stage behaviors, ensuring every player understands how to serve the piece at any given moment.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 4-8) |
-| Time | ~75 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | whiteboard, flipchart, markers |
-| Audience | not required |
-
 ## Setup
 An open rehearsal space with a whiteboard or flipchart and markers. The ensemble of four to eight players gathers in a semi-circle facing the board.
 

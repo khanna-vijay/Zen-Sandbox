@@ -79,20 +79,6 @@ Players embody a secret numerical status from 1 (lowest) to 10 (highest) during 
 
 **Objective:** To develop status modulation skills by physicalizing relative social power (using high/low-status walks, posture, and eye contact) and to practice making partners look good by instantly reacting to and validating their projected status.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 8-12) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | Slips of paper or cards numbered 1 to 10 |
-| Audience | not required |
-
 ## Setup
 Prepare a set of small cards or slips of paper numbered 1 through 10. Clear a moderate playing space to represent a party or networking venue. Have all players stand outside the playing area or close their eyes while the facilitator prepares to distribute the secret numbers.
 

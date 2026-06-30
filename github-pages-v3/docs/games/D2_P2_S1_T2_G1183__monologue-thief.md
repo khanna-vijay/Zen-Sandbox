@@ -78,20 +78,6 @@ Players stand in a line, each armed with a unique monologue topic. As one player
 
 **Objective:** To develop hyper-focused active listening and seamless 'yes-and' transitions by forcing players to build directly off their partner's exact final words.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–15 (ideal 6-12) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Have 3 to 15 players stand in a straight line facing the playing area. Give each player a unique, simple suggestion or topic (e.g., 'baking,' 'outer space,' 'dentists') which they must keep in mind. No props or special materials are required.
 

@@ -76,20 +76,6 @@ A dynamic group exercise where players navigate a scene while collectively modul
 
 **Objective:** To develop a unified group mind and precise control over pacing and rhythm by training players to collectively adjust their physical and vocal intensity in perfect synchronization.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–5 (ideal 3-5) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, moderate-sized playing space with no chairs or props. Three to five players stand in a neutral line or loose cluster on stage. A facilitator stands off-stage where they can clearly observe the entire group and deliver vocal cues.
 

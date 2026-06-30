@@ -83,20 +83,6 @@ A virtual narrative game where players perform a silent scene using heightened p
 
 **Objective:** To master the 'Platform/Tilt' technique by establishing a clear physical baseline (the platform) and seamlessly justifying sudden, externally imposed narrative disruptions (the tilt) without breaking character.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Conducted on a video conferencing platform in gallery view. All players must have cameras on, well-lit frames, and their private chat window open and visible only to them. Mics are muted by default. The facilitator acts as the Director who will send private messages.
 

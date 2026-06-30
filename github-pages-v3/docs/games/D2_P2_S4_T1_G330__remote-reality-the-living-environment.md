@@ -79,20 +79,6 @@ Background Biomes is a virtual-first improv game where players collaboratively c
 
 **Objective:** To develop deep offer reception and physical world-building in a virtual space. Players practice 'Yes, And' by visually matching their partner's environmental choices and verbally/physically validating previous physical offers before introducing their own.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–12 (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players join a virtual meeting room with their cameras on, set to grid view. All players must have the ability to change their virtual backgrounds quickly (either using pre-saved images or a built-in search tool). The facilitator prepares to use the text chat to manage the turn order and keep the pace active.
 

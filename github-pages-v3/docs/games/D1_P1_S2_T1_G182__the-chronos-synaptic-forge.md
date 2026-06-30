@@ -83,20 +83,6 @@ A high-intensity physical and emotional drill where players deeply commit to a s
 
 **Objective:** To develop deep emotional fluidity and absolute physical commitment under pressure. This drill trains players to bypass cognitive hesitation, embrace vulnerability, and maintain a truthful emotional core while managing complex, shifting physical and vocal demands.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~15 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, unobstructed room with plenty of space for 4 to 8 players to move around safely. No props or chairs are needed. One person acts as the facilitator, while the remaining players stand spaced out across the floor.
 

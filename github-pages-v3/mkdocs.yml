@@ -6,6 +6,9 @@ repo_url: https://github.com/khanna-vijay/Zen-Sandbox
 repo_name: khanna-vijay/Zen-Sandbox · v3
 copyright: "An Improv Framework — v3"
 
+extra:
+  generator: false        # remove the "Made with Material for MkDocs" footer notice
+
 docs_dir: docs
 strict: true
 not_in_nav: |

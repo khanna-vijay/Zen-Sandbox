@@ -78,20 +78,6 @@ A dynamic, conductor-led scene drill where players instantly adjust how they int
 
 **Objective:** To develop precise control over audience-energy management and stage presence, specifically training performers to intentionally break, crack, or reinforce the fourth wall to treat the audience as an active scene partner.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-15) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An open performance space facing an audience of peers. No props or materials are needed. One facilitator or experienced player acts as the Conductor, standing off-stage but clearly visible and audible to the performers. Two to three players step up to perform a scene, while the remaining players act as the active audience.
 

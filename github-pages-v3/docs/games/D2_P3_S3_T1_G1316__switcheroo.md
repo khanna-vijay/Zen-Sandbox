@@ -78,20 +78,6 @@ In this dynamic scene-continuation game, a small group of players initiates a gr
 
 **Objective:** Develops active listening, physical mirroring, and single-partner empathy by forcing players to deeply observe and instantly adopt their partner's physical, vocal, and emotional choices.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–6 (ideal 3-5) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Three to five players stand in the performance space. Establish a clear rotation order (e.g., Player A becomes Player B, B becomes C, C becomes A) before beginning. No props or chairs are required.
 

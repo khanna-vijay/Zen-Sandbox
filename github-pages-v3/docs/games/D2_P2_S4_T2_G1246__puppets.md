@@ -78,20 +78,6 @@ Two actors perform a scene but are physically paralyzed, relying entirely on two
 
 **Objective:** Develops physical endowment-acceptance, justification of external offers, and deep partner connection by forcing players to 'yes-and' physical choices they did not initiate.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–4 (ideal 4) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | high |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Four players split into two pairs. Each pair consists of one 'Puppet' and one 'Puppeteer'. The two Puppets stand center stage facing each other, while their respective Puppeteers stand closely behind or beside them. No props or materials are required.
 

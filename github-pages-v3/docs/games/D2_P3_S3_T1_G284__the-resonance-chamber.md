@@ -86,20 +86,6 @@ A progressive, three-stage partner exercise that transitions from silent physica
 
 **Objective:** To develop deep partner empathy, active physical listening, and the ability to elevate a partner's choices by endowing their physical and emotional states with high-stakes narrative meaning and status.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (in pairs)) |
-| Time | ~8 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Divide the group into pairs. Partners stand facing each other, approximately arm's length apart, in a space with enough room to move comfortably without colliding with other pairs. No props are required.
 

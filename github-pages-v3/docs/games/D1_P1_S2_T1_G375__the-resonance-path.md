@@ -81,20 +81,6 @@ A high-energy, somatic training drill where a single player embodies a neutral w
 
 **Objective:** To develop deep emotional fluidity and physical commitment by practicing rapid, high-stakes transitions in vocal quality, body language, and spontaneous verbal expression using the Emotional Dial technique.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | slips of paper with neutral nouns, hat or bag |
-| Audience | not required |
-
 ## Setup
 Players stand in a wide circle with enough space to move dynamically. Prepare a hat or bag containing slips of paper, each written with a single neutral noun (such as spoon, cloud, key, or shadow). One player starts in the center as the active performer.
 

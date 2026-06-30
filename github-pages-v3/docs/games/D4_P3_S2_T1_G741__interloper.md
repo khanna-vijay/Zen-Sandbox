@@ -70,20 +70,6 @@ Two players initiate a grounded, relationship-focused scene while a third player
 
 **Objective:** Develops active listening, rapid justification, and the ability to execute supportive walk-ons that serve the established scene rather than disrupting it.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 3-10) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear performance space with designated onstage and offstage (wing) areas. No props or chairs are required.
 

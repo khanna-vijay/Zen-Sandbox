@@ -86,20 +86,6 @@ Dynamic Weighting is an ensemble-building exercise where players are assigned sp
 
 **Objective:** To develop advanced ensemble support work and peripheral awareness by training players to consciously modulate their contribution style, ensuring they serve the piece rather than relying on default habits.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–6 (ideal 3-5) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open playing space for 3 to 5 active players, with the remaining group observing. No props or materials are required. The facilitator prepares to assign roles either openly or secretly before the scene begins.
 

@@ -82,20 +82,6 @@ A two-player scene-work exercise where players are restricted to responding in w
 
 **Objective:** To train improvisers in active gifting and radical agreement by forcing them to justify their partner's choices as brilliant, thereby building deep trust and eliminating defensive scene-blocking.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 per scene) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two players stand in the performance space. The facilitator provides a simple relationship (e.g., business partners, siblings) and a location (e.g., a research lab, a bakery). No props or physical materials are required.
 

@@ -68,20 +68,6 @@ In this subtle ensemble warm-up, players mingle with secret roles: one is 'affli
 
 **Objective:** To develop peripheral awareness, active listening, and group mind by tuning into subtle physical shifts in the room and responding collaboratively without explicit verbal direction.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-15) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | pieces of paper, pen |
-| Audience | not required |
-
 ## Setup
 Prepare small slips of paper equal to the number of players. Write 'Afflicted' on one slip and 'Cure' on all the others. Distribute them face-down. Players look at their slips privately and stand in a loose circle in a clear room.
 

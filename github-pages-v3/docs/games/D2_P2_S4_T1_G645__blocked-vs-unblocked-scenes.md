@@ -73,20 +73,6 @@ This exercise guides players through three distinct phases of scene work: mutual
 
 **Objective:** To build deep awareness of offer reception, contrast the narrative friction of blocking with the collaborative flow of 'Yes, And', and practice justifying difficult or contradictory offers.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal Pairs) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players pair up and stand or sit facing each other. No props or special staging are required. The facilitator will guide the entire room through three timed phases simultaneously.
 

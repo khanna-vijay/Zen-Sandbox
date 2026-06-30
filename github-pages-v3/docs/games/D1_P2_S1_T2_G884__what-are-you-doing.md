@@ -75,20 +75,6 @@ A fast-paced, high-energy physical drill where players perform one physical acti
 
 **Objective:** To bypass the analytical mind, practice unfiltered spontaneity, and build resilience to mistakes by celebrating failure as a group.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 8-16) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle or a line. Two players step into the center to begin. No props or special staging required.
 

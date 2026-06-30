@@ -82,20 +82,6 @@ This structured training drill challenges a solo performer to maintain a continu
 
 **Objective:** To develop precise control over audience-energy management, room reading, and direct address by systematically practicing different degrees of fourth-wall permeability.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-15) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | Four colored placards or cards labeled with the Permeability States, Optional: A bell or chime |
-| Audience | required |
-
 ## Setup
 An performance space with a clear stage area and an audience seating area. The facilitator needs four colored cards or placards: Red (Hermetic Seal), Yellow (Transparent Observer), Green (Direct Conduit), and Blue (Conceptual Partner). An optional bell or chime can be used for auditory transitions.
 

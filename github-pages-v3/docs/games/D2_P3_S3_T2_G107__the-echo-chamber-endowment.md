@@ -84,20 +84,6 @@ Two players build a scene where every line is preceded by a physical or vocal ec
 
 **Objective:** To develop advanced partner attunement, emotional mirroring, and the ability to receive and integrate subtle, unstated offers in real-time.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | prompt cards |
-| Audience | not required |
-
 ## Setup
 An open performance space. The facilitator prepares two sets of small index cards: 'Endowment Cards' (e.g., 'Make your partner feel brilliant,' 'Endow your partner with a secret guilt') and 'Status Cards' (e.g., 'Slightly raise your status,' 'Lower your status through deferential posture'). The rest of the group sits as active observers.
 

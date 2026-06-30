@@ -77,20 +77,6 @@ A high-energy, fast-paced circle warm-up where players pass a vocal and physical
 
 **Objective:** To develop group mind, peripheral awareness, and thread-tracking by training players to receive and pass impulses instantly while maintaining a shared group rhythm.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 8-20) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Have all players stand in a clear circle facing inward, with enough space to make eye contact with everyone. No props or materials are required.
 

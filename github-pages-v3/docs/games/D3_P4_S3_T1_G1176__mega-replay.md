@@ -77,20 +77,6 @@ In this game, players split into two teams to explore how narrative structure re
 
 **Objective:** To master narrative architecture by isolating the core plot points (the Story Spine) and demonstrating emotional fluidity and thematic synthesis when translating those beats into new styles.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Divide the players into two equal teams (Team A and Team B). Clear a performance space at the front of the room. No props or chairs are needed, though players may use the space dynamically.
 

@@ -72,20 +72,6 @@ A guided scene-work drill where a facilitator temporarily pauses the action to r
 
 **Objective:** To develop deep offer reception, active listening, and justification by physically and verbally rewinding a scene to explore alternative, highly supportive 'Yes, And' choices.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 3-15) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space. Two players stand in the playing area, while the rest of the group sits as active observers. The facilitator stands nearby, ready to side-coach.
 

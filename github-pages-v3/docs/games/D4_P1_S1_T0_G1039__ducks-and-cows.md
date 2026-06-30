@@ -72,20 +72,6 @@ Sound Flocks is a high-energy, chaotic warm-up where players are secretly assign
 
 **Objective:** To develop peripheral auditory awareness, vocal commitment, and group mind by navigating a chaotic sonic environment to find connection.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6+ (ideal 10-30) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open room cleared of obstacles. Players stand scattered throughout the space. No props are required.
 

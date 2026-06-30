@@ -73,20 +73,6 @@ In this narrative-driven game, an off-stage director actively manipulates the ti
 
 **Objective:** Develops narrative architecture, pacing, and the ability to raise stakes by exploring cause-and-effect relationships across different points in time.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 4-8) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A performance space for two to three active players, with the remaining players acting as the audience. One player (or the facilitator) is designated as the Time Director and stands off-stage.
 

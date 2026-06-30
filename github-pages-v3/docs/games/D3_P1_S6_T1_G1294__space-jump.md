@@ -82,20 +82,6 @@ Space Jump is a physical, fast-paced scene-building game where players layer mul
 
 **Objective:** Develops physical justification, narrative memory, and the ability to show rather than tell by using physical postures to inspire and transition between scenes.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–10 (ideal 4-8) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear performance space. Four to eight players stand on the sidelines ready to enter, while the rest of the group acts as active observers.
 

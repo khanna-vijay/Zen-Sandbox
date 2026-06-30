@@ -87,20 +87,6 @@ A two-player collaborative world-building exercise where partners construct a co
 
 **Objective:** To develop advanced status modulation (the status seesaw) and deep interpersonal attunement by using an external imaginary object as a catalyst for physical, emotional, and relational shifts.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (or any size in pairs)) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in pairs facing each other with comfortable space to move. No physical props are required. The facilitator prepares a list of complex, abstract, or fantastical prompts (e.g., 'a sentient clockwork engine', 'an ancient subterranean library', 'a futuristic weather-control console').
 

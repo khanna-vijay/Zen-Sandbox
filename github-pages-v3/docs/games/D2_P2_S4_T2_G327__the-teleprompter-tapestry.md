@@ -85,20 +85,6 @@ A virtual narrative game where players collaborate in a sequential video grid to
 
 **Objective:** To master rapid offer reception and instant endowment-acceptance in a virtual environment, training players to immediately integrate unexpected external directives into an ongoing narrative.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–12 (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | Beat Baton (any small, colorful, easily visible object like a pen, block, or toy) |
-| Audience | not required |
-
 ## Setup
 Conducted on a video conferencing platform in gallery view. The facilitator configures the video order so all players see the same sequential grid. Each player must have a 'Beat Baton'—a small, highly visible physical object like a colorful pen, block, or toy within arm's reach.
 

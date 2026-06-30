@@ -74,20 +74,6 @@ A high-energy physical warm-up where players stand in a circle and shake out the
 
 **Objective:** To build physical presence, establish a shared group rhythm, and practice failing joyfully when physical coordination breaks down at high speeds.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-20) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle with comfortable spacing between them, ensuring everyone has enough room to safely shake their arms and legs.
 

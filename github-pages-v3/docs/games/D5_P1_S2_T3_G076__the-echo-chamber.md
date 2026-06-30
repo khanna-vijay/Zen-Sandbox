@@ -76,20 +76,6 @@ A solo performer stands on stage and directly addresses a simulated audience of 
 
 **Objective:** Develops audience-energy management, room reading, and vocal projection by training performers to treat the audience as an active scene partner through direct address.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 One performer stands center stage. The remaining players sit in chairs facing the stage as the simulated audience. The facilitator stands slightly behind or to the side of the performer, visible to the audience but out of the performer's direct line of sight. No props are required.
 

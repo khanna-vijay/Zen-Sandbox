@@ -81,20 +81,6 @@ A dynamic virtual warm-up where players collectively shape, pass, and transform 
 
 **Objective:** To develop rapid offer reception and endowment-acceptance in a virtual space, training players to physically commit to an imaginary object's properties before transforming it into a new offer.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Conducted on a video conferencing platform with all participants in Gallery View. Players should position their cameras to show their upper torso and hands, ensuring ample space for physical movement. No physical props are required.
 

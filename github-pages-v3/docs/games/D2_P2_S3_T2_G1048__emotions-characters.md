@@ -72,20 +72,6 @@ A fast-paced, silent partner exercise where players establish distinct emotional
 
 **Objective:** To cultivate deep non-verbal empathy, emotional mirroring, and rapid emotional fluidity by establishing and recalling specific shared emotional states with multiple partners.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6+ (ideal 10-20) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open room with enough space for all players to walk around freely. No chairs or obstacles. Players begin standing in a loose crowd.
 

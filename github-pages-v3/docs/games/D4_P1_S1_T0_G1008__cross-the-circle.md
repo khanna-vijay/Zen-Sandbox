@@ -73,20 +73,6 @@ Players form a circle with one person in the center who shares a personal truth 
 
 **Objective:** To build group mind and peripheral awareness by navigating a shared physical space while practicing vulnerability and unfiltered spontaneity through personal disclosures.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 10-25) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open room with enough space for all players to stand in a large, clear circle. No chairs or props are needed, though spot markers can be used if helpful to define spaces.
 

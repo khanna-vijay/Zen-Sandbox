@@ -76,20 +76,6 @@ Two players perform a high-stakes scene but must physically step into a designat
 
 **Objective:** To build practical boundary navigation skills and normalize explicit, out-of-character check-ins during high-stakes scenes, ensuring players prioritize personal comfort and mutual consent over narrative momentum.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | colored mat or tape to outline the Negotiation Space (optional) |
-| Audience | not required |
-
 ## Setup
 Mark a small, distinct 3x3 foot square on the floor using tape or a colored mat to serve as the Negotiation Space. Arrange the remaining players in a semi-circle around the playing area to act as supportive observers.
 

@@ -85,20 +85,6 @@ A quiet, high-focus partner exercise where two players establish a physical and 
 
 **Objective:** To develop deep, non-verbal empathy, precise emotional mirroring, and the ability to 'Yes, And' a partner's internal state by treating every micro-expression as a meaningful offer.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal Pairs) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Partners stand facing each other at arm's length in a quiet space. They establish soft, steady eye contact. They make light physical contact: one partner places a hand palm-up, and the other rests their palm down on top of it. No gripping or holding; just a light, resting connection.
 

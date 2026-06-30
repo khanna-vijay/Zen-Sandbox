@@ -80,20 +80,6 @@ This exercise turns audience attention into a live, physicalized feedback loop f
 
 **Objective:** To develop advanced narrative architecture skills, specifically mastering the Platform and Tilt technique. Players learn to read the room, dynamically adjust stakes, and seamlessly justify sudden plot shifts to keep the audience deeply invested.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-15) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Set up a performance space with two to three active players on stage and the remaining participants acting as the audience. The facilitator stands or sits at the edge of the stage, positioned where the active players can see them in their peripheral vision but the audience's focus remains on the scene. No props are required.
 

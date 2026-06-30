@@ -76,20 +76,6 @@ Players stand in a circle with one facilitator or player in the center who point
 
 **Objective:** To develop split-second peripheral awareness, physical spontaneity, and cohesive ensemble coordination (group mind) under playful pressure.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6+ (ideal 8-15) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Have all players stand in a wide, clear circle facing inward. Designate one player to start in the center as the 'pointer.' No props or materials are required.
 

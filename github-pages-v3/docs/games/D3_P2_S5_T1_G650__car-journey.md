@@ -77,20 +77,6 @@ Five players sit in a simulated car, embarking on an unusual journey. By startin
 
 **Objective:** To master the C.R.O.W. framework (Character, Relationship, Objective, Where) and establish a solid Base Reality before relying on verbal exposition.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 5) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | chairs |
-| Audience | not required |
-
 ## Setup
 Arrange five chairs to mimic a standard car: two in the front row (driver and passenger), three in the back row. The rest of the group watches as an active audience. No physical props are used other than the chairs.
 

@@ -78,20 +78,6 @@ Two players perform a scene while periodically drawing random, pre-written audie
 
 **Objective:** To develop the skill of justification (specifically justifying the absurd) and establishing a strong base reality first, before integrating chaotic external inputs.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-4) |
-| Time | ~8 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | bucket, slips of paper, pens |
-| Audience | required |
-
 ## Setup
 Before the game, the audience writes random, single-sentence phrases on slips of paper. These are folded and placed in a bucket (or hat) on stage. Two players stand in the performance space, with the bucket easily accessible (either on a stool or held by a host/player).
 

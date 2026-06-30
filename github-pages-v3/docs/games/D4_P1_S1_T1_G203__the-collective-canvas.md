@@ -80,20 +80,6 @@ An ensemble-driven exercise where players physically construct a complex, abstra
 
 **Objective:** To develop deep physical and conceptual Group Mind, training players to use peripheral awareness to synthesize abstract physical forms into a unified, emergent narrative.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | high |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, spacious room free of obstacles. Players stand in a wide circle. No props or materials are required.
 

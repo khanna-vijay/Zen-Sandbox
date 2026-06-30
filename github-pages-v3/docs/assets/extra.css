@@ -23,8 +23,23 @@
 /* De-linked reference/quote citations: keep the link color, but not clickable. */
 .md-typeset .ref { color: var(--md-typeset-a-color); }
 
-/* Remove the right-hand Table of Contents on every page — keep only the left nav. */
-.md-sidebar--secondary { display: none !important; }
+/* Right-hand Table of Contents: larger text, each entry in its own outlined cell. */
+.md-sidebar--secondary .md-nav__title { font-size: 1.05rem; }
+.md-sidebar--secondary .md-nav__list .md-nav__item { margin: .28rem 0; }
+.md-sidebar--secondary .md-nav__link {
+  font-size: 1.25rem;            /* ~2x the default TOC text */
+  line-height: 1.3;
+  border: 1px solid var(--md-default-fg-color--lighter);
+  border-radius: .4rem;
+  padding: .28rem .55rem;
+  transition: border-color .15s, background .15s, color .15s;
+}
+.md-sidebar--secondary .md-nav__link:hover,
+.md-sidebar--secondary .md-nav__link--active {
+  border-color: var(--md-accent-fg-color);
+  background: var(--md-default-fg-color--lightest);
+  color: var(--md-primary-fg-color);
+}
 
 /* ── Readable type baseline ──────────────────────────────────────────────────
    Minimum content font size = 125% of the theme's default body text
@@ -150,3 +165,40 @@
 .game-pn .game-pn-next { text-align: right; margin-left: auto; }
 .game-pn .gpn-k { font-size: .72rem; color: var(--md-default-fg-color--light); text-transform: uppercase; letter-spacing: .04em; }
 .game-pn .gpn-t { font-weight: 600; color: var(--md-primary-fg-color); }
+
+/* ===================================================================== */
+/* Dotted vertical column separators in ALL content tables, ALL pages.    */
+/* ===================================================================== */
+.md-typeset table:not([class]) th:not(:last-child),
+.md-typeset table:not([class]) td:not(:last-child) {
+  border-right: 1px dotted var(--md-default-fg-color--light);
+}
+/* On game pages the header row is solid-coloured — use a light dotted line there. */
+.game-page .md-typeset table:not([class]) th:not(:last-child) {
+  border-right: 1px dotted rgba(255, 255, 255, .55);
+}
+
+/* ===================================================================== */
+/* Top navigation tabs: bordered "cells", larger text, clear active state.*/
+/* ===================================================================== */
+.md-tabs__link {
+  font-size: 1.05rem;            /* ~150% of the default tab text */
+  font-weight: 600;
+  opacity: .96;
+  margin: .3rem .2rem;
+  padding: .25rem .7rem;
+  border: 1px solid rgba(255, 255, 255, .35);
+  border-radius: .45rem;
+  transition: background .15s, color .15s, border-color .15s, transform .12s;
+}
+.md-tabs__link:hover {
+  opacity: 1; background: rgba(255, 255, 255, .16);
+  border-color: #fff; transform: translateY(-1px);
+}
+.md-tabs__link--active {
+  opacity: 1; font-weight: 800;
+  background: var(--md-accent-fg-color);
+  color: var(--md-primary-fg-color);
+  border-color: var(--md-accent-fg-color);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, .18);
+}

@@ -70,20 +70,6 @@ Players work in pairs to maintain a continuous dialogue while a facilitator trig
 
 **Objective:** To develop vocal flexibility through gibberish, expand physical expression, and build the capacity to commit 100% to sudden, extreme shifts in performance states.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-20 (even numbers)) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open room with enough space for pairs to stand opposite each other and move freely. No props or materials are required. The facilitator needs a clear way to signal transitions, such as a loud hand clap or a whistle.
 

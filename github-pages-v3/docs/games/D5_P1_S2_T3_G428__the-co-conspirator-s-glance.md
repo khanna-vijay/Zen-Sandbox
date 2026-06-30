@@ -80,20 +80,6 @@ A scene-based exercise where players establish a subtle, non-verbal connection w
 
 **Objective:** To develop the skill of subtle direct address and audience-energy management. Players learn to treat the audience as an active, silent scene partner, calibrating their physical presence and eye contact to land comedic or dramatic beats without pandering or shattering the scene's internal reality.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-15) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Arrange the space with a clear performance area at the front and seating for the remaining workshop participants, who will act as the active audience. No props or materials are required. The facilitator should stand or sit at the side to observe both the players' eyes and the audience's reactions.
 

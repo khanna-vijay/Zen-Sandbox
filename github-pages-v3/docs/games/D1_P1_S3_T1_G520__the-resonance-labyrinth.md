@@ -81,20 +81,6 @@ A physical exploration game where players move through a room divided into disti
 
 **Objective:** To develop total physical commitment and emotional fluidity by mapping internal states to physical centers, breath patterns, and vocal tones, training players to shift states instantly without intellectualizing.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6+ (ideal 6-12) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Clear a moderate-sized room of obstacles. Mentally divide the space into four quadrants (North, South, East, West) and a center point. Assign a distinct emotional state to each area (e.g., Serenity, Restlessness, Boldness, Hesitation, and Stillness in the center). No props are required.
 

@@ -72,20 +72,6 @@ A structured scene-work drill where players navigate unstated personal boundarie
 
 **Objective:** To develop practical skills in real-time boundary navigation, active listening, and explicit check-ins, while reinforcing the principle of prioritizing personal safety and comfort over scene momentum (Truth Over Pandering).
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~30 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | Boundary Cards |
-| Audience | not required |
-
 ## Setup
 A moderate open space. Prepare a deck of 'Boundary Cards' (slips of paper detailing specific character-based boundaries, such as 'cannot tolerate raised voices,' 'recoils from physical touch,' or 'refuses to answer personal history questions'). The facilitator acts as an active safety monitor.
 

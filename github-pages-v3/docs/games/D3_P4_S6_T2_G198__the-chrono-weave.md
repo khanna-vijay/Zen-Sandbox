@@ -81,20 +81,6 @@ A multi-scene narrative game where players systematically track, reincorporate, 
 
 **Objective:** To develop advanced narrative architecture and justification skills, specifically training players to reincorporate established details not as mere jokes, but as evolving story engines that deepen character relationships and world-building.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-12) |
-| Time | ~25 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | whiteboard or digital whiteboard, markers |
-| Audience | not required |
-
 ## Setup
 Played virtually. The facilitator shares a digital whiteboard screen (such as Zoom Whiteboard or Miro) visible to all participants. Players keep their cameras on when performing and off when in the audience. No physical props are needed.
 

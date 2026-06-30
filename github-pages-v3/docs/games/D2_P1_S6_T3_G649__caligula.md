@@ -72,20 +72,6 @@ Players stand in a close circle, reach in to hold hands with two different partn
 
 **Objective:** To develop physical boundary navigation and active consent skills by negotiating physical contact, practicing verbal check-ins, and maintaining peripheral awareness during close-quarters group movement.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–20 (ideal 8-12) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | high |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, flat floor space with enough room for all players to stand in a tight circle. Before starting, the facilitator must lead a brief discussion on physical boundaries, establishing that any player can pause the action at any time if they feel uncomfortable or unsafe.
 

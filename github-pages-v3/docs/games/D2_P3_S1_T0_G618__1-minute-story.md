@@ -68,20 +68,6 @@ Sixty-Second Biography is a low-energy, high-connection pairing exercise where p
 
 **Objective:** This exercise develops active listening, offer reception, and vulnerability by training players to absorb information without planning their next line, embodying the principle of making their partner a genius.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal Any even number) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | low |
-| Physicality | none |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players form pairs and stand or sit facing each other in a comfortable space. The facilitator needs a stopwatch or timer to track the intervals.
 

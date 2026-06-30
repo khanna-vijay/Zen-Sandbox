@@ -81,20 +81,6 @@ This exercise trains performers to treat the fourth wall as a flexible membrane 
 
 **Objective:** To develop the ability to read audience energy and actively manage it using fourth-wall manipulation, vocal projection, and physical staging adjustments.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | Two large feedback cards or paddles (ENGAGEMENT LOW / ENGAGEMENT HIGH) |
-| Audience | not required |
-
 ## Setup
 Set up a clear stage area with a designated audience seating area. Prepare two large, double-sided cards or paddles: one labeled 'ENGAGEMENT LOW' and the other labeled 'ENGAGEMENT HIGH'. Two to three players stand on stage to perform, while one facilitator sits in the front row of the audience holding the paddles. The remaining players sit in the audience to observe.
 

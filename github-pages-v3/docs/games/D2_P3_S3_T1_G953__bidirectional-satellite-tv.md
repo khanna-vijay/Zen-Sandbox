@@ -75,20 +75,6 @@ In this high-focus exercise, pairs synchronize their minds and bodies by splitti
 
 **Objective:** To build deep partner empathy, active listening, and physical coordination by sharing cognitive leadership, training players to make their partners look brilliant through clear, simple offers.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal pairs) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Pairs stand facing each other with comfortable space to move. For online play, players pin each other's video feeds to ensure direct, uninterrupted eye contact.
 

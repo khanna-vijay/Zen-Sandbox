@@ -83,20 +83,6 @@ A structured scene-work drill where a designated lead performer must instantly a
 
 **Objective:** To develop a performer's conscious control over the fourth wall, training them to read room energy, project to the back row, and treat the audience as an active, live scene partner.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-15) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | index cards with directives, bell, chime, or buzzer |
-| Audience | required |
-
 ## Setup
 Set up a performance space with a clear boundary between the stage and the seated audience (the rest of the workshop group). Prepare a set of index cards with specific audience-interaction directives. The facilitator or a designated co-player sits near the stage with a bell or chime and the cards.
 

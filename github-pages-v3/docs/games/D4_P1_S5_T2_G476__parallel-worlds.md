@@ -77,20 +77,6 @@ A virtual ensemble game where small groups simultaneously improvise distinct sce
 
 **Objective:** To develop thematic synthesis and group mind by training players to actively listen to external narratives and seamlessly weave disparate story threads into their own scene work.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–12 (ideal 6-12) |
-| Time | ~25 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A virtual meeting platform with breakout room capabilities and gallery view enabled. No physical props or space required. The facilitator prepares a list of broad, evocative, open-ended narrative prompts (e.g., 'The day gravity fluctuated by ten percent' or 'An ancient, unidentifiable key is found in multiple locations').
 

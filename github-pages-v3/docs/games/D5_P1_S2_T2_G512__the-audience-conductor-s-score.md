@@ -82,20 +82,6 @@ In this interactive skill drill, improvisers perform a scene while a facilitator
 
 **Objective:** To develop advanced audience-energy management and room-reading skills. Performers learn to treat the audience as an active scene partner, consciously calibrating their physical presence, vocal projection, and comedic timing to land specific emotional or energetic beats.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 8-20) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | whiteboard or screen for score meter, numbered paddles or cards (1-5) |
-| Audience | required |
-
 ## Setup
 An in-person performance space with a stage area and an audience seating area. Prepare a whiteboard or flipchart visible to both players and the audience to track the Score Meter (ranging from 1 to 5). Distribute physical numbered cards or paddles (labeled 1 through 5) to 5 to 10 designated audience members who will act as the scoring panel. Obtain a simple scene suggestion to begin.
 

@@ -83,20 +83,6 @@ A high-focus, paired exercise where players bypass intellectual planning by imme
 
 **Objective:** To develop deep partner attunement, physical empathy, and rapid offer reception by training players to receive, mirror, and verbally validate a partner's non-verbal emotional cues without overthinking.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (played in pairs)) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Divide the group into pairs. Partners stand facing each other in a clear space, about three to four feet apart, maintaining soft eye contact. No props or chairs are needed.
 

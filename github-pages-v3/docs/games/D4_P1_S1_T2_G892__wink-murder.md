@@ -73,20 +73,6 @@ Players stand in a circle, trying to identify a secret "eliminator" who knocks o
 
 **Objective:** To develop peripheral awareness, active listening, and physical commitment by reading subtle cues across a group while maintaining a shared focus.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 8-20) |
-| Time | ~10 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a spacious circle facing inward. No props are needed. Ensure the floor is clear of obstacles to allow for safe physical movement.
 

@@ -87,20 +87,6 @@ A high-attunement partner exercise where players build a shared reality from mic
 
 **Objective:** To develop deep interpersonal attunement, physical empathy, and the ability to instantly endow a partner's physical choices with narrative brilliance and emotional depth.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (per pair)) |
-| Time | ~10 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Pairs stand facing each other in an open space with comfortable distance. No props or chairs are required.
 

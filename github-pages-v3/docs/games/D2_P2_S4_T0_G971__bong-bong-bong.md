@@ -78,20 +78,6 @@ In this high-energy telephone-style game, players attempt to pass a secret phras
 
 **Objective:** Develops active listening, physical offer reception, and vocal commitment by forcing players to accept and replicate abstract physical and vocal offers without overthinking.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 4-8) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Line up four players on stage. Players 2, 3, and 4 turn their backs to Player 1 and cover their ears so they cannot hear or see the initial suggestion. The facilitator prepares a list of common idioms or actions.
 

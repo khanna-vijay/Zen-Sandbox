@@ -77,20 +77,6 @@ A challenging ensemble game where four players portray only two characters acros
 
 **Objective:** To develop deep peripheral awareness, group mind, and thread-tracking skills by matching and maintaining a partner's physical and narrative choices across a physical divide.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–4 (ideal 4) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Divide the playing area into two distinct halves (Left Stage and Right Stage) with a clear, invisible vertical boundary running down the center. Four players participate: two start on the Left Stage, and two wait offstage on the Right Stage.
 

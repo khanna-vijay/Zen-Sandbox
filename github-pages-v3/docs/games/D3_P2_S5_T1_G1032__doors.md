@@ -77,20 +77,6 @@ Thresholds is a rapid-fire, two-person drill designed to build a solid base real
 
 **Objective:** To master the rapid establishment of C.R.O.W. (Character, Relationship, Objective, Where) using physical environment work and immediate verbal agreement, laying a strong foundation for any scene.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-12) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players form two parallel lines facing each other (Line A and Line B). The space between them serves as the stage. No props or special materials are required.
 

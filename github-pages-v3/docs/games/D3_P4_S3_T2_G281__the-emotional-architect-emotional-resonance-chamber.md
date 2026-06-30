@@ -80,20 +80,6 @@ In this exercise, two players build a grounded scene where one carries a secret,
 
 **Objective:** To develop narrative architecture by establishing a stable platform of subtext and executing a compelling narrative tilt. Players learn to use internal emotional states as a narrative engine, shifting from subtle behavioral cues to high-stakes dramatic action.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An in-person playing space with two chairs or a clear stage area. The rest of the group acts as active observers. The facilitator prepares a list of complex, dual-layered emotional prompts (e.g., 'deeply relieved but hiding a secret shame' or 'quietly envious of a close friend's success') to whisper to one of the players before the scene begins.
 

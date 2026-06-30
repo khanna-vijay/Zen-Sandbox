@@ -75,20 +75,6 @@ A structured role-play exercise where players navigate scenes featuring characte
 
 **Objective:** To develop boundary navigation and active listening skills by practicing in-character check-ins, negotiating physical contact, and prioritizing truth over pandering when faced with ambiguous offers.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | Character cards |
-| Audience | not required |
-
 ## Setup
 Prepare a set of character cards detailing roles with intense personal styles or ambiguous but non-malicious intentions (e.g., an over-enthusiastic mentor, an overly helpful neighbor). Arrange the space for a standard two-player scene with the remaining players observing as active listeners.
 

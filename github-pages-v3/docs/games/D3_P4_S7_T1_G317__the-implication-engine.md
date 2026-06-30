@@ -78,20 +78,6 @@ This structured scene-work exercise uses strategic pauses to dissect the ripple 
 
 **Objective:** To train improvisers in stakes-escalation reps by systematically applying the 'if this is true, what else is true' principle to both the physical world and the characters' emotional relationships.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–6 (ideal 3-5) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | hybrid |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two to three active players stand in the performance space, with the remaining players and a facilitator observing. No props or special staging are required; the game can easily run in physical or virtual spaces.
 

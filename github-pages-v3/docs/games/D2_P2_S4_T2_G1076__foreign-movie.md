@@ -78,20 +78,6 @@ Four players collaborate to perform a scene from a fictional foreign film. Two p
 
 **Objective:** To master the art of endowment-acceptance and active listening by seamlessly integrating physical, vocal, and verbal offers between onstage actors and offstage translators.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 4 active players) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Four active players step forward. Two players stand center stage as the 'actors.' The other two players stand downstage-left or downstage-right as the 'translators' (or 'subtitlers'). The facilitator asks the audience (or remaining group) for a fictional film genre or a simple location to inspire the scene.
 

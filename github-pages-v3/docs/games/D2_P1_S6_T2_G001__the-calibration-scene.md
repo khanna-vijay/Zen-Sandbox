@@ -75,20 +75,6 @@ A two-player scene study where improvisers must explicitly ask for and receive v
 
 **Objective:** To develop advanced boundary navigation and active listening skills, teaching players to value truth over pandering by using structured pause-and-reset calls to align artistic choices with personal safety.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 players at a time (6-12 total)) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two players stand in the performance space while the rest of the group acts as active observers. No props are needed. The facilitator prepares a list of high-stakes, close-proximity relationships.
 

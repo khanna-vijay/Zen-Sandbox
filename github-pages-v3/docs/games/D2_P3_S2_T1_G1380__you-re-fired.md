@@ -78,20 +78,6 @@ Two players perform a brief, pre-written scene with fixed dialogue and actions. 
 
 **Objective:** To master status modulation and the status seesaw technique, demonstrating how physical choices and emotional justification can elevate a partner's performance and transform a static text.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (with workshop observers)) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two chairs facing each other or a simple desk setup. The rest of the group acts as active observers. No physical props are needed; all items (door, paper) are mimed.
 

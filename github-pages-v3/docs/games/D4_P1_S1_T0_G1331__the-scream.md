@@ -74,20 +74,6 @@ A fast-paced, high-energy circle game where players look down, then look up to l
 
 **Objective:** To build intense focus, rapid reaction times, and a shared group rhythm while practicing unfiltered spontaneity and embracing sudden failure with joy.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 10-25) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a shoulder-to-shoulder circle in an open space. No props or materials are required. Ensure there is enough room for players to step back safely when eliminated.
 

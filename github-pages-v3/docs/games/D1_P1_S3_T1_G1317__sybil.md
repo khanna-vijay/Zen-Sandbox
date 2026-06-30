@@ -80,20 +80,6 @@ A high-energy, advanced solo long-form format where a single performer populates
 
 **Objective:** Develops 100% physical and vocal commitment, rapid character differentiation using physical centers, spatial anchoring, and solo narrative architecture.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 1–1 (ideal 1) |
-| Time | ~30 min |
-| Complexity | 5/5 |
-| Skill level | proficient |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 A clear performance space with an audience. No props or chairs are needed, though the stage must be completely clear of obstacles. The performer stands center stage.
 

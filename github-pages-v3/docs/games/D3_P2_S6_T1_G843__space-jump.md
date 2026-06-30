@@ -78,20 +78,6 @@ Players build a series of nested scenes, adding one player at a time based on fr
 
 **Objective:** Develops rapid physical justification, establishes a strong base reality instantly, and trains players to support their scene partners by making sense of unexpected physical shapes.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 5-8) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a line or semi-circle at the back of the playing space (the backline). The stage area should be clear of obstacles. No props or chairs are required.
 

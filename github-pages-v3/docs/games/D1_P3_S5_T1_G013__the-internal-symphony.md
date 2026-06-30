@@ -85,20 +85,6 @@ One player stands at the center of their own mind, surrounded by peers who embod
 
 **Objective:** Develops the capacity to hold space in silence, process complex emotional inputs without immediate reaction, and practice vulnerability by revealing internal conflict through subtle physical shifts before committing to a spontaneous choice.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 One player stands in the center of the room. The remaining players stand in a wide semi-circle around them, spaced at least an arm's length apart. Each surrounding player is assigned a specific emotional archetype (e.g., The Cautious Protector, The Reckless Optimist, The Analytical Judge). No props are needed.
 

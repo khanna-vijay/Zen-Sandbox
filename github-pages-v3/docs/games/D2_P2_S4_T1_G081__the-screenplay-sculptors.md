@@ -76,20 +76,6 @@ This is a collaborative, virtual storytelling game where players build a cohesiv
 
 **Objective:** To develop advanced offer reception and active listening by forcing players to seamlessly integrate highly specific, restricted personal prompts into an unfolding group narrative without disrupting the story's organic architecture.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–12 (ideal 6-12) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A virtual meeting room with all participants in gallery view. The facilitator needs the ability to send private direct messages to individual players and spotlight or pin specific video feeds. Ensure the platform setting that allows participants to rename themselves is enabled. No physical props or materials are required.
 

@@ -80,20 +80,6 @@ A non-narrative ensemble exercise where players collaboratively construct and sh
 
 **Objective:** To develop deep group mind, peripheral awareness, and physical stage-picture composition by prioritizing collective emotional resonance over individual narrative or character-driven choices.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear, open performance space. Four to eight players stand in a loose semi-circle or around the perimeter of the space, ready to enter. No props or chairs are needed.
 

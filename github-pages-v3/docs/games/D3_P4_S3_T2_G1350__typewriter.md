@@ -77,20 +77,6 @@ A narrative-driven scene structure where a designated narrator sits at an imagin
 
 **Objective:** To master narrative architecture by balancing narration and active scene work, specifically practicing how to establish a stable platform and introduce a compelling tilt that drives the story forward.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 4-8) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Place a single chair downstage left or right for the Narrator. The rest of the stage remains clear for the active players. No physical props are needed; the typewriter is entirely mimed.
 

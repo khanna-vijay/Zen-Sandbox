@@ -76,20 +76,6 @@ Players begin a grounded scene as a family unit engaged in a mundane household a
 
 **Objective:** To develop the skill of justification by finding logical, character-driven reasons for sudden emotional shifts, while preserving a strong base reality and practicing emotional commitment.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-6) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Four to six players stand in the performance space. The facilitator asks the audience or remaining players for a mundane household chore or family activity (such as folding laundry, assembling flat-pack furniture, or preparing a holiday meal). No physical props are used; players rely entirely on object work.
 

@@ -75,20 +75,6 @@ In this physical ensemble exercise, one player initiates a scene by performing a
 
 **Objective:** To develop physical support work, spatial awareness, and group mind by physically manifesting a shared environment, reinforcing the base reality of a scene through collaborative world-building.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open playing space with no physical props or chairs. Players stand in a semi-circle or line at the back of the stage, ready to enter the playing area.
 

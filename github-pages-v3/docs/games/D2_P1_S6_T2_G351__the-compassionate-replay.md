@@ -74,20 +74,6 @@ This exercise provides a structured, low-stakes environment for players to pract
 
 **Objective:** To develop practical boundary navigation and active listening skills, specifically training players to use constructive cut calls to negotiate physical contact, emotional intensity, and character integrity without losing creative momentum.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–6 (ideal 3-6) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Arrange the group in a semi-circle with two to three active players in the performance space and the remaining participants acting as active observers. No props or special materials are required. Before starting, have players spend thirty seconds internally identifying one personal soft boundary (a preference to navigate carefully) and one hard boundary (an absolute limit) for the session.
 

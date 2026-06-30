@@ -77,20 +77,6 @@ The Quiet Storm is a virtual, low-energy skill drill where players practice hold
 
 **Objective:** To develop mastery over the boundary between internal experience and external expression, training players to hold high-intensity emotional states without over-acting, and to value silence, stillness, and micro-physicality.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–10 (ideal 3-10) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | low |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players join a virtual meeting platform in gallery view. Each player sits comfortably in front of their camera, framed from the chest up, ensuring their face and shoulders are clearly visible. The environment should be quiet and free from distractions.
 

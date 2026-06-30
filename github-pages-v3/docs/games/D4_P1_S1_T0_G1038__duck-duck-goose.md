@@ -79,20 +79,6 @@ Players collectively manifest a fictional, high-energy children's game on the sp
 
 **Objective:** To develop group mind, peripheral awareness, and physical spontaneity by co-creating a structured activity without verbal negotiation.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-15) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A large, open room free of obstacles. Players stand in a loose circle or scattered throughout the space. No props are needed.
 

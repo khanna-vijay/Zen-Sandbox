@@ -76,20 +76,6 @@ In this exercise, players use a random fortune cookie slip as the immediate insp
 
 **Objective:** To develop a strong base reality (C.R.O.W.) by practicing immediate justification, offer reception, and grounded world-building from an arbitrary prompt.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-8) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | Fortune cookies |
-| Audience | not required |
-
 ## Setup
 An open performance space with two chairs. A bowl containing real fortune cookies (or a basket of paper slips printed with classic fortune cookie fortunes).
 

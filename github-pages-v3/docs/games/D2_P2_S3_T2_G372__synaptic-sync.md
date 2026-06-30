@@ -82,20 +82,6 @@ A highly focused two-player scene-building exercise that trains improvisers to l
 
 **Objective:** To develop deep interpersonal attunement and single-partner empathy by practicing emotional-echo drills, active gifting, and status modulation in real-time.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two players stand facing each other in a shared performance space. No props or special materials are required. The facilitator establishes a simple, open-ended relationship context to ground the interaction.
 

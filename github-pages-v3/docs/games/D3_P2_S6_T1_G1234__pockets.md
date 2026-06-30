@@ -74,20 +74,6 @@ Two players establish a grounded base reality before periodically drawing random
 
 **Objective:** To develop advanced justification skills (specifically justifying the absurd) and reinforce the importance of establishing a strong base reality before introducing chaotic elements.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–2 (ideal 2) |
-| Time | ~7 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | slips of paper, pens, pockets or containers |
-| Audience | required |
-
 ## Setup
 Provide the audience with small slips of paper and pens before the session or show. Ask them to write down single, complete, and relatively mundane or slightly unusual sentences. Fold these slips and distribute three to each of the two performing players. Players must place these slips into their pockets (or designated containers) without looking at them. The performance space requires a clear stage area for two players and seating for the audience.
 

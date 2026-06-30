@@ -74,20 +74,6 @@ Players stand in a circle and collaboratively construct a single, grammatically 
 
 **Objective:** To develop group mind, active listening, and thread-tracking by requiring players to monitor grammatical flow, thematic consistency, and collective timing without a designated leader.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle facing inward. No props or special materials are required.
 

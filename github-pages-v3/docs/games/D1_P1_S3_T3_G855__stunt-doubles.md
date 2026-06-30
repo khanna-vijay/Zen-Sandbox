@@ -75,20 +75,6 @@ Two actors initiate a grounded, dialogue-driven scene. At key moments of physica
 
 **Objective:** To develop physical commitment, weight and resistance mime, and the ability to build a scene's reality through physical consequences rather than just verbal exposition.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 4-5) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Four players stand in the playing space. Two players step forward to begin the scene, while the other two stand at the sides of the stage as the designated stunt doubles. No physical props are used; all objects must be mimed.
 

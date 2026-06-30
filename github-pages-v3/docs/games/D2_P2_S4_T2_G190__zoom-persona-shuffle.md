@@ -83,20 +83,6 @@ A fast-paced virtual scene-work game where players must immediately accept and j
 
 **Objective:** Develops rapid offer reception and endowment-acceptance by forcing players to instantly 'Yes, And' unexpected visual and textual changes to their environment and identity.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–12 (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | Zoom desktop client, Pre-loaded Zoom virtual backgrounds, Pre-loaded Zoom video filters |
-| Audience | not required |
-
 ## Setup
 Played on a video conferencing platform on desktop or laptop computers. All participants must pre-load a variety of virtual backgrounds and video filters. Two active players are spotlighted, while the remaining participants act as 'shufflers' using the chat.
 

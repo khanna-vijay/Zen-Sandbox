@@ -83,20 +83,6 @@ A structured, meta-cognitive training game where players must explicitly state t
 
 **Objective:** To develop a conscious mastery of narrative architecture and story progression. Players learn to identify the structural needs of a scene in real-time, deliberately applying stakes, obstacles, and relationship shifts to serve the overall story.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | whiteboard, cards, projector, visual list of scene moves |
-| Audience | not required |
-
 ## Setup
 For a virtual classroom: Share a digital slide, whiteboard, or paste a list of 'Narrative Moves' into the video-conferencing chat. Ensure all players can see the menu throughout the exercise. No physical props are required, but players should have their cameras on and be ready to perform in pairs.
 

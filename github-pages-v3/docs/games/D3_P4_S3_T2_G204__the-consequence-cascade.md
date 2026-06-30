@@ -79,20 +79,6 @@ A dynamic narrative exercise where two active players build a grounded scene, on
 
 **Objective:** To develop advanced narrative architecture and justification skills by training players to seamlessly integrate external plot twists (tilts) into an established platform, instantly elevating stakes and adapting character objectives.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-12 (2 active players)) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | Consequence Cards, Bell or buzzer |
-| Audience | not required |
-
 ## Setup
 Designed for a virtual classroom. The facilitator prepares a digital list or physical deck of 'Consequence Cards' containing major, relationship-altering or situational revelations. The facilitator also needs a bell, buzzer, or a distinct audio cue to signal freezes. Two active players turn their cameras on; remaining participants turn their cameras off to act as the audience.
 

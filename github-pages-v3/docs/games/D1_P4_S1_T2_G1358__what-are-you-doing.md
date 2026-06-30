@@ -75,20 +75,6 @@ A high-energy, fast-paced physical warm-up where players must dissociate their p
 
 **Objective:** To develop unfiltered spontaneity and physical commitment by training players to accept their very first verbal impulse without self-censoring, while instantly translating verbal suggestions into physical space work.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-15) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Have all players form a single-file line facing a designated performance space. No props or special materials are required; just a clear space for movement.
 

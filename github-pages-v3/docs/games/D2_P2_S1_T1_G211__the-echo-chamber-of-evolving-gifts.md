@@ -80,20 +80,6 @@ Two players engage in a structured repetition loop, using a single, unchanging n
 
 **Objective:** To develop advanced active listening, non-verbal offer reception, and status modulation by isolating communication to physical and tonal subtext, adapting the classic Meisner repetition technique to a collaborative "yes-and" framework.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (or multiple pairs)) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in pairs facing each other at a comfortable distance, maintaining soft eye contact. No props or special staging are required; the exercise can be run simultaneously with the entire room paired up, or with one pair performing for the group.
 

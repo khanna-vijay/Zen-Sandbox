@@ -83,20 +83,6 @@ A high-energy ensemble exercise where a small group of players poses as an elite
 
 **Objective:** To develop peripheral awareness, physical support, and the ability to 'follow the follower' by surrendering individual control to the collective movement of the group.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 5-8) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | large_open |
-| Props | music player, sound system, unexpected music tracks |
-| Audience | not required |
-
 ## Setup
 An open physical space with a sound system. The facilitator prepares a playlist of diverse, contrasting music tracks (e.g., heavy metal, classical, synth-pop, polka). A group of 5 to 8 players stands on stage in a tight, dramatic, professional-looking starting formation.
 

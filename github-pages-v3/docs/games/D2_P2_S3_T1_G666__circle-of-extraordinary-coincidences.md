@@ -81,20 +81,6 @@ Players move dynamically around the space, instantly matching and amplifying abs
 
 **Objective:** To develop rapid physical mirroring, deep partner empathy, and the ability to justify abstract offers into clear, shared base realities without pre-planning.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-20) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, clear room where players can move freely. No chairs or props. Players stand scattered throughout the space, ready to move.
 

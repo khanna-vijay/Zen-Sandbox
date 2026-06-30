@@ -77,20 +77,6 @@ Players stand in a circle, each adopting a unique animal persona with a distinct
 
 **Objective:** Develops peripheral awareness, active listening, and group mind by forcing players to track multiple physical and vocal threads simultaneously while maintaining a high-energy rhythm.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 8-15) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Form a standing circle with 5 to 15 players in an open space. Ensure there is enough room for players to make expressive physical gestures safely.
 

@@ -75,20 +75,6 @@ A high-octane, fast-paced scene drill where players are assigned numbers and mus
 
 **Objective:** To develop unfiltered spontaneity and trust in one's first impulses (The First Thought Is a Gift), while practicing rapid offer reception and starting scenes in the middle without intellectualizing.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–12 (ideal 5-10) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Have 5 to 12 players stand in a straight line along the back wall of the playing space. Assign each player a unique number starting from one (e.g., 1 through 8). Ensure the performance space in front of the line is clear of obstacles.
 

@@ -70,20 +70,6 @@ Two players establish a grounded, relationship-driven scene. At some point, one 
 
 **Objective:** Develops the ability to establish a firm base reality first, receive unexpected external offers, and use creative justification to make absurd or disruptive events feel entirely logical within the scene.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-4) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two players stand in the performance space. No props are needed. The facilitator or players agree on the name of the offstage caller (default is 'Ray') and a simple, grounded starting suggestion.
 

@@ -79,20 +79,6 @@ An ensemble physical and vocal exercise where players build a living machine tha
 
 **Objective:** To develop Group Mind and A-to-C suggestion deconstruction by translating abstract thematic prompts into physical and vocal offers, then collectively negotiating a gradual, unscripted transformation.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–12 (ideal 4-12) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open playing space with enough room for 4 to 12 players to move freely and form a connected physical cluster. No props or materials are required. The facilitator prepares pairs of contrasting abstract concepts (e.g., 'Rigidity' to 'Fluidity', 'Isolation' to 'Community').
 

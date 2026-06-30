@@ -80,20 +80,6 @@ A fast-paced character endowment drill where players summon off-stage performers
 
 **Objective:** Develops rapid offer reception, physical and vocal commitment, and the ability to enthusiastically accept extreme endowments.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 4-10) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear stage area with a designated 'off-stage' or 'backstage' zone where players wait. The remaining players start a basic scene in the active space. No props needed.
 

@@ -75,20 +75,6 @@ A high-concentration pairing exercise where one player tells a spontaneous story
 
 **Objective:** To develop deep active listening, rhythmic synchronization, and the ability to split focus between speaking and receiving information simultaneously.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 per pair) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand or sit in pairs facing each other in a shared space. No props or special staging required.
 

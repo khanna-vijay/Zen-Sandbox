@@ -79,20 +79,6 @@ A fast-paced, rotating scene game where four players form a physical carousel. T
 
 **Objective:** To master 'starting in the middle' of scenes and to practice the 'ladder' technique of heightening, where players immediately identify and escalate a scene's core comedic game upon every return.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 4-8) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Four players stand in a square formation on stage. Two players stand downstage (front) facing the audience, while the other two stand upstage (back) facing away or waiting. The facilitator obtains four distinct suggestions (such as a TV genre, an unusual job, a specific relationship, or a movie title) to assign to each of the four possible pairing combinations.
 

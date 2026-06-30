@@ -70,20 +70,6 @@ Accidental Action is a fast-paced physical drill where players move through the 
 
 **Objective:** To train players to trust their physical impulses as valuable first thoughts, developing unfiltered spontaneity and physical space work by finding inspiration in somatic movement rather than intellectual planning.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-20) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, safe room with cleared floor space. No chairs, props, or materials are required. Players stand scattered throughout the space.
 

@@ -74,20 +74,6 @@ A structured scene-work drill designed to normalize active boundary negotiation 
 
 **Objective:** Develops boundary navigation, active listening, and the ability to prioritize personal safety and character truth over automatic compliance.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–6 (ideal 3-6) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear, open playing space with moderate room for movement. No props are required, though the facilitator may write the four key phrases on a whiteboard as a visual reference.
 

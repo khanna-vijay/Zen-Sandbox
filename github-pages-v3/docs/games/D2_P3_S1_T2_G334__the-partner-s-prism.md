@@ -82,20 +82,6 @@ A structured, three-phase partner exercise designed to build deep interpersonal 
 
 **Objective:** To develop advanced active listening, rapid offer integration, and dynamic status modulation by systematically practicing how to receive, amplify, and gift physical and narrative offers to a partner.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal Pairs) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in pairs facing each other, spaced comfortably apart throughout the room. No props or materials are required. The facilitator will guide the pairs through three distinct timed phases.
 

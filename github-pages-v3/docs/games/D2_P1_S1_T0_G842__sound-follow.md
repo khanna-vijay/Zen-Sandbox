@@ -73,20 +73,6 @@ In this exercise, players work in pairs where one partner is blindfolded or has 
 
 **Objective:** To develop deep active listening, establish physical trust, practice boundary navigation, and cultivate peripheral awareness of the shared environment.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-20) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | low |
-| Physicality | medium |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open room cleared of tripping hazards. Players pair up and spread out across the space. No props are required, though blindfolds can be used if players prefer them over simply closing their eyes.
 

@@ -79,20 +79,6 @@ A dynamic scene-work game where players must instantly adapt to sudden stylistic
 
 **Objective:** To develop advanced justification skills by treating abrupt stylistic changes as organic narrative developments, reinforcing the principle of serving the story through extreme adaptability.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | Style cards deck |
-| Audience | not required |
-
 ## Setup
 Two to three players on stage, with the remaining group acting as active observers. The facilitator stands off-stage with a pre-prepared deck of Style Cards representing distinct theatrical genres (e.g., Film Noir, Shakespearean Tragedy, Sitcom, Melodrama, Gothic Horror, Absurdist).
 

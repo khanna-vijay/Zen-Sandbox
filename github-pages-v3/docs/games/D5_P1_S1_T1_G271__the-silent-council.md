@@ -79,20 +79,6 @@ The Silent Council is a high-tension narrative scene-work game where performers 
 
 **Objective:** To develop advanced room-reading and energy-calibration skills, training performers to use silence, stillness, and stage presence to interpret and integrate the audience's collective focus directly into their narrative decision-making.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 10-30) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An in-person performance space with a clear stage area and an audience seated directly opposite. For virtual play, a video conferencing platform with gallery view enabled is required. No props are needed, but a clear physical boundary between the stage and the audience must be established.
 

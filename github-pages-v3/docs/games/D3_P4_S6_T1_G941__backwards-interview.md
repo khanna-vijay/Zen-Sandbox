@@ -75,20 +75,6 @@ Two players perform a talk-show style interview starting from the final sign-off
 
 **Objective:** Develops advanced justification, active listening, and narrative architecture by forcing players to find logical setups for pre-existing conclusions.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–2 (ideal 2) |
-| Time | ~5 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two chairs are placed on stage facing slightly inward toward each other in a talk-show layout. No props are needed. The facilitator obtains a suggestion for a bizarre area of expertise or a unique profession for the guest.
 

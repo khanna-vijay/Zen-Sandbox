@@ -78,20 +78,6 @@ A collaborative, non-verbal ensemble exercise where players construct a multi-se
 
 **Objective:** To develop deep group mind, non-verbal synchronicity, and advanced peripheral awareness by training players to listen, observe, and adapt to the collective stage picture and soundscape without individual ego.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–15 (ideal 5-10) |
-| Time | ~12 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, quiet room with enough space for 4 to 15 players to move freely. No props or materials are required. Players begin scattered across the space in a neutral standing position, with their eyes closed or cast downward to focus their internal attention.
 

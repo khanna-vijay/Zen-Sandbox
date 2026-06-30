@@ -73,20 +73,6 @@ A high-energy, physical warm-up where players run in a circle and instantly reve
 
 **Objective:** To develop peripheral awareness, group rhythm, and the ability to 'follow the follower' by sensing and reacting to collective movement shifts without a designated leader.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 8-20) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A large, open room free of obstacles. Players stand in a wide, evenly spaced circle facing inward. No props needed.
 

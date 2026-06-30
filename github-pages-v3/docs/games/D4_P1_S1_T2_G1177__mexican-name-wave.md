@@ -72,20 +72,6 @@ A high-energy focus warm-up where players stand in a circle and manage two disti
 
 **Objective:** To develop peripheral awareness and group mind by training players to track multiple physical and auditory threads simultaneously without losing focus or pacing.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 8-20) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Have all players stand in a clear, open circle with enough space to raise their arms fully without hitting their neighbors. No props or materials are required.
 

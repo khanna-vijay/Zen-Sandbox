@@ -72,20 +72,6 @@ Players take a trivial pet peeve from the audience and elevate it to a matter of
 
 **Objective:** To master audience-energy management and direct address by turning the crowd into active participants, using vocal projection, eye contact, and rhythmic choruses to build a shared comedic climax.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 1–4 (ideal 1-4) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | required |
-
 ## Setup
 A performance space with a clear boundary between the stage and the audience. No props or instruments are required, though an off-stage keyboardist or a player mimicking an acoustic guitar can assist. Players stand in a line facing the audience.
 

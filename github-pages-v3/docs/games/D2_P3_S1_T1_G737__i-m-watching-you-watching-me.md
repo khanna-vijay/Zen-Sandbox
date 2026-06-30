@@ -74,20 +74,6 @@ This intimate, low-energy exercise pairs players up to sit face-to-face and exch
 
 **Objective:** To develop active listening, empathy, and presence through Meisner-style repetition, training players to read and respond to subtle physical cues rather than intellectualizing their next line.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (in pairs)) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | chairs |
-| Audience | not required |
-
 ## Setup
 Arrange chairs in pairs throughout the room, facing each other directly. The chairs should be close enough that partners' knees are nearly touching, creating an intimate, focused space. No props or materials are required.
 

@@ -85,20 +85,6 @@ An advanced training exercise where an ensemble must rapidly transition between 
 
 **Objective:** To develop advanced format literacy and group mind by training players to instantly recognize, execute, and transition between different long-form and short-form structural mechanics under pressure.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~20 min |
-| Complexity | 4/5 |
-| Skill level | proficient |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open stage space with 4 to 8 proficient players standing on the back line. One facilitator stands off-stage with a clear signaling device (like a handclap or a bell) to call out structural mandates. No props or chairs are required.
 

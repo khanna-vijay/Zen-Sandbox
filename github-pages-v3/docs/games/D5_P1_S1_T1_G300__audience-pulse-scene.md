@@ -75,20 +75,6 @@ In this virtual improv game, two to three active players perform a scene while a
 
 **Objective:** To develop advanced room-reading and energy-calibration skills by treating the virtual audience as an active, silent scene partner whose real-time reactions must be instantly justified and integrated.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 10-30) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | required |
-
 ## Setup
 A virtual meeting room with at least 5 participants (ideally 10-30). The facilitator establishes a clear legend mapping specific platform emojis to distinct emotional or narrative meanings. Active players must set their platform view to grid view so they can easily see both their scene partners and the audience's reaction pop-ups. All non-performing audience members must mute their microphones.
 

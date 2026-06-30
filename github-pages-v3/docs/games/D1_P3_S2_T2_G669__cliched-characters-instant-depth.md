@@ -76,20 +76,6 @@ Players begin a scene as highly exaggerated, cliched archetypes, committing full
 
 **Objective:** Develops emotional fluidity and vulnerability by using emotional substitution—injecting real, personal stakes and authentic self-reflection into highly stylized physical characters.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 8-15) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open playing space with room for physical movement. The group stands in a semi-circle (backline) facing the stage area. No props or chairs are needed.
 

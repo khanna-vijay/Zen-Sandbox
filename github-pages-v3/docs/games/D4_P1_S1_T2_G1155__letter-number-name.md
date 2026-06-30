@@ -74,20 +74,6 @@ This high-energy circle warm-up challenges players to launch, track, and pass mu
 
 **Objective:** Develops peripheral awareness, multi-thread tracking, and physical commitment by forcing players to manage multiple cognitive and physical tasks simultaneously.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6+ (ideal 8-20) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a comfortable, unobstructed circle facing inward. No props or special materials are required.
 

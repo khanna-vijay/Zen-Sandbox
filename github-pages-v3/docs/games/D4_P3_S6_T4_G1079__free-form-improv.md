@@ -75,20 +75,6 @@ An advanced longform improvisation structure where players perform a continuous,
 
 **Objective:** To develop format literacy and longform mechanics by training players to recognize when to edit, how to transition organically, and how to synthesize themes across disparate scenes without a rigid structural template.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 4-10) |
-| Time | ~25 min |
-| Complexity | 4/5 |
-| Skill level | proficient |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear stage area with 2-4 chairs placed off to the sides (the wings). The remaining players stand in the backline (upstage) or offstage, ready to enter. No props are needed.
 

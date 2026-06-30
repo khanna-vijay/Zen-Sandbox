@@ -84,20 +84,6 @@ A dynamic scene-work exercise where players temporarily freeze the action to sha
 
 **Objective:** To develop advanced room-reading and energy-calibration skills, training players to treat the audience's physical presence and non-verbal cues as active, actionable offers that shape character choices and narrative direction.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 A clear performance space with a designated 'confessional zone' slightly downstage of the main playing area. The remaining workshop participants sit close together to form a concentrated audience. Instruct the audience that they must remain completely silent (no speaking or shouting) but are highly encouraged to react physically and facially—using nods, head shakes, gasps, leaning forward, or furrowed brows.
 

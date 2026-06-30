@@ -73,20 +73,6 @@ This exercise challenges players to sustain a single, highly specific genre thro
 
 **Objective:** To develop a sophisticated understanding of narrative architecture and genre-specific storytelling engines, training players to justify unexpected choices and raise stakes within a cohesive stylistic framework.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space. No props or special materials are required. The facilitator should prepare a list of distinct genres along with three to four key narrative tropes or stylistic conventions for each. Players stand in a semi-circle, with two to three players stepping into the playing space to begin.
 

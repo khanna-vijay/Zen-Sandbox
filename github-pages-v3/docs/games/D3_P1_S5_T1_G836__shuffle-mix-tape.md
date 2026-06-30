@@ -85,20 +85,6 @@ Soundtrack Roulette is a performance format where scenes are initiated and guide
 
 **Objective:** To develop physical world-building, emotional fluidity, and the ability to 'start in the middle' by using external audio cues to establish C.R.O.W. (Character, Relationship, Objective, Where) before any words are spoken.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 4-10) |
-| Time | ~25 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | high |
-| Modality | in_person |
-| Space | moderate |
-| Props | Music player / Spotify, Sound system, Pens and paper for audience suggestions |
-| Audience | required |
-
 ## Setup
 An in-person performance space with a clear stage area and seating for an audience. You will need a sound system connected to a digital music player, plus pens and slips of paper for the audience. Before the session, have the audience write down their favorite songs. A designated technician or facilitator compiles these tracks into a randomized playlist.
 

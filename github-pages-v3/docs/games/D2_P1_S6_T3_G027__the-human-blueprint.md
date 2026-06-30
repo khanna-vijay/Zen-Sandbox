@@ -78,20 +78,6 @@ In this exercise, players collaboratively construct a metaphorical physical scul
 
 **Objective:** To develop advanced boundary navigation and physical contact negotiation skills, training players to prioritize authentic personal comfort (Truth Over Pandering) while maintaining creative collaboration.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | low |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | index cards, pens |
-| Audience | not required |
-
 ## Setup
 An open, quiet playing space. Distribute index cards and pens to all players. Have players sit or stand in a circle, with a clear performance area in the center.
 

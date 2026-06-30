@@ -74,20 +74,6 @@ A two-player dialogue exercise where participants must wait a full five seconds 
 
 **Objective:** To develop active listening, offer reception, and comfort with silence. By removing the pressure of immediate response, players learn to receive the offer fully before formulating their next move.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (in pairs)) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | low |
-| Physicality | none |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand or sit in pairs facing each other. No props or special staging are required. The exercise can be run simultaneously for the entire group to maximize participation.
 

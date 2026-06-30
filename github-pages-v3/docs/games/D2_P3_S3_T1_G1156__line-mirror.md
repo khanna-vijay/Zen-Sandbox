@@ -71,20 +71,6 @@ Two parallel lines of players face each other while holding hands within their r
 
 **Objective:** Develops deep physical empathy, peripheral awareness, and the ability to distribute leadership across a connected group.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-20) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | low |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Clear a moderate space. Divide players into two equal lines. Have the lines stand facing each other, about three to four feet apart. Within each line, players stand side-by-side and hold hands.
 

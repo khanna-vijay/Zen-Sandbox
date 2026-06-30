@@ -73,20 +73,6 @@ In this exercise, two actors step forward and deliver their initial lines of dia
 
 **Objective:** To develop advanced justification skills and active listening by forcing players to accept two disparate, simultaneous offers as absolute truth, integrating them into a stable base reality.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-16) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space. The group stands in a circle or sits as an audience. Two players step into the center. No props or special materials are required.
 

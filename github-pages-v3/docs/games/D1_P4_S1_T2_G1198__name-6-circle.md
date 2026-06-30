@@ -72,20 +72,6 @@ In this high-energy circle drill, a player must rapidly call out six items from 
 
 **Objective:** To develop unfiltered spontaneity and rapid-fire decision-making by using a physical countdown to bypass intellectual overthinking.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 8-15) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | tennis ball or knotted towel |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle. The facilitator holds a small, soft, easy-to-catch object such as a tennis ball, a beanbag, or a knotted towel.
 

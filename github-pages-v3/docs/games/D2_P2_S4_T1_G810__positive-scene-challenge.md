@@ -77,20 +77,6 @@ Players stand in two facing lines, forming pairs that must execute a rapid-fire,
 
 **Objective:** To master the foundational skill of 'Yes, And' by establishing a positive base reality, actively gifting partners with supportive choices, and resisting the urge to default to conflict or denial as a source of drama.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6+ (ideal 10-20) |
-| Time | ~20 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Arrange the group into two parallel lines facing each other, so that every player is directly paired with the person opposite them. For virtual play, establish a clear, numbered speaking order in the chat beforehand.
 

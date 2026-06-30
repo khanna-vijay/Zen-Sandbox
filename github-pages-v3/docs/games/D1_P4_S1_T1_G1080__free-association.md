@@ -72,20 +72,6 @@ This is a high-energy, fast-paced warm-up where players stand in a circle and pa
 
 **Objective:** To develop unfiltered spontaneity, active listening, and immediate offer reception by practicing the principle that the first thought is a gift.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-20) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Have all players stand in a circle facing inward. No props or materials are required, just a clear space where everyone can easily see and hear one another.
 

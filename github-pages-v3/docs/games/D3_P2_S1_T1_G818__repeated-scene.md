@@ -74,20 +74,6 @@ In this exercise, a single scene is performed multiple times in succession by di
 
 **Objective:** To develop the ability to identify, isolate, and heighten the 'game of the scene' (the unusual behavior or pattern) by stripping away unnecessary exposition and focusing on the core comedic dynamic.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6+ (ideal 8-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An in-person playing space with two chairs. The rest of the group sits as an active audience, observing the details of each iteration closely.
 

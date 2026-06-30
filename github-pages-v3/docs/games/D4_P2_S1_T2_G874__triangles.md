@@ -73,20 +73,6 @@ In this high-focus movement exercise, players silently select two peers and cont
 
 **Objective:** To develop deep peripheral awareness, non-verbal connection, and the ability to track multiple moving elements simultaneously in a shared space.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6+ (ideal 10-30) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A large, open room cleared of chairs and obstacles. Players stand scattered throughout the space, facing different directions, with comfortable distance between one another.
 

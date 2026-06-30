@@ -72,20 +72,6 @@ Players perform a scene on a stage divided into four invisible quadrants, each a
 
 **Objective:** To develop emotional fluidity and physical commitment by forcing players to instantly shift their emotional state based on their physical location, while practicing the art of logical justification.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–4 (ideal 2-4) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Divide the playing space into four equal quadrants (front-left, front-right, back-left, back-right) using tape, chairs, or imaginary lines. Assign one distinct, high-contrast emotion to each quadrant (e.g., Joy, Anger, Fear, Sadness). Ensure the players know which quadrant represents which emotion before starting.
 

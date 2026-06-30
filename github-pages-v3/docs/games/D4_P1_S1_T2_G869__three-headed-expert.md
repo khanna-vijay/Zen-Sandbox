@@ -81,20 +81,6 @@ In this classic comedy game, three players sit shoulder-to-shoulder to portray a
 
 **Objective:** To develop group mind, peripheral awareness, and thread-tracking skills by forcing players to surrender individual control and build a single linguistic train of thought together.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 4) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Arrange four chairs at the front of the playing space. Three chairs are placed side-by-side for the 'Expert,' and one chair is placed slightly offset for the 'Interviewer.' No props or materials are required.
 

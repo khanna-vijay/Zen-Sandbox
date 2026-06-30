@@ -76,20 +76,6 @@ The Band is a musical long-form format set entirely within a musical group's reh
 
 **Objective:** Develops long-form narrative pacing, character-driven thematic synthesis, and the seamless integration of improvised musical numbers within a sustained dramatic structure.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–8 (ideal 4-6) |
-| Time | ~25 min |
-| Complexity | 4/5 |
-| Skill level | proficient |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Set up a semi-circle of chairs to define the rehearsal space, with designated areas for mimed instruments (drums, keys, guitars, vocals). An audience is present to provide initial suggestions, and an accompanist is recommended.
 

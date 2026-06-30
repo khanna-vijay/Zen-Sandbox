@@ -76,20 +76,6 @@ Players stand in a circle and pass an imaginary ball to one another. As the faci
 
 **Objective:** To develop physical commitment and spatial awareness by using weight, resistance, and muscle tension to make an invisible object look and feel real to the group.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-15) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Have all players stand in a circle with enough space to move their arms and shift their weight comfortably. No physical props are needed.
 

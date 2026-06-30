@@ -68,20 +68,6 @@ In this active, physicalized drill, players line up at one end of the room and a
 
 **Objective:** To bypass the internal editor, embrace the first thought as a gift, and build unfiltered spontaneity by pairing physical action with immediate cognitive association.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 1+ (ideal 2-15) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Clear a wide path across the room. Have all players stand shoulder-to-shoulder at one starting wall, facing the opposite wall. No props or materials are required.
 

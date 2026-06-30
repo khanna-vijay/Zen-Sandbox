@@ -76,20 +76,6 @@ A fast-paced, high-energy circle warm-up where players spread fictional, absurd 
 
 **Objective:** To master the core 'Yes, And' mechanic by instantly accepting a partner's premise and immediately adding a new, escalating detail without overthinking.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-15) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Have all players stand in a circle facing inward. No props or special materials are required; just a clear space where everyone can see and hear each other.
 

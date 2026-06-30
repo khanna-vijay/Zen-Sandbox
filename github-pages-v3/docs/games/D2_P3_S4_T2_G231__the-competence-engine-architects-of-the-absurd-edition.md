@@ -79,20 +79,6 @@ In this exercise, pairs collaboratively design an impossible, highly absurd inve
 
 **Objective:** To develop advanced offer reception and endowment-acceptance by training players to immediately validate their partner's ideas, discover the hidden logic within absurd offers, and elevate their partner's status to that of an absolute genius.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (played in pairs)) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in pairs facing each other. The facilitator stands where they can observe all pairs. No props or special staging are required; minimal physical space is needed.
 

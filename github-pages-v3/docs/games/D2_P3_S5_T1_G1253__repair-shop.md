@@ -75,20 +75,6 @@ One player steps out while the audience establishes a specific object and its hi
 
 **Objective:** To practice active gifting and endowment, training players to deliver clear, physicalized clues that make their partner look brilliant while advancing a shared scene.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-4 players on stage) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An in-person performance space with two chairs representing a shop counter. One player (the Guesser) leaves the room or wears noise-canceling headphones, while the remaining players (the Shopkeepers) and the audience establish the secret object and its specific, absurd defect.
 

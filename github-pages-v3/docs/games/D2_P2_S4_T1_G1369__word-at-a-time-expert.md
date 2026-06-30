@@ -77,20 +77,6 @@ Two players stand shoulder-to-shoulder to portray a single, world-renowned speci
 
 **Objective:** To develop absolute offer reception and active listening by stripping away a player's ability to plan ahead, forcing them to fully commit to their partner's immediate contribution.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–4 (ideal 3) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Three players stand in the performance space. Two players stand close together, shoulder-to-shoulder, representing the "Expert." The third player stands slightly apart, facing them as the "Interviewer." No props or materials are required.
 

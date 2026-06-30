@@ -75,20 +75,6 @@ An ensemble-driven long-form format where scenes transition whenever a character
 
 **Objective:** To master organic editing, narrative pacing, and seamless transitions by using character exits as the primary engine for scene changes.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-10) |
-| Time | ~15 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An open performance space with a clear stage area and an offstage/backline area for waiting players. An audience (or the rest of the workshop group acting as the audience) sits facing the stage.
 

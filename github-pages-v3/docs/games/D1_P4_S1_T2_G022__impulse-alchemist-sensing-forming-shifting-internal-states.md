@@ -83,20 +83,6 @@ Impulse Alchemy is an active, high-energy group game that bridges the gap betwee
 
 **Objective:** To develop unfiltered spontaneity and emotional fluidity by training players to translate pre-cognitive physical sensations into immediate, committed character choices and spontaneous scene initiations.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–10 (ideal 4-10) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | yes |
-| Audience | not required |
-
 ## Setup
 An open, uncluttered room where 4 to 10 players can stand with at least a four-foot radius of personal space. The facilitator needs a simple percussive instrument (like a hand drum, shaker, or woodblock) to maintain a steady, moderate tempo of 60-80 beats per minute.
 

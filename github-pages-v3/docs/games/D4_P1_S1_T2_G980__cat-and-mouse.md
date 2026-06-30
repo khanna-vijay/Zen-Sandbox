@@ -70,20 +70,6 @@ In this dynamic physical warm-up, players form linked pairs scattered across the
 
 **Objective:** Develops peripheral awareness, rapid physical adaptation, group mind, and the ability to transition instantly from bystander to active participant.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6+ (ideal 12-30) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A large, open room free of obstacles. Players pair up, link inside elbows, and scatter themselves evenly across the space. One pair is broken up to create one active Runner and one active Chaser.
 

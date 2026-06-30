@@ -75,20 +75,6 @@ Boundary Canvas is an interactive skill drill where players collaboratively buil
 
 **Objective:** To develop advanced boundary navigation and active listening skills by training players to prioritize personal comfort over narrative compliance, utilizing explicit 'Cut' calls and real-time renegotiation to adapt scenes dynamically.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~25 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | Boundary Cards, Pen/marker |
-| Audience | not required |
-
 ## Setup
 Arrange the space for a standard performance area with the remaining players seated as active observers. Prepare a set of index cards ('Boundary Cards') beforehand, each containing a specific physical, emotional, or social limit (e.g., 'No physical contact without verbal consent', 'No high-status shouting', 'No invading personal space within two feet'). Provide pens and blank cards for players to write their own if preferred.
 

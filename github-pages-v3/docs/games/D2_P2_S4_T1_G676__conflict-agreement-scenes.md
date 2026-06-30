@@ -75,20 +75,6 @@ Two players are placed in a scenario that typically triggers immediate theatrica
 
 **Objective:** Develops advanced offer reception and active listening by training players to bypass defensive instincts, accept high-stakes initiations, and discover collaborative justification.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 at a time (class of 8-16)) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two chairs are placed center stage representing the playing area. The remaining participants sit as an active audience. The facilitator prepares a list of high-stakes, potentially conflict-prone scenarios.
 

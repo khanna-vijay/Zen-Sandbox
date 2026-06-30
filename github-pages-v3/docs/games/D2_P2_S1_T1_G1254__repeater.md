@@ -68,20 +68,6 @@ A foundational two-player scene-building drill designed to enforce deep, active 
 
 **Objective:** To cultivate absolute presence, eliminate pre-planning, and ensure players fully receive and process their partner's offer before formulating a response.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-10) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | low |
-| Physicality | none |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two players stand or sit facing each other in the center of the space. The rest of the group observes as active listeners. No props or special staging are required.
 

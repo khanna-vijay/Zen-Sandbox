@@ -75,20 +75,6 @@ One performer takes the stage as a physical avatar, executing actions dictated e
 
 **Objective:** To develop narrative architecture and collaborative story-building. Players learn to serve the story by offering logical, progressive steps that build on previous actions, practicing active listening and thematic synthesis.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Arrange the group in a semi-circle facing a designated performance space. No props or materials are required. One player volunteers to start in the center as the active performer, while the remaining players act as the collective narrative engine from the audience area.
 

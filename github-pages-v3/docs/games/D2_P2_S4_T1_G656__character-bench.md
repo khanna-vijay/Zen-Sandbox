@@ -77,20 +77,6 @@ A group of players sits on a bench sharing a single collective background, such 
 
 **Objective:** To develop deep offer reception and radical agreement ('Yes, And') by forcing players to treat their peers' spontaneous details as absolute, shared truth, eliminating competitive joke-making in favor of group cohesion.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–10 (ideal 5-6) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | chairs, bench |
-| Audience | not required |
-
 ## Setup
 Arrange 5 to 6 chairs in a straight row facing the rest of the group (who act as the active audience/facilitator). The players sit side-by-side. The facilitator prepares to act as an interviewer.
 

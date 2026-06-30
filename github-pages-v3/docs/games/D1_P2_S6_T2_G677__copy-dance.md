@@ -79,20 +79,6 @@ Players form small teams to create and perform a short, sung-and-danced routine,
 
 **Objective:** To build resilience against mistakes (reframe-the-flub reps) by practicing high-commitment physical performance under pressure, turning memory lapses into confident, shared physical choices.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 10+ (ideal 10-25) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open room with plenty of space for movement. Divide the group of 10 to 25 players into smaller teams of 4 to 5 players. No music players or props are needed; teams will provide their own vocals.
 

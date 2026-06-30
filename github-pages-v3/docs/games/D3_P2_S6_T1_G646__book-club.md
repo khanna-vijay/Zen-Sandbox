@@ -75,20 +75,6 @@ In this comedic scene-work game, two players are restricted to speaking only by 
 
 **Objective:** To develop advanced justification skills (specifically justifying the absurd) and active listening. Players learn to treat random, disconnected inputs as absolute truth, seamlessly integrating them into a grounded relationship and environment.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–4 (ideal 3) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | Two books (usually borrowed from the audience) |
-| Audience | required |
-
 ## Setup
 Three players on stage. Ask the audience to borrow two physical books (ideally of completely different genres, such as a technical manual and a romance novel). Distribute these books to Player B and Player C. Player A remains empty-handed. Obtain a simple relationship or location suggestion from the audience to kick off the scene.
 

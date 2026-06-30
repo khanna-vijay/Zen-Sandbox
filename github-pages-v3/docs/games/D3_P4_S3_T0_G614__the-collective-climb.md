@@ -78,20 +78,6 @@ A collaborative narrative game where four to six players work in unison to overc
 
 **Objective:** To develop narrative architecture and collective story-building by forcing players to subordinate individual comedic or heroic impulses to the overarching needs of a shared group objective.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–6 (ideal 4-6) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space. The facilitator gathers four to six players on stage. No physical props are used. The facilitator prompts the players for a high-stakes, complex crisis that requires a team to solve (e.g., escaping a collapsing mine, disarming a complex mechanism, or navigating a ship through a cosmic storm). The facilitator also establishes a unifying relationship among the characters.
 

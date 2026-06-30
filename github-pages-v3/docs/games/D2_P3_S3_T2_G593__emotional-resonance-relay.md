@@ -86,20 +86,6 @@ A two-player exercise where partners build deep connection by mirroring and incr
 
 **Objective:** To develop deep empathy and mirroring skills by actively receiving, reflecting, and elevating a partner's emotional and status choices, embodying the principle of making your partner a genius.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (or 6-12 in pairs)) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in pairs facing each other at a comfortable distance (about arm's length) in a clear space. No props or materials are required. The exercise can be run simultaneously for the whole room in pairs, or with one pair performing for the group.
 

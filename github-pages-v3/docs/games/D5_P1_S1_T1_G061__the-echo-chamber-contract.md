@@ -79,20 +79,6 @@ This exercise turns the passive training audience into an active, structured sce
 
 **Objective:** To develop advanced room-reading and energy-calibration skills, training performers to treat audience reactions as direct, actionable scene information rather than passive background noise.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 7+ (ideal 8-15) |
-| Time | ~15 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Arrange the space with a clear stage area and seating for at least six audience members. Divide the audience seating into three distinct geographic zones: Front Row (Close), Middle Row (Mid-distance), and Back Row (Far). No props are required.
 

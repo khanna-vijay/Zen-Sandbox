@@ -76,20 +76,6 @@ This is an advanced long-form improvisation exercise where the entire ensemble p
 
 **Objective:** To deepen group mind, heighten active listening, and master format transitions by stripping away physical staging and relying solely on acoustic cues and vocal presence.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–12 (ideal 6-10) |
-| Time | ~25 min |
-| Complexity | 5/5 |
-| Skill level | proficient |
-| Energy | medium |
-| Physicality | none |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An ensemble of 6 to 10 players sits in a comfortable circle on chairs or the floor. The room should be quiet and free of physical hazards. No props or special lighting are required, though the room can be dimmed if preferred. All players must keep their eyes closed throughout the entire duration of the piece.
 

@@ -80,20 +80,6 @@ A dynamic narrative game where a facilitator-driven structural intervention forc
 
 **Objective:** To master the Platform/Tilt technique by rapidly adapting to external narrative disruptions, justifying high-stakes complications, and maintaining narrative cohesion under pressure.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space. Two players start on stage, while a third player (the Catalyst) waits off-stage or at the side, ready to be briefed. The rest of the group acts as active observers. No props or special materials are required.
 

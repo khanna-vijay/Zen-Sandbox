@@ -77,20 +77,6 @@ Scene Carousel is a high-energy, rapid-fire training drill where players rotate 
 
 **Objective:** To develop the ability to rapidly establish a solid base reality (C.R.O.W.) and start scenes in the middle with high commitment and unfiltered spontaneity.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–12 (ideal 6-10) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An active playing space with two designated 'wings' or side-lines where off-stage players stand. Divide the group of 4 to 12 players equally, with half standing on the left side of the stage and half on the right. No props or chairs are needed.
 

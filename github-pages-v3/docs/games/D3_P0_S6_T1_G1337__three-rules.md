@@ -75,20 +75,6 @@ In this scene-work game, players must perform a standard scene while strictly ad
 
 **Objective:** Develops justification skills (specifically justifying the absurd), physical and vocal agility, and the ability to maintain a grounded base reality under extreme constraints.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–6 (ideal 2-4) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Two to four players stand on stage, with the rest of the group acting as the audience. No props are needed. The facilitator prepares to solicit three distinct types of rules from the audience.
 

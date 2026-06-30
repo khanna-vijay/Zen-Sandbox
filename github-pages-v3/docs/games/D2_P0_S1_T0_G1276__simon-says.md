@@ -68,20 +68,6 @@ A high-energy, non-elimination focus game where players execute physical actions
 
 **Objective:** To develop acute auditory active listening and impulse control, training players to respond to the actual verbal offers of their partners rather than anticipating or reacting to visual assumptions.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 10-30) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle or spread out comfortably across the playing space, all facing the facilitator who begins as the Commander. No props are required.
 

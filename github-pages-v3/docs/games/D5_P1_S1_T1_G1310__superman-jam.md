@@ -73,20 +73,6 @@ The Conducted Chant is an interactive group warm-up where the facilitator divide
 
 **Objective:** To develop room-reading and energy-calibration skills. Players learn to monitor the collective vocal output of a crowd and use physical cues to shape pacing, volume, and group focus in real time.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 10+ (ideal 30-200) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An open space or stage facing a seated or standing audience of 10 to 200+ people. No props or materials are required. The facilitator stands at the front where they can be clearly seen by all participants.
 

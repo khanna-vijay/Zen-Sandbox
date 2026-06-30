@@ -75,20 +75,6 @@ Players sit in a circle and silently pass several imaginary objects of varying s
 
 **Objective:** To develop physical commitment and precise object work by practicing the preservation of weight, shape, and texture without verbal communication, while fostering group mind and peripheral awareness.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 8-15) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Have all players sit in a circle close enough to easily pass items to their neighbors. No physical props are needed. The facilitator should designate three to four starting players spaced relatively evenly around the circle.
 

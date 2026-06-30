@@ -77,20 +77,6 @@ In this high-focus ensemble game, three to five players stand shoulder-to-should
 
 **Objective:** Develops group mind, active listening, and thread-tracking skills by requiring players to closely monitor grammar, rhythm, and physical cues to speak as a single entity.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–6 (ideal 3-5) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Players stand in a tight line facing the audience. The facilitator stands to the side to host, introducing the game and soliciting a name for the columnist and a low-stakes problem from the audience.
 

@@ -89,20 +89,6 @@ A structured, three-phase partner exercise that isolates and trains non-verbal s
 
 **Objective:** To develop precise control over status modulation and the 'Status Seesaw' technique, training players to actively gift status, receive subtle physical offers, and make their partner look brilliant by instantly validating their relational choices.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 per playing unit (4+ for group)) |
-| Time | ~30 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | Secret Objective Cards |
-| Audience | not required |
-
 ## Setup
 Divide the group into pairs. Ensure there is enough space for each pair to stand an arm's length apart and move comfortably. Prepare a set of 'Secret Objective Cards' for each pair. The cards should contain one of four prompts: 'Elevate your partner's status,' 'Lower your partner's status,' 'Elevate your own status,' or 'Lower your own status.' Review the physical vocabulary of status (posture, eye contact, breathing, spatial occupation) before beginning.
 

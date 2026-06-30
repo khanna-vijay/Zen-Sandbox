@@ -73,20 +73,6 @@ A quiet, trust-building exercise where partners connect fingertip-to-fingertip. 
 
 **Objective:** To develop deep physical empathy, non-verbal communication, and active listening through touch, embodying the principle of making your partner look and feel secure.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal Pairs) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | low |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open room with a few safe obstacles (like chairs or tables) scattered around. Players pair up and stand facing each other with enough space to move freely.
 

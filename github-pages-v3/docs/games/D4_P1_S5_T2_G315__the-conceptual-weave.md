@@ -85,20 +85,6 @@ A non-verbal, physical, and vocal ensemble exercise where players collaborativel
 
 **Objective:** To develop deep group mind and thematic synthesis by non-verbally exploring abstract concepts, training players to listen with their whole bodies and adapt to subtle collective shifts.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a neutral circle around a clear, moderate-sized playing space. No props are needed. The facilitator or group selects a single abstract noun (e.g., Gravity, Decay, Anticipation).
 

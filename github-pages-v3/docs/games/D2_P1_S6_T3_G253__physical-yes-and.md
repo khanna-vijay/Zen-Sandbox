@@ -77,20 +77,6 @@ A structured scene-work exercise where players explicitly negotiate physical tou
 
 **Objective:** To develop practical boundary navigation and physical contact negotiation skills, ensuring player safety and comfort override scene agreement while maintaining creative momentum.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 4-16) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, clear playing space. Divide the group into pairs. One player starts as the Physical Initiator (PI), and the other starts as the Boundary Responder (BR).
 

@@ -80,20 +80,6 @@ A structured skill drill where players navigate physical proximity and contact b
 
 **Objective:** To develop practical fluency in negotiating physical contact and setting boundaries in real-time. It trains players to prioritize authentic character comfort (Truth Over Pandering) and navigate physical proximity safely without stalling the scene's momentum.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-12) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | Boundary Cards, chairs, blanket, box, rope |
-| Audience | not required |
-
 ## Setup
 Arrange a moderate-sized playing space with a few physical props (two chairs, a blanket, a box, a rope) to suggest confined environments. Prepare a deck of 'Boundary Cards' containing scenarios that require physical closeness or contact.
 

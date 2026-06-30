@@ -85,20 +85,6 @@ A structured, two-player scene engine where improvisers must explicitly validate
 
 **Objective:** To develop deep active listening, emotional mirroring, and the habit of making your partner look like a genius by treating every offer they make as brilliant and absolutely correct.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 per scene (works for groups of 2-20 in pairs)) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | hybrid |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand or sit in pairs facing each other. No props or special staging are required. This can be run in a physical classroom or in virtual breakout rooms.
 

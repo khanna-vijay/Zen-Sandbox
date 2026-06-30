@@ -84,20 +84,6 @@ A progressive, multi-layered somatic exercise where players use their bodies and
 
 **Objective:** To develop emotional fluidity and vulnerability by practicing the Emotional Dial technique, allowing players to layer precise emotional intensities onto physical and vocal baselines without losing their core physical commitment.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–15 (ideal 5-15) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, quiet room with enough space for 5 to 15 players to stand comfortably without touching. No props are required. Players begin standing in a scattered formation, facing away from each other or simply finding their own personal space, starting in a relaxed, neutral stance with their eyes closed.
 

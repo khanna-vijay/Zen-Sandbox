@@ -76,20 +76,6 @@ A structured skill-building exercise where players navigate scenes while secretl
 
 **Objective:** To develop proactive boundary navigation, active listening, and offer reception by practicing real-time check-ins and empowering players to halt scenes when comfort is compromised.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–6 (ideal 3-6) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | Boundary Cards, Scenario Prompts |
-| Audience | not required |
-
 ## Setup
 Prepare a deck of 'Boundary Cards' (each listing a specific physical, emotional, or spatial boundary, e.g., 'no direct eye contact for over 5 seconds' or 'requires verbal permission before physical touch') and a deck of 'Scenario Prompts' (everyday tasks requiring close cooperation). Arrange a moderate playing space for 2-3 active players, with the remaining players observing.
 

@@ -82,20 +82,6 @@ In this dynamic training drill, players perform a standard scene while a facilit
 
 **Objective:** To develop the ability to read a room and consciously control the fourth wall, shifting fluidly between deep scene immersion and direct audience address to manage energy and maintain high engagement.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Arrange the group with 2 to 3 players on stage and the remaining participants sitting as the audience. The facilitator stands or sits clearly visible in the front row, acting as the 'Conductor'. No props or materials are required, though a clear line of sight between the stage and the facilitator is essential.
 

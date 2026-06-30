@@ -75,20 +75,6 @@ One audience volunteer is invited onto the stage to share a lifelong dream or un
 
 **Objective:** To master audience-energy management and direct address by treating a non-improviser as the hero of the story, using active gifting to build a supportive, celebratory narrative.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 4-6 players) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 A performance space with a semi-circle of chairs for the players, plus one special guest chair placed center-stage or slightly downstage-right for the audience volunteer. No props are needed, but a clear boundary between the stage and the seated audience is established.
 

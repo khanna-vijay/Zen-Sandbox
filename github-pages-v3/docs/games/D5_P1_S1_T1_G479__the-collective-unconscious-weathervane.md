@@ -80,20 +80,6 @@ In this advanced exercise, performers treat the silent, collective emotional sta
 
 **Objective:** To develop advanced room-reading and energy-calibration skills, training performers to sense subtle shifts in audience focus and immediately justify those shifts as organic, in-scene realities without breaking the theatrical illusion.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 8-15) |
-| Time | ~15 min |
-| Complexity | 4/5 |
-| Skill level | proficient |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An in-person performance space with a clear boundary between the stage and the audience. The audience (ideally fellow workshop participants, 8-15 players total) sits facing the stage. No props or materials are required. The facilitator prepares the audience to act as a silent emotional sounding board.
 

@@ -75,20 +75,6 @@ Players move dynamically through a shared space, forming rapid, fleeting partner
 
 **Objective:** To develop deep non-verbal connection, rapid partner mirroring, and group mind through shared physical rhythm and spontaneous agreement.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 10-30) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A large, open room free of obstacles. Players stand scattered throughout the space, ready to move. No props are required.
 

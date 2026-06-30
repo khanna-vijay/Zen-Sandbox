@@ -75,20 +75,6 @@ In this scene-based exercise, a group of players interacts with a character who 
 
 **Objective:** To develop absolute commitment to physical space work and active gifting. Players learn to 'show, don't tell' by reacting to imaginary physical stimuli, establishing consistent spatial coordinates, and treating an empty space as a living, breathing scene partner.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–5 (ideal 3-4) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear performance space with no physical props. 3 to 4 players stand ready. One player is designated as the 'Invisible Character' (who will stand off-stage or speak from the sidelines), while the remaining 2 to 3 players start on stage.
 

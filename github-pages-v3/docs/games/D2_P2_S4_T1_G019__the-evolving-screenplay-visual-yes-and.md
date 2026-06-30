@@ -84,20 +84,6 @@ A collaborative virtual storytelling game where players build a narrative both v
 
 **Objective:** To develop deep offer reception and active listening by forcing players to integrate both verbal and visual cues, practicing the core 'Yes, And' principle across multiple modalities.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~25 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | Zoom annotation tools, Shared digital canvas (Google Slides, Jamboard, or Miro) |
-| Audience | not required |
-
 ## Setup
 Host a virtual meeting on a platform that supports screen sharing and participant annotations. Open a blank shared digital canvas (such as a collaborative whiteboard or slide). Ensure all participants have annotation permissions enabled and are in grid view with their text chat window open.
 

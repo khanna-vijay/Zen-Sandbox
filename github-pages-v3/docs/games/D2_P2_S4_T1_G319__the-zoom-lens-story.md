@@ -83,20 +83,6 @@ A collaborative storytelling game designed for virtual spaces where players buil
 
 **Objective:** To develop deep offer reception and physical listening skills in a virtual environment, training players to treat both verbal statements and physical gestures as vital narrative offers that must be accepted and built upon.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–12 (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An online video meeting with all participants on camera in gallery view. The facilitator must have host privileges to spotlight individual video feeds. Participants should position their cameras so their head, shoulders, and hands are clearly visible within the frame. The text chat panel must be open for managing the turn order.
 

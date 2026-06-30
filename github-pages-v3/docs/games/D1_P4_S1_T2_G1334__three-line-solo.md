@@ -72,20 +72,6 @@ A high-energy solo drill where a single performer rapidly improvises both charac
 
 **Objective:** To develop unfiltered spontaneity and trust in one's first thoughts. By forcing rapid-fire character shifts and immediate responses, players learn to bypass analytical hesitation, establish a clear base reality instantly, and commit fully to physical and vocal choices.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 1+ (ideal 1 (or class taking turns)) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear performance space where a single player can stand. The rest of the group acts as supportive observers, ready to offer a simple, one-word suggestion (like an object or location) to kick off each round.
 

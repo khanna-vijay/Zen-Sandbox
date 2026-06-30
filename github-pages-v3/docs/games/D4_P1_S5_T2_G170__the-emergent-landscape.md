@@ -81,20 +81,6 @@ An ensemble-building exercise in two distinct phases: a silent physical phase an
 
 **Objective:** To develop the ability to weave disparate physical and sonic offers into a unified thematic narrative, strengthening group mind and training players to serve the collective piece over individual performance.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–8 (ideal 4-8) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear, open playing space with enough room for 3 to 8 players to move freely and form a physical tableau. No props or materials are required. Players start standing offstage or along the perimeter of the space.
 

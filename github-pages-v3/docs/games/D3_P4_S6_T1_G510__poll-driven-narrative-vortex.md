@@ -81,20 +81,6 @@ A high-energy virtual game where active players improvise a scene that is period
 
 **Objective:** To build rapid justification skills and narrative agility under pressure, training players to treat disruptive, audience-imposed constraints not as obstacles, but as logical and necessary plot points that serve the story.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 8-20) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | yes |
-| Audience | required |
-
 ## Setup
 Conducted on any video conferencing platform. The facilitator prepares 3 to 5 multi-choice prompts beforehand, each containing highly contrasting, disruptive narrative choices. Two to four players act as active scene drivers with cameras on, while the remaining participants act as the audience with cameras off, ready to vote using built-in polls, chat-based reactions, or hand-raising.
 

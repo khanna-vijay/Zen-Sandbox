@@ -76,20 +76,6 @@ A rapid-fire, paired warm-up where players match and shift emotional states in r
 
 **Objective:** Develops rapid emotional fluidity, active listening, and non-verbal empathy, training players to say 'yes, and' to their partner's emotional state instantly.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-20 (in pairs)) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Pairs stand or sit facing each other in a shared space. No props or special staging required.
 

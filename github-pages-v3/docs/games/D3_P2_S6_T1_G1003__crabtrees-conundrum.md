@@ -71,20 +71,6 @@ Two players initiate a grounded scene, establishing a clear relationship and env
 
 **Objective:** To develop rapid justification skills and unfiltered spontaneity by forcing players to seamlessly integrate unexpected, phonetically-driven dialogue choices into a grounded base reality.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-6) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two players stand in the performance space. The remaining participants act as an active audience. No props or special staging are required.
 

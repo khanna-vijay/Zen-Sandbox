@@ -74,20 +74,6 @@ In this dynamic scene-work exercise, two active players perform a scene while tw
 
 **Objective:** To develop rapid game identification, active listening, and heightening skills by outsourcing the recognition of comedic patterns to external observers, lowering the cognitive load on the active performers.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 4-12) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear performance space for two players. The remaining players sit or stand as an active audience, with two designated as the active 'Spotters' standing at the edge of the stage.
 

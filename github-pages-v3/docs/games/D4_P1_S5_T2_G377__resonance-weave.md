@@ -79,20 +79,6 @@ Echo Weave is an advanced ensemble exercise that trains players to track, transf
 
 **Objective:** To develop advanced thematic synthesis and group mind by training players to track subtle narrative threads and reintroduce them with altered, deeper meanings (A-to-C progression) rather than literal repetition.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–12 (ideal 4-8) |
-| Time | ~40 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space. Players stand in a backline or a semi-circle. No props or materials are required. The facilitator prepares to take a single, evocative suggestion from the group to serve as the overarching thematic umbrella.
 

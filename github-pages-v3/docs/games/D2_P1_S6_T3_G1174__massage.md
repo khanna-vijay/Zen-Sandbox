@@ -70,20 +70,6 @@ In this physical warm-up, players stand in a circle and offer shoulder contact t
 
 **Objective:** To develop comfort with negotiating physical boundaries, practicing explicit verbal consent, and building peripheral awareness of partner comfort levels.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 8-15) |
-| Time | ~3 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | low |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a comfortable circle with enough space to turn and face each other's backs. No props are required.
 

@@ -82,20 +82,6 @@ A virtual-native improv game designed to transform the limitations of video conf
 
 **Objective:** To master the C.R.O.W. (Character, Relationship, Objective, Where) framework in a virtual space, establishing a robust Base Reality First through collaborative environmental world-building and active visual gifting.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–12 (ideal 8-10) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | Zoom virtual backgrounds, Everyday desk props |
-| Audience | not required |
-
 ## Setup
 Conducted on a video conferencing platform with renaming, virtual backgrounds, and spotlighting enabled. Participants should have two to three everyday desk objects (like pens, mugs, or books) nearby and a small selection of pre-saved virtual backgrounds. The facilitator acts as the technical director, managing the spotlight feature.
 

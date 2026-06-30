@@ -71,20 +71,6 @@ Two players collaborate to build a bridge of logic between three wildly disparat
 
 **Objective:** To develop rapid justification skills, narrative architecture, and the ability to accept and integrate highly absurd or disparate offers seamlessly into a story.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–2 (ideal 2) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | none |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two players stand facing each other in the performance space. No props or physical setups are required. The rest of the group acts as an active audience.
 

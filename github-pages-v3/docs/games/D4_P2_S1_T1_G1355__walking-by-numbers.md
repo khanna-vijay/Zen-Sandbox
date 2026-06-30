@@ -73,20 +73,6 @@ A silent, movement-based ensemble exercise where players coordinate their walkin
 
 **Objective:** To develop deep peripheral awareness, non-verbal connection, and the ability to 'follow the follower' by sharing control of the stage picture without explicit leadership.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-20) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, spacious room free of obstacles. Players scatter randomly throughout the space, standing still, ensuring they can see the entire group in their peripheral vision without staring directly at any one person.
 

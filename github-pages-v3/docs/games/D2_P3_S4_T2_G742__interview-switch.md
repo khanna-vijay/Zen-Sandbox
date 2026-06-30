@@ -79,20 +79,6 @@ Two players sit downstage in an interviewer-and-expert dynamic while the rest of
 
 **Objective:** To practice seamless endowment-acceptance and make your partner look like a genius by instantly adopting the high-status authority, name, and background gifted to you by the interviewer.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 4-8) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | two chairs |
-| Audience | not required |
-
 ## Setup
 Place two chairs side-by-side facing the audience downstage. The remaining players (3 to 8) stand in a line upstage, acting as the queue and the 'directors' who will call for transitions. No physical props are needed other than the chairs.
 

@@ -76,20 +76,6 @@ Two players work together to establish a clear scene foundation from a single, i
 
 **Objective:** To develop rapid world-building and collaborative platform-setting (C.R.O.W.) by training players to treat ambiguous offers as gifts rather than obstacles.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-16) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open playing space. Players stand in a circle or form a line-up. No props or special staging are required.
 

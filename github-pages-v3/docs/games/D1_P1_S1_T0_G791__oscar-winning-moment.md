@@ -82,20 +82,6 @@ Players collaborate on a brand-new scene inspired by a fictional movie title. Ea
 
 **Objective:** To develop uninhibited commitment, physical and emotional heightening, and the ability to share the spotlight by executing and supporting high-stakes theatrical choices.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–5 (ideal 3-4) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space. 3 to 4 players stand on stage. The facilitator or remaining group members act as the audience to provide a fictional movie title and assign one specific 'award category' to each player before the scene begins.
 

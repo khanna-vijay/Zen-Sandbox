@@ -72,20 +72,6 @@ A dynamic, paired narrative exercise where players co-create a scene, but with a
 
 **Objective:** To cultivate rapid offer reception and narrative editing skills. Players learn to detach their egos from their initial ideas, instantly recognize what makes an offer active and narrative-driving, and practice resilient, high-energy pivoting to serve the story.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal Pairs) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in pairs facing each other with comfortable space to move. No props are required. The facilitator prepares a list of everyday or high-stakes starting locations (e.g., 'a dusty attic', 'the edge of a volcano') to kick off each pair's scene.
 

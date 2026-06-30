@@ -71,20 +71,6 @@ A high-stakes, single-use physical exercise where players must embody simple ani
 
 **Objective:** To develop deep character commitment and physical space work by separating the player's meta-knowledge from the character's immediate, lived reality.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 10-20) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, safe room representing a chicken coop. No props are needed. Players spread out across the space.
 

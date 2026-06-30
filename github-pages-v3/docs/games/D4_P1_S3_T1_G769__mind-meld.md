@@ -76,20 +76,6 @@ Two participants stand face-to-face and simultaneously shout out random words. I
 
 **Objective:** To develop Group Mind and A-to-C associative thinking by training players to abandon personal agendas and meet their partner at a conceptual midpoint.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-20) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle. Two players step into the center to face each other. No props or special staging required.
 

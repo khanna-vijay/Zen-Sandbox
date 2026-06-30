@@ -81,20 +81,6 @@ A two-player exercise where one player subtly embodies a secret internal state, 
 
 **Objective:** To develop deep interpersonal attunement, emotional resonance, and active gifting by practicing physical mirroring, precise offer reception, and using 'Yes, And' to guide a partner toward a shared truth.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (per pair)) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in pairs facing each other with comfortable space between them. The facilitator privately assigns Player A (the Gifter) a secret internal state, unspoken intention, or hidden motivation (e.g., 'You are holding a fragile, priceless heirloom you must protect,' or 'You are carrying heavy news that will deeply affect your partner'). Player B (the Receiver) starts with no knowledge of the secret.
 

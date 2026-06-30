@@ -79,20 +79,6 @@ In this fast-paced narrative game, players stand in a line to collectively impro
 
 **Objective:** To develop hyper-focused active listening, seamless narrative hand-offs, and the ability to fail joyfully under pressure.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–10 (ideal 5-8) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Players stand in a straight line facing the audience. One facilitator stands in front of the line, acting as the conductor. The conductor asks the audience for an everyday object or concept that would never normally have an instruction manual.
 

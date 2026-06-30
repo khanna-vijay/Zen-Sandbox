@@ -74,20 +74,6 @@ A longform improvisation format where a cast of players explores a single, uncha
 
 **Objective:** To master longform pacing, spatial consistency, and ensemble-driven narrative architecture by sustaining a single, continuous environment without external edits.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-10) |
-| Time | ~25 min |
-| Complexity | 4/5 |
-| Skill level | proficient |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A performance space with a designated stage area representing the single location. A few chairs can be placed to represent furniture, but otherwise, the space is empty. The rest of the ensemble sits or stands in the wings, ready to enter.
 

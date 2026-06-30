@@ -75,20 +75,6 @@ An ensemble-driven editing game where players use the verbal cue 'Meanwhile...' 
 
 **Objective:** To develop ensemble pacing, rhythmic editing, and thematic synthesis. Players learn to 'serve the piece' by recognizing when a scene has peaked and executing clean, narrative-driven transitions that expand the story world.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space with a clear stage area. The ensemble stands on the wings (sides of the stage) in a 'backline' or 'sideline' formation, ready to enter. No props or materials are required.
 

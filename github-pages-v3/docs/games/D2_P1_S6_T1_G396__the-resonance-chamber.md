@@ -78,20 +78,6 @@ A structured scene-work exercise where players practice navigating personal and 
 
 **Objective:** To develop competent improvisers' ability to navigate boundaries dynamically, utilizing active check-ins and player-level pauses to prioritize personal safety and artistic truth over people-pleasing.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–5 (ideal 3-5) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, moderate-sized playing space. Players stand in a circle to ground themselves. The facilitator establishes a shared non-verbal 'pause signal' (such as a hand over the heart) that any player can use to request an immediate, out-of-character check-in.
 

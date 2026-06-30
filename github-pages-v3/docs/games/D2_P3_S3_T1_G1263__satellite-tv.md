@@ -71,20 +71,6 @@ In this physical partner exercise, players work in pairs to establish a rhythmic
 
 **Objective:** To develop deep physical empathy, active observation, and rhythmic synchronization, training players to support their partner's choices by committing to them with absolute precision.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (in pairs)) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in pairs facing each other with comfortable space to move. No props are needed. The facilitator can establish a steady, slow metronome-like beat (clapping or tapping) to help players keep time.
 

@@ -75,20 +75,6 @@ Players perform a standard relationship-driven scene that is periodically interr
 
 **Objective:** To develop absolute physical commitment and precise object work by translating large-scale physical choices into micro-movements, while training vocal flexibility and narrative continuity under sudden constraints.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–6 (ideal 3-5) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear performance space for two to three active players, with the remaining players observing as an active audience. No props or special materials are required.
 

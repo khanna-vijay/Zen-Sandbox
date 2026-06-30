@@ -81,20 +81,6 @@ A high-energy circle drill where players pass a chain reaction of raw, unfiltere
 
 **Objective:** To develop unfiltered spontaneity and emotional fluidity by training players to instantly translate abstract sensory inputs and peer offers into fully committed physical, vocal, and emotional expressions without intellectualizing.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–15 (ideal 8-12) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle facing inward, leaving enough space between them for full physical movement. No props or materials are required. The facilitator stands outside the circle to deliver the initial prompt and coach the pace.
 

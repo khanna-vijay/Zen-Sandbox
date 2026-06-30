@@ -73,20 +73,6 @@ The Shared Space is a long-form improv format where players establish and mainta
 
 **Objective:** To master the C.R.O.W. framework (Character, Relationship, Objective, Where) by establishing a robust, consistent base reality and using physical world-building to support ongoing narrative threads.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~20 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space with a clear 'stage' area and an 'off-stage' area where players wait. No physical props are used; all furniture, doors, and items must be established through consistent object work. The facilitator asks the group for a specific, mundane, or interesting location (e.g., a laundromat, a hotel lobby, a community garden).
 

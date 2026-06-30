@@ -74,20 +74,6 @@ Synchronized Clap is a high-focus ensemble warm-up where players stand in a circ
 
 **Objective:** To develop group mind, peripheral awareness, and precise non-verbal timing by aligning physical actions with a partner in real-time.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 8-20) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a comfortable circle facing inward. No props or special materials are required. Ensure everyone has a clear line of sight to all other players.
 

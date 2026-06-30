@@ -74,20 +74,6 @@ This is a high-energy, fast-paced solo drill where players step onto the stage o
 
 **Objective:** To develop unfiltered spontaneity and trust in one's immediate impulses, demonstrating that physical commitment instantly generates character depth without the need for mental planning.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-15) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Clear a performance space at one end of the room. Divide the group into two halves: one half forms a supportive queue standing at the side of the stage, and the other half acts as the audience. No props or chairs are required.
 

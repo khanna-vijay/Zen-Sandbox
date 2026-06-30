@@ -80,20 +80,6 @@ The Summons is a structured narrative game played in two distinct acts. In Act I
 
 **Objective:** To master narrative architecture by establishing a clear platform (everyday life) and executing a dramatic tilt (the mysterious invitation), while collaboratively raising stakes and serving the overarching story.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 5-8) |
-| Time | ~30 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An active stage area with chairs available for staging. The facilitator gathers an audience (which can be off-stage players) to provide suggestions. One player is cast as the Antagonist, and 3 to 4 players are cast as the Guests. The audience suggests a remote, inescapable location (e.g., an abandoned lighthouse, a locked museum, a high-altitude observatory).
 

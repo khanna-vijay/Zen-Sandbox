@@ -72,20 +72,6 @@ Two players collaborate to write a formal letter of complaint and its subsequent
 
 **Objective:** Develops deep offer reception, active listening, and unfiltered spontaneity by relinquishing narrative control and practicing absolute 'Yes, And' at the word level.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two players stand facing each other in the center of the space. The facilitator or audience provides a suggestion of a mundane object, service, or situation to complain about.
 

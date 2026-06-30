@@ -81,20 +81,6 @@ An ensemble-driven exercise where players actively identify and name the underly
 
 **Objective:** To develop thematic synthesis and group mind by training players to look past surface-level plot and collaboratively align on the deeper emotional or conceptual truth of a scene.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 4-8) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, moderate-sized playing space. Four to eight players stand in a semi-circle backline facing the playing area. No props or physical materials are required.
 

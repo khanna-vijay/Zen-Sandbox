@@ -74,20 +74,6 @@ In this physical, non-verbal warm-up, the entire group forms a tight, diamond-li
 
 **Objective:** Develops peripheral awareness, non-verbal connection, and the ability to seamlessly pass and receive leadership without verbal cues.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-20) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | high |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A large, open space free of obstacles. Players stand close together in a tight, diamond or wedge formation, all facing the same direction initially.
 

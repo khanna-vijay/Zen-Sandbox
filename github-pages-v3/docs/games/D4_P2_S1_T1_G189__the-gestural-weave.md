@@ -82,20 +82,6 @@ This exercise invites players to tune into the quietest physical offers in the r
 
 **Objective:** To develop high-level peripheral awareness and physical empathy, training players to 'follow the follower' by treating tiny physical shifts as major narrative offers that shape the stage picture.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–12 (ideal 4-8) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | low |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a loose circle or semi-circle in a moderate, open space. The formation must allow every player to easily see the entire group using their peripheral vision, without needing to stare directly at any single person. No props are required.
 

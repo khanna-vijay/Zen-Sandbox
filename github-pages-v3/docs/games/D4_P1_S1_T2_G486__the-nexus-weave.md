@@ -83,20 +83,6 @@ In this physical ensemble exercise, players simultaneously initiate separate, si
 
 **Objective:** To develop advanced peripheral awareness and group mind by tracking multiple narrative threads simultaneously and physically synthesizing them into a single, cohesive story.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–7 (ideal 4-6) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Four to seven players scatter across a moderate, open playing space. No props are needed. The facilitator stands at the edge of the space to guide the transitions and call the final edit.
 

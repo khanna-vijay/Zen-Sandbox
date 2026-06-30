@@ -68,20 +68,6 @@ A rapid-fire verbal warm-up where players speak continuously without logical con
 
 **Objective:** To develop unfiltered spontaneity and the ability to trust the first thought by severing the brain's logical, narrative-building pathways.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 1+ (ideal 1-12) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle. No props or special materials are required; the game can be played in any space with visible objects.
 

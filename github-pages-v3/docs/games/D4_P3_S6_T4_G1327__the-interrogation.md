@@ -78,20 +78,6 @@ The Interrogation is a structured longform format where players alternate betwee
 
 **Objective:** Develops format literacy, narrative architecture, and pacing by balancing high-tension framing scenes with character-driven, non-linear flashbacks.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-10) |
-| Time | ~25 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Set up two distinct performance areas on stage: one side is the dimly lit interrogation room (with a chair for the suspect and space for two detectives), and the other side is the open playing space for flashbacks. No physical props are required.
 

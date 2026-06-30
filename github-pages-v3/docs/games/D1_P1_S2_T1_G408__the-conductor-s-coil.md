@@ -93,20 +93,6 @@ In this high-commitment physical drill, players form a moving chain where each p
 
 **Objective:** To build deep emotional fluidity and physical commitment by practicing rapid, unfiltered transitions between diverse emotional states and intensities using the Emotional Dial technique.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–15 (ideal 8-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, moderate-sized playing space free of obstacles. Players begin standing in a wide circle, leaving the center clear. No props or materials are required.
 

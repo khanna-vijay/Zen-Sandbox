@@ -79,20 +79,6 @@ Two actors perform a grounded scene while an off-stage Director periodically pau
 
 **Objective:** Develops emotional fluidity and rapid physical commitment by training actors to instantly shift their emotional intensity using a scale of 1 to 10 while maintaining narrative justification.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 4-8) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Set up a clear stage area for two actors. Position a third player as the Director in front of the stage, facing the actors. The remaining players sit as active observers, ready to rotate in.
 

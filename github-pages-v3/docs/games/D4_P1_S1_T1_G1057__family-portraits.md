@@ -76,20 +76,6 @@ In this physical ensemble warm-up, players collaborate to build a series of froz
 
 **Objective:** Develops peripheral awareness, physical storytelling, and group mind by training players to read and support the physical offers of others to build a balanced, expressive stage picture.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-15) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear playing space where a group of players can stand together, with the remaining players acting as the audience/observers who will swap in. No props are needed.
 

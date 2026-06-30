@@ -79,20 +79,6 @@ Four players collaborate to perform a single scene split into physical and vocal
 
 **Objective:** To develop deep active listening, peripheral awareness, and radical support by forcing players to share control of a single character's expression.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–4 (ideal 4) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Four players participate. Two players stand in the performance space as the physical actors. The other two players stand at the sides of the stage (off-stage but clearly visible to their respective partners) acting as the voice actors. No props are required, though clear sightlines between partners are essential.
 

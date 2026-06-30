@@ -79,20 +79,6 @@ A structured solo-in-ensemble drill where players physicalize abstract sensory p
 
 **Objective:** To develop emotional fluidity and total commitment by training players to instantly embody abstract feelings, scale their intensity using an emotional dial, and practice mindful self-recovery during moments of sudden stillness.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–15 (ideal 4-15) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, quiet room with enough space for 4 to 15 players to stand comfortably without touching. Players scatter throughout the space, facing away from each other or closing their eyes to maintain an internal focus. No props or materials are required.
 

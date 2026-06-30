@@ -72,20 +72,6 @@ Two players step into a scene with a mundane, transactional suggestion but must 
 
 **Objective:** To develop the C.R.O.W. framework (specifically Relationship) and establish a strong Base Reality First by prioritizing emotional connection and shared history over plot or transactional tasks.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (per turn)) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear performance space for two players, with the rest of the group observing as an active audience. No props or special staging required.
 

@@ -79,20 +79,6 @@ A structured, turn-based narrative game designed for virtual play where two acti
 
 **Objective:** To develop narrative architecture and the ability to raise stakes logically using the 'if true, what else is true' principle, ensuring every story beat is a direct consequence of the last.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Conducted in a virtual meeting space. All players keep their cameras off except for the two active players and the facilitator. No physical props or materials are required.
 

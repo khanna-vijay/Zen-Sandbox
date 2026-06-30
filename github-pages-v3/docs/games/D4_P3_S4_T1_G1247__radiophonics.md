@@ -75,20 +75,6 @@ In this high-energy long-form format, players perform a series of interconnected
 
 **Objective:** To develop ensemble pacing, format literacy, and physical world-building by using diegetic music as both a scenic anchor and an editing tool.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-10) |
-| Time | ~25 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | Sound system, DJ controller, or live musical instruments, Music tracks |
-| Audience | required |
-
 ## Setup
 A performance space with a clear stage area and an audience area. A sound station equipped with a laptop, soundboard, or live musical instruments is positioned with a clear view of the stage. Prepare a curated playlist of diverse musical genres, tempos, and moods.
 

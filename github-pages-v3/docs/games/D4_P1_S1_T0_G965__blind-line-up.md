@@ -73,20 +73,6 @@ A non-verbal ensemble exercise where players must organize themselves into a sin
 
 **Objective:** To develop deep group mind, non-verbal communication, and heightened physical and peripheral awareness by navigating space and boundaries without sight or speech.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-20) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | low |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear, safe room free of tripping hazards. Players stand scattered throughout the space.
 

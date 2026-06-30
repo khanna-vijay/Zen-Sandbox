@@ -76,20 +76,6 @@ One player sits as a highly demanding Monarch, while the rest of the group acts 
 
 **Objective:** To practice active gifting and endowment under pressure, learning to treat every rejection as a gift that defines the scene's reality and elevates your partner's status.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Set up a single chair at one end of the playing space to serve as the throne. The player designated as the Monarch sits on the throne. The remaining players line up at the opposite end of the room, acting as the queue of hopeful courtiers.
 

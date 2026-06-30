@@ -87,20 +87,6 @@ Resonant Echoes is a partner-based exercise where players communicate entirely t
 
 **Objective:** To develop deep, moment-to-moment partner attunement, active listening, and emotional empathy by receiving a partner's multi-modal offer and returning a modulated, generative response.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–20 (ideal 6-20 (in pairs)) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players pair up and stand facing each other at a comfortable distance (about arm's length) in a clear space. No props or materials are required.
 

@@ -82,20 +82,6 @@ A high-energy, spotlight-style drill where a single performer is secretly assign
 
 **Objective:** To develop rapid emotional fluidity and physical commitment by instantly embodying complex, counter-intuitive combinations of feeling and posture, and modulating their intensity without losing authenticity.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–10 (ideal 5-10) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | moderate |
-| Props | Index cards with Emotions, Index cards with Physical Characteristics |
-| Audience | not required |
-
 ## Setup
 Gather 5 to 10 players in a semi-circle facing a designated performance space. Prepare two decks of index cards: one deck containing distinct emotions (e.g., awe, paranoia, grief, ecstasy, disgust) and another containing physical centers or characteristics (e.g., leaden feet, chest-forward, floating crown, twisted spine, trembling knees). Establish a single, neutral, one-sentence phrase that will remain constant for the entire session (e.g., 'The package has arrived').
 

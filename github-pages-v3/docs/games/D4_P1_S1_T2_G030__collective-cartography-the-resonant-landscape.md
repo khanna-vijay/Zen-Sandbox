@@ -86,20 +86,6 @@ Players collaboratively build a dynamic, non-verbal environment using repetitive
 
 **Objective:** To develop Group Mind and Peripheral Awareness by tracking multiple physical and vocal threads, ultimately practicing Suggestion Deconstruction (A-to-C) to ground narrative scenes in abstract physical environments.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–12 (ideal 4-8) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, moderate-sized playing space free of obstacles. Players stand in a loose circle or scattered formation. No props or materials are required.
 

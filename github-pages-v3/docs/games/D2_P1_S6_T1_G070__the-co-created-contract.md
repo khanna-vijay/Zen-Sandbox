@@ -77,20 +77,6 @@ A structured scene-work exercise where players temporarily step out of character
 
 **Objective:** To develop advanced boundary navigation and active listening skills by integrating explicit, out-of-character check-ins directly into the mechanical flow of a scene, prioritizing player safety and truth over people-pleasing.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-12 (2-4 per scene)) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear performance space with two chairs. The remaining players sit in an audience arc to observe. No props or materials are required.
 

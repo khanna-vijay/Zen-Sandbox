@@ -70,20 +70,6 @@ This is a fast-paced, physical warm-up where the entire group attempts to achiev
 
 **Objective:** Develops group mind, peripheral awareness, and the ability to fail joyfully while building rapid, non-verbal connection.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 8-20) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle facing inward, with enough space to move their arms and bend forward safely. No props are needed.
 

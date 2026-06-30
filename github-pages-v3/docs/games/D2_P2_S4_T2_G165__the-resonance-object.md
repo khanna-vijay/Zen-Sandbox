@@ -83,20 +83,6 @@ Two players collaboratively construct a highly detailed, emotionally charged ima
 
 **Objective:** To master endowment-acceptance and offer reception by translating a partner's verbal descriptions into immediate, physical, and emotional reactions before building further.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (or rotating pairs)) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two players stand facing each other in the center of the space. No physical props are used. The facilitator provides a simple, neutral starting prompt, such as 'a stone,' 'a wooden box,' or 'a heavy key.'
 

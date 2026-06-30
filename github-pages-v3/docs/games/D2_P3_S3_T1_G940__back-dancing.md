@@ -76,20 +76,6 @@ Players pair up and stand back-to-back, maintaining constant physical contact al
 
 **Objective:** To develop physical empathy, non-verbal collaboration, and peripheral awareness by learning to read and support a partner's physical choices through touch alone.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-30) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | high |
-| Modality | in_person |
-| Space | moderate |
-| Props | music player, audio tracks of different genres |
-| Audience | not required |
-
 ## Setup
 An open room with plenty of space for pairs to move safely without colliding. A music player with a playlist of three to four distinct musical genres (e.g., classical, funk, electronic, heavy metal) is required.
 

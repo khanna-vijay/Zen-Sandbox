@@ -76,20 +76,6 @@ A collaborative ensemble exercise where players generate a series of independent
 
 **Objective:** To develop Group Mind, peripheral awareness, and the ability to deconstruct suggestions (A-to-C) by extracting abstract themes from scenes and re-contextualizing them in entirely new scenarios.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–7 (ideal 4-7) |
-| Time | ~30 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a semi-circle facing a designated performance space. No props or chairs are required. The facilitator stands to the side to guide transitions if necessary.
 

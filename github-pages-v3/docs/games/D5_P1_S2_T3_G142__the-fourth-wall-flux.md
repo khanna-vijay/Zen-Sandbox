@@ -76,20 +76,6 @@ A structured scene-work drill where players dynamically dissolve and reconstruct
 
 **Objective:** To develop precise audience-energy management, room reading, and vocal projection by intentionally toggling between deep character immersion and direct, purposeful audience address.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An in-person performance space with a clear stage area and an audience area. No props are required. Divide the group so that 2-3 players are on stage, while the remaining participants act as the active audience/observers.
 

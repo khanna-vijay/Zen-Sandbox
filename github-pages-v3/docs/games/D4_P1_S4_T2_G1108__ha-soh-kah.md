@@ -71,20 +71,6 @@ A fast-paced, high-energy elimination game where players pass three distinct voc
 
 **Objective:** To develop rapid-fire physical and vocal coordination, heighten peripheral awareness, and cultivate a playful resilience to failure through a shared rhythmic structure.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 8-15) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a shoulder-to-shoulder circle in an open space. No props or materials are required.
 

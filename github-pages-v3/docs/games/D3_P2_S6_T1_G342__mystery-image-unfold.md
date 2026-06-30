@@ -79,20 +79,6 @@ In this high-energy virtual drill, players establish a grounded scene only to ha
 
 **Objective:** Develops the ability to maintain a grounded base reality while instantly justifying absurd environmental disruptions. It trains players to treat sudden visual changes as immediate, undeniable truths, reinforcing active listening, offer reception, and spontaneous justification.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | 5-10 diverse, visually arresting, and ambiguous images, Zoom screen share capability |
-| Audience | not required |
-
 ## Setup
 Virtual meeting platform set to Gallery View. The facilitator prepares 5 to 10 highly diverse, evocative, and ambiguous images (such as abstract art, bizarre landscapes, or unusual historical photos) pre-loaded in a slideshow. The facilitator must be ready to share their screen and transition between images instantly.
 

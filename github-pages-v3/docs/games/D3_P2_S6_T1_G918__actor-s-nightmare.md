@@ -78,20 +78,6 @@ A two-player scene where one performer reads lines verbatim from a pre-existing 
 
 **Objective:** To develop advanced justification skills, active listening, and the ability to establish and maintain a solid base reality under highly unpredictable constraints.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–2 (ideal 2) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | script, book, printed text |
-| Audience | not required |
-
 ## Setup
 Two players stand in the performance space. One player is handed a physical script, book, or printed text (such as a scene from a classic play, a technical manual, or a comic book) that they have not pre-read. The other player has no props. The facilitator establishes a simple, mundane starting relationship and location.
 

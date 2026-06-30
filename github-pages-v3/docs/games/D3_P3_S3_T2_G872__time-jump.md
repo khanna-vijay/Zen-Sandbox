@@ -69,20 +69,6 @@ A narrative scene-work game where players explore a relationship or situation ac
 
 **Objective:** To develop narrative agility and pacing by bypassing transitional filler and practicing starting in the middle of new, high-stakes platform-and-tilt moments.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 3-6) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two to three active players stand in the performance space. One player or the facilitator acts as the Time Caller off-stage. No props or special staging are required.
 

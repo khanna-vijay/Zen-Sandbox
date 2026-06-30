@@ -71,20 +71,6 @@ Players stand in a line-up and take turns stepping forward to complete a compara
 
 **Objective:** To develop unfiltered spontaneity and trust in one's first instinct by delivering quick, punchy comparisons without self-censoring or overthinking.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 4-8) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Players form a horizontal line facing the audience. The facilitator stands to the side to gather suggestions and manage the tempo.
 

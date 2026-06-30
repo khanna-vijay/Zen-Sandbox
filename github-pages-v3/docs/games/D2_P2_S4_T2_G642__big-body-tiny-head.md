@@ -82,20 +82,6 @@ In this high-energy physical game, players pair up to create composite character
 
 **Objective:** To develop endowment-acceptance, active gifting, and physical justification by forcing players to treat their own body's movements as external offers they must instantly 'yes-and' with their voice and dialogue.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–12 (ideal 4-8) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | high |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space. Four players step forward and form two pairs. In each pair, Player A (the Head) stands in front with their hands behind their back. Player B (the Body) stands directly behind Player A, threading their arms under Player A's armpits to act as the character's arms. The two composite characters face each other.
 

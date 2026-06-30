@@ -75,20 +75,6 @@ Boundary Ballet is a paired physical exercise where partners explore spatial com
 
 **Objective:** To develop somatic self-awareness, non-verbal boundary navigation, and the ability to negotiate physical contact safely by prioritizing personal comfort over theatrical compliance.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (in pairs)) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | low |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Pairs find a dedicated space in the room with at least six feet of clearance around them. No props are required. One player is designated the Responder (stationary) and the other the Initiator (mobile).
 

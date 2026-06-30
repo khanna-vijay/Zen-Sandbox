@@ -81,20 +81,6 @@ In this exercise, two players improvise a scene while holding secret, non-verbal
 
 **Objective:** Develops active listening, subtextual offer reception, and Meisner-style hyper-observation by training players to respond to physical and emotional undercurrents rather than literal dialogue.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 3 (triads)) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | Agenda cards |
-| Audience | not required |
-
 ## Setup
 Divide players into groups of three (triads). Prepare a set of index cards containing simple, non-obvious social agendas (e.g., 'subtly seek approval', 'quietly assert dominance', 'avoid physical proximity'). Each active player receives one initial card, while the facilitator holds the remaining stack.
 

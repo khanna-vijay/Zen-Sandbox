@@ -78,20 +78,6 @@ This exercise trains players to look past the literal definition of an audience 
 
 **Objective:** To develop the skill of reading a suggestion's intent and room reading, helping players move beyond superficial, literal interpretations of prompts to deliver emotionally satisfying, high-clarity scenes that honor the performer-audience contract.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 4-6) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An in-person playing space with a clear stage area and an audience area (which can be populated by other workshop participants). No props or materials are required. For virtual play, ensure all players have functioning microphones and cameras, with a designated facilitator to manage timing.
 

@@ -75,20 +75,6 @@ Two improvisers perform a scene while flanked by two audience volunteers who act
 
 **Objective:** To develop the skill of instant justification by accepting absurd, random inputs and seamlessly weaving them into a grounded base reality.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 4 players on stage) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Two improvisers stand center stage. Two audience volunteers are invited up to stand on either side of the playing area, acting as the 'pillars.' No props are required. The facilitator briefs the volunteers on their role before the scene begins.
 

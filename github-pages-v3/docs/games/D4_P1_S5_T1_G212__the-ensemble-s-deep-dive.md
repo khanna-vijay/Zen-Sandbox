@@ -81,20 +81,6 @@ A sophisticated long-form training game where players perform a standard montage
 
 **Objective:** To develop high-level thematic synthesis, format literacy, and group mind by training players to track narrative architecture in real-time and validate structural callbacks as organic world-building.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–8 (ideal 3-8) |
-| Time | ~30 min |
-| Complexity | 4/5 |
-| Skill level | proficient |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A moderate performance space with a clear stage area and an off-stage line-up area for 3 to 8 proficient players. No props or materials are required. The facilitator secures a single, open-ended suggestion from the group to launch a standard 20-to-30-minute long-form montage.
 

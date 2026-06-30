@@ -76,20 +76,6 @@ Two players engage in a scene while holding cups of water, taking a sip before e
 
 **Objective:** To develop hyper-reactive offer reception and physical commitment by translating verbal statements into immediate, high-stakes physical reactions.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–2 (ideal 2) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | moderate |
-| Props | glasses of water, towels |
-| Audience | not required |
-
 ## Setup
 An open performance space with a slip-resistant floor or towels laid down. Each of the two players receives a cup of clean water and a personal towel. A designated splash zone is established to keep the stage safe.
 

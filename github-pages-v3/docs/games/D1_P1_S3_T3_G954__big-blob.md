@@ -70,20 +70,6 @@ In this physical scene-work drill, players perform an everyday scene in a space 
 
 **Objective:** To develop absolute physical commitment and master weight and resistance mime, training players to split focus between high-intensity physical work and natural, grounded dialogue.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–4 (ideal 2-4) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear, moderate-sized playing space with no physical props. Two to four players stand in the performance area.
 

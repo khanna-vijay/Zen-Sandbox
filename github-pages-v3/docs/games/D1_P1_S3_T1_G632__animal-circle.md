@@ -75,20 +75,6 @@ Creature Circle is a high-energy character generation drill where players collab
 
 **Objective:** To develop total physical commitment, explore distinct character centers, and practice unfiltered spontaneity by instantly embodying a bizarre character prompt without hesitation.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-15) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle with enough space to move comfortably. No props or materials are required. The facilitator stands as part of the circle or just outside to guide the pace.
 

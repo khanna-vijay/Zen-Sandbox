@@ -79,20 +79,6 @@ Two players establish a grounded base reality before one is secretly handed a di
 
 **Objective:** To master the 'Platform and Tilt' technique by establishing a stable base reality, introducing a sudden narrative disruption, and using justification to rebuild a cohesive story arc.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | Revelation Cards |
-| Audience | not required |
-
 ## Setup
 The facilitator prepares several index cards ('Revelation Cards'), each containing a high-impact, narrative-shifting secret (e.g., 'You are an undercover agent investigating your partner,' 'You are experiencing a time loop,' 'You are an artificial intelligence'). Two players stand in the performance space, while the remaining participants observe as active listeners. No special props are needed other than the cards and a writing utensil.
 

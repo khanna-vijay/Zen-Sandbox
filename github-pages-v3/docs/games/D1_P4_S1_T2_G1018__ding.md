@@ -77,20 +77,6 @@ Two players initiate a standard scene while a facilitator stands by with a bell,
 
 **Objective:** To develop unfiltered spontaneity and rapid justification by forcing players to instantly discard their first choice and discover alternative, unexpected offers without hesitation.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 3-6) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | bell or buzzer (optional) |
-| Audience | not required |
-
 ## Setup
 Two players take the stage to perform a scene. A third person (the facilitator or another player) stands nearby holding a bell, a buzzer, or prepared to shout 'Ding!'. The remaining players watch as the active audience.
 

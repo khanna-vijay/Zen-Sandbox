@@ -80,20 +80,6 @@ A high-energy virtual warm-up where players flood the video-conferencing chat wi
 
 **Objective:** To train unfiltered spontaneity and the ability to treat the very first thought as a gift, bypassing the analytical mind to initiate scenes instantly from unexpected text prompts.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–15 (ideal 5-15) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A virtual meeting platform with the public chat window open for all participants. Everyone should be in Gallery View with cameras on. No physical props or materials are required.
 

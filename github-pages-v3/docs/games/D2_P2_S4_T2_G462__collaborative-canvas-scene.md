@@ -86,20 +86,6 @@ In this virtual-native game, two actors improvise a scene while a third player a
 
 **Objective:** To master the art of endowment-acceptance by treating visual, non-verbal inputs as immediate physical realities, sharpening active listening and support work.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | Zoom client with annotation enabled, Digital whiteboard or screen sharing capability, Mouse, trackpad, or drawing tablet |
-| Audience | not required |
-
 ## Setup
 Conducted via a video conferencing platform with screen-sharing and annotation tools enabled for all participants. The facilitator ensures all players know how to access the drawing, stamp, and text tools. The active illustrator shares a blank digital whiteboard, while all other players set their view to side-by-side mode so they can see both the whiteboard and the actors' video feeds clearly.
 

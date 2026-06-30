@@ -78,20 +78,6 @@ One player sits in the hot seat and pulls random, imaginary items from a mimed b
 
 **Objective:** To develop active offer reception and endowment-acceptance, allowing external questions and random physical objects to organically shape a character's voice, posture, and point of view.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–6 (ideal 4-6) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Place one chair at the front of the space for the main player. The other 2 to 5 players sit in a semi-circle facing the chair. No physical props are needed; the bag and all its contents are entirely imaginary.
 

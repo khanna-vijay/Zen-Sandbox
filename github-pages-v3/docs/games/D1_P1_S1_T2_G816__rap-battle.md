@@ -78,20 +78,6 @@ Two players step into the spotlight as contrasting characters to engage in a rhy
 
 **Objective:** To develop unfiltered spontaneity, vocal projection, and rhythmic commitment, training players to trust their first thoughts and fail joyfully when rhymes fall apart.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-16) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 A clear stage area with the remaining players acting as an active, supportive audience. No props are needed, but a steady, simple beat (either clapped by the group, beatboxed, or played from a simple audio source) is required.
 

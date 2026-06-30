@@ -84,20 +84,6 @@ A narrative-focused scene-work game where players establish a clear, repetitive 
 
 **Objective:** Develops the ability to establish a stable platform, identify the scene's behavioral engine, and execute a justified narrative tilt to advance the story.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-12) |
-| Time | ~45 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space. Two active players stand on stage, while the remaining participants sit as an active observing audience. No props or special materials are required.
 

@@ -72,20 +72,6 @@ A solo physical exploration exercise where players embody a real-life acquaintan
 
 **Objective:** To develop deep physical commitment and precise object work by using sensory details and body language to show, rather than tell, a character's internal state and environment.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 1+ (ideal 1-15) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, unobstructed studio space where multiple players can work simultaneously. No physical props are required, but players should have enough room to imagine a front door, furniture, and various rooms.
 

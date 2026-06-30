@@ -76,20 +76,6 @@ A fast-paced, virtual storytelling game where players collaboratively construct 
 
 **Objective:** To master the 'Yes, And' principle by receiving a narrative offer and immediately building upon it from a newly assumed character perspective, sharpening active listening and rapid characterization.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–12 (ideal 6-12) |
-| Time | ~30 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Conducted via a virtual video conferencing platform in Gallery View. All players should have their microphones muted by default. The facilitator acts as the host, managing the spotlight feature and monitoring the chat window. No physical props or materials are required, but players must have renaming permissions enabled.
 

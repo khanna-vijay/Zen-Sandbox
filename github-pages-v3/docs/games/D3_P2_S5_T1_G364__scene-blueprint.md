@@ -78,20 +78,6 @@ A high-focus, two-phase training drill that challenges pairs to construct a robu
 
 **Objective:** To master the rapid, collaborative establishment of C.R.O.W. (Character, Relationship, Objective, Where) using physical space work and implicit dialogue, ensuring a solid base reality before narrative progression begins.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (or 6-12 with rotating pairs)) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open playing space with no physical props. The facilitator needs a stopwatch or timer. The rest of the group sits as an active audience, ready to observe and decode the physical and verbal offers.
 

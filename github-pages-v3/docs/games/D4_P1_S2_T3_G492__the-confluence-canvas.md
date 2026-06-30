@@ -81,20 +81,6 @@ The Living Canvas is a non-verbal physical ensemble exercise where players colla
 
 **Objective:** To cultivate deep group mind, peripheral awareness, and physical support work by training players to read subtle physical offers, commit to spatial architecture, and seamlessly adapt to collective environmental changes without verbal negotiation.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–8 (ideal 4-8) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, clear playing space with no chairs or obstacles. Players stand in a wide semi-circle or perimeter around the playing area. No props are used; all objects and environments are created through mime and physical embodiment.
 

@@ -86,20 +86,6 @@ A quiet, introspective group exercise where players explore highly nuanced emoti
 
 **Objective:** To develop emotional fluidity and self-recovery by training players to consciously access, subtly embody, and cleanly release complex internal states using interoceptive awareness and the emotional dial.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–15 (ideal 4-15) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A quiet, comfortable room with moderate space. Players stand in a wide circle with enough room to move slightly without touching. Soft lighting is ideal to reduce performance pressure and encourage internal focus. No props are needed.
 

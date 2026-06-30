@@ -73,20 +73,6 @@ Nested Epochs is an advanced longform narrative format where an ensemble constru
 
 **Objective:** To develop high-level thematic synthesis, narrative architecture, and ensemble cohesion by training players to track complex multi-era timelines, execute precise physical transitions, and serve a grand, unified story.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-10) |
-| Time | ~60 min |
-| Complexity | 5/5 |
-| Skill level | proficient |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An open stage divided into four distinct physical zones from Stage Left to Stage Right, representing the chronological progression of the four eras. The facilitator obtains four distinct time periods from the audience (e.g., Ancient Egypt, Medieval Europe, Present Day, and a distant cybernetic future) and assigns each to its corresponding stage zone.
 

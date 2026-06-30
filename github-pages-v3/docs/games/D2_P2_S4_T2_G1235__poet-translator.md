@@ -79,20 +79,6 @@ In this game, one player acts as an acclaimed international poet reciting their 
 
 **Objective:** To practice deep offer reception and endowment-acceptance by treating vocal tone, rhythm, and physical gestures as concrete gifts that must be justified and translated into spoken narrative.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–3 (ideal 2-3) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two players stand side-by-side facing the group. No props are needed. One player is designated as the Poet, and the other is the Translator. A third player can optionally act as an interviewer or host to introduce them.
 

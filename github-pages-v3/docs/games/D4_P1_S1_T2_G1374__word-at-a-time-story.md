@@ -77,20 +77,6 @@ Players stand in a circle and collaboratively construct a story, with each perso
 
 **Objective:** Develops group mind, peripheral awareness, and thread-tracking by forcing players to focus on the immediate grammatical needs of a sentence rather than planning ahead.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | none |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a comfortable circle facing inward. No props or special space required.
 

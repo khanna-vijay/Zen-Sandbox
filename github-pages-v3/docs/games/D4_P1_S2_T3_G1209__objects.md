@@ -72,20 +72,6 @@ A physical, non-verbal ensemble game where players work together to construct re
 
 **Objective:** To develop non-verbal group mind, physical support work, and spatial awareness by having players adapt their bodies to complement and complete a collective physical structure.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-20) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear, open room with enough space for players to move around safely. Divide the participants into two equal groups (Group A and Group B). Group A starts on the stage area, while Group B sits as the audience. No props or materials are needed.
 

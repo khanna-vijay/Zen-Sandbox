@@ -83,20 +83,6 @@ A structured scene-work exercise where players temporarily pause the action to s
 
 **Objective:** To master narrative architecture by deliberately applying the Platform/Tilt technique, transforming subtle discoveries into high-stakes character objectives and clear story progression.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space. Two active players stand on stage, while the remaining participants sit as active observers. No props or special materials are required.
 

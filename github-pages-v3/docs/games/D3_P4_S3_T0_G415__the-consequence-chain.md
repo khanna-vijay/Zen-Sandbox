@@ -77,20 +77,6 @@ A dynamic narrative-building exercise where players must explicitly declare the 
 
 **Objective:** To develop a deep, active mastery of narrative architecture and cause-and-effect progression, training players to instinctively heighten stakes and justify every new offer by exploring its immediate and long-term ramifications.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-12) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space. The group stands in a circle or semi-circle to observe, with two players stepping into the center. No props or special materials are required. The facilitator secures a simple, grounded suggestion of a relationship and a location to begin.
 

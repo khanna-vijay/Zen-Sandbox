@@ -80,20 +80,6 @@ This exercise invites players to step into the spotlight and immediately react t
 
 **Objective:** To develop self-recovery and the ability to fail joyfully by training players to bypass their inner critic, embrace unexpected physical or vocal outcomes, and instantly justify them as deliberate choices using the 'and that's exactly what I meant' technique.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–15 (ideal 4-15) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle in a moderate, open space. No props or materials are required. The facilitator stands outside the circle to deliver prompts.
 

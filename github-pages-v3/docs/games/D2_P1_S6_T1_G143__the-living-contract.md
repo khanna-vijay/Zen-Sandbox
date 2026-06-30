@@ -75,20 +75,6 @@ A structured pre-scene negotiation game where players collaboratively design a c
 
 **Objective:** To develop proactive boundary navigation, active listening, and real-time consent check-ins, ensuring players can confidently establish physical and emotional safety parameters without sacrificing creative momentum.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 3-5) |
-| Time | ~25 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, comfortable space for small groups of 3 to 5 players. No props are required. The facilitator prepares a list of emotionally complex or high-stakes scene premises (e.g., estranged business partners meeting, a tense family reunion, or strangers stuck in a stalled train).
 

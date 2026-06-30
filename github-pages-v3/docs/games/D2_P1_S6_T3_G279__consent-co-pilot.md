@@ -76,20 +76,6 @@ A structured partner exercise where players practice checking in with themselves
 
 **Objective:** To develop practical skills in negotiating physical contact, setting and respecting personal boundaries, and practicing active listening and offer reception under pressure, prioritizing personal truth over scenic obligation.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–12 (ideal 4-8) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | PPI prompt cards, Scene starter prompts |
-| Audience | not required |
-
 ## Setup
 Players form pairs. The facilitator prepares two sets of cards: 'Scene Starters' (e.g., two estranged siblings meeting, neighbors over a fence) and 'Physical Action Prompts' (PAPs) which detail specific physical offers (e.g., a warm hug, a hand on the shoulder, a high-five, standing very close). The playing space should be clear of obstacles to allow safe movement.
 

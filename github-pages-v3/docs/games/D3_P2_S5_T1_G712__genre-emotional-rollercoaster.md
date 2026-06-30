@@ -82,20 +82,6 @@ In this high-energy game, three to four players initiate a grounded scene based 
 
 **Objective:** Develops the ability to establish a robust base reality (C.R.O.W.) and maintain narrative continuity while dynamically shifting emotional intensity, physicality, and theatrical style.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–4 (ideal 3-4) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An open performance space with three to four players on stage and a facilitator standing off-stage or near the audience. No props or set pieces are required.
 

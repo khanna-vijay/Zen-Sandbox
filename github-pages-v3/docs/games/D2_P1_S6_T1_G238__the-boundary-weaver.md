@@ -76,20 +76,6 @@ A structured skill drill where players use a physical token to pause a scene and
 
 **Objective:** To develop practical boundary navigation and active check-in techniques, allowing players to confidently propose, modify, or decline high-impact offers without sacrificing psychological safety or scene momentum.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~25 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | Consent Stone (a small, soft object like a beanbag or stress ball) |
-| Audience | not required |
-
 ## Setup
 Gather 4 to 8 players in a circle. Place a small, soft object (like a beanbag or stress ball) in the center of the space to act as the 'Consent Stone.' Define 'high-impact offers' for the group: physical contact, entering close personal space, dictating another character's intense emotional state, or revealing sensitive narrative secrets. Explain that players may use their real-world comfort levels or pre-determine a 'fictional' boundary for their character to practice the mechanics safely.
 

@@ -80,20 +80,6 @@ A narrative-driven scene-work exercise where players use a verbal trigger to inj
 
 **Objective:** To master the 'if this is true, what else is true' principle, specifically training players to identify the platform of a scene, introduce a narrative tilt, and use immediate justification to raise stakes and drive narrative architecture.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-12 (2-3 active)) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space. Two to three active players stand in the playing area, while the remaining players observe as an active audience, ready to rotate in. No props or special materials are required.
 

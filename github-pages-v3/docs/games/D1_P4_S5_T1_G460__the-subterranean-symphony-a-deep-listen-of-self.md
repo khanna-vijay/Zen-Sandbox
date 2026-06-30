@@ -84,20 +84,6 @@ The Silent Symphony is an introspective ensemble exercise that shifts the focus 
 
 **Objective:** To develop deep intrapersonal awareness, master physical stillness, and build the confidence to trust and project the smallest, most authentic internal impulses without overthinking.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–15 (ideal 4-15) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A quiet, comfortable room with moderate space. Players stand or sit in a loose circle, spaced far enough apart to have personal physical boundaries but close enough to sense the group's presence. No props or materials are required.
 

@@ -70,20 +70,6 @@ Players stand in a circle while a central caller challenges individuals to insta
 
 **Objective:** To develop unfiltered spontaneity and cognitive agility by training players to trust their immediate instincts and fail joyfully without self-censorship.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 8-15) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open space where all players can stand in a clear circle facing inward. One player volunteered or selected to start in the center as the Caller. No props or materials are required.
 

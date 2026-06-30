@@ -83,20 +83,6 @@ A physical and vocal conditioning drill where players use physiological postures
 
 **Objective:** To develop emotional fluidity and unfiltered spontaneity by using physical effector patterns to trigger, scale, and release emotional states without cognitive delay.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a spacious circle or spread out across the room, ensuring ample personal space to move and vocalize freely. No props are required. The facilitator stands where they can be clearly seen and heard by all participants.
 

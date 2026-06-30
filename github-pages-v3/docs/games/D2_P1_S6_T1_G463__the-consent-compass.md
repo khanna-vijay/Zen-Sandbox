@@ -76,20 +76,6 @@ A structured scene-work drill where players use a physical freeze signal to paus
 
 **Objective:** To develop proactive boundary navigation and explicit check-in techniques, ensuring players can confidently negotiate physical touch and emotional intensity while upholding the principle of truth over pandering.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A moderate open space. Two players stand in the performance area, while one facilitator (acting as the "Compass Keeper") stands nearby to monitor. The rest of the group observes as active listeners. No props are required.
 

@@ -78,20 +78,6 @@ An advanced ensemble exercise where players collaboratively build and transform 
 
 **Objective:** To develop advanced Group Mind and ensemble-level A-to-C suggestion deconstruction, training players to interpret and evolve a complex, multi-layered group state rather than reacting to isolated individual inputs.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–12 (ideal 5-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a loose, open circle with enough space to move freely and maintain clear sightlines to every other participant. No props or instruments are required. The facilitator prepares a list of abstract nouns, emotional states, or conceptual prompts.
 

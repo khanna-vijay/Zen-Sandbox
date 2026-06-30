@@ -71,20 +71,6 @@ Two players initiate a highly realistic, mundane scene, focusing entirely on bel
 
 **Objective:** To train players in establishing a strong base reality first, resisting the urge to force comedy, and collectively identifying the precise moment a comedic game is born.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-15) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An in-person playing space with two chairs. The remaining players sit as an active audience. No props are needed.
 

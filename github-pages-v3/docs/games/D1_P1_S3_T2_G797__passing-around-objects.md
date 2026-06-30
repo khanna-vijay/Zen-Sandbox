@@ -76,20 +76,6 @@ Players sit or stand in a circle and pass multiple imaginary objects simultaneou
 
 **Objective:** To develop precise physical commitment and object work skills, ensuring imaginary items have consistent weight, volume, and utility while fostering group awareness and active observation.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6+ (ideal 8-15) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Arrange the players in a seated or standing circle with enough space between them to comfortably handle imaginary items. No physical props are required. The facilitator should designate four starting players spaced relatively evenly around the circle.
 

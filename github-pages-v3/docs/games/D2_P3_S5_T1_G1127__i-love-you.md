@@ -77,20 +77,6 @@ Two players take turns singing a structured four-line verse to one another, focu
 
 **Objective:** Develops active gifting, positive endowment, vocal confidence, and deep interpersonal connection through structured musical play.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–2 (ideal 2) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two players stand facing each other at a comfortable distance. No instruments or props are required.
 

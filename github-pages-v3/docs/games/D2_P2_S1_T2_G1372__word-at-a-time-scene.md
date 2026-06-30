@@ -77,20 +77,6 @@ In this active duo exercise, players build a cohesive story by alternating speak
 
 **Objective:** Develops hyper-focused active listening, immediate offer acceptance, and physical commitment by removing the ability to plan dialogue in advance.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two players stand in the center of the playing space. The remaining participants sit as active observers. No physical props are used; all objects and environments must be established through physical mime.
 

@@ -82,20 +82,6 @@ Retroactive Reality Warp is a high-stakes narrative game where players perform a
 
 **Objective:** To develop advanced justification skills, specifically using reincorporation to retroactively align past actions with a newly introduced reality, thereby serving the overall story.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 3-8) |
-| Time | ~15 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Played virtually over a video conferencing platform. Two to three active players start with their cameras on, while the remaining participants and the facilitator keep their cameras off. No physical props or special space are required.
 

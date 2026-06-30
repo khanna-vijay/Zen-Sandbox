@@ -76,20 +76,6 @@ Two players initiate a scene, establishing a stable platform of character and se
 
 **Objective:** To master the 'Platform and Tilt' technique by consciously establishing a stable baseline and seamlessly justifying sudden, high-stakes narrative disruptions to build a satisfying story arc.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An in-person playing space with two chairs or an open stage area. The remaining players sit as an active audience. No props or materials are required. The facilitator acts as the 'Story Editor' or 'Director'.
 

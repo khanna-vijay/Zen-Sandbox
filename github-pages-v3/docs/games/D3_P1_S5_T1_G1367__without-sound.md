@@ -80,20 +80,6 @@ Two players perform a fully realized scene without using any spoken words, vocal
 
 **Objective:** To develop physical world-building, precise object work, and non-verbal communication, forcing players to 'show, don't tell' their C.R.O.W. elements.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | high |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear performance space with moderate room to move. No props or chairs are required, though two chairs can be placed off-stage if needed.
 

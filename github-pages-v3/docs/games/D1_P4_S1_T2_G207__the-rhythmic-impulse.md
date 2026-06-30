@@ -80,20 +80,6 @@ A somatic training drill where players cycle between absolute, mindful stillness
 
 **Objective:** To develop intrapersonal mastery by training unfiltered spontaneity, emotional fluidity, and rapid self-recovery, helping players bypass intellectual self-censorship and embrace their immediate physical and vocal impulses.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-30) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear, open room with enough space for all participants to stand comfortably without bumping into one another. No props are required. The facilitator stands where they can be heard clearly by all.
 

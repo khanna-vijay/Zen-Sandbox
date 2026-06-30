@@ -73,20 +73,6 @@ Word Ball is a fast-paced, low-stakes warm-up where players stand in a circle an
 
 **Objective:** To develop unfiltered spontaneity, active listening, and rapid offer reception by embracing the first thought as a gift.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-15) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Have all players stand in a circle facing inward. Ensure there is clear line of sight between all participants. No physical props are required, though players will use physical gestures to throw and catch the words.
 

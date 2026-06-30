@@ -76,20 +76,6 @@ Two players initiate a scene with a declaration of deep friendship. The facilita
 
 **Objective:** To develop deep offer reception and endowment-acceptance by aligning physical posture and verbal responses with a high-stakes positive relationship.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two players stand or sit in the performance space facing each other. The rest of the group sits as an active, observant audience. No props or special staging are required.
 

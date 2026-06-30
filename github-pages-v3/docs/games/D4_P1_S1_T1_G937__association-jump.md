@@ -74,20 +74,6 @@ A dynamic physical warm-up where players move through the space until one is cal
 
 **Objective:** To develop peripheral awareness, physical commitment, and the ability to read and support a physical offer instantly without verbal planning.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 8-15) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear, open room with enough space for 8 to 15 players to walk around safely. No props or chairs are needed.
 

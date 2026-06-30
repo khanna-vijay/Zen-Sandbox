@@ -74,20 +74,6 @@ A structured, coach-guided scene exercise designed for virtual play where player
 
 **Objective:** To develop a practical understanding of narrative architecture, specifically how to identify a scene's core driving conflict (the 'engine') and use character wants to fuel rising action, climax, and resolution.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–5 (ideal 3-5) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Played virtually via video conferencing with 3 to 5 players. The facilitator prepares to use verbal 'Freeze' cues. No physical props or space are required; players should ensure their cameras are framed well for virtual scene work.
 

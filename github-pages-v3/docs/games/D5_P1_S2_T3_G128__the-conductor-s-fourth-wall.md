@@ -77,20 +77,6 @@ A training drill where a small group of players acts as a live, reactive audienc
 
 **Objective:** To develop audience-energy management and room-reading skills, specifically training performers to recognize audience disconnect and use direct address or physical adjustments to re-engage the room.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 6-10) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Set up a clear stage area facing a small semi-circle of chairs for 3 to 5 players who will act as the Audience Proxies. The remaining players stand on stage or observe. No props are required, but the space should allow for clear sightlines between the stage and the proxy seats.
 

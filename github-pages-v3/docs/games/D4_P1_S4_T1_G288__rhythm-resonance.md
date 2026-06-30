@@ -80,20 +80,6 @@ An ensemble-driven exploration where players weave a tapestry of short, thematic
 
 **Objective:** To develop a heightened sense of group mind and temporal dynamics, training players to use physical pacing, emotional tone, and organic edits to guide a performance without verbal cues.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~7 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A moderate, open playing space. Players stand in a semi-circle (backline) facing the stage area. No props or chairs are needed. The facilitator secures a single abstract noun or emotional suggestion from the group to inspire the run.
 

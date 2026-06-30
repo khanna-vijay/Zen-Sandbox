@@ -82,20 +82,6 @@ A silent, partner-based exercise where players communicate entirely through inte
 
 **Objective:** Develops deep non-verbal attunement, emotional mirroring, and subtle status modulation. It trains players to 'Yes, And' their partner's unspoken energy and presence, building empathy and active listening skills.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (per pair)) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Partners stand facing each other, about two to three feet apart, in a comfortable, neutral posture. Maintain soft, relaxed eye contact. No props or special staging required; can be run simultaneously with multiple pairs in a quiet room.
 

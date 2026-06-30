@@ -73,20 +73,6 @@ A fast-paced, high-energy comedy game where players are presented with random fa
 
 **Objective:** To develop unfiltered spontaneity and rapid justification by training players to trust and deliver their very first thoughts without hesitation.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 4-6) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | required |
-
 ## Setup
 A line of 4 to 6 players stands facing the audience. One player or the facilitator acts as the host, standing to the side to moderate and gather suggestions. No props or materials are required.
 

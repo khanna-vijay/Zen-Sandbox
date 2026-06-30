@@ -82,20 +82,6 @@ A structured, three-phase partner exercise that builds from foundational moment-
 
 **Objective:** To develop hyper-focused active listening, seamless offer reception, and the ability to make your partner look brilliant by assuming absolute competence in their physical and emotional choices.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-20) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open room with enough space for pairs to stand or sit facing each other comfortably. No props or materials are required. The facilitator should be positioned where they can easily observe all pairs and call out structural cues.
 

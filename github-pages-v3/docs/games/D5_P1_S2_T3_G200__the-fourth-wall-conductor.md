@@ -78,20 +78,6 @@ In this exercise, players perform a standard scene while secretly working to eli
 
 **Objective:** To develop precise control over the performer-audience relationship, training players to read the room, manage audience energy, and use direct address to intentionally shape the audience's emotional state.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An active performance space facing a seated audience (the rest of the workshop group). No props are required. The facilitator prepares a list of secret 'Audience Directives' (e.g., make them feel complicit, make them feel deep pity, make them suspicious of a character).
 

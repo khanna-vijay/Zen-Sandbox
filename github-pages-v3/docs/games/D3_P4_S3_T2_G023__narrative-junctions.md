@@ -81,20 +81,6 @@ A scene-work exercise where a facilitator pauses the action at a pivotal moment 
 
 **Objective:** To develop a deep understanding of narrative architecture, specifically mastering the 'Platform and Tilt' technique by identifying critical story forks, elevating dramatic stakes, and practicing rapid, logical justification of major character choices.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | hybrid |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Can be played in-person or in a virtual classroom. Two to three active players stand in the performance space (or turn on their cameras), while the remaining players and the facilitator observe as the audience. No props or special materials are required.
 

@@ -69,20 +69,6 @@ A high-energy, solo-simultaneous warm-up where players move through the space po
 
 **Objective:** To train unfiltered spontaneity and the principle that the first thought is a gift by using physical movement to outrun cognitive hesitation.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 1+ (ideal 6-20) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open room free of obstacles where players can safely walk around. No props or materials are required.
 

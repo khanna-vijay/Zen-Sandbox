@@ -86,20 +86,6 @@ A physicalized narrative exercise where the stage is divided into distinct zones
 
 **Objective:** To develop a visceral, physical understanding of narrative pacing and stakes-escalation reps, training players to dynamically raise, lower, and justify dramatic tension through spatial movement.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | tape or markers for floor zones, signs or labels for zones, whiteboard or flip chart, markers |
-| Audience | not required |
-
 ## Setup
 Divide the playing area into five distinct, labeled zones using floor tape or physical markers: 1) Neutral Ground (low stakes/exposition), 2) Dilemma Alley (complication/obstacle), 3) Crisis Point (high stakes/urgency), 4) Consequence Junction (fallout/ripple effects), and 5) Resolution Nook (catharsis/closure). Set up a whiteboard visible to all players listing these zones and their corresponding stakes levels.
 

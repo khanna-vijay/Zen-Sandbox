@@ -77,20 +77,6 @@ A multi-layered ensemble exercise where players build a complex, non-verbal tape
 
 **Objective:** To develop Group Mind and Thematic Synthesis by training players to track multiple simultaneous non-verbal threads, identify emergent patterns, and articulate those patterns as collective offers that guide scene work.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–8 (ideal 4-8) |
-| Time | ~20 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, moderate-sized physical space. Three to eight players stand in a loose circle or scattered throughout the space, facing inward so everyone has clear sightlines and auditory awareness of the entire group.
 

@@ -75,20 +75,6 @@ In this physical passing game, players stand in a circle and transmit abstract, 
 
 **Objective:** Develops peripheral awareness, physical mirroring, and 'follow the follower' dynamics by training players to accept physical offers exactly as received and track multiple physical threads.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 8-20) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a shoulder-to-shoulder circle with plenty of space to move their arms and bodies. No props or materials are needed.
 

@@ -80,20 +80,6 @@ One player steps out of the room while the audience establishes their identity, 
 
 **Objective:** To develop active gifting and endowment skills, teaching players how to feed specific, actionable information to their partners without breaking the reality of the scene.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–6 (ideal 3-5) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An in-person performance space with an audience. One player (the 'Guesser') is sent out of earshot. The remaining players (the 'Endowers') gather suggestions from the audience: a specific location/era, an occupation or identity, a physical quirk/limitation, and a specific personal problem.
 

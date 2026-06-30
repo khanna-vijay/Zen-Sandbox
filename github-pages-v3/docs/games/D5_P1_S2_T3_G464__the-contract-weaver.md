@@ -77,20 +77,6 @@ A focused scene-work drill where one designated player briefly breaks the fourth
 
 **Objective:** To develop precise audience-energy management and room reading by executing controlled, non-disruptive direct addresses, while training scene partners to cushion these breaks and preserve narrative integrity.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 4-8) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An in-person performance space with a clear stage area and an audience area (which can consist of off-stage players). No props or materials are required. Players form groups of three to five, with one player designated as the 'Weaver' for the round.
 

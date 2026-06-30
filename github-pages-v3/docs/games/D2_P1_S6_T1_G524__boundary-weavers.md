@@ -75,20 +75,6 @@ Two players improvise a scene while secretly holding a specific, minor personal 
 
 **Objective:** To build practical competency in real-time boundary navigation and active consent, training players to prioritize personal truth over people-pleasing while maintaining a collaborative scene.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Arrange the group in a circle or semi-circle with a clear performance space in the center. No props are required. The facilitator should establish a supportive, low-stakes atmosphere before play begins, emphasizing that safety and self-advocacy are the primary measures of success.
 

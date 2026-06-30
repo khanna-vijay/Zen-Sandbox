@@ -79,20 +79,6 @@ A virtual-first improv game where players turn the technical limitations of vide
 
 **Objective:** To develop advanced offer reception and endowment-acceptance by forcing players to closely observe physical cues, infer implied sounds, and immediately justify them with audible choices.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5–15 (ideal 5-15) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Conducted via a video conferencing platform in Gallery View. All players start with cameras on. No chat or digital reactions are used during play. Players should be familiar with quickly muting and unmuting themselves, ideally using a push-to-talk keyboard shortcut to reduce latency.
 

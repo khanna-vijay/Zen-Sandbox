@@ -79,20 +79,6 @@ Players work in pairs to establish a simple numerical count, gradually replacing
 
 **Objective:** To build deep partner connection, active listening, and physical synchronization while training players to recover instantly and joyfully from mistakes.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-30 (in pairs)) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in pairs facing each other throughout the room. No props or special materials are required; just enough space for pairs to move their arms and stamp their feet safely.
 

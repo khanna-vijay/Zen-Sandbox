@@ -81,20 +81,6 @@ The Living Tapestry is a collaborative, non-narrative staging exercise where pla
 
 **Objective:** To develop advanced peripheral awareness and group mind by synthesizing disparate physical and vocal offers into a cohesive, non-linear stage picture.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–12 (ideal 4-8) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, quiet playing space with enough room for 4 to 12 players to move freely. No props or chairs are needed. Players begin standing in a wide semi-circle facing the empty stage area.
 

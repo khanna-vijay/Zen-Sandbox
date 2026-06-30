@@ -80,20 +80,6 @@ In this performance-level game, players interview an audience volunteer about th
 
 **Objective:** To master audience-energy management and direct address by treating a non-performer as the ultimate scene partner, translating their real-world details into a cohesive narrative structure.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 4-8) |
-| Time | ~15 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An in-person performance space with a stage area and seating for an audience. One chair is placed on stage for the volunteer next to the interviewer. No props are required, but a microphone can be useful for larger rooms.
 

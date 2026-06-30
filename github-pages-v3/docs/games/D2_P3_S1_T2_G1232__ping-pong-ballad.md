@@ -76,20 +76,6 @@ Two performers improvise a cohesive song dedicated to an audience volunteer who 
 
 **Objective:** To develop hyper-vigilant active listening, spontaneous vocal support, and the ability to seamlessly pick up a partner's unfinished thoughts, rhymes, and musical rhythms.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 3) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Two performers stand downstage left and downstage right. An audience volunteer is invited to sit or stand in the center, facing the audience but positioned so they can easily look at either performer. No props or instruments are required, though a live keyboardist or simple backing beat can be used.
 

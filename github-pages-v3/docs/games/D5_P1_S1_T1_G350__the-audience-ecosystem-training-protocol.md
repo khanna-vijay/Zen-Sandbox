@@ -84,20 +84,6 @@ A structured, three-phase training drill designed to heighten a performer's sens
 
 **Objective:** To develop advanced room-reading and energy-calibration skills, allowing performers to dynamically adjust their performance based on real-time audience feedback without breaking the scene's reality or pandering.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 8-15) |
-| Time | ~45 min |
-| Complexity | 4/5 |
-| Skill level | proficient |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An in-person performance space with a clear stage area and seating for an audience. No props are required. Divide the group so that 2-3 players are on stage, 3-5 players form a dedicated 'Feedback Panel' sitting in the front row, and the remaining players act as the general audience.
 

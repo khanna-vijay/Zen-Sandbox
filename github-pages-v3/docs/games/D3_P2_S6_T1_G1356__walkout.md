@@ -75,20 +75,6 @@ A scene-work drill where players must immediately leave or enter the performance
 
 **Objective:** Develops rapid justification skills, active listening, and the ability to maintain a strong base reality even when absurd or sudden physical actions are forced upon the players.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 3-6) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Three to six players stand in a line-up. The facilitator secretly assigns each player a common but not overly frequent noun or verb (e.g., 'coffee', 'key', 'shadow', 'window') as their personal trigger word. Two players step forward to begin a scene, while the remaining players wait off-stage in the wings.
 

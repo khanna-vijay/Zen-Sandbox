@@ -69,20 +69,6 @@ Players walk around a shared space, shifting their physical center of gravity to
 
 **Objective:** To develop physical commitment and character generation through body centers, bypassing intellectual planning to let physical posture dictate character choices.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 1+ (ideal 8-20) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A large, open room cleared of obstacles so players can walk freely without colliding. No props needed.
 

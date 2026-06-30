@@ -75,20 +75,6 @@ Two players improvise a scene set in their current workplace, but their characte
 
 **Objective:** To develop physical characterization, environmental world-building, and the 'Show, Don't Tell' principle by layering a character's history into their present actions and dialogue.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two players stand in the performance space. The facilitator or audience provides two suggestions: a current job they are performing right now, and a previous job they both used to have.
 

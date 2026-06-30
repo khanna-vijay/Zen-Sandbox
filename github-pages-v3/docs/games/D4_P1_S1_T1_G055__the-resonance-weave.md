@@ -81,20 +81,6 @@ An advanced non-verbal exercise where players collaboratively construct and seam
 
 **Objective:** To develop heightened peripheral awareness, group mind, and thematic synthesis by training players to read, support, and transition collective stage compositions without verbal planning.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~10 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear, open stage space with moderate room for movement. Players begin standing in a loose semi-circle or perimeter around the playing area, ready to enter. No props or materials are required.
 

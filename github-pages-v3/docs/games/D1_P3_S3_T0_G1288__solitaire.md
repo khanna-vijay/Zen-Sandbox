@@ -68,20 +68,6 @@ A high-trust physical exercise where a single player runs with closed eyes down 
 
 **Objective:** To cultivate deep physical vulnerability, surrender control, and build absolute trust in the ensemble's physical support and spatial coordination.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 8-15) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | high |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A large, open room free of obstacles. The group divides: one player is the runner, while the rest of the players form two parallel lines (the "walls" of the runway) leading to a dense, supportive "catching wall" at the far end.
 

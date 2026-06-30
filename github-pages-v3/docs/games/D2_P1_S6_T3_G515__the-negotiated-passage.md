@@ -77,20 +77,6 @@ A physical ensemble exercise where players collaborate to cross a space or move 
 
 **Objective:** To develop practical skills in negotiating physical contact, navigating personal boundaries, and prioritizing personal truth over scene-pleasing (Truth Over Pandering) during physical collaboration.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–12 (ideal 4-8) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear, open playing space free of physical hazards. No props are required. The facilitator stands where they can observe all players' physical interactions and facial expressions clearly.
 

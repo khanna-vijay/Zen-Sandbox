@@ -63,20 +63,6 @@ What Has Changed is a quiet, paired exercise where players closely study each ot
 
 **Objective:** To develop acute visual observation and active listening, training players to focus entirely on their partner rather than their own internal thoughts.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 to 30 (played in pairs)) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in pairs facing each other with about two feet of space between them in an open room. No props or special materials are needed.
 

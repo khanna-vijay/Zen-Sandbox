@@ -87,20 +87,6 @@ A deeply focused ensemble exercise where players access subtle internal sensatio
 
 **Objective:** To develop emotional fluidity and vulnerability by training players to consciously identify, scale (from 1 to 10), and express raw internal states using non-verbal vocal craft without the safety net of words.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a comfortable, spacious circle in a quiet room. No props are required. The facilitator should ensure the space is free of distractions to support deep concentration and silence.
 

@@ -81,20 +81,6 @@ One storyteller weaves an impromptu tale while guided by three conductors who pr
 
 **Objective:** Develops narrative architecture by teaching players to balance the three essential pillars of storytelling: plot movement (Action), sensory environment (Color), and internal stakes (Emotion).
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 4-6) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 One storyteller stands center stage. Three conductors stand in a line facing them, or slightly to the side. Each conductor is assigned one of the three prompts: Action, Color, or Emotion.
 

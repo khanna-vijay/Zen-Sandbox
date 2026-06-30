@@ -77,20 +77,6 @@ A fast-paced, virtual storytelling game where players construct a single, cohesi
 
 **Objective:** To develop advanced active listening and offer reception through the 'Last Word Response' technique, ensuring players fully absorb their partner's contribution before planning their own.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–12 (ideal 6-12) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | none |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Conducted via a virtual video platform. All players should be in gallery view with their non-verbal reaction menus ready. One player acts as the Facilitator/Conductor, who will use the platform's 'spotlight' or 'pin' feature to dynamically highlight the active speaker. All non-speaking players remain muted to ensure pristine audio.
 

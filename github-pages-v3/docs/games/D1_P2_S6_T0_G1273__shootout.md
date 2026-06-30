@@ -74,20 +74,6 @@ The Joyful Showdown is a fast-paced elimination game that transforms the fear of
 
 **Objective:** Develops rapid-fire focus, active listening, and the ability to fail joyfully by reframing elimination as a moment of creative celebration.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 10-25) |
-| Time | ~10 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a wide, clear circle with enough space to move safely. No props are required, though the facilitator may use a set of keys for the final round.
 

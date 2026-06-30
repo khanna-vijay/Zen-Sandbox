@@ -77,20 +77,6 @@ A fast-paced, narrative-driven elimination game where players perform a scene in
 
 **Objective:** Develops intense active listening, rapid-fire verbal spontaneity, and narrative pacing under strict structural constraints, teaching players to prioritize story progression over personal perfection.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-12) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a line or semi-circle facing the performance space. Two players step forward to begin the scene. No props or special staging are required.
 

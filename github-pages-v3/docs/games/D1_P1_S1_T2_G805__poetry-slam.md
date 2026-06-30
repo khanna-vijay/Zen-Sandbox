@@ -77,20 +77,6 @@ Two teams face off in a high-energy, competitive poetry slam where players must 
 
 **Objective:** To develop unfiltered spontaneity, vocal variety, and physical commitment by forcing players to speak immediately without planning, trusting their first thoughts, and projecting their presence to the back of the room.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 Divide the group into two equal teams. Position the teams on opposite sides of the stage (Left and Right). The facilitator acts as the host/MC. The remaining players or a designated group act as the active, highly supportive audience. No props are needed, though a physical space representing a center-stage microphone is established.
 

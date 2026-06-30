@@ -78,20 +78,6 @@ Two or three players perform a scene in an ordinary, low-stakes setting, but eac
 
 **Objective:** To master the art of subtextual communication, training players to establish high stakes and clear character wants ('What do they stand to lose?') without relying on explicit verbal exposition.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An in-person playing space with two chairs. The facilitator prepares a list of mundane, low-conflict scenarios (such as folding laundry, waiting for a bus, or preparing breakfast) and a set of secret, high-stakes motivations that directly clash with the setting or the other character's assumed goals.
 

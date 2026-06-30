@@ -71,20 +71,6 @@ Three players perform a scene where each is assigned a strict, unchanging number
 
 **Objective:** Develops the ability to justify absurd constraints within a scene, encourages deep active listening, and forces players to make highly deliberate, spontaneous choices under pressure.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–4 (ideal 3) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Three players stand on stage. The facilitator assigns each player a specific, distinct number (typically one low number like 1 or 2, one medium number like 4 or 5, and one higher number like 7 or 8). Get a suggestion for a mundane, non-geographical location to establish the base reality.
 

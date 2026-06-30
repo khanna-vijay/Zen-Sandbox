@@ -78,20 +78,6 @@ A classic, fast-paced circle warm-up where players pass energy across the room u
 
 **Objective:** To build group mind, sharpen peripheral awareness, and practice thread-tracking by keeping a continuous verbal sequence moving dynamically through the space.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 8-20) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Have all players stand in a clear circle facing inward, with enough space to make eye contact with everyone. No props or special materials are needed.
 

@@ -83,20 +83,6 @@ A dynamic training game where players perform a standard scene but periodically 
 
 **Objective:** To develop the ability to read and manage audience energy in real-time, using direct address and meta-commentary to deepen the performer-audience connection while maintaining strong ensemble support and scene integrity.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 8-15) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An in-person performance space with a clear stage area and an audience seating area. No props are required. The facilitator stands near the audience to observe and potentially cue the shifts.
 

@@ -79,20 +79,6 @@ A high-energy, paired exercise where players bypass intellectual processing to m
 
 **Objective:** To develop vocal craft and emotional fluidity by separating emotional expression from literal language, encouraging players to embrace mistakes and fail joyfully through uninhibited gibberish.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 or more (paired)) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | medium |
-| Modality | hybrid |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in pairs facing each other. Ensure there is enough space between pairs to move comfortably without colliding. No props or materials are required. This can be played in-person or in a virtual gallery view.
 

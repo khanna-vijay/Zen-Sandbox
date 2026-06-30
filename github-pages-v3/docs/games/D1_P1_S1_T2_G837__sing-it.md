@@ -82,20 +82,6 @@ In this high-energy game, players perform a grounded, character-driven scene. At
 
 **Objective:** Develops unfiltered spontaneity, vocal commitment, and the ability to leap into the unknown without hesitation by practicing first-thought drills.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–6 (ideal 3-5) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Three to five players stand in the performance space. A facilitator stands off-stage to call out cues. No props or instruments are required.
 

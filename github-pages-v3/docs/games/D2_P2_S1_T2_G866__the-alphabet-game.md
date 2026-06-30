@@ -75,20 +75,6 @@ Two players improvise a scene where every spoken line must begin with the next s
 
 **Objective:** To develop deep active listening, spontaneous justification, and the ability to accept and build upon unexpected offers by bypassing the internal editor.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–2 (ideal 2) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two players stand facing each other in the performance space. The facilitator or group provides a simple relationship, a location, and a starting letter of the alphabet to initiate the scene.
 

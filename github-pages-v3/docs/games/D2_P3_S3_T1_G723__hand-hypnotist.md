@@ -74,20 +74,6 @@ In this silent physical exercise, players work in pairs where one partner's hand
 
 **Objective:** To develop physical empathy, active listening, and peripheral awareness while practicing the core principle of making your partner look brilliant and keeping them safe.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-20) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open room cleared of chairs and obstacles. Players stand in pairs facing each other, spaced out comfortably across the floor.
 

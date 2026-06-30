@@ -79,20 +79,6 @@ The Monologist is a signature long-form improv format where a storyteller shares
 
 **Objective:** Develops format literacy, active listening, and the ability to deconstruct suggestions using A-to-C association to serve a cohesive, multi-scenic piece.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-10) |
-| Time | ~25 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 A performance space with a clear stage area, a designated 'backline' for the ensemble, and a spot downstage for the monologist. An audience is present to provide a suggestion. No props are required.
 

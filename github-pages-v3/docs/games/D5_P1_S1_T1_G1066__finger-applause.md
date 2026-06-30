@@ -70,20 +70,6 @@ This high-impact group warm-up guides an audience or ensemble to transition from
 
 **Objective:** To develop room reading, energy calibration, and collective rhythm, establishing the audience as an active, responsive partner in the performance space.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 10-100plus) |
-| Time | ~2 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | required |
-
 ## Setup
 The facilitator stands at the front of the room facing the participants. No props or special staging are required; players can be seated or standing.
 

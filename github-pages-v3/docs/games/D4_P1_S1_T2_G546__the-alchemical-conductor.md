@@ -78,20 +78,6 @@ In this exercise, an ensemble collaborates to shape the flow of an active scene 
 
 **Objective:** To develop deep peripheral awareness and group mind by training players to track, support, and organically evolve the emotional and physical currents of a scene without explicit verbal agreement.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~20 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, moderate playing space with no props. Four to eight players stand or sit in a neutral starting arrangement. The facilitator establishes a simple, mundane baseline scenario, such as waiting in a doctor's office or folding laundry in a communal room.
 

@@ -80,20 +80,6 @@ In this exercise, one player acts as a real estate agent showing a prospective b
 
 **Objective:** To master physical world-building and establish C.R.O.W. elements early in a scene by using declarative statements, physical justification, and consistent spatial memory.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-4) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, moderate-sized playing space. Two to four players stand on stage. The facilitator or audience provides a suggestion for an unusual or highly specific type of property (such as a villain's lair, a submarine apartment, or a treehouse mansion). No physical props are used.
 

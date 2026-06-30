@@ -76,20 +76,6 @@ Two players perform a fully realized two-minute scene where only a single line o
 
 **Objective:** To master non-verbal world-building and establish C.R.O.W. (Character, Relationship, Objective, Where) through physical action, silence, and deliberate offer reception rather than relying on explanatory dialogue.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–2 (ideal 2) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space with two chairs available if needed. No props. Two players stand or sit in the space, ready to begin. The facilitator acts as the timekeeper.
 

@@ -76,20 +76,6 @@ A structured scene-work drill where players must actively track, validate, and e
 
 **Objective:** To develop deep active listening and precise world-building by training players to immediately accept, justify, and build upon specific environmental and character endowments rather than glossing over them.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-12) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open playing space for two active players, with the remaining group members observing as active listeners. No props or physical materials are required.
 

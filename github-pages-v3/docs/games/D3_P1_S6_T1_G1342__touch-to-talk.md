@@ -74,20 +74,6 @@ Two players perform a scene under a strict physical constraint: they can only sp
 
 **Objective:** To develop physical justification, non-verbal storytelling, and deep partner awareness by linking the ability to speak directly to physical contact.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 players on stage) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | high |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear performance space with room for two players to move freely. Before beginning, the facilitator establishes clear physical boundaries and consent guidelines for the group.
 

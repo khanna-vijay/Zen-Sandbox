@@ -74,20 +74,6 @@ A dynamic partner exercise where one player acts as a live sound effects generat
 
 **Objective:** To develop deep physical empathy, active listening, and immediate physical 'yes-and' commitment by translating auditory cues into physical actions.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-30) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players pair up and find a comfortable space in the room where they can move freely without bumping into other pairs. No props or special staging required.
 

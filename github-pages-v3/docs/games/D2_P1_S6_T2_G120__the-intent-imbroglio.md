@@ -76,20 +76,6 @@ Two players navigate a scene with secret, conflicting personal agendas that natu
 
 **Objective:** To develop competent boundary navigation and active listening skills by training players to recognize subtle discomfort, initiate proactive check-ins, verbally negotiate physical contact, and confidently execute 'Cut' calls to prioritize personal safety over performance pressure.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–5 (ideal 3-5) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | index cards, pens |
-| Audience | not required |
-
 ## Setup
 Arrange a moderate playing space with two chairs. Prepare index cards and pens. Divide a group of 3 to 5 players into two active Performers and 1 to 3 Intention Senders (who will draft and assign the secret motives). Establish a neutral, everyday location (e.g., a waiting room or a park bench) before starting.
 

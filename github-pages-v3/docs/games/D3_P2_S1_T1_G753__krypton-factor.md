@@ -72,20 +72,6 @@ Two players improvise a grounded, realistic scene while the rest of the group ac
 
 **Objective:** To develop deep active listening, peripheral awareness, and the ability to identify the 'first unusual thing' (the game) by establishing and tracking a solid base reality.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-20) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An active performance space for two players at the front, with the remaining participants seated as an audience. No props or materials are required.
 

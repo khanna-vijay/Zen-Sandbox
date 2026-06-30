@@ -87,20 +87,6 @@ A deep, slow-tempo partner exercise where players communicate through subtle phy
 
 **Objective:** To develop deep interpersonal attunement, somatic empathy, and the ability to make your partner look brilliant by validating and amplifying their unspoken emotional offers.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (or any even group size in pairs)) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in pairs, facing each other about an arm's length apart in a quiet room. No props or special materials are required. The facilitator establishes a calm, focused atmosphere before beginning.
 

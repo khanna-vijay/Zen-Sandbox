@@ -82,20 +82,6 @@ A quiet, high-attunement exercise where one player secretly holds an unexpressed
 
 **Objective:** To develop advanced partner attunement, non-verbal empathy, and proactive gifting by training players to read subtext, physical tension, and emotional shifts, ultimately making their partner look brilliant and feel supported.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2-12) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | low |
-| Physicality | low |
-| Modality | hybrid |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Can be played in-person or in a virtual gallery view. Divide players into pairs. No props or special staging are required; players simply need to face each other clearly.
 

@@ -78,20 +78,6 @@ Two players establish a grounded scene before a facilitator periodically freezes
 
 **Objective:** To train competent improvisers in stakes-escalation reps, helping them recognize how external narrative disruptions can be instantly justified to serve the story, clarify character motivations, and build dramatic tension.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An in-person playing space with two active performers on stage and the remaining group observing as active listeners. No props or materials are required. The facilitator stands off-stage, ready to intervene.
 

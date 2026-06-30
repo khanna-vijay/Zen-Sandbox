@@ -78,20 +78,6 @@ The Rhythmic Conveyor Belt is a high-focus physical warm-up where players stand 
 
 **Objective:** This game develops physical synchronization, peripheral awareness, and rhythmic precision, training players to follow the follower by shifting focus from self-expression to active, empathetic mirroring.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 8-20) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Have all players stand in a clear circle with enough space to move their arms and legs freely. No props or materials are required.
 

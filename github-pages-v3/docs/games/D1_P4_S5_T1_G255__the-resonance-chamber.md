@@ -82,20 +82,6 @@ This exercise invites players to slow down and explore the rich landscape of the
 
 **Objective:** To develop intrapersonal mastery, specifically training the ability to sit in silence and stillness, observe internal impulses without immediate reaction, and trust the first authentic thought or feeling as a gift for minimal, precise expression.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 3-12) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | competent |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle in a quiet, distraction-free room. One player is designated as the Receiver, and another as the Catalyst. No props are required, though a soft chime can be used by the facilitator to mark time.
 

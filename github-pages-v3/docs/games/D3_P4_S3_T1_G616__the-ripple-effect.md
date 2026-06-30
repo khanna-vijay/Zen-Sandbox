@@ -78,20 +78,6 @@ A focused scene-work exercise where players construct a tight, high-stakes narra
 
 **Objective:** To master narrative architecture and story progression by replacing simple additive 'Yes, And' offers with rigorous cause-and-effect justification that raises stakes and challenges character motivations.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 3) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two to three players stand in the performance space, with the facilitator positioned close by to actively coach. No props or special staging are required; a simple open space is ideal.
 

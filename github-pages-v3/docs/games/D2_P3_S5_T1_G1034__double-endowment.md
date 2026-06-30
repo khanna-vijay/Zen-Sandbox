@@ -76,20 +76,6 @@ Two players enter a scene, each holding a secret physical task they must get the
 
 **Objective:** To develop active gifting and offer reception by training players to read subtle physical cues, accept endowments instantly, and justify unexpected physical choices to make their partner look brilliant.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 players with workshop audience) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two players stand on stage. The facilitator secretly assigns a specific, physical action to each player that they must get the other player to perform (e.g., Player A must get Player B to drink from an imaginary puddle; Player B must get Player A to polish a statue's shoe). The facilitator also establishes a shared location. The rest of the group acts as the observing audience.
 

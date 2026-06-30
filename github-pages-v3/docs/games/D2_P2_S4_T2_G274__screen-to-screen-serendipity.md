@@ -82,20 +82,6 @@ Grid Gift Relay is a virtual-first improv game where players collaboratively sha
 
 **Objective:** To develop offer reception and endowment-acceptance by forcing players to physically handle, verbally expand upon, and digitally document an imaginary object passed between video feeds.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–12 (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Ensure all participants are on a virtual video platform with 'Grid View' enabled and the permission to rename themselves turned on. Players should start with their microphones muted and their cameras on, displaying their real names.
 

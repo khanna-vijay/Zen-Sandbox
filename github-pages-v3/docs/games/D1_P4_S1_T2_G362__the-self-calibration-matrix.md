@@ -78,20 +78,6 @@ A high-energy, individual training drill where players rapidly embody composite 
 
 **Objective:** To develop unfiltered spontaneity and rapid self-recovery by training players to instantly integrate physical, vocal, and emotional impulses without intellectual delay.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–8 (ideal 4-8) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players scatter throughout a moderate, open room, standing far enough apart to move and make noise without colliding. No props are needed. The facilitator stands where they can be heard clearly by all participants.
 

@@ -83,20 +83,6 @@ A focused, two-player world-building exercise where partners sit back-to-back to
 
 **Objective:** To develop advanced active listening and precise offer-gifting by building a complex, coherent imaginary space without visual feedback, reinforcing the 'Yes, And' principle and equitable status sharing.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (or any even number)) |
-| Time | ~15 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players pair up and sit back-to-back on chairs or the floor. This physical orientation is crucial as it removes all non-verbal communication, forcing complete reliance on auditory cues. No props or materials are required. The facilitator prepares a list of complex, imaginative prompts (e.g., 'a factory that bottles human emotions' or 'a deep-sea city powered by bioluminescent algae').
 

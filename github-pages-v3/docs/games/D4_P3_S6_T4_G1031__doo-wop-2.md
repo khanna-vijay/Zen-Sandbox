@@ -79,20 +79,6 @@ Players establish a rhythmic, a cappella vocal backing track based on a suggesti
 
 **Objective:** To develop format literacy by transitioning seamlessly between musical support work and narrative scene work, training players to serve the overall piece.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 6-10) |
-| Time | ~20 min |
-| Complexity | 4/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A semi-circle or straight line of 4 to 10 players upstage. No instruments or props are needed. A moderate performance space is required.
 

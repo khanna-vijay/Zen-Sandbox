@@ -78,20 +78,6 @@ Boundary Zones is an interactive, safety-focused improv game where players estab
 
 **Objective:** To develop precise boundary navigation, active listening, and emotional fluidity by practicing explicit verbal check-ins and prioritizing personal comfort over narrative expectations.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–6 (ideal 3-6) |
-| Time | ~30 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Clear a moderate playing space. No physical props are required. Players stand in the space and mentally map three concentric circles around themselves: Green (outer/public), Yellow (arm's reach/personal), and Red (close proximity/intimate).
 

@@ -80,20 +80,6 @@ Two players sit side-by-side on a couch or chairs and instantly adopt distinct p
 
 **Objective:** To develop the C.R.O.W. framework (Character, Relationship, Objective, Where) by using physical offers, active listening, and immediate narrative agreement.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 active (with group)) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | sofa, chairs |
-| Audience | not required |
-
 ## Setup
 Place two chairs side-by-side (or a sofa) at the front of the space. The rest of the group sits facing them to act as the interviewers.
 

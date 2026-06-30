@@ -73,20 +73,6 @@ Two players perform a scene where the starting letter of each line must match th
 
 **Objective:** Develops deep active listening, prevents cognitive pre-planning of dialogue, and encourages unfiltered spontaneity by anchoring the start of every line to the partner's final utterance.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (per scene)) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Two players stand in the performance space. The rest of the group acts as an active, supportive audience. No props or special staging are required. Obtain a simple suggestion of a relationship or location to establish the base reality.
 

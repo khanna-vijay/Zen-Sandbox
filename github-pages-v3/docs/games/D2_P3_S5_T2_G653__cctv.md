@@ -76,20 +76,6 @@ One player is fired from an unspecified job for a highly unusual, audience-sugge
 
 **Objective:** Develops active gifting and physical support work. Players learn to prioritize their partner's success by translating complex narrative ideas into clear, readable physical offers, ensuring the guessing player is set up to look like a genius.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 4-8) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | required |
-
 ## Setup
 An in-person playing space with a clear 'office' area downstage for the Boss and Employee, and a designated 'CCTV screen' area upstage where 2-3 players will perform the silent physical re-enactments. One player (the Employee) temporarily leaves the room so they cannot hear the audience's suggestion.
 

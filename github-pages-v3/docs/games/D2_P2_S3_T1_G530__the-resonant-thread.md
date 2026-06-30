@@ -84,20 +84,6 @@ In this intimate two-player exercise, partners maintain light physical contact w
 
 **Objective:** To develop deep interpersonal attunement, active listening, and physical/emotional empathy by practicing simultaneous multi-modal offer reception, physical mirroring, and responsive status modulation.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 2 (or pairs in a larger group)) |
-| Time | ~8 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in pairs facing each other in a quiet space. They establish a light, continuous physical connection (such as fingertips touching or palms lightly grazing). No props or audience are required.
 

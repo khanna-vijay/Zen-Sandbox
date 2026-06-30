@@ -73,20 +73,6 @@ A foundational storytelling exercise where players collaboratively construct a c
 
 **Objective:** To develop narrative architecture skills, specifically understanding how to establish a platform, introduce a disruptive event, build logical cause-and-effect stakes, and resolve the story into a new status quo.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 1+ (ideal 1-10) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | low |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand or sit in a circle. No props or special materials are required. The facilitator should write the prompt phrases on a board or have them visible if players are new to the structure.
 

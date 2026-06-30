@@ -80,20 +80,6 @@ In this high-energy comedy game, two players perform an action-oriented scene wh
 
 **Objective:** To develop group mind, physical precision, and impeccable timing by instantly adapting to external pacing cues and mirroring a partner's exact physical and vocal trajectory.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | high |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space with a clear stage area. Two players stand on stage to begin a scene, while the remaining players stand off-stage or in a semi-circle, ready to call out commands.
 

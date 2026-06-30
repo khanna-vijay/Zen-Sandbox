@@ -70,20 +70,6 @@ This high-energy warm-up turns the audience into an active performance partner b
 
 **Objective:** Develops audience-energy management, room reading, and pacing by establishing a direct, playful feedback loop between the stage and the house.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 5+ (ideal 20+) |
-| Time | ~5 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | required |
-
 ## Setup
 The facilitator stands on stage facing the audience. The audience remains in their seats or stands in the house. No props are required, but a clear line of sight between the facilitator and the entire crowd is essential.
 

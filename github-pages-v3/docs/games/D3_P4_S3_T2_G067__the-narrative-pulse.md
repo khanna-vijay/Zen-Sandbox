@@ -79,20 +79,6 @@ In this exercise, two or three players perform an open scene while a facilitator
 
 **Objective:** To develop a shared, intuitive grasp of narrative architecture—specifically recognizing when a platform is stable, when to introduce a tilt, and how to escalate stakes or guide a story toward resolution.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | moderate |
-| Props | sound makers (clicker, chime, wood block), dimmable lights (optional) |
-| Audience | not required |
-
 ## Setup
 An open performance space with moderate lighting. The facilitator stands or sits at the edge of the playing area, equipped with simple sound makers (such as a wood block, a clicker, or a chime) or access to dimmable lights. The rest of the group sits as an active audience. Before starting, the facilitator briefly defines 3 to 4 distinct non-verbal cues and their corresponding narrative meanings.
 

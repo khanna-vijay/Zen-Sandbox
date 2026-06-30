@@ -79,20 +79,6 @@ Four players split into two pairs, each establishing a completely different scen
 
 **Objective:** Develops group mind, peripheral awareness, and precise comedic timing by training players to share stage time, balance dialogue, and use physical space cooperatively without direct interaction.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4+ (ideal 4 players on stage) |
-| Time | ~5 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Four players stand on stage, divided into two pairs (Pair A and Pair B). The facilitator or audience provides two distinct, contrasting locations (e.g., a quiet library and a chaotic commercial kitchen). No props or special set pieces are needed.
 

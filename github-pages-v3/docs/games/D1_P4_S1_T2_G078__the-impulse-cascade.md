@@ -82,20 +82,6 @@ This high-energy, non-verbal drill challenges players to instantly embody abstra
 
 **Objective:** To develop unfiltered spontaneity and emotional fluidity by training players to immediately commit to their first physical and vocal impulses without intellectualizing.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 4–12 (ideal 4-12) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | large_open |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open room cleared of obstacles so players can move freely. Players stand scattered throughout the space, spaced far enough apart to move and make noise without colliding, initially facing any direction.
 

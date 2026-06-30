@@ -77,20 +77,6 @@ Two players begin a scene simultaneously engaged in a shared, silent physical ta
 
 **Objective:** To establish a strong Base Reality (C.R.O.W.) by separating physical action from verbal exposition, training players to show the environment while speaking the relationship.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2–2 (ideal 2) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open performance space. Two players stand on stage. No physical props are used; all objects and environments must be created through pantomime (space work).
 

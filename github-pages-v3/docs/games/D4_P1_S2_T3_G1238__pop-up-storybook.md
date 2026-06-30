@@ -78,20 +78,6 @@ In this physical narrative game, one player acts as the narrator of a storybook 
 
 **Objective:** To develop group mind, physical support work, and spatial awareness by having players instantly transform their bodies into scenery, props, and characters to support a central narrative.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 5-10) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 A clear performance space with enough room for all players to lie flat on the floor. One player is designated as the Narrator and stands to the side. The remaining players lie down flat on their backs or stomachs in the performance space, representing a closed book.
 

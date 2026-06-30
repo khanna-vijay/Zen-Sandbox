@@ -79,20 +79,6 @@ A structured, turn-based scene-building exercise designed for virtual spaces whe
 
 **Objective:** To develop the ability to rapidly establish a base reality and progressively escalate character motivations and situational stakes using logical justification, serving the overall story arc.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 6-12) |
-| Time | ~15 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | low |
-| Modality | virtual |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Played in a virtual meeting room. The facilitator gathers the group in gallery view. Two active players turn their cameras on, while all other participants turn their cameras off to act as the audience. No physical props are required.
 

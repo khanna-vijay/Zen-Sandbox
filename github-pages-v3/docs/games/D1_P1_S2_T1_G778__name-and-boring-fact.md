@@ -74,20 +74,6 @@ A high-energy icebreaker where players share their name and an incredibly boring
 
 **Objective:** To develop 100% commitment and emotional fluidity by separating the literal meaning of words from the emotional intensity of their delivery, utilizing the Emotional Dial technique.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 8-20) |
-| Time | ~5 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle in an open space. No props or materials are required.
 

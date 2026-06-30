@@ -76,20 +76,6 @@ A high-energy group warm-up where players instantly agree to play a completely f
 
 **Objective:** To develop the ability to identify, establish, and commit to a comedic or structural game in real-time, fostering group mind, unfiltered spontaneity, and rapid offer reception.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 6-15) |
-| Time | ~10 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a clear, open room with enough space to move around safely. No props or materials are needed.
 

@@ -87,20 +87,6 @@ The Storytelling Grid is an interactive virtual storytelling game that transform
 
 **Objective:** To develop rapid offer reception and collaborative narrative building using the 'Yes, And' principle in a virtual environment, while training peripheral awareness and pacing.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 6–12 (ideal 6-12) |
-| Time | ~20 min |
-| Complexity | 2/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | none |
-| Modality | virtual |
-| Space | minimal |
-| Props | Zoom client with Spotlight capability, Virtual backgrounds, Character tags (renaming) |
-| Audience | not required |
-
 ## Setup
 Players join a virtual meeting platform in gallery view. The facilitator prepares a list of character roles (e.g., 'The Botanist', 'The Mechanic', 'The Mystic') and a central narrative premise (e.g., a malfunctioning spaceship or an ancient temple exploration). Each player renames themselves to include their assigned character role and selects a virtual background that represents their character's immediate environment or tools.
 

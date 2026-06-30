@@ -73,20 +73,6 @@ One player steps out of earshot while the audience provides specific, unusual fu
 
 **Objective:** To practice active gifting and endowment, making the guessing partner look brilliant by feeding them highly specific, clear, and progressive clues without outright saying the answer.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 4-6) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | advanced_beginner |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | required |
-
 ## Setup
 One player (the Oracle) stands at the back of the room or covers their ears. The remaining players (2 to 5 clients) stand in a line facing the audience. No props are needed, just a clear playing space.
 

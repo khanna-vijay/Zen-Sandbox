@@ -73,20 +73,6 @@ In this high-energy comedy game, players perform a scene with a clear beginning,
 
 **Objective:** To develop narrative economy, pacing, and rhythm under pressure, training players to serve the piece by dynamically compressing or expanding their storytelling based on external, visual cues.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 4-8) |
-| Time | ~10 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | high |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | yes |
-| Audience | required |
-
 ## Setup
 A standard performance space. Prepare safe, highly visible physical countdown props: a stack of 20 plastic cups, a basket of clean rolled-up socks, a deck of playing cards, or a gift box with wrapping paper and tape. Position the Timer Player at a table to the side of the stage where both the performers and the audience can clearly see their progress.
 

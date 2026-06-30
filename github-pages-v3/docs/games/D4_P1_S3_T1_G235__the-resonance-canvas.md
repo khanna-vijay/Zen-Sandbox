@@ -85,20 +85,6 @@ An ensemble-building exercise where players collaboratively construct a physical
 
 **Objective:** To develop Group Mind and master A-to-C suggestion deconstruction by translating abstract thematic concepts into physical environments, and then into grounded character relationships.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3–7 (ideal 4-6) |
-| Time | ~12 min |
-| Complexity | 3/5 |
-| Skill level | competent |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 An open, moderate-sized playing space. 3 to 7 players stand in a loose circle facing inward. No props or materials are required.
 

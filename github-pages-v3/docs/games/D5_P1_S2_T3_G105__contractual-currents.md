@@ -82,20 +82,6 @@ Permeable Currents is an advanced, highly interactive scene-work drill where the
 
 **Objective:** To develop advanced audience-energy management and room-reading skills, specifically training performers to intentionally break and re-establish the fourth wall, project to the back row, and calibrate scene dynamics in direct response to live audience engagement.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 2+ (ideal 10-30) |
-| Time | ~15 min |
-| Complexity | 4/5 |
-| Skill level | proficient |
-| Energy | medium |
-| Physicality | medium |
-| Modality | in_person |
-| Space | moderate |
-| Props | Red cards or buzzers, Green cards or bells, Yellow cards or shakers |
-| Audience | required |
-
 ## Setup
 An in-person performance space with a clear stage area and an audience area. Distribute three types of signaling props to the audience: Red cards (or buzzers), Green cards (or bells), and Yellow cards (or shakers/maracas). Ensure the audience is divided or randomly assigned these tools so all three signals are represented.
 

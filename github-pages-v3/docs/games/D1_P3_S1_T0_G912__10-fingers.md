@@ -70,20 +70,6 @@ Ten Fingers is an interactive warm-up where players stand in a circle with all t
 
 **Objective:** To develop unfiltered spontaneity and vulnerability by sharing personal truths, while building group mind and peripheral awareness.
 
-## At a Glance
-| Aspect | Detail |
-|---|---|
-| Players | 3+ (ideal 8-15) |
-| Time | ~10 min |
-| Complexity | 1/5 |
-| Skill level | novice |
-| Energy | medium |
-| Physicality | low |
-| Modality | in_person |
-| Space | minimal |
-| Props | none |
-| Audience | not required |
-
 ## Setup
 Players stand in a circle facing inward with enough space to comfortably hold their hands up.
 
