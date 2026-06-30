@@ -70,6 +70,8 @@ aliases:
 
 # Resonance Architects
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build deep emotional connection and shared worlds through minimalist, high-fidelity mirroring and single-word gifts.
 
 ## Overview

@@ -65,6 +65,8 @@ aliases: []
 
 # Symphony of Coincidences
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Instantly mirror abstract physical offers, then justify them into comedic, high-energy character relationships.
 
 ## Overview

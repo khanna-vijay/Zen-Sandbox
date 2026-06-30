@@ -63,6 +63,8 @@ aliases: []
 
 # Emotional Dial Jump
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Instantly embody intense emotions and seamlessly apply them to unexpected physical scenarios.
 
 ## Overview

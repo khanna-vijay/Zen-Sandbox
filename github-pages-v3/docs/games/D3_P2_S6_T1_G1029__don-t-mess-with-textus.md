@@ -61,6 +61,8 @@ aliases:
 
 # Text Message Roulette
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Justify absurd, out-of-context text messages as logical dialogue in a grounded scene.
 
 ## Overview

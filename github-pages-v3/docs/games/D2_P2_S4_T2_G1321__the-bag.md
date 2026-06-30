@@ -62,6 +62,8 @@ aliases: []
 
 # The Character Bag
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Discover a rich character by unpacking imaginary items and answering curious questions.
 
 ## Overview

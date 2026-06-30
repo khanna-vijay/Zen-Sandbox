@@ -57,6 +57,8 @@ aliases: []
 
 # The Endless Box
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Pull imaginary items from an invisible box, naming them instantly without hesitation or filter.
 
 ## Overview

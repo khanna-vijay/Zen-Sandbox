@@ -62,6 +62,8 @@ aliases: []
 
 # Knife Throwing
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Pass an imaginary blade across the circle with high-stakes focus and synchronized claps.
 
 ## Overview

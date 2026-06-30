@@ -64,6 +64,8 @@ aliases:
 
 # The Echo Chain
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build a collaborative virtual story by repeating your partner's last line before adding your own.
 
 ## Overview

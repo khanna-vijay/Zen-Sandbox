@@ -59,6 +59,8 @@ aliases: []
 
 # The Portal Tour
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Lead your team through imaginary thresholds to build rich, physical environments through shared movement.
 
 ## Overview

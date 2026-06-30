@@ -65,6 +65,8 @@ aliases: []
 
 # The Empathetic Echo
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Discover a partner's hidden internal state through physical mirroring, vocal resonance, and collaborative agreement.
 
 ## Overview

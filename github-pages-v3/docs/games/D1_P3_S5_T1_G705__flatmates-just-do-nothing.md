@@ -60,6 +60,8 @@ aliases:
 
 # The Quiet Roommates
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Discover the power of silence and ordinary life by doing absolutely nothing on stage.
 
 ## Overview

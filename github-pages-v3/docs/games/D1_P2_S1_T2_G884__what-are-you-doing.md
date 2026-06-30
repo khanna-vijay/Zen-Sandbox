@@ -59,6 +59,8 @@ aliases:
 
 # What Are You Doing?
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Disconnect your physical actions from your spoken words to celebrate mistakes and spark instant spontaneity.
 
 ## Overview

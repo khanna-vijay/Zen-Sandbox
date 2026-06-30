@@ -58,6 +58,8 @@ aliases: []
 
 # Action and Justify
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Transform random physical movements into meaningful shared realities through instant verbal justification.
 
 ## Overview

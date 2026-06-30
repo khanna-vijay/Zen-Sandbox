@@ -59,6 +59,8 @@ aliases: []
 
 # The Visionary Lecture
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Co-deliver a polished, high-stakes keynote presentation on a completely absurd, made-up topic.
 
 ## Overview

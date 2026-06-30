@@ -62,6 +62,8 @@ aliases: []
 
 # The Audience Accord
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Break the fourth wall to check, calibrate, and align your scene with the audience's energy.
 
 ## Overview

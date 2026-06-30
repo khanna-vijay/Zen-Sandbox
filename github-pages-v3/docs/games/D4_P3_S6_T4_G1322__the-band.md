@@ -60,6 +60,8 @@ aliases: []
 
 # The Band
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Uncover deep character drama and original music in a high-stakes rehearsal room.
 
 ## Overview

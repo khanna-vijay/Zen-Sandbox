@@ -67,6 +67,8 @@ aliases:
 
 # The Seamless Oracle
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Speak as a single, omniscient entity by passing sentences seamlessly without a single hitch.
 
 ## Overview

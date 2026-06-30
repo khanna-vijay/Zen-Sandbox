@@ -65,6 +65,8 @@ aliases: []
 
 # Instant Character Shift
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Pivot instantly between extreme emotional states and character quirks in a fast-paced virtual scene.
 
 ## Overview

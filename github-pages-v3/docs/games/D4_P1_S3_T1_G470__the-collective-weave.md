@@ -60,6 +60,8 @@ aliases:
 
 # The Resonance Tapestry
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Deconstruct scenes and synthesize themes non-verbally to build a rich, interconnected montage of ideas.
 
 ## Overview

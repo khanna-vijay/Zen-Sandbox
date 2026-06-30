@@ -60,6 +60,8 @@ aliases:
 
 # The Mindful Scene Container
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Navigate boundaries in real-time using subtle self-checks and structured, non-judgmental scene pauses.
 
 ## Overview

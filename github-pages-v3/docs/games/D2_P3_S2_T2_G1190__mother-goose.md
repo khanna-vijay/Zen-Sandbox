@@ -58,6 +58,8 @@ aliases: []
 
 # The Pecking Order
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Establish a non-verbal, physical hierarchy of geese through status walks and active listening.
 
 ## Overview

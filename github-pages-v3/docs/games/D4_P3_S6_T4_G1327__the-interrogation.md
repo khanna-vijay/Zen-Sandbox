@@ -62,6 +62,8 @@ aliases: []
 
 # The Interrogation
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A non-linear narrative format exploring a tragic friendship through the lens of a police investigation.
 
 ## Overview

@@ -61,6 +61,8 @@ aliases:
 
 # The Two-Headed Expert
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Speak as a single, brilliant mind by alternating words to answer absurd interview questions.
 
 ## Overview

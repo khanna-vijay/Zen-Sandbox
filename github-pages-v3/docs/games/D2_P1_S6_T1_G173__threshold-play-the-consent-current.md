@@ -62,6 +62,8 @@ aliases:
 
 # The Consent Current
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Navigate boundaries and maintain artistic truth in real-time without stopping the creative momentum.
 
 ## Overview

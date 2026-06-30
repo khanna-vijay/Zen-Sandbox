@@ -8,6 +8,17 @@
   display: block; margin: 1.4rem auto; width: 100%; max-width: 640px;
   border-radius: 14px; box-shadow: 0 8px 28px rgba(0,0,0,.14); cursor: zoom-in;
 }
+/* Game page hero infographic (top of each game page) + "coming soon" placeholder */
+.md-typeset .game-hero {
+  display: block; margin: 1rem auto 1.4rem; width: 100%; max-width: 560px;
+  border-radius: 14px; box-shadow: 0 8px 28px rgba(0,0,0,.14); cursor: zoom-in;
+}
+.md-typeset .game-hero-ph {
+  display: flex; align-items: center; justify-content: center; gap: .5rem;
+  margin: 1rem auto 1.4rem; max-width: 560px; min-height: 150px; padding: 1rem; text-align: center;
+  border: 2px dashed var(--md-default-fg-color--lighter); border-radius: 14px;
+  background: var(--md-default-fg-color--lightest); color: var(--md-default-fg-color--light);
+}
 /* De-linked reference/quote citations: keep the link color, but not clickable. */
 .md-typeset .ref { color: var(--md-typeset-a-color); }
 

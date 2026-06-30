@@ -58,6 +58,8 @@ aliases: []
 
 # Stereo Loop
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Pass a rhythmic wave of custom sounds and synchronized claps around a collaborative circle.
 
 ## Overview

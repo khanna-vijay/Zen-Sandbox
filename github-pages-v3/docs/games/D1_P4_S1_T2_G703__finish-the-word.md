@@ -59,6 +59,8 @@ aliases: []
 
 # Syllable Split
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Instantly complete a word started by your neighbor and launch the next one without hesitation.
 
 ## Overview

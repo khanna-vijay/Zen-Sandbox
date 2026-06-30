@@ -61,6 +61,8 @@ aliases: []
 
 # Silly, Stinky, Sexy
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Endow your scene partners with distinct, hilarious traits and watch them react to your gifts.
 
 ## Overview

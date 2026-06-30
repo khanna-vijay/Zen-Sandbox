@@ -68,6 +68,8 @@ aliases:
 
 # The Backdrop Shift
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build an evolving narrative by rapidly shifting your virtual background, character name, and story contribution.
 
 ## Overview

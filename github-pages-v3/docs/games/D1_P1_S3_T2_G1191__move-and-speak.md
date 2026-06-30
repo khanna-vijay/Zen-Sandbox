@@ -54,6 +54,8 @@ aliases: []
 
 # Create to Speak
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Unlock your voice only by physically building the world around you.
 
 ## Overview

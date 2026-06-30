@@ -65,6 +65,8 @@ aliases: []
 
 # The Shrinking Ensemble
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Replay a scene as cast members vanish, tracking every thread until one player does it all.
 
 ## Overview

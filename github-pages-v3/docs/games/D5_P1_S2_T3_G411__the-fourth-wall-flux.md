@@ -62,6 +62,8 @@ aliases: []
 
 # Fourth Wall Flux
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Master the boundary between stage and spectator by treating the audience as your final scene partner.
 
 ## Overview

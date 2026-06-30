@@ -70,6 +70,8 @@ aliases:
 
 # Subtext Sculptors
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Make the unspoken visible as physical shadows that can step forward and transform the narrative.
 
 ## Overview

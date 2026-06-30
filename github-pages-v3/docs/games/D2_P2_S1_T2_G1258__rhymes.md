@@ -61,6 +61,8 @@ aliases:
 
 # Rhyming Couplets
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Keep the story flowing in perfect rhyme, or step aside when you run out of time.
 
 ## Overview

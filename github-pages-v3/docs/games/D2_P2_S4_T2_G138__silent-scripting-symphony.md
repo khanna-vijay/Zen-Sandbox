@@ -64,6 +64,8 @@ aliases:
 
 # Clandestine Chronicles
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Weave a silent physical story disrupted by secret, privately messaged narrative prompts.
 
 ## Overview

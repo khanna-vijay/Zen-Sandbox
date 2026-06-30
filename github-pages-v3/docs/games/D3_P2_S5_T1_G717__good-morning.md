@@ -62,6 +62,8 @@ aliases: []
 
 # Waking Moments
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Establish a rich, physical base reality before speaking a single word of dialogue.
 
 ## Overview

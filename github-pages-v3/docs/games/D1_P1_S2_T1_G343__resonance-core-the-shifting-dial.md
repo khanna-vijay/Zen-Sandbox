@@ -67,6 +67,8 @@ aliases:
 
 # The Triple-Channel Dial
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Calibrate your voice, body, and emotion instantly to a single, dynamic intensity scale.
 
 ## Overview

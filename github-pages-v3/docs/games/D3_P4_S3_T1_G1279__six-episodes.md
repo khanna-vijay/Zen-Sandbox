@@ -59,6 +59,8 @@ aliases: []
 
 # Six-Scene Saga
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Rapidly outline and perform a complete six-part narrative arc under intense time pressure.
 
 ## Overview

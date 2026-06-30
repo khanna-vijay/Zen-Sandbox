@@ -61,6 +61,8 @@ aliases:
 
 # Captured Moments
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Weave a tapestry of unrelated scenes inspired by a shifting gallery of projected photographs.
 
 ## Overview

@@ -60,6 +60,8 @@ aliases:
 
 # The Pulse
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Pass a silent physical current around the circle to build collective rhythm and focus.
 
 ## Overview

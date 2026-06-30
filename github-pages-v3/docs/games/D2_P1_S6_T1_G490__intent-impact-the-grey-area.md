@@ -59,6 +59,8 @@ aliases: []
 
 # Navigating the Grey
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Practice setting boundaries and clarifying intent in ambiguous, high-stakes social interactions.
 
 ## Overview

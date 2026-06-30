@@ -61,6 +61,8 @@ aliases:
 
 # Diamond Carousel
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Rotate a four-sided physical formation to track and advance four distinct narrative threads simultaneously.
 
 ## Overview

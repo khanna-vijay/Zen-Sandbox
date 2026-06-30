@@ -59,6 +59,8 @@ aliases:
 
 # What Are You Doing?
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Bypass your analytical brain by physically doing one thing while verbally declaring another.
 
 ## Overview

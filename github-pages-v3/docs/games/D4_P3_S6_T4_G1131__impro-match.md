@@ -69,6 +69,8 @@ aliases:
 
 # The Rink Match
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A high-energy, sport-styled competitive format where teams battle under strict rules and referee oversight.
 
 ## Overview

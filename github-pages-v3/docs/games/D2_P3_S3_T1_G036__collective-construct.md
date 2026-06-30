@@ -63,6 +63,8 @@ aliases: []
 
 # Shared Gravity
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Cooperate in absolute silence to manipulate heavy, complex imaginary objects through shared physical tension.
 
 ## Overview

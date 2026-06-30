@@ -59,6 +59,8 @@ aliases: []
 
 # Character Swap
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Step directly into your partner's physical and vocal shoes mid-scene to master deep physical empathy.
 
 ## Overview

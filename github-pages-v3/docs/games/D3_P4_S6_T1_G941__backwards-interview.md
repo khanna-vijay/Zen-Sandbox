@@ -59,6 +59,8 @@ aliases:
 
 # Reverse Interview
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Conduct a talk show in reverse, justifying answers before the questions are even asked.
 
 ## Overview

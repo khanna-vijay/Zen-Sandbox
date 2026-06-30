@@ -56,6 +56,8 @@ aliases: []
 
 # Magnetic Palm
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Lead your partner through space using only the magnetic pull of your open hand.
 
 ## Overview

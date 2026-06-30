@@ -57,6 +57,8 @@ aliases: []
 
 # Embodied Objects
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Transform your entire body instantly to discover the physical essence of any object or concept.
 
 ## Overview

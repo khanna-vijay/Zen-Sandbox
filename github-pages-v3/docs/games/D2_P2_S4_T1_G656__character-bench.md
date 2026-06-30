@@ -61,6 +61,8 @@ aliases: []
 
 # Unified Identity Bench
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build a single, cohesive history together by instantly agreeing with every detail your peers establish.
 
 ## Overview

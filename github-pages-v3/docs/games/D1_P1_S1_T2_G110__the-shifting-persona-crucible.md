@@ -62,6 +62,8 @@ aliases: []
 
 # The Impulse Crucible
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Instantly shed and adopt complex physical, vocal, and emotional states at a conductor's command.
 
 ## Overview

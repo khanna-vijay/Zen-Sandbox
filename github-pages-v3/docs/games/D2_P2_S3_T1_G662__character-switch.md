@@ -63,6 +63,8 @@ aliases: []
 
 # Persona Swap
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Step into your partner's shoes instantly by inheriting their physical, vocal, and emotional choices.
 
 ## Overview

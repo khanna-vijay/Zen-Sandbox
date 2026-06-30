@@ -67,6 +67,8 @@ aliases:
 
 # Somatic Resonance Matrix
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Co-create a shared emotional and physical reality through micro-mirroring and fluid status shifts.
 
 ## Overview

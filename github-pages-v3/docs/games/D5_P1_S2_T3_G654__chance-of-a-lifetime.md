@@ -59,6 +59,8 @@ aliases: []
 
 # The Grand Opportunity
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Bring an audience member's unfulfilled dream to life through collaborative, celebratory narrative improv.
 
 ## Overview

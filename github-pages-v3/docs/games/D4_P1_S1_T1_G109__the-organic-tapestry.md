@@ -73,6 +73,8 @@ aliases:
 
 # The Organic Tapestry
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Weave individual sounds, movements, and physical shapes into a living, breathing collective environment.
 
 ## Overview

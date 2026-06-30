@@ -60,6 +60,8 @@ aliases: []
 
 # Peas in a Pod
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Instantly align with your partner by mirroring their physical, vocal, and emotional choices in real-time.
 
 ## Overview

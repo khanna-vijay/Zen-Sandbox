@@ -64,6 +64,8 @@ aliases:
 
 # The Gibberish Translator
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Translate nonsense into brilliant expertise, making your partner look like an absolute genius.
 
 ## Overview

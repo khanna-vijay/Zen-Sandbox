@@ -63,6 +63,8 @@ aliases:
 
 # Pause and Pivot
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Transform boundary-setting into a collaborative, creative redirection that keeps the scene safely moving forward.
 
 ## Overview

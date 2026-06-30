@@ -58,6 +58,8 @@ aliases: []
 
 # Dual-Offer Discovery
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Instantly merge physical and verbal offers to build a solid base reality in seconds.
 
 ## Overview

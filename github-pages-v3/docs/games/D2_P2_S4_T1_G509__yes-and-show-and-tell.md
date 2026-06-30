@@ -67,6 +67,8 @@ aliases:
 
 # The Echoing Storyteller
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build a collaborative physical and verbal narrative online by echoing your partner's last move.
 
 ## Overview

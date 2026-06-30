@@ -63,6 +63,8 @@ aliases: []
 
 # Grandpa's Tall Tales
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Weave a coherent, heartwarming narrative while seamlessly justifying random, absurd audience-written phrases on the fly.
 
 ## Overview

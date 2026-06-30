@@ -65,6 +65,8 @@ aliases: []
 
 # Memorial Service
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Uncover a life through heartfelt eulogies and the chaotic flashbacks they inspire.
 
 ## Overview

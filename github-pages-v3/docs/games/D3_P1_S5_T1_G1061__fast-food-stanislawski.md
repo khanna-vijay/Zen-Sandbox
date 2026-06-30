@@ -62,6 +62,8 @@ aliases:
 
 # Undercurrents
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Drive scenes with powerful, unspoken internal motivations that shape every line and action.
 
 ## Overview

@@ -59,6 +59,8 @@ aliases:
 
 # Pillars
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Improvisers build a scene using random, single-word suggestions supplied by audience volunteers standing on stage.
 
 ## Overview

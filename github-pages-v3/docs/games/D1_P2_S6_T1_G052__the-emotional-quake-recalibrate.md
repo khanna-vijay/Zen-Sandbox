@@ -69,6 +69,8 @@ aliases: []
 
 # Somatic Surge and Recovery
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Navigate sudden emotional disruptions and master the art of seamless, joyful recovery.
 
 ## Overview

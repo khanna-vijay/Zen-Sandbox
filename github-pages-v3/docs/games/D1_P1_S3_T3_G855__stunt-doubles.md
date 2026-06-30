@@ -59,6 +59,8 @@ aliases: []
 
 # Stunt Doubles
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Elevate simple physical actions into high-stakes, slow-motion physical masterpieces using designated stunt performers.
 
 ## Overview

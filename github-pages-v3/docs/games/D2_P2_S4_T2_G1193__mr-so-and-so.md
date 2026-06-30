@@ -64,6 +64,8 @@ aliases: []
 
 # Here Comes the Legend
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Instantly embody extreme character endowments announced by your scene partners.
 
 ## Overview

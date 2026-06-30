@@ -60,6 +60,8 @@ aliases: []
 
 # Story Swap
 
+![Story Swap — infographic](img/D2_P2_S1_T2_G853__story-swap.jpg){ .game-hero }
+
 > Co-create a single, seamless narrative by swapping storytellers instantly at the sound of a clap.
 
 ## Overview

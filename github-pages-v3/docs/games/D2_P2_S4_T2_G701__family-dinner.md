@@ -65,6 +65,8 @@ aliases: []
 
 # Family Dinner
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Recreate a real family dinner in real-time using instant, playful audience feedback.
 
 ## Overview

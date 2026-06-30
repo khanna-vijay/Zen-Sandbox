@@ -58,6 +58,8 @@ aliases: []
 
 # Resonant Emotional Dial
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Channel deep musical resonance into immediate, emotionally charged scenes through mindful physical and vocal exploration.
 
 ## Overview

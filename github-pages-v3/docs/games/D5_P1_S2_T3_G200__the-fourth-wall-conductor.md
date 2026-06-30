@@ -62,6 +62,8 @@ aliases:
 
 # The Fourth Wall Conductor
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Steer the room's emotional current by strategically breaking the fourth wall during a scene.
 
 ## Overview

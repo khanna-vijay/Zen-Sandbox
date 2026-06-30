@@ -69,6 +69,8 @@ aliases: []
 
 # Subtextual Resonance
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Attune to your partner's hidden emotional currents and elevate their unspoken choices in real time.
 
 ## Overview

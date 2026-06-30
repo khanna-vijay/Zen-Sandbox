@@ -55,6 +55,8 @@ aliases:
 
 # Ha So Ka
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Pass a high-energy, three-part physical rhythm around the circle without breaking the chain.
 
 ## Overview

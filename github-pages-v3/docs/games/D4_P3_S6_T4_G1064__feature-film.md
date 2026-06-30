@@ -59,6 +59,8 @@ aliases:
 
 # The Director's Cut
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Direct, perform, and edit a cinematic masterpiece live on stage using meta-narrative control.
 
 ## Overview

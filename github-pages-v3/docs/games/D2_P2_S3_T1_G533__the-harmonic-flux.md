@@ -67,6 +67,8 @@ aliases: []
 
 # The Attunement Loop
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A silent, continuous physical dialogue of instant mirroring and organic emotional evolution.
 
 ## Overview

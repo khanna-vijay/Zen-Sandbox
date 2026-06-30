@@ -67,6 +67,8 @@ aliases:
 
 # The Focal Point Story
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build a collaborative virtual narrative by matching verbal offers with physical, on-camera actions.
 
 ## Overview

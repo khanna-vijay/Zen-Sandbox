@@ -70,6 +70,8 @@ aliases:
 
 # The Illustrated Chronicle
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Paint and speak a shared world into existence, one stroke and one sentence at a time.
 
 ## Overview

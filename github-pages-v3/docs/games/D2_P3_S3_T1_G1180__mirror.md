@@ -60,6 +60,8 @@ aliases:
 
 # The Mirror Exercise
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Move in perfect unison with your partner to dissolve the boundary between leader and follower.
 
 ## Overview

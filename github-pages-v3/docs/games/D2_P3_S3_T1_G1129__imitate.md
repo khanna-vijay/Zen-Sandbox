@@ -64,6 +64,8 @@ aliases: []
 
 # Character Echo
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Step into a shop where the merchant mirrors your every physical and vocal quirk.
 
 ## Overview

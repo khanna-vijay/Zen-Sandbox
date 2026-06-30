@@ -2,7 +2,7 @@
 catalog_serial: 609
 filename: "D2_P1_S6_T1_G609__boundary-resonance.md"
 title: "Boundary Echoes"
-tagline: "Transform boundary navigation and authentic choices into immediate, high-stakes narrative twists."
+tagline: "Navigate fictional character boundaries to trigger dynamic narrative shifts and heighten dramatic stakes."
 status: "enriched"
 primary_domain: 2
 primary_domain_name: "The Partner"
@@ -43,9 +43,7 @@ energy_level: "medium"
 physicality_level: "medium"
 audience_required: "no"
 props_required: "yes"
-props_list:
-  - "slips of paper"
-  - "pens"
+props_list: []
 space_required: "moderate"
 est_duration_minutes: 35
 keywords:
@@ -62,10 +60,12 @@ aliases: []
 
 # Boundary Echoes
 
-> Transform boundary navigation and authentic choices into immediate, high-stakes narrative twists.
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
+> Navigate fictional character boundaries to trigger dynamic narrative shifts and heighten dramatic stakes.
 
 ## Overview
-A high-stakes narrative game where players navigate unspoken personal and character boundaries. When a player ignores discomfort or bypasses consent, external observers trigger a resonance shift—an immediate, challenging plot twist that complicates the scene. This creates a direct, real-time feedback loop showing that honoring boundaries and personal truth generates richer drama than polite compliance.
+A high-stakes narrative game where players explore consent and boundary navigation through fictional character constraints. Two active players improvise a scene while holding secret, character-specific boundaries, while observing Weavers track how these boundaries are negotiated. When boundaries are checked, respected, or crossed in-character, it triggers a Resonance Pivot—a narrative shift that evolves the environment and story, proving that honoring boundaries drives compelling drama.
 
 ## What It Trains
 - **Domain:** D2 — The Partner
@@ -74,7 +74,7 @@ A high-stakes narrative game where players navigate unspoken personal and charac
 - **Technique(s):** Check-ins; Cut calls; Negotiating physical contact; Platform/Tilt
 - **Focus:** mixed
 
-**Objective:** To develop advanced boundary navigation, active check-ins, and authentic character reactions by demonstrating how respecting or neglecting boundaries directly shapes narrative architecture and raises dramatic stakes.
+**Objective:** To train players in active check-ins, boundary navigation, and narrative architecture by demonstrating how respecting fictional character limits organically raises dramatic stakes without relying on real-life personal vulnerability.
 
 ## At a Glance
 | Aspect | Detail |
@@ -87,41 +87,40 @@ A high-stakes narrative game where players navigate unspoken personal and charac
 | Physicality | medium |
 | Modality | in_person |
 | Space | moderate |
-| Props | slips of paper, pens |
+| Props | yes |
 | Audience | not required |
 
 ## Setup
-Set up a clear performance area with seating for observers. Provide slips of paper and pens. Divide the group of 4 to 8 players so that two are active on stage, two to three act as Weavers (observers) seated close by, and one facilitator guides the process.
+Set up a performance space with chairs for the active players and a separate observation station for two to three Weavers. Provide slips of paper and pens. The facilitator prepares a list of high-stakes, relationship-driven scenarios.
 
 ## How to Play
-1. The facilitator provides a high-stakes scenario rich with potential vulnerability, such as two rival surgeons performing a delicate operation or estranged partners retrieving a fragile artifact.
-2. Each active player privately writes down one Soft Boundary (a preference to avoid or approach with extreme caution, like close physical proximity) and one Hard Boundary (an absolute limit, like physical contact) on a slip of paper.
-3. Players hand their slips to the Weavers without sharing them with their scene partner, keeping their limits secret from each other but known to the observers.
-4. The two active players begin improvising the scenario, focusing on achieving their characters' objectives while remaining highly sensitive to their partner's verbal and non-verbal cues.
-5. A Resonance Shift is triggered if an active player calls 'Resonance!' upon feeling their soft boundary approached without a check-in, or if the Weavers unanimously call 'Resonance!' upon noticing a player pandering or bypassing consent.
-6. Upon hearing 'Resonance!', the scene immediately freezes, and the person who called it neutrally states the trigger without blame (e.g., 'Resonance: Personal space entered without a non-verbal check-in').
-7. An observing Weaver immediately injects a concrete narrative complication that escalates the stakes as a direct consequence of the boundary slip (e.g., the fragile artifact cracks, or a power outage hits the operating room).
-8. The scene unfreezes, and the players must immediately integrate this new, more difficult reality, adapting their strategy while actively checking in with each other to navigate the new obstacle safely.
-9. At any point, any player can call 'Cut!' to stop the scene entirely if a hard boundary is crossed or if they feel genuine distress, bypassing all narrative mechanics for absolute safety.
+1. Divide the group: two players enter the performance space as active characters, while two to three players act as Weavers (narrative observers) holding pens and paper.
+2. Each active player secretly writes down two fictional boundaries for their character: one Soft Boundary (a preference or topic the character avoids or approaches with caution, e.g., 'dislikes talking about family history') and one Hard Boundary (an absolute limit, e.g., 'will not tolerate physical contact or whispering').
+3. Players hand their written character boundaries to the Weavers, keeping them secret from their scene partner. This allows Weavers to track the boundaries objectively without guessing.
+4. The facilitator provides a high-stakes scenario (e.g., business partners opening a high-security vault, or estranged siblings dividing an estate).
+5. The active players begin the scene. They must pursue their character's objective while actively looking for verbal and non-verbal cues, using in-character check-ins (e.g., 'May I look at that letter?' or 'Is it alright if I step closer?') to navigate potential boundaries.
+6. Weavers watch for two specific triggers: a Resonance Pivot occurs when a player successfully executes an in-character check-in before crossing a boundary, or when a player ignores their own character's written boundary to pander or make the scene easy.
+7. When a trigger occurs, a Weaver calls 'Pivot!' and introduces a neutral environmental or narrative change (e.g., 'The vault door begins to hiss,' or 'A storm knocks out the power'). This is not a penalty, but a dramatic manifestation of the scene's tension that offers new narrative pathways.
+8. If a character's Hard Boundary is reached, the active player must call 'Boundary!' in-character. The scene pauses briefly for a quick, explicit out-of-character check-in ('Are we good to continue with this topic?'), then resumes with the boundary respected.
+9. At any point, any player or Weaver can call 'Cut!' to immediately halt the scene for real-world safety or comfort, bypassing all game mechanics.
 
 ## Facilitation Notes
-- Frame the game as generative rather than punitive, emphasizing that a Resonance Shift is a narrative pivot showing how ignoring boundaries complicates relationships, not a penalty for failing.
-- Coach the observing Weavers to look for subtle physical cues of discomfort, such as tensing up, stepping back, or forced laughter, and to design narrative complications that open up new dramatic avenues rather than shutting the scene down.
-- Side-coach players to use subtle verbal or non-verbal check-ins, like an inquiring look before stepping closer or a quick in-character question, to safely navigate high-stakes moments without triggering a shift.
-- Ensure the Weavers' narrative shifts are directly tied to the physical or emotional reality of the scene, making the consequence feel organic rather than arbitrary.
+- Ensure players understand that boundaries are strictly fictional character traits for this exercise. This protects psychological safety while still teaching the mechanics of consent.
+- Train Weavers to identify pandering objectively by comparing the active player's behavior to their written character sheet. If a character's sheet says 'hates talking about family' but they easily share family secrets without any hesitation or check-in, that is pandering.
+- Frame the Pivot! as a collaborative narrative gift. Emphasize that the environmental shift is a tool to heighten the drama, not a punishment for making a mistake.
+- Encourage active players to use subtle, organic check-ins. A check-in doesn't have to break the fourth wall; it can be fully integrated into the character's dialogue and physical choices.
 
 ## Variations
-- The Anchor Weaver: For larger groups, designate one specific Weaver as the Anchor who is solely responsible for articulating the narrative complication, streamlining the transition.
-- Open Frequencies: Play a round where boundaries are read aloud to the audience and Weavers before the scene starts, but still kept secret from the scene partner, increasing the audience's dramatic irony and observational focus.
+- Shared Frequency: The Weavers read the character boundaries aloud to the audience before the scene starts, but keep them secret from the opposing scene partner, creating dramatic irony.
+- The Whisperer: For online play, players private-message their character boundaries to the Weavers. Weavers use the chat function or a verbal cue to introduce the Pivot! shifts.
 
 ## Debrief
-- How did it feel to have your internal boundaries directly influence the physical and narrative reality of the scene?
-- For the active players, what made it challenging or empowering to advocate for your boundaries or call 'Resonance' in the moment?
-- For the Weavers, how did you distinguish between authentic character conflict and actual player discomfort or pandering?
-- How does knowing that ignoring discomfort has a narrative 'cost' change how you approach physical contact and check-ins in standard scenes?
+- How did using fictional character boundaries allow you to practice consent mechanics without feeling personally vulnerable?
+- How did the Pivot! shifts help you see that respecting boundaries actually moves the story forward rather than stopping it?
+- For the Weavers, how did having the written boundaries help you objectively track the scene's tension without guessing or mind-reading?
 
 ## Safety & Inclusion
-This game deals directly with boundary navigation and consent. The 'Cut!' command must be established as an absolute, non-negotiable safety tool that immediately ends the exercise with no questions asked. Facilitators must ensure the atmosphere is highly supportive, confidential, and free of judgment, emphasizing that personal safety always supersedes narrative play.
+By shifting the boundaries from real-life personal limits to fictional character constraints, this game creates a safe sandbox to practice consent. The 'Cut!' command remains an absolute safety tool for any real-world discomfort, ensuring that player safety always takes precedence over the theatrical exercise.
 
 ## Why It Works
-By turning boundary neglect and pandering into immediate narrative obstacles, the game dismantles the misconception that consent checks slow down or ruin scenes. Instead, it gamifies the 'Truth Over Pandering' principle, proving that honoring authentic limits and checking in actually drives the narrative forward, raising the stakes in a highly engaging and safe manner.
+By gamifying fictional boundaries, players learn the structural value of consent. When a boundary is respected, the narrative evolves; when it is bypassed, the tension manifests environmentally. This directly reinforces Truth Over Pandering by showing that characters who hold their ground and check in create far more compelling drama than those who simply comply.

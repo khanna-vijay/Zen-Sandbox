@@ -59,6 +59,8 @@ aliases: []
 
 # Mimed Object Relay
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Pass invisible objects around a circle while preserving their exact physical properties through committed mime.
 
 ## Overview

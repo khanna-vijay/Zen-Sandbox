@@ -65,6 +65,8 @@ aliases: []
 
 # Cinematic Underscore
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Improvise a silent, emotionally charged scene guided entirely by a live musical soundtrack.
 
 ## Overview

@@ -56,6 +56,8 @@ aliases: []
 
 # The Consent Crucible
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Navigate hidden personal boundaries in real-time scenes, prioritizing authentic comfort over polite agreement.
 
 ## Overview

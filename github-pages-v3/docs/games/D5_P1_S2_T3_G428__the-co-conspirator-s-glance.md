@@ -64,6 +64,8 @@ aliases:
 
 # The Co-Conspirator's Glance
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Forge an intimate, unspoken bond with the audience through fleeting, purposeful moments of shared eye contact.
 
 ## Overview

@@ -65,6 +65,8 @@ aliases:
 
 # Greatest Hits
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Pitch ridiculous song titles and genres to force your partners into instant musical stardom.
 
 ## Overview

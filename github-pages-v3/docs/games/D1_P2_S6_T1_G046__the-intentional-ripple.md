@@ -64,6 +64,8 @@ aliases: []
 
 # The Intentional Ripple
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Transform your internal critic's slip-ups into bold, deliberate physical and vocal choices.
 
 ## Overview

@@ -64,6 +64,8 @@ aliases: []
 
 # The Emotional Fulcrum
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Convert sudden emotional reactions into high-stakes narrative truths to drive the story forward.
 
 ## Overview

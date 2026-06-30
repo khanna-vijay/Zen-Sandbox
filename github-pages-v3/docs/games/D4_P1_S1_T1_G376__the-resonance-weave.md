@@ -62,6 +62,8 @@ aliases: []
 
 # The Resonance Weave
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build, inhabit, and collectively transform a living, non-verbal soundscape and physical environment as one cohesive mind.
 
 ## Overview

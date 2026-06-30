@@ -57,6 +57,8 @@ aliases: []
 
 # Narrating into Form
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Instantly transform narrative ideas into bold physical characters using empty chairs as anchors.
 
 ## Overview

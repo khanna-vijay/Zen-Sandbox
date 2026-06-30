@@ -63,6 +63,8 @@ aliases:
 
 # Director's Cut
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Shape and reshape a scene on the fly by dialing up emotional intensity and styles.
 
 ## Overview

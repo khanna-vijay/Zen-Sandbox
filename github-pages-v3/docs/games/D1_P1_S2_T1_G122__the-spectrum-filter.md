@@ -65,6 +65,8 @@ aliases:
 
 # The Spectrum Filter
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Instantly fuse secret physical and emotional states, modulating their intensity on a rapid-fire dial.
 
 ## Overview

@@ -59,6 +59,8 @@ aliases:
 
 # Ensemble Snap
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Train your ensemble to execute seamless, split-second scene transitions in perfect physical and rhythmic unison.
 
 ## Overview

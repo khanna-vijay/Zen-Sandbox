@@ -58,6 +58,8 @@ aliases: []
 
 # The Confessional
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Transform bizarre audience secrets into rapid-fire comedic exchanges through instant character commitment.
 
 ## Overview

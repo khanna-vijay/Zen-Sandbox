@@ -60,6 +60,8 @@ aliases:
 
 # Temporal Tapestry
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Weave a cohesive, non-linear story by leaping backward and forward through a relationship's timeline.
 
 ## Overview

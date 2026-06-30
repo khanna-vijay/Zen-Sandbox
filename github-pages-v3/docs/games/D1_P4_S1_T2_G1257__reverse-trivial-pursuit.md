@@ -57,6 +57,8 @@ aliases: []
 
 # Reverse Trivia
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Transform random audience facts into hilarious questions using your very first, unfiltered comedic instinct.
 
 ## Overview

@@ -70,6 +70,8 @@ aliases:
 
 # Subtextual Currents
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Guide your partner through a silent emotional shift using only the power of subtext.
 
 ## Overview

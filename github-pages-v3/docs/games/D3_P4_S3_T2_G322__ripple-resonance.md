@@ -62,6 +62,8 @@ aliases:
 
 # Ripple and Resonance
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build a tight, escalating narrative by exploring the cascading consequences of a single disruptive event.
 
 ## Overview

@@ -56,6 +56,8 @@ aliases: []
 
 # Protest Anthem
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Channel righteous indignation into an improvised, high-energy folk anthem about a minor everyday annoyance.
 
 ## Overview

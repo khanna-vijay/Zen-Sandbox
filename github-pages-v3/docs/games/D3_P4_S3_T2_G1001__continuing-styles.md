@@ -62,6 +62,8 @@ aliases:
 
 # Style Shift
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Maintain a single, unbroken narrative while seamlessly shifting through wildly different performance genres.
 
 ## Overview

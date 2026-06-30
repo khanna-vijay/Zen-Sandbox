@@ -66,6 +66,8 @@ aliases: []
 
 # The Permeability Spectrum
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Master the fourth wall by dynamically shifting how you engage and integrate your audience.
 
 ## Overview

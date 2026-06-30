@@ -59,6 +59,8 @@ aliases: []
 
 # The Boundary Threshold
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Navigate hidden character boundaries through active listening, explicit check-ins, and prioritizing truth over easy agreement.
 
 ## Overview

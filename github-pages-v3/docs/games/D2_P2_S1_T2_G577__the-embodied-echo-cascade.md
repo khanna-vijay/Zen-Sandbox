@@ -65,6 +65,8 @@ aliases:
 
 # Embodied Echo Cascade
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Synchronize speech and physical status in a continuous, rhythmic loop of shared leadership.
 
 ## Overview

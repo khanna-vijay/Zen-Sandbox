@@ -63,6 +63,8 @@ aliases:
 
 # Architects of Brilliance
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Transform every absurd contribution into a stroke of absolute genius through relentless, justified validation.
 
 ## Overview

@@ -54,6 +54,8 @@ aliases:
 
 # Proximity Tag
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A high-energy chase game where players actively court danger by staying as close as possible.
 
 ## Overview

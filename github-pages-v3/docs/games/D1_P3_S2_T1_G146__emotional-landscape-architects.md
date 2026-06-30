@@ -72,6 +72,8 @@ aliases:
 
 # Somatic Weather Systems
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Navigate and blend complex, conflicting emotions using physical precision and non-verbal vocalization.
 
 ## Overview

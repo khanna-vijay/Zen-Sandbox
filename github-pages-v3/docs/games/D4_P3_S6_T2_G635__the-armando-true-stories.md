@@ -67,6 +67,8 @@ aliases:
 
 # The Armando
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Weave personal, true-life monologues into a rich tapestry of interconnected, thematic improv scenes.
 
 ## Overview

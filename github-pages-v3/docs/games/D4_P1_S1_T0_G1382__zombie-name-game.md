@@ -55,6 +55,8 @@ aliases: []
 
 # Zombie Name Chase
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Deflect a slow-moving zombie by calling out a classmate's name before you get tagged.
 
 ## Overview

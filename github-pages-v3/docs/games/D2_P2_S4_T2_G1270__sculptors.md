@@ -63,6 +63,8 @@ aliases:
 
 # Collaborative Sculptors
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Shape, pass, and build physical statues together to master the art of physical 'Yes, And'.
 
 ## Overview

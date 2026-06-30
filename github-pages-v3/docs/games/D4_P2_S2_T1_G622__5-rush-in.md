@@ -60,6 +60,8 @@ aliases: []
 
 # Instant Support Rush
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Flood the stage with immediate, enthusiastic physical and verbal agreement to back up any initiation.
 
 ## Overview

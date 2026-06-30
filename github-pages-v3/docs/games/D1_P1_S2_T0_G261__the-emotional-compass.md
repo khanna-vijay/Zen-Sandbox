@@ -63,6 +63,8 @@ aliases:
 
 # The Emotional Compass
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Navigate physical space while seamlessly shifting between fully committed, unfiltered emotional states.
 
 ## Overview

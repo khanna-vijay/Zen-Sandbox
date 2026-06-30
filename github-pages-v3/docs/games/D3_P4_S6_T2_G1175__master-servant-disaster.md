@@ -59,6 +59,8 @@ aliases: []
 
 # The Sovereign and the Servant
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Weave a chain of logical justifications that turn simple requests into an absolute catastrophe.
 
 ## Overview

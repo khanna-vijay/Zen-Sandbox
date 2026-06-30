@@ -65,6 +65,8 @@ aliases:
 
 # The Familiar Passenger
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Fast-track intimacy and immediate character endowment in a rotating, high-connection car ride.
 
 ## Overview

@@ -61,6 +61,8 @@ aliases:
 
 # The Responsive House
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Command the room by reading, reacting to, and actively shifting a dynamic, simulated audience.
 
 ## Overview

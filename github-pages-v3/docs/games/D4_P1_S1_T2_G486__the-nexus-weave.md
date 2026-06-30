@@ -67,6 +67,8 @@ aliases: []
 
 # Tapestry of Threads
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Weave independent physical actions into a single, unified, and cohesive multi-character narrative.
 
 ## Overview

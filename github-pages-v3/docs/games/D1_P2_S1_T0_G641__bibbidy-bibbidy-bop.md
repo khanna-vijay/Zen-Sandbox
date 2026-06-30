@@ -59,6 +59,8 @@ aliases:
 
 # Bippity Bippity Bop
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A high-energy circle game of rapid-fire commands, physical teamwork, and celebrating glorious mistakes.
 
 ## Overview

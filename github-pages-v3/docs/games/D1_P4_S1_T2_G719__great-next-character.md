@@ -58,6 +58,8 @@ aliases: []
 
 # Instant Character Carousel
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Instantly embody diverse characters on the fly, trusting your very first physical and vocal impulses.
 
 ## Overview

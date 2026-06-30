@@ -59,6 +59,8 @@ aliases:
 
 # Trigger Exits
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Justify sudden exits and entrances triggered by secret verbal cues spoken by your partners.
 
 ## Overview

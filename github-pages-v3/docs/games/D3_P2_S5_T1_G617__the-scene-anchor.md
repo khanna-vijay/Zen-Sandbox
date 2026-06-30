@@ -62,6 +62,8 @@ aliases:
 
 # The Scene Anchor
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build a rock-solid platform and launch high-stakes scenes before speaking a single word of dialogue.
 
 ## Overview

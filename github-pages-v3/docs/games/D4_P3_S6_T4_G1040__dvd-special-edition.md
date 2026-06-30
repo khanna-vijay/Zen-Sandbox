@@ -57,6 +57,8 @@ aliases: []
 
 # The Special Edition Feature
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Structure a complete narrative using the familiar, playful framing of a home-video release.
 
 ## Overview

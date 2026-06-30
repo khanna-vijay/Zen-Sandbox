@@ -57,6 +57,8 @@ aliases: []
 
 # The Gravity Test
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Deliver an absurd explanation with absolute, heartbreaking sincerity without letting the audience laugh.
 
 ## Overview

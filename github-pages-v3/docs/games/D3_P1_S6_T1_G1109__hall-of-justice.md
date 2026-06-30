@@ -64,6 +64,8 @@ aliases: []
 
 # Super Justifiers
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Defeat absurd villains by fully committing to and justifying your bizarre, object-inspired superpowers.
 
 ## Overview

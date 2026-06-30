@@ -61,6 +61,8 @@ aliases:
 
 # Shared Canvas Chronicles
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Co-create an evolving story and illustration simultaneously using virtual annotation tools.
 
 ## Overview

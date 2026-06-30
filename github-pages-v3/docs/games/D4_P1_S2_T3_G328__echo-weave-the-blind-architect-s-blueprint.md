@@ -70,6 +70,8 @@ aliases:
 
 # Echoed Architecture
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build a rich, tactile world for a blindfolded partner using only your words and sounds.
 
 ## Overview

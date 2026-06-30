@@ -61,6 +61,8 @@ aliases: []
 
 # Parallel Realities
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Weave multiple simultaneous storylines into a single, cohesive narrative tapestry across virtual breakout spaces.
 
 ## Overview

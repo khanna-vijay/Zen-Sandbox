@@ -65,6 +65,8 @@ aliases:
 
 # Echoing Edits
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Sculpt a collaborative virtual story in real-time by dynamically renaming yourself to offer narrative twists.
 
 ## Overview

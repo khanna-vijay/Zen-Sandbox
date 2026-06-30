@@ -64,6 +64,8 @@ aliases:
 
 # Style-Shift Musical
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A narrative musical where players and an accompanist navigate ten distinct, audience-suggested musical genres.
 
 ## Overview

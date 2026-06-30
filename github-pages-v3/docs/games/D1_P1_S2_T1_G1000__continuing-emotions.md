@@ -59,6 +59,8 @@ aliases:
 
 # Continuing Emotions
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Navigate sudden, extreme emotional shifts while keeping your scene's story grounded and continuous.
 
 ## Overview

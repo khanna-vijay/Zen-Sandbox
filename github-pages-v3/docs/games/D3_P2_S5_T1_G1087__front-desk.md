@@ -59,6 +59,8 @@ aliases:
 
 # The Grand Lobby
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Co-create a bustling, physically consistent hotel lobby to ground characters, relationships, and objectives.
 
 ## Overview

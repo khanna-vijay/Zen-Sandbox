@@ -59,6 +59,8 @@ aliases:
 
 # The Fix-It Shop
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Discover a bizarre product defect through physical clues and clever verbal endowments from your partner.
 
 ## Overview

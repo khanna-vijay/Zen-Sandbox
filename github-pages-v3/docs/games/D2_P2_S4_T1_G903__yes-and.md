@@ -60,6 +60,8 @@ aliases:
 
 # Yes, And Sentence Build
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build a shared reality one sentence at a time by starting every line with "Yes, and..."
 
 ## Overview

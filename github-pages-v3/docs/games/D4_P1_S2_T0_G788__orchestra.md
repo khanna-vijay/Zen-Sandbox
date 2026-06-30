@@ -60,6 +60,8 @@ aliases: []
 
 # Vocal Symphony
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build a cohesive, evolving musical soundscape using only your voices and collective intuition.
 
 ## Overview

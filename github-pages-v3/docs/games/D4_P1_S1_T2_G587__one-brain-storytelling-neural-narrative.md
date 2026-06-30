@@ -69,6 +69,8 @@ aliases:
 
 # The Shared Synapse
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build a seamless, non-sequential story word-by-word using pure collective intuition and peripheral focus.
 
 ## Overview

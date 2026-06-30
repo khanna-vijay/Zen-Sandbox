@@ -54,6 +54,8 @@ aliases: []
 
 # Sky Catch
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Bypass your inner editor by catching and naming imaginary objects falling from the sky.
 
 ## Overview

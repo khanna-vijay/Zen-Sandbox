@@ -60,6 +60,8 @@ aliases: []
 
 # Spine Sync
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Sync your movements and share physical control without looking, guided only by back-to-back contact.
 
 ## Overview

@@ -63,6 +63,8 @@ aliases:
 
 # The Monologist
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Weave personal, spontaneous monologues and fast-paced scenic play into a seamless tapestry of comedic truth.
 
 ## Overview

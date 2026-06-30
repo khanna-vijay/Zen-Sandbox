@@ -56,6 +56,8 @@ aliases: []
 
 # The Gauntlet of Peril
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Navigate a deadly, invisible obstacle course built entirely by your teammates' physical commitment and demise.
 
 ## Overview

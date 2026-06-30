@@ -59,6 +59,8 @@ aliases:
 
 # Good, Bad, Worst Advice
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Escalate comedic solutions to an audience member's problem through a structured ladder of absurdity.
 
 ## Overview

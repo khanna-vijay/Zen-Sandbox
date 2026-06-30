@@ -67,6 +67,8 @@ aliases:
 
 # The Fourth Wall Dialectic
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Consciously command, breach, and rebuild the invisible barrier between performer and audience in real time.
 
 ## Overview

@@ -66,6 +66,8 @@ aliases:
 
 # Retroactive Reality Warp
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Instantly rewrite the past of your scene to justify a sudden, reality-altering twist.
 
 ## Overview

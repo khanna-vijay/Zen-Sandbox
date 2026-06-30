@@ -59,6 +59,8 @@ aliases: []
 
 # Meanwhile
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Weave a tapestry of parallel scenes using rapid, thematic narrative edits.
 
 ## Overview

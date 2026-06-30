@@ -54,6 +54,8 @@ aliases:
 
 # State Shifter
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Navigate sudden shifts in voice and body while maintaining a continuous, committed conversation.
 
 ## Overview

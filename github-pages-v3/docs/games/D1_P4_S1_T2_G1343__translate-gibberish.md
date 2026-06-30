@@ -59,6 +59,8 @@ aliases:
 
 # Gibberish Translation Circle
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Instantly translate nonsense words to bypass your inner editor and embrace your first instinct.
 
 ## Overview

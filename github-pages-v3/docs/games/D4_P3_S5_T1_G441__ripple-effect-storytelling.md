@@ -60,6 +60,8 @@ aliases: []
 
 # Resonance Ripples
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Weave a rich tapestry of connected emotions and themes without ever continuing the plot.
 
 ## Overview

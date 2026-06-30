@@ -64,6 +64,8 @@ aliases:
 
 # Hidden Thresholds
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Navigate secret personal and character boundaries in-scene to prioritize truth over automatic agreement.
 
 ## Overview

@@ -61,6 +61,8 @@ aliases:
 
 # The Permeability Glitch
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Dynamically shift the fourth wall by adapting to sudden, structural changes in your audience contract.
 
 ## Overview

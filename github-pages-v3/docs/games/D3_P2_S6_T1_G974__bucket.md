@@ -62,6 +62,8 @@ aliases:
 
 # The Slip Bucket
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Seamlessly justify random audience-written lines to ground an absurd reality.
 
 ## Overview

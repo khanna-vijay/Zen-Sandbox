@@ -60,6 +60,8 @@ aliases:
 
 # The Monarch's Favor
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Win the approval of a fickle ruler through high-status gifting and dramatic, joyful failures.
 
 ## Overview

@@ -59,6 +59,8 @@ aliases: []
 
 # Boundary Ballet
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Navigate physical proximity and negotiate contact through silent, honest, real-time physical cues.
 
 ## Overview

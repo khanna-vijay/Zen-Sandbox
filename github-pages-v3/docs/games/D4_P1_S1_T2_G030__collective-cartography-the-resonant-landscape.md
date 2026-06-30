@@ -70,6 +70,8 @@ aliases: []
 
 # Resonant Landscapes
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Transform abstract physical and vocal environments into rich, collaborative narrative worlds.
 
 ## Overview

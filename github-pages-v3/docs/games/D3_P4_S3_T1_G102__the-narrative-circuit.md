@@ -62,6 +62,8 @@ aliases: []
 
 # The Narrative Circuit
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Navigate a physical pathway of story beats to build a perfectly structured narrative in real-time.
 
 ## Overview

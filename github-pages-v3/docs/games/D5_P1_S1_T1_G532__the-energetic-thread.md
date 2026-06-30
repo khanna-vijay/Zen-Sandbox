@@ -65,6 +65,8 @@ aliases:
 
 # The Invisible Tether
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Maintain a magnetic connection with your audience through subtle, in-character physical and vocal adjustments.
 
 ## Overview

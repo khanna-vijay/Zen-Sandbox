@@ -66,6 +66,8 @@ aliases:
 
 # Premise Purge
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Strip away narrative clutter to isolate, commit to, and relentlessly escalate a single comedic game.
 
 ## Overview

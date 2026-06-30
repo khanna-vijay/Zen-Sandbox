@@ -59,6 +59,8 @@ aliases: []
 
 # The Unwitting Guest
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > An innocent visitor navigates a strange environment where the hosts harbor a shared, unspoken secret.
 
 ## Overview

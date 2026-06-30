@@ -64,6 +64,8 @@ aliases: []
 
 # The Resonance Dial
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Calibrate your stage energy in real time by responding to a dynamic audience engagement dial.
 
 ## Overview

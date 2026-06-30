@@ -69,6 +69,8 @@ aliases:
 
 # The Arc Alchemist
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Master the art of the narrative tilt by transforming stable platforms into high-stakes story arcs.
 
 ## Overview

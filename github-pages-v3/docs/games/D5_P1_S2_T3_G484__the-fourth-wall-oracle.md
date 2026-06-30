@@ -61,6 +61,8 @@ aliases: []
 
 # The Collective Conscience
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Transform the audience's non-verbal energy into your character's active, guiding internal monologue.
 
 ## Overview

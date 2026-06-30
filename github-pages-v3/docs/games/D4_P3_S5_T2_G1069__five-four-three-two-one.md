@@ -61,6 +61,8 @@ aliases:
 
 # Five-Four-Three-Two-One
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Synthesize and survive in a high-stakes narrative elimination format driven by audience choice.
 
 ## Overview

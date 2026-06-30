@@ -67,6 +67,8 @@ aliases: []
 
 # The Fourth Wall Dialectic
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Master the invisible boundary by dynamically shifting how and when you engage your audience.
 
 ## Overview

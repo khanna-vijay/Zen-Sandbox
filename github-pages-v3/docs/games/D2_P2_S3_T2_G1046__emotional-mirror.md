@@ -60,6 +60,8 @@ aliases: []
 
 # Resonant Mirror
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Sync your emotional frequencies instantly using gibberish to bypass intellectual overthinking.
 
 ## Overview

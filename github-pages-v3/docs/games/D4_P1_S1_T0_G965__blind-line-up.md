@@ -57,6 +57,8 @@ aliases: []
 
 # Silent Blind Line-Up
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Arrange the group in perfect order using only touch, spatial awareness, and absolute silence.
 
 ## Overview

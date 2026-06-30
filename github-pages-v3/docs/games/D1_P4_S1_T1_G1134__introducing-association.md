@@ -55,6 +55,8 @@ aliases: []
 
 # Accidental Association
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Discover how effortlessly your mind connects ideas without even trying to be clever.
 
 ## Overview

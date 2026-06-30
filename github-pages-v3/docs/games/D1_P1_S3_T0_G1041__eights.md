@@ -49,6 +49,8 @@ aliases: []
 
 # Infinite Eights
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Warm up your body and mind by tracing infinity symbols with every limb.
 
 ## Overview

@@ -63,6 +63,8 @@ aliases:
 
 # Questions Only
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Face off in a rapid-fire battle of wits where every single sentence must be a question.
 
 ## Overview

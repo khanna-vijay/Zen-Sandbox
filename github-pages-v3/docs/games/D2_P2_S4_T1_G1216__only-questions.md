@@ -65,6 +65,8 @@ aliases:
 
 # Questions Only
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build a rich narrative world using nothing but questions while the audience monitors your grammar.
 
 ## Overview

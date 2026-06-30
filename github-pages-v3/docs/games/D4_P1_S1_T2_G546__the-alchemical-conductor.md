@@ -62,6 +62,8 @@ aliases: []
 
 # The Shared Baton
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Guide the collective energy, pacing, and emotion of a scene through subtle, shared non-verbal leadership.
 
 ## Overview

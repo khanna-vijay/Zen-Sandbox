@@ -54,6 +54,8 @@ aliases:
 
 # Hell Yes!
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Elevate every offer with explosive, unfiltered agreement to build unstoppable collaborative momentum.
 
 ## Overview

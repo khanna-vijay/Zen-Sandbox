@@ -59,6 +59,8 @@ aliases:
 
 # The Consent Navigator
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Real-time coaching to master physical boundaries, active check-ins, and authentic choices in every scene.
 
 ## Overview

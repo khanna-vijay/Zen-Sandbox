@@ -59,6 +59,8 @@ aliases: []
 
 # Satellite Echo
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Speak your partner's words on a one-beat delay to build hyper-focused listening and rhythm.
 
 ## Overview

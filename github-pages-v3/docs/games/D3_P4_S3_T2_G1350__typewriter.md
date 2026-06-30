@@ -61,6 +61,8 @@ aliases: []
 
 # Typewriter
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > One player types a story aloud while stage actors instantly bring the words to life.
 
 ## Overview

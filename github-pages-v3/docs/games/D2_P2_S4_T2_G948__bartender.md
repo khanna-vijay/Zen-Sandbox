@@ -60,6 +60,8 @@ aliases: []
 
 # The Musical Bartender
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Solve absurd life problems through the power of improvised, heart-felt musical advice.
 
 ## Overview

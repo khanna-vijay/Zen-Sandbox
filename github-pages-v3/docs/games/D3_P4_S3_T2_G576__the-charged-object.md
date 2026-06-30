@@ -68,6 +68,8 @@ aliases:
 
 # The Charged Object
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Transform a mundane physical prop into a high-stakes narrative engine through collaborative justification.
 
 ## Overview

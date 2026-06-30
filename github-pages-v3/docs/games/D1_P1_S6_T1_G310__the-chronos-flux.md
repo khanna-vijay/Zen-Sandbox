@@ -64,6 +64,8 @@ aliases: []
 
 # The Pivot Point
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Instantly absorb unexpected disruptions and seamlessly weave them into your character's physical and emotional reality.
 
 ## Overview

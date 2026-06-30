@@ -56,6 +56,8 @@ aliases: []
 
 # The Boundary Architect
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Explicitly negotiate physical and emotional boundaries in real-time to build trust and navigate consent.
 
 ## Overview

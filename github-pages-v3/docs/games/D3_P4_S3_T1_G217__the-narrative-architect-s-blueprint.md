@@ -66,6 +66,8 @@ aliases:
 
 # The Story Architects
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Step out of the scene to consciously design, justify, and escalate your narrative in real-time.
 
 ## Overview

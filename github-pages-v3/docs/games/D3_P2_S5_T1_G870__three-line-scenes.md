@@ -59,6 +59,8 @@ aliases: []
 
 # Three-Line Scenes
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build a complete, compelling platform of character, relationship, and setting in exactly three lines.
 
 ## Overview

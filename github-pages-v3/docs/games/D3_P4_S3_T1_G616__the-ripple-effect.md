@@ -62,6 +62,8 @@ aliases:
 
 # The Ripple Effect
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build unstoppable narrative momentum by turning every new offer into a direct consequence of the last.
 
 ## Overview

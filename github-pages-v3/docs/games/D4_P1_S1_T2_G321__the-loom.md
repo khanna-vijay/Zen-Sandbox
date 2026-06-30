@@ -71,6 +71,8 @@ aliases:
 
 # The Loom
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Weave abstract sensory threads into a living, breathing physical and auditory tapestry without speaking.
 
 ## Overview

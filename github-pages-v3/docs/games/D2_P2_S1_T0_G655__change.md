@@ -59,6 +59,8 @@ aliases:
 
 # Shared Memory Swap
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Seamlessly trade ownership of a single personal story at the clap of a hand.
 
 ## Overview

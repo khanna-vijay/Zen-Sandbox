@@ -63,6 +63,8 @@ aliases:
 
 # The Living Clay Mirror
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Shape, mirror, and find your physical counterpart in a silent, tactile exploration of connection.
 
 ## Overview

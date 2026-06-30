@@ -60,6 +60,8 @@ aliases:
 
 # Unison Cypher
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Pass a rhyming rhythm around the circle, shouting the final words together in perfect sync.
 
 ## Overview

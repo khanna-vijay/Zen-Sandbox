@@ -67,6 +67,8 @@ aliases:
 
 # Tag-Team Theatre
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A high-energy, costumed duo tournament where fast-paced scenes collide with theatrical wrestling-style showmanship.
 
 ## Overview

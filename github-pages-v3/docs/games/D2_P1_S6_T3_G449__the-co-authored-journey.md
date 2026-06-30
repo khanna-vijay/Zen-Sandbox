@@ -61,6 +61,8 @@ aliases: []
 
 # The Co-Authored Journey
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Navigate physical and narrative boundaries collaboratively by turning consent negotiations into creative storytelling offers.
 
 ## Overview

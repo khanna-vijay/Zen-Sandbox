@@ -69,6 +69,8 @@ aliases: []
 
 # Resonance Chamber
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build a living world from a single sensory spark, letting environment dictate the story.
 
 ## Overview

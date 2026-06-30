@@ -59,6 +59,8 @@ aliases:
 
 # Peer Check-In Allies
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Establish safe, consensual peer connections to anchor support and reflection throughout a workshop.
 
 ## Overview

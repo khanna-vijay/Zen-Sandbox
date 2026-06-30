@@ -63,6 +63,8 @@ aliases: []
 
 # Resonant States
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Embody raw emotional impulses while carrying the subtle physical residue of the player before you.
 
 ## Overview

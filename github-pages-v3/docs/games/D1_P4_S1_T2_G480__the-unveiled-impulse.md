@@ -65,6 +65,8 @@ aliases: []
 
 # The Unveiled Impulse
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Bypass the analytical mind with rapid-fire, multi-sensory physical and vocal chain reactions.
 
 ## Overview

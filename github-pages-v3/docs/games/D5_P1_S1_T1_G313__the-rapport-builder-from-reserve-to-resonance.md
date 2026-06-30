@@ -59,6 +59,8 @@ aliases: []
 
 # The Resonance Calibration
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Win over a skeptical, silent audience by micro-adjusting your performance energy without breaking your premise.
 
 ## Overview

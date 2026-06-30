@@ -66,6 +66,8 @@ aliases: []
 
 # Resonant Echoes
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Mirror, match, and modulate your partner's emotional and status offers in a continuous feedback loop.
 
 ## Overview

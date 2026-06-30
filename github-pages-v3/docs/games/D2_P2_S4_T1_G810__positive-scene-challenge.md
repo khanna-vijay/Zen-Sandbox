@@ -56,17 +56,17 @@ keywords:
   - "reset"
   - "collaboration"
   - "relationship"
-aliases:
-  - "Positive Scenes"
-  - "Three Line Positive Scenes"
+aliases: []
 ---
 
 # The Positivity Chain
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Pass a wave of conflict-free, supportive three-line scenes down the line without breaking the chain.
 
 ## Overview
-Players stand in two facing lines, forming pairs that must execute a rapid-fire, three-line scene. Every scene must establish a warm, cooperative relationship where characters know, like, and support each other with zero conflict. If any pair slips into negativity, denial, or friction, the entire chain resets to the beginning, challenging the group to find joy in radical agreement.
+Players stand in two facing lines, forming pairs that must execute a rapid-fire, three-line scene. Every scene must establish a warm, cooperative relationship where characters know, like, and support each other with zero conflict. If any pair slips into negativity, denial, or friction, the entire chain resets, challenging the group to find joy in radical agreement.
 
 ## What It Trains
 - **Domain:** D2 — The Partner
@@ -92,38 +92,40 @@ Players stand in two facing lines, forming pairs that must execute a rapid-fire,
 | Audience | not required |
 
 ## Setup
-Arrange the group into two parallel lines facing each other, so that every player is directly paired with the person opposite them. Ensure there is enough space for everyone to stand comfortably. No props or materials are required.
+Arrange the group into two parallel lines facing each other, so that every player is directly paired with the person opposite them. For virtual play, establish a clear, numbered speaking order in the chat beforehand.
 
 ## How to Play
-1. Instruct the group to stand in two parallel lines, facing each other to form distinct pairs.
+1. Divide the group into two parallel lines facing each other, forming distinct pairs. For virtual play, assign pairs and a clear sequential order.
 2. Explain that the goal is to pass a successful three-line scene down the entire line, pair by pair, without a single interruption or reset.
-3. Define the criteria for a successful scene: it must last exactly three lines (Line A, Line B, Line A), the characters must know and genuinely like each other, and the scenario must be entirely positive and free of conflict.
-4. Begin with the first pair at one end of the line. Player A delivers an initiating line that establishes a positive relationship or shared activity.
+3. Define the criteria for a successful scene: exactly three lines (Line A, Line B, Line A), characters must know and genuinely like each other, and the scenario must be entirely positive and free of conflict.
+4. Begin with the first pair. Player A delivers an initiating line that establishes a positive relationship or shared activity.
 5. Player B responds by enthusiastically accepting the offer ('Yes, And') and adding a supportive detail.
 6. Player A delivers the third and final line, cementing the positive connection and wrapping up the mini-scene.
 7. If the scene meets all criteria, the facilitator calls 'Success!' and the next pair immediately begins their scene.
-8. If any pair introduces conflict, denies an offer, expresses negativity, or plays as strangers, the facilitator playfully calls 'Reset!' and play immediately returns to the very first pair at the start of the line.
-9. Continue playing until the entire line successfully completes their scenes in a continuous, unbroken chain of positivity.
+8. If any pair introduces conflict, denies an offer, expresses negativity, or plays as strangers, the facilitator playfully calls 'Reset!' and play immediately returns to the start of the current block or the very beginning.
+9. To prevent tedious resets in large groups (12+ players), establish 'checkpoints' every three pairs; a reset only sends the group back to the last successfully cleared checkpoint.
 
 ## Facilitation Notes
 - Keep the 'Reset!' calls highly energetic, playful, and celebratory rather than punitive. The reset is a fun, shared challenge, not a failure.
 - Watch out for 'polite denial' or passive-aggressive positivity (e.g., 'I love you, but I'm leaving you'). The characters must genuinely support each other.
 - Encourage players to establish who they are to each other immediately. Using names, relationship terms (like 'sister' or 'partner'), and shared history helps establish the base reality instantly.
 - Remind players that conflict is not the only way to create a story. Building a warm, shared world is highly engaging and builds trust.
+- For virtual play, have players keep their cameras off until it is their turn, or use the 'hide non-video participants' feature to visually isolate the active pair.
 
 ## Variations
 - The Return Journey: Once the chain successfully reaches the end of the line, they must immediately pass it back to the start in reverse order to win.
+- Checkpoint Challenge: For large groups, introduce a 'save point' after every 3 successful scenes. If a pair fails, they only reset to the last save point rather than the very beginning.
 - Physicalized Positivity: Require each pair to incorporate a shared physical action or object work that reflects their positive relationship (e.g., high-fiving, baking together, or sharing an umbrella).
-- Themed Chain: Challenge the group to maintain a single overarching positive theme or setting (e.g., a family reunion, a successful space mission) across all scenes while keeping them distinct.
+- Virtual Grid Pass: In a video call, the facilitator calls out the next pair dynamically, or players 'pass' the positive energy to a specific peer by naming them to start the next scene.
 
 ## Debrief
 - Why do we often default to conflict or disagreement when we are nervous on stage?
 - How did it feel to receive an offer that was met with immediate, enthusiastic agreement?
 - What strategies did you use to establish a strong, positive relationship in just three lines?
-- How did the group's energy shift as we focused on supporting each other's success rather than individual performance?
+- How did the checkpoint system affect your team's resilience and stress levels compared to full resets?
 
 ## Safety & Inclusion
-Ensure players are aware they can express affection and positive relationships through words, eye contact, and shared enthusiasm without needing physical touch, respecting personal boundaries.
+Ensure players are aware they can express affection and positive relationships through words, eye contact, and shared enthusiasm without needing physical touch, respecting personal boundaries. For neurodivergent players or those needing extra processing time, allow a 3-second 'silent breath' before initiating a line to reduce pressure.
 
 ## Why It Works
-By gamifying radical agreement, this exercise removes the fear of making 'wrong' choices and reframes 'Yes, And' as a collective responsibility. The high-stakes reset mechanism builds intense focus and group mind, while the three-line constraint forces players to make immediate, high-value gifts that establish a solid base reality.
+By gamifying radical agreement, this exercise removes the fear of making 'wrong' choices and reframes 'Yes, And' as a collective responsibility. The high-stakes reset mechanism builds intense focus and group mind, while the three-line constraint forces players to make immediate, high-value gifts that establish a solid base reality. The checkpoint system maintains high engagement without causing fatigue.

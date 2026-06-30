@@ -67,6 +67,8 @@ aliases: []
 
 # The Story Chronometer
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build a complete, high-stakes narrative arc driven by timed, escalating external disruptions.
 
 ## Overview

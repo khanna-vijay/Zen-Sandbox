@@ -60,6 +60,8 @@ aliases: []
 
 # The Consent Canvas
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Navigate physical and emotional boundaries in real time using explicit check-ins and empowered choices.
 
 ## Overview

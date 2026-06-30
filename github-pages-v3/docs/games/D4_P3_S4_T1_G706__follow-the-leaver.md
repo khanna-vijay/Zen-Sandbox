@@ -56,6 +56,8 @@ aliases: []
 
 # Follow the Leaver
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Drive narrative momentum by letting every character's exit edit and launch the next scene.
 
 ## Overview

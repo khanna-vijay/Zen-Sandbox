@@ -2,7 +2,7 @@
 catalog_serial: 955
 filename: "D4_P1_S4_T2_G955__big-booty.md"
 title: "Big Booty"
-tagline: "A high-energy, rhythmic passing game that demands intense focus, active listening, and collective recovery."
+tagline: "A high-energy rhythmic passing game that builds group mind through collective tempo and joyful recovery."
 status: "enriched"
 primary_domain: 4
 primary_domain_name: "The Ensemble"
@@ -56,10 +56,12 @@ aliases: []
 
 # Big Booty
 
-> A high-energy, rhythmic passing game that demands intense focus, active listening, and collective recovery.
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
+> A high-energy rhythmic passing game that builds group mind through collective tempo and joyful recovery.
 
 ## Overview
-Players stand in a circle, assigned numbers relative to a designated leader. By maintaining a continuous four-beat physical and vocal rhythm, players pass the focus across the circle using rhythmic call-and-response patterns. When a mistake occurs, the entire group celebrates the error together, shifts positions, and immediately restarts the rhythm.
+Players stand in a circle and establish a continuous, four-beat physical rhythm. By mapping their voices to specific beats, they pass a rhythmic hot potato across the circle using numbers or names. When a mistake breaks the chain, the group celebrates the error, shifts physical positions to change their numbers, and immediately restarts.
 
 ## What It Trains
 - **Domain:** D4 — The Ensemble
@@ -68,7 +70,7 @@ Players stand in a circle, assigned numbers relative to a designated leader. By 
 - **Technique(s):** Timing exercises
 - **Focus:** connection
 
-**Objective:** To develop group mind, collective pacing, and rapid recovery from mistakes through a shared, high-energy rhythmic structure.
+**Objective:** To cultivate deep active listening, shared group mind, and a playful resilience to failure by aligning physical movement and vocal timing within a strict tempo.
 
 ## At a Glance
 | Aspect | Detail |
@@ -85,36 +87,36 @@ Players stand in a circle, assigned numbers relative to a designated leader. By 
 | Audience | not required |
 
 ## Setup
-Players stand in a circle. One player is designated as 'Big Booty' (the Anchor). Moving clockwise, the remaining players are numbered sequentially starting with 1, 2, 3, and so on. No props or special materials are required.
+Players stand in a circle. One player is designated as the Anchor, known as Big Booty. Moving clockwise, the remaining players are numbered sequentially starting with One, Two, Three, and so on.
 
 ## How to Play
-1. Establish a steady, collective four-beat physical rhythm, such as slapping thighs on beat one, clapping hands on beat two, snapping right fingers on beat three, and snapping left fingers on beat four.
-2. The Anchor initiates the vocal chant to lock in the tempo, leading the group in chanting 'Big Booty, Big Booty, Big Booty, [rest]' over the four-beat cycle.
-3. To begin play, the Anchor passes the focus on beats three and four of the cycle by saying 'Big Booty to [Number]' (for example, 'Big Booty to Four').
-4. The player holding that number must immediately respond on the next beats one and two, saying '[Their Number] to [Target Number or Big Booty]' (for example, 'Four to Seven').
-5. The play continues seamlessly across the circle, with each called player passing the focus in a two-beat window maintaining the established physical rhythm.
-6. If a player hesitates, misses a beat, calls a number that does not exist, or speaks out of turn, the rhythm breaks.
-7. Upon a mistake, the entire group immediately chants 'Oh snap!' in unison for two beats, followed by two cycles of the 'Big Booty' chant to reset.
-8. The player who made the mistake moves to the physical spot of the highest number, causing everyone between their old and new spots to shift over and take on new numbers.
+1. Establish a collective, continuous four-beat physical loop: Beat 1 is a double-thigh slap, Beat 2 is a hand clap, Beat 3 is a right-hand finger snap, and Beat 4 is a left-hand finger snap.
+2. To lock in the tempo, the Anchor leads the entire group in chanting the introductory phrase: Big Booty, Big Booty, Big Booty, Big Booty across two full four-beat cycles.
+3. The vocal passing mechanic operates strictly on the physical beats, where the active player must speak only on Beats 1, 2, and 3, leaving Beat 4 as a silent physical transition.
+4. On Beat 1 (slap), the active player says their own identifier (e.g., Big Booty or Four). On Beat 2 (clap), they say the word to. On Beat 3 (snap), they say the target player's number (e.g., Seven). Beat 4 (snap) is silent.
+5. On the very next Beat 1, the called player (Seven) must immediately take over, saying Seven on Beat 1, to on Beat 2, and their target number on Beat 3, followed by silence on Beat 4.
+6. If a player hesitates, misses a beat, calls a non-existent number, or speaks out of turn, the rhythm is broken.
+7. When a mistake occurs, the entire group immediately stops, throws their hands in the air, and joyfully shouts Oh, snap! in unison to celebrate the failure.
+8. The player who made the mistake moves physically to the highest-numbered spot in the circle, causing everyone between their old spot and the highest spot to shift one space counter-clockwise and take on a new number.
 
 ## Facilitation Notes
-- Keep the physical rhythm simple and grounded. If snapping is difficult for some, a simple thigh-slap and hand-clap sequence works perfectly.
-- Encourage players to fail joyfully. The collective 'Oh snap!' chant should feel like a celebration of the mistake, not a punishment.
-- Side-coach players to keep their eyes moving. It is easy to stare at the floor when concentrating, but eye contact is crucial for maintaining connection.
-- If the tempo gradually speeds up until it is impossible to speak, step in as the facilitator to model a steady, moderate tempo and use your own physical movement to anchor the group's speed.
+- Enforce the Silent Beat Four: Beginners often try to crowd their words or speak during Beat 4. Emphasize that Beat 4 is a silent breathing space that prepares the next player to speak cleanly on Beat 1.
+- Celebrate the Reset: Ensure the Oh, snap! celebration is loud, energetic, and genuinely joyful. It should feel like a reward for pushing the tempo, completely removing the sting of making a mistake.
+- Tempo Control: Watch for the natural tendency of the group to accelerate. If the tempo becomes unsustainably fast, side-coach the Anchor to deliberately drag the beat back to a steady, grounded pace during the reset chant.
+- Visual Connection: Encourage players to look directly at the person they are calling on Beat 3. This physicalizes the pass and prevents players from staring at the floor in concentration.
 
 ## Variations
-- The Sliding Scale: Instead of the mistake-maker becoming the Anchor, they move to the very last number in the circle. Everyone else slides up to fill the gap, changing their numbers. This keeps players constantly on their toes as their identity changes.
-- Silent Rhythm: Play the entire game using only the physical rhythm and eye contact to pass the focus, without speaking any numbers.
-- Word Association: Replace numbers with a category of words such as fruits or countries. Players must pass the focus using the category words in rhythm.
+- The Latency-Proof Remote Version: To play over video calls without audio lag, eliminate the vocal rhythm. Instead, players maintain a silent physical rhythm on camera. The active player passes the focus by making eye contact with their camera and performing a distinct physical gesture (like framing their face or pointing) on Beat 3. The next player picks up the gesture on Beat 1.
+- The Name Game: Instead of numbers, players use their actual names. This removes the mathematical shifting but increases personal connection, making it an excellent icebreaker.
+- The Sliding Scale: When a player makes a mistake, they move to the highest number, and everyone else slides up. To increase the challenge, the person who made the mistake becomes the Anchor, completely reversing the hierarchy of the circle.
 
 ## Debrief
-- How did it feel when the rhythm was perfectly locked in versus when it started to fall apart?
-- What strategies did you use to keep track of your number when the circle shifted?
-- How did the collective 'Oh snap!' chant affect your fear of making a mistake?
+- How did the strict physical rhythm help or hinder your ability to think of your next move?
+- What happened to our collective focus when we started celebrating our mistakes instead of apologizing for them?
+- How did you adapt your listening when your physical position—and therefore your number—kept changing?
 
 ## Safety & Inclusion
-Ensure the physical rhythm is accessible to all participants. If clapping or snapping is a barrier, players can tap their feet, nod their heads, or use any comfortable repetitive movement to keep time. Ensure the shifting of physical positions is done safely and at a walking pace.
+For players with physical limitations, the four-beat rhythm can be adapted to any accessible movements (e.g., nodding, blinking, tapping a foot, or chest-patting). If physical shifting around the circle is difficult, players can remain seated or stationary, and simply swap numbered cards or virtual labels instead of moving their bodies.
 
 ## Why It Works
-This game builds Group Mind by requiring absolute synchronization of physical movement and vocal timing. Because numbers shift when mistakes happen, players cannot rely on pre-planned patterns; they must remain fully present, actively listening to the current state of the circle. Celebrating mistakes collectively removes the fear of failure, allowing players to stay loose and spontaneous.
+By binding vocal cues to a rigid physical rhythm, the game bypasses the analytical brain and forces players into a state of flow. The constant shifting of numbers prevents pre-planning, demanding absolute presence and active listening. The collective celebration of errors reframes failure as a collaborative transition rather than an individual fault, cementing ensemble trust.

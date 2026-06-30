@@ -60,6 +60,8 @@ aliases: []
 
 # Emotional Endowment
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Instantly transform your partner's emotional state with a single line, and watch them embrace it.
 
 ## Overview

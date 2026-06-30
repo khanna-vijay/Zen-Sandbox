@@ -58,6 +58,8 @@ aliases: []
 
 # Touch to Speak
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Speak only when physically connected, using touch to drive the scene's dialogue and action.
 
 ## Overview

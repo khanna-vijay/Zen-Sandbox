@@ -57,6 +57,8 @@ aliases: []
 
 # Sonic Beacon
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Navigate the space blindly by tracking and trusting your partner's unique vocal beacon.
 
 ## Overview

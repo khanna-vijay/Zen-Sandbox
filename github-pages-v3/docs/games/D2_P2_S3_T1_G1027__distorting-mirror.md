@@ -53,6 +53,8 @@ aliases: []
 
 # The Distorted Mirror
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Reflect your partner's movements while playfully warping and exaggerating their physical choices.
 
 ## Overview

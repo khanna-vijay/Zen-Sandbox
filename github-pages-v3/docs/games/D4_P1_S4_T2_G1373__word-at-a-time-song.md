@@ -60,6 +60,8 @@ aliases:
 
 # One-Word Song
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build a cohesive, rhyming song one word at a time as a unified musical mind.
 
 ## Overview

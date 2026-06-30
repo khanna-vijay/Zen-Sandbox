@@ -60,6 +60,8 @@ aliases:
 
 # The Pressure Cooker
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Systematically turn up the heat on a simple scene to master narrative escalation.
 
 ## Overview

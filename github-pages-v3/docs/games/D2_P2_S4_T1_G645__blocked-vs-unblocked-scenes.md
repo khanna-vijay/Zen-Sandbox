@@ -57,6 +57,8 @@ aliases:
 
 # The Acceptance Progression
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Experience the friction of blocking and the flow of acceptance through three distinct scene stages.
 
 ## Overview

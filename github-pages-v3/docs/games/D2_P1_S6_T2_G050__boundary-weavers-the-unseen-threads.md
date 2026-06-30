@@ -58,6 +58,8 @@ aliases:
 
 # The Unseen Threads
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Master the art of real-time consent and boundary navigation without sacrificing collaborative storytelling.
 
 ## Overview

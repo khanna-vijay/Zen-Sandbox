@@ -70,6 +70,8 @@ aliases:
 
 # Echoes of the Unspoken
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build a rich emotional foundation in total silence before speaking a single word of dialogue.
 
 ## Overview

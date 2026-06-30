@@ -55,6 +55,8 @@ aliases:
 
 # Before or After
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Explore a story's timeline by letting the audience jump backward or forward in time.
 
 ## Overview

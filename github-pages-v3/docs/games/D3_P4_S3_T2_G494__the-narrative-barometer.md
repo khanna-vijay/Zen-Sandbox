@@ -64,6 +64,8 @@ aliases: []
 
 # The Narrative Barometer
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Steer your story's architecture in real time by reading and responding to audience engagement signals.
 
 ## Overview

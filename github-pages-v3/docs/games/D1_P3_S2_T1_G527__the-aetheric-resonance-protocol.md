@@ -68,6 +68,8 @@ aliases:
 
 # The Resonance Dial
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Scale raw emotional impulses from a silent spark to peak intensity and back to neutral.
 
 ## Overview

@@ -64,6 +64,8 @@ aliases:
 
 # The Summons
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > An atmospheric narrative format where isolated characters face a mysterious, high-stakes confrontation.
 
 ## Overview

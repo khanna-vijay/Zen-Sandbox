@@ -57,6 +57,8 @@ aliases: []
 
 # Sync and Celebrate
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Find joy in rapid-fire coordination, celebrating instant matches and laughing off rhythm slip-ups.
 
 ## Overview

@@ -66,6 +66,8 @@ aliases:
 
 # The Fourth Wall Conductor
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Command the room by dynamically adapting your performance to shifting, simulated audience energy states.
 
 ## Overview

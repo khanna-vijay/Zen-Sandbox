@@ -56,6 +56,8 @@ aliases: []
 
 # Embodied Portrait
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Step into the physical and emotional reality of a real-world stranger to build deep characters.
 
 ## Overview

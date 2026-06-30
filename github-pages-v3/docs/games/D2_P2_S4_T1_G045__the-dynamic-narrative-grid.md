@@ -71,6 +71,8 @@ aliases:
 
 # The Storytelling Grid
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Weave a collaborative, character-driven story across a dynamic virtual grid of spotlighted players.
 
 ## Overview

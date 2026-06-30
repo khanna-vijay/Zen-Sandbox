@@ -68,6 +68,8 @@ aliases:
 
 # The Confidant's Echo
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Translate the audience's unspoken reactions into immediate, high-stakes scene choices.
 
 ## Overview

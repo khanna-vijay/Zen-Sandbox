@@ -62,6 +62,8 @@ aliases:
 
 # The Guest List
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Help your host look brilliant by gifting clues through physical and verbal character choices.
 
 ## Overview

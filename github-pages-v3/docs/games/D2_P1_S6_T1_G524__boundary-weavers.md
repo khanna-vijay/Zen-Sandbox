@@ -59,6 +59,8 @@ aliases: []
 
 # Boundary Cartography
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Navigate unspoken personal limits in real-time scenes using active check-ins and empowered choices.
 
 ## Overview

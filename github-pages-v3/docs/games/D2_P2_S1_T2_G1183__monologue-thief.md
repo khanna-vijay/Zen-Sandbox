@@ -62,6 +62,8 @@ aliases: []
 
 # Word Thief
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Steal your partner's final words to instantly launch your own high-energy monologue.
 
 ## Overview

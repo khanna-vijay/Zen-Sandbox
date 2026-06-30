@@ -58,6 +58,8 @@ aliases:
 
 # Rapid Backstory Montage
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Explode a character's offhand remark into a lightning-fast, chronological sequence of historical snapshots.
 
 ## Overview

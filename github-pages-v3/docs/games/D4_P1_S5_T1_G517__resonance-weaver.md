@@ -61,6 +61,8 @@ aliases:
 
 # Resonant Threads
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Weave subtle, organic callbacks from past scenes to build a deeply interconnected narrative tapestry.
 
 ## Overview

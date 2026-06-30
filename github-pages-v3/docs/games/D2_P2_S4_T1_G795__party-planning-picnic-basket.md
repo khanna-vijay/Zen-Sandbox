@@ -58,6 +58,8 @@ aliases:
 
 # The Event Planners
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Experience the stark contrast between blocking and building by planning an imaginary celebration.
 
 ## Overview

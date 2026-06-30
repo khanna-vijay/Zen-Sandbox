@@ -57,6 +57,8 @@ aliases: []
 
 # Evolution
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A high-energy physical tournament where players joyfully evolve and devolve through distinct creature stages.
 
 ## Overview

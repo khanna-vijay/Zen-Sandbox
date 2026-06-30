@@ -59,6 +59,8 @@ aliases: []
 
 # Action Syllables
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build group mind and physical memory by echoing names and physicalized syllables in a cumulative chain.
 
 ## Overview

@@ -62,6 +62,8 @@ aliases:
 
 # Emotional Pulse
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Instantly shift emotional states and intensities on a scale of one to ten.
 
 ## Overview

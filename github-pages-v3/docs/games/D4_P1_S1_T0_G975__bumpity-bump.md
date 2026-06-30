@@ -53,6 +53,8 @@ aliases: []
 
 # Bumpity Bump
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A high-energy circle game of rapid name-recall, peripheral focus, and split-second spontaneity.
 
 ## Overview

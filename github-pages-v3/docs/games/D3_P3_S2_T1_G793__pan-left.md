@@ -63,6 +63,8 @@ aliases:
 
 # Pan Left
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Rotate through a carousel of distinct scenes, instantly heightening the comedic game with every turn.
 
 ## Overview

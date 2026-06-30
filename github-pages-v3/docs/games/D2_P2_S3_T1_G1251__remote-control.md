@@ -58,6 +58,8 @@ aliases: []
 
 # Sound and Motion Mirror
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Translate sound into movement and movement into sound to build deep, non-verbal partner connection.
 
 ## Overview

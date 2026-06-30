@@ -55,6 +55,8 @@ aliases: []
 
 # Pulse Association
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Sync your minds and bypass your inner editor through a rhythmic, rapid-fire word-association circle.
 
 ## Overview

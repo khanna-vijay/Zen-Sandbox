@@ -64,6 +64,8 @@ aliases: []
 
 # Thread Weavers
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Cultivate collective focus and narrative agility by tracking, dropping, and instantly reviving dormant story elements.
 
 ## Overview

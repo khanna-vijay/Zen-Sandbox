@@ -69,6 +69,8 @@ aliases:
 
 # Soundtrack Roulette
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Let random musical tracks dictate the physical, emotional, and verbal landscape of your scenes.
 
 ## Overview

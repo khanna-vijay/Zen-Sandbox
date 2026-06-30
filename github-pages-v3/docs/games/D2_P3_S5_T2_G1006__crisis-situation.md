@@ -60,6 +60,8 @@ aliases: []
 
 # The Emergency Gift
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Solve your partner's sudden crisis instantly using the random object in your hand.
 
 ## Overview

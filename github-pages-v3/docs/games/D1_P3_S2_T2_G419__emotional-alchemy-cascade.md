@@ -61,6 +61,8 @@ aliases: []
 
 # The Alchemy Cascade
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Master rapid emotional transitions by releasing one intense state before instantly embodying another.
 
 ## Overview

@@ -60,6 +60,8 @@ aliases: []
 
 # The Scene Analyst
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Pause a scene to hear what an outside observer notices, then dial up those dynamics.
 
 ## Overview

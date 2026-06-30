@@ -65,6 +65,8 @@ aliases: []
 
 # The Living Tapestry
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Weave sound, movement, and emotion into a living, breathing abstract landscape as a unified ensemble.
 
 ## Overview

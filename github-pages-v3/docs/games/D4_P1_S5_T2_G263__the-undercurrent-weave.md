@@ -2,7 +2,7 @@
 catalog_serial: 263
 filename: "D4_P1_S5_T2_G263__the-undercurrent-weave.md"
 title: "Undercurrent Weave"
-tagline: "Track, embody, and organically evolve a shared emotional atmosphere across a series of seamless scenes."
+tagline: "Track, shift, and synthesize a shared emotional atmosphere across a series of seamless, intuitive scenes."
 status: "enriched"
 primary_domain: 4
 primary_domain_name: "The Ensemble"
@@ -63,10 +63,12 @@ aliases: []
 
 # Undercurrent Weave
 
-> Track, embody, and organically evolve a shared emotional atmosphere across a series of seamless scenes.
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
+> Track, shift, and synthesize a shared emotional atmosphere across a series of seamless, intuitive scenes.
 
 ## Overview
-An advanced ensemble exercise where players collectively track and evolve an abstract emotional or thematic 'undercurrent' across multiple scenes. Instead of relying on explicit edits, the group senses when the underlying mood has shifted, prompting new players to step in and explore its next phase. The result is a fluid, highly connected montage driven entirely by shared intuition rather than plot.
+An advanced ensemble exercise where players collectively track and evolve an abstract emotional or thematic undercurrent across multiple scenes. Instead of relying on explicit verbal edits or physical sweeps, the group senses when the underlying mood has shifted, prompting new players to step in and explore its next phase. The result is a fluid, highly connected montage driven entirely by shared intuition and atmospheric progression rather than plot.
 
 ## What It Trains
 - **Domain:** D4 — The Ensemble
@@ -92,7 +94,7 @@ An advanced ensemble exercise where players collectively track and evolve an abs
 | Audience | not required |
 
 ## Setup
-Players stand in a wide semi-circle facing the playing space. No props or chairs are used. The facilitator secures an abstract, evocative suggestion from the group representing a mood, tension, or state of being (e.g., 'unspoken suspicion' or 'fading optimism') rather than a physical location.
+Players stand in a wide semi-circle facing the playing space. No props or chairs are used. The facilitator secures an abstract, evocative suggestion from the group representing a mood, tension, or state of being (such as 'unspoken suspicion' or 'fading optimism') rather than a physical location.
 
 ## How to Play
 1. Obtain an abstract thematic suggestion from the group, focusing on an emotional state, tension, or atmospheric quality.
@@ -114,6 +116,7 @@ Players stand in a wide semi-circle facing the playing space. No props or chairs
 - Encourage physical support: Offstage players can subtly mirror the physical tension of the onstage players to stay connected to the group mind.
 
 ## Variations
+- Virtual Adaptation: In a video-call setting, offstage players keep cameras off. To transition, an incoming player turns their camera on, establishing their physical presence and facial expression. The onstage players then turn their cameras off. This creates a clean, visual cross-fade that mirrors the physical stepping-in.
 - Non-Verbal Initiation: Begin the game with a collective sound or physical gesture instead of a verbal suggestion, letting the initial undercurrent emerge purely organically.
 - The Silent Thread: Challenge the ensemble to play one or more of the middle scenes entirely without dialogue, relying solely on physical subtext and environment work.
 - Character Echoes: An advanced variation where a character from an earlier scene reappears later, but their behavior and status have been altered by the evolved undercurrent.
@@ -125,7 +128,7 @@ Players stand in a wide semi-circle facing the playing space. No props or chairs
 - Where did you feel the Group Mind working at its strongest, and when did we lose the thread?
 
 ## Safety & Inclusion
-Because this game explores deep emotional atmospheres, establish a 'cool-down' breath at the end of the exercise to help players step out of intense emotional states. Ensure players know they can choose light or low-stakes emotional undercurrents if needed.
+Establish a 'Safety Anchor' before starting: players agree on emotional boundaries and can use a non-verbal 'Pause' or 'Shift' signal if a theme becomes too intense. Always run a 'de-role' exercise at the end (e.g., shaking off the character, stating their real name and one real-world fact) to transition out of heavy emotional states.
 
 ## Why It Works
 By stripping away the safety net of narrative continuity and formal scene edits, this game forces players to rely entirely on shared intuitive tracking. It exercises the 'Group Mind' by demanding that everyone in the room monitors the exact same invisible variable—the emotional undercurrent—and agrees non-verbally on its trajectory. This builds a profound level of trust, active listening, and thematic synthesis.

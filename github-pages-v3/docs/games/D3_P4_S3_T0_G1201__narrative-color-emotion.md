@@ -65,6 +65,8 @@ aliases:
 
 # Action, Color, Emotion
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Balance plot, sensory detail, and feeling by shifting narrative focus on a dime.
 
 ## Overview

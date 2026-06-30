@@ -62,6 +62,8 @@ aliases: []
 
 # Gibberish Relay
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Pass a secret message down a line using only nonsense language and physical mime.
 
 ## Overview

@@ -67,6 +67,8 @@ aliases: []
 
 # The Resonance Engine
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Weave a multi-sensory tapestry of sound, movement, and spoken word around a single abstract concept.
 
 ## Overview

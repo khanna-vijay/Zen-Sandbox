@@ -65,6 +65,8 @@ aliases: []
 
 # Grid Weavers
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Weave a seamless virtual narrative using text-cued turns, physical frames, and instant non-verbal support.
 
 ## Overview

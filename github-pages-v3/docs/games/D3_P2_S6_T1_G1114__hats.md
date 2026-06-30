@@ -56,6 +56,8 @@ aliases: []
 
 # Hats
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Justify every physical reach and defensive dodge while wearing hats in a grounded scene.
 
 ## Overview

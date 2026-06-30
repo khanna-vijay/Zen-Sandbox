@@ -63,6 +63,8 @@ aliases: []
 
 # The Instant Impulse Pivot
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Bypass your inner editor by instantly committing to sudden, contrasting physical and emotional shifts.
 
 ## Overview

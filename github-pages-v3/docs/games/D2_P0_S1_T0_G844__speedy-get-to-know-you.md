@@ -62,6 +62,8 @@ aliases:
 
 # Rapid Connection Rounds
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build instant trust and active listening through fast-paced, structured partner conversations.
 
 ## Overview

@@ -69,6 +69,8 @@ aliases: []
 
 # The Resonance Chamber
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Deepen partner connection by transforming simple physical observations into rich, high-status character relationships.
 
 ## Overview

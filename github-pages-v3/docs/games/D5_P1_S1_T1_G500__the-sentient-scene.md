@@ -65,6 +65,8 @@ aliases: []
 
 # The Sentient Space
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Transform the audience's live energy into the physical environment and narrative engine of your scene.
 
 ## Overview

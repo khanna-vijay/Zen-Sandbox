@@ -67,6 +67,8 @@ aliases:
 
 # Gallery Box Storytellers
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Transform your virtual video tiles into an interconnected, physical chain of collaborative storytelling.
 
 ## Overview

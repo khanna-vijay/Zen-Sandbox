@@ -65,6 +65,8 @@ aliases:
 
 # Resonance Weave
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Co-create and fluidly morph abstract physical and vocal landscapes to unlock deep ensemble connection.
 
 ## Overview

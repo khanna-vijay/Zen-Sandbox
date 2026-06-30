@@ -55,6 +55,8 @@ aliases:
 
 # The Misnaming Walk
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Bypass your inner editor by pointing at objects and calling them anything but what they are.
 
 ## Overview

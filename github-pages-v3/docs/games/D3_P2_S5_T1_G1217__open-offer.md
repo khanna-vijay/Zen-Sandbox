@@ -60,6 +60,8 @@ aliases: []
 
 # The Open Offer
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Ground ambiguous physical or verbal prompts by collaboratively building a solid, immediate base reality.
 
 ## Overview

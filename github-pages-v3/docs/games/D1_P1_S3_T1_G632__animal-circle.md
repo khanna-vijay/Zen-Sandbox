@@ -59,6 +59,8 @@ aliases: []
 
 # Creature Circle
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Transform instantly into physical, vocal characters using spontaneous combinations of adjectives and animals.
 
 ## Overview

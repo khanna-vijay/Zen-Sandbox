@@ -58,6 +58,8 @@ aliases: []
 
 # Self-Rhyming Couplets
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Speak in self-contained rhyming couplets to discover unexpected narrative choices through immediate word association.
 
 ## Overview

@@ -67,6 +67,8 @@ aliases:
 
 # The Silent Script
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Weave a dynamic virtual narrative using silent physical play and secret, real-time text prompts.
 
 ## Overview

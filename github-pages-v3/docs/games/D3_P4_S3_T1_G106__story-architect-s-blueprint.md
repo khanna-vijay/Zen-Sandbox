@@ -2,7 +2,7 @@
 catalog_serial: 106
 filename: "D3_P4_S3_T1_G106__story-architect-s-blueprint.md"
 title: "The Narrative Scaffold"
-tagline: "Construct a complete, satisfying story arc in real-time using guided structural pauses."
+tagline: "Internalize narrative structure through guided, real-time pauses that build a complete, satisfying story arc."
 status: "enriched"
 primary_domain: 3
 primary_domain_name: "The Scene"
@@ -62,10 +62,12 @@ aliases: []
 
 # The Narrative Scaffold
 
-> Construct a complete, satisfying story arc in real-time using guided structural pauses.
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
+> Internalize narrative structure through guided, real-time pauses that build a complete, satisfying story arc.
 
 ## Overview
-The Narrative Scaffold is a guided scene-work exercise where a facilitator actively coaches two to three players through a complete story arc. By pausing the action at critical junctures, the facilitator prompts the players to consciously identify and execute key narrative milestones. This structured, stop-and-start approach helps players internalize the natural progression of a story from setup to resolution.
+The Narrative Scaffold is an active scene-work exercise where a facilitator coaches players through a complete story arc using strategic pauses. By freezing the action at critical narrative milestones, players learn to consciously identify and execute key structural beats. This structured approach helps the entire ensemble build the muscle memory needed to co-create cohesive stories spontaneously.
 
 ## What It Trains
 - **Domain:** D3 — The Scene
@@ -74,7 +76,7 @@ The Narrative Scaffold is a guided scene-work exercise where a facilitator activ
 - **Technique(s):** Story Spine; Platform/Tilt; If this is true, what else is true?; Justify the absurd; Stakes-escalation reps
 - **Focus:** narrative
 
-**Objective:** To develop a practical, muscle-memory understanding of narrative architecture by consciously identifying, introducing, and justifying key story beats—such as the inciting incident, rising action, climax, and resolution—within a single, cohesive scene.
+**Objective:** To develop a practical, intuitive understanding of narrative architecture by identifying, introducing, and justifying key story beats—such as the platform, inciting incident, rising action, climax, and resolution—within a collaborative scene.
 
 ## At a Glance
 | Aspect | Detail |
@@ -91,39 +93,38 @@ The Narrative Scaffold is a guided scene-work exercise where a facilitator activ
 | Audience | not required |
 
 ## Setup
-An open performance space. The facilitator stands or sits in the audience area where they can clearly see and hear the players. Two to three players step onto the stage, while the rest of the group observes as active audience members. No props or special materials are required. The facilitator obtains a simple suggestion of a location or a relationship to initiate the scene.
+An open performance space. The facilitator stands where they can clearly see the stage. Two to three active players step up, while the remaining players sit in the audience area, assigned active observation roles. The facilitator obtains a simple suggestion of a location or relationship to begin.
 
 ## How to Play
-1. The facilitator explains the core narrative milestones (Platform, Inciting Incident, Rising Action, Climax, Resolution) and invites two to three players to the stage.
-2. The facilitator secures a simple suggestion, such as a mundane location or a relationship, to establish the starting point of the scene.
-3. The players begin Phase 1 (Setting the Stage), establishing the normal world by defining their characters, their relationship, and a routine activity or environment for approximately one to two minutes.
-4. The facilitator calls Freeze to pause the action, then prompts the players to introduce the Inciting Incident—an unexpected event or choice that disrupts their established normal world.
-5. The facilitator calls Play and the players resume, immediately integrating and reacting to this disruption to launch the main conflict.
-6. After the disruption is established, the facilitator freezes the scene again and prompts the players for Rising Action, asking them to introduce a complication or obstacle that raises the stakes and makes their goals harder to achieve.
-7. The facilitator calls Play to let the complication unfold, then freezes the scene a third time to prompt the Climax—the ultimate point of no return where the central conflict must be resolved through a decisive choice or action.
-8. The facilitator calls Play for the climax to occur, then calls a final Freeze to prompt the Resolution, asking the players to show the new normal and the immediate consequences of the climax.
-9. The facilitator calls Play one last time, allowing the players to bring the scene to a natural, satisfying conclusion based on their resolution.
+1. Divide the group into two active players on stage and the remaining players off-stage as the 'Structural Council,' assigning each off-stage player a specific narrative element to track (e.g., Platform, Inciting Incident, Stakes, or Resolution).
+2. Obtain a simple, mundane suggestion of a location or relationship to establish the baseline of the scene.
+3. The active players begin the scene by establishing the 'Platform'—defining their characters, relationship, and routine activity for about one minute.
+4. The facilitator calls 'Freeze!' to pause the action, then asks the off-stage 'Structural Council' to briefly call out what was established in the platform, keeping them actively engaged in the narrative's progress.
+5. The facilitator prompts the active players to introduce the 'Inciting Incident'—an unexpected event or choice that disrupts the established normal world—then calls 'Play' to resume.
+6. After the disruption is integrated, the facilitator calls 'Freeze!' again, asking the off-stage players to rate the current stakes from 1 to 5, then prompts the active players to introduce a complication that raises those stakes.
+7. The facilitator calls 'Play' to let the complication unfold, then calls a final 'Freeze!' to prompt the 'Climax'—the ultimate point of no return where the conflict must be resolved.
+8. The active players play out the climax and transition into the 'Resolution' (the new normal), bringing the scene to a natural conclusion without further freezes.
+9. Repeat the process with new active players, gradually reducing the facilitator's verbal prompts to transition the group toward uncoached, organic narrative flow.
 
 ## Facilitation Notes
-- Keep Prompts Concise: Facilitators should keep their freeze prompts brief and direct. Avoid lecturing; state the narrative milestone clearly and let the players' instincts do the work.
-- Avoid Over-Planning: During the freeze, players might try to negotiate a complex script. Side-coach them to make a single, immediate choice and discover the details through action rather than talking it out.
-- Pacing the Transitions: Do not rush the freezes. Let each phase breathe enough to establish a solid foundation before throwing the next curveball. If the platform isn't clear, the inciting incident won't land.
-- Pitfall: Introducing New Conflicts in the Resolution: Players often try to start a new story at the end. Remind them that the resolution is about settling the dust and showing the new normal, not starting a sequel.
-- Side-Coaching Cue: Use active prompts like: What is the immediate consequence of that choice? or How does this obstacle make your character's goal twice as difficult?
+- To transition from coached freezes to organic play, use the 'Fading Coach' method: in subsequent rounds, replace verbal instructions with simple physical gestures (like a raised hand for a freeze), then challenge players to execute the narrative beats entirely without pauses.
+- Keep off-stage players highly engaged by assigning them active tracking roles, such as 'Stakes Monitors' who use silent hand gestures (thumbs up/down) to indicate the tension level during the scene.
+- Ensure freezes are brief. If players begin negotiating or planning their next moves during a freeze, immediately call 'Play' to force them to discover the narrative through action rather than discussion.
+- Watch for the 'Sequel Trap' where players try to introduce a brand-new conflict during the resolution phase; coach them to focus on settling the dust and establishing the new normal.
+- Encourage physical variety during freezes; if a player is frozen in an awkward or physically demanding position, invite them to adjust to a comfortable, safe stance while maintaining the scene's spatial relationship.
 
 ## Variations
-- Player-Driven Scaffolding: Once players are comfortable, remove the facilitator. A player off-stage (or one of the active players) calls the freezes and names the next narrative beat.
-- The Silent Scaffold: Instead of verbal prompts, the facilitator uses physical or visual cues (like a hand gesture or a bell) to signal the transition to the next narrative phase, forcing players to identify which beat is needed next without being told.
-- Genre-Specific Arcs: Apply the same structure but overlay a specific genre (e.g., Film Noir, Fairy Tale, Sci-Fi), tailoring the prompts to match genre-specific narrative tropes.
+- The Training Wheels Off: Start the scene with coached freezes, but halfway through, the facilitator announces 'No more freezes,' requiring the players to organically find the climax and resolution on their own.
+- The Council's Call: Instead of the facilitator calling the freezes, the off-stage 'Structural Council' players call 'Freeze!' when they collectively feel the scene is ready for the next narrative milestone.
+- The Silent Scaffold: The facilitator uses non-verbal cues, such as a single clap for a freeze and a double clap for play, forcing players to identify which narrative beat is needed next without explicit instructions.
 
 ## Debrief
-- How did pausing the scene to think about structure change your physical and emotional choices when we resumed?
-- Which narrative transition felt the most challenging to execute, and why?
-- How did raising the stakes during the rising action make the climax feel more earned and satisfying?
-- How can we apply this structural awareness to our scenes without needing an external facilitator to freeze the action?
+- How did having the off-stage 'Structural Council' track your narrative milestones affect your awareness of the story's structure?
+- What strategies helped you transition from relying on the facilitator's freezes to finding the narrative beats organically?
+- How did keeping the freezes brief and action-oriented prevent you from over-planning your choices?
 
 ## Safety & Inclusion
-Ensure that the high-stakes nature of the Climax prompt does not inadvertently push players into unsafe physical choices or non-consensual physical contact. Remind players that high stakes can be expressed through emotional intensity, status shifts, and verbal choices just as effectively as physical action.
+During freezes, players may find themselves stuck in physically strenuous or unbalanced positions. Instruct players that they are always permitted to adjust their physical stance to a safe, comfortable position during a freeze. Additionally, ensure that high-stakes climaxes are resolved through emotional shifts, status changes, or verbal choices rather than non-consensual physical contact.
 
 ## Why It Works
-This game works because it externalizes the internal cognitive process of narrative construction. By breaking a scene down into discrete, manageable phases, it prevents players from becoming overwhelmed by trying to manage plot, character, and dialogue all at once. The freeze mechanic provides a safe space to analyze the narrative trajectory, ensuring that players learn to value structure and pacing as essential tools for serving the story.
+This game builds narrative muscle memory by externalizing the structural milestones of a story. By involving off-stage players as active structural trackers, the entire group practices identifying narrative beats in real-time. The deliberate transition from coached freezes to uncoached play bridges the gap between analytical understanding and spontaneous, organic performance, ensuring players can serve the story without losing momentum.

@@ -68,6 +68,8 @@ aliases: []
 
 # Musical Story Spine
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Sing a classic fairy tale sequentially, with each player using a different musical genre.
 
 ## Overview

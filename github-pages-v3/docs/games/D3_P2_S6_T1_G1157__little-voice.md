@@ -61,6 +61,8 @@ aliases:
 
 # Voices of the Room
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Bring your physical environment to life and justify the absurd things your surroundings say.
 
 ## Overview

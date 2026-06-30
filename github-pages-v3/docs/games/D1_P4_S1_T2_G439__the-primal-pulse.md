@@ -69,6 +69,8 @@ aliases: []
 
 # Resonance and Shift
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Bypass the inner editor through rapid-fire physical, vocal, and emotional transformation.
 
 ## Overview

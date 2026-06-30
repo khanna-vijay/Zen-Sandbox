@@ -55,6 +55,8 @@ aliases:
 
 # Rhyme Retraction
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Justify sudden, rhyming shifts in your scene's reality whenever your partner mishears you.
 
 ## Overview

@@ -52,6 +52,8 @@ aliases: []
 
 # Echo Dialogue
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Hear every word, repeat the line, and build the scene one echo at a time.
 
 ## Overview

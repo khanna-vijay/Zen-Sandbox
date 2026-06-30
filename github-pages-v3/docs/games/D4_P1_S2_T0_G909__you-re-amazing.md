@@ -58,6 +58,8 @@ aliases: []
 
 # You're Amazing
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A high-energy, status-flipping mixer where compliments are met with playful, dramatic dismissals.
 
 ## Overview

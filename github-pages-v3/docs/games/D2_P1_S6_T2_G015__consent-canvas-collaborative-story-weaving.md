@@ -59,6 +59,8 @@ aliases: []
 
 # Boundary Canvas
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Navigate hidden personal boundaries in real-time scenes using proactive check-ins and immediate rewinds.
 
 ## Overview

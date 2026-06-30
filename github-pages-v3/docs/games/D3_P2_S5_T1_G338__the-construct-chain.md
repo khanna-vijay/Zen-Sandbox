@@ -63,6 +63,8 @@ aliases:
 
 # The Narrative Scaffold
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Construct a rock-solid base reality by systematically layering essential narrative elements turn by turn.
 
 ## Overview

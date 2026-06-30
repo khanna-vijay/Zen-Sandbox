@@ -56,6 +56,8 @@ aliases: []
 
 # Rapid-Fire Goalie
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Defend the net by instantly accepting and returning high-speed character endowments.
 
 ## Overview

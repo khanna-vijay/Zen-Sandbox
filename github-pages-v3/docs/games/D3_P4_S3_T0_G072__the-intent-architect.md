@@ -67,6 +67,8 @@ aliases:
 
 # The Story Architect
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Declare your narrative blueprint out loud before building each step of your scene.
 
 ## Overview

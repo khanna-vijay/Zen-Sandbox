@@ -63,6 +63,8 @@ aliases: []
 
 # The Feedback Agreement
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Transform your audience into a living dashboard of real-time performance feedback.
 
 ## Overview

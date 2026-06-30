@@ -67,6 +67,8 @@ aliases:
 
 # The Emotional Resonance Walk
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Instantly embody shifting emotions at varying intensities through physical movement, breath, and spatial awareness.
 
 ## Overview

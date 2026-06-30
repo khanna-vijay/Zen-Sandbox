@@ -54,6 +54,8 @@ aliases: []
 
 # Finger Applause
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Calibrate the room's energy and build collective focus through a graduated, sensory-rich clapping exercise.
 
 ## Overview

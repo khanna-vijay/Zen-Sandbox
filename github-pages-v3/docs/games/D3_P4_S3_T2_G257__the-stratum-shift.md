@@ -61,6 +61,8 @@ aliases:
 
 # The Stratum Shift
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Escalate scene stakes and master narrative structure through timed, layered character secrets.
 
 ## Overview

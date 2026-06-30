@@ -61,6 +61,8 @@ aliases:
 
 # Threshold Negotiators
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Transform physical boundaries into creative narrative offers through deliberate, real-time consent negotiation.
 
 ## Overview

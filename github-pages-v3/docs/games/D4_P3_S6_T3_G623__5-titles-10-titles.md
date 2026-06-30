@@ -63,6 +63,8 @@ aliases:
 
 # The Playlist
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Improvise a high-contrast sequence of scenes inspired by a visible list of audience-generated titles.
 
 ## Overview

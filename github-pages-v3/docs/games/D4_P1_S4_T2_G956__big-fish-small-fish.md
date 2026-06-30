@@ -54,6 +54,8 @@ aliases: []
 
 # Big Fish, Small Fish
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A high-energy rhythm game of cognitive dissonance, physical opposites, and joyful failure.
 
 ## Overview

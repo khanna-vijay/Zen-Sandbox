@@ -61,6 +61,8 @@ aliases:
 
 # The Boundary Lab
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Practice navigating real-time boundary challenges and empowering 'Cut' calls in a supportive, structured environment.
 
 ## Overview

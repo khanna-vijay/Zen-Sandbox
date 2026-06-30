@@ -65,6 +65,8 @@ aliases: []
 
 # The Spontaneity Chamber
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Bypass your inner editor with rapid-fire, full-body physical, vocal, and emotional reactions.
 
 ## Overview

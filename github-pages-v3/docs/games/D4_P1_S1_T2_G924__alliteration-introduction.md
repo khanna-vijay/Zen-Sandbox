@@ -60,6 +60,8 @@ aliases: []
 
 # Alliterative Name Train
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build group memory, physical connection, and focus by chaining names, adjectives, and physical gestures.
 
 ## Overview

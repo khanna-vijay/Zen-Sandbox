@@ -59,6 +59,8 @@ aliases:
 
 # Gibberish Replay
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Perform a scene in plain language, then instantly recreate its emotional core using nonsense words.
 
 ## Overview

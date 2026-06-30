@@ -55,6 +55,8 @@ aliases: []
 
 # Ensemble Knot
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Untangle a physical web of hands using collective movement, non-verbal cues, and shared awareness.
 
 ## Overview

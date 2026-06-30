@@ -53,6 +53,8 @@ aliases: []
 
 # The Welcome Ovation
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build instant ensemble support by showering every individual with a massive, unconditional standing ovation.
 
 ## Overview

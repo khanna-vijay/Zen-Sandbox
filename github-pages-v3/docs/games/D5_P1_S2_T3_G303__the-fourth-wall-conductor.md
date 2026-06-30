@@ -65,6 +65,8 @@ aliases: []
 
 # The Fourth Wall Conductor
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Guide the room's emotional current using only your physical presence and silent energetic projection.
 
 ## Overview

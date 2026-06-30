@@ -60,6 +60,8 @@ aliases: []
 
 # The Hesitation Scene
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Pause mid-sentence, let the audience fill the blank, and instantly justify their absurd suggestion.
 
 ## Overview

@@ -60,6 +60,8 @@ aliases: []
 
 # Toaster
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Pop up like toast to instantly launch high-energy, spontaneous scenes with immediate character and context.
 
 ## Overview

@@ -59,6 +59,8 @@ aliases: []
 
 # Ksss
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Sync physical gestures to a steady rhythm and celebrate spontaneous moments of perfect alignment.
 
 ## Overview

@@ -64,6 +64,8 @@ aliases:
 
 # The Sonic Loom
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Weave abstract themes and dynamic ambient soundscapes into a unified, multi-sensory ensemble montage.
 
 ## Overview

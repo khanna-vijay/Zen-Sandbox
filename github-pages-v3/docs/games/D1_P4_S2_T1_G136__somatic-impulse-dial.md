@@ -67,6 +67,8 @@ aliases:
 
 # Somatic Impulse Dial
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Access, scale, and rapidly transition between deep emotional states using precise physical and vocal triggers.
 
 ## Overview

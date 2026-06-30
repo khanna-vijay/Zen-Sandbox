@@ -61,6 +61,8 @@ aliases:
 
 # The Invisible Rope
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Feel the tension and share the struggle in a high-energy, imaginary battle of physics.
 
 ## Overview

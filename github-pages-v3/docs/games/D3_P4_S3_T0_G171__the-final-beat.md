@@ -59,6 +59,8 @@ aliases:
 
 # The Final Beat
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Master the art of the clean exit by identifying and executing powerful scene conclusions.
 
 ## Overview

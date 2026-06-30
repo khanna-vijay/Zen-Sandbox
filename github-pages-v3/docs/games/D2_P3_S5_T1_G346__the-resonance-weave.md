@@ -2,7 +2,7 @@
 catalog_serial: 346
 filename: "D2_P3_S5_T1_G346__the-resonance-weave.md"
 title: "The Resonance Weave"
-tagline: "Weave deep character relationships through physical mirroring, status shifts, and generous verbal endowments."
+tagline: "Co-create deep character relationships through physical mirroring, status shifts, and generous verbal endowments."
 status: "enriched"
 primary_domain: 2
 primary_domain_name: "The Partner"
@@ -66,10 +66,12 @@ aliases: []
 
 # The Resonance Weave
 
-> Weave deep character relationships through physical mirroring, status shifts, and generous verbal endowments.
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
+> Co-create deep character relationships through physical mirroring, status shifts, and generous verbal endowments.
 
 ## Overview
-A two-player connection exercise where partners build a rich, subtextual relationship without relying on plot. By deeply observing, mirroring physical and emotional states, and intentionally shifting status, players co-create characters through generous, validating endowments. The experience is highly focused, intimate, and grounded in mutual support.
+A two-player connection exercise where partners build a rich, subtextual relationship without relying on plot. By deeply observing, mirroring physical and emotional states, and intentionally shifting status, players co-create characters through generous, validating endowments. The experience transitions from a structured, turn-based mirror game into a fluid, continuous scene.
 
 ## What It Trains
 - **Domain:** D2 — The Partner
@@ -99,34 +101,32 @@ Pairs stand facing each other, about four feet apart, in a quiet space with enou
 
 ## How to Play
 1. Divide the group into pairs and designate Player A and Player B in each pair.
-2. Player A initiates by embodying a clear physical action infused with a specific emotion and an implied status.
-3. Player A delivers a single, neutral line of dialogue that matches their physical and emotional state.
-4. Player B observes closely, then mirrors the physical energy and emotional essence of Player A's offer.
-5. Player B intentionally modulates their own status relative to Player A's implied status.
-6. Player B verbally gifts an endowment to Player A using a 'You are...' or 'You seem...' statement that names and elevates Player A's choices.
-7. Player B adds a simple, neutral line of dialogue that matches the established tone.
-8. For the next round, Player A fully accepts the gifted endowment, allowing it to transform their physicality and emotion, then initiates a new action and line to progress the relationship.
-9. Players continue to alternate roles, weaving their physical, emotional, and status choices together for five to seven minutes to build a deep, shared reality.
+2. Player A initiates by embodying a clear physical action (e.g., folding laundry, polishing a glass) infused with a specific emotion and an implied status, delivering a single neutral line of dialogue.
+3. Player B observes closely, then mirrors the physical energy, posture, and emotional essence of Player A's offer.
+4. Player B intentionally modulates their own status relative to Player A's implied status (either stepping up to dominate or stepping down to yield).
+5. Player B verbally gifts an endowment to Player A using a 'You seem...' or 'You are...' statement that names and elevates Player A's choices, adding a simple line of dialogue that matches the established tone.
+6. Instead of resetting, Player A fully accepts the gifted endowment, letting it physically and emotionally transform their character, and responds directly to Player B's dialogue to maintain a continuous narrative thread.
+7. Player A then offers a reciprocal endowment back to Player B based on Player B's current physical and emotional state, continuing the conversation.
+8. The pair gradually dissolves the strict turn-taking, allowing the physical mirroring, status shifts, and verbal endowments to flow simultaneously and organically as a continuous, connected scene.
 
 ## Facilitation Notes
-- Side-coach players to focus on the 'how' rather than the 'what'—the words spoken should be secondary to the physical and emotional subtext.
-- If players struggle to read each other's status, instruct the initiator to slightly exaggerate their physical posture and eye contact.
-- Pitfall: Players might gift endowments that contradict their partner's physical choices. Fix: Remind them that a good endowment is a mirror that names and validates what is already physically present.
-- Encourage players to make bold status choices; a flat, neutral status dynamic often stalls the emotional momentum of the exercise.
+- To help players transition from turn-taking to a continuous scene, coach them to treat the initial steps as a slow-motion launchpad that melts into a normal-paced conversation.
+- For online video-call adaptation, instruct players to frame themselves from the chest up and mirror facial expressions, head tilts, hand gestures, and proximity to the camera instead of full-body movement.
+- Watch out for 'denial' of endowments; remind players that accepting an endowment means instantly letting it change their physical posture and vocal tone.
+- Encourage players to focus on the subtextual relationship rather than inventing external plot or problems to solve.
 
 ## Variations
-- Silent Weave: Play the entire game without any spoken dialogue, relying purely on physical mirroring, status shifts, and pantomimed endowments.
-- Status Seesaw: Force players to invert their status relationship with every single exchange, exploring how rapid power shifts affect the character bond.
-- Third-Party Witness: Run the exercise with one pair performing for the rest of the group, who then debrief the subtle shifts in relationship they observed.
+- Virtual Grid Resonance: Played on video calls where partners use the camera frame as a mirror, matching each other's distance from the screen and facial tension to build intimacy remotely.
+- Silent Resonance: The entire interaction is conducted without spoken words, relying solely on physical mirroring, status shifts, and pantomimed endowments.
+- Status Seesaw: Partners must continuously invert their status relationship with every exchange, exploring how rapid power shifts affect their character bond.
 
 ## Debrief
-- How did it feel to have your physical and emotional choices named and validated by your partner?
-- What challenges did you face when trying to modulate your status in response to your partner's implied status?
-- How did focusing on the 'how' (subtext and physicality) change the way you generated dialogue?
-- In what ways did this exercise help you practice making your partner look like a genius?
+- How did transitioning from structured turn-taking into a continuous scene change your focus on your partner?
+- What did it feel like to have your physical choices immediately validated and named as a character trait?
+- How did modulating your status relative to your partner help define the relationship without relying on plot?
 
 ## Safety & Inclusion
-Because this exercise requires close physical proximity and sustained eye contact, remind players they can adjust the physical distance to their comfort level. Encourage a 'Joyful Nope' if an endowment or physical choice feels uncomfortable or crosses a personal boundary, allowing the partner to immediately pivot to a different choice without judgment.
+Since this game involves close physical proximity and sustained eye contact, establish that players can adjust their physical distance or look at their partner's forehead or shoulder to reduce intensity. For online play, players with camera fatigue or visual impairments can mirror vocal cadence, volume, and emotional tone instead of physical movement.
 
 ## Why It Works
-By stripping away plot and focusing on physical and emotional attunement, this game forces players to build a base reality from the ground up. The structured loop of mirroring, status modulation, and endowment ensures that every offer is received, validated, and amplified, embodying the core principle of making your partner a genius.
+This exercise works because it bridges physical attunement with verbal character development. By starting with strict mirroring and transitioning into a fluid scene, players learn to treat their partner's physical and verbal offers as absolute truth, embodying the principle of making their partner look like a genius through active, validating gifts.

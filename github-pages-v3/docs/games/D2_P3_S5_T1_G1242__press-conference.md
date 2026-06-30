@@ -2,7 +2,7 @@
 catalog_serial: 1242
 filename: "D2_P3_S5_T1_G1242__press-conference.md"
 title: "Press Conference"
-tagline: "Uncover a secret identity through the clever, supportive clues hidden in journalists' questions."
+tagline: "Uncover a secret identity through the supportive, clue-filled questions of a helpful press corps."
 status: "enriched"
 primary_domain: 2
 primary_domain_name: "The Partner"
@@ -53,16 +53,17 @@ keywords:
   - "clues"
   - "verbal wit"
   - "party game"
-aliases:
-  - "Expert Press Conference"
+aliases: []
 ---
 
 # Press Conference
 
-> Uncover a secret identity through the clever, supportive clues hidden in journalists' questions.
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
+> Uncover a secret identity through the supportive, clue-filled questions of a helpful press corps.
 
 ## Overview
-One player steps out of the room while the group establishes a secret, famous identity for them. Upon returning, they host a press conference where the other players act as reporters, asking questions that contain subtle, supportive clues to help the speaker deduce who they are.
+One player steps up to a podium as a public figure without knowing their own identity. The remaining players act as journalists, asking questions that contain subtle, supportive clues to help them deduce who they are. The goal is not to stump the speaker, but to make them look brilliant as they gradually piece together the mystery.
 
 ## What It Trains
 - **Domain:** D2 — The Partner
@@ -71,7 +72,7 @@ One player steps out of the room while the group establishes a secret, famous id
 - **Technique(s):** Endowment-gifting drills; Endowment-acceptance
 - **Focus:** comedy_game
 
-**Objective:** Develops active gifting and endowment skills, teaching players how to support their partner's success by delivering calibrated, helpful information.
+**Objective:** To train active gifting and endowment-acceptance, teaching players to construct supportive offers that set their partner up for success while practicing high-stakes active listening.
 
 ## At a Glance
 | Aspect | Detail |
@@ -88,36 +89,38 @@ One player steps out of the room while the group establishes a secret, famous id
 | Audience | required |
 
 ## Setup
-One player (the Subject) temporarily leaves the room. The remaining players (the Journalists) and the audience select a well-known historical, fictional, or celebrity identity. The Subject is then recalled to stand at the front of the space.
+The group sits or stands in a semi-circle facing a central podium area. One player (the Subject) is selected to step away, or use an accessible alternative, while the rest of the group (the Journalists) and the audience agree on a well-known historical, fictional, or pop-culture identity.
 
 ## How to Play
-1. Step 1: Send one player out of the room so they cannot hear the group's discussion.
-2. Step 2: The remaining players and audience agree on a famous, easily recognizable identity for the absent player.
-3. Step 3: Recall the player to the stage to stand at an imaginary press podium as the Subject of the conference.
-4. Step 4: The Subject opens the conference with a generic statement, inviting questions from the press gallery.
-5. Step 5: The other players act as journalists, asking questions that embed specific clues about the Subject's identity.
-6. Step 6: The Subject must confidently answer every question as if they know exactly what is being discussed, accepting all endowments.
-7. Step 7: Journalists listen closely to the Subject's responses, adjusting the specificity of their clues to guide them closer to the answer.
-8. Step 8: The game ends when the Subject successfully deduces and announces their identity in character.
+1. Select one player to be the Subject and have them temporarily step away from the group, or use an accessible alternative like noise-canceling headphones.
+2. The remaining players and audience quickly agree on a famous, easily recognizable identity for the Subject.
+3. Recall the Subject to the front of the room to stand at the designated press podium.
+4. The Subject opens the press conference with a confident, generic opening statement, such as taking questions from the floor.
+5. The other players act as journalists, raising their hands and asking questions that embed specific, helpful clues about the Subject's identity.
+6. The Subject must answer every question immediately and confidently, accepting all endowments as absolute truth, even before they know who they are.
+7. Journalists listen closely to the Subject's answers, adjusting the obviousness of their clues based on how well the Subject is tracking.
+8. The game concludes when the Subject successfully deduces and reveals their identity in character during a response.
 
 ## Facilitation Notes
-- Coaching cue: 'Gift, don't test! Frame your questions to make your partner look brilliant, not to stump them.'
-- Avoid vague questions like 'What is your favorite food?' and instead use specific details like 'How do you feel about the spinach that gives you your super strength?'
-- Encourage the Subject to stay in character and play the reality of the scene rather than just guessing names rapidly.
-- Remind journalists to play high-energy reporter characters, creating a fun, chaotic press room atmosphere.
+- Coaching cue: 'Gift, don't test!' Remind journalists that their job is to make the Subject look like a genius, not to play trivia gatekeepers.
+- If the Subject is visibly struggling or stuck, the facilitator should step in as a 'Senior Editor' or 'Chief of Staff' to ask a highly direct, clarifying question, such as asking how their relationship with a famous sidekick is going.
+- Encourage the Subject to avoid rapid-fire guessing; they should play the reality of the scene and let the realization land naturally.
+- Remind journalists to adopt distinct reporter personas, like the aggressive tabloid writer or the academic journal reporter, to keep the energy high and the scene dynamic.
+- If journalists are giving clues that are too vague, pause and side-coach them to endow a specific detail, like asking about a recent voyage to the moon rather than a general trip.
 
 ## Variations
-- The Expert: The Subject is an expert in an absurd, highly specific field and must discover their area of expertise.
-- The Scandal: The Subject knows who they are, but must discover the bizarre scandal they are being questioned about.
-- Emotional Press Conference: Journalists' questions must also endow the Subject with specific emotional states or physical quirks they must adopt.
+- The Scandal: Instead of an identity, the Subject knows who they are but must discover the bizarre, fictional scandal they are being questioned about.
+- The Expert: The Subject is a world-renowned expert in an absurd, highly specific, and fictional field of study that they must deduce.
+- Multi-Subject Panel: For larger groups, have two or three players stand at the podium together as a panel of co-defendants or business partners, each trying to figure out their shared or individual secrets.
+- Beginner Scaffold: Write three broad categories on a board, and point to the category of the secret identity before the Subject returns, narrowing their search grid.
 
 ## Debrief
-- How did it feel to receive a clue that was perfectly tailored to your current level of understanding?
-- As a journalist, how did you balance making the clue challenging versus making your partner look like a genius?
-- What strategies did the Subject use to accept the endowments before they actually knew their identity?
+- As the Subject, how did it feel to accept details as truth before you actually understood what they meant?
+- As a journalist, how did you calibrate your clues based on the Subject's level of confusion or confidence?
+- What is the difference between a question that tests your partner and a question that gifts your partner?
 
 ## Safety & Inclusion
-Ensure the chosen identities are respectful and avoid punching down or relying on harmful stereotypes. If a player feels stuck or anxious, the facilitator can step in as a senior editor to deliver a very direct, helpful clue.
+To ensure physical accessibility, players do not need to leave the room. Instead, the Subject can wear noise-canceling headphones, close their eyes and cover their ears, or the identity can be written on a whiteboard and shown to the journalists while the Subject looks away. Ensure chosen identities are widely known and respectful, avoiding cultural stereotypes or punching down.
 
 ## Why It Works
-This game perfectly demonstrates the principle of making your partner a genius because the journalists' sole job is to scaffold the Subject's success. It trains active gifting by forcing players to wrap clues inside realistic, character-driven questions, and trains offer reception as the Subject must accept and build on details they don't yet fully understand.
+This game is a masterclass in making your partner a genius because it reframes the journalists' role from interrogators to supportive scaffolders. By wrapping crucial information inside character-driven questions, players learn to deliver active gifts that empower their partner to succeed, while the Subject practices radical acceptance of unknown endowments.

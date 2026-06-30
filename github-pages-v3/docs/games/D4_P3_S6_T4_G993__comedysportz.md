@@ -60,6 +60,8 @@ aliases:
 
 # The Improv Arena Match
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A high-energy, sports-style competitive tournament where two teams battle for audience points.
 
 ## Overview

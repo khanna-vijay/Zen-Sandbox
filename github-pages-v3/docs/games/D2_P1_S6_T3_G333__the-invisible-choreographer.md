@@ -62,6 +62,8 @@ aliases: []
 
 # The Invisible Choreographer
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Negotiate physical boundaries in real-time using secret physical directives and subtle, in-character communication.
 
 ## Overview

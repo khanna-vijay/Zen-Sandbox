@@ -63,6 +63,8 @@ aliases:
 
 # Ding Dong
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Recreate an audience member's day, pivoting instantly on their real-time feedback.
 
 ## Overview

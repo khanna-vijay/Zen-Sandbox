@@ -58,16 +58,17 @@ keywords:
   - "co-authorship"
   - "cheating out"
   - "direct address"
-aliases:
-  - "Silent Council"
+aliases: []
 ---
 
 # The Silent Council
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Read the room's unspoken energy to guide your character's most critical narrative decisions.
 
 ## Overview
-A narrative scene-work exercise where performers pause at pivotal crossroads to gauge the audience's silent physical and emotional energy. By treating the room as an unspoken collective consciousness, players calibrate their character choices to the live atmosphere, transforming passive observers into active narrative co-authors.
+The Silent Council is a high-tension narrative scene-work game where performers pause at pivotal crossroads to gauge the audience's silent physical and emotional energy. By treating the room as an unspoken collective consciousness, players calibrate their character choices to the live atmosphere. This transforms passive observers into active narrative co-authors, breaking the insular actor bubble.
 
 ## What It Trains
 - **Domain:** D5 — The Audience
@@ -93,11 +94,11 @@ A narrative scene-work exercise where performers pause at pivotal crossroads to 
 | Audience | required |
 
 ## Setup
-An in-person performance space with a clear stage area and an audience seated directly opposite. No props or special lighting are required, though a clear physical boundary between the stage and the audience helps define the 'permeable' fourth wall.
+An in-person performance space with a clear stage area and an audience seated directly opposite. For virtual play, a video conferencing platform with gallery view enabled is required. No props are needed, but a clear physical boundary between the stage and the audience must be established.
 
 ## How to Play
-1. Begin by casting two to three competent players to perform a scene, while the remaining players act as the audience (The Silent Council).
-2. Obtain a narrative suggestion that establishes a high-stakes relationship or a situation ripe with moral dilemmas (e.g., two business partners deciding whether to cover up a mistake).
+1. Cast two to three players to perform a scene, while the remaining players act as the audience (The Silent Council).
+2. Obtain a narrative suggestion that establishes a high-stakes relationship or a situation ripe with moral dilemmas.
 3. Instruct the performers to initiate a standard narrative scene, building toward a critical crossroads or 'Decision Node' where a character must make a pivotal choice.
 4. Upon reaching this Decision Node, the active performer must freeze their physical action and dialogue, turning their focus outward to scan the audience.
 5. During this 3-to-5-second silent pause, the performer must actively read the room's energy, looking for subtle physical cues such as leaning forward, holding breath, shifting weight, or facial expressions.
@@ -106,23 +107,25 @@ An in-person performance space with a clear stage area and an audience seated di
 8. The facilitator then asks the audience to confirm if the performer's interpretation of their collective tension or anticipation was accurate, before resuming the scene.
 
 ## Facilitation Notes
+- To prevent momentum from dying during the pause, ensure the active player maintains their physical posture and emotional intensity. The pause should feel like a theatrical slow-motion zoom or a high-stakes internal monologue, not a drop in character energy. The partner on stage must also hold their reaction, maintaining the tension like a stretched rubber band.
 - Coaching Cue: Encourage players to embrace the silence during the consultation. A common pitfall is rushing the pause out of discomfort; remind them that stillness builds dramatic tension.
 - Pitfall: Performers projecting their own pre-planned narrative choices onto the audience. Fix: Have the facilitator call out 'What did you actually see?' during the post-choice confession to force objective observation.
 - Coaching Cue: Remind the audience to remain silent but physically honest. They should not try to 'act' or pantomime advice, but simply react naturally to the unfolding story.
 - Pitfall: Breaking character completely during the consultation. Fix: Instruct players to maintain their character's emotional stakes and physical posture while scanning the room, treating the gaze as an internal monologue made visible.
 
 ## Variations
+- The Digital Council (Virtual Adaptation): Play on a video call where the active player scans the gallery view. Audience members use physical proximity to their webcams (leaning in close for high tension, leaning back for low tension) or turn their cameras on/off to signal collective investment.
 - The Guided Council: For early training, the facilitator secretly instructs the audience beforehand to adopt a specific physical posture (e.g., leaning forward for 'risk', leaning back for 'caution') to give the performer a clearer signal to read.
 - The Split Council: Divide the audience into two halves. The performer must look at both sides, identify a conflict in their energies, and make a choice that resolves or heightens that division.
 
 ## Debrief
-- How did pausing to read the room change the pacing and tension of your scene?
-- What specific physical cues from the audience were the easiest or hardest to interpret?
+- How did you maintain the scene's dramatic tension and momentum during the silent pause without letting the energy drop?
+- What specific physical cues from the audience were the easiest or hardest to interpret, and how did you calibrate your choice to them?
 - How did it feel as an audience member to realize your silent attention was actively shaping the story?
 - How do we balance serving the story with responding to the audience's energy without pandering to them?
 
 ## Safety & Inclusion
-Ensure the audience understands they should not shout out or make disruptive physical gestures. For players with visual impairments, the audience can be instructed to use subtle, non-verbal auditory cues (like soft collective inhales, shifting in chairs, or quiet hums) to signal their energy.
+Ensure players know they can blink, breathe, and adjust their posture during freezes to avoid physical strain. For visually impaired players, the audience can transition from visual cues to subtle auditory cues (collective deep breaths, soft humming, or shifting weight in chairs). Establish a clear 'cut' signal if the silent focus feels overwhelming or invasive for any performer.
 
 ## Why It Works
 By formalizing the pause before a major decision, this game forces players to slow down and look outward, breaking the insular 'actor bubble.' It teaches energy-calibration by turning the audience's natural, subconscious reactions into a readable feedback loop, proving that the audience is indeed the final scene partner.

@@ -59,6 +59,8 @@ aliases:
 
 # Silent Spectrum
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Align the entire group along a silent, intuitive spectrum using collective agreement and peripheral awareness.
 
 ## Overview

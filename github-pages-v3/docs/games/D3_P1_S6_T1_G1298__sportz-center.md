@@ -64,6 +64,8 @@ aliases:
 
 # Championship Commentary
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Elevate a mundane household chore into a high-stakes, televised world championship sport with play-by-play analysis.
 
 ## Overview

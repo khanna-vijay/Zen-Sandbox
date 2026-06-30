@@ -64,6 +64,8 @@ aliases:
 
 # The Human Machine
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build a living, breathing, moving contraption together through physical connection and synchronized sound.
 
 ## Overview

@@ -57,6 +57,8 @@ aliases: []
 
 # Fluid Formations
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A slow-motion movement exercise where leadership shifts seamlessly as the group changes physical direction.
 
 ## Overview

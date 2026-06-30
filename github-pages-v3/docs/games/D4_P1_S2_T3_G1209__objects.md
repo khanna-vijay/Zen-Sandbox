@@ -56,6 +56,8 @@ aliases: []
 
 # Ensemble Architecture
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Collaborate physically to build complex, moving objects using only your collective bodies.
 
 ## Overview

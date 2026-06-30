@@ -57,6 +57,8 @@ aliases:
 
 # Scene Painting
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Step out of the action to paint vivid physical details directly onto your stage.
 
 ## Overview

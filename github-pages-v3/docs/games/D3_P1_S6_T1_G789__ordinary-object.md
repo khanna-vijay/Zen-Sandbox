@@ -62,6 +62,8 @@ aliases:
 
 # Object Metamorphosis
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Transform a single everyday item into dozens of imaginary tools through physical justification.
 
 ## Overview

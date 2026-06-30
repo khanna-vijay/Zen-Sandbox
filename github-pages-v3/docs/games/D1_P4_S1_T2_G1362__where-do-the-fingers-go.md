@@ -58,6 +58,8 @@ aliases: []
 
 # Spontaneous Finger Puppets
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Instantly bring two finger characters to life in a suggested location without overthinking.
 
 ## Overview

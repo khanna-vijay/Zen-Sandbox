@@ -48,6 +48,8 @@ aliases: []
 
 # What Has Changed
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Sharpen your observational focus by noticing subtle physical shifts in your partner.
 
 ## Overview

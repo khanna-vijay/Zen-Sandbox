@@ -64,6 +64,8 @@ aliases:
 
 # Day in the Life
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Transform an audience member's mundane daily routine into an extraordinary, multi-scene narrative celebration.
 
 ## Overview

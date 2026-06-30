@@ -60,6 +60,8 @@ aliases:
 
 # Bippety Bippety Bop
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A high-energy circle game of rapid physical collaboration, split-second timing, and joyful failure.
 
 ## Overview

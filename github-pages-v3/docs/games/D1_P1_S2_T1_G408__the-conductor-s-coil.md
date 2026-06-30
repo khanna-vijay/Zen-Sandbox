@@ -77,6 +77,8 @@ aliases:
 
 # The Conductor's Coil
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Transmit shifting emotional currents through a physical chain of instantaneous, full-body mirroring.
 
 ## Overview

@@ -56,6 +56,8 @@ aliases: []
 
 # Gait Mirror
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Mirror your partner's natural movement to build deep physical empathy and shared rhythm.
 
 ## Overview

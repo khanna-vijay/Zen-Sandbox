@@ -67,6 +67,8 @@ aliases:
 
 # The Emotional Dialect
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Transform neutral physical and vocal impulses into deeply committed emotional expressions in a continuous circle.
 
 ## Overview

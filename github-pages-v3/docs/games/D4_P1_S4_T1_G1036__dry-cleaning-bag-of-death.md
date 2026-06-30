@@ -1,8 +1,8 @@
 ---
 catalog_serial: 1036
 filename: "D4_P1_S4_T1_G1036__dry-cleaning-bag-of-death.md"
-title: "Bucket of Death"
-tagline: "A high-stakes, rapid-fire editing game where offstage players face a physical countdown."
+title: "The Endurance Relay"
+tagline: "A high-octane scene game where offstage physical endurance dictates rapid, justified onstage edits."
 status: "enriched"
 primary_domain: 4
 primary_domain_name: "The Ensemble"
@@ -43,9 +43,7 @@ energy_level: "high"
 physicality_level: "high"
 audience_required: "no"
 props_required: "yes"
-props_list:
-  - "dry cleaning bag"
-  - "bucket of water"
+props_list: []
 space_required: "moderate"
 est_duration_minutes: 5
 keywords:
@@ -57,17 +55,17 @@ keywords:
   - "bucket of death"
   - "entrances"
   - "exits"
-aliases:
-  - "Bucket of Death"
-  - "Head in Bucket"
+aliases: []
 ---
 
-# Bucket of Death
+# The Endurance Relay
 
-> A high-stakes, rapid-fire editing game where offstage players face a physical countdown.
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
+> A high-octane scene game where offstage physical endurance dictates rapid, justified onstage edits.
 
 ## Overview
-In this high-energy game, a continuous onstage scene is maintained by two or three players while one teammate waits offstage performing a physically demanding breath-holding challenge. To rescue their struggling teammate, an onstage player must organically exit the scene and take over the physical challenge, forcing the freed player to immediately enter the scene with a new, justified character. The result is a fast-paced, highly physical cycle of seamless edits and spontaneous justifications.
+In this high-energy ensemble game, two players perform a grounded scene while a third teammate holds a strenuous physical pose offstage. To relieve their struggling teammate, an onstage player must organically exit the scene and take over the physical challenge, forcing the freed player to immediately enter the scene. This creates a relentless, high-stakes cycle of physical endurance, rapid edits, and instant narrative justifications.
 
 ## What It Trains
 - **Domain:** D4 — The Ensemble
@@ -76,7 +74,7 @@ In this high-energy game, a continuous onstage scene is maintained by two or thr
 - **Technique(s):** Edits (Sweep, Tag-Out, Sound/Light); Tap-ins; Justify the absurd
 - **Focus:** mixed
 
-**Objective:** To develop rapid scene edits, physical commitment, group mind, and the ability to instantly justify sudden entrances and exits under pressure.
+**Objective:** Develops group mind, rapid physical editing, and the ability to instantly justify sudden entrances and exits under physical pressure, training players to prioritize the collective pacing of the performance over individual scene comfort.
 
 ## At a Glance
 | Aspect | Detail |
@@ -89,39 +87,40 @@ In this high-energy game, a continuous onstage scene is maintained by two or thr
 | Physicality | high |
 | Modality | in_person |
 | Space | moderate |
-| Props | dry cleaning bag, bucket of water |
+| Props | yes |
 | Audience | not required |
 
 ## Setup
-Set up a designated 'danger zone' offstage with a bucket of water on a small table or a dry cleaning bag. The rest of the stage is the active performance space. This game requires 3 to 5 players and a moderate amount of open space.
+An open performance space with a designated 'Endurance Zone' marked offstage, equipped with a yoga mat or a medicine ball. Three to five players participate, with two starting onstage and the remaining players waiting in the Endurance Zone.
 
 ## How to Play
-1. Begin with two or three players onstage starting a grounded, relationship-focused scene.
-2. Position one player offstage at the danger zone station to begin the physical challenge.
-3. The offstage player starts holding their breath, simulating suffocation using the dry cleaning bag safely or holding their breath over the bucket of water.
-4. The onstage players must continue their scene naturally while remaining acutely aware of their offstage teammate's physical limit.
-5. To save the offstage player, one onstage player must find a logical, narrative reason to exit the scene.
-6. The exiting player runs to the offstage station, tags the suffocating player to release them, and immediately takes over the breath-holding challenge.
-7. The newly freed player must instantly enter the onstage scene, immediately justifying their arrival as a new character or a returning character with a fresh purpose.
-8. Repeat this cycle continuously, keeping the onstage narrative flowing while players rapidly cycle through the offstage physical challenge.
+1. Two players enter the stage and begin a grounded, relationship-focused scene based on a simple suggestion.
+2. Simultaneously, one offstage player enters the Endurance Zone and begins a strenuous physical challenge, such as a low plank, a wall-sit, or holding a medicine ball at chest height.
+3. The onstage players must continue their scene naturally, but they must remain acutely aware of their offstage teammate's physical exertion and fatigue.
+4. Before the offstage player reaches physical exhaustion, one of the onstage players must find a logical, narrative reason to exit the scene.
+5. The exiting player runs to the Endurance Zone, tags the active player, and immediately assumes the strenuous physical pose.
+6. The newly relieved player must instantly enter the onstage scene, immediately justifying their sudden arrival as a new character or a returning character with a fresh, urgent purpose.
+7. The remaining onstage player must instantly accept and justify this new dynamic, keeping the narrative flowing seamlessly.
+8. This cycle continues continuously, with players rotating between active scene work and the offstage endurance challenge, driving a rapid, high-stakes editing rhythm.
 
 ## Facilitation Notes
-- Side-coach players to prioritize narrative justification: 'Don't just run off! Give us a reason why your character is leaving!'
-- Encourage bold, immediate choices upon entering: 'Enter with a clear relationship and an active emotion!'
-- Pitfall: Players holding their breath past a safe limit. Fix: Establish a clear physical tap-out signal (like raising a hand) so players can safely exit the challenge without waiting for an edit.
-- Pitfall: Onstage scenes becoming chaotic and losing narrative focus. Fix: Remind players to support the existing story rather than completely resetting the scene with every new entrance.
+- Side-coach narrative justification: Remind players not to just abandon the scene. They must give a clear, character-driven reason for their sudden exit.
+- Monitor physical safety: Ensure players do not push past their physical limits. Establish a clear 'tap-out' hand signal if a player needs to drop the pose immediately without waiting for an onstage edit.
+- Avoid narrative whiplash: Remind entering players to support the existing environment and context rather than completely resetting the scene's reality with every edit.
+- Vary the physical challenges: Encourage players to choose poses that match their personal fitness levels, ensuring the game remains challenging yet accessible.
 
 ## Variations
-- The Physical Endurance Edit: Replace breath-holding with a physical challenge like a wall-sit, plank, or holding a heavy object.
-- The Sound Loop Edit: The offstage player must continuously perform a specific physical sound effect or vocal pattern until relieved, which the onstage players must justify as part of their environment.
+- The Digital Screen-Freeze: Played on a video call. The offstage player holds a strenuous pose (like a static push-up or a V-sit) directly on camera in their frame. To edit, an onstage player yells 'Tag!', turns off their camera, and assumes the pose, while the offstage player turns on their camera and enters the scene.
+- The Weight of the World: Introduce a safe prop, such as a heavy medicine ball or a kettlebell. The offstage player must hold the object at arm's length. The physical weight translates directly into the emotional stakes of the onstage scene.
+- Vocal Endurance: Instead of a silent physical pose, the offstage player must maintain a continuous, low-volume vocal drone or physical sound effect. The onstage players must justify this sound as an environmental element of their scene until they edit.
 
 ## Debrief
-- How did the physical urgency offstage affect the pacing and rhythm of your onstage choices?
-- What strategies helped you make your sudden exits and entrances feel natural and justified?
-- How did this game build a sense of mutual support and group mind within the ensemble?
+- How did the physical urgency of your teammate offstage affect the pacing and rhythm of your onstage choices?
+- What strategies did you use to make your sudden exits and entrances feel organic and justified rather than forced?
+- How did sharing the physical burden build a stronger sense of group mind and mutual support within the ensemble?
 
 ## Safety & Inclusion
-Ensure absolute physical safety: players must never actually suffocate themselves or push breath-holding to an uncomfortable point. The dry cleaning bag must be kept open and loose, or replaced with a safe theatrical simulation. If using the bucket of water, players must be allowed to lift their head instantly. Offer alternative physical challenges like a wall-sit for players with respiratory or physical limitations.
+Physical accessibility is paramount. Players should choose an endurance challenge that fits their physical capabilities (e.g., a wall-sit, a plank, holding a light prop, or even a simple balance pose). No player should ever feel pressured to push past safe physical boundaries. Clear verbal or non-verbal tap-out signals must be established before play begins so any player can safely exit the rotation without penalty.
 
 ## Why It Works
-This game connects physical stakes directly to narrative pacing. The physical countdown offstage creates an organic, high-stakes edit mechanism that prevents scenes from dragging, forcing players to make bold, fast choices and practice deep ensemble awareness.
+This game works by linking physical stakes directly to narrative pacing. By replacing a standard mental countdown with a physical endurance challenge, players are forced out of their heads and into a state of high-stakes urgency. This organic pressure prevents scenes from dragging, demands high physical commitment, and builds deep ensemble trust as players actively rescue one another through rapid, justified edits.

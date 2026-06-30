@@ -58,6 +58,8 @@ aliases: []
 
 # The Inverse Self
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Step out of your comfort zone by embodying the physical and emotional opposite of yourself.
 
 ## Overview

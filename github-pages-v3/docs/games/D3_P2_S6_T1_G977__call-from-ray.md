@@ -54,6 +54,8 @@ aliases:
 
 # Message from Ray
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Seamlessly justify a sudden, mandatory external interruption without breaking your scene's established reality.
 
 ## Overview

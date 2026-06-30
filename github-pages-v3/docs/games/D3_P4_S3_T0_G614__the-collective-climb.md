@@ -62,6 +62,8 @@ aliases:
 
 # The Shared Ascent
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Navigate a high-stakes crisis together where every action must build upon the last.
 
 ## Overview

@@ -70,6 +70,8 @@ aliases:
 
 # The Resonance Weave
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Decode and amplify your partner's unspoken emotional intentions to co-create deeply connected scenes.
 
 ## Overview

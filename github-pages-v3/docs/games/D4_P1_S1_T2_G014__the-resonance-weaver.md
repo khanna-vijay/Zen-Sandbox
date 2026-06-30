@@ -63,6 +63,8 @@ aliases:
 
 # The Ambient Web
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Weave a collective physical and auditory atmosphere using only your peripheral senses and shared intuition.
 
 ## Overview

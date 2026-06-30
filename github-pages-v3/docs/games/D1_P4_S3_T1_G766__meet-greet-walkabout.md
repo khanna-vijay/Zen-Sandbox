@@ -59,6 +59,8 @@ aliases: []
 
 # Walkabout Greetings
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Transform your posture, status, and relationships instantly with every person you pass in the room.
 
 ## Overview

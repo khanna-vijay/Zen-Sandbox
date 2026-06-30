@@ -58,6 +58,8 @@ aliases: []
 
 # The Iterative Scene
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Replay the same scene repeatedly to isolate, distill, and supercharge its comedic game.
 
 ## Overview

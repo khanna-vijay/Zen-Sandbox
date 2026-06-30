@@ -61,6 +61,8 @@ aliases:
 
 # Shared Count
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Count to ten as a collective group without speaking over each other or establishing patterns.
 
 ## Overview

@@ -60,6 +60,8 @@ aliases: []
 
 # The Ensemble Current
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Cooperatively shape, hold, and release a scene's collective emotional and physical energy on command.
 
 ## Overview

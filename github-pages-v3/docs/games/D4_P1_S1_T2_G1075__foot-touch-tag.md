@@ -57,6 +57,8 @@ aliases: []
 
 # Sole Swap Tag
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A high-energy, mind-bending tag game of swapped identities, rapid reactions, and physical coordination.
 
 ## Overview

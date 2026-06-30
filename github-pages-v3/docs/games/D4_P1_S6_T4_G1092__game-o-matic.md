@@ -63,6 +63,8 @@ aliases:
 
 # Instant Game Generator
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Invent, explain, and immediately play a brand-new improv game based on a fictional title.
 
 ## Overview

@@ -61,6 +61,8 @@ aliases: []
 
 # The Resonance Chronicle
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build an unbroken virtual story by echoing your partner's final words before moving forward.
 
 ## Overview

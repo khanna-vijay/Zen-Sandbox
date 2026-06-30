@@ -70,6 +70,8 @@ aliases:
 
 # The Status Alchemist
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Elevate your partner's status through silent projection, generative repetition, and deep physical embodiment.
 
 ## Overview

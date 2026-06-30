@@ -60,6 +60,8 @@ aliases: []
 
 # The Echo Chamber
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Master direct address by adapting your performance in real-time to a dynamically cued simulated audience.
 
 ## Overview

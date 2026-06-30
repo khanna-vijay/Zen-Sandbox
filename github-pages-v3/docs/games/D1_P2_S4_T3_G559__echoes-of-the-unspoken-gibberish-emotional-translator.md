@@ -63,6 +63,8 @@ aliases:
 
 # Emotional Gibberish Echo
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Translate raw emotional subtext into explosive, non-linguistic sound and full-body physical expression.
 
 ## Overview

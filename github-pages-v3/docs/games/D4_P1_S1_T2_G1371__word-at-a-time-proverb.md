@@ -60,6 +60,8 @@ aliases:
 
 # One-Word Wisdom
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Co-create profound, nonsensical proverbs one word at a time through shared group intuition.
 
 ## Overview

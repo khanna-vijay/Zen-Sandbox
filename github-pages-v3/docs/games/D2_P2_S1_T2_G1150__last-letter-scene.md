@@ -52,6 +52,8 @@ aliases: []
 
 # Last Letter Scene
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Train hyper-focused active listening by starting every line with your partner's final letter.
 
 ## Overview

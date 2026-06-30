@@ -62,6 +62,8 @@ aliases:
 
 # Visible Echoes
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Transform virtual latency into a physical, high-energy chain of visual and verbal agreement.
 
 ## Overview

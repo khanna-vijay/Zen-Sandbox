@@ -64,6 +64,8 @@ aliases:
 
 # Ensemble Machine
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build a living, breathing mechanical contraption using your bodies, voices, and collective rhythm.
 
 ## Overview

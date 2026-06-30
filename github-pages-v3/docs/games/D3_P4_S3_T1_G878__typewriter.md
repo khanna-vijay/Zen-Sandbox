@@ -66,6 +66,8 @@ aliases:
 
 # Typewriter
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Co-create a live-action story where a writer's narration and actors' physical choices instantly collide.
 
 ## Overview

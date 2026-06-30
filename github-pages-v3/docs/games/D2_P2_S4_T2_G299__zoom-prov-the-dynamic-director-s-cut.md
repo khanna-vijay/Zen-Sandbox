@@ -66,6 +66,8 @@ aliases:
 
 # The Live Edit
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Actors navigate sudden character shifts and environmental changes dictated in real-time by a digital audience.
 
 ## Overview

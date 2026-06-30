@@ -70,6 +70,8 @@ aliases: []
 
 # The Echoing Edifice
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Construct a living, breathing environment and implicit story using only physical presence and environmental sound.
 
 ## Overview

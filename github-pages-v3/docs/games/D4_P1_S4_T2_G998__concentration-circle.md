@@ -59,6 +59,8 @@ aliases:
 
 # Rhythmic Number Pass
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Keep the beat and track your shifting identity in this fast-paced numerical rhythm game.
 
 ## Overview

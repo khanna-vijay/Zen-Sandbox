@@ -57,6 +57,8 @@ aliases: []
 
 # The Fourth Wall Conductor
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Command the room by pausing the action to read, calibrate, and conduct audience energy.
 
 ## Overview

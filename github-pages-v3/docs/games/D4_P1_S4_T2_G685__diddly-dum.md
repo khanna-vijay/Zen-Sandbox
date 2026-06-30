@@ -56,6 +56,8 @@ aliases: []
 
 # The Cadence Pass
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Pass a rhythmic nonsense phrase word-by-word to build instant group focus and shared timing.
 
 ## Overview

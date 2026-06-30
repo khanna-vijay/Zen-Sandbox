@@ -66,6 +66,8 @@ aliases:
 
 # The Resonance Chamber
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Cultivate profound presence by pausing to observe internal impulses before releasing a single, honest expression.
 
 ## Overview

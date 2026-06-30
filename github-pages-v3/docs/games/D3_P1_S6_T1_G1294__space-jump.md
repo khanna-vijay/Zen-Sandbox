@@ -66,6 +66,8 @@ aliases:
 
 # Space Jump
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build and deconstruct a series of nested scenes inspired by frozen physical postures.
 
 ## Overview

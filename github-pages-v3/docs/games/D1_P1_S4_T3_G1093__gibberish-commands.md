@@ -56,6 +56,8 @@ aliases:
 
 # Gibberish Commands
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Decode and execute un-translated commands using vocal tone, physical context, and absolute commitment.
 
 ## Overview

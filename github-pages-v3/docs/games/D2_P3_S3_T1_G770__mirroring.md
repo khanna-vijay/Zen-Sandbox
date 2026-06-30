@@ -57,6 +57,8 @@ aliases: []
 
 # The Mirror
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Reflect your partner's movements and expressions in real-time to build deep, non-verbal connection.
 
 ## Overview

@@ -62,6 +62,8 @@ aliases:
 
 # Broadcast News Desk
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Co-create a seamless, fast-paced television news broadcast using structured hand-offs and active gifting.
 
 ## Overview

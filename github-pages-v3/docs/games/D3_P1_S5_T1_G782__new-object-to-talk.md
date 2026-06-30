@@ -53,6 +53,8 @@ aliases: []
 
 # Object-First Dialogue
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Establish a new physical object in the space before speaking every single line of dialogue.
 
 ## Overview

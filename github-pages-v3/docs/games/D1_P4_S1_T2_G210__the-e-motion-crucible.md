@@ -68,6 +68,8 @@ aliases:
 
 # The Impulse Crucible
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Instantly adapt your voice, body, and emotion to rapid-fire, shifting commands from a supportive circle.
 
 ## Overview

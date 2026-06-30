@@ -63,6 +63,8 @@ aliases:
 
 # Sound Ball
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Pass an invisible ball of energy across the circle using synchronized sound and physical movement.
 
 ## Overview

@@ -56,6 +56,8 @@ aliases: []
 
 # Lounge Legend
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Belt out a smooth, high-commitment lounge song set in the most mundane, unlikely locations.
 
 ## Overview

@@ -60,6 +60,8 @@ aliases:
 
 # The Ripple Effect
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Escalate mundane details into high-stakes narrative climaxes using the logic of cause and effect.
 
 ## Overview

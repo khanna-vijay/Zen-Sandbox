@@ -68,6 +68,8 @@ aliases:
 
 # Virtual Echo Scapes
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build rich, multi-modal narrative worlds using virtual backgrounds, instant reactions, and dynamic character renaming.
 
 ## Overview

@@ -55,6 +55,8 @@ aliases: []
 
 # Linked Mirror Lines
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Move as one collective reflection by linking hands and sharing the physical lead.
 
 ## Overview

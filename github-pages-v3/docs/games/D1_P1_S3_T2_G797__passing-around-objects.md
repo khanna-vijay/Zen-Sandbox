@@ -60,6 +60,8 @@ aliases:
 
 # The Physicality Circuit
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Keep mimed objects physically consistent as they travel and transform through a collaborative circle.
 
 ## Overview

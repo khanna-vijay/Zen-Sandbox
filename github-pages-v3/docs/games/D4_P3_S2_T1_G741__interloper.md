@@ -54,6 +54,8 @@ aliases: []
 
 # The Interloper
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Master the art of the purposeful walk-on by integrating a sudden, unannounced character.
 
 ## Overview

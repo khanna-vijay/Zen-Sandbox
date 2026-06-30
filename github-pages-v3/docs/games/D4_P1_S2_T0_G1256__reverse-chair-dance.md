@@ -60,6 +60,8 @@ aliases: []
 
 # Collective Chairs
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A cooperative twist on musical chairs where everyone wins by lifting each other up.
 
 ## Overview

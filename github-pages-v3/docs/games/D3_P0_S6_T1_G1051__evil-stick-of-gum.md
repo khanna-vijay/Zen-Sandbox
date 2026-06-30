@@ -60,6 +60,8 @@ aliases:
 
 # The Mischievous Mouthpiece
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Justify the outrageous, sabotaging statements spoken by an invisible, sentient object in your mouth.
 
 ## Overview

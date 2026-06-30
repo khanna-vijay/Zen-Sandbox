@@ -58,6 +58,8 @@ aliases: []
 
 # Play With That
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > An active side-coaching drill where off-stage players highlight and escalate the scene's funniest patterns.
 
 ## Overview

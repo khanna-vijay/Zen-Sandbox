@@ -59,6 +59,8 @@ aliases:
 
 # The Calibration Scene
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Make consent the dramatic engine by explicitly negotiating physical and emotional boundaries in real-time.
 
 ## Overview

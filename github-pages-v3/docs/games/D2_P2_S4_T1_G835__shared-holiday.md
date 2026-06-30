@@ -59,6 +59,8 @@ aliases: []
 
 # Shared Adventure
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Co-create a wild, fictional memory with your partner using the ultimate rule of agreement.
 
 ## Overview

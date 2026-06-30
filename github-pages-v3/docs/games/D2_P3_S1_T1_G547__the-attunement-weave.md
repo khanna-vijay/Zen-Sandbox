@@ -69,6 +69,8 @@ aliases: []
 
 # The Attunement Weave
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Weave active listening, emotional echoing, and status shifts into a seamless, deeply connected dialogue.
 
 ## Overview

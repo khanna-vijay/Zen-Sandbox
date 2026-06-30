@@ -74,6 +74,8 @@ aliases:
 
 # The Sensory Circuit
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Bypass the analytical mind by translating dynamic sensory inputs into immediate, fully committed physical and vocal expression.
 
 ## Overview

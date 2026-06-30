@@ -66,6 +66,8 @@ aliases:
 
 # Virtual Frame Architects
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Collaboratively construct immersive digital worlds and characters using virtual backgrounds, props, and dynamic spotlighting.
 
 ## Overview

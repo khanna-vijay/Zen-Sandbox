@@ -2,7 +2,7 @@
 catalog_serial: 1154
 filename: "D2_P2_S4_T1_G1154__let-s-not.md"
 title: "Let's Not"
-tagline: "Pitch, pivot, and polish narrative offers by embracing instant rejection and enthusiastic acceptance."
+tagline: "Build narrative agility by embracing instant, constructive rejection and enthusiastic physical commitment."
 status: "enriched"
 primary_domain: 2
 primary_domain_name: "The Partner"
@@ -51,17 +51,17 @@ keywords:
   - "storytelling"
   - "blocking"
   - "filtering"
-aliases:
-  - "Lets Not"
-  - "Yes Let's - or Rather Not"
+aliases: []
 ---
 
 # Let's Not
 
-> Pitch, pivot, and polish narrative offers by embracing instant rejection and enthusiastic acceptance.
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
+> Build narrative agility by embracing instant, constructive rejection and enthusiastic physical commitment.
 
 ## Overview
-A paired narrative drill where players co-create a story in a specific location, but with a twist: one player acts as an editor who can instantly reject uninspiring offers. The pitching player must cheerfully abandon their rejected ideas and immediately pitch a more compelling alternative, while enthusiastically playing out any accepted offers.
+A dynamic, paired narrative exercise where players co-create a scene, but with a twist: one player acts as an active editor who instantly filters out passive offers. The proposing player must cheerfully discard rejected ideas without hesitation, immediately pitching fresh alternatives, while both players enthusiastically commit to any accepted actions. This fast-paced drill removes the fear of failure and sharpens the instinct for high-stakes, physical storytelling.
 
 ## What It Trains
 - **Domain:** D2 — The Partner
@@ -70,7 +70,7 @@ A paired narrative drill where players co-create a story in a specific location,
 - **Technique(s):** Yes, And… sentence games; Platform/Tilt
 - **Focus:** skill_drill
 
-**Objective:** To develop high-quality offer reception and narrative agility. Players learn to let go of precious ideas instantly, recognize what makes an offer active and narrative-driving, and practice rapid-fire creative resilience.
+**Objective:** To cultivate rapid offer reception and narrative editing skills. Players learn to detach their egos from their initial ideas, instantly recognize what makes an offer active and narrative-driving, and practice resilient, high-energy pivoting to serve the story.
 
 ## At a Glance
 | Aspect | Detail |
@@ -87,36 +87,36 @@ A paired narrative drill where players co-create a story in a specific location,
 | Audience | not required |
 
 ## Setup
-Players stand in pairs facing each other. No props or special staging are required. The facilitator provides a starting location for each pair.
+Players stand in pairs facing each other with comfortable space to move. No props are required. The facilitator prepares a list of everyday or high-stakes starting locations (e.g., 'a dusty attic', 'the edge of a volcano') to kick off each pair's scene.
 
 ## How to Play
-1. Divide the group into pairs and assign each pair a starting location to establish their scene's setting.
+1. Divide players into pairs and assign each pair a starting location to establish their scene's environment.
 2. Designate Player A as the Proposer and Player B as the Editor for the first round.
-3. Player A initiates the action by making a physical or verbal suggestion starting with 'Let's...', such as 'Let's open this rusty chest.'
+3. Player A initiates the action by making a physical and verbal suggestion starting with 'Let's...', such as 'Let's open this creaky floorboard.'
 4. Player B must instantly decide to either accept the offer by saying 'Yes, let's!' or reject it by saying 'Let's not.'
-5. If Player B accepts, both players immediately pantomime and commit to that action for a few seconds before Player A makes the next proposal.
-6. If Player B rejects the offer, Player A must instantly drop the idea without hesitation or frustration, and immediately pitch a brand-new 'Let's...' offer.
-7. Player B should base their rejections on narrative momentum: reject passive or stalling offers, and accept offers that introduce high stakes or exciting physical action.
-8. After three minutes of play, swap roles so Player B becomes the Proposer and Player A becomes the Editor.
+5. To keep the game constructive, the Editor (Player B) must reject offers that stall the action (e.g., 'Let's sit and wait') and accept offers that introduce physical movement, high stakes, or immediate narrative progression.
+6. If Player B accepts, both players immediately pantomime and commit to that action with high energy for a few seconds before Player A makes the next 'Let's...' proposal.
+7. If Player B rejects, Player A must instantly drop the idea with a smile, showing no hesitation or disappointment, and immediately pitch a brand-new 'Let's...' offer.
+8. After approximately three minutes of continuous play, the facilitator calls freeze, and the players swap roles so Player B becomes the Proposer and Player A becomes the Editor.
 
 ## Facilitation Notes
-- Coaching Cue: 'Drop it like a hot potato!' Remind Proposers to show zero ego or hesitation when their offer is rejected; the fun is in the rapid pivot.
-- Pitfall: Editors rejecting everything just to be difficult. Fix: Instruct Editors that they must accept offers that are genuinely active or narrative-driving.
-- Coaching Cue: 'Make it active!' Encourage Proposers to pitch physical actions or high-stakes discoveries rather than passive dialogue.
-- Pitfall: Proposers arguing with the rejection. Fix: Pause the exercise and remind them that 'Let's Not' is a gift of editing that saves them from a dull scene.
+- Coaching Cue: 'Reject the stall, accept the action!' Guide Editors to reject passive, conversational offers (e.g., 'Let's talk about our feelings') and enthusiastically accept physical, high-stakes offers (e.g., 'Let's defuse this bomb'). This ensures rejection is a tool for narrative momentum, not arbitrary blocking.
+- Coaching Cue: 'Drop it like a hot potato!' Remind Proposers to treat rejection as a helpful gift that saves them from a boring scene. There should be zero pause, sighing, or justification between a rejection and the next pitch.
+- Pitfall: The Editor rejects too many times in a row, stalling the scene's momentum. Fix: Side-coach the Editor to never reject more than twice consecutively. The third offer must be accepted to keep the physical action flowing.
+- Encourage players to fully embody the accepted actions. If the proposal is 'Let's climb this rope,' both players must physically pantomime climbing with full commitment, which builds shared physical reality.
 
 ## Variations
-- The Yes-And Progression: After an acceptance, players must build on the action with three 'Yes, and' statements before the Proposer can make another pitch.
-- Silent Rejection: Instead of verbalizing 'Let's not', the Editor uses a physical gesture to signal rejection, forcing the Proposer to read physical cues.
-- Bidirectional Editing: Both players can pitch 'Let's...' offers and both players have the power to say 'Let's not' to each other, requiring high mutual trust.
+- Virtual Screen-Touch: In a remote setup, players use gallery view. When an offer is accepted, both players must perform the physical action within their camera frame. If rejected, the Proposer does a quick physical 'spin' or 'reset' gesture on camera to visually reset their energy before pitching the next idea.
+- The Yes-And Progression: After an acceptance, players must build on the action with three rapid-fire 'Yes, and' physical details before the Proposer can make another 'Let's...' pitch.
+- Bidirectional Editing: Both players can pitch 'Let's...' offers and both have the power to say 'Let's not' to each other, requiring high mutual trust and rapid-fire adaptation.
 
 ## Debrief
-- How did it feel to have your ideas instantly rejected? What did it take to let them go without ego?
-- For the Editors, what distinguished a 'must-accept' offer from one that felt easy to reject?
-- How does this game change your perspective on 'Yes, And' when editing your own internal monologue during a scene?
+- How did it feel to have your ideas instantly rejected? What mental shift helped you let them go without ego?
+- As the Editor, how did focusing on 'narrative momentum' change how you evaluated your partner's offers?
+- How does this game change your perspective on self-editing and filtering your own ideas before you speak in a scene?
 
 ## Safety & Inclusion
-Ensure players understand that rejections are strictly narrative and directed at the fictional proposals, never at the player's personal identity or physical boundaries.
+Establish a clear boundary before playing: rejections are strictly narrative and directed at the fictional proposals, never at the player's personal identity, physical boundaries, or safety. If a proposal touches on a personal boundary, players can use a pre-established safety word or gesture to reset the scene immediately without question.
 
 ## Why It Works
-While 'Yes, And' is the bedrock of improv, players often struggle with self-editing. By gamifying rejection, 'Let's Not' desensitizes players to the fear of being 'wrong' and trains them to view rejection as a helpful narrative filter. It sharpens their instinct for high-value, active gifts that propel the story forward.
+While 'Yes, And' is the bedrock of improv, players often struggle with preciousness over their own ideas. By gamifying rejection, 'Let's Not' desensitizes players to the fear of being 'wrong' and trains them to view editing as a collaborative, positive filter. It sharpens their instinct for high-value, active gifts that propel the story forward rather than stalling it in polite agreement.

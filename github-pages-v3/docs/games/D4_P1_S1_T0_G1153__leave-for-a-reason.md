@@ -57,6 +57,8 @@ aliases: []
 
 # Leave for a Reason
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Exit the space together in complete silence, driven by a single, unspoken shared realization.
 
 ## Overview

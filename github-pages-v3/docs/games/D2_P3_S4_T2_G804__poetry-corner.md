@@ -61,6 +61,8 @@ aliases: []
 
 # The Poetry Broadcast
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Elevate absurd, improvised verses into profound literary masterpieces through unwavering support and high-status praise.
 
 ## Overview

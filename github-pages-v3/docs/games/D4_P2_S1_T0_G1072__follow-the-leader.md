@@ -56,6 +56,8 @@ aliases: []
 
 # The Silent Conductor
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A detective tries to spot the hidden leader of a seamlessly mirroring circle.
 
 ## Overview

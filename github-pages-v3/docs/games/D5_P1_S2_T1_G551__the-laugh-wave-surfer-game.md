@@ -58,6 +58,8 @@ aliases: []
 
 # Surfing the Laugh Wave
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Ride the peak of audience laughter to expand comedic beats without breaking the fourth wall.
 
 ## Overview

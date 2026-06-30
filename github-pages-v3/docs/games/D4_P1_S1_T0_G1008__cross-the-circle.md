@@ -57,6 +57,8 @@ aliases:
 
 # Circle Crossing
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Find common ground and swap spaces in a fast-paced game of physical and personal connection.
 
 ## Overview

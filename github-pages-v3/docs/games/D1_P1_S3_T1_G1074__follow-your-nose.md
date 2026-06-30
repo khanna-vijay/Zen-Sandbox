@@ -53,6 +53,8 @@ aliases:
 
 # Leading Centers
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Lead your movement from different body parts to instantly unlock distinct, committed characters.
 
 ## Overview

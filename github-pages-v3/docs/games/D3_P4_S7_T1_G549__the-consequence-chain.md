@@ -65,6 +65,8 @@ aliases:
 
 # The Consequence Chain
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build unstoppable narrative momentum by systematically compounding the logical consequences of a single disruptive event.
 
 ## Overview

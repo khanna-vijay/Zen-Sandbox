@@ -64,6 +64,8 @@ aliases: []
 
 # The Collective Conductor
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Shape an evolving, non-verbal sound and movement piece through fluid, unspoken leadership and subtle transformation.
 
 ## Overview

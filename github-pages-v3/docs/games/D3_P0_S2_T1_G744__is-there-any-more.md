@@ -58,6 +58,8 @@ aliases: []
 
 # Is There Any More?
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Amplify a single physical and vocal offer step-by-step through enthusiastic partner encouragement.
 
 ## Overview

@@ -59,6 +59,8 @@ aliases: []
 
 # Yippee Connection
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A high-energy warm-up of spontaneous pairing, synchronized jumping, and pure, unfiltered joy.
 
 ## Overview

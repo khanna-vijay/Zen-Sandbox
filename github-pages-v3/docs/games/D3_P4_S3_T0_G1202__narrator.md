@@ -60,6 +60,8 @@ aliases:
 
 # The Storyteller's Lens
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Co-create a rich story through the dynamic interplay of physical action and spoken narration.
 
 ## Overview

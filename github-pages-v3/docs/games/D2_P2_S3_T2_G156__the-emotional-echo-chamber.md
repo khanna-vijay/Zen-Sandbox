@@ -69,6 +69,8 @@ aliases:
 
 # The Emotional Echo Chamber
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A wordless, physical conversation of evolving feelings that builds deep, intuitive partner attunement.
 
 ## Overview

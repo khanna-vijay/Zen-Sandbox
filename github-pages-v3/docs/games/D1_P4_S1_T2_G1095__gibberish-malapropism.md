@@ -54,6 +54,8 @@ aliases:
 
 # Nonsense Labels
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Bypass your inner editor by pointing at real objects and naming them with instant nonsense.
 
 ## Overview

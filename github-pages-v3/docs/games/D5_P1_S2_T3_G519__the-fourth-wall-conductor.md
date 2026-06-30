@@ -64,6 +64,8 @@ aliases:
 
 # The Fourth Wall Conductor
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Direct the energy of the room by stepping through the invisible boundary of your scene.
 
 ## Overview

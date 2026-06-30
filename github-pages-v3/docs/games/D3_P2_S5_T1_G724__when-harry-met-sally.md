@@ -64,6 +64,8 @@ aliases: []
 
 # Couples Retrospective
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Discover rich character relationships and shared histories through physical posture and collaborative storytelling.
 
 ## Overview

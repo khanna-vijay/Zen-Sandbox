@@ -72,6 +72,8 @@ aliases:
 
 # The Shifting Canvas
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Co-create a seamless narrative by dynamically adapting to your partner's changing virtual environments.
 
 ## Overview

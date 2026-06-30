@@ -65,6 +65,8 @@ aliases: []
 
 # The Relational Crucible
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Map hidden character desires and projections onto a digital canvas to fuel high-stakes narrative scenes.
 
 ## Overview

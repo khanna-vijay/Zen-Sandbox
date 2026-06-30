@@ -63,6 +63,8 @@ aliases:
 
 # The Consequence Cascade
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Drive narrative momentum by instantly transforming every major action into an escalating, high-stakes complication.
 
 ## Overview

@@ -60,6 +60,8 @@ aliases: []
 
 # The Crescendo Finale
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Weave past scenes into a fast-paced, overlapping climax that beautifully unites the entire performance.
 
 ## Overview

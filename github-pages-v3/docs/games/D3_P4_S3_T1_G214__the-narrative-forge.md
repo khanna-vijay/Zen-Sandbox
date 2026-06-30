@@ -44,8 +44,7 @@ energy_level: "medium"
 physicality_level: "low"
 audience_required: "no"
 props_required: "yes"
-props_list:
-  - "Narrative Impulse Cards or List"
+props_list: []
 space_required: "minimal"
 est_duration_minutes: 15
 keywords:
@@ -57,11 +56,12 @@ keywords:
   - "story spine"
   - "external editor"
   - "impulses"
-aliases:
-  - "Real-Time Narrative Impulse Integration"
+aliases: []
 ---
 
 # The Narrative Architect
+
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
 
 > An off-screen director steers a virtual scene by injecting real-time structural plot points.
 
@@ -88,20 +88,21 @@ In this virtual exercise, two active players perform a scene while a third playe
 | Physicality | low |
 | Modality | virtual |
 | Space | minimal |
-| Props | Narrative Impulse Cards or List |
+| Props | yes |
 | Audience | not required |
 
 ## Setup
-Conducted in a virtual video-conferencing space. Two players keep their cameras on as the active performers. A third player acts as the Narrative Architect with their camera off, keeping a digital list of Narrative Impulses (e.g., in a shared document or chat window) ready to read aloud or paste into the chat. Remaining participants observe as the audience.
+Conducted in a virtual video-conferencing space. Two players keep their cameras on as the active performers. A third player is designated as the Narrative Architect. To prepare, the Architect is provided with a curated list of 'Narrative Impulses' (e.g., 'Raise the Stakes', 'Introduce an Obstacle', 'Reveal a Secret') and instructed to track the scene's platform, looking for moments where the momentum plateaus or needs a structural push. The Architect turns their camera off but keeps their microphone active.
 
 ## How to Play
 1. Assign roles: two active scene players, one Narrative Architect, and the remaining participants as the observing audience.
-2. The active players obtain a simple relationship or location suggestion from the audience to initiate a standard, character-driven scene.
-3. The Narrative Architect turns off their camera but keeps their microphone active, closely tracking the scene's platform, character desires, and pacing.
-4. When the scene reaches a plateau or needs structural progression, the Architect verbally calls out a Narrative Impulse from their list (e.g., 'Introduce an Obstacle' or 'Raise the Stakes').
-5. The active players must immediately accept this prompt as absolute truth, using 'yes-and' to justify and weave the new element seamlessly into their characters' reality.
-6. The Architect continues to guide the scene's trajectory by introducing 3 to 5 distinct impulses over the course of the scene, guiding it through rising action toward a climax.
-7. The scene concludes when the Architect delivers the final impulse: 'Bring the story to a resolution,' allowing the actors to find a satisfying ending.
+2. Prepare the Architect by having them select or receive a list of 5-6 specific Narrative Impulses (such as: 'Introduce an Obstacle', 'Raise the Stakes', 'Reveal a Secret', 'Force a Choice', 'Uncover a Shared History', or 'Bring to Resolution').
+3. The active players obtain a simple relationship or location suggestion from the audience to initiate a standard, character-driven scene.
+4. The Narrative Architect turns off their camera but keeps their microphone active, closely tracking the scene's platform, character desires, and pacing.
+5. When the scene reaches a plateau or needs structural progression, the Architect verbally calls out a Narrative Impulse from their list (e.g., 'Introduce an Obstacle' or 'Raise the Stakes').
+6. The active players must immediately accept this prompt as absolute truth, using 'yes-and' to justify and weave the new element seamlessly into their characters' reality.
+7. The Architect continues to guide the scene's trajectory by introducing 3 to 5 distinct impulses over the course of the scene, guiding it through rising action toward a climax.
+8. The scene concludes when the Architect delivers the final impulse: 'Bring the story to a resolution,' allowing the actors to find a satisfying ending.
 
 ## Facilitation Notes
 - Coaching Cue: Remind the Architect to 'coach with love'—their prompts should support and elevate the existing platform, not derail or punish the actors.

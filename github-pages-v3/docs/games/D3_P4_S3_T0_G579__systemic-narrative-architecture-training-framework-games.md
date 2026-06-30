@@ -72,6 +72,8 @@ aliases:
 
 # Engine Lock-In
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Identify, freeze, and supercharge the hidden pattern driving your scene's narrative momentum.
 
 ## Overview

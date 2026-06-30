@@ -61,6 +61,8 @@ aliases: []
 
 # I Love You
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A high-stakes scene-work exercise where players deliver and receive a genuine declaration of love.
 
 ## Overview

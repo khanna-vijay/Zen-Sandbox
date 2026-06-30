@@ -54,6 +54,8 @@ aliases: []
 
 # The Infinite Chair
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Support the group by trusting the person behind you and sitting on air.
 
 ## Overview

@@ -2,7 +2,7 @@
 catalog_serial: 471
 filename: "D3_P4_S3_T1_G471__the-domino-effect.md"
 title: "The Domino Effect"
-tagline: "Unleash a chain reaction of cause and effect to build tight, inevitable narrative arcs."
+tagline: "Construct an inevitable chain reaction of cause and effect to drive tight narrative arcs."
 status: "enriched"
 primary_domain: 3
 primary_domain_name: "The Scene"
@@ -62,10 +62,12 @@ aliases: []
 
 # The Domino Effect
 
-> Unleash a chain reaction of cause and effect to build tight, inevitable narrative arcs.
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
+> Construct an inevitable chain reaction of cause and effect to drive tight narrative arcs.
 
 ## Overview
-A dynamic narrative-building game where players explore the logical ripple effects of every choice. By responding to a facilitator's prompt, players must immediately introduce a direct consequence of previous events, transforming simple actions into an escalating chain of narrative cause and effect.
+A dynamic narrative-building game where players explore the logical ripple effects of every choice. By responding to a facilitator's prompt, players immediately introduce the direct consequence of the previous action, transforming simple choices into an escalating chain of narrative cause and effect.
 
 ## What It Trains
 - **Domain:** D3 — The Scene
@@ -91,36 +93,35 @@ A dynamic narrative-building game where players explore the logical ripple effec
 | Audience | not required |
 
 ## Setup
-An open performance space. Players stand in a circle or line-up, with two players stepping forward to initiate a scene. No props or materials are required. The facilitator stands where they can clearly observe and call out prompts.
+An open performance space. Players stand in a circle or line-up, with two players stepping forward to initiate a scene. The facilitator stands where they can clearly observe and call out prompts.
 
 ## How to Play
-1. Begin with a simple suggestion of a location or relationship to establish a grounded base reality.
-2. Two players start a scene, focusing on establishing their relationship, environment, and a normal routine.
-3. Within the first minute, one player must introduce a singular, unusual event or discovery (e.g., finding a glowing key in a desk drawer).
-4. The players react to this event naturally, maintaining their characters' established points of view.
-5. At a key moment of action, the facilitator calls out 'Domino!' to interrupt the flow.
-6. The player whose turn it is to speak must immediately deliver a line that introduces a direct, logical consequence of a previously established fact.
-7. The scene continues with both players treating this new consequence as absolute truth, exploring its immediate emotional and physical impact.
-8. The facilitator calls 'Domino!' multiple times throughout the scene, forcing a cascading series of escalating consequences that drive the story to its climax.
+1. Two players step forward to begin a scene based on a simple location suggestion, focusing first on establishing a grounded base reality and their relationship.
+2. Within the first minute, one player introduces a singular, unusual event, discovery, or choice that disrupts their normal routine.
+3. The players react to this disruption naturally, letting their characters' emotional points of view guide their initial responses.
+4. The facilitator monitors the scene, waiting for a clear action or statement to land, and then calls out 'Domino!'
+5. Upon hearing 'Domino!', the player who was listening (the receiver of the last action) must immediately speak, starting their line by stating the direct, logical consequence of their partner's last move.
+6. The scene continues with both players treating this new consequence as absolute, unshakeable truth, exploring its immediate impact on their relationship.
+7. The facilitator calls 'Domino!' multiple times throughout the scene, driving a cascading series of escalating consequences toward a natural climax.
 
 ## Facilitation Notes
-- Side-coaching cue: 'What is the immediate, real-world cost of that action?' to help players find logical consequences.
-- Pitfall: Players make wild, unrelated leaps instead of logical steps. Fix: Pause the scene and ask, 'If X happened, what is the very next logical thing that must occur?'
-- Side-coaching cue: 'Look for emotional consequences, not just physical ones.' A character feeling betrayed is a powerful domino.
-- Pitfall: Analysis paralysis when 'Domino!' is called. Fix: Encourage players to trust their first instinct; even a small, mundane consequence is better than searching for a perfect plot twist.
+- Pacing the Trigger: Avoid calling 'Domino!' during active emotional discoveries or mid-sentence. Allow a character's emotional reaction to fully land and breathe, then call the prompt on the physical action or decision that follows.
+- Determining the Speaker: Ensure players know that the receiver of the action always takes the 'Domino!' prompt. This prevents talking over one another and reinforces active listening.
+- Course-Correcting Wild Leaps: If a player introduces a completely unrelated plot twist instead of a logical consequence, pause the scene and ask: 'If that action just happened, what is the very next physical or emotional thing that must occur?'
+- Focus on Internal Stakes: Remind players that consequences do not always have to be external disasters; an emotional shift, like a loss of trust or a sudden realization, is a highly effective domino.
 
 ## Variations
-- The Silent Domino: Instead of the facilitator calling it, players physically tap their foot or clap to signal they are introducing a consequence, passing narrative control back and forth.
-- The Reverse Domino: After a major consequence is revealed, the facilitator pauses the scene and asks the players to retroactively justify how a minor detail from the beginning of the scene caused it.
-- Multi-Character Cascade: Run the scene with 3 or 4 players, where each 'Domino!' call requires a different character to experience a personal consequence of the central event.
+- The Silent Domino: Eliminate the facilitator. Players tap their chest or snap their fingers to self-trigger, passing the narrative consequence back and forth.
+- The Digital Cascade: In a virtual setting, the facilitator types 'DOMINO' in the chat or holds up a physical card. The non-speaking player on screen must immediately unmute and deliver the consequence.
+- The Reverse Domino: After a major, absurd climax is reached, pause the scene and have the players work backward, step-by-step, to justify how a tiny, mundane detail from the opening beat caused it.
 
 ## Debrief
-- How did focusing on logical consequences make the story feel more inevitable and satisfying?
-- What is the difference between inventing a random new plot point and discovering a consequence of an existing one?
-- How did the emotional stakes change as the dominoes began to fall faster?
+- How did waiting for the emotional beat to land before introducing the next consequence change the depth of the scene?
+- What did it feel like to have the turn-taking clearly defined when 'Domino!' was called?
+- How does building on logical consequences differ from constantly inventing new, random plot points?
 
 ## Safety & Inclusion
-Ensure that consequences introduced do not inadvertently strip away player agency or violate physical boundaries. If a consequence involves physical touch or high emotional distress, players should use brief non-verbal check-ins or adjust the narrative to focus on external stakes.
+Because escalating consequences can sometimes push scenes into high-intensity or high-stakes territory, establish a 'pause' or 'rewind' signal. If a consequence introduces physical touch, boundary violations, or sensitive themes, players can instantly pivot the consequence to an external, non-sensitive event without breaking the game's momentum.
 
 ## Why It Works
-This game works because it operationalizes the 'if true, what else is true' principle into a concrete, gamified trigger. By forcing players to build strictly on what has already been established, it prevents the common trap of introducing unrelated ideas, resulting in a tightly woven narrative arc where every beat feels earned and justified.
+This game operationalizes the 'if true, what else is true' principle by turning narrative progression into a structured, reactive mechanic. By clearly defining who speaks and ensuring the facilitator respects emotional pacing, players learn to trust that the most compelling plot points are already hidden within their partner's previous actions, eliminating the pressure to invent.

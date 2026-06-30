@@ -61,6 +61,8 @@ aliases:
 
 # Conducted Story Elimination
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A high-stakes, fast-paced narrative game where players must seamlessly continue a single story on a dime.
 
 ## Overview

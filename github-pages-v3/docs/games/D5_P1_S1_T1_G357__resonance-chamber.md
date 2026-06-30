@@ -63,6 +63,8 @@ aliases: []
 
 # Resonance Chamber
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Calibrate your stage energy to shift the room's emotional atmosphere without breaking the fourth wall.
 
 ## Overview

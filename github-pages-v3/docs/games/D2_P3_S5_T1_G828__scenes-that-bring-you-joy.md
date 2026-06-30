@@ -59,6 +59,8 @@ aliases:
 
 # Gifts of Joy
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Discover what brings your partner genuine happiness, then surprise them with it on stage.
 
 ## Overview

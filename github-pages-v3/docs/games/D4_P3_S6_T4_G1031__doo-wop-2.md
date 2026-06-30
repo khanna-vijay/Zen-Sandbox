@@ -63,6 +63,8 @@ aliases:
 
 # Vocal Groove Longform
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A musical longform format where a continuous vocal groove inspires and connects a series of scenes.
 
 ## Overview

@@ -67,6 +67,8 @@ aliases: []
 
 # Scenic Shifts
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Weave an epic collaborative narrative by dynamically changing your virtual backgrounds to Yes-And your partner.
 
 ## Overview

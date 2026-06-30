@@ -59,6 +59,8 @@ aliases:
 
 # The Silent Auditor
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Calibrate your stage energy in real-time using silent, audience-proxy feedback without breaking character.
 
 ## Overview

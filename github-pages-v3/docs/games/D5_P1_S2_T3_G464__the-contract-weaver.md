@@ -61,6 +61,8 @@ aliases:
 
 # The Reality Stitch
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Master the art of the subtle fourth-wall break and seamless return to scene reality.
 
 ## Overview

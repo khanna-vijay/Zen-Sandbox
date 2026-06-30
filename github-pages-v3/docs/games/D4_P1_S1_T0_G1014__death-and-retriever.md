@@ -58,6 +58,8 @@ aliases: []
 
 # The Shadow and the Retriever
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Navigate the dark together to revive frozen teammates using touch, sound, and spatial awareness.
 
 ## Overview

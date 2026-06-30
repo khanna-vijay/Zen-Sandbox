@@ -66,6 +66,8 @@ aliases: []
 
 # The Confidant's Spotlight
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Conspire with the audience by sharing secrets they alone are permitted to hear.
 
 ## Overview

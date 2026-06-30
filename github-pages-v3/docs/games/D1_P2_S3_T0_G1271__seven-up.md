@@ -58,6 +58,8 @@ aliases:
 
 # Seven-Count Shakeout
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Shake off tension and embrace mistakes in a high-energy, synchronized physical countdown.
 
 ## Overview

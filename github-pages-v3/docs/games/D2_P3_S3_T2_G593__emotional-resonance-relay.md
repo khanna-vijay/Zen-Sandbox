@@ -70,6 +70,8 @@ aliases: []
 
 # Emotional Resonance Relay
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Pass, mirror, and amplify deep emotional states and status shifts in a continuous physical loop.
 
 ## Overview

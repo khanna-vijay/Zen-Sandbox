@@ -62,6 +62,8 @@ aliases: []
 
 # The Pattern Weaver
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Collectively discover, escalate, and non-verbally retire comedic patterns in a seamless stream of consciousness.
 
 ## Overview

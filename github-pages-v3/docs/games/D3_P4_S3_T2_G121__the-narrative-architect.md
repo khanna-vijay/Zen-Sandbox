@@ -61,6 +61,8 @@ aliases: []
 
 # The Narrative Architect
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Weave sudden, game-changing plot twists into a seamless, justified story on the fly.
 
 ## Overview

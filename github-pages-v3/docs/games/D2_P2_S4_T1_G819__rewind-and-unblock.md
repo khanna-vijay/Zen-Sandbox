@@ -56,6 +56,8 @@ aliases: []
 
 # Rewind and Rebuild
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Pause, step back, and discover the hidden potential of missed offers in real time.
 
 ## Overview

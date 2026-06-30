@@ -61,6 +61,8 @@ aliases: []
 
 # The Mutation Circle
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Pass a gesture and sound around the circle, embracing every accidental change as the new reality.
 
 ## Overview

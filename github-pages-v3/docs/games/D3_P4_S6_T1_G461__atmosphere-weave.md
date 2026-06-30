@@ -63,6 +63,8 @@ aliases: []
 
 # Atmosphere Weave
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Weave sudden, dramatic shifts in theatrical style into a single, unbroken narrative thread.
 
 ## Overview

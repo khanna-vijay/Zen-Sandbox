@@ -52,6 +52,8 @@ aliases: []
 
 # The Unstoppable Mind
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Discover that your brain never stops generating ideas, even when you try to think of nothing.
 
 ## Overview

@@ -59,6 +59,8 @@ aliases:
 
 # The Truth Check-In
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Prioritize personal boundaries over polite compliance by practicing real-time, authentic communication during challenging scene offers.
 
 ## Overview

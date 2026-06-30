@@ -62,6 +62,8 @@ aliases: []
 
 # The Live Feed
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Step out of the scene to check the room's pulse and instantly adapt your performance.
 
 ## Overview

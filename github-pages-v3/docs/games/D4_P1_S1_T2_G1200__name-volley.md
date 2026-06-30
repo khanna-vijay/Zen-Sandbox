@@ -60,6 +60,8 @@ aliases: []
 
 # Name Volley
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Keep an imaginary volleyball in play by calling out names and tracking the group's focus.
 
 ## Overview

@@ -59,6 +59,8 @@ aliases: []
 
 # Opposite Rants
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Unleash high-energy, unfiltered passion by passionately defending the indefensible and hating the beloved.
 
 ## Overview

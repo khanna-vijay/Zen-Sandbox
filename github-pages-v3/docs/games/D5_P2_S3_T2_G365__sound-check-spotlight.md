@@ -63,6 +63,8 @@ aliases: []
 
 # Vocal Spotlight
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Calibrate your vocal projection and stage presence in real-time using dynamic spatial targets.
 
 ## Overview

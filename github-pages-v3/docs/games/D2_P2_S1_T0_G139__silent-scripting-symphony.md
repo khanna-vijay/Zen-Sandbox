@@ -65,6 +65,8 @@ aliases:
 
 # The Secret Script
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Weave a dynamic narrative using silent physical play punctuated by secret, privately messaged plot twists.
 
 ## Overview

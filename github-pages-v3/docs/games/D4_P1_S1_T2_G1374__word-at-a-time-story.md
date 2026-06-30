@@ -61,6 +61,8 @@ aliases:
 
 # Word-by-Word Story
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build a cohesive narrative one word at a time by surrendering individual control.
 
 ## Overview

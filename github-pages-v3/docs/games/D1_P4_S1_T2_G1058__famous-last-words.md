@@ -55,6 +55,8 @@ aliases: []
 
 # Famous Last Words
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Deliver instant, hilarious final utterances of famous figures based on rapid-fire audience suggestions.
 
 ## Overview

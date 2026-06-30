@@ -56,6 +56,8 @@ aliases: []
 
 # Solo Thresholds
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Step through imaginary doors to instantly discover characters, environments, and relationships.
 
 ## Overview

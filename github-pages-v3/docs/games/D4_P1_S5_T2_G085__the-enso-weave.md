@@ -61,6 +61,8 @@ aliases: []
 
 # The Resonance Weave
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Weave non-verbal sound and movement into spoken thematic seeds that inspire deep, connected scenes.
 
 ## Overview

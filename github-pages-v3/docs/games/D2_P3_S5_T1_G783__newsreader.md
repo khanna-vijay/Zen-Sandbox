@@ -67,6 +67,8 @@ aliases:
 
 # News Desk
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Elevate your partners by tossing them absurd, high-stakes live news reporting assignments.
 
 ## Overview

@@ -67,6 +67,8 @@ aliases: []
 
 # Somatic Resonance
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Instantly mirror your partner's physical and vocal energy to build deep, intuitive emotional agreement.
 
 ## Overview

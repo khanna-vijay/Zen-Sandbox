@@ -65,6 +65,8 @@ aliases:
 
 # The Constrained Chronicles
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Bring classic fairy tales to life while navigating absurd physical, emotional, and behavioral constraints.
 
 ## Overview

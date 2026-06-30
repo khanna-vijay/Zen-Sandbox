@@ -59,6 +59,8 @@ aliases:
 
 # The Engagement Conductor
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Steer scene dynamics in real time using direct audience feedback cards and fourth-wall-breaking adjustments.
 
 ## Overview

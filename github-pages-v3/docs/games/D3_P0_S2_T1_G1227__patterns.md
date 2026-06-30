@@ -62,6 +62,8 @@ aliases:
 
 # Pattern Escalator
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Climb a collaborative ladder of ideas by incrementally heightening the scale and intensity of each word.
 
 ## Overview

@@ -60,6 +60,8 @@ aliases:
 
 # The Rewind Re-Route
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Pause, check in, and collaboratively navigate boundaries in real-time without losing creative momentum.
 
 ## Overview

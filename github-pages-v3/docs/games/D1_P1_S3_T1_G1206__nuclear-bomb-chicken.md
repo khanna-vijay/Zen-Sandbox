@@ -55,6 +55,8 @@ aliases: []
 
 # The Henhouse Paradox
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Maintain absolute character commitment even when the world is about to end.
 
 ## Overview

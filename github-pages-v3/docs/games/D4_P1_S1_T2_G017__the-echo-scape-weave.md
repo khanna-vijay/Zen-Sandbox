@@ -72,6 +72,8 @@ aliases:
 
 # The Echo-Scape Weave
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Weave environment, movement, and dialogue into a deeply interconnected, multi-layered collective reality.
 
 ## Overview

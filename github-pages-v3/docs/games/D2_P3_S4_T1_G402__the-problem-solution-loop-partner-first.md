@@ -69,6 +69,8 @@ aliases:
 
 # The Brilliant Solution Loop
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Make your partner look like an absolute genius by enthusiastically justifying their wildest solutions.
 
 ## Overview

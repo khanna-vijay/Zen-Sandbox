@@ -68,6 +68,8 @@ aliases: []
 
 # The Status Seesaw Echo
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Consciously shift your social status to elevate your partner and make their choices look brilliant.
 
 ## Overview

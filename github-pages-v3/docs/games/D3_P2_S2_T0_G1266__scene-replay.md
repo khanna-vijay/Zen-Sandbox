@@ -72,6 +72,8 @@ aliases:
 
 # The Replay Matrix
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Re-perform a single, grounded scene through a series of stylistic, emotional, or temporal filters.
 
 ## Overview

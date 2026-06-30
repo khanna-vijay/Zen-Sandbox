@@ -71,6 +71,8 @@ aliases:
 
 # The Echo Canvas
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Transform a single repeated phrase into a shifting landscape of relationship, emotion, and status.
 
 ## Overview

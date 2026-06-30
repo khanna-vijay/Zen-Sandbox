@@ -60,6 +60,8 @@ aliases:
 
 # The Wall Conductor
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Master the boundary between stage and house by dynamically cracking, bending, and repairing the fourth wall.
 
 ## Overview

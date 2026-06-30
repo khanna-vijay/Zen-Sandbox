@@ -70,6 +70,8 @@ aliases:
 
 # The Rhythm Conductor
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Sculpt the emotional arc of a scene by dynamically shifting its physical and verbal tempo.
 
 ## Overview

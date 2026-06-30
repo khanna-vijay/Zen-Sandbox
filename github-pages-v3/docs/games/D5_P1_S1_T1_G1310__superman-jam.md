@@ -57,6 +57,8 @@ aliases: []
 
 # The Conducted Chant
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Calibrate and conduct a room's collective energy using a simple, layered rhythmic chant.
 
 ## Overview

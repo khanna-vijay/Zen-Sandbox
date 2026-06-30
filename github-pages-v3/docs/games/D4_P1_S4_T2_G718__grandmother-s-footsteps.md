@@ -62,6 +62,8 @@ aliases:
 
 # Grandmother's Steps
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Creep, freeze, and read the room's rhythm to reach the guardian without getting caught.
 
 ## Overview

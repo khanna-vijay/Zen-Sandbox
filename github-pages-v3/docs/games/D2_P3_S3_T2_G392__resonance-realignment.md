@@ -69,6 +69,8 @@ aliases: []
 
 # Echo and Align
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Mirror your partner's emotional truth, then gift them a new reality to transform the scene.
 
 ## Overview

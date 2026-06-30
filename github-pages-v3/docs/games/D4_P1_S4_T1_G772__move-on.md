@@ -60,6 +60,8 @@ aliases: []
 
 # Keep and Move On
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > A high-energy editing drill where scenes pivot instantly on a single, preserved detail.
 
 ## Overview

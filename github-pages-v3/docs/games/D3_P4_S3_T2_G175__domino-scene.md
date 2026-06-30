@@ -63,6 +63,8 @@ aliases:
 
 # The Domino Chain
 
+<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+
 > Build an escalating narrative arc where every action triggers an immediate, unavoidable consequence for your partner.
 
 ## Overview
