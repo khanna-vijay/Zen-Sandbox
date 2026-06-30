@@ -19,6 +19,7 @@ theme:
   language: en
   features:
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.top
     - navigation.instant
     - navigation.indexes
@@ -136,166 +137,167 @@ nav:
           - workshops/03_advanced/week-16.md
           - workshops/03_advanced/week-17.md
           - workshops/03_advanced/week-18.md
-  - "The Self":
-      - Overview: content/01_the-self/01_D__the-self.md
-      - Principles:
-          - "Commit 100%": content/01_the-self/01_P1__commit-100.md
-          - "Fail Joyfully": content/01_the-self/01_P2__fail-joyfully.md
-          - "Vulnerability": content/01_the-self/01_P3__vulnerability.md
-          - "The First Thought Is a Gift": content/01_the-self/01_P4__the-first-thought-is-a-gift.md
-      - Skills:
-          - "Unfiltered Spontaneity":
-              - Overview: content/01_the-self/01_S1__unfiltered-spontaneity.md
-              - "Word-association": content/01_the-self/01_S1_T1__word-association.md
-              - "First Thought drills": content/01_the-self/01_S1_T2__first-thought-drills.md
-              - "Bring a Brick": content/01_the-self/01_S1_T3__bring-a-brick.md
-          - "Emotional Fluidity":
-              - Overview: content/01_the-self/01_S2__emotional-fluidity.md
-              - "The Emotional Dial (1→10)": content/01_the-self/01_S2_T1__the-emotional-dial-1-to-10.md
-              - "Emotional substitution": content/01_the-self/01_S2_T2__emotional-substitution.md
-          - "Physicality & Space Work":
-              - Overview: content/01_the-self/01_S3__physicality-and-space-work.md
-              - "Character Walks/Centers": content/01_the-self/01_S3_T1__character-walks-centers.md
-              - "Object work": content/01_the-self/01_S3_T2__object-work.md
-              - "Weight & resistance mime": content/01_the-self/01_S3_T3__weight-and-resistance-mime.md
-          - "Vocal Craft":
-              - Overview: content/01_the-self/01_S4__vocal-craft.md
-              - "Projection & breath support": content/01_the-self/01_S4_T1__projection-and-breath-support.md
-              - "Vocal characterization": content/01_the-self/01_S4_T2__vocal-characterization.md
-              - "Gibberish": content/01_the-self/01_S4_T3__gibberish.md
-          - "Silence & Stillness":
-              - Overview: content/01_the-self/01_S5__silence-and-stillness.md
-              - "Do nothing exercises": content/01_the-self/01_S5_T1__do-nothing-exercises.md
-              - "Hold-the-beat reps": content/01_the-self/01_S5_T2__hold-the-beat-reps.md
-              - "Status-through-stillness": content/01_the-self/01_S5_T3__status-through-stillness.md
-          - "Self-Recovery":
-              - Overview: content/01_the-self/01_S6__self-recovery.md
-              - "And that's exactly what I meant": content/01_the-self/01_S6_T1__and-that-s-exactly-what-i-meant.md
-              - "Reframe-the-flub reps": content/01_the-self/01_S6_T2__reframe-the-flub-reps.md
-  - "The Partner":
-      - Overview: content/02_the-partner/02_D__the-partner.md
-      - Principles:
-          - "Consent & Boundaries": content/02_the-partner/02_P1__consent-and-boundaries.md
-          - "Yes, And": content/02_the-partner/02_P2__yes-and.md
-          - "Make Your Partner a Genius": content/02_the-partner/02_P3__make-your-partner-a-genius.md
-          - "Assume Competence": content/02_the-partner/02_P4__assume-competence.md
-      - Skills:
-          - "Active Listening":
-              - Overview: content/02_the-partner/02_S1__active-listening.md
-              - "Meisner Repetition": content/02_the-partner/02_S1_T1__meisner-repetition.md
-              - "Last Word Response": content/02_the-partner/02_S1_T2__last-word-response.md
-          - "Status Modulation":
-              - Overview: content/02_the-partner/02_S2__status-modulation.md
-              - "Status Seesaw": content/02_the-partner/02_S2_T1__status-seesaw.md
-              - "High/low-status walks": content/02_the-partner/02_S2_T2__high-low-status-walks.md
-          - "Single-Partner Empathy & Mirroring":
-              - Overview: content/02_the-partner/02_S3__single-partner-empathy-and-mirroring.md
-              - "Mirror exercise": content/02_the-partner/02_S3_T1__mirror-exercise.md
-              - "Emotional-echo drills": content/02_the-partner/02_S3_T2__emotional-echo-drills.md
-          - "Offer Reception":
-              - Overview: content/02_the-partner/02_S4__offer-reception.md
-              - "Yes, And… sentence games": content/02_the-partner/02_S4_T1__yes-and-sentence-games.md
-              - "Endowment-acceptance": content/02_the-partner/02_S4_T2__endowment-acceptance.md
-          - "Active Gifting":
-              - Overview: content/02_the-partner/02_S5__active-gifting.md
-              - "Endowment-gifting drills": content/02_the-partner/02_S5_T1__endowment-gifting-drills.md
-              - "Give them the answer": content/02_the-partner/02_S5_T2__give-them-the-answer.md
-          - "Boundary Navigation":
-              - Overview: content/02_the-partner/02_S6__boundary-navigation.md
-              - "Check-ins": content/02_the-partner/02_S6_T1__check-ins.md
-              - "Cut calls": content/02_the-partner/02_S6_T2__cut-calls.md
-              - "Negotiating physical contact": content/02_the-partner/02_S6_T3__negotiating-physical-contact.md
-  - "The Scene":
-      - Overview: content/03_the-scene/03_D__the-scene.md
-      - Principles:
-          - "Show, Don't Tell": content/03_the-scene/03_P1__show-don-t-tell.md
-          - "Base Reality First": content/03_the-scene/03_P2__base-reality-first.md
-          - "Start in the Middle": content/03_the-scene/03_P3__start-in-the-middle.md
-          - "Serve the Story": content/03_the-scene/03_P4__serve-the-story.md
-      - Skills:
-          - "Game Identification":
-              - Overview: content/03_the-scene/03_S1__game-identification.md
-              - "Finding & Playing the Game": content/03_the-scene/03_S1_T1__finding-and-playing-the-game.md
-              - "If this is true, what else is true?": content/03_the-scene/03_S1_T2__if-this-is-true-what-else-is-true.md
-          - "Heightening & Exploration":
-              - Overview: content/03_the-scene/03_S2__heightening-and-exploration.md
-              - "The 'ladder' (escalating beats)": content/03_the-scene/03_S2_T1__the-ladder-escalating-beats.md
-              - "Exploring the 'why'": content/03_the-scene/03_S2_T2__exploring-the-why.md
-          - "Narrative Architecture":
-              - Overview: content/03_the-scene/03_S3__narrative-architecture.md
-              - "Story Spine": content/03_the-scene/03_S3_T1__story-spine.md
-              - "Platform/Tilt": content/03_the-scene/03_S3_T2__platform-tilt.md
-              - "Protagonist/Antagonist ID": content/03_the-scene/03_S3_T3__protagonist-antagonist-id.md
-          - "Stakes / The 'Want'":
-              - Overview: content/03_the-scene/03_S4__stakes-the-want.md
-              - "What do they stand to lose? reps": content/03_the-scene/03_S4_T1__what-do-they-stand-to-lose-reps.md
-              - "Objective-laddering": content/03_the-scene/03_S4_T2__objective-laddering.md
-          - "World-Building":
-              - Overview: content/03_the-scene/03_S5__world-building.md
-              - "C.R.O.W. (Character, Relationship, Objective, Where)": content/03_the-scene/03_S5_T1__c-r-o-w-character-relationship-objective-where.md
-              - "Endowment chains": content/03_the-scene/03_S5_T2__endowment-chains.md
-          - "Justification":
-              - Overview: content/03_the-scene/03_S6__justification.md
-              - "Justify the absurd": content/03_the-scene/03_S6_T1__justify-the-absurd.md
-              - "Reincorporation-as-justification": content/03_the-scene/03_S6_T2__reincorporation-as-justification.md
-          - "Raising the Stakes":
-              - Overview: content/03_the-scene/03_S7__raising-the-stakes.md
-              - "Stakes-escalation reps": content/03_the-scene/03_S7_T1__stakes-escalation-reps.md
-              - "Make it matter more beats": content/03_the-scene/03_S7_T2__make-it-matter-more-beats.md
-  - "The Ensemble":
-      - Overview: content/04_the-ensemble/04_D__the-ensemble.md
-      - Principles:
-          - "Group Mind": content/04_the-ensemble/04_P1__group-mind.md
-          - "Follow the Follower": content/04_the-ensemble/04_P2__follow-the-follower.md
-          - "Serve the Piece": content/04_the-ensemble/04_P3__serve-the-piece.md
-      - Skills:
-          - "Peripheral Awareness":
-              - Overview: content/04_the-ensemble/04_S1__peripheral-awareness.md
-              - "Stage-picture exercises": content/04_the-ensemble/04_S1_T1__stage-picture-exercises.md
-              - "Thread-tracking drills": content/04_the-ensemble/04_S1_T2__thread-tracking-drills.md
-          - "Support Work":
-              - Overview: content/04_the-ensemble/04_S2__support-work.md
-              - "Walk-ons": content/04_the-ensemble/04_S2_T1__walk-ons.md
-              - "Tap-ins": content/04_the-ensemble/04_S2_T2__tap-ins.md
-              - "Playing architecture/objects": content/04_the-ensemble/04_S2_T3__playing-architecture-objects.md
-          - "Suggestion Deconstruction (A-to-C)":
-              - Overview: content/04_the-ensemble/04_S3__suggestion-deconstruction-a-to-c.md
-              - "A-to-C drills": content/04_the-ensemble/04_S3_T1__a-to-c-drills.md
-              - "Premise brainstorm rounds": content/04_the-ensemble/04_S3_T2__premise-brainstorm-rounds.md
-              - "What's interesting about this? mining": content/04_the-ensemble/04_S3_T3__what-s-interesting-about-this-mining.md
-          - "Pacing & Rhythm":
-              - Overview: content/04_the-ensemble/04_S4__pacing-and-rhythm.md
-              - "Edits (Sweep, Tag-Out, Sound/Light)": content/04_the-ensemble/04_S4_T1__edits-sweep-tag-out-sound-light.md
-              - "Timing exercises": content/04_the-ensemble/04_S4_T2__timing-exercises.md
-          - "Thematic Synthesis":
-              - Overview: content/04_the-ensemble/04_S5__thematic-synthesis.md
-              - "Callbacks & Mapping": content/04_the-ensemble/04_S5_T1__callbacks-and-mapping.md
-              - "Weave the threads": content/04_the-ensemble/04_S5_T2__weave-the-threads.md
-          - "Format Literacy":
-              - Overview: content/04_the-ensemble/04_S6__format-literacy.md
-              - "Harold": content/04_the-ensemble/04_S6_T1__harold.md
-              - "Armando": content/04_the-ensemble/04_S6_T2__armando.md
-              - "Montage": content/04_the-ensemble/04_S6_T3__montage.md
-              - "Longform vs. shortform mechanics": content/04_the-ensemble/04_S6_T4__longform-vs-shortform-mechanics.md
-  - "The Audience":
-      - Overview: content/05_the-audience/05_D__the-audience.md
-      - Principles:
-          - "The Audience Is the Final Scene Partner": content/05_the-audience/05_P1__the-audience-is-the-final-scene-partner.md
-          - "Play for the Back Row": content/05_the-audience/05_P2__play-for-the-back-row.md
-          - "Truth Over Pandering": content/05_the-audience/05_P3__truth-over-pandering.md
-      - Skills:
-          - "Room Reading":
-              - Overview: content/05_the-audience/05_S1__room-reading.md
-              - "Energy-calibration": content/05_the-audience/05_S1_T1__energy-calibration.md
-              - "Reading the suggestion's intent": content/05_the-audience/05_S1_T2__reading-the-suggestion-s-intent.md
-          - "Audience-Energy Management":
-              - Overview: content/05_the-audience/05_S2__audience-energy-management.md
-              - "Tag-running (riding a laugh wave)": content/05_the-audience/05_S2_T1__tag-running-riding-a-laugh-wave.md
-              - "Landing/cushioning a beat": content/05_the-audience/05_S2_T2__landing-cushioning-a-beat.md
-              - "Breaking the 4th Wall / Direct Address": content/05_the-audience/05_S2_T3__breaking-the-4th-wall-direct-address.md
-          - "Stage Presence & Clarity":
-              - Overview: content/05_the-audience/05_S3__stage-presence-and-clarity.md
-              - "Cheating out": content/05_the-audience/05_S3_T1__cheating-out.md
-              - "Projection": content/05_the-audience/05_S3_T2__projection.md
-              - "Make the choice readable": content/05_the-audience/05_S3_T3__make-the-choice-readable.md
+  - Domains:
+      - "The Self":
+          - Overview: content/01_the-self/01_D__the-self.md
+          - Principles:
+              - "Commit 100%": content/01_the-self/01_P1__commit-100.md
+              - "Fail Joyfully": content/01_the-self/01_P2__fail-joyfully.md
+              - "Vulnerability": content/01_the-self/01_P3__vulnerability.md
+              - "The First Thought Is a Gift": content/01_the-self/01_P4__the-first-thought-is-a-gift.md
+          - Skills:
+              - "Unfiltered Spontaneity":
+                  - Overview: content/01_the-self/01_S1__unfiltered-spontaneity.md
+                  - "Word-association": content/01_the-self/01_S1_T1__word-association.md
+                  - "First Thought drills": content/01_the-self/01_S1_T2__first-thought-drills.md
+                  - "Bring a Brick": content/01_the-self/01_S1_T3__bring-a-brick.md
+              - "Emotional Fluidity":
+                  - Overview: content/01_the-self/01_S2__emotional-fluidity.md
+                  - "The Emotional Dial (1→10)": content/01_the-self/01_S2_T1__the-emotional-dial-1-to-10.md
+                  - "Emotional substitution": content/01_the-self/01_S2_T2__emotional-substitution.md
+              - "Physicality & Space Work":
+                  - Overview: content/01_the-self/01_S3__physicality-and-space-work.md
+                  - "Character Walks/Centers": content/01_the-self/01_S3_T1__character-walks-centers.md
+                  - "Object work": content/01_the-self/01_S3_T2__object-work.md
+                  - "Weight & resistance mime": content/01_the-self/01_S3_T3__weight-and-resistance-mime.md
+              - "Vocal Craft":
+                  - Overview: content/01_the-self/01_S4__vocal-craft.md
+                  - "Projection & breath support": content/01_the-self/01_S4_T1__projection-and-breath-support.md
+                  - "Vocal characterization": content/01_the-self/01_S4_T2__vocal-characterization.md
+                  - "Gibberish": content/01_the-self/01_S4_T3__gibberish.md
+              - "Silence & Stillness":
+                  - Overview: content/01_the-self/01_S5__silence-and-stillness.md
+                  - "Do nothing exercises": content/01_the-self/01_S5_T1__do-nothing-exercises.md
+                  - "Hold-the-beat reps": content/01_the-self/01_S5_T2__hold-the-beat-reps.md
+                  - "Status-through-stillness": content/01_the-self/01_S5_T3__status-through-stillness.md
+              - "Self-Recovery":
+                  - Overview: content/01_the-self/01_S6__self-recovery.md
+                  - "And that's exactly what I meant": content/01_the-self/01_S6_T1__and-that-s-exactly-what-i-meant.md
+                  - "Reframe-the-flub reps": content/01_the-self/01_S6_T2__reframe-the-flub-reps.md
+      - "The Partner":
+          - Overview: content/02_the-partner/02_D__the-partner.md
+          - Principles:
+              - "Consent & Boundaries": content/02_the-partner/02_P1__consent-and-boundaries.md
+              - "Yes, And": content/02_the-partner/02_P2__yes-and.md
+              - "Make Your Partner a Genius": content/02_the-partner/02_P3__make-your-partner-a-genius.md
+              - "Assume Competence": content/02_the-partner/02_P4__assume-competence.md
+          - Skills:
+              - "Active Listening":
+                  - Overview: content/02_the-partner/02_S1__active-listening.md
+                  - "Meisner Repetition": content/02_the-partner/02_S1_T1__meisner-repetition.md
+                  - "Last Word Response": content/02_the-partner/02_S1_T2__last-word-response.md
+              - "Status Modulation":
+                  - Overview: content/02_the-partner/02_S2__status-modulation.md
+                  - "Status Seesaw": content/02_the-partner/02_S2_T1__status-seesaw.md
+                  - "High/low-status walks": content/02_the-partner/02_S2_T2__high-low-status-walks.md
+              - "Single-Partner Empathy & Mirroring":
+                  - Overview: content/02_the-partner/02_S3__single-partner-empathy-and-mirroring.md
+                  - "Mirror exercise": content/02_the-partner/02_S3_T1__mirror-exercise.md
+                  - "Emotional-echo drills": content/02_the-partner/02_S3_T2__emotional-echo-drills.md
+              - "Offer Reception":
+                  - Overview: content/02_the-partner/02_S4__offer-reception.md
+                  - "Yes, And… sentence games": content/02_the-partner/02_S4_T1__yes-and-sentence-games.md
+                  - "Endowment-acceptance": content/02_the-partner/02_S4_T2__endowment-acceptance.md
+              - "Active Gifting":
+                  - Overview: content/02_the-partner/02_S5__active-gifting.md
+                  - "Endowment-gifting drills": content/02_the-partner/02_S5_T1__endowment-gifting-drills.md
+                  - "Give them the answer": content/02_the-partner/02_S5_T2__give-them-the-answer.md
+              - "Boundary Navigation":
+                  - Overview: content/02_the-partner/02_S6__boundary-navigation.md
+                  - "Check-ins": content/02_the-partner/02_S6_T1__check-ins.md
+                  - "Cut calls": content/02_the-partner/02_S6_T2__cut-calls.md
+                  - "Negotiating physical contact": content/02_the-partner/02_S6_T3__negotiating-physical-contact.md
+      - "The Scene":
+          - Overview: content/03_the-scene/03_D__the-scene.md
+          - Principles:
+              - "Show, Don't Tell": content/03_the-scene/03_P1__show-don-t-tell.md
+              - "Base Reality First": content/03_the-scene/03_P2__base-reality-first.md
+              - "Start in the Middle": content/03_the-scene/03_P3__start-in-the-middle.md
+              - "Serve the Story": content/03_the-scene/03_P4__serve-the-story.md
+          - Skills:
+              - "Game Identification":
+                  - Overview: content/03_the-scene/03_S1__game-identification.md
+                  - "Finding & Playing the Game": content/03_the-scene/03_S1_T1__finding-and-playing-the-game.md
+                  - "If this is true, what else is true?": content/03_the-scene/03_S1_T2__if-this-is-true-what-else-is-true.md
+              - "Heightening & Exploration":
+                  - Overview: content/03_the-scene/03_S2__heightening-and-exploration.md
+                  - "The 'ladder' (escalating beats)": content/03_the-scene/03_S2_T1__the-ladder-escalating-beats.md
+                  - "Exploring the 'why'": content/03_the-scene/03_S2_T2__exploring-the-why.md
+              - "Narrative Architecture":
+                  - Overview: content/03_the-scene/03_S3__narrative-architecture.md
+                  - "Story Spine": content/03_the-scene/03_S3_T1__story-spine.md
+                  - "Platform/Tilt": content/03_the-scene/03_S3_T2__platform-tilt.md
+                  - "Protagonist/Antagonist ID": content/03_the-scene/03_S3_T3__protagonist-antagonist-id.md
+              - "Stakes / The 'Want'":
+                  - Overview: content/03_the-scene/03_S4__stakes-the-want.md
+                  - "What do they stand to lose? reps": content/03_the-scene/03_S4_T1__what-do-they-stand-to-lose-reps.md
+                  - "Objective-laddering": content/03_the-scene/03_S4_T2__objective-laddering.md
+              - "World-Building":
+                  - Overview: content/03_the-scene/03_S5__world-building.md
+                  - "C.R.O.W. (Character, Relationship, Objective, Where)": content/03_the-scene/03_S5_T1__c-r-o-w-character-relationship-objective-where.md
+                  - "Endowment chains": content/03_the-scene/03_S5_T2__endowment-chains.md
+              - "Justification":
+                  - Overview: content/03_the-scene/03_S6__justification.md
+                  - "Justify the absurd": content/03_the-scene/03_S6_T1__justify-the-absurd.md
+                  - "Reincorporation-as-justification": content/03_the-scene/03_S6_T2__reincorporation-as-justification.md
+              - "Raising the Stakes":
+                  - Overview: content/03_the-scene/03_S7__raising-the-stakes.md
+                  - "Stakes-escalation reps": content/03_the-scene/03_S7_T1__stakes-escalation-reps.md
+                  - "Make it matter more beats": content/03_the-scene/03_S7_T2__make-it-matter-more-beats.md
+      - "The Ensemble":
+          - Overview: content/04_the-ensemble/04_D__the-ensemble.md
+          - Principles:
+              - "Group Mind": content/04_the-ensemble/04_P1__group-mind.md
+              - "Follow the Follower": content/04_the-ensemble/04_P2__follow-the-follower.md
+              - "Serve the Piece": content/04_the-ensemble/04_P3__serve-the-piece.md
+          - Skills:
+              - "Peripheral Awareness":
+                  - Overview: content/04_the-ensemble/04_S1__peripheral-awareness.md
+                  - "Stage-picture exercises": content/04_the-ensemble/04_S1_T1__stage-picture-exercises.md
+                  - "Thread-tracking drills": content/04_the-ensemble/04_S1_T2__thread-tracking-drills.md
+              - "Support Work":
+                  - Overview: content/04_the-ensemble/04_S2__support-work.md
+                  - "Walk-ons": content/04_the-ensemble/04_S2_T1__walk-ons.md
+                  - "Tap-ins": content/04_the-ensemble/04_S2_T2__tap-ins.md
+                  - "Playing architecture/objects": content/04_the-ensemble/04_S2_T3__playing-architecture-objects.md
+              - "Suggestion Deconstruction (A-to-C)":
+                  - Overview: content/04_the-ensemble/04_S3__suggestion-deconstruction-a-to-c.md
+                  - "A-to-C drills": content/04_the-ensemble/04_S3_T1__a-to-c-drills.md
+                  - "Premise brainstorm rounds": content/04_the-ensemble/04_S3_T2__premise-brainstorm-rounds.md
+                  - "What's interesting about this? mining": content/04_the-ensemble/04_S3_T3__what-s-interesting-about-this-mining.md
+              - "Pacing & Rhythm":
+                  - Overview: content/04_the-ensemble/04_S4__pacing-and-rhythm.md
+                  - "Edits (Sweep, Tag-Out, Sound/Light)": content/04_the-ensemble/04_S4_T1__edits-sweep-tag-out-sound-light.md
+                  - "Timing exercises": content/04_the-ensemble/04_S4_T2__timing-exercises.md
+              - "Thematic Synthesis":
+                  - Overview: content/04_the-ensemble/04_S5__thematic-synthesis.md
+                  - "Callbacks & Mapping": content/04_the-ensemble/04_S5_T1__callbacks-and-mapping.md
+                  - "Weave the threads": content/04_the-ensemble/04_S5_T2__weave-the-threads.md
+              - "Format Literacy":
+                  - Overview: content/04_the-ensemble/04_S6__format-literacy.md
+                  - "Harold": content/04_the-ensemble/04_S6_T1__harold.md
+                  - "Armando": content/04_the-ensemble/04_S6_T2__armando.md
+                  - "Montage": content/04_the-ensemble/04_S6_T3__montage.md
+                  - "Longform vs. shortform mechanics": content/04_the-ensemble/04_S6_T4__longform-vs-shortform-mechanics.md
+      - "The Audience":
+          - Overview: content/05_the-audience/05_D__the-audience.md
+          - Principles:
+              - "The Audience Is the Final Scene Partner": content/05_the-audience/05_P1__the-audience-is-the-final-scene-partner.md
+              - "Play for the Back Row": content/05_the-audience/05_P2__play-for-the-back-row.md
+              - "Truth Over Pandering": content/05_the-audience/05_P3__truth-over-pandering.md
+          - Skills:
+              - "Room Reading":
+                  - Overview: content/05_the-audience/05_S1__room-reading.md
+                  - "Energy-calibration": content/05_the-audience/05_S1_T1__energy-calibration.md
+                  - "Reading the suggestion's intent": content/05_the-audience/05_S1_T2__reading-the-suggestion-s-intent.md
+              - "Audience-Energy Management":
+                  - Overview: content/05_the-audience/05_S2__audience-energy-management.md
+                  - "Tag-running (riding a laugh wave)": content/05_the-audience/05_S2_T1__tag-running-riding-a-laugh-wave.md
+                  - "Landing/cushioning a beat": content/05_the-audience/05_S2_T2__landing-cushioning-a-beat.md
+                  - "Breaking the 4th Wall / Direct Address": content/05_the-audience/05_S2_T3__breaking-the-4th-wall-direct-address.md
+              - "Stage Presence & Clarity":
+                  - Overview: content/05_the-audience/05_S3__stage-presence-and-clarity.md
+                  - "Cheating out": content/05_the-audience/05_S3_T1__cheating-out.md
+                  - "Projection": content/05_the-audience/05_S3_T2__projection.md
+                  - "Make the choice readable": content/05_the-audience/05_S3_T3__make-the-choice-readable.md
   - Games List: games/index.md
