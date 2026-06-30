@@ -63,7 +63,7 @@ aliases:
 
 # Genre Rewind
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Genre Rewind — infographic](img/D3_P2_S2_T0_G827__scene-replay.jpg){ .game-hero }
 
 > Replay a simple, grounded scene through wildly different stylistic, emotional, or genre filters.
 

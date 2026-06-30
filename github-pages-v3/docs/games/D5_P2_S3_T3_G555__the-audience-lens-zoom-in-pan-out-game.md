@@ -65,7 +65,7 @@ aliases:
 
 # The Audience Lens
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Audience Lens — infographic](img/D5_P2_S3_T3_G555__the-audience-lens-zoom-in-pan-out-game.jpg){ .game-hero }
 
 > Dynamically scale your physical and emotional expression to make internal choices readable to the back row.
 

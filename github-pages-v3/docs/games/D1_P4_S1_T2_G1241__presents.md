@@ -58,7 +58,7 @@ aliases: []
 
 # Spontaneous Presents
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Spontaneous Presents — infographic](img/D1_P4_S1_T2_G1241__presents.jpg){ .game-hero }
 
 > Instantly receive and celebrate imaginary gifts using the very first word that pops into your head.
 

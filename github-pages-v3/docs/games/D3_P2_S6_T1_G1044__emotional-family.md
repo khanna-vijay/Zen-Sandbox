@@ -60,7 +60,7 @@ aliases: []
 
 # Emotional Family
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Emotional Family — infographic](img/D3_P2_S6_T1_G1044__emotional-family.jpg){ .game-hero }
 
 > Justify sudden, extreme emotional shifts while maintaining a grounded family scene.
 

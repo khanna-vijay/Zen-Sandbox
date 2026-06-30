@@ -56,7 +56,7 @@ aliases: []
 
 # Boundary Cartographers
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Boundary Cartographers — infographic](img/D2_P1_S6_T1_G258__boundary-architects-navigating-the-invisible-line.jpg){ .game-hero }
 
 > Navigate unspoken personal boundaries in real-time scenes through keen observation and active verbal check-ins.
 

@@ -66,7 +66,7 @@ aliases:
 
 # The Spatial Engine
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Spatial Engine — infographic](img/D3_P1_S6_T1_G596__the-spatial-engine.jpg){ .game-hero }
 
 > Drive narrative progression and character relationships by instantly justifying forced physical shifts on stage.
 

@@ -62,7 +62,7 @@ aliases:
 
 # Invitation Engine
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Invitation Engine — infographic](img/D2_P1_S6_T3_G293__invitation-engine.jpg){ .game-hero }
 
 > Integrate explicit physical consent directly into the narrative flow of your scenes.
 

@@ -59,7 +59,7 @@ aliases:
 
 # What Happens Next
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![What Happens Next — infographic](img/D3_P4_S3_T0_G1359__what-happens-next.jpg){ .game-hero }
 
 > Collaboratively direct a solo performer's physical journey, building a cohesive story one step at a time.
 

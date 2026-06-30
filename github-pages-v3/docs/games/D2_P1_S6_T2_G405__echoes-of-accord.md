@@ -62,7 +62,7 @@ aliases:
 
 # Echoes of Accord
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Echoes of Accord — infographic](img/D2_P1_S6_T2_G405__echoes-of-accord.jpg){ .game-hero }
 
 > Navigate personal and character boundaries in real time using a tiered, sound-cued feedback system.
 

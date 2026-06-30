@@ -71,7 +71,7 @@ aliases:
 
 # The Resonance Chamber
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Resonance Chamber — infographic](img/D2_P3_S3_T1_G250__the-resonance-chamber.jpg){ .game-hero }
 
 > Attune to your partner's unspoken energy and amplify it through sparse, poetic verbal echoes.
 

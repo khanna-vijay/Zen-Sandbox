@@ -57,7 +57,7 @@ aliases: []
 
 # The Unfolding Accord
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Unfolding Accord — infographic](img/D2_P1_S6_T1_G521__the-unfolding-accord.jpg){ .game-hero }
 
 > Transform explicit consent and boundary negotiation into the driving dramatic force of your scenes.
 

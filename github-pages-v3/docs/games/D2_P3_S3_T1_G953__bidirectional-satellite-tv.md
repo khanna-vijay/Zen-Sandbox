@@ -59,7 +59,7 @@ aliases: []
 
 # Dual-Channel Echo Mirror
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Dual-Channel Echo Mirror — infographic](img/D2_P3_S3_T1_G953__bidirectional-satellite-tv.jpg){ .game-hero }
 
 > A high-concentration duet of simultaneous physical mirroring and delayed verbal echo.
 

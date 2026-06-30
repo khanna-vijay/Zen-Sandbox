@@ -69,7 +69,7 @@ aliases:
 
 # The Echo Chamber Weave
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Echo Chamber Weave — infographic](img/D4_P1_S5_T2_G436__the-echo-chamber-weave.jpg){ .game-hero }
 
 > Weave a tapestry of scenes connected by emotional and thematic echoes rather than linear plot.
 

@@ -62,7 +62,7 @@ aliases:
 
 # The Scene Anchor
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Scene Anchor — infographic](img/D3_P2_S5_T1_G617__the-scene-anchor.jpg){ .game-hero }
 
 > Build a rock-solid platform and launch high-stakes scenes before speaking a single word of dialogue.
 

@@ -59,7 +59,7 @@ aliases: []
 
 # The Visionary Lecture
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Visionary Lecture — infographic](img/D5_P2_S3_T2_G862__ted-talks.jpg){ .game-hero }
 
 > Co-deliver a polished, high-stakes keynote presentation on a completely absurd, made-up topic.
 

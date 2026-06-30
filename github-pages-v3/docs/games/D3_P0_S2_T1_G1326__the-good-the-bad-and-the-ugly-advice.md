@@ -59,7 +59,7 @@ aliases:
 
 # The Advice Ladder
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Advice Ladder — infographic](img/D3_P0_S2_T1_G1326__the-good-the-bad-and-the-ugly-advice.jpg){ .game-hero }
 
 > Climb the ladder of comedic heightening by offering increasingly terrible solutions to simple problems.
 

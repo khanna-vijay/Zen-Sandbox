@@ -55,7 +55,7 @@ aliases: []
 
 # Internal Mantra
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Internal Mantra — infographic](img/D1_P3_S2_T2_G1169__mantra.jpg){ .game-hero }
 
 > Transform your scenes from the inside out by repeating a secret emotional phrase.
 

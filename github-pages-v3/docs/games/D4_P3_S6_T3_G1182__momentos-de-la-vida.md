@@ -61,7 +61,7 @@ aliases:
 
 # Captured Moments
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Captured Moments — infographic](img/D4_P3_S6_T3_G1182__momentos-de-la-vida.jpg){ .game-hero }
 
 > Weave a tapestry of unrelated scenes inspired by a shifting gallery of projected photographs.
 

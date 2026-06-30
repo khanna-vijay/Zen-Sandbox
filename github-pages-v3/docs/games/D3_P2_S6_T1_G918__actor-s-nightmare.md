@@ -62,7 +62,7 @@ aliases:
 
 # Actor's Nightmare
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Actor's Nightmare — infographic](img/D3_P2_S6_T1_G918__actor-s-nightmare.jpg){ .game-hero }
 
 > One actor reads verbatim from a script while the other justifies every bizarre line.
 

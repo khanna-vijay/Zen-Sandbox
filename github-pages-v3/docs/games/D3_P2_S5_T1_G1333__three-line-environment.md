@@ -60,7 +60,7 @@ aliases: []
 
 # Three-Line Platform
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Three-Line Platform — infographic](img/D3_P2_S5_T1_G1333__three-line-environment.jpg){ .game-hero }
 
 > Establish a complete, physically rich base reality using only three total lines of dialogue.
 

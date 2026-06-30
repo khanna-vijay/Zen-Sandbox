@@ -69,7 +69,7 @@ aliases: []
 
 # The Symbiotic Current
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Symbiotic Current — infographic](img/D2_P2_S3_T2_G063__the-symbiotic-current.jpg){ .game-hero }
 
 > Co-create and modulate a shared emotional and status frequency through silent, physical, and visual attunement.
 

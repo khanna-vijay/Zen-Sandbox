@@ -58,7 +58,7 @@ aliases: []
 
 # Spontaneous Finger Puppets
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Spontaneous Finger Puppets — infographic](img/D1_P4_S1_T2_G1362__where-do-the-fingers-go.jpg){ .game-hero }
 
 > Instantly bring two finger characters to life in a suggested location without overthinking.
 

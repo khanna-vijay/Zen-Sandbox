@@ -60,7 +60,7 @@ aliases:
 
 # The Boundary Canvas
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Boundary Canvas — infographic](img/D2_P1_S6_T3_G414__the-consent-canvas.jpg){ .game-hero }
 
 > Freeze the action to explicitly negotiate physical contact and build safer, more creative scenes.
 

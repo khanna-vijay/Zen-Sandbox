@@ -56,7 +56,7 @@ aliases: []
 
 # Coming Home
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Coming Home — infographic](img/D1_P1_S3_T2_G994__coming-home.jpg){ .game-hero }
 
 > Step into a familiar person's shoes to explore physical world-building and emotional commitment.
 
