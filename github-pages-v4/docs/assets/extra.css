@@ -270,3 +270,30 @@
   box-shadow: 0 2px 8px rgba(0, 0, 0, .25);
 }
 .zs-nav-toggle:hover { background: var(--md-accent-fg-color); color: var(--md-primary-fg-color); }
+
+/* ===================================================================== */
+/* One-row, half-height, sticky top bar: tabs (left) · search · GitHub ·  */
+/* "An Improv Framework" title at the extreme right. The tabs <ul> is      */
+/* moved into the header by assets/header-onerow.js (adds body.zs-onerow). */
+/* ===================================================================== */
+.zs-onerow .md-tabs { display: none; }                 /* original separate tabs row removed */
+@media screen and (min-width: 76.25em) {
+  .zs-onerow .md-header { box-shadow: 0 2px 8px rgba(0, 0, 0, .12); }
+  .zs-onerow .md-header__inner {
+    min-height: 0; padding-top: .1rem; padding-bottom: .1rem; gap: .35rem; align-items: center;
+  }
+  .zs-onerow .md-header__button.md-logo { order: 1; padding: .1rem; }
+  .zs-onerow .md-header__inner > .md-tabs__list {
+    order: 2; flex: 1 1 auto; display: flex; margin: 0; padding: 0;
+  }
+  .zs-onerow .md-search { order: 3; }
+  .zs-onerow .md-header__source { order: 4; width: auto; margin-left: .2rem; }
+  .zs-onerow .md-header__title {
+    order: 5; flex: 0 1 auto; margin: 0 .2rem 0 .4rem; font-size: .82rem; line-height: 1.15;
+  }
+  .zs-onerow .md-tabs__link { margin: .1rem .15rem; padding: .08rem .55rem; font-size: .85rem; }
+}
+/* On narrow screens keep the moved tabs hidden — use the hamburger drawer for nav. */
+@media screen and (max-width: 76.24em) {
+  .zs-onerow .md-header__inner > .md-tabs__list { display: none; }
+}
