@@ -52,7 +52,7 @@ aliases: []
 
 # Dada Stream
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Dada Stream — infographic](img/D1_P4_S1_T2_G1010__dada-monologue.jpg){ .game-hero }
 
 > Bypass your inner editor by speaking a continuous stream of beautiful, absolute nonsense.
 

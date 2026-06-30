@@ -60,7 +60,7 @@ aliases:
 
 # Audience Pulse
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Audience Pulse — infographic](img/D5_P1_S1_T1_G312__audience-pulse-scene.jpg){ .game-hero }
 
 > Calibrate your scene's energy in real time by treating virtual audience reactions as active offers.
 

@@ -64,7 +64,7 @@ aliases: []
 
 # Resonance Bridges
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Resonance Bridges — infographic](img/D4_P1_S4_T1_G196__kinetic-transitions.jpg){ .game-hero }
 
 > Unify your ensemble by channeling the final energy of one scene into the next.
 

@@ -56,7 +56,7 @@ aliases: []
 
 # The Narrative Kaleidoscope
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Narrative Kaleidoscope — infographic](img/D3_P4_S3_T0_G262__the-narrative-kaleidoscope.jpg){ .game-hero }
 
 > Disrupt habitual scene patterns by applying targeted narrative modifiers to critical character decisions.
 

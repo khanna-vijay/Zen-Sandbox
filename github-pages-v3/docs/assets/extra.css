@@ -22,6 +22,9 @@
 /* De-linked reference/quote citations: keep the link color, but not clickable. */
 .md-typeset .ref { color: var(--md-typeset-a-color); }
 
+/* Remove the right-hand Table of Contents on every page — keep only the left nav. */
+.md-sidebar--secondary { display: none !important; }
+
 /* ── Readable type baseline ──────────────────────────────────────────────────
    Minimum content font size = 125% of the theme's default body text
    (.md-typeset .8rem → 1rem). Theme elements that rendered SMALLER (tables,

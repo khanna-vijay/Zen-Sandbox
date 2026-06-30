@@ -49,7 +49,7 @@ aliases: []
 
 # Word Bridge
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Word Bridge — infographic](img/D1_P4_S1_T1_G936__association-chain.jpg){ .game-hero }
 
 > Connect two distant words by building an unfiltered chain and discovering a surprise final link.
 

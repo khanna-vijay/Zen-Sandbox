@@ -62,7 +62,7 @@ aliases: []
 
 # Consequence Cascade
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![Consequence Cascade — infographic](img/D3_P4_S7_T1_G526__consequence-cascade.jpg){ .game-hero }
 
 > Build relentless narrative momentum by escalating stakes through the strict logic of cause and effect.
 

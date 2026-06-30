@@ -66,7 +66,7 @@ aliases:
 
 # The Twist Navigator
 
-<div class="game-hero-ph" markdown>🎨 *Infographic coming soon*</div>
+![The Twist Navigator — infographic](img/D3_P4_S3_T2_G567__plot-twist-navigator.jpg){ .game-hero }
 
 > Steer scenes through sudden, dramatic narrative shifts introduced by an external storyteller.
 
