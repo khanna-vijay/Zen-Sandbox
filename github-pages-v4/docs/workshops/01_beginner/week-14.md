@@ -39,8 +39,6 @@ title: "W14 · We're a Team"
 
 > A high-energy, rapid-fire celebration of self, partner, and ensemble connection.
 
-![I'm Great, You're Great — infographic](../../games/img/D4_P1_S2_T0_G735__i-m-great-you-re-great-we-re-great.jpg){ .infographic }
-
 `Players 4+` · `~3 min` · `Complexity 1/5` · `Energy high` · `Props: none`
 
 **Trains:** Support Work · _connection_
@@ -60,8 +58,6 @@ title: "W14 · We're a Team"
 #### Core game — The Memory Cauldron
 
 > A high-energy closing ritual where players toss shared successes into a collective cauldron of appreciation.
-
-![The Memory Cauldron — infographic](../../games/img/D4_P1_S2_T0_G667__circle-of-awesome.jpg){ .infographic }
 
 `Players 3+` · `~5 min` · `Complexity 1/5` · `Energy medium` · `Props: none`
 

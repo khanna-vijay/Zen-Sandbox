@@ -44,8 +44,6 @@ title: "W01 · Re-entry — Impulse = Action"
 
 > Bypass the analytical mind by translating dynamic sensory inputs into immediate, fully committed physical and vocal expression.
 
-![The Sensory Circuit — infographic](../../games/img/D1_P4_S1_T2_G166__the-sensorium-cycle.jpg){ .infographic }
-
 `Players 4–8` · `~20 min` · `Complexity 4/5` · `Energy high` · `Props: required`
 
 **Trains:** Unfiltered Spontaneity · _skill drill_
@@ -67,8 +65,6 @@ title: "W01 · Re-entry — Impulse = Action"
 #### Core game — The Impulse Tapestry
 
 > Translate one player's raw, unfolding internal landscape into a collective physical and vocal symphony.
-
-![The Impulse Tapestry — infographic](../../games/img/D1_P3_S1_T1_G326__the-impulse-tracing-tapestry.jpg){ .infographic }
 
 `Players 5–15` · `~20 min` · `Complexity 4/5` · `Energy low` · `Props: none`
 

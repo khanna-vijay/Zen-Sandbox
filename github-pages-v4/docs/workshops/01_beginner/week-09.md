@@ -39,8 +39,6 @@ title: "W09 · Make Your Partner a Genius"
 
 > Transform simple hellos into high-stakes relationships through instant physical and emotional endowments.
 
-![Dynamic Greetings — infographic](../../games/img/D2_P3_S5_T1_G1101__greetings.jpg){ .infographic }
-
 `Players 4+` · `~10 min` · `Complexity 1/5` · `Energy medium` · `Props: none`
 
 **Trains:** Active Gifting · _connection_
@@ -61,8 +59,6 @@ title: "W09 · Make Your Partner a Genius"
 #### Core game — Retroactive Brilliance
 
 > Transform your partner's baffling choices into strokes of absolute, intentional genius.
-
-![Retroactive Brilliance — infographic](../../games/img/D2_P3_S5_T2_G497__the-alchemist-s-justification.jpg){ .infographic }
 
 `Players 2+` · `~10 min` · `Complexity 2/5` · `Energy medium` · `Props: none`
 

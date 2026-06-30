@@ -41,8 +41,6 @@ title: "W12 · Build the World, Justify the Absurd"
 
 > Establish a rich, unspoken physical and relational foundation in thirty seconds before launching your scene.
 
-![Scene Blueprint — infographic](../../games/img/D3_P2_S5_T1_G364__scene-blueprint.jpg){ .infographic }
-
 `Players 2+` · `~10 min` · `Complexity 3/5` · `Energy medium` · `Props: none`
 
 **Trains:** World-Building · _skill drill_
@@ -63,8 +61,6 @@ title: "W12 · Build the World, Justify the Absurd"
 #### Core game — The Detail Anchor
 
 > Lock down your scene's reality by transforming every spoken detail into a launchpad for action.
-
-![The Detail Anchor — infographic](../../games/img/D3_P2_S5_T2_G518__the-detail-anchor.jpg){ .infographic }
 
 `Players 2+` · `~10 min` · `Complexity 3/5` · `Energy medium` · `Props: none`
 

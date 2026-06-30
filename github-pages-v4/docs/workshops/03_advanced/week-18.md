@@ -45,8 +45,6 @@ title: "W18 · Capstone Performance"
 
 > Transform an audience member's mundane daily routine into an extraordinary, multi-scene narrative celebration.
 
-![Day in the Life — infographic](../../games/img/D5_P1_S2_T3_G683__day-in-the-life.jpg){ .infographic }
-
 `Players 3+` · `~15 min` · `Complexity 4/5` · `Energy medium` · `Props: none`
 
 **Trains:** Audience-Energy Management · _mixed_

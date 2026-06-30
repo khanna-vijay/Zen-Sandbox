@@ -42,8 +42,6 @@ title: "W01 · Welcome & the Safety Container"
 
 > Establish safe, consensual peer connections to anchor support and reflection throughout a workshop.
 
-![Peer Check-In Allies — infographic](../../games/img/D2_P1_S6_T1_G898__workshop-buddies.jpg){ .infographic }
-
 `Players 2+` · `~5 min` · `Complexity 1/5` · `Energy medium` · `Props: none`
 
 **Trains:** Boundary Navigation · _connection_
@@ -62,8 +60,6 @@ title: "W01 · Welcome & the Safety Container"
 #### Core game — The Consent Connection
 
 > Practice explicit consent and physical boundary negotiation through a structured, supportive group warm-up.
-
-![The Consent Connection — infographic](../../games/img/D2_P1_S6_T3_G1174__massage.jpg){ .infographic }
 
 `Players 3+` · `~3 min` · `Complexity 1/5` · `Energy low` · `Props: none`
 

@@ -39,8 +39,6 @@ title: "W05 · Finding Your Voice"
 
 > Unleash bold vocal characterizations to deliver high-energy, absurdly inspiring messages to the group.
 
-![The Rallying Cry — infographic](../../games/img/D1_P1_S4_T2_G771__motivational-speaker.jpg){ .infographic }
-
 `Players 3+` · `~5 min` · `Complexity 1/5` · `Energy high` · `Props: none`
 
 **Trains:** Vocal Craft · _connection_
@@ -60,8 +58,6 @@ title: "W05 · Finding Your Voice"
 #### Core game — Primal Echo
 
 > Unleash full-body vocalizations and physical gestures to build group energy and uninhibited commitment.
-
-![Primal Echo — infographic](../../games/img/D1_P1_S4_T1_G1243__primal-screams.jpg){ .infographic }
 
 `Players 3+` · `~5 min` · `Complexity 1/5` · `Energy high` · `Props: none`
 

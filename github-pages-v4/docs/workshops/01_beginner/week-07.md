@@ -42,8 +42,6 @@ title: "W07 · Really Listening"
 
 > Listen deeply to a partner's life story, then repeat it back with absolute accuracy.
 
-![Sixty-Second Biography — infographic](../../games/img/D2_P3_S1_T0_G618__1-minute-story.jpg){ .infographic }
-
 `Players 2+` · `~5 min` · `Complexity 1/5` · `Energy low` · `Props: none`
 
 **Trains:** Active Listening · _connection_
@@ -63,8 +61,6 @@ title: "W07 · Really Listening"
 #### Core game — Sixty-Second Biography
 
 > Share your life in one minute, then hear it lovingly gifted back to you.
-
-![Sixty-Second Biography — infographic](../../games/img/D2_P3_S1_T0_G785__one-minute-life-story.jpg){ .infographic }
 
 `Players 2+` · `~5 min` · `Complexity 1/5` · `Energy low` · `Props: none`
 

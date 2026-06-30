@@ -41,8 +41,6 @@ title: "W11 · Which Engine? Game vs Story"
 
 > Explore the cascading consequences of a single dramatic revelation to build deep, interconnected stories.
 
-![The Ripple Effect — infographic](../../games/img/D3_P4_S3_T2_G064__the-ripple-effect.jpg){ .infographic }
-
 `Players 3+` · `~15 min` · `Complexity 3/5` · `Energy medium` · `Props: none`
 
 **Trains:** Narrative Architecture · _narrative_
@@ -63,8 +61,6 @@ title: "W11 · Which Engine? Game vs Story"
 #### Core game — The Narrative Scaffold
 
 > Internalize narrative structure through guided, real-time pauses that build a complete, satisfying story arc.
-
-![The Narrative Scaffold — infographic](../../games/img/D3_P4_S3_T1_G106__story-architect-s-blueprint.jpg){ .infographic }
 
 `Players 3+` · `~15 min` · `Complexity 3/5` · `Energy medium` · `Props: none`
 

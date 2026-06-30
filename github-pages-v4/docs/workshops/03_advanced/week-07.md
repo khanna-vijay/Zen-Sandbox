@@ -41,8 +41,6 @@ title: "W07 · Stakes They Can Feel"
 
 > Escalate narrative tension under rapid-fire time constraints and high-stakes external consequences.
 
-![Consequence Countdown — infographic](../../games/img/D3_P4_S7_T1_G308__stakes-ascent-the-consequence-countdown.jpg){ .infographic }
-
 `Players 2+` · `~10 min` · `Complexity 3/5` · `Energy high` · `Props: none`
 
 **Trains:** Raising the Stakes · _narrative_
@@ -64,8 +62,6 @@ title: "W07 · Stakes They Can Feel"
 #### Core game — The Shifting Want
 
 > Drive narrative momentum by continuously evolving character objectives and raising what they stand to lose.
-
-![The Shifting Want — infographic](../../games/img/D3_P4_S4_T1_G404__the-shifting-want.jpg){ .infographic }
 
 `Players 2+` · `~15 min` · `Complexity 3/5` · `Energy medium` · `Props: none`
 

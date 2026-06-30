@@ -41,8 +41,6 @@ title: "W10 · What's at Stake"
 
 > Escalate dramatic tension instantly by justifying and integrating sudden, high-stakes narrative truths.
 
-![The Truth Cascade — infographic](../../games/img/D3_P4_S7_T1_G290__the-cascade.jpg){ .infographic }
-
 `Players 3+` · `~15 min` · `Complexity 3/5` · `Energy medium` · `Props: none`
 
 **Trains:** Raising the Stakes · _narrative_
@@ -64,8 +62,6 @@ title: "W10 · What's at Stake"
 #### Core game — Stakes Topography
 
 > Navigate physical stage zones to dynamically escalate, de-escalate, and resolve narrative tension in real time.
-
-![Stakes Topography — infographic](../../games/img/D3_P4_S7_T1_G306__the-stakes-landscape.jpg){ .infographic }
 
 `Players 2+` · `~15 min` · `Complexity 3/5` · `Energy medium` · `Props: required`
 

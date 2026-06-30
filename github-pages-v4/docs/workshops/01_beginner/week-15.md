@@ -39,8 +39,6 @@ title: "W15 · Playing to the Back Row"
 
 > Co-deliver a polished, high-stakes keynote presentation on a completely absurd, made-up topic.
 
-![The Visionary Lecture — infographic](../../games/img/D5_P2_S3_T2_G862__ted-talks.jpg){ .infographic }
-
 `Players 2–2` · `~5 min` · `Complexity 2/5` · `Energy medium` · `Props: none`
 
 **Trains:** Stage Presence & Clarity · _mixed_
@@ -60,8 +58,6 @@ title: "W15 · Playing to the Back Row"
 #### Core game — The Open Frame
 
 > Master physical sightlines and body angles to share every silent choice with the entire room.
-
-![The Open Frame — infographic](../../games/img/D5_P1_S3_T1_G508__the-transparent-scene-cheating-out-for-audience-clarity.jpg){ .infographic }
 
 `Players 3+` · `~15 min` · `Complexity 2/5` · `Energy medium` · `Props: required`
 

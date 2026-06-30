@@ -44,8 +44,6 @@ title: "W05 · Find It, Play It, Break It"
 
 > Heighten character patterns and emotional games by stepping into another actor's shoes mid-scene.
 
-![Understudy — infographic](../../games/img/D3_P2_S1_T1_G880__understudy.jpg){ .infographic }
-
 `Players 4+` · `~10 min` · `Complexity 3/5` · `Energy medium` · `Props: none`
 
 **Trains:** Game Identification · _mixed_
@@ -66,8 +64,6 @@ title: "W05 · Find It, Play It, Break It"
 #### Core game — The Heightening Accelerator
 
 > Master the art of deliberate heightening by shifting, magnifying, and raising scene stakes.
-
-![The Heightening Accelerator — infographic](../../games/img/D3_P2_S2_T1_G610__the-scene-dynamics-accelerator.jpg){ .infographic }
 
 `Players 3+` · `~15 min` · `Complexity 3/5` · `Energy medium` · `Props: none`
 

@@ -39,8 +39,6 @@ title: "W04 · Your Body Speaks"
 
 > A high-energy tag game where getting tagged triggers a joyful, vocal release.
 
-![Trunk Tag — infographic](../../games/img/D1_P2_S3_T0_G694__elephant-it.jpg){ .infographic }
-
 `Players 3+` · `~3 min` · `Complexity 1/5` · `Energy high` · `Props: none`
 
 **Trains:** Physicality & Space Work · _connection_
@@ -61,8 +59,6 @@ title: "W04 · Your Body Speaks"
 #### Core game — Walkabout Greetings
 
 > Transform your posture, status, and relationships instantly with every person you pass in the room.
-
-![Walkabout Greetings — infographic](../../games/img/D1_P4_S3_T1_G766__meet-greet-walkabout.jpg){ .infographic }
 
 `Players 4+` · `~5 min` · `Complexity 1/5` · `Energy medium` · `Props: none`
 
