@@ -1,10 +1,10 @@
 ---
-title: My Philosophical view on Improv
+title: Philosophical Analysis
 hide:
   - toc
 ---
 
-# My Philosophical Analysis of Improv
+# Analyzing Improv through my Philosophical Lens
 
 > *"Each soul is potentially divine. The goal is to manifest this divinity within."* - Swami Vivekananda
 
