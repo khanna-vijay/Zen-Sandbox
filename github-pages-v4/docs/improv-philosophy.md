@@ -40,7 +40,7 @@ And remarkably, neuroscience research also agrees to *this*. Dr. Charles Limb, p
 
 ## “Attention is all you Need” - The Satipaṭṭhāna Bridge
 
-Here the meditator's wisdom enters. The *Satipaṭṭhāna* practitioner cultivates *sati -* bare, non-judging awareness of what is, moment to moment. Not analyzing the breath, but *being with* the breath. Not attaching to sensations, but *observing* them as-it-is moment to moment.
+The *Satipaṭṭhāna* practitioner cultivates *sati -* bare, non-judging awareness of what is, moment to moment. Not analyzing the breath, but *being with* the breath. Not attaching to sensations, but *observing* them as-it-is moment to moment.
 
 The improviser cultivates the identical faculty, but in motion and in relationship. To truly listen to a scene partner, not to plan your clever response, but to *receive* them completely is *sati* in action. The improviser who is fully present is not "doing improv." **They become one** **with everything**. They are doing the same thing the meditator does: *resting in the open awareness of this moment, free of the editing mind.* This is why so many describe a great scene as a meditative, even egoless, experience. The two selves have reconciled; Self 1 has gone quiet; only Self 2 and the present moment remain. Unlocking Peak Performance.
 
@@ -60,7 +60,7 @@ The mandate to "Make Your Partner a Genius" is, at root, a *spiritual* instructi
 
 This is "Yes, And", the foundational ethic of improv and one of the most quietly radical philosophies of human relationship ever articulated. To say "Yes" is to *accept reality as offered*. To say "And" is to *contribute to it generously*. The opposite "No, But" is the reflex of the fearful ego defending its territory.
 
-The science is striking. Relationship researcher John Gottman found that flourishing couples consistently "turn toward" each other's bids for connection, the exact interpersonal structure of "Yes, And", while those who "turn away" or block drift toward dissolution. Improv, in this light, is **rehearsal for love itself.**
+The science is striking. Relationship researcher John Gottman found that flourishing couples consistently "turn toward" each other's bids for connection, the exact interpersonal structure of "Yes, And", while those who "turn away" or block drift toward dissolution.
 
 ## Narrative Architecture: The Justifying Mind and the Making of Meaning
 
@@ -88,19 +88,19 @@ This is *wu wei*, the Taoist "effortless action": acting in such perfect accord 
 
 The audience is the final scene partner. (I would extend this metaphor to other aspects of life as well, like the team, the family). The Audience possess an infallible "impact of truth" detector, the visceral, instant knowing of when a performer has stopped *acting* and begun *living*. Genuine connection arrives only through "Truth Over Pandering."
 
-This is the principle Brené Brown's research enshrines as the bedrock of all human belonging: **vulnerability is not weakness but courage.** *"Vulnerability is the birthplace of love, belonging, joy, courage, empathy, and creativity,"* she writes. The improviser who makes a bold, true choice, who stands undefended before the audience and risks failure, is performing precisely this act of courage. To "Play for the Back Row" without "clowning for laughs" is to refuse the armor of pandering and insist instead on naked, generous presence.
+This is the principle Brené Brown's research enshrines as the bedrock of all human belonging: **vulnerability is not weakness but courage.** *"Vulnerability is the birthplace of love, belonging, joy, courage, empathy, and creativity,"* she writes. The improviser who makes a bold, true choice, who stands undefended before the audience and risks failure, is performing precisely this act of courage. To "Play for the Back Row" without "clowning for laughs" is to refuse the armor of pandering and insist instead on transparent, open, and generous presence.
 
 The performer who needs the laugh is Self 1, hungry for approval, *trying*. The performer who is simply *present and true* is Self 2, at ease, *allowing*. The audience always feels the difference, because we are all, in the end, detectors of the unblocked self.
 
 ## Conclusion: An Improvised Life
 
-We arrive where we began, at the recovered vision. The "Philosophy of Improv" is a map back to ourselves: to the genius we were at age five, the spontaneity buried under the gray crust, the divine power Vivekananda insisted we never lost.
+The "Philosophy of Improv" is a map back to ourselves: to the genius we were as kids, the spontaneity buried under the gray crust, the divine power Vivekananda insisted we never lost.
 
-We have seen this single practice illuminated by many Zen lamps: the *Satipaṭṭhāna* of Buddha, the quieted Self 1 of Gallwey, the deactivated censor of Limb's neuroscience, the bare attention of the meditator, the self-forgetful flow of Csíkszentmihályi, the meaning-making freedom of Frankl, the growth mindset of Dweck, the collective intelligence of Pentland, the undefended courage of Brown, and the manifest divinity of Vivekananda. Improv stands at the confluence of these rivers : one joyful, playful practice that exercises, all at once, our capacity for presence, trust, generosity, resilience, and connection.
+We have seen this single practice illuminated by many Zen lamps: the *Satipaṭṭhāna* of Buddha, the quieted Self 1 of Gallwey, the deactivated censor of Limb's neuroscience, the bare attention of the Zen Master, the self-forgetful flow of Csíkszentmihályi, the meaning-making freedom of Frankl, the growth mindset of Dweck, the collective intelligence of Pentland, the undefended courage of Brown, and the manifest divinity of Vivekananda. Improv stands at the confluence of these rivers : one joyful, playful practice that exercises, all at once, our capacity for presence, trust, generosity, resilience, and connection.
 
 **Personally**, it dissolves the anxiety of the chattering mind, transforms listening into a form of compassion, and restores the vivid spontaneity that makes a life feel *lived* rather than rehearsed.
 
-**Professionally**, it forges the adaptive, collaborative, creative capacities a volatile world demands, leaders who can practice Servant-Leadership, " teams that think as one organism, and individuals who greet every disruption not as a threat but as an *offer*.
+**Professionally**, it forges the adaptive, collaborative, creative capacities a volatile world demands, leaders who can practice Servant-Leadership, teams that think as one organism, and individuals who greet every disruption not as a threat but as an *offer*.
 
 The world will endlessly hand you unscripted offers, but the power to transform them is always within you. Breathe into the present, reply with a courageous "Yes, And," and let ‘*wu wei’* build the rest.
 
