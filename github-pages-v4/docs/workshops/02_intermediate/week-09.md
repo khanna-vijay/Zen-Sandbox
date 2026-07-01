@@ -39,6 +39,8 @@ title: "W09 · The Story Spine"
 
 > Freeze pivotal moments to collectively pitch, vote on, and execute the story's next major turn.
 
+![The Plot Weaver — infographic](../../games/img/D3_P4_S3_T1_G038__the-chronos-weaver.jpg){ .infographic }
+
 `Players 4–12` · `~15 min` · `Complexity 3/5` · `Energy medium` · `Props: none`
 
 **Trains:** Narrative Architecture · _narrative_
@@ -60,6 +62,8 @@ title: "W09 · The Story Spine"
 #### Core game — The Narrative Current
 
 > Steer scenes to deeper waters by pausing to voice and integrate hidden narrative currents.
+
+![The Narrative Current — infographic](../../games/img/D3_P4_S3_T2_G047__the-narrative-current.jpg){ .infographic }
 
 `Players 3+` · `~15 min` · `Complexity 3/5` · `Energy medium` · `Props: none`
 

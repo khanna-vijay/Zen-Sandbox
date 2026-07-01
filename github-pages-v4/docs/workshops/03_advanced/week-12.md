@@ -39,6 +39,8 @@ title: "W12 · Conducting Pace"
 
 > Speak as a single, omniscient entity by passing sentences seamlessly without a single hitch.
 
+![The Seamless Oracle — infographic](../../games/img/D4_P1_S4_T2_G578__the-oracle-s-weave.jpg){ .infographic }
+
 `Players 4–8` · `~10 min` · `Complexity 4/5` · `Energy medium` · `Props: none`
 
 **Trains:** Pacing & Rhythm · _mixed_
@@ -59,6 +61,8 @@ title: "W12 · Conducting Pace"
 #### Core game — The Pattern Weaver
 
 > Collectively discover, escalate, and non-verbally retire comedic patterns in a seamless stream of consciousness.
+
+![The Pattern Weaver — infographic](../../games/img/D4_P1_S4_T1_G311__the-ensemble-game-weaver.jpg){ .infographic }
 
 `Players 4–12` · `~30 min` · `Complexity 4/5` · `Energy medium` · `Props: none`
 

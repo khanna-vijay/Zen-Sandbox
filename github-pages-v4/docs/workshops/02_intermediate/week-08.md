@@ -39,6 +39,8 @@ title: "W08 · Heightening the Pattern"
 
 > Pitch absurd custom albums and bring their hilarious hit songs to life on the spot.
 
+![The Soundtrack Shop — infographic](../../games/img/D3_P1_S2_T1_G982__cd-shop.jpg){ .infographic }
+
 `Players 3+` · `~5 min` · `Complexity 3/5` · `Energy high` · `Props: none`
 
 **Trains:** Heightening & Exploration · _comedy game_
@@ -59,6 +61,8 @@ title: "W08 · Heightening the Pattern"
 #### Core game — Biographical Beats
 
 > Explore a single character's lifetime through non-linear, escalating snapshots of their defining relationships.
+
+![Biographical Beats — infographic](../../games/img/D3_P4_S2_T1_G759__life-times.jpg){ .infographic }
 
 `Players 3+` · `~15 min` · `Complexity 3/5` · `Energy medium` · `Props: none`
 

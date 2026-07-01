@@ -39,6 +39,8 @@ title: "W14 · Support Work that Lands"
 
 > Balance the stage by consciously dividing the labor of driving, sustaining, and disrupting a scene.
 
+![Dynamic Weighting — infographic](../../games/img/D4_P3_S2_T0_G100__the-ensemble-crucible-dynamic-weighting.jpg){ .infographic }
+
 `Players 3–6` · `~15 min` · `Complexity 3/5` · `Energy medium` · `Props: none`
 
 **Trains:** Support Work · _skill drill_
@@ -59,6 +61,8 @@ title: "W14 · Support Work that Lands"
 #### Core game — The Living Atmosphere
 
 > Transform the physical space into a responsive, non-verbal mirror of the scene's emotional heartbeat.
+
+![The Living Atmosphere — infographic](../../games/img/D4_P1_S2_T3_G241__the-echoing-environment.jpg){ .infographic }
 
 `Players 5+` · `~15 min` · `Complexity 3/5` · `Energy medium` · `Props: none`
 

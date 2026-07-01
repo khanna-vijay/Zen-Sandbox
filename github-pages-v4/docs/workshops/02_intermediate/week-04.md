@@ -39,6 +39,8 @@ title: "W04 · Listening for Subtext"
 
 > Deepen partner connection by mirroring present truths, gifting brilliant motivations, and dynamically shifting status.
 
+![The Status Oracle — infographic](../../games/img/D2_P3_S1_T1_G048__the-status-oracle-echoes-of-competence.jpg){ .infographic }
+
 `Players 2+` · `~20 min` · `Complexity 3/5` · `Energy medium` · `Props: none`
 
 **Trains:** Active Listening · _connection_
@@ -60,6 +62,8 @@ title: "W04 · Listening for Subtext"
 #### Core game — Echo and Elevate
 
 > A structured four-step conversational cycle to master active listening, generous gifting, and status modulation.
+
+![Echo and Elevate — infographic](../../games/img/D2_P3_S1_T1_G150__the-resonance-refine-drill.jpg){ .infographic }
 
 `Players 2+` · `~10 min` · `Complexity 3/5` · `Energy low` · `Props: none`
 

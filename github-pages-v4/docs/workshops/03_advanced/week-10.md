@@ -39,6 +39,8 @@ title: "W10 · Invisible Support, Surrendered Ego"
 
 > Shape, inhabit, and collectively transform a silent physical world through shared movement and instant adaptation.
 
+![The Living Canvas — infographic](../../games/img/D4_P1_S2_T3_G492__the-confluence-canvas.jpg){ .infographic }
+
 `Players 3–8` · `~15 min` · `Complexity 3/5` · `Energy medium` · `Props: none`
 
 **Trains:** Support Work · _connection_
@@ -59,6 +61,8 @@ title: "W10 · Invisible Support, Surrendered Ego"
 #### Core game — Symbiotic Environments
 
 > A physical and narrative feedback loop where the environment and the story dynamically shape each other.
+
+![Symbiotic Environments — infographic](../../games/img/D4_P1_S2_T3_G049__threaded-architecture.jpg){ .infographic }
 
 `Players 5–7` · `~30 min` · `Complexity 4/5` · `Energy medium` · `Props: none`
 

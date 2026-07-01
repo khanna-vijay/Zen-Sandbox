@@ -39,6 +39,8 @@ title: "W03 · The Emotional Dial"
 
 > Rapidly shift emotional intimacy levels with passing classmates to build vulnerability and spontaneous connection.
 
+![Degrees of Connection — infographic](../../games/img/D1_P3_S2_T0_G733__i-love-you-i-hate-you.jpg){ .infographic }
+
 `Players 4+` · `~3 min` · `Complexity 1/5` · `Energy medium` · `Props: none`
 
 **Trains:** Emotional Fluidity · _connection_
@@ -58,6 +60,8 @@ title: "W03 · The Emotional Dial"
 #### Core game — The Epic Mundane
 
 > Transform the most boring details of your life into moments of absolute, earth-shattering triumph.
+
+![The Epic Mundane — infographic](../../games/img/D1_P1_S2_T1_G778__name-and-boring-fact.jpg){ .infographic }
 
 `Players 3+` · `~5 min` · `Complexity 1/5` · `Energy medium` · `Props: none`
 

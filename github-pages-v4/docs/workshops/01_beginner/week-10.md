@@ -39,6 +39,8 @@ title: "W10 · Two Minds, One Mirror"
 
 > Pass an invisible ball of energy across the circle using synchronized sound and physical movement.
 
+![Sound Ball — infographic](../../games/img/D2_P2_S3_T1_G840__sound-ball.jpg){ .infographic }
+
 `Players 4+` · `~5 min` · `Complexity 1/5` · `Energy high` · `Props: none`
 
 **Trains:** Single-Partner Empathy & Mirroring · _connection_
@@ -58,6 +60,8 @@ title: "W10 · Two Minds, One Mirror"
 #### Core game — The Mirror
 
 > Reflect your partner's movements and expressions in real-time to build deep, non-verbal connection.
+
+![The Mirror — infographic](../../games/img/D2_P3_S3_T1_G770__mirroring.jpg){ .infographic }
 
 `Players 2+` · `~5 min` · `Complexity 1/5` · `Energy low` · `Props: none`
 

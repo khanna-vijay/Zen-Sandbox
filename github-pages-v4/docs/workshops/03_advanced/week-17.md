@@ -42,6 +42,8 @@ title: "W17 · Serve the Piece"
 
 > Step out of the scene to consciously design, justify, and escalate your narrative in real-time.
 
+![The Story Architects — infographic](../../games/img/D3_P4_S3_T1_G217__the-narrative-architect-s-blueprint.jpg){ .infographic }
+
 `Players 2–4` · `~15 min` · `Complexity 4/5` · `Energy medium` · `Props: required`
 
 **Trains:** Narrative Architecture · _narrative_
@@ -63,6 +65,8 @@ title: "W17 · Serve the Piece"
 #### Core game — The Conductor's Contract
 
 > Negotiate the fourth wall dynamically by reading and calibrating to the audience's shifting energy.
+
+![The Conductor's Contract — infographic](../../games/img/D5_P1_S1_T1_G252__the-conductor-s-contract.jpg){ .infographic }
 
 `Players 4+` · `~15 min` · `Complexity 4/5` · `Energy medium` · `Props: none`
 

@@ -42,6 +42,8 @@ title: "W07 · Finding the Game"
 
 > Strip away narrative clutter to isolate, commit to, and relentlessly escalate a single comedic game.
 
+![Premise Purge — infographic](../../games/img/D3_P2_S1_T1_G329__premise-purge-the-focus-enforcer.jpg){ .infographic }
+
 `Players 2+` · `~15 min` · `Complexity 3/5` · `Energy medium` · `Props: none`
 
 **Trains:** Game Identification · _skill drill_
@@ -63,6 +65,8 @@ title: "W07 · Finding the Game"
 #### Core game — The Pattern Weaver
 
 > Spot the emerging comedic engine, call it out, and jump in to escalate it.
+
+![The Pattern Weaver — infographic](../../games/img/D3_P0_S1_T1_G485__the-narrative-pattern-weaver.jpg){ .infographic }
 
 `Players 3+` · `~15 min` · `Complexity 3/5` · `Energy medium` · `Props: none`
 

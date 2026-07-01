@@ -39,6 +39,8 @@ title: "W03 · The Power of Stillness"
 
 > Synthesize conflicting internal voices through silence and stillness to make a single, committed choice.
 
+![The Inner Council — infographic](../../games/img/D1_P3_S5_T1_G013__the-internal-symphony.jpg){ .infographic }
+
 `Players 3+` · `~15 min` · `Complexity 3/5` · `Energy medium` · `Props: none`
 
 **Trains:** Silence & Stillness · _skill drill_
@@ -61,6 +63,8 @@ title: "W03 · The Power of Stillness"
 #### Core game — The Silent Symphony
 
 > Discover the profound power of micro-impulses and shared stillness in a silent, collective soundscape.
+
+![The Silent Symphony — infographic](../../games/img/D1_P4_S5_T1_G460__the-subterranean-symphony-a-deep-listen-of-self.jpg){ .infographic }
 
 `Players 4–15` · `~15 min` · `Complexity 3/5` · `Energy low` · `Props: none`
 
