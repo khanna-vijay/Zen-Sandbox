@@ -45,5 +45,3 @@ A few beautifully simple ideas sit at the heart of our community — and they ha
 | **No Mistakes** | A misstep becomes an unexpected gift; you weave the stumble right into the scene. | We trade the fear of failure for curious exploration. |
 
 ---
-
-*Ready to play? Explore **[the full Improv framework](content/01_the-self/01_D__the-self.md)** — each domain, principle, skill, and technique gets its own page and a playful infographic.*
