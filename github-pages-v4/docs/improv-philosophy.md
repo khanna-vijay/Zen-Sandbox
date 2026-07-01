@@ -111,6 +111,4 @@ We have seen this single practice illuminated by many Zen lamps: the *Satipaṭ�
 
 The world will endlessly hand you unscripted offers, but the power to transform them is always within you. Breathe into the present, reply with a courageous "Yes, And," and let ‘*wu wei’* build the rest.
 
----
-
 
