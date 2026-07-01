@@ -62,7 +62,7 @@ hide:
 
 [Open the full game card »](../../games/D4_P1_S6_T4_G057__modular-form-juggling.md){target=_blank rel=noopener}
 
-??? note "🎒 Backup games — if you have time, or a game falls flat"
+??? star "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
     - **[The Armando](../../games/D4_P3_S6_T2_G635__the-armando-true-stories.md){target=_blank rel=noopener}** — `4+` · `~25m` · `Cx 4/5` · `Energy medium` · _Format Literacy_
     - **[La Ronde](../../games/D4_P3_S6_T4_G754__la-ronde.md){target=_blank rel=noopener}** — `4+` · `~20m` · `Cx 4/5` · `Energy medium` · _Format Literacy_

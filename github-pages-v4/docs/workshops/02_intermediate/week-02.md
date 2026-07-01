@@ -84,7 +84,7 @@ hide:
 
 [Open the full game card »](../../games/D1_P3_S2_T1_G035__the-somatic-architect-internal-blueprint.md){target=_blank rel=noopener}
 
-??? note "🎒 Backup games — if you have time, or a game falls flat"
+??? star "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
     - **[The Emotional Dialect](../../games/D1_P1_S2_T2_G103__the-somatic-symphony.md){target=_blank rel=noopener}** — `4–8` · `~15m` · `Cx 3/5` · `Energy medium` · _Emotional Fluidity_
     - **[The Spectrum Filter](../../games/D1_P1_S2_T1_G117__the-spectrum-filter.md){target=_blank rel=noopener}** — `5–10` · `~15m` · `Cx 3/5` · `Energy medium` · _Emotional Fluidity_

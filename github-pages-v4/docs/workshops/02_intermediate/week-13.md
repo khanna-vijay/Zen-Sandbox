@@ -88,7 +88,7 @@ hide:
 
 [Open the full game card »](../../games/D4_P1_S1_T2_G014__the-resonance-weaver.md){target=_blank rel=noopener}
 
-??? note "🎒 Backup games — if you have time, or a game falls flat"
+??? star "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
     - **[The Organic Tapestry](../../games/D4_P1_S1_T1_G109__the-organic-tapestry.md){target=_blank rel=noopener}** — `5–10` · `~15m` · `Cx 3/5` · `Energy medium` · _Peripheral Awareness_
     - **[The Living Canvas](../../games/D4_P1_S1_T2_G115__the-living-canvas-the-algorithmic-environment.md){target=_blank rel=noopener}** — `3–6` · `~20m` · `Cx 3/5` · `Energy medium` · _Peripheral Awareness_

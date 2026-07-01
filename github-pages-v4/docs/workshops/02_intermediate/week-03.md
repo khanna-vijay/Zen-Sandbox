@@ -85,7 +85,7 @@ hide:
 
 [Open the full game card »](../../games/D1_P4_S5_T1_G460__the-subterranean-symphony-a-deep-listen-of-self.md){target=_blank rel=noopener}
 
-??? note "🎒 Backup games — if you have time, or a game falls flat"
+??? star "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
     - **[The Resonance Chamber](../../games/D1_P4_S5_T1_G255__the-resonance-chamber.md){target=_blank rel=noopener}** — `3+` · `~15m` · `Cx 2/5` · `Energy low` · _Silence & Stillness_
     - **[The Resonance Chamber](../../games/D1_P1_S5_T1_G368__the-emotional-resonance-chamber.md){target=_blank rel=noopener}** — `3–7` · `~10m` · `Cx 2/5` · `Energy low` · _Silence & Stillness_

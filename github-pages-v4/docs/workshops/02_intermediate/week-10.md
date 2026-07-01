@@ -85,7 +85,7 @@ hide:
 
 [Open the full game card »](../../games/D3_P4_S7_T1_G306__the-stakes-landscape.md){target=_blank rel=noopener}
 
-??? note "🎒 Backup games — if you have time, or a game falls flat"
+??? star "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
     - **[The Pressure Cooker](../../games/D3_P4_S7_T1_G612__the-pressure-cooker.md){target=_blank rel=noopener}** — `3+` · `~10m` · `Cx 3/5` · `Energy medium` · _Raising the Stakes_
     - **[Undercurrents](../../games/D3_P1_S4_T1_G565__undercurrents.md){target=_blank rel=noopener}** — `2+` · `~15m` · `Cx 3/5` · `Energy medium` · _Stakes / The “Want”_

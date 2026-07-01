@@ -81,7 +81,7 @@ hide:
 
 [Open the full game card »](../../games/D2_P2_S4_T1_G817__repeat-and-add.md){target=_blank rel=noopener}
 
-??? note "🎒 Backup games — if you have time, or a game falls flat"
+??? star "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
     - **[Yes, And Sentence Build](../../games/D2_P2_S4_T1_G903__yes-and.md){target=_blank rel=noopener}** — `2+` · `~5m` · `Cx 1/5` · `Energy medium` · _Offer Reception_
     - **[Affirmative Exchanges](../../games/D2_P2_S4_T1_G904__yes-based-conversations.md){target=_blank rel=noopener}** — `2+` · `~5m` · `Cx 1/5` · `Energy medium` · _Offer Reception_

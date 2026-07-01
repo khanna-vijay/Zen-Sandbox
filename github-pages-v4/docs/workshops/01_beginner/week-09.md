@@ -83,7 +83,7 @@ hide:
 
 [Open the full game card »](../../games/D2_P3_S5_T2_G497__the-alchemist-s-justification.md){target=_blank rel=noopener}
 
-??? note "🎒 Backup games — if you have time, or a game falls flat"
+??? star "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
     - **[The Hero's Chronicler](../../games/D2_P3_S5_T1_G560__my-partner-the-hero.md){target=_blank rel=noopener}** — `2+` · `~10m` · `Cx 2/5` · `Energy medium` · _Active Gifting_
     - **[Shared Anecdotes](../../games/D2_P3_S5_T1_G631__anecdotes.md){target=_blank rel=noopener}** — `3–6` · `~5m` · `Cx 2/5` · `Energy medium` · _Active Gifting_

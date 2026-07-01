@@ -114,7 +114,7 @@ hide:
 
 [Open the full game card »](../../games/D5_P1_S1_T1_G1188__more-or-less.md){target=_blank rel=noopener}
 
-??? note "🎒 Backup games — if you have time, or a game falls flat"
+??? star "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
     - **[The Domino Chain](../../games/D3_P4_S3_T2_G175__domino-scene.md){target=_blank rel=noopener}** — `2+` · `~10m` · `Cx 3/5` · `Energy medium` · _Narrative Architecture_
     - **[Pop-Up Book](../../games/D4_P1_S2_T3_G808__pop-up-book.md){target=_blank rel=noopener}** — `3+` · `~8m` · `Cx 3/5` · `Energy high` · _Support Work_
