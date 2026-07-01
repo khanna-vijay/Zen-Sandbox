@@ -56,6 +56,8 @@ keywords:
   - "sidecoaching"
   - "depth"
 aliases: []
+hide:
+  - toc
 ---
 
 # Stereotype to Soul

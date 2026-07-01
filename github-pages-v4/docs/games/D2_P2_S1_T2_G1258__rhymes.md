@@ -57,6 +57,8 @@ keywords:
   - "constraint"
 aliases:
   - "Verses"
+hide:
+  - toc
 ---
 
 # Rhyming Couplets

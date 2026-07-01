@@ -68,6 +68,8 @@ keywords:
 aliases:
   - "The Ascendant Architects"
   - "Embodied Echoes & Embraced Perception"
+hide:
+  - toc
 ---
 
 # Status Architects

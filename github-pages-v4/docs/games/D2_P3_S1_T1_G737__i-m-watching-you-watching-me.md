@@ -54,6 +54,8 @@ keywords:
   - "vulnerability"
 aliases:
   - "I'm Watching You"
+hide:
+  - toc
 ---
 
 # Watching You, Watching Me

@@ -54,6 +54,8 @@ keywords:
 aliases:
   - "Hypnotic Hands"
   - "Boal's Hypnosis"
+hide:
+  - toc
 ---
 
 # Magnetic Palms

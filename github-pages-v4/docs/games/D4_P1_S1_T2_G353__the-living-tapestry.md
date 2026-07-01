@@ -60,6 +60,8 @@ keywords:
   - "cohesion"
   - "listening"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Living Tapestry

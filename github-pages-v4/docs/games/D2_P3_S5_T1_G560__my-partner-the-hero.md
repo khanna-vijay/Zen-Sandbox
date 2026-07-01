@@ -57,6 +57,8 @@ keywords:
   - "validation"
 aliases:
   - "My Partner, The Hero Narrative"
+hide:
+  - toc
 ---
 
 # The Hero's Chronicler

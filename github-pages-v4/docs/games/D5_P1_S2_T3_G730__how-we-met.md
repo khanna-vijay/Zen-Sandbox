@@ -58,6 +58,8 @@ keywords:
   - "shortform"
   - "couple"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Origin Story

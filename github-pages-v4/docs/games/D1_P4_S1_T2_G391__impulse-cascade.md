@@ -62,6 +62,8 @@ keywords:
   - "vulnerability"
   - "circle game"
 aliases: []
+hide:
+  - toc
 ---
 
 # Impulse Cascade

@@ -54,6 +54,8 @@ keywords:
   - "concentration"
   - "energy"
 aliases: []
+hide:
+  - toc
 ---
 
 # Synchronized Clap

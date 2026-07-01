@@ -57,6 +57,8 @@ keywords:
 aliases:
   - "Two-headed Professor"
   - "Oracle"
+hide:
+  - toc
 ---
 
 # The Two-Headed Expert

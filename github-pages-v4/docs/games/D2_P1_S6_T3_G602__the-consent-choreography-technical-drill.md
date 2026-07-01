@@ -55,6 +55,8 @@ keywords:
   - "comfort"
 aliases:
   - "The Consent Choreography"
+hide:
+  - toc
 ---
 
 # The Physical Agreement Drill

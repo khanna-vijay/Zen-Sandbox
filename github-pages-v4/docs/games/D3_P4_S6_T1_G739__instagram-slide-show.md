@@ -60,6 +60,8 @@ keywords:
 aliases:
   - "Instagram Slideshow"
   - "Photo Album"
+hide:
+  - toc
 ---
 
 # Instant Travelogue

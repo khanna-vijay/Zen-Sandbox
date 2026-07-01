@@ -53,6 +53,8 @@ keywords:
   - "soundtrack"
   - "non-verbal"
 aliases: []
+hide:
+  - toc
 ---
 
 # Emotional Soundtrack

@@ -53,6 +53,8 @@ keywords:
   - "scenework"
 aliases:
   - "Follow the Leaver"
+hide:
+  - toc
 ---
 
 # The Relay Edit

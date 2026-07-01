@@ -54,6 +54,8 @@ keywords:
   - "accepting"
 aliases:
   - "Replay"
+hide:
+  - toc
 ---
 
 # The Echo Rewind

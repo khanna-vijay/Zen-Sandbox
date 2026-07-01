@@ -66,6 +66,8 @@ keywords:
   - "physical commitment"
 aliases:
   - "Echo Weave"
+hide:
+  - toc
 ---
 
 # Echoed Architecture

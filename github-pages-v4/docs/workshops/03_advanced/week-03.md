@@ -1,5 +1,7 @@
 ---
 title: "W03 · The Shared Mind"
+hide:
+  - toc
 ---
 
 # Week 03 — The Shared Mind

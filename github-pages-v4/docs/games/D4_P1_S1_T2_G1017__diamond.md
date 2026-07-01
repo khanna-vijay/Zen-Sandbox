@@ -57,6 +57,8 @@ aliases:
   - "Revolver"
   - "Pan Left Pan Right"
   - "Turntable"
+hide:
+  - toc
 ---
 
 # Diamond Carousel

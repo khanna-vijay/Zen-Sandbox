@@ -1,5 +1,7 @@
 ---
 title: Silence & Stillness
+hide:
+  - toc
 ---
 
 # 🧠 Silence & Stillness

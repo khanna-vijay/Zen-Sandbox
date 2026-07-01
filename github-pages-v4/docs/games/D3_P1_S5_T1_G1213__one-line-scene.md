@@ -56,6 +56,8 @@ keywords:
   - "subtext"
   - "body language"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Single-Line Scene

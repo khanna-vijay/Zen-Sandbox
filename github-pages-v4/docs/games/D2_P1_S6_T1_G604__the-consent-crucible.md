@@ -52,6 +52,8 @@ keywords:
   - "truth over pandering"
   - "boundary cards"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Consent Crucible

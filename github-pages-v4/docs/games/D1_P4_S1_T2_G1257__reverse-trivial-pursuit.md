@@ -53,6 +53,8 @@ keywords:
   - "shortform"
   - "comedy"
 aliases: []
+hide:
+  - toc
 ---
 
 # Reverse Trivia

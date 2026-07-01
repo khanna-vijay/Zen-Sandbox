@@ -64,6 +64,8 @@ keywords:
   - "mirroring"
   - "escalation"
 aliases: []
+hide:
+  - toc
 ---
 
 # Emotional Echo

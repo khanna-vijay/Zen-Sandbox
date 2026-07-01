@@ -57,6 +57,8 @@ keywords:
   - "truth over pandering"
 aliases:
   - "Threshold and Touchstone"
+hide:
+  - toc
 ---
 
 # Threshold and Touchstone

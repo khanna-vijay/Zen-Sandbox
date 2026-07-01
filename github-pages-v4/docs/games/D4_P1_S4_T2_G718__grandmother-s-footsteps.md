@@ -58,6 +58,8 @@ aliases:
   - "Grandfather's Footsteps"
   - "Red Light, Green Light"
   - "Sly Fox"
+hide:
+  - toc
 ---
 
 # Grandmother's Steps

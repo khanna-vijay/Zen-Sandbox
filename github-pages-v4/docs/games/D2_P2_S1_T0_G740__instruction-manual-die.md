@@ -59,6 +59,8 @@ keywords:
 aliases:
   - "Storyteller Die"
   - "Story Conductor"
+hide:
+  - toc
 ---
 
 # Instruction Manual Die

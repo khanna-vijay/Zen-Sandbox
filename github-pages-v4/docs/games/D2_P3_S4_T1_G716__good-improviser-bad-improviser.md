@@ -53,6 +53,8 @@ keywords:
 aliases:
   - "Good/Bad Improviser"
   - "Block/Unblock"
+hide:
+  - toc
 ---
 
 # The Alchemist

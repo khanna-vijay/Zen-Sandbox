@@ -58,6 +58,8 @@ keywords:
   - "truth over pandering"
 aliases:
   - "Zones"
+hide:
+  - toc
 ---
 
 # Boundary Zones

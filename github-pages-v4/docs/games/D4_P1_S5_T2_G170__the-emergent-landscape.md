@@ -61,6 +61,8 @@ keywords:
   - "a-to-c"
 aliases:
   - "The Weave and The Voice"
+hide:
+  - toc
 ---
 
 # Emergent Landscapes

@@ -57,6 +57,8 @@ keywords:
   - "gaze"
   - "director-led"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Shifting Gaze

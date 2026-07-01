@@ -1,5 +1,7 @@
 ---
 title: Give them the answer
+hide:
+  - toc
 ---
 
 # 🎯 Give them the answer

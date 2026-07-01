@@ -60,6 +60,8 @@ keywords:
   - "side-coaching"
   - "character centers"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Spectrum Filter

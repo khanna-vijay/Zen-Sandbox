@@ -58,6 +58,8 @@ keywords:
   - "safety"
   - "negotiation"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Invisible Choreographer

@@ -53,6 +53,8 @@ keywords:
   - "fill in the blank"
   - "random word"
 aliases: []
+hide:
+  - toc
 ---
 
 # Human Pillars

@@ -61,6 +61,8 @@ keywords:
   - "zapping"
 aliases:
   - "Exflix & Chill"
+hide:
+  - toc
 ---
 
 # Streaming Queue

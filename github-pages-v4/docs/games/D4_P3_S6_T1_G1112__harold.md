@@ -61,6 +61,8 @@ keywords:
   - "del close"
   - "thematic synthesis"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Harold

@@ -56,6 +56,8 @@ keywords:
 aliases:
   - "Boundary Weaver"
   - "The Consent Stone"
+hide:
+  - toc
 ---
 
 # The Consent Stone

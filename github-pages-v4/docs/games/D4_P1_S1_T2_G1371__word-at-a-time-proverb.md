@@ -56,6 +56,8 @@ keywords:
 aliases:
   - "Word-at-a-time Proverb"
   - "Proverbs"
+hide:
+  - toc
 ---
 
 # One-Word Wisdom

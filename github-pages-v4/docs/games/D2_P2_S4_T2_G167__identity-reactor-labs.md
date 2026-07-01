@@ -58,6 +58,8 @@ keywords:
   - "yes-and"
 aliases:
   - "Identity Reactor Labs: Compound Character DNA & Real-time Catalyst Injection"
+hide:
+  - toc
 ---
 
 # Trait Fusion Lab

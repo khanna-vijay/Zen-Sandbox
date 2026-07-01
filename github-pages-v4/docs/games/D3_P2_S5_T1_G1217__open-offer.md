@@ -56,6 +56,8 @@ keywords:
   - "base reality"
   - "initiation"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Open Offer

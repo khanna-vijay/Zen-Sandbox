@@ -59,6 +59,8 @@ keywords:
 aliases:
   - "Slideshow"
   - "Photo Album"
+hide:
+  - toc
 ---
 
 # The Living Slideshow

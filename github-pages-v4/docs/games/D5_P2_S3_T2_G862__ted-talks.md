@@ -55,6 +55,8 @@ keywords:
   - "slides"
   - "co-presentation"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Visionary Lecture

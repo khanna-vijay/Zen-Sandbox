@@ -57,6 +57,8 @@ keywords:
 aliases:
   - "Bippety Bippety Bop"
   - "Elephant Mixer Toaster"
+hide:
+  - toc
 ---
 
 # Bippity Boppity Build

@@ -60,6 +60,8 @@ keywords:
 aliases:
   - "Emotional Quadrants"
   - "Four Corners"
+hide:
+  - toc
 ---
 
 # Emotional Squares

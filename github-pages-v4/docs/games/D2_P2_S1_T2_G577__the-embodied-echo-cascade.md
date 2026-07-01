@@ -61,6 +61,8 @@ keywords:
   - "mirroring"
 aliases:
   - "Embodied Echo Cascade"
+hide:
+  - toc
 ---
 
 # Embodied Echo Cascade

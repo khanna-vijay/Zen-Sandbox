@@ -50,6 +50,8 @@ keywords:
   - "icebreaker"
 aliases:
   - "Rock Paper Scissors (Cooperative)"
+hide:
+  - toc
 ---
 
 # Alien, Tiger, Cow

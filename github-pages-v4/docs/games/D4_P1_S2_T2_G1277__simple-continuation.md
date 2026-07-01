@@ -57,6 +57,8 @@ keywords:
 aliases:
   - "Understudy"
   - "Actor Switch"
+hide:
+  - toc
 ---
 
 # Character Relay

@@ -66,6 +66,8 @@ keywords:
   - "multimodal"
 aliases:
   - "Collaborative Canvas"
+hide:
+  - toc
 ---
 
 # Collaborative Canvas

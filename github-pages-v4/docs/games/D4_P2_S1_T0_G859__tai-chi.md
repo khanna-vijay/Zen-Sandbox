@@ -53,6 +53,8 @@ keywords:
   - "physicality"
   - "connection"
 aliases: []
+hide:
+  - toc
 ---
 
 # Fluid Formations

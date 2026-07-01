@@ -62,6 +62,8 @@ keywords:
   - "internal monologue"
   - "character development"
 aliases: []
+hide:
+  - toc
 ---
 
 # Subtext Stream

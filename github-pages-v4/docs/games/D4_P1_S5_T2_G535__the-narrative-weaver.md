@@ -62,6 +62,8 @@ keywords:
   - "collaboration"
 aliases:
   - "Narrative Weaver"
+hide:
+  - toc
 ---
 
 # The Narrative Weaver

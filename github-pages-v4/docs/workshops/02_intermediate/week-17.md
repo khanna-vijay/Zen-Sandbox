@@ -1,5 +1,7 @@
 ---
 title: "W17 · Reading the Room"
+hide:
+  - toc
 ---
 
 # Week 17 — Reading the Room

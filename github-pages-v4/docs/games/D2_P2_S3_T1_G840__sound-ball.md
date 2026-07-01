@@ -59,6 +59,8 @@ keywords:
 aliases:
   - "Sound and Motion Ball"
   - "Noise Ball"
+hide:
+  - toc
 ---
 
 # Sound Ball

@@ -54,6 +54,8 @@ keywords:
   - "vocal"
   - "synchronization"
 aliases: []
+hide:
+  - toc
 ---
 
 # Sound and Motion Mirror

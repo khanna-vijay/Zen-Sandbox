@@ -50,6 +50,8 @@ keywords:
   - "sitting"
   - "ensemble"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Infinite Chair

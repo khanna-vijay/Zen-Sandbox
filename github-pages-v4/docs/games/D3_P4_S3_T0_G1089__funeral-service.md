@@ -61,6 +61,8 @@ keywords:
   - "narrative"
   - "biography"
 aliases: []
+hide:
+  - toc
 ---
 
 # Memorial Service

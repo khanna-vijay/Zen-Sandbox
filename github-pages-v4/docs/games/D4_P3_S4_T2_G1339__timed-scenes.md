@@ -53,6 +53,8 @@ keywords:
   - "external timer"
   - "comedy"
 aliases: []
+hide:
+  - toc
 ---
 
 # Physical Countdown Scenes

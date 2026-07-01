@@ -56,6 +56,8 @@ keywords:
   - "connection"
 aliases:
   - "Hands"
+hide:
+  - toc
 ---
 
 # The Pulse

@@ -66,6 +66,8 @@ keywords:
 aliases:
   - "The Subtextual Symphony"
   - "Resonance Weave"
+hide:
+  - toc
 ---
 
 # The Resonance Weave

@@ -54,6 +54,8 @@ aliases:
   - "Squirrels and Trees"
   - "Squirrels, Trees, and Earthquakes"
   - "Rabbits and Trees"
+hide:
+  - toc
 ---
 
 # House, Creature, Flood

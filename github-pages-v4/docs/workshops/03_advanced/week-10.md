@@ -1,5 +1,7 @@
 ---
 title: "W10 · Invisible Support, Surrendered Ego"
+hide:
+  - toc
 ---
 
 # Week 10 — Invisible Support, Surrendered Ego

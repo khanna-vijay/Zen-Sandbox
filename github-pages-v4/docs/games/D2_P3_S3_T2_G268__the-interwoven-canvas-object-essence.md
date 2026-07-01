@@ -66,6 +66,8 @@ keywords:
   - "collaboration"
 aliases:
   - "Progressive Narrative Yes And Chain"
+hide:
+  - toc
 ---
 
 # Object and Essence

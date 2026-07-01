@@ -1,5 +1,7 @@
 ---
 title: Audience-Energy Management
+hide:
+  - toc
 ---
 
 # 🧠 Audience-Energy Management

@@ -50,6 +50,8 @@ keywords:
   - "i'll have a coke"
 aliases:
   - "I'll Have a Coke"
+hide:
+  - toc
 ---
 
 # Message from Ray

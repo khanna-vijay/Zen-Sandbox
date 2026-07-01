@@ -56,6 +56,8 @@ keywords:
   - "low stakes"
 aliases:
   - "Just Do Nothing"
+hide:
+  - toc
 ---
 
 # The Quiet Roommates

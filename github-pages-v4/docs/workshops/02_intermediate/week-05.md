@@ -1,5 +1,7 @@
 ---
 title: "W05 · The Status Seesaw"
+hide:
+  - toc
 ---
 
 # Week 05 — The Status Seesaw

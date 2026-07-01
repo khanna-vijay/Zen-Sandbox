@@ -57,6 +57,8 @@ keywords:
   - "group mind"
   - "support"
 aliases: []
+hide:
+  - toc
 ---
 
 # Unified Identity Bench

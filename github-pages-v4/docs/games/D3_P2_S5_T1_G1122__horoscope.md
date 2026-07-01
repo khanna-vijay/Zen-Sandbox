@@ -56,6 +56,8 @@ keywords:
   - "premise"
   - "inspiration"
 aliases: []
+hide:
+  - toc
 ---
 
 # Cosmic Forecast

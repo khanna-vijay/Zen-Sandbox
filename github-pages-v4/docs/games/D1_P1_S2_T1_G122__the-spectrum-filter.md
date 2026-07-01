@@ -61,6 +61,8 @@ keywords:
   - "vocal expression"
 aliases:
   - "The Resonance Chamber: The Unspoken Symphony"
+hide:
+  - toc
 ---
 
 # The Spectrum Filter

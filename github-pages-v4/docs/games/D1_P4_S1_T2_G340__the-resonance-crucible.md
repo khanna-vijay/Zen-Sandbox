@@ -66,6 +66,8 @@ keywords:
   - "sculptor"
   - "somatic"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Resonance Crucible

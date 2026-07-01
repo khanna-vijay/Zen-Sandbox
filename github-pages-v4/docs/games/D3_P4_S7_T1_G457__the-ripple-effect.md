@@ -59,6 +59,8 @@ keywords:
   - "collaboration"
 aliases:
   - "The Snowball Effect"
+hide:
+  - toc
 ---
 
 # The Ripple Effect

@@ -58,6 +58,8 @@ keywords:
   - "character"
   - "justification"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Pink Slip Script

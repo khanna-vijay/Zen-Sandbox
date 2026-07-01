@@ -55,6 +55,8 @@ keywords:
   - "scene-work"
   - "roles"
 aliases: []
+hide:
+  - toc
 ---
 
 # Old Job, New Job

@@ -65,6 +65,8 @@ keywords:
   - "advance"
   - "reciprocity"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Attunement Weave

@@ -63,6 +63,8 @@ keywords:
 aliases:
   - "Emotion Walk"
   - "Emotional Physicality"
+hide:
+  - toc
 ---
 
 # The Emotional Resonance Walk

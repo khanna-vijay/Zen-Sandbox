@@ -61,6 +61,8 @@ keywords:
   - "if true what else is true"
 aliases:
   - "Consequence Chain"
+hide:
+  - toc
 ---
 
 # The Consequence Chain

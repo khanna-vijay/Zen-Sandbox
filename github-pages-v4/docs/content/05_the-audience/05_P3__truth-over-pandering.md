@@ -1,5 +1,7 @@
 ---
 title: Truth Over Pandering
+hide:
+  - toc
 ---
 
 # 💎 Truth Over Pandering

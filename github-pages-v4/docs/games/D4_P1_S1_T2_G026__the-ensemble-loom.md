@@ -59,6 +59,8 @@ keywords:
   - "abstract"
   - "multi-modal"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Sensory Loom

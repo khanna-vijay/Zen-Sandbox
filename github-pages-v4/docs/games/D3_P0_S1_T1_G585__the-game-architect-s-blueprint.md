@@ -60,6 +60,8 @@ keywords:
   - "remote"
   - "collaboration"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Game Blueprint

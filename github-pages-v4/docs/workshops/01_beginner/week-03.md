@@ -1,5 +1,7 @@
 ---
 title: "W03 · The Emotional Dial"
+hide:
+  - toc
 ---
 
 # Week 03 — The Emotional Dial

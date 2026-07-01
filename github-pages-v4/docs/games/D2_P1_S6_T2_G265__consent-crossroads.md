@@ -54,6 +54,8 @@ keywords:
   - "truth-over-pandering"
   - "comfort-zone"
 aliases: []
+hide:
+  - toc
 ---
 
 # Boundary Crossroads

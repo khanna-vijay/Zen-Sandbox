@@ -55,6 +55,8 @@ keywords:
   - "edits"
 aliases:
   - "Freeform"
+hide:
+  - toc
 ---
 
 # The Open Canvas

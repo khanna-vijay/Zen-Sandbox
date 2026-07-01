@@ -49,6 +49,8 @@ keywords:
   - "sharing"
   - "circle game"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Story of My Name

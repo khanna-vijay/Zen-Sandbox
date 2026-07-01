@@ -59,6 +59,8 @@ keywords:
 aliases:
   - "Clay"
   - "Statues"
+hide:
+  - toc
 ---
 
 # Collaborative Sculptors

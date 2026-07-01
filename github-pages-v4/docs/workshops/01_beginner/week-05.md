@@ -1,5 +1,7 @@
 ---
 title: "W05 · Finding Your Voice"
+hide:
+  - toc
 ---
 
 # Week 05 — Finding Your Voice

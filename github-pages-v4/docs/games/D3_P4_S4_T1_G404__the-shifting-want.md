@@ -60,6 +60,8 @@ keywords:
   - "scene building"
 aliases:
   - "The Shifting Want: Rapidly Evolving Character Wants and Escalating Stakes"
+hide:
+  - toc
 ---
 
 # The Shifting Want

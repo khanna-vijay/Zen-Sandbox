@@ -57,6 +57,8 @@ keywords:
   - "ensemble"
 aliases:
   - "The Resonant Tapestry"
+hide:
+  - toc
 ---
 
 # Resonant Threads

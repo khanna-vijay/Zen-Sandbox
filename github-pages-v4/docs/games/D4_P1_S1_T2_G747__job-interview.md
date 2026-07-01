@@ -56,6 +56,8 @@ keywords:
   - "cooperation"
   - "shortform"
 aliases: []
+hide:
+  - toc
 ---
 
 # Three-Headed Job Interview

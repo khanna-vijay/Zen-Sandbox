@@ -58,6 +58,8 @@ keywords:
   - "competition"
   - "character"
 aliases: []
+hide:
+  - toc
 ---
 
 # Spontaneous Rap Duel

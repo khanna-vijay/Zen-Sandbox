@@ -58,6 +58,8 @@ keywords:
   - "ensemble"
 aliases:
   - "Monoscene Harold"
+hide:
+  - toc
 ---
 
 # The Unified Space Harold

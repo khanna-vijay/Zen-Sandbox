@@ -56,6 +56,8 @@ keywords:
   - "physicality"
 aliases:
   - "Best Friend"
+hide:
+  - toc
 ---
 
 # The Best Friend Alignment

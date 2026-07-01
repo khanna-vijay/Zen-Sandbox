@@ -55,6 +55,8 @@ keywords:
 aliases:
   - "Splat"
   - "Bang"
+hide:
+  - toc
 ---
 
 # The Joyful Showdown

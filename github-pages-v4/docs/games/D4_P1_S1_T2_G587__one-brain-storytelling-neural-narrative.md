@@ -65,6 +65,8 @@ keywords:
   - "ensemble"
 aliases:
   - "Neural Narrative"
+hide:
+  - toc
 ---
 
 # The Shared Synapse

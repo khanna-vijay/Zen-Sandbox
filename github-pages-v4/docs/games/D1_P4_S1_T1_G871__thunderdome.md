@@ -52,6 +52,8 @@ keywords:
   - "circle game"
   - "energy booster"
 aliases: []
+hide:
+  - toc
 ---
 
 # Category Arena

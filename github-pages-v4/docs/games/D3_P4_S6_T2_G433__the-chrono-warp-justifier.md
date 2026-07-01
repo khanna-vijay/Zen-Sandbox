@@ -62,6 +62,8 @@ keywords:
 aliases:
   - "Chrono-Warp Justifier"
   - "Retroactive Justification of Reality-Altering Warps"
+hide:
+  - toc
 ---
 
 # Retroactive Reality Warp

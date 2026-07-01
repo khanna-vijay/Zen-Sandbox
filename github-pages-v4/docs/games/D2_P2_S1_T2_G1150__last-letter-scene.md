@@ -48,6 +48,8 @@ keywords:
   - "wordplay"
   - "attention"
 aliases: []
+hide:
+  - toc
 ---
 
 # Last Letter Scene

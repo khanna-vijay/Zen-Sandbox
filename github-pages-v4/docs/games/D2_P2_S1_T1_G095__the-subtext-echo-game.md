@@ -63,6 +63,8 @@ keywords:
   - "partner connection"
 aliases:
   - "Subtext Echo"
+hide:
+  - toc
 ---
 
 # Resonance Echo

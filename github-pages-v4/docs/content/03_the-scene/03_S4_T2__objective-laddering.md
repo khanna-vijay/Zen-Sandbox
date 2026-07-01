@@ -1,5 +1,7 @@
 ---
 title: Objective-laddering
+hide:
+  - toc
 ---
 
 # 🎯 Objective-laddering

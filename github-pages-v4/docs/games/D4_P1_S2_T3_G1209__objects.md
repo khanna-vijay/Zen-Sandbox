@@ -52,6 +52,8 @@ keywords:
   - "body-shapes"
   - "cooperation"
 aliases: []
+hide:
+  - toc
 ---
 
 # Ensemble Architecture

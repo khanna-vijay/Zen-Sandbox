@@ -58,6 +58,8 @@ keywords:
   - "energy calibration"
   - "meta-comedy"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Live Feed

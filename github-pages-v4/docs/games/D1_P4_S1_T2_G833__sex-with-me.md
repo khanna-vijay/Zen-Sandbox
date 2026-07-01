@@ -52,6 +52,8 @@ keywords:
   - "spontaneity"
   - "fill-in-the-blank"
 aliases: []
+hide:
+  - toc
 ---
 
 # Sex With Me

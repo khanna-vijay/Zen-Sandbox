@@ -57,6 +57,8 @@ keywords:
   - "group shape"
   - "movement"
 aliases: []
+hide:
+  - toc
 ---
 
 # Pop-Up Book

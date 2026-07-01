@@ -62,6 +62,8 @@ keywords:
   - "ensemble"
 aliases:
   - "Collective Environmental Storytelling"
+hide:
+  - toc
 ---
 
 # Resonance Canvas

@@ -62,6 +62,8 @@ keywords:
   - "gibberish"
   - "intrapersonal"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Emotional Pivot

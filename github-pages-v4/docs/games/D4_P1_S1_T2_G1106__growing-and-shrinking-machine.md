@@ -62,6 +62,8 @@ aliases:
   - "The Stack"
   - "Add-a-Player"
   - "Cumulative Scenes"
+hide:
+  - toc
 ---
 
 # Nested Narratives

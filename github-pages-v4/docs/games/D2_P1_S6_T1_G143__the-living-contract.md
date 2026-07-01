@@ -55,6 +55,8 @@ keywords:
   - "truth over pandering"
 aliases:
   - "The Living Contract: A Pre-Scene Design & Dynamic Navigation Game"
+hide:
+  - toc
 ---
 
 # The Living Agreement

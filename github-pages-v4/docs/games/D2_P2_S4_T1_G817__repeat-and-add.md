@@ -53,6 +53,8 @@ keywords:
   - "warm-up"
   - "pairs"
 aliases: []
+hide:
+  - toc
 ---
 
 # Echo and Expand

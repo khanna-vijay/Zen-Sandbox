@@ -56,6 +56,8 @@ keywords:
   - "intimacy"
   - "truth over pandering"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Boundary Threshold

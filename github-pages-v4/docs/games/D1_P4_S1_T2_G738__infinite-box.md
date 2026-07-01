@@ -53,6 +53,8 @@ keywords:
   - "pairs"
   - "first thought"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Endless Box

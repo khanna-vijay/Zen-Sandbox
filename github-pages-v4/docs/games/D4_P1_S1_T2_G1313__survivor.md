@@ -61,6 +61,8 @@ keywords:
   - "listening"
   - "shortform"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Shrinking Ensemble

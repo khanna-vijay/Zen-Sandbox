@@ -56,6 +56,8 @@ keywords:
   - "characters"
 aliases:
   - "Blind Date"
+hide:
+  - toc
 ---
 
 # The Dating Panel

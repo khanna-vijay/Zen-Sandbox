@@ -1,5 +1,7 @@
 ---
 title: Tag-running (riding a laugh wave)
+hide:
+  - toc
 ---
 
 # 🎯 Tag-running (riding a laugh wave)

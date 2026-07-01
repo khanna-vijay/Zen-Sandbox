@@ -61,6 +61,8 @@ keywords:
   - "justification"
   - "stakes"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Narrative Calibrator

@@ -65,6 +65,8 @@ keywords:
   - "partner work"
 aliases:
   - "Echo-and-Elevate Dialogue"
+hide:
+  - toc
 ---
 
 # Resonate and Elevate

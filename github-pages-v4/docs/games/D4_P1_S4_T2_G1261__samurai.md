@@ -59,6 +59,8 @@ keywords:
   - "focus"
   - "passing"
 aliases: []
+hide:
+  - toc
 ---
 
 # Samurai Circle

@@ -61,6 +61,8 @@ keywords:
   - "undercurrents"
   - "empathy"
 aliases: []
+hide:
+  - toc
 ---
 
 # Undercurrents

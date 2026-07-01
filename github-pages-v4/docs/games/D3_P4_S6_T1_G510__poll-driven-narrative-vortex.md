@@ -61,6 +61,8 @@ keywords:
   - "virtual team building"
   - "narrative twist"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Narrative Vortex

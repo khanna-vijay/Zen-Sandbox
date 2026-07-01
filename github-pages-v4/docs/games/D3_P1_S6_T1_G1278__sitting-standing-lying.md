@@ -59,6 +59,8 @@ keywords:
 aliases:
   - "Sitting, Standing, Lying Down"
   - "Glad Sad Mad"
+hide:
+  - toc
 ---
 
 # Sitting, Standing, Lying Down

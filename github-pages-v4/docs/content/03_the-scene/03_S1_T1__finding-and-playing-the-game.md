@@ -1,5 +1,7 @@
 ---
 title: Finding & Playing the Game
+hide:
+  - toc
 ---
 
 # 🎯 Finding & Playing the Game

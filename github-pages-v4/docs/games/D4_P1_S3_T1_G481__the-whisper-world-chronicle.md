@@ -63,6 +63,8 @@ keywords:
   - "a-to-c"
 aliases:
   - "Implied World Building"
+hide:
+  - toc
 ---
 
 # Echoes of the Unspoken

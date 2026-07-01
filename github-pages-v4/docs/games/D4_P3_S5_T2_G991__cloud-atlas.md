@@ -53,6 +53,8 @@ keywords:
   - "thematic links"
   - "format"
 aliases: []
+hide:
+  - toc
 ---
 
 # Nested Epochs

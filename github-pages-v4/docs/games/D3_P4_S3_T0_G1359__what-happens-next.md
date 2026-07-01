@@ -55,6 +55,8 @@ keywords:
   - "direction"
 aliases:
   - "And Then"
+hide:
+  - toc
 ---
 
 # What Happens Next

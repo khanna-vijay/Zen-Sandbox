@@ -60,6 +60,8 @@ keywords:
   - "couch"
   - "anecdote"
 aliases: []
+hide:
+  - toc
 ---
 
 # Couples Retrospective

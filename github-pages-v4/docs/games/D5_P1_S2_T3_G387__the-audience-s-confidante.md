@@ -61,6 +61,8 @@ keywords:
   - "monologue"
 aliases:
   - "Practicing Justified Fourth Wall Breaks"
+hide:
+  - toc
 ---
 
 # The Confidante's Aside

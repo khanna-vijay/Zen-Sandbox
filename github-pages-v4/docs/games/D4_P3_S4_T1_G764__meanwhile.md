@@ -55,6 +55,8 @@ keywords:
   - "side-support"
   - "cut-to"
 aliases: []
+hide:
+  - toc
 ---
 
 # Meanwhile

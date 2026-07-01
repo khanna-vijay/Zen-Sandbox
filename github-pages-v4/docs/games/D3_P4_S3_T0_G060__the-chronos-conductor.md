@@ -66,6 +66,8 @@ keywords:
   - "comedy timing"
 aliases:
   - "Chronos Conductor"
+hide:
+  - toc
 ---
 
 # The Rhythm Conductor

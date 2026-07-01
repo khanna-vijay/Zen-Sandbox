@@ -54,6 +54,8 @@ keywords:
   - "group mind"
   - "passing game"
 aliases: []
+hide:
+  - toc
 ---
 
 # Stereo Loop

@@ -53,6 +53,8 @@ keywords:
   - "warm-up"
   - "movement"
 aliases: []
+hide:
+  - toc
 ---
 
 # Sonic Beacon

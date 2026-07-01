@@ -54,6 +54,8 @@ keywords:
   - "continuous"
   - "play"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Monoscene

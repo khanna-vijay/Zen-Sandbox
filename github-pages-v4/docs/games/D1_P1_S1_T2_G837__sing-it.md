@@ -62,6 +62,8 @@ keywords:
   - "host-driven"
   - "auditory cue"
 aliases: []
+hide:
+  - toc
 ---
 
 # Sing It!

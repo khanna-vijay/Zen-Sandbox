@@ -55,6 +55,8 @@ keywords:
   - "scenework"
 aliases:
   - "First Line Last Line"
+hide:
+  - toc
 ---
 
 # The Destination Line

@@ -55,6 +55,8 @@ keywords:
 aliases:
   - "Beatnik Poetry"
   - "Bad Poetry Night"
+hide:
+  - toc
 ---
 
 # Beatnik Poetry Slam

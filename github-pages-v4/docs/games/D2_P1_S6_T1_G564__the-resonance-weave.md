@@ -54,6 +54,8 @@ keywords:
   - "safety"
   - "check-in"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Resonance Weave

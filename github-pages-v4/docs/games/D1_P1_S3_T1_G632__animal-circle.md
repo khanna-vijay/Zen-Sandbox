@@ -55,6 +55,8 @@ keywords:
   - "monologue"
   - "spontaneity"
 aliases: []
+hide:
+  - toc
 ---
 
 # Creature Circle

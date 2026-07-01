@@ -66,6 +66,8 @@ keywords:
   - "director"
 aliases:
   - "Silent Scripting Symphony"
+hide:
+  - toc
 ---
 
 # Clandestine Script

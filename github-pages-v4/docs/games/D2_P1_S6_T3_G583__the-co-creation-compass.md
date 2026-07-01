@@ -56,6 +56,8 @@ keywords:
   - "check-in"
 aliases:
   - "The Co-Creation Compass: A Game for Proactive Consent and Boundary Navigation"
+hide:
+  - toc
 ---
 
 # The Boundary Compass

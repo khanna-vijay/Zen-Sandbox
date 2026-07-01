@@ -52,6 +52,8 @@ keywords:
   - "wedding"
   - "bride"
 aliases: []
+hide:
+  - toc
 ---
 
 # Something Old, Something New

@@ -65,6 +65,8 @@ keywords:
 aliases:
   - "The Internal Symphony (Enhanced)"
   - "Internal Symphony"
+hide:
+  - toc
 ---
 
 # The Inner Council

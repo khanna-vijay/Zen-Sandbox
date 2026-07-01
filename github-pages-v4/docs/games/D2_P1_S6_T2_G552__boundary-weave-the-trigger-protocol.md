@@ -57,6 +57,8 @@ keywords:
 aliases:
   - "The Trigger Protocol"
   - "Boundary Weave"
+hide:
+  - toc
 ---
 
 # The Trigger Protocol

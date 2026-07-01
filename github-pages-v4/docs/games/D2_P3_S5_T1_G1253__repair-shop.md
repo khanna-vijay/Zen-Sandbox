@@ -55,6 +55,8 @@ keywords:
   - "veterinarian"
 aliases:
   - "Veterinarian Endowment"
+hide:
+  - toc
 ---
 
 # The Fix-It Shop

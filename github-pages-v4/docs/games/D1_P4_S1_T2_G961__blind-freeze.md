@@ -57,6 +57,8 @@ keywords:
   - "tap-ins"
   - "association"
 aliases: []
+hide:
+  - toc
 ---
 
 # Blind Freeze

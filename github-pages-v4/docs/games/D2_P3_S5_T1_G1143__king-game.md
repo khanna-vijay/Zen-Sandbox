@@ -56,6 +56,8 @@ keywords:
   - "warm-up"
 aliases:
   - "Queen Game"
+hide:
+  - toc
 ---
 
 # The Monarch's Favor

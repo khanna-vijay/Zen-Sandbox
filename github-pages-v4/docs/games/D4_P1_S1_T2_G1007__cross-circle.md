@@ -57,6 +57,8 @@ keywords:
 aliases:
   - "Name Game"
   - "Shriner's Warm-up"
+hide:
+  - toc
 ---
 
 # Circle Crossings

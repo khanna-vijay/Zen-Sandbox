@@ -53,6 +53,8 @@ keywords:
   - "facilitator cue"
   - "freeze game"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Fourth Wall Conductor

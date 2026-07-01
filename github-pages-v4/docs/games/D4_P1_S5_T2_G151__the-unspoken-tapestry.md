@@ -60,6 +60,8 @@ keywords:
   - "weaving"
 aliases:
   - "The Unspoken Tapestry (Refined)"
+hide:
+  - toc
 ---
 
 # The Sonic Loom

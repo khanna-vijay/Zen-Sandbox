@@ -61,6 +61,8 @@ keywords:
   - "heightening"
   - "subversion"
 aliases: []
+hide:
+  - toc
 ---
 
 # Thematic Loom

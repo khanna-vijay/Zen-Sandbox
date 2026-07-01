@@ -55,6 +55,8 @@ keywords:
   - "ensemble"
 aliases:
   - "Human Furniture"
+hide:
+  - toc
 ---
 
 # Living Props

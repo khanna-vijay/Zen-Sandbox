@@ -51,6 +51,8 @@ keywords:
   - "ensemble"
 aliases:
   - "Statues"
+hide:
+  - toc
 ---
 
 # Ensemble Freeze

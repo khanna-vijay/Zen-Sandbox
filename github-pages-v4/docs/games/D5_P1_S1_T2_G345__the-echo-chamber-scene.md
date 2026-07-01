@@ -60,6 +60,8 @@ keywords:
   - "scene work"
 aliases:
   - "Audience Reactions as Scene Suggestions"
+hide:
+  - toc
 ---
 
 # The Echo Chamber

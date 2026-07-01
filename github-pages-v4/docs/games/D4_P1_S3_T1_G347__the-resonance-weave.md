@@ -59,6 +59,8 @@ keywords:
   - "tableau"
 aliases:
   - "The Resonant Tapestry"
+hide:
+  - toc
 ---
 
 # The Essence Weave

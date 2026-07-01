@@ -60,6 +60,8 @@ keywords:
   - "storytelling"
 aliases:
   - "Genre Rollercoaster"
+hide:
+  - toc
 ---
 
 # Stylistic Currents

@@ -1,5 +1,7 @@
 ---
 title: "W06 · Architecting the Arc"
+hide:
+  - toc
 ---
 
 # Week 06 — Architecting the Arc

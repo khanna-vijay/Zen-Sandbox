@@ -61,6 +61,8 @@ keywords:
   - "warm-up"
   - "mind-body"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Spontaneity Chamber

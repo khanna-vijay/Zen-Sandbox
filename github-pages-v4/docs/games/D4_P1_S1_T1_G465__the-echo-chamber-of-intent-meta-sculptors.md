@@ -66,6 +66,8 @@ keywords:
 aliases:
   - "Meta-Sculptors"
   - "Echo Chamber of Intent"
+hide:
+  - toc
 ---
 
 # Subtext Sculptors

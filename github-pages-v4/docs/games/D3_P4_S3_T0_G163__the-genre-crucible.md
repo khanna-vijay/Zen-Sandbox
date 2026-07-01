@@ -53,6 +53,8 @@ keywords:
   - "justification"
   - "stakes"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Genre Crucible

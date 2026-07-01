@@ -61,6 +61,8 @@ keywords:
 aliases:
   - "Foreign Dubbing"
   - "Dubbing"
+hide:
+  - toc
 ---
 
 # Dubbed Dialogue

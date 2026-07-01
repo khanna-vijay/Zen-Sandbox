@@ -69,6 +69,8 @@ keywords:
 aliases:
   - "The Ascendant Architects"
   - "Resonance Weave"
+hide:
+  - toc
 ---
 
 # Status Architects

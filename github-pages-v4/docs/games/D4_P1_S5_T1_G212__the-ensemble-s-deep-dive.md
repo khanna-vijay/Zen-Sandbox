@@ -61,6 +61,8 @@ keywords:
   - "advanced"
 aliases:
   - "Meta-Game Scenework"
+hide:
+  - toc
 ---
 
 # The Conscious Universe

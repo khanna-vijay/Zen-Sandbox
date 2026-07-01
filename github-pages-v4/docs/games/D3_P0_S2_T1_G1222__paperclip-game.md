@@ -56,6 +56,8 @@ keywords:
   - "game engine"
   - "warm-up"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Paperclip Ladder

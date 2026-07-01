@@ -57,6 +57,8 @@ keywords:
   - "continuation"
   - "performance"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Unwritten Novel

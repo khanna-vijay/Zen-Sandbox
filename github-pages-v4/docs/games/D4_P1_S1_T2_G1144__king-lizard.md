@@ -57,6 +57,8 @@ keywords:
   - "energy"
   - "icebreaker"
 aliases: []
+hide:
+  - toc
 ---
 
 # Creature Chorus

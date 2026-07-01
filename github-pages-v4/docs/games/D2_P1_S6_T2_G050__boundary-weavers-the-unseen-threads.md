@@ -54,6 +54,8 @@ keywords:
   - "physical contact"
 aliases:
   - "Boundary Weavers"
+hide:
+  - toc
 ---
 
 # The Unseen Threads

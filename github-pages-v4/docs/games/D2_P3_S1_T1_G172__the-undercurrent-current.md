@@ -66,6 +66,8 @@ keywords:
   - "debrief"
 aliases:
   - "Undercurrent Current"
+hide:
+  - toc
 ---
 
 # Subtextual Currents

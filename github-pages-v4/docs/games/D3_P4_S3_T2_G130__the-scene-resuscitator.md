@@ -59,6 +59,8 @@ keywords:
   - "storytelling"
 aliases:
   - "The Scene Resuscitator: Diagnosing and Injecting Narrative Elements"
+hide:
+  - toc
 ---
 
 # The Scene Resuscitator

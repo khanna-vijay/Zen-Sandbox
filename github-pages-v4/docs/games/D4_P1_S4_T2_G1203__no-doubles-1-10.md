@@ -57,6 +57,8 @@ aliases:
   - "Digits"
   - "Count to 10"
   - "Group Counting"
+hide:
+  - toc
 ---
 
 # Shared Count

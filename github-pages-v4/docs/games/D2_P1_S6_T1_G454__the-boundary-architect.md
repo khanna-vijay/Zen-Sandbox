@@ -52,6 +52,8 @@ keywords:
   - "negotiation"
   - "truth over pandering"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Boundary Architect

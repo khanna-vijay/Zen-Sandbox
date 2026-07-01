@@ -53,6 +53,8 @@ keywords:
   - "coexistence"
   - "base reality"
 aliases: []
+hide:
+  - toc
 ---
 
 # Dual Openings

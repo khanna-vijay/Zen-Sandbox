@@ -57,6 +57,8 @@ keywords:
   - "stage presence"
 aliases:
   - "Contract Weaver"
+hide:
+  - toc
 ---
 
 # The Reality Stitch

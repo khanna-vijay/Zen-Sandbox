@@ -60,6 +60,8 @@ keywords:
   - "first thought"
 aliases:
   - "Rhythmic Impulse"
+hide:
+  - toc
 ---
 
 # Rhythmic Impulse

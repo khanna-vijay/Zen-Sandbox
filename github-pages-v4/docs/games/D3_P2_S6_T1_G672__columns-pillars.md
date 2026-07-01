@@ -55,6 +55,8 @@ keywords:
 aliases:
   - "Columns"
   - "Pillars"
+hide:
+  - toc
 ---
 
 # Pillars

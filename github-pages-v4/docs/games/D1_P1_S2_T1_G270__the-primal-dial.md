@@ -67,6 +67,8 @@ keywords:
   - "spontaneity"
   - "vulnerability"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Primal Dial

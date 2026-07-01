@@ -69,6 +69,8 @@ keywords:
   - "weaving"
 aliases:
   - "The Resonant Tapestry"
+hide:
+  - toc
 ---
 
 # The Organic Tapestry

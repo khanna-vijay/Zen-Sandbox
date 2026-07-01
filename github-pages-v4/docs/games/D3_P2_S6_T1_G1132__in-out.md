@@ -53,6 +53,8 @@ keywords:
   - "listening"
   - "performance"
 aliases: []
+hide:
+  - toc
 ---
 
 # Word-Bound Entrances

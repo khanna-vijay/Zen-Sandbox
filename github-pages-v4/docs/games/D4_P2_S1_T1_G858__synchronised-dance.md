@@ -63,6 +63,8 @@ keywords:
   - "mirroring"
   - "follow the follower"
 aliases: []
+hide:
+  - toc
 ---
 
 # Synchronized Groove

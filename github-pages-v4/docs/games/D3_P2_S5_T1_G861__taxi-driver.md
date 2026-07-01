@@ -56,6 +56,8 @@ keywords:
   - "passenger"
   - "straight man"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Cab Ride

@@ -1,5 +1,7 @@
 ---
 title: "W18 · Competent Showcase"
+hide:
+  - toc
 ---
 
 # Week 18 — Competent Showcase

@@ -55,6 +55,8 @@ keywords:
   - "final beat"
 aliases:
   - "The Final Beat: Crafting Satisfying Scene Endings"
+hide:
+  - toc
 ---
 
 # The Final Beat

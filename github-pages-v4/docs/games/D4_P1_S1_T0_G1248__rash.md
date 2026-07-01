@@ -49,6 +49,8 @@ keywords:
   - "social deduction"
   - "group mind"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Affliction

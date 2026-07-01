@@ -57,6 +57,8 @@ keywords:
   - "song"
 aliases:
   - "Improvised Musical"
+hide:
+  - toc
 ---
 
 # The Classic Musical Structure

@@ -56,6 +56,8 @@ keywords:
   - "environment"
   - "world-building"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Memory Map

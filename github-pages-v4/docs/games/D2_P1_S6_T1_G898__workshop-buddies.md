@@ -55,6 +55,8 @@ keywords:
   - "ritual"
 aliases:
   - "Compliment Buddies"
+hide:
+  - toc
 ---
 
 # Peer Check-In Allies

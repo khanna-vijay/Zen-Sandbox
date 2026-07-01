@@ -60,6 +60,8 @@ keywords:
   - "callbacks"
 aliases:
   - "Collaborative Thematic Tapestry Weaving"
+hide:
+  - toc
 ---
 
 # The Loom Room

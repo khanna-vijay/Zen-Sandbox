@@ -1,5 +1,7 @@
 ---
 title: Harold
+hide:
+  - toc
 ---
 
 # 🎯 Harold

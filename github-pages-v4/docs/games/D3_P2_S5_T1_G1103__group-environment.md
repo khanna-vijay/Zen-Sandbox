@@ -55,6 +55,8 @@ keywords:
   - "base reality"
   - "where"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Shared Room

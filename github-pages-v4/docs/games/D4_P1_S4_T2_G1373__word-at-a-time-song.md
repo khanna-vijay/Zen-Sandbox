@@ -56,6 +56,8 @@ keywords:
 aliases:
   - "Word-at-a-Time Song"
   - "One Word Song"
+hide:
+  - toc
 ---
 
 # One-Word Song

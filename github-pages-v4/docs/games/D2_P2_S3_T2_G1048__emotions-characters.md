@@ -52,6 +52,8 @@ keywords:
   - "connection"
   - "recall"
 aliases: []
+hide:
+  - toc
 ---
 
 # Silent Resonance Pairs

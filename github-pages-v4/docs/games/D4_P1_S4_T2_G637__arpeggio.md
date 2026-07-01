@@ -54,6 +54,8 @@ keywords:
   - "ear training"
   - "rhythm"
 aliases: []
+hide:
+  - toc
 ---
 
 # Vocal Arpeggio

@@ -52,6 +52,8 @@ keywords:
   - "observation"
   - "stranger"
 aliases: []
+hide:
+  - toc
 ---
 
 # Embodied Portrait

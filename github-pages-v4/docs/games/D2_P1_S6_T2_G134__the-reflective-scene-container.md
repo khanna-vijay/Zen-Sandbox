@@ -56,6 +56,8 @@ keywords:
 aliases:
   - "Pause & Process"
   - "Soft Check-ins"
+hide:
+  - toc
 ---
 
 # The Mindful Scene Container

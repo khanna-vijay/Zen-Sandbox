@@ -60,6 +60,8 @@ keywords:
   - "negotiation"
 aliases:
   - "The Boundary Bazaar"
+hide:
+  - toc
 ---
 
 # The Boundary Bazaar

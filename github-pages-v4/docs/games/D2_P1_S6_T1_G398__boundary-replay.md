@@ -61,6 +61,8 @@ keywords:
   - "truth over pandering"
 aliases:
   - "Boundary Replay: Role Swapping for Empathy and Boundary Navigation"
+hide:
+  - toc
 ---
 
 # Boundary Swap

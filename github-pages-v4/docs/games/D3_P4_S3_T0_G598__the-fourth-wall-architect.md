@@ -54,6 +54,8 @@ keywords:
   - "subtext"
 aliases:
   - "Architect's Aside"
+hide:
+  - toc
 ---
 
 # The Fourth Wall Architect

@@ -63,6 +63,8 @@ keywords:
   - "cheating out"
   - "audience energy"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Fourth Wall Dialectic

@@ -60,6 +60,8 @@ keywords:
   - "cut call"
 aliases:
   - "Boundary Bridge Builders: A Game for Explicit Consent and Boundary Negotiation in Improv"
+hide:
+  - toc
 ---
 
 # Boundary Bridges

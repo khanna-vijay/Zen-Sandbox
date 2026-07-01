@@ -56,6 +56,8 @@ keywords:
   - "vocal control"
 aliases:
   - "Slow Motion Tag"
+hide:
+  - toc
 ---
 
 # Slow-Motion Tag

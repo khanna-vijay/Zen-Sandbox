@@ -63,6 +63,8 @@ keywords:
 aliases:
   - "The Shifting Dial"
   - "Emotional Dial Scene"
+hide:
+  - toc
 ---
 
 # The Triple-Channel Dial

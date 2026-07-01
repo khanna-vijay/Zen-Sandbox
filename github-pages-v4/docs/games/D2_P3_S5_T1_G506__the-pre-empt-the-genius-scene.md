@@ -57,6 +57,8 @@ keywords:
   - "trust"
 aliases:
   - "Pre-Empt the Genius"
+hide:
+  - toc
 ---
 
 # Platforming the Partner

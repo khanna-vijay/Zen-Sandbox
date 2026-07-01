@@ -44,6 +44,8 @@ keywords:
   - "sensory awareness"
   - "warm-up"
 aliases: []
+hide:
+  - toc
 ---
 
 # What Has Changed

@@ -56,6 +56,8 @@ keywords:
   - "focus"
   - "multi-tasking"
 aliases: []
+hide:
+  - toc
 ---
 
 # Knife, Baby, Angry Cat

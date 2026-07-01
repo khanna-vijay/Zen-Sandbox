@@ -63,6 +63,8 @@ keywords:
   - "thread tracking"
 aliases:
   - "Web Weaver"
+hide:
+  - toc
 ---
 
 # The Relationship Web

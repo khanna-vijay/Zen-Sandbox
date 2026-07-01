@@ -1,5 +1,7 @@
 ---
 title: Follow the Follower
+hide:
+  - toc
 ---
 
 # 💎 Follow the Follower

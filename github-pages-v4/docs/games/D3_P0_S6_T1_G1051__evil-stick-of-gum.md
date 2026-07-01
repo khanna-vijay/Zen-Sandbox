@@ -56,6 +56,8 @@ keywords:
   - "comedy"
 aliases:
   - "Little Voice variation"
+hide:
+  - toc
 ---
 
 # The Mischievous Mouthpiece

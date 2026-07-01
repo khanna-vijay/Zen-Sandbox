@@ -59,6 +59,8 @@ keywords:
   - "movement"
 aliases:
   - "Resonance Weaver"
+hide:
+  - toc
 ---
 
 # The Ambient Web

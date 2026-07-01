@@ -50,6 +50,8 @@ keywords:
   - "line game"
   - "suggestion"
 aliases: []
+hide:
+  - toc
 ---
 
 # Rapid Fire Solo

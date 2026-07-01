@@ -58,6 +58,8 @@ keywords:
   - "proximity"
 aliases:
   - "Resonance Chamber"
+hide:
+  - toc
 ---
 
 # The Attunement Chamber

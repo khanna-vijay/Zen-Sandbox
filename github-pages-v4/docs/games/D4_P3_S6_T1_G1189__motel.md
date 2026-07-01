@@ -59,6 +59,8 @@ keywords:
   - "narrative"
   - "structure"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Motel Room

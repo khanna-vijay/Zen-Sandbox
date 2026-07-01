@@ -65,6 +65,8 @@ aliases:
   - "The Arc Alchemist"
   - "The Impeccable Setup & Justification"
   - "Narrative Ignition: Push the Pattern"
+hide:
+  - toc
 ---
 
 # The Arc Alchemist

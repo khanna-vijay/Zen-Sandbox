@@ -55,6 +55,8 @@ keywords:
   - "shared history"
   - "cooperation"
 aliases: []
+hide:
+  - toc
 ---
 
 # Shared Anecdotes

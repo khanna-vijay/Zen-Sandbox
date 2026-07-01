@@ -56,6 +56,8 @@ keywords:
   - "fail joyfully"
 aliases:
   - "Beastie Rap"
+hide:
+  - toc
 ---
 
 # Unison Cypher

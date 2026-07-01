@@ -58,6 +58,8 @@ keywords:
   - "status"
 aliases:
   - "Subtext Scenes"
+hide:
+  - toc
 ---
 
 # Undercurrents

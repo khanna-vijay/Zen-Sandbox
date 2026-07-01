@@ -62,6 +62,8 @@ keywords:
   - "energy calibration"
 aliases:
   - "Fourth Wall Flux"
+hide:
+  - toc
 ---
 
 # The Fourth Wall Conductor

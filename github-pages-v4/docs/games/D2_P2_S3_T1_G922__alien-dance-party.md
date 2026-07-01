@@ -53,6 +53,8 @@ keywords:
   - "energy"
   - "non-verbal"
 aliases: []
+hide:
+  - toc
 ---
 
 # Cosmic Groove Relay

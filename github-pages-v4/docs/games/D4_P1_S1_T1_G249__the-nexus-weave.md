@@ -69,6 +69,8 @@ keywords:
   - "fluid relationships"
   - "tableau"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Living Tapestry

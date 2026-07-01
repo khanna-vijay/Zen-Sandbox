@@ -57,6 +57,8 @@ keywords:
   - "space work"
   - "mime"
 aliases: []
+hide:
+  - toc
 ---
 
 # Thresholds

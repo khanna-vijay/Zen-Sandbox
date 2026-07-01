@@ -50,6 +50,8 @@ keywords:
   - "icebreaker"
   - "warm-up"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Consent Connection

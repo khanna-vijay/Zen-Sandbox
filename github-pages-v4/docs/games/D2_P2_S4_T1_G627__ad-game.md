@@ -55,6 +55,8 @@ keywords:
   - "enthusiasm"
   - "commitment"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Pitch Meeting

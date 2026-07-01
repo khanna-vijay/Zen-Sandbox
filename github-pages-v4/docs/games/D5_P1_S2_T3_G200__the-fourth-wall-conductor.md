@@ -58,6 +58,8 @@ keywords:
   - "secret directive"
 aliases:
   - "Fourth Wall Conductor"
+hide:
+  - toc
 ---
 
 # The Fourth Wall Conductor

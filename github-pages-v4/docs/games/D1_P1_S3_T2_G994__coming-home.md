@@ -52,6 +52,8 @@ keywords:
   - "space work"
   - "sensory"
 aliases: []
+hide:
+  - toc
 ---
 
 # Coming Home

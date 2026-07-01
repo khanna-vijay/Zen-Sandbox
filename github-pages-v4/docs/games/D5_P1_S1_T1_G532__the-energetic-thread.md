@@ -61,6 +61,8 @@ keywords:
   - "listening"
 aliases:
   - "The Fourth Wall Weave"
+hide:
+  - toc
 ---
 
 # The Invisible Tether

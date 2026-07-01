@@ -50,6 +50,8 @@ keywords:
   - "focus"
   - "reaction"
 aliases: []
+hide:
+  - toc
 ---
 
 # Making Faces

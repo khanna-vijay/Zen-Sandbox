@@ -61,6 +61,8 @@ keywords:
   - "listening"
   - "sensory"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Resonance Chamber

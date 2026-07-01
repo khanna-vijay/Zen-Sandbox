@@ -66,6 +66,8 @@ keywords:
   - "crisis"
   - "resolution"
 aliases: []
+hide:
+  - toc
 ---
 
 # Stakes Topography

@@ -59,6 +59,8 @@ keywords:
   - "collaborative"
 aliases:
   - "Reality Weavers: The Algorithmic Stage"
+hide:
+  - toc
 ---
 
 # The Reality Weavers

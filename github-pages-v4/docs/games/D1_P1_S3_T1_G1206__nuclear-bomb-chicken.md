@@ -51,6 +51,8 @@ keywords:
   - "dramatic irony"
   - "truthfulness"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Henhouse Paradox

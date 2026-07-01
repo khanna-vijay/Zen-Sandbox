@@ -49,6 +49,8 @@ keywords:
   - "scene-start"
   - "physicality"
 aliases: []
+hide:
+  - toc
 ---
 
 # Object-First Dialogue

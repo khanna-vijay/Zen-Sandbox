@@ -60,6 +60,8 @@ keywords:
   - "straight story"
 aliases:
   - "Song Style Galore"
+hide:
+  - toc
 ---
 
 # Style-Shift Musical

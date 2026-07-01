@@ -54,6 +54,8 @@ keywords:
   - "yes-and"
   - "offers"
 aliases: []
+hide:
+  - toc
 ---
 
 # Word-at-a-Time Letter

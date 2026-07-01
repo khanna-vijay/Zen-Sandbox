@@ -57,6 +57,8 @@ keywords:
 aliases:
   - "Last Line First Line"
   - "Reiterate/Repeat"
+hide:
+  - toc
 ---
 
 # Verbatim Echo

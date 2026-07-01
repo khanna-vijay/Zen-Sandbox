@@ -61,6 +61,8 @@ keywords:
   - "stage presence"
   - "solo exercise"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Fourth Wall Conductor

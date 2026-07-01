@@ -58,6 +58,8 @@ keywords:
   - "invisible architect"
 aliases:
   - "The Invisible Architect"
+hide:
+  - toc
 ---
 
 # The Invisible Blueprint

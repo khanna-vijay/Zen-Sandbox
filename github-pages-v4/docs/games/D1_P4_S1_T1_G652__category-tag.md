@@ -53,6 +53,8 @@ keywords:
   - "chase"
 aliases:
   - "Category It"
+hide:
+  - toc
 ---
 
 # Category Chase

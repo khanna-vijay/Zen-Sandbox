@@ -57,6 +57,8 @@ keywords:
 aliases:
   - "Word-at-a-Time Story"
   - "One Word at a Time"
+hide:
+  - toc
 ---
 
 # Word-by-Word Story

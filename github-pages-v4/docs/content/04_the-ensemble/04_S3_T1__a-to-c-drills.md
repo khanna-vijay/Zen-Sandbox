@@ -1,5 +1,7 @@
 ---
 title: A-to-C drills
+hide:
+  - toc
 ---
 
 # 🎯 A-to-C drills

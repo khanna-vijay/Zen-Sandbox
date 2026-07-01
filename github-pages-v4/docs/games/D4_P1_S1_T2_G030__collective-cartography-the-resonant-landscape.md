@@ -66,6 +66,8 @@ keywords:
   - "physical transformation"
   - "abstract to concrete"
 aliases: []
+hide:
+  - toc
 ---
 
 # Resonant Landscapes

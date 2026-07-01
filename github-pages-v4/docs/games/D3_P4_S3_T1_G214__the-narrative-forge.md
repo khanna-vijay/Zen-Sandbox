@@ -57,6 +57,8 @@ keywords:
   - "external editor"
   - "impulses"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Narrative Architect

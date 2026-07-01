@@ -58,6 +58,8 @@ keywords:
   - "cheating out"
   - "meta-commentary"
 aliases: []
+hide:
+  - toc
 ---
 
 # Fourth Wall Flux

@@ -55,6 +55,8 @@ keywords:
   - "safety"
   - "roleplay"
 aliases: []
+hide:
+  - toc
 ---
 
 # Navigating the Grey

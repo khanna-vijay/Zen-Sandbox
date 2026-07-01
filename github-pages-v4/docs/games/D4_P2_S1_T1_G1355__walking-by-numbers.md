@@ -53,6 +53,8 @@ keywords:
   - "awareness"
   - "warm-up"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Walking Number

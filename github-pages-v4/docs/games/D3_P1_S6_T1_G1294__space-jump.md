@@ -62,6 +62,8 @@ keywords:
 aliases:
   - "Growing and Shrinking Machine"
   - "Freeze Tag (Nested)"
+hide:
+  - toc
 ---
 
 # Space Jump

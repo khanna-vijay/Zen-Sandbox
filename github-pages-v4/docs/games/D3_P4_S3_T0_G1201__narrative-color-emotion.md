@@ -61,6 +61,8 @@ keywords:
 aliases:
   - "ACE"
   - "Action, Color, Emotion"
+hide:
+  - toc
 ---
 
 # Action, Color, Emotion

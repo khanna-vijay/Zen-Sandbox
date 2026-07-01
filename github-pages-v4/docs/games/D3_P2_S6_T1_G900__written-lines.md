@@ -57,6 +57,8 @@ keywords:
 aliases:
   - "Lines in Pocket"
   - "Paper Lines"
+hide:
+  - toc
 ---
 
 # Pocket Lines

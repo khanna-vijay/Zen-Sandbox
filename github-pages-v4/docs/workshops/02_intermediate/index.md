@@ -1,5 +1,7 @@
 ---
 title: "Choices Under Pressure — The Competent Improviser"
+hide:
+  - toc
 ---
 
 # Choices Under Pressure — The Competent Improviser

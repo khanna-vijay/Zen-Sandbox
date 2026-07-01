@@ -60,6 +60,8 @@ keywords:
   - "attunement"
 aliases:
   - "The Alchemist's Subtext"
+hide:
+  - toc
 ---
 
 # Subtextual Alchemy

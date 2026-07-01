@@ -60,6 +60,8 @@ keywords:
   - "meta-comedy"
 aliases:
   - "The Elastic Wall Improv Game"
+hide:
+  - toc
 ---
 
 # The Elastic Membrane

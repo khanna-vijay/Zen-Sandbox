@@ -55,6 +55,8 @@ keywords:
 aliases:
   - "Emotional Freeze"
   - "Emotion Freeze"
+hide:
+  - toc
 ---
 
 # Continuing Emotions

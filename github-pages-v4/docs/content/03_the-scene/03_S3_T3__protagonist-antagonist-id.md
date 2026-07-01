@@ -1,5 +1,7 @@
 ---
 title: Protagonist/Antagonist ID
+hide:
+  - toc
 ---
 
 # 🎯 Protagonist/Antagonist ID

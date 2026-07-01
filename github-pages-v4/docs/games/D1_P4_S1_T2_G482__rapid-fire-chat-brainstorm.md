@@ -58,6 +58,8 @@ keywords:
 aliases:
   - "Zoom Chat Improv Suggestion Generator"
   - "Chat Tsunami"
+hide:
+  - toc
 ---
 
 # Rapid Chat Roulette

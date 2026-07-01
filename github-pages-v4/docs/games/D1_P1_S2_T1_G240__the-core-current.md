@@ -59,6 +59,8 @@ keywords:
   - "spontaneity"
 aliases:
   - "The Core Current: Embodied Impulse and Intensity Control"
+hide:
+  - toc
 ---
 
 # The Core Current

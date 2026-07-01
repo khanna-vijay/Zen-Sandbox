@@ -59,6 +59,8 @@ keywords:
   - "truth over pandering"
 aliases:
   - "The Consent Crucible: Navigating Secret Boundaries Under Pressure"
+hide:
+  - toc
 ---
 
 # The Boundary Crucible

@@ -69,6 +69,8 @@ keywords:
   - "connection"
 aliases:
   - "The Symbiotic Pulse: Cultivating Non-Verbal Interpersonal Connection through Secret Relational Agendas"
+hide:
+  - toc
 ---
 
 # The Symbiotic Pulse

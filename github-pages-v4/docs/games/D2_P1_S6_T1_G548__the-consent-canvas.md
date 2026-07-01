@@ -56,6 +56,8 @@ keywords:
   - "truth over pandering"
   - "boundary navigation"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Consent Canvas

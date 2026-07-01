@@ -55,6 +55,8 @@ keywords:
   - "keith johnstone"
 aliases:
   - "Status Swap"
+hide:
+  - toc
 ---
 
 # Status Pendulum

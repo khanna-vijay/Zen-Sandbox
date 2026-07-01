@@ -58,6 +58,8 @@ keywords:
   - "storytelling"
   - "side-coaching"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Implication Engine

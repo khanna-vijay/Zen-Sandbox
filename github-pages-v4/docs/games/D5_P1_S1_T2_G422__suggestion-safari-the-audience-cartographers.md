@@ -63,6 +63,8 @@ keywords:
   - "meta-commentary"
 aliases:
   - "The Audience Cartographers"
+hide:
+  - toc
 ---
 
 # Audience Cartographers

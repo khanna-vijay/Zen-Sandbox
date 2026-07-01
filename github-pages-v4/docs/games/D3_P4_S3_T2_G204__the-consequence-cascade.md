@@ -59,6 +59,8 @@ keywords:
   - "stakes"
   - "platform and tilt"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Consequence Cascade

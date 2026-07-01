@@ -57,6 +57,8 @@ keywords:
   - "physicality"
   - "vocal craft"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Alchemy Cascade

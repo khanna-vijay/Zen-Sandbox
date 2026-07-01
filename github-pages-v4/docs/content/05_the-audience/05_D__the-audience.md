@@ -1,5 +1,7 @@
 ---
 title: The Audience
+hide:
+  - toc
 ---
 
 # 🎭 The Audience

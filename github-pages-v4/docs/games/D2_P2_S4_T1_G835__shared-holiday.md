@@ -55,6 +55,8 @@ keywords:
   - "shared history"
   - "warm-up"
 aliases: []
+hide:
+  - toc
 ---
 
 # Shared Adventure

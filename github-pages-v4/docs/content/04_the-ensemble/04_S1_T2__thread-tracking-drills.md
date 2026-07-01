@@ -1,5 +1,7 @@
 ---
 title: Thread-tracking drills
+hide:
+  - toc
 ---
 
 # 🎯 Thread-tracking drills

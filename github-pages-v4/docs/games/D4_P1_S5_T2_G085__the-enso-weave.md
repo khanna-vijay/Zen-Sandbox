@@ -57,6 +57,8 @@ keywords:
   - "peripheral awareness"
   - "weaving"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Resonance Weave

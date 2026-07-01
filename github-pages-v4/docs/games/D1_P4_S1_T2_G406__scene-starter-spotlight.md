@@ -59,6 +59,8 @@ keywords:
 aliases:
   - "Scene Starter Spotlight: The Instant Jump-In Challenge!"
   - "MetaMorphosis: The Augmented Reality Relic"
+hide:
+  - toc
 ---
 
 # First-Thought Flash

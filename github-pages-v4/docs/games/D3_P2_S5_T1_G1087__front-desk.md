@@ -55,6 +55,8 @@ keywords:
 aliases:
   - "Hotel Lobby"
   - "Group Environment"
+hide:
+  - toc
 ---
 
 # The Grand Lobby

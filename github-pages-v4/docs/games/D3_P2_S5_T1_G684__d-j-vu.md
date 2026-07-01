@@ -60,6 +60,8 @@ keywords:
   - "justification"
 aliases:
   - "Deja Vu"
+hide:
+  - toc
 ---
 
 # Déjà Vu

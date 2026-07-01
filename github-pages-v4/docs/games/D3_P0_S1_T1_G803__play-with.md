@@ -54,6 +54,8 @@ keywords:
   - "pattern"
   - "active listening"
 aliases: []
+hide:
+  - toc
 ---
 
 # Play With That

@@ -61,6 +61,8 @@ keywords:
   - "redirection"
   - "endowment"
 aliases: []
+hide:
+  - toc
 ---
 
 # Family Dinner

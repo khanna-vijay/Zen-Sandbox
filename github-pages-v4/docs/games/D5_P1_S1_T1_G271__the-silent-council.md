@@ -59,6 +59,8 @@ keywords:
   - "cheating out"
   - "direct address"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Silent Council

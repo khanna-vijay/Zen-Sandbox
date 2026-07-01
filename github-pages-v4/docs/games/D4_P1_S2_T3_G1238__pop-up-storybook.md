@@ -58,6 +58,8 @@ keywords:
   - "editing"
   - "narrative"
 aliases: []
+hide:
+  - toc
 ---
 
 # Pop-Up Storybook

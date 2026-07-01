@@ -48,6 +48,8 @@ keywords:
   - "meisner"
   - "focus"
 aliases: []
+hide:
+  - toc
 ---
 
 # Echo Dialogue

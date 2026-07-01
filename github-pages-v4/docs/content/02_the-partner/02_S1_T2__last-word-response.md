@@ -1,5 +1,7 @@
 ---
 title: Last Word Response
+hide:
+  - toc
 ---
 
 # 🎯 Last Word Response

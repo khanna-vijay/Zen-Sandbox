@@ -57,6 +57,8 @@ keywords:
   - "facilitator"
   - "virtual team"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Rename Relay

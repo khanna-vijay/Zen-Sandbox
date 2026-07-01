@@ -58,6 +58,8 @@ keywords:
   - "line-up"
   - "warm-up"
 aliases: []
+hide:
+  - toc
 ---
 
 # Word Thief

@@ -55,6 +55,8 @@ keywords:
 aliases:
   - "185"
   - "185 Blank Walk Into a Bar"
+hide:
+  - toc
 ---
 
 # One Eighty-Five

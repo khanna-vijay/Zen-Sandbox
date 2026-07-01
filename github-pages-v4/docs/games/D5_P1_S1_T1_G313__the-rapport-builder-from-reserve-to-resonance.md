@@ -55,6 +55,8 @@ keywords:
   - "stage presence"
   - "audience proxy"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Resonance Calibration

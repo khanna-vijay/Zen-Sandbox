@@ -1,5 +1,7 @@
 ---
 title: "W13 · The Harold"
+hide:
+  - toc
 ---
 
 # Week 13 — The Harold

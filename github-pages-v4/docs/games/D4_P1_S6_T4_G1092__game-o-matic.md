@@ -59,6 +59,8 @@ keywords:
   - "spontaneity"
 aliases:
   - "Invent-Your-Own-Game"
+hide:
+  - toc
 ---
 
 # Instant Game Generator

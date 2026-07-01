@@ -61,6 +61,8 @@ keywords:
   - "layering"
   - "non-verbal"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Resonance Forge

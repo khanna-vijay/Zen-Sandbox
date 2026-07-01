@@ -69,6 +69,8 @@ keywords:
   - "ensemble"
   - "intrapersonal"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Impulse Tapestry

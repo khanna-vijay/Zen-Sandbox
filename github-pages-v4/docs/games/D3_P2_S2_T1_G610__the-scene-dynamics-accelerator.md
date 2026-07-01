@@ -59,6 +59,8 @@ keywords:
   - "justification"
   - "scene dynamics"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Heightening Accelerator

@@ -1,5 +1,7 @@
 ---
 title: "W08 · Engine-Switching Mid-Scene"
+hide:
+  - toc
 ---
 
 # Week 08 — Engine-Switching Mid-Scene

@@ -62,6 +62,8 @@ keywords:
   - "spotlight"
   - "fast-paced"
 aliases: []
+hide:
+  - toc
 ---
 
 # Cinematic Cut

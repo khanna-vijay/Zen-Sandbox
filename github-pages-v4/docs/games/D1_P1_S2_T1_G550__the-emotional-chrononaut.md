@@ -59,6 +59,8 @@ keywords:
   - "vocal craft"
   - "character centers"
 aliases: []
+hide:
+  - toc
 ---
 
 # Emotional Dial Jump

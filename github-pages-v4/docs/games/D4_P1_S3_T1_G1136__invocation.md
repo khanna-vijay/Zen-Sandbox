@@ -62,6 +62,8 @@ keywords:
   - "praise"
   - "character generation"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Invocation

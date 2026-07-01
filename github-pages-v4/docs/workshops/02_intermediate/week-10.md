@@ -1,5 +1,7 @@
 ---
 title: "W10 · What's at Stake"
+hide:
+  - toc
 ---
 
 # Week 10 — What's at Stake

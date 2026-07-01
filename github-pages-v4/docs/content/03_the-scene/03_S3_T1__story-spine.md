@@ -1,5 +1,7 @@
 ---
 title: Story Spine
+hide:
+  - toc
 ---
 
 # 🎯 Story Spine

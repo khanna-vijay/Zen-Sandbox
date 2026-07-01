@@ -65,6 +65,8 @@ keywords:
   - "sensory canvas"
 aliases:
   - "Resonance Canvas"
+hide:
+  - toc
 ---
 
 # The Resonance Canvas

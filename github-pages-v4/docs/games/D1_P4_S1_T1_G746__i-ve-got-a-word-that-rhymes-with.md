@@ -52,6 +52,8 @@ keywords:
   - "clues"
   - "spontaneity"
 aliases: []
+hide:
+  - toc
 ---
 
 # Rhyme Association Riddle

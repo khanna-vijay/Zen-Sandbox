@@ -65,6 +65,8 @@ keywords:
   - "endowment"
 aliases:
   - "Teleprompter Tapestry"
+hide:
+  - toc
 ---
 
 # The Teleprompter Tapestry

@@ -62,6 +62,8 @@ keywords:
 aliases:
   - "Resonance Cultivation"
   - "The Audience Altar"
+hide:
+  - toc
 ---
 
 # The Resonance Dial

@@ -57,6 +57,8 @@ keywords:
   - "escalation"
 aliases:
   - "Stratum Shift"
+hide:
+  - toc
 ---
 
 # The Stratum Shift

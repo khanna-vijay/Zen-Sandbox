@@ -59,6 +59,8 @@ keywords:
 aliases:
   - "Three Headed Expert"
   - "Three-Headed Expert"
+hide:
+  - toc
 ---
 
 # The Three-Headed Expert

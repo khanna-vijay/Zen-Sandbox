@@ -61,6 +61,8 @@ keywords:
   - "check-in"
   - "truth over pandering"
 aliases: []
+hide:
+  - toc
 ---
 
 # Consent Currency

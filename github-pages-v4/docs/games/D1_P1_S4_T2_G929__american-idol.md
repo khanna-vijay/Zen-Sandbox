@@ -58,6 +58,8 @@ keywords:
 aliases:
   - "Idol"
   - "Pop Idol"
+hide:
+  - toc
 ---
 
 # The Ultimate Audition

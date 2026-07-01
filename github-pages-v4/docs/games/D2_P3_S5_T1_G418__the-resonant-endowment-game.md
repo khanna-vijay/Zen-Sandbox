@@ -60,6 +60,8 @@ keywords:
   - "non-verbal"
 aliases:
   - "Resonant Endowment"
+hide:
+  - toc
 ---
 
 # Resonant Endowment

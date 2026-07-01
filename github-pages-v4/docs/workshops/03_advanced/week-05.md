@@ -1,5 +1,7 @@
 ---
 title: "W05 · Find It, Play It, Break It"
+hide:
+  - toc
 ---
 
 # Week 05 — Find It, Play It, Break It

@@ -66,6 +66,8 @@ keywords:
   - "projection"
 aliases:
   - "Fourth Wall Fluidity Lab"
+hide:
+  - toc
 ---
 
 # The Fourth Wall Dial

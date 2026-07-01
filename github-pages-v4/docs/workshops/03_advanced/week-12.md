@@ -1,5 +1,7 @@
 ---
 title: "W12 · Conducting Pace"
+hide:
+  - toc
 ---
 
 # Week 12 — Conducting Pace

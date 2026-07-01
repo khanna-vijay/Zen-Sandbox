@@ -61,6 +61,8 @@ keywords:
   - "weather system"
   - "echoes"
 aliases: []
+hide:
+  - toc
 ---
 
 # Internal Weather System

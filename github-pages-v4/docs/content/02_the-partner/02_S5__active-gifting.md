@@ -1,5 +1,7 @@
 ---
 title: Active Gifting
+hide:
+  - toc
 ---
 
 # 🧠 Active Gifting

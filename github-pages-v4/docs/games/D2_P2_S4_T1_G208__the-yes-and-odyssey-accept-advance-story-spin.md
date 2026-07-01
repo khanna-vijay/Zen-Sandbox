@@ -60,6 +60,8 @@ keywords:
 aliases:
   - "Accept & Advance Story Spin"
   - "The Yes, And Odyssey"
+hide:
+  - toc
 ---
 
 # Accept and Advance Relay

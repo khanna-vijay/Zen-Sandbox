@@ -55,6 +55,8 @@ keywords:
 aliases:
   - "Scene Telephone"
   - "Repeater"
+hide:
+  - toc
 ---
 
 # Scene Replication

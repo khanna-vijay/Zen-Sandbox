@@ -1,5 +1,7 @@
 ---
 title: "W18 · Capstone Performance"
+hide:
+  - toc
 ---
 
 # Week 18 — Capstone Performance

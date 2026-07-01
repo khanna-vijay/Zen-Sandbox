@@ -59,6 +59,8 @@ keywords:
   - "unfiltered spontaneity"
   - "echo resonance"
 aliases: []
+hide:
+  - toc
 ---
 
 # Resonant States

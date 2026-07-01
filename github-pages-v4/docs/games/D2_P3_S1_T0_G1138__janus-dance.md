@@ -57,6 +57,8 @@ keywords:
   - "connection"
 aliases:
   - "Back to Back"
+hide:
+  - toc
 ---
 
 # The Connected Waltz

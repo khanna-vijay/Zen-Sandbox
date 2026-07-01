@@ -59,6 +59,8 @@ keywords:
   - "sculpture"
 aliases:
   - "Sculptors"
+hide:
+  - toc
 ---
 
 # The Living Clay Mirror

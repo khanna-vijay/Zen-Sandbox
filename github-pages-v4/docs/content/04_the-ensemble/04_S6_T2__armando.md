@@ -1,5 +1,7 @@
 ---
 title: Armando
+hide:
+  - toc
 ---
 
 # 🎯 Armando

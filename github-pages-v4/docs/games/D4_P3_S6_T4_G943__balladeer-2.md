@@ -58,6 +58,8 @@ keywords:
 aliases:
   - "Balladeer 2"
   - "The Balladeer (Long Form)"
+hide:
+  - toc
 ---
 
 # The Balladeer's Chronicle

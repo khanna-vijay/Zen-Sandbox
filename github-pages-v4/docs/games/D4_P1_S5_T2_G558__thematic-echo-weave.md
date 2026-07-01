@@ -62,6 +62,8 @@ keywords:
   - "thread tracking"
 aliases:
   - "Echo Weave"
+hide:
+  - toc
 ---
 
 # Thematic Resonance Weave

@@ -53,6 +53,8 @@ keywords:
 aliases:
   - "Murder Wink"
   - "Wink Death"
+hide:
+  - toc
 ---
 
 # Wink Elimination

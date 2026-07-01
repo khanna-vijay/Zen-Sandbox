@@ -67,6 +67,8 @@ keywords:
   - "sensory"
   - "scene building"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Emergent Landscape

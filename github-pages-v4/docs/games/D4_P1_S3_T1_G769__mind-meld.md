@@ -56,6 +56,8 @@ keywords:
 aliases:
   - "Convergence"
   - "Word Association Mind Meld"
+hide:
+  - toc
 ---
 
 # Mind Meld

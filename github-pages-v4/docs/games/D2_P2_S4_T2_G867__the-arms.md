@@ -60,6 +60,8 @@ keywords:
 aliases:
   - "Helping Hands"
   - "Moving Hands"
+hide:
+  - toc
 ---
 
 # Helping Hands

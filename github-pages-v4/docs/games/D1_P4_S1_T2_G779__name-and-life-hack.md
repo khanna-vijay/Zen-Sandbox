@@ -50,6 +50,8 @@ keywords:
   - "circle game"
   - "introduction"
 aliases: []
+hide:
+  - toc
 ---
 
 # Spontaneous Life Hacks

@@ -62,6 +62,8 @@ keywords:
   - "cliche"
   - "survival"
 aliases: []
+hide:
+  - toc
 ---
 
 # Disaster Movie

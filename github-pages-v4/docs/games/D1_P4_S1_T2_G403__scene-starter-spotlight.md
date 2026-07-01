@@ -56,6 +56,8 @@ keywords:
 aliases:
   - "The Relic Relay: A Screen-to-Screen Saga"
   - "The Instant Jump-In Challenge"
+hide:
+  - toc
 ---
 
 # The Spontaneity Spotlight

@@ -57,6 +57,8 @@ keywords:
   - "group game"
   - "scene replay"
 aliases: []
+hide:
+  - toc
 ---
 
 # Narrative Echoes

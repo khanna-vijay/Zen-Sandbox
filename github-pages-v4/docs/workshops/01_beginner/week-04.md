@@ -1,5 +1,7 @@
 ---
 title: "W04 · Your Body Speaks"
+hide:
+  - toc
 ---
 
 # Week 04 — Your Body Speaks

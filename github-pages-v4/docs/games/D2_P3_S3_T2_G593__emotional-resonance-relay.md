@@ -66,6 +66,8 @@ keywords:
   - "relay"
   - "meisner"
 aliases: []
+hide:
+  - toc
 ---
 
 # Emotional Resonance Relay

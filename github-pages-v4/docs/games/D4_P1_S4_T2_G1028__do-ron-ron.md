@@ -55,6 +55,8 @@ keywords:
   - "rhythm"
   - "shortform"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Run-Run Song

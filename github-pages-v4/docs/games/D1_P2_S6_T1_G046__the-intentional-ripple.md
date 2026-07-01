@@ -60,6 +60,8 @@ keywords:
   - "justification"
   - "commitment"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Intentional Ripple

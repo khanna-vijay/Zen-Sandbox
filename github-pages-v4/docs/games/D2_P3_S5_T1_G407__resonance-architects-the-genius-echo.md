@@ -61,6 +61,8 @@ keywords:
   - "partner support"
   - "resonance"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Genius Echo

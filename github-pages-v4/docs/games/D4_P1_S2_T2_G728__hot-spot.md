@@ -52,6 +52,8 @@ keywords:
   - "group mind"
   - "association"
 aliases: []
+hide:
+  - toc
 ---
 
 # Hot Spot

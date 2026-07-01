@@ -57,6 +57,8 @@ keywords:
   - "spontaneity"
 aliases:
   - "Freeze"
+hide:
+  - toc
 ---
 
 # Freeze Tag

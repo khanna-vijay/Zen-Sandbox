@@ -53,6 +53,8 @@ keywords:
   - "cut call"
   - "truth over pandering"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Unfolding Accord

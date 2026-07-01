@@ -55,6 +55,8 @@ keywords:
   - "feedback loop"
 aliases:
   - "Balladeer"
+hide:
+  - toc
 ---
 
 # The Balladeer

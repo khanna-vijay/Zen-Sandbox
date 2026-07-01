@@ -54,6 +54,8 @@ keywords:
   - "boundary beacon"
   - "physical pact"
 aliases: []
+hide:
+  - toc
 ---
 
 # Harmonic Boundaries

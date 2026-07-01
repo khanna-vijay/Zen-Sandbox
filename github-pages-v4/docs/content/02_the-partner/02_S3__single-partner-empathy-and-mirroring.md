@@ -1,5 +1,7 @@
 ---
 title: Single-Partner Empathy & Mirroring
+hide:
+  - toc
 ---
 
 # 🧠 Single-Partner Empathy & Mirroring

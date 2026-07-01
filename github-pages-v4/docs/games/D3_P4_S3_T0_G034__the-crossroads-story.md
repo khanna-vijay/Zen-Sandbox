@@ -60,6 +60,8 @@ keywords:
 aliases:
   - "Crossroads Story"
   - "The Crossroads"
+hide:
+  - toc
 ---
 
 # Crossroads of Choice

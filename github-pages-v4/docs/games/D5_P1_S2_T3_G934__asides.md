@@ -59,6 +59,8 @@ keywords:
 aliases:
   - "Alter Ego"
   - "Consciences"
+hide:
+  - toc
 ---
 
 # Inner Monologue Asides

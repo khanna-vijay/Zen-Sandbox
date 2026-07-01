@@ -50,6 +50,8 @@ keywords:
   - "word association"
   - "fast-paced"
 aliases: []
+hide:
+  - toc
 ---
 
 # Alphabet Vendor

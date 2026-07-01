@@ -60,6 +60,8 @@ keywords:
   - "character-switch"
 aliases:
   - "Sybilization"
+hide:
+  - toc
 ---
 
 # The Solo Ensemble

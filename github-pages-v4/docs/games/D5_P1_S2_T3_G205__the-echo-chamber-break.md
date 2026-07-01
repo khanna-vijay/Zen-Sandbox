@@ -57,6 +57,8 @@ keywords:
   - "energy calibration"
 aliases:
   - "Echo Chamber Break"
+hide:
+  - toc
 ---
 
 # The Echo Meter

@@ -68,6 +68,8 @@ keywords:
 aliases:
   - "The Environmental Storyteller"
   - "Shifting Canvas"
+hide:
+  - toc
 ---
 
 # The Shifting Canvas

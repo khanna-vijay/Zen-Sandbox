@@ -49,6 +49,8 @@ aliases:
   - "Point and Name"
   - "Point and Name Wrongly"
   - "This is Not a..."
+hide:
+  - toc
 ---
 
 # Point and Name

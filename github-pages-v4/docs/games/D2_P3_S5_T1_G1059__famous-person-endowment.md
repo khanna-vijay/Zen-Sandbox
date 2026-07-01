@@ -53,6 +53,8 @@ keywords:
   - "party quirks"
   - "justification"
 aliases: []
+hide:
+  - toc
 ---
 
 # Famous Persona Gifting

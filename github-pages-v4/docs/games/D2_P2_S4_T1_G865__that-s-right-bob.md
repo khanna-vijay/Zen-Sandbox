@@ -57,6 +57,8 @@ keywords:
   - "beginners"
 aliases:
   - "That's Right, Bob!"
+hide:
+  - toc
 ---
 
 # That's Right, Bob

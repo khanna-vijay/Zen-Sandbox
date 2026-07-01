@@ -58,6 +58,8 @@ aliases:
   - "Styles"
   - "Genre Switch"
   - "Movie Styles"
+hide:
+  - toc
 ---
 
 # Style Shift

@@ -66,6 +66,8 @@ keywords:
   - "somatic"
 aliases:
   - "The Emotive Maelstrom"
+hide:
+  - toc
 ---
 
 # The Emotional Maelstrom

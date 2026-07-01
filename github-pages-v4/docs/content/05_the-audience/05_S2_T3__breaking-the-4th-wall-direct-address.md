@@ -1,5 +1,7 @@
 ---
 title: Breaking the 4th Wall / Direct Address
+hide:
+  - toc
 ---
 
 # 🎯 Breaking the 4th Wall / Direct Address

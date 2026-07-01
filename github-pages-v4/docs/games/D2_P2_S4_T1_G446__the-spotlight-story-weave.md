@@ -59,6 +59,8 @@ keywords:
   - "virtual team building"
 aliases:
   - "Spotlight Story Weave"
+hide:
+  - toc
 ---
 
 # Spotlight Story-Weaving

@@ -61,6 +61,8 @@ aliases:
   - "Shared Point of View"
   - "Group POV"
   - "Peas in a Pod"
+hide:
+  - toc
 ---
 
 # Shared Lens

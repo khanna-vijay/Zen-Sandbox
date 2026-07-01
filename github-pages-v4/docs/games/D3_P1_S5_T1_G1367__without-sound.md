@@ -60,6 +60,8 @@ keywords:
 aliases:
   - "Silent Scene"
   - "No Sound"
+hide:
+  - toc
 ---
 
 # Silent C.R.O.W.

@@ -1,5 +1,7 @@
 ---
 title: "W01 · Welcome & the Safety Container"
+hide:
+  - toc
 ---
 
 # Week 01 — Welcome & the Safety Container

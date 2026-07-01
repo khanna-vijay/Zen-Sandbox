@@ -51,6 +51,8 @@ keywords:
   - "group mind"
   - "body movement"
 aliases: []
+hide:
+  - toc
 ---
 
 # Body Letters

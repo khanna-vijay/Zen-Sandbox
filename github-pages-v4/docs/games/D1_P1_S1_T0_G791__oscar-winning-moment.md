@@ -62,6 +62,8 @@ keywords:
   - "endowment"
   - "dramatic"
 aliases: []
+hide:
+  - toc
 ---
 
 # Award-Winning Moments

@@ -59,6 +59,8 @@ keywords:
   - "space work"
 aliases:
   - "Totems"
+hide:
+  - toc
 ---
 
 # Animal Instincts

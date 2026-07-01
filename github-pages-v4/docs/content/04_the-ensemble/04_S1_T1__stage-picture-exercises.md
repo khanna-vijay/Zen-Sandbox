@@ -1,5 +1,7 @@
 ---
 title: Stage-picture exercises
+hide:
+  - toc
 ---
 
 # 🎯 Stage-picture exercises

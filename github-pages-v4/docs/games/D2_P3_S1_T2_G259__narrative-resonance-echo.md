@@ -63,6 +63,8 @@ keywords:
   - "connection"
   - "remote"
 aliases: []
+hide:
+  - toc
 ---
 
 # Narrative Resonance Echo

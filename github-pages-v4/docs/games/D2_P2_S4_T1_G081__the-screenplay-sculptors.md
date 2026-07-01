@@ -56,6 +56,8 @@ keywords:
   - "spotlight"
 aliases:
   - "Screenplay Sculptors"
+hide:
+  - toc
 ---
 
 # The Secret Scriptwriters

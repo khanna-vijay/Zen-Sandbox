@@ -1,5 +1,7 @@
 ---
 title: Montage
+hide:
+  - toc
 ---
 
 # 🎯 Montage

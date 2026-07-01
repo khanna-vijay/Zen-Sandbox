@@ -51,6 +51,8 @@ keywords:
   - "cohesion"
   - "pacing"
 aliases: []
+hide:
+  - toc
 ---
 
 # Popcorn

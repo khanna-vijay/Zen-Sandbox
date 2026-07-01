@@ -1,5 +1,7 @@
 ---
 title: "W15 · Unify the Room"
+hide:
+  - toc
 ---
 
 # Week 15 — Unify the Room

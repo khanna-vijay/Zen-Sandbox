@@ -70,6 +70,8 @@ aliases:
   - "The Echo-Scan"
   - "Resonance Wave"
   - "The Echo Cascade"
+hide:
+  - toc
 ---
 
 # The Resonance Wave

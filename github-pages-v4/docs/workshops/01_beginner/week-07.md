@@ -1,5 +1,7 @@
 ---
 title: "W07 · Really Listening"
+hide:
+  - toc
 ---
 
 # Week 07 — Really Listening

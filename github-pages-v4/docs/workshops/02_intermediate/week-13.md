@@ -1,5 +1,7 @@
 ---
 title: "W13 · Eyes in the Back of Your Head"
+hide:
+  - toc
 ---
 
 # Week 13 — Eyes in the Back of Your Head

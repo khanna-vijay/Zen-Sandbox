@@ -52,6 +52,8 @@ keywords:
   - "listening"
   - "heightening"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Echo Line

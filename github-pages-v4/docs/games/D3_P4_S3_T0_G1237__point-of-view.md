@@ -53,6 +53,8 @@ keywords:
 aliases:
   - "Rashomon"
   - "Kurosawa"
+hide:
+  - toc
 ---
 
 # Perspective Shift

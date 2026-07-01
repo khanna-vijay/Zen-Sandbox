@@ -57,6 +57,8 @@ keywords:
   - "performance contract"
 aliases:
   - "The Permeable Performance Contract"
+hide:
+  - toc
 ---
 
 # The Permeability Glitch

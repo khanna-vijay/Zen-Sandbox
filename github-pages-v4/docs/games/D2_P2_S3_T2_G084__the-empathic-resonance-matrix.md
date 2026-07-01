@@ -62,6 +62,8 @@ keywords:
   - "mirroring"
 aliases:
   - "Empathic Resonance Matrix"
+hide:
+  - toc
 ---
 
 # The Silent Attunement Loop

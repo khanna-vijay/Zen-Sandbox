@@ -60,6 +60,8 @@ keywords:
   - "vocal-work"
   - "rehearsal"
 aliases: []
+hide:
+  - toc
 ---
 
 # Here Comes the Legend

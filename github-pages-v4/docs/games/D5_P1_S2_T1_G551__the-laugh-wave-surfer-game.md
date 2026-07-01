@@ -54,6 +54,8 @@ keywords:
   - "tag-running"
   - "timing"
 aliases: []
+hide:
+  - toc
 ---
 
 # Surfing the Laugh Wave

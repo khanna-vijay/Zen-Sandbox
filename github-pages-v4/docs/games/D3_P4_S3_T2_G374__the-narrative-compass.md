@@ -62,6 +62,8 @@ keywords:
   - "plot beats"
 aliases:
   - "The Narrative Compass: Integrating Dynamic Prompts for Coherent Storytelling"
+hide:
+  - toc
 ---
 
 # The Narrative Compass

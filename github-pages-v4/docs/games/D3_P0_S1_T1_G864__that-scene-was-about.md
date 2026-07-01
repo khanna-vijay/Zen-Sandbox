@@ -54,6 +54,8 @@ keywords:
   - "scenework"
   - "analysis"
 aliases: []
+hide:
+  - toc
 ---
 
 # That Scene Was About

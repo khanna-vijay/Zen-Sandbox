@@ -61,6 +61,8 @@ keywords:
 aliases:
   - "Is It Is It Wikid"
   - "Wikipedia Game"
+hide:
+  - toc
 ---
 
 # Hyperlink Roulette

@@ -51,6 +51,8 @@ keywords:
 aliases:
   - "Smart Fellers"
   - "One Smart Fella"
+hide:
+  - toc
 ---
 
 # Smart Fellas

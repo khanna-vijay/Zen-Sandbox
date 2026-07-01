@@ -60,6 +60,8 @@ keywords:
   - "spark word"
   - "active listening"
 aliases: []
+hide:
+  - toc
 ---
 
 # C.R.O.W. Ignition

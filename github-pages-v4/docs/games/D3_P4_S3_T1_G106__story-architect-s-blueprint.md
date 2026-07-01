@@ -58,6 +58,8 @@ keywords:
   - "side coaching"
   - "story spine"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Narrative Scaffold

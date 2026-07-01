@@ -54,6 +54,8 @@ keywords:
   - "problem-solving"
   - "co-creation"
 aliases: []
+hide:
+  - toc
 ---
 
 # Name the Monster

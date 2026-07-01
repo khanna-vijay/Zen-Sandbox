@@ -55,6 +55,8 @@ keywords:
   - "mousetraps"
 aliases:
   - "Mousetraps"
+hide:
+  - toc
 ---
 
 # Blindfolded Scene

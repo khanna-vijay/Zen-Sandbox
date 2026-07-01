@@ -50,6 +50,8 @@ keywords:
   - "constraint"
 aliases:
   - "Fuck Yeah"
+hide:
+  - toc
 ---
 
 # Hell Yes!

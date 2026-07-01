@@ -1,5 +1,7 @@
 ---
 title: Premise brainstorm rounds
+hide:
+  - toc
 ---
 
 # 🎯 Premise brainstorm rounds

@@ -53,6 +53,8 @@ keywords:
   - "clues"
   - "party game"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Oracle's Vision

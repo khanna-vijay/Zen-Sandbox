@@ -50,6 +50,8 @@ keywords:
   - "cooperative"
   - "scene format"
 aliases: []
+hide:
+  - toc
 ---
 
 # Fairy Tale Spine

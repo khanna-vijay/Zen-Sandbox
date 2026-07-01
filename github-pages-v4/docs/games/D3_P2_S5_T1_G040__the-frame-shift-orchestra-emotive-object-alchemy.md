@@ -62,6 +62,8 @@ keywords:
   - "collaboration"
 aliases:
   - "Screen Scene Architects"
+hide:
+  - toc
 ---
 
 # Virtual Frame Architects

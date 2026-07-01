@@ -63,6 +63,8 @@ keywords:
   - "active-listening"
 aliases:
   - "Canvas Chronicles"
+hide:
+  - toc
 ---
 
 # Shared Canvas Chronicles

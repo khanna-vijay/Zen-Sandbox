@@ -60,6 +60,8 @@ keywords:
   - "non-verbal"
   - "gifting"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Echo and Elevate Exchange

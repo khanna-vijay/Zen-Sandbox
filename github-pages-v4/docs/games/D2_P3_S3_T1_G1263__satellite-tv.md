@@ -51,6 +51,8 @@ keywords:
   - "pairs"
   - "warm-up"
 aliases: []
+hide:
+  - toc
 ---
 
 # Echo Mirror

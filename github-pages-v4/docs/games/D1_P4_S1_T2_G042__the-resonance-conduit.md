@@ -61,6 +61,8 @@ keywords:
   - "embodiment"
   - "impulse"
 aliases: []
+hide:
+  - toc
 ---
 
 # Somatic Echo

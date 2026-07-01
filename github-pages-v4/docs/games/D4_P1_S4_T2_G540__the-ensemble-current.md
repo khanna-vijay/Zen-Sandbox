@@ -56,6 +56,8 @@ keywords:
   - "physicality"
   - "dynamics"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Ensemble Current

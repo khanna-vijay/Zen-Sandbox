@@ -1,5 +1,7 @@
 ---
 title: "W09 · Make Your Partner a Genius"
+hide:
+  - toc
 ---
 
 # Week 09 — Make Your Partner a Genius

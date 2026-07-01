@@ -62,6 +62,8 @@ keywords:
   - "endowment"
 aliases:
   - "Bedtime Story"
+hide:
+  - toc
 ---
 
 # Typewriter

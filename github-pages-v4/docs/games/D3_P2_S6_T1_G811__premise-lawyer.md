@@ -49,6 +49,8 @@ keywords:
   - "scenework"
   - "game of the scene"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Absurd Advocate

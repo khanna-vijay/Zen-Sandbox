@@ -55,6 +55,8 @@ keywords:
   - "vocal"
   - "replay"
 aliases: []
+hide:
+  - toc
 ---
 
 # Character Swap

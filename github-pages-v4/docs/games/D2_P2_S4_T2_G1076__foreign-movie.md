@@ -58,6 +58,8 @@ keywords:
   - "listening"
 aliases:
   - "Subtitles"
+hide:
+  - toc
 ---
 
 # Subtitled Cinema

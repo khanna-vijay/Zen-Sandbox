@@ -1,5 +1,7 @@
 ---
 title: First Thought drills
+hide:
+  - toc
 ---
 
 # 🎯 First Thought drills

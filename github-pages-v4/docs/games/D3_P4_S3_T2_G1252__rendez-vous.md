@@ -60,6 +60,8 @@ keywords:
   - "storytelling"
 aliases:
   - "Behind Closed Doors"
+hide:
+  - toc
 ---
 
 # The Summons

@@ -52,6 +52,8 @@ keywords:
   - "pressure"
   - "speed"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Passing Clock

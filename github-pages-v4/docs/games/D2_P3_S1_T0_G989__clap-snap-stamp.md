@@ -59,6 +59,8 @@ aliases:
   - "1-2-3 Clap Snap Stamp"
   - "Clap Snap Stomp"
   - "1-2-3 Pattern Game"
+hide:
+  - toc
 ---
 
 # Snap, Clap, Stamp

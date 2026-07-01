@@ -1,5 +1,7 @@
 ---
 title: "W11 · Weaving the Threads"
+hide:
+  - toc
 ---
 
 # Week 11 — Weaving the Threads

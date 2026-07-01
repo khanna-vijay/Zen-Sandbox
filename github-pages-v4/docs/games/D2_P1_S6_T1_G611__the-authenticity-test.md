@@ -55,6 +55,8 @@ keywords:
   - "facilitation"
 aliases:
   - "Practicing Truth Over Pandering"
+hide:
+  - toc
 ---
 
 # The Truth Check-In

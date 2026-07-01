@@ -49,6 +49,8 @@ keywords:
   - "spontaneity"
   - "warm-up"
 aliases: []
+hide:
+  - toc
 ---
 
 # Expression First

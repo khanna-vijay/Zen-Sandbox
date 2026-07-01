@@ -66,6 +66,8 @@ keywords:
 aliases:
   - "The Emotional Crucible"
   - "Core Re-Entry"
+hide:
+  - toc
 ---
 
 # The Emotional Crucible

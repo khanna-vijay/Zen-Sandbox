@@ -65,6 +65,8 @@ keywords:
 aliases:
   - "Film Dubbing"
   - "Movie Dubbing"
+hide:
+  - toc
 ---
 
 # Cinematic Dubbing

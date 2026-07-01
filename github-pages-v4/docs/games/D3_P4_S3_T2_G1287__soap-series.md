@@ -57,6 +57,8 @@ keywords:
 aliases:
   - "Soap"
   - "Soap Opera"
+hide:
+  - toc
 ---
 
 # The Serialized Saga

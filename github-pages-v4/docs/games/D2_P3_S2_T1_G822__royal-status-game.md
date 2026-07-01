@@ -56,6 +56,8 @@ keywords:
 aliases:
   - "King and Servant"
   - "Royal Family"
+hide:
+  - toc
 ---
 
 # The Sovereign's Snap

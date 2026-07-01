@@ -52,6 +52,8 @@ keywords:
   - "body language"
   - "stage picture"
 aliases: []
+hide:
+  - toc
 ---
 
 # Complementary Shapes

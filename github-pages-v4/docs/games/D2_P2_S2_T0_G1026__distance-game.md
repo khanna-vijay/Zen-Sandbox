@@ -56,6 +56,8 @@ keywords:
   - "movement"
   - "conflict"
 aliases: []
+hide:
+  - toc
 ---
 
 # Proximity Stakes

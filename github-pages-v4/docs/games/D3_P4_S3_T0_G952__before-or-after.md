@@ -51,6 +51,8 @@ keywords:
   - "time jump"
 aliases:
   - "Fast Forward Variation"
+hide:
+  - toc
 ---
 
 # Before or After

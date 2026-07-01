@@ -67,6 +67,8 @@ keywords:
   - "warm-up"
 aliases:
   - "Emotional Cascade"
+hide:
+  - toc
 ---
 
 # Impulse Cascade

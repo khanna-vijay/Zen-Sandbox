@@ -55,6 +55,8 @@ keywords:
   - "show don't tell"
   - "object work"
 aliases: []
+hide:
+  - toc
 ---
 
 # Stunt Doubles

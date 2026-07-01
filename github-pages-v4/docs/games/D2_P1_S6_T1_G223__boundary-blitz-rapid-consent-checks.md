@@ -55,6 +55,8 @@ keywords:
   - "boundary navigation"
 aliases:
   - "Boundary Blitz"
+hide:
+  - toc
 ---
 
 # Boundary Blitz

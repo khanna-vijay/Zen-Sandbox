@@ -54,6 +54,8 @@ keywords:
   - "pattern finding"
   - "scene work"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Iterative Scene

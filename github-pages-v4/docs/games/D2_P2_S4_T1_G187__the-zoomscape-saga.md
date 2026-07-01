@@ -63,6 +63,8 @@ keywords:
   - "digital"
   - "narrative"
 aliases: []
+hide:
+  - toc
 ---
 
 # Scenic Shifts

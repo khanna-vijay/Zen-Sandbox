@@ -57,6 +57,8 @@ keywords:
   - "audience guessing"
   - "gifting"
 aliases: []
+hide:
+  - toc
 ---
 
 # Silly, Stinky, Sexy

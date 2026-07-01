@@ -63,6 +63,8 @@ aliases:
   - "Commando"
   - "The Armando Diaz Experience"
   - "ASSSSCAT"
+hide:
+  - toc
 ---
 
 # The Armando

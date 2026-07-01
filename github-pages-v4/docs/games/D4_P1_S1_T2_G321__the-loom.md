@@ -67,6 +67,8 @@ keywords:
 aliases:
   - "Elevating the Collective"
   - "The Loom Game for Ensemble Mastery"
+hide:
+  - toc
 ---
 
 # The Loom

@@ -56,6 +56,8 @@ keywords:
   - "meta-communication"
 aliases:
   - "Check-In and Pivot"
+hide:
+  - toc
 ---
 
 # Check-In and Pivot

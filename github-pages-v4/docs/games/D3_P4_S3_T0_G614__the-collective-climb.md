@@ -58,6 +58,8 @@ keywords:
   - "cooperative storytelling"
 aliases:
   - "Group Obstacle Improv Game"
+hide:
+  - toc
 ---
 
 # The Shared Ascent

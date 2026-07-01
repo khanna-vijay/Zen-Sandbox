@@ -58,6 +58,8 @@ keywords:
 aliases:
   - "Bunny Bunny"
   - "Bunny Bunny Bunny"
+hide:
+  - toc
 ---
 
 # Bunny Bunny

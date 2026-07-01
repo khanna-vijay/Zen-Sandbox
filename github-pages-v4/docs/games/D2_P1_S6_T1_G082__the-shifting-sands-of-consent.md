@@ -61,6 +61,8 @@ keywords:
   - "boundary cards"
 aliases:
   - "Shifting Sands of Consent"
+hide:
+  - toc
 ---
 
 # Dynamic Boundaries

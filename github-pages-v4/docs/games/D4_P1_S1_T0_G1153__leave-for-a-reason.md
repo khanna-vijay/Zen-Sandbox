@@ -53,6 +53,8 @@ keywords:
   - "timing"
   - "exit"
 aliases: []
+hide:
+  - toc
 ---
 
 # Leave for a Reason

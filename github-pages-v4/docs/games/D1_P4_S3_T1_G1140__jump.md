@@ -51,6 +51,8 @@ keywords:
   - "sidecoaching"
 aliases:
   - "Association Jump"
+hide:
+  - toc
 ---
 
 # Impulse Jump

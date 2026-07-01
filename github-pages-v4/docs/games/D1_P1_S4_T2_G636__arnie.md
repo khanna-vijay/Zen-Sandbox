@@ -51,6 +51,8 @@ keywords:
   - "short-form"
   - "parody"
 aliases: []
+hide:
+  - toc
 ---
 
 # Arnie's Cinema

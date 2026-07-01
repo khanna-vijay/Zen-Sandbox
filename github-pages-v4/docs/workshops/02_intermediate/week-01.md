@@ -1,5 +1,7 @@
 ---
 title: "W01 · Re-entry & the Safety Recommit"
+hide:
+  - toc
 ---
 
 # Week 01 — Re-entry & the Safety Recommit

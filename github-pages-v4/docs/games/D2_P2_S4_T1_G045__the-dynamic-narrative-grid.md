@@ -67,6 +67,8 @@ keywords:
   - "virtual backgrounds"
 aliases:
   - "Dynamic Narrative Grid"
+hide:
+  - toc
 ---
 
 # The Storytelling Grid

@@ -53,6 +53,8 @@ keywords:
   - "pairs"
   - "circle game"
 aliases: []
+hide:
+  - toc
 ---
 
 # Object Morphing

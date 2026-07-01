@@ -50,6 +50,8 @@ keywords:
   - "disruption"
   - "justification"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Interloper

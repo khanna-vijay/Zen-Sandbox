@@ -56,6 +56,8 @@ keywords:
   - "accepting"
   - "spontaneity"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Rumor Mill

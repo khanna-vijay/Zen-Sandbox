@@ -1,5 +1,7 @@
 ---
 title: "W04 · Listening for Subtext"
+hide:
+  - toc
 ---
 
 # Week 04 — Listening for Subtext

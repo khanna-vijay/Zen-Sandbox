@@ -55,6 +55,8 @@ keywords:
   - "subtext"
 aliases:
   - "Alliances"
+hide:
+  - toc
 ---
 
 # Status Alliances

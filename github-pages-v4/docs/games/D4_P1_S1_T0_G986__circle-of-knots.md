@@ -53,6 +53,8 @@ keywords:
   - "connection"
   - "movement"
 aliases: []
+hide:
+  - toc
 ---
 
 # Ensemble Knot

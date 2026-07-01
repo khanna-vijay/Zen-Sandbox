@@ -1,5 +1,7 @@
 ---
 title: Playing architecture/objects
+hide:
+  - toc
 ---
 
 # 🎯 Playing architecture/objects

@@ -56,6 +56,8 @@ keywords:
 aliases:
   - "Reactionary Ripple"
   - "The Frame-by-Frame Fable"
+hide:
+  - toc
 ---
 
 # Audience Pulse

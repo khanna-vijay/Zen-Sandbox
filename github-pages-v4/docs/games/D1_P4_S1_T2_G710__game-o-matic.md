@@ -54,6 +54,8 @@ keywords:
   - "pitching"
   - "spontaneity"
 aliases: []
+hide:
+  - toc
 ---
 
 # Instant Game Engine

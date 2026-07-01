@@ -66,6 +66,8 @@ keywords:
   - "implicit-narrative"
   - "object-work"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Echoing Edifice

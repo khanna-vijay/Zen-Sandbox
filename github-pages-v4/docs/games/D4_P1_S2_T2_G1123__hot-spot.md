@@ -52,6 +52,8 @@ keywords:
   - "tap-in"
   - "group mind"
 aliases: []
+hide:
+  - toc
 ---
 
 # Hot Spot

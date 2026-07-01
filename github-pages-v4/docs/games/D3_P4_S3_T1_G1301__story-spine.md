@@ -53,6 +53,8 @@ keywords:
   - "cooperation"
 aliases:
   - "Kenn Adams' Story Spine"
+hide:
+  - toc
 ---
 
 # The Story Spine

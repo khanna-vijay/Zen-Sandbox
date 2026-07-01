@@ -58,6 +58,8 @@ keywords:
   - "active listening"
 aliases:
   - "The Ripple Effect: Building Narrative Through Subtle Offers"
+hide:
+  - toc
 ---
 
 # The Ripple Effect

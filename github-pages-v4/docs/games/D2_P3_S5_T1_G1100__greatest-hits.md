@@ -61,6 +61,8 @@ keywords:
   - "gifting"
 aliases:
   - "CD Shop"
+hide:
+  - toc
 ---
 
 # Greatest Hits

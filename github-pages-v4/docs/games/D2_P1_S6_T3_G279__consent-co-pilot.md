@@ -56,6 +56,8 @@ keywords:
   - "check-in"
   - "comfort zone"
 aliases: []
+hide:
+  - toc
 ---
 
 # Boundary Co-Pilot

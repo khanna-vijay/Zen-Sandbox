@@ -50,6 +50,8 @@ keywords:
   - "risk-taking"
 aliases:
   - "Tag"
+hide:
+  - toc
 ---
 
 # Proximity Tag

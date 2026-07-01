@@ -59,6 +59,8 @@ aliases:
   - "Lines on Paper"
   - "Paper Chase"
   - "Sentences on Paper"
+hide:
+  - toc
 ---
 
 # Lines in Pocket

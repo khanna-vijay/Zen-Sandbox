@@ -55,6 +55,8 @@ keywords:
   - "short-form"
   - "keith johnstone"
 aliases: []
+hide:
+  - toc
 ---
 
 # Alphabetical Scene

@@ -59,6 +59,8 @@ keywords:
   - "movement"
 aliases:
   - "Conceptual Machine"
+hide:
+  - toc
 ---
 
 # Polarity Shift

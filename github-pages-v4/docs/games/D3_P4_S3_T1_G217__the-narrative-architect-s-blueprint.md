@@ -62,6 +62,8 @@ keywords:
 aliases:
   - "The Narrative Architecting Improv"
   - "Building Stories Beyond the Scene"
+hide:
+  - toc
 ---
 
 # The Story Architects

@@ -57,6 +57,8 @@ keywords:
   - "physicality"
   - "quick-thinking"
 aliases: []
+hide:
+  - toc
 ---
 
 # Prop Transformations

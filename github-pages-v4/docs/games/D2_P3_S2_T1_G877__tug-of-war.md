@@ -54,6 +54,8 @@ keywords:
   - "resistance"
   - "partnership"
 aliases: []
+hide:
+  - toc
 ---
 
 # Cooperative Tug of War

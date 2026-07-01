@@ -1,5 +1,7 @@
 ---
 title: Weave the threads
+hide:
+  - toc
 ---
 
 # 🎯 Weave the threads

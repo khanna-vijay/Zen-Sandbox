@@ -56,6 +56,8 @@ keywords:
   - "narrative"
 aliases:
   - "Word by Word Story"
+hide:
+  - toc
 ---
 
 # One-Word-at-a-Time Story

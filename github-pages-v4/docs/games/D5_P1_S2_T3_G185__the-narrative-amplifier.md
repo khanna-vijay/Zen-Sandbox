@@ -59,6 +59,8 @@ keywords:
   - "energy calibration"
   - "direct address"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Narrative Amplifier

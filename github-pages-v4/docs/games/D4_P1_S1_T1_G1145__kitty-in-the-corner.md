@@ -54,6 +54,8 @@ keywords:
   - "speed"
   - "focus"
 aliases: []
+hide:
+  - toc
 ---
 
 # Corner Swap

@@ -64,6 +64,8 @@ keywords:
   - "song"
 aliases:
   - "Musical Pockets"
+hide:
+  - toc
 ---
 
 # The Musical Pocket

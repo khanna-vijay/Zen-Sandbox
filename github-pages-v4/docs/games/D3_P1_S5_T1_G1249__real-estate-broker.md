@@ -60,6 +60,8 @@ keywords:
   - "no questions"
   - "world-building"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Property Tour

@@ -45,6 +45,8 @@ keywords:
   - "isolation"
   - "coordination"
 aliases: []
+hide:
+  - toc
 ---
 
 # Infinite Eights

@@ -58,6 +58,8 @@ keywords:
   - "consequence"
 aliases:
   - "Ripple Effect"
+hide:
+  - toc
 ---
 
 # The Ripple Effect

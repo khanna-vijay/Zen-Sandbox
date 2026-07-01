@@ -60,6 +60,8 @@ keywords:
   - "cohesion"
   - "rhythm"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Collective Conductor

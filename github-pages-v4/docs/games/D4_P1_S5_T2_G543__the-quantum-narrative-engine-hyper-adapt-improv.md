@@ -63,6 +63,8 @@ keywords:
 aliases:
   - "The Narrative Weaver"
   - "Quantum Narrative Engine"
+hide:
+  - toc
 ---
 
 # The Narrative Loom

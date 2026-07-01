@@ -56,6 +56,8 @@ keywords:
   - "spontaneity"
   - "fast-paced"
 aliases: []
+hide:
+  - toc
 ---
 
 # Toaster

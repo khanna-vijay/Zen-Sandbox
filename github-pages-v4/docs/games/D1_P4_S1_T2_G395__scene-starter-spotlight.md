@@ -59,6 +59,8 @@ keywords:
 aliases:
   - "The Mute-iculous Montage"
   - "The Instant Jump-In Challenge"
+hide:
+  - toc
 ---
 
 # Flashpoint Spotlight

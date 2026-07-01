@@ -55,6 +55,8 @@ keywords:
   - "physicality"
 aliases:
   - "WAYD"
+hide:
+  - toc
 ---
 
 # What Are You Doing?

@@ -55,6 +55,8 @@ keywords:
 aliases:
   - "Yes, Let's"
   - "The Ad Game"
+hide:
+  - toc
 ---
 
 # Yes, Let's!

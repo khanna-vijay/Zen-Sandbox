@@ -62,6 +62,8 @@ keywords:
   - "communication"
 aliases:
   - "Gibberish Translator"
+hide:
+  - toc
 ---
 
 # Gibberish Award Ceremony

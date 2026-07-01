@@ -64,6 +64,8 @@ keywords:
   - "meisner"
   - "attunement"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Resonance Chamber

@@ -56,6 +56,8 @@ keywords:
   - "duet"
   - "performance"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Musical Bartender

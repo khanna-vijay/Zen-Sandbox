@@ -62,6 +62,8 @@ keywords:
   - "support"
 aliases:
   - "Competence-Driven Question & Affirmation"
+hide:
+  - toc
 ---
 
 # The Genius Assumption

@@ -49,6 +49,8 @@ keywords:
   - "foot soldiers"
 aliases:
   - "Foot Soldiers"
+hide:
+  - toc
 ---
 
 # Leading Centers

@@ -54,6 +54,8 @@ keywords:
   - "sightlines"
   - "props work"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Open Frame

@@ -50,6 +50,8 @@ keywords:
   - "environment"
   - "split focus"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Unseen Mass

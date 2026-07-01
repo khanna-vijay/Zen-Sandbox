@@ -1,5 +1,7 @@
 ---
 title: Status-through-stillness
+hide:
+  - toc
 ---
 
 # 🎯 Status-through-stillness

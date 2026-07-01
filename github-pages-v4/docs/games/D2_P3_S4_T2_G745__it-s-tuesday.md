@@ -55,6 +55,8 @@ keywords:
   - "endowment"
   - "keith johnstone"
 aliases: []
+hide:
+  - toc
 ---
 
 # Mundane to Monumental

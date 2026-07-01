@@ -1,5 +1,7 @@
 ---
 title: Mirror exercise
+hide:
+  - toc
 ---
 
 # 🎯 Mirror exercise

@@ -62,6 +62,8 @@ keywords:
   - "re-framing"
   - "advanced scene work"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Catalyst Collider

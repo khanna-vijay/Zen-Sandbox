@@ -58,6 +58,8 @@ keywords:
   - "facilitator intervention"
 aliases:
   - "Narrative Catalyst"
+hide:
+  - toc
 ---
 
 # The Plot Pivot

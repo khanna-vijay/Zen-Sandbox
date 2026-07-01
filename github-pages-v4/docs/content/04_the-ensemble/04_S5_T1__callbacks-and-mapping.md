@@ -1,5 +1,7 @@
 ---
 title: Callbacks & Mapping
+hide:
+  - toc
 ---
 
 # 🎯 Callbacks & Mapping

@@ -53,6 +53,8 @@ keywords:
 aliases:
   - "Word Ball"
   - "Clap Snap Association"
+hide:
+  - toc
 ---
 
 # Rapid Association Circle

@@ -63,6 +63,8 @@ keywords:
   - "icebreaker"
 aliases:
   - "The Zoom Room Odyssey: Collaborative Concoctions"
+hide:
+  - toc
 ---
 
 # Gallery Box Storytellers

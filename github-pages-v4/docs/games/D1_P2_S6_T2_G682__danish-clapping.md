@@ -53,6 +53,8 @@ keywords:
   - "energy"
   - "connection"
 aliases: []
+hide:
+  - toc
 ---
 
 # Sync and Celebrate

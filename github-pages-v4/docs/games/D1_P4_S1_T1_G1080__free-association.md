@@ -52,6 +52,8 @@ keywords:
   - "listening"
 aliases:
   - "Word Association"
+hide:
+  - toc
 ---
 
 # Rapid Word Association

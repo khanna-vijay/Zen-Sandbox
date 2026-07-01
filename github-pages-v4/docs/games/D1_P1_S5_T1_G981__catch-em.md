@@ -53,6 +53,8 @@ keywords:
 aliases:
   - "Bear of Poitiers"
   - "Red Light, Green Light"
+hide:
+  - toc
 ---
 
 # The Frozen Path

@@ -57,6 +57,8 @@ keywords:
   - "audience interaction"
   - "scene editing"
 aliases: []
+hide:
+  - toc
 ---
 
 # More or Less

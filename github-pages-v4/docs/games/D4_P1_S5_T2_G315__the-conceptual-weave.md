@@ -65,6 +65,8 @@ keywords:
   - "co-creation"
 aliases:
   - "Conceptual Weave"
+hide:
+  - toc
 ---
 
 # The Conceptual Weave

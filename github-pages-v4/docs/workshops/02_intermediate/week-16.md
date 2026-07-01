@@ -1,5 +1,7 @@
 ---
 title: "W16 · Editing on Time"
+hide:
+  - toc
 ---
 
 # Week 16 — Editing on Time

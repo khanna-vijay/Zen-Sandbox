@@ -67,6 +67,8 @@ keywords:
   - "mirroring"
 aliases:
   - "Echo Canvas"
+hide:
+  - toc
 ---
 
 # The Echo Canvas

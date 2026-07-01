@@ -54,6 +54,8 @@ keywords:
   - "observation"
 aliases:
   - "Silent Replay"
+hide:
+  - toc
 ---
 
 # Muted Replay

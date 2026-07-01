@@ -55,6 +55,8 @@ keywords:
   - "truth over pandering"
 aliases:
   - "The Consent Cadenza"
+hide:
+  - toc
 ---
 
 # Dynamic Calibration

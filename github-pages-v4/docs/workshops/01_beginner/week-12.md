@@ -1,5 +1,7 @@
 ---
 title: "W12 · Show, Don't Tell — Build a World"
+hide:
+  - toc
 ---
 
 # Week 12 — Show, Don't Tell — Build a World

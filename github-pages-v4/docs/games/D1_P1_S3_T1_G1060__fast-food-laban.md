@@ -52,6 +52,8 @@ keywords:
   - "effort actions"
 aliases:
   - "Laban Movement"
+hide:
+  - toc
 ---
 
 # Physical Effort Explorations

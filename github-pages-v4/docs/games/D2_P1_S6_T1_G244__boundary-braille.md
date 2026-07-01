@@ -53,6 +53,8 @@ keywords:
   - "meta-communication"
   - "truth over pandering"
 aliases: []
+hide:
+  - toc
 ---
 
 # Boundary Braille

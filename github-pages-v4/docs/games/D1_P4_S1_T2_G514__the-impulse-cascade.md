@@ -60,6 +60,8 @@ keywords:
   - "vulnerability"
 aliases:
   - "Impulse Cascade"
+hide:
+  - toc
 ---
 
 # Impulse Cascade

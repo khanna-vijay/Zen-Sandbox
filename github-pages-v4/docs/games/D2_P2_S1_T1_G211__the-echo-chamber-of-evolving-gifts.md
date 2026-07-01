@@ -60,6 +60,8 @@ keywords:
   - "status"
   - "empathy"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Subtext Echo Chamber

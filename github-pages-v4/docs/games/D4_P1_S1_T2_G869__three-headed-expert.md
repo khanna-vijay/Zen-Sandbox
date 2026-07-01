@@ -61,6 +61,8 @@ keywords:
   - "comedy"
 aliases:
   - "Word at a Time Expert"
+hide:
+  - toc
 ---
 
 # The Three-Headed Expert

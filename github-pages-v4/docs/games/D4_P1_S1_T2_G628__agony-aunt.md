@@ -57,6 +57,8 @@ keywords:
 aliases:
   - "Complaint Letter"
   - "Word at a Time Advice"
+hide:
+  - toc
 ---
 
 # The Collective Advice Columnist

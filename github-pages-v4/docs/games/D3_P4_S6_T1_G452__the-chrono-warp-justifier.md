@@ -61,6 +61,8 @@ keywords:
 aliases:
   - "The Narrative Lever"
   - "Chrono-Warp"
+hide:
+  - toc
 ---
 
 # Retroactive Reality

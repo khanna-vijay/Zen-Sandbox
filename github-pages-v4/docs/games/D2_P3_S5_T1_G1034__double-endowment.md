@@ -56,6 +56,8 @@ keywords:
   - "gifting"
   - "acceptance"
 aliases: []
+hide:
+  - toc
 ---
 
 # Double Endowment

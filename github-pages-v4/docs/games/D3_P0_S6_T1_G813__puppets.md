@@ -53,6 +53,8 @@ keywords:
   - "shortform"
   - "physical contact"
 aliases: []
+hide:
+  - toc
 ---
 
 # Human Puppets

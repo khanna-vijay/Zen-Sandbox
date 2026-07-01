@@ -64,6 +64,8 @@ keywords:
   - "world-building"
 aliases:
   - "The Reality Warp Room: Zoom-Powered Narrative Engine"
+hide:
+  - toc
 ---
 
 # The Backdrop Shift

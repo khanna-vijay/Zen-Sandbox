@@ -55,6 +55,8 @@ keywords:
   - "justification"
 aliases:
   - "Ahab and the Whale"
+hide:
+  - toc
 ---
 
 # The Triple Constraint

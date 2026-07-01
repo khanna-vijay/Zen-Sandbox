@@ -63,6 +63,8 @@ keywords:
   - "sensory integration"
 aliases:
   - "Chronos-Synaptic Forge"
+hide:
+  - toc
 ---
 
 # The Emotional Crucible

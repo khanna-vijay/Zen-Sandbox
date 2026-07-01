@@ -52,6 +52,8 @@ keywords:
   - "silent"
   - "storytelling"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Gauntlet of Peril

@@ -64,6 +64,8 @@ keywords:
   - "energy calibration"
 aliases:
   - "Inner Compass Confessional"
+hide:
+  - toc
 ---
 
 # The Silent Confessional

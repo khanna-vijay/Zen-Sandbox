@@ -63,6 +63,8 @@ keywords:
   - "sensory-details"
   - "collaborative-creativity"
 aliases: []
+hide:
+  - toc
 ---
 
 # Co-Architects of the Unseen

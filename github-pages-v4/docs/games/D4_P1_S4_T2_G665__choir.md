@@ -58,6 +58,8 @@ keywords:
   - "vocal"
   - "audience suggestion"
 aliases: []
+hide:
+  - toc
 ---
 
 # Improvised Choir

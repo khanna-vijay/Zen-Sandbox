@@ -50,6 +50,8 @@ keywords:
   - "concentration"
   - "silent action"
 aliases: []
+hide:
+  - toc
 ---
 
 # Create to Speak

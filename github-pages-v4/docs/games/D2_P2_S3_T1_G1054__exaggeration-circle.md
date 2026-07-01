@@ -57,6 +57,8 @@ keywords:
   - "physicality"
   - "vocal"
 aliases: []
+hide:
+  - toc
 ---
 
 # Exaggeration Circle

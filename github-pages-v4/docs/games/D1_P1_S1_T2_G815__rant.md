@@ -55,6 +55,8 @@ keywords:
   - "warm-up"
   - "line game"
 aliases: []
+hide:
+  - toc
 ---
 
 # Opposite Rants

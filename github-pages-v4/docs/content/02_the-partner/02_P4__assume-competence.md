@@ -1,5 +1,7 @@
 ---
 title: Assume Competence
+hide:
+  - toc
 ---
 
 # 💎 Assume Competence

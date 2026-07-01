@@ -59,6 +59,8 @@ keywords:
   - "listening"
   - "peripheral awareness"
 aliases: []
+hide:
+  - toc
 ---
 
 # Undercurrent Weave

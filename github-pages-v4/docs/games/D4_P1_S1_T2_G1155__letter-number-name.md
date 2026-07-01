@@ -54,6 +54,8 @@ keywords:
   - "alphabet"
   - "gestures"
 aliases: []
+hide:
+  - toc
 ---
 
 # Name, Letter, Number

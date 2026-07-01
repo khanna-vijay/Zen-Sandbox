@@ -65,6 +65,8 @@ keywords:
   - "disruption"
   - "commitment"
 aliases: []
+hide:
+  - toc
 ---
 
 # Somatic Surge and Recovery

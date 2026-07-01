@@ -56,6 +56,8 @@ keywords:
   - "truth over pandering"
 aliases:
   - "Navigating Ambiguous Intentions"
+hide:
+  - toc
 ---
 
 # Intentional Intersections

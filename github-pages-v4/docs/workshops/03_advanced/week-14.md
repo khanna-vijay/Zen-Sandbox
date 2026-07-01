@@ -1,5 +1,7 @@
 ---
 title: "W14 · Armando, Montage & Longform"
+hide:
+  - toc
 ---
 
 # Week 14 — Armando, Montage & Longform

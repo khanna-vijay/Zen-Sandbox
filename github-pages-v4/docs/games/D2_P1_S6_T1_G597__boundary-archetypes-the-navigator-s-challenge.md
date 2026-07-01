@@ -56,6 +56,8 @@ keywords:
   - "truth over pandering"
 aliases:
   - "The Navigator's Challenge"
+hide:
+  - toc
 ---
 
 # Boundary Archetypes

@@ -56,6 +56,8 @@ keywords:
   - "group mind"
   - "contact"
 aliases: []
+hide:
+  - toc
 ---
 
 # Collective Chairs

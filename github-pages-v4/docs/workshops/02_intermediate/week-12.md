@@ -1,5 +1,7 @@
 ---
 title: "W12 · Build the World, Justify the Absurd"
+hide:
+  - toc
 ---
 
 # Week 12 — Build the World, Justify the Absurd

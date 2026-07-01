@@ -66,6 +66,8 @@ keywords:
   - "reset"
 aliases:
   - "Resonance Shift"
+hide:
+  - toc
 ---
 
 # Resonance Shift

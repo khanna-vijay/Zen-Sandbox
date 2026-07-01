@@ -60,6 +60,8 @@ keywords:
   - "active listening"
 aliases:
   - "The Threshold Weave: Navigating Hidden Boundaries in Improv"
+hide:
+  - toc
 ---
 
 # Hidden Thresholds

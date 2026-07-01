@@ -1,5 +1,7 @@
 ---
 title: Make the choice readable
+hide:
+  - toc
 ---
 
 # 🎯 Make the choice readable

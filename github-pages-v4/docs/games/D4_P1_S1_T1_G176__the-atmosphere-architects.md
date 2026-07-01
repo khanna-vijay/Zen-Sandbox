@@ -67,6 +67,8 @@ keywords:
   - "peripheral awareness"
 aliases:
   - "Atmosphere Architects"
+hide:
+  - toc
 ---
 
 # Atmosphere Architects

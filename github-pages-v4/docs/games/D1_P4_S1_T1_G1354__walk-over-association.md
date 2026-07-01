@@ -48,6 +48,8 @@ keywords:
   - "spontaneity"
   - "first-thought"
 aliases: []
+hide:
+  - toc
 ---
 
 # Association Advance

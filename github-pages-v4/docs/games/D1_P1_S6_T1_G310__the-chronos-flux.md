@@ -60,6 +60,8 @@ keywords:
   - "intrapersonal"
   - "flux"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Pivot Point

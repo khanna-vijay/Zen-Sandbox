@@ -59,6 +59,8 @@ keywords:
 aliases:
   - "The Armando Diaz Experience"
   - "Armando Diaz"
+hide:
+  - toc
 ---
 
 # The Monologist

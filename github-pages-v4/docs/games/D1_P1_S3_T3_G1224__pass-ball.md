@@ -56,6 +56,8 @@ keywords:
   - "warm-up"
   - "circle game"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Imaginary Sphere

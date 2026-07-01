@@ -1,5 +1,7 @@
 ---
 title: Show, Don't Tell
+hide:
+  - toc
 ---
 
 # 💎 Show, Don't Tell

@@ -61,6 +61,8 @@ keywords:
   - "subtext"
   - "emotional echo"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Empathetic Echo

@@ -62,6 +62,8 @@ keywords:
 aliases:
   - "Physical Harmonics"
   - "The Ensemble Weave"
+hide:
+  - toc
 ---
 
 # Kinetic Harmonics

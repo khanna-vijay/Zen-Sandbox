@@ -1,5 +1,7 @@
 ---
 title: Endowment-acceptance
+hide:
+  - toc
 ---
 
 # 🎯 Endowment-acceptance

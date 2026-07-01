@@ -58,6 +58,8 @@ keywords:
   - "object work"
   - "pantomime"
 aliases: []
+hide:
+  - toc
 ---
 
 # Scene Blueprint

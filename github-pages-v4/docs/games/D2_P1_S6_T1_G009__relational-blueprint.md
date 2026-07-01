@@ -59,6 +59,8 @@ keywords:
   - "truth over pandering"
   - "recalibration"
 aliases: []
+hide:
+  - toc
 ---
 
 # Relational Blueprint

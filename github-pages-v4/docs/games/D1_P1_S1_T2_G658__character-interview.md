@@ -61,6 +61,8 @@ keywords:
   - "crow"
 aliases:
   - "Hot Seat"
+hide:
+  - toc
 ---
 
 # The Hot Seat Interview

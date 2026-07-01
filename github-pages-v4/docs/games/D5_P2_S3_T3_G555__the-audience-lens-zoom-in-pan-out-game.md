@@ -61,6 +61,8 @@ keywords:
 aliases:
   - "The Audience Lens"
   - "Zoom In/Pan Out"
+hide:
+  - toc
 ---
 
 # The Audience Lens

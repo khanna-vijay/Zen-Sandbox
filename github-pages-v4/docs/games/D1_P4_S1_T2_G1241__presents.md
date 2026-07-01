@@ -54,6 +54,8 @@ keywords:
   - "pairs"
   - "acceptance"
 aliases: []
+hide:
+  - toc
 ---
 
 # Spontaneous Presents

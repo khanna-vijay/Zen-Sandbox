@@ -1,5 +1,7 @@
 ---
 title: "W15 · A-to-C — Beyond the Obvious"
+hide:
+  - toc
 ---
 
 # Week 15 — A-to-C — Beyond the Obvious

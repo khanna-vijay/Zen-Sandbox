@@ -63,6 +63,8 @@ keywords:
   - "spontaneity"
   - "impulse"
 aliases: []
+hide:
+  - toc
 ---
 
 # Impulse and Pivot

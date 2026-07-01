@@ -59,6 +59,8 @@ keywords:
   - "justification"
   - "narrative pilot"
 aliases: []
+hide:
+  - toc
 ---
 
 # Spatial Story Engine

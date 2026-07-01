@@ -54,6 +54,8 @@ keywords:
   - "retriever"
   - "sensory"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Shadow and the Retriever

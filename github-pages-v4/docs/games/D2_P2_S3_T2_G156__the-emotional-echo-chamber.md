@@ -65,6 +65,8 @@ keywords:
   - "partner connection"
 aliases:
   - "Emotional Echo Chamber"
+hide:
+  - toc
 ---
 
 # The Emotional Echo Chamber

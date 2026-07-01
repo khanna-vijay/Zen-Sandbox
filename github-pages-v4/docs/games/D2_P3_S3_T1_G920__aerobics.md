@@ -52,6 +52,8 @@ keywords:
   - "follow the follower"
   - "warm-up"
 aliases: []
+hide:
+  - toc
 ---
 
 # Gait Mirror

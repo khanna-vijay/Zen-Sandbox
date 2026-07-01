@@ -56,6 +56,8 @@ keywords:
   - "emotion"
   - "listening"
 aliases: []
+hide:
+  - toc
 ---
 
 # Resonant Mirror

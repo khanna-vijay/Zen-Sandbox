@@ -59,6 +59,8 @@ keywords:
   - "energy calibration"
   - "performance training"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Fourth Wall Conductor

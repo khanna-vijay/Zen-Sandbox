@@ -57,6 +57,8 @@ keywords:
   - "virtual team building"
   - "collaboration"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Resonance Chronicle

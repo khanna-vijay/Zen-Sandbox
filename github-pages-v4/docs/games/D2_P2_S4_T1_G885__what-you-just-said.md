@@ -54,6 +54,8 @@ keywords:
   - "emotional connection"
   - "reacting"
 aliases: []
+hide:
+  - toc
 ---
 
 # What You Just Said

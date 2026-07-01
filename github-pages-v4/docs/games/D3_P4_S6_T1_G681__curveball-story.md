@@ -57,6 +57,8 @@ keywords:
   - "what if"
 aliases:
   - "What If?"
+hide:
+  - toc
 ---
 
 # Curveball Narrative

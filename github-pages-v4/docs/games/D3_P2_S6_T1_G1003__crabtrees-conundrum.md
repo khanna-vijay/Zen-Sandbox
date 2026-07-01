@@ -51,6 +51,8 @@ keywords:
   - "south park"
 aliases:
   - "Crabtree's Conundrum"
+hide:
+  - toc
 ---
 
 # Rhyme Retraction

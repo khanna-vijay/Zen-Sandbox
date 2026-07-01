@@ -52,6 +52,8 @@ keywords:
   - "coordination"
 aliases:
   - "Clap Snap"
+hide:
+  - toc
 ---
 
 # The Rhythm Association

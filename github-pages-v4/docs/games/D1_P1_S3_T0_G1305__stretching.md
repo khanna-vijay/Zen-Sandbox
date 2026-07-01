@@ -51,6 +51,8 @@ keywords:
   - "body awareness"
   - "follow the follower"
 aliases: []
+hide:
+  - toc
 ---
 
 # Pass the Stretch

@@ -61,6 +61,8 @@ keywords:
 aliases:
   - "Virtual Space Ball"
   - "Object Pass Zoom"
+hide:
+  - toc
 ---
 
 # Virtual Object Metamorphosis

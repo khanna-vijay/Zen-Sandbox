@@ -57,6 +57,8 @@ keywords:
   - "physicality"
   - "split focus"
 aliases: []
+hide:
+  - toc
 ---
 
 # Cooperative Action

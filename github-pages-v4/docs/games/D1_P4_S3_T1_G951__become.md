@@ -53,6 +53,8 @@ keywords:
   - "association"
   - "character centers"
 aliases: []
+hide:
+  - toc
 ---
 
 # Embodied Objects

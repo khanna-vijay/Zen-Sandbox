@@ -64,6 +64,8 @@ keywords:
   - "cognitive load"
   - "partner connection"
 aliases: []
+hide:
+  - toc
 ---
 
 # Status Weave

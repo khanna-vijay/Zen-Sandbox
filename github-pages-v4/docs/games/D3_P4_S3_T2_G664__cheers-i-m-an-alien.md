@@ -54,6 +54,8 @@ keywords:
   - "disruption"
   - "base reality"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Cheers Tilt

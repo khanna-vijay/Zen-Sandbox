@@ -54,6 +54,8 @@ keywords:
   - "trust"
 aliases:
   - "The Boundary Dance"
+hide:
+  - toc
 ---
 
 # The Boundary Dance

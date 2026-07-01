@@ -63,6 +63,8 @@ keywords:
   - "mindfulness"
   - "rhythm"
 aliases: []
+hide:
+  - toc
 ---
 
 # Impulse Alchemy

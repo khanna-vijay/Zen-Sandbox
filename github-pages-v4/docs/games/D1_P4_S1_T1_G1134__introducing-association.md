@@ -51,6 +51,8 @@ keywords:
   - "introductory"
   - "warm-up"
 aliases: []
+hide:
+  - toc
 ---
 
 # Accidental Association

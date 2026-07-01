@@ -64,6 +64,8 @@ keywords:
   - "storytelling"
 aliases:
   - "Narrative Current"
+hide:
+  - toc
 ---
 
 # The Narrative Current

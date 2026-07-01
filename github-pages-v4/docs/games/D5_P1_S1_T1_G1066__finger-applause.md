@@ -50,6 +50,8 @@ keywords:
   - "rhythm"
   - "calibration"
 aliases: []
+hide:
+  - toc
 ---
 
 # Finger Applause

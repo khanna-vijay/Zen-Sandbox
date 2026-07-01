@@ -52,6 +52,8 @@ keywords:
   - "verbal"
 aliases:
   - "Advancing and Expanding"
+hide:
+  - toc
 ---
 
 # Magnify the Action

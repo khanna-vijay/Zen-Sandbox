@@ -62,6 +62,8 @@ keywords:
   - "mapping"
   - "remote"
 aliases: []
+hide:
+  - toc
 ---
 
 # Theme Tapestry

@@ -61,6 +61,8 @@ keywords:
   - "empathy"
   - "connection"
 aliases: []
+hide:
+  - toc
 ---
 
 # Subtext Alchemy

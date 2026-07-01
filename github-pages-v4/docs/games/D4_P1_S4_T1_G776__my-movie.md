@@ -58,6 +58,8 @@ keywords:
   - "shortform"
 aliases:
   - "My Movie My Movie My Movie"
+hide:
+  - toc
 ---
 
 # My Movie, My Movie

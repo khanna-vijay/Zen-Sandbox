@@ -53,6 +53,8 @@ keywords:
   - "focus"
   - "warm-up"
 aliases: []
+hide:
+  - toc
 ---
 
 # System Overload

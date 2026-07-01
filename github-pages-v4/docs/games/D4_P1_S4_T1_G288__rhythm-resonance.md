@@ -60,6 +60,8 @@ keywords:
   - "thematic synthesis"
 aliases:
   - "The Ensemble Pulsation Game"
+hide:
+  - toc
 ---
 
 # Rhythmic Resonance

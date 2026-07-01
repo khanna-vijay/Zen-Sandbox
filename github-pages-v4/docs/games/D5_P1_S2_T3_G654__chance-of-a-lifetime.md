@@ -55,6 +55,8 @@ keywords:
   - "narrative"
   - "support"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Grand Opportunity

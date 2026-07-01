@@ -57,6 +57,8 @@ keywords:
   - "truth over pandering"
 aliases:
   - "SafetyNet Scenarios"
+hide:
+  - toc
 ---
 
 # Safety Net Scenarios

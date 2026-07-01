@@ -63,6 +63,8 @@ keywords:
   - "performance"
 aliases:
   - "Greatest Hits Variation"
+hide:
+  - toc
 ---
 
 # The Soundtrack Shop

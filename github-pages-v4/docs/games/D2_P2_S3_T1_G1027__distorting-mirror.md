@@ -49,6 +49,8 @@ keywords:
   - "concentration"
   - "pairs"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Distorted Mirror

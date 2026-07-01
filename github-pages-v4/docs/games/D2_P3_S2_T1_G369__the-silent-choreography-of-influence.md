@@ -61,6 +61,8 @@ keywords:
   - "physicality"
   - "active listening"
 aliases: []
+hide:
+  - toc
 ---
 
 # Silent Status Seesaw

@@ -50,6 +50,8 @@ keywords:
   - "circle game"
   - "jill bernard"
 aliases: []
+hide:
+  - toc
 ---
 
 # Epic Drop

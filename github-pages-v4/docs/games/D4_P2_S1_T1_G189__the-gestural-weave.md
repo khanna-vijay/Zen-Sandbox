@@ -62,6 +62,8 @@ keywords:
   - "scene-building"
 aliases:
   - "Gestural Weave"
+hide:
+  - toc
 ---
 
 # The Gestural Weave

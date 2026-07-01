@@ -62,6 +62,8 @@ keywords:
   - "crow"
 aliases:
   - "Plot Twist Master"
+hide:
+  - toc
 ---
 
 # The Twist Navigator

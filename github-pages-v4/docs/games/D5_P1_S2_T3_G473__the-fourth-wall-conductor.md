@@ -59,6 +59,8 @@ keywords:
   - "facilitator guided"
 aliases:
   - "Fourth Wall Conductor"
+hide:
+  - toc
 ---
 
 # The Fourth Wall Conductor

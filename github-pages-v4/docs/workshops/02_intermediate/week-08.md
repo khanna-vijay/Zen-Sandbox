@@ -1,5 +1,7 @@
 ---
 title: "W08 · Heightening the Pattern"
+hide:
+  - toc
 ---
 
 # Week 08 — Heightening the Pattern

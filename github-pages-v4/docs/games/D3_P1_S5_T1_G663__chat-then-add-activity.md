@@ -53,6 +53,8 @@ keywords:
   - "multitasking"
   - "physicality"
 aliases: []
+hide:
+  - toc
 ---
 
 # Dialogue and Doing

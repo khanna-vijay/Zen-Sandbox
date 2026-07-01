@@ -56,6 +56,8 @@ keywords:
   - "energy management"
   - "stage presence"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Echo Chamber

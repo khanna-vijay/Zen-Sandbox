@@ -54,6 +54,8 @@ keywords:
   - "concentration"
   - "attention"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Focus Crucible

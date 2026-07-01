@@ -56,6 +56,8 @@ keywords:
 aliases:
   - "Three Lines"
   - "Three Line Scenes"
+hide:
+  - toc
 ---
 
 # Three-Line Launches

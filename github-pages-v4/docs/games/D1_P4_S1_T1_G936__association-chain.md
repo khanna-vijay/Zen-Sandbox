@@ -45,6 +45,8 @@ keywords:
   - "brainstorming"
   - "cognitive"
 aliases: []
+hide:
+  - toc
 ---
 
 # Word Bridge

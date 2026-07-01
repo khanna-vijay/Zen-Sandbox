@@ -63,6 +63,8 @@ keywords:
   - "resonance"
   - "impulse"
 aliases: []
+hide:
+  - toc
 ---
 
 # Sonic Self-Sculpture

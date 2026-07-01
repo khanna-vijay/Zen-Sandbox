@@ -55,6 +55,8 @@ keywords:
 aliases:
   - "Good, Bad, Ugly Advice"
   - "Good, Bad and Ugly"
+hide:
+  - toc
 ---
 
 # The Advice Ladder

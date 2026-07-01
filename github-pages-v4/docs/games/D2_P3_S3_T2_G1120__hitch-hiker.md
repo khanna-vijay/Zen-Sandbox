@@ -63,6 +63,8 @@ keywords:
   - "ticks"
 aliases:
   - "Hitchhiker"
+hide:
+  - toc
 ---
 
 # The Hitchhiker

@@ -61,6 +61,8 @@ keywords:
   - "wants and avoids"
 aliases:
   - "Narrative Weave: A Collaborative Storytelling Game"
+hide:
+  - toc
 ---
 
 # The Narrative Loom

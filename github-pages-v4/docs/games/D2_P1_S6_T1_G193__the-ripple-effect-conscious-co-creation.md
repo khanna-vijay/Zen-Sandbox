@@ -56,6 +56,8 @@ keywords:
   - "truth over pandering"
   - "co-creation"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Ripple Signal

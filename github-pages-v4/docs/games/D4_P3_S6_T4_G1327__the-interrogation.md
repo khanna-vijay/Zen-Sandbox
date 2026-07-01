@@ -58,6 +58,8 @@ keywords:
   - "narrative"
   - "time jump"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Interrogation

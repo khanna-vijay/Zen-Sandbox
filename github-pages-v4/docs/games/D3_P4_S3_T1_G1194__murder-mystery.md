@@ -58,6 +58,8 @@ keywords:
   - "genre"
 aliases:
   - "Cluedo"
+hide:
+  - toc
 ---
 
 # Chamber Murder Mystery

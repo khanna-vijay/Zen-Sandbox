@@ -53,6 +53,8 @@ keywords:
   - "co-creation"
   - "listening"
 aliases: []
+hide:
+  - toc
 ---
 
 # Bedtime Story

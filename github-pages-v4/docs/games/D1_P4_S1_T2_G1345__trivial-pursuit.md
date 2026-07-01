@@ -51,6 +51,8 @@ keywords:
   - "audience suggestion"
   - "shortform"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Trivia Bluff

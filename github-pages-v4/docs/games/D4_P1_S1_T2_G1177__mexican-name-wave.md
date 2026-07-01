@@ -52,6 +52,8 @@ keywords:
   - "rhythm"
   - "coordination"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Counter-Current Wave

@@ -1,5 +1,7 @@
 ---
 title: Play for the Back Row
+hide:
+  - toc
 ---
 
 # 💎 Play for the Back Row

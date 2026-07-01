@@ -53,6 +53,8 @@ keywords:
 aliases:
   - "Blocking vs Accepting"
   - "Blocked and Unblocked"
+hide:
+  - toc
 ---
 
 # The Acceptance Progression

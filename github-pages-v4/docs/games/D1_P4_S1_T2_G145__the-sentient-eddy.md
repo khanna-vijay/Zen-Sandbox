@@ -73,6 +73,8 @@ keywords:
   - "vocal craft"
 aliases:
   - "The Sentient Eddy: Instantaneous Impulse-to-Expression Flow"
+hide:
+  - toc
 ---
 
 # The Resonance Eddy

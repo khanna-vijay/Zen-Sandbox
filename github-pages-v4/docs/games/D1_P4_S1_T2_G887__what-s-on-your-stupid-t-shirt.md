@@ -58,6 +58,8 @@ keywords:
   - "captioning"
 aliases:
   - "Stupid T-Shirt"
+hide:
+  - toc
 ---
 
 # Stupid T-Shirt

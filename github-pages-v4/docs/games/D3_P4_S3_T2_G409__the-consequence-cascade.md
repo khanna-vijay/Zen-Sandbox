@@ -59,6 +59,8 @@ keywords:
   - "story progression"
 aliases:
   - "Consequence Cascade"
+hide:
+  - toc
 ---
 
 # The Consequence Cascade

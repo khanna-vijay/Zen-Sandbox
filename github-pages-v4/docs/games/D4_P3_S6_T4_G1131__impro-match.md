@@ -65,6 +65,8 @@ aliases:
   - "Match d'Impro"
   - "Match d'Improvisation"
   - "L'Impro Match"
+hide:
+  - toc
 ---
 
 # The Rink Match

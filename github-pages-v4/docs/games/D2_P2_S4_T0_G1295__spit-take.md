@@ -56,6 +56,8 @@ keywords:
   - "slapstick"
   - "messy"
 aliases: []
+hide:
+  - toc
 ---
 
 # Spit Take

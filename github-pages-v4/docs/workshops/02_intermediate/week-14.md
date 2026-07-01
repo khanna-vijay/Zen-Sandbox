@@ -1,5 +1,7 @@
 ---
 title: "W14 · Support Work that Lands"
+hide:
+  - toc
 ---
 
 # Week 14 — Support Work that Lands

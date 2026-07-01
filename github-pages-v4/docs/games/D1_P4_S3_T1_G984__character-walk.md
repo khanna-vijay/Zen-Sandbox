@@ -51,6 +51,8 @@ keywords:
   - "inspiration"
   - "somatic"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Inspired Gait

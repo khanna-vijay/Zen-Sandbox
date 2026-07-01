@@ -60,6 +60,8 @@ keywords:
   - "editing"
   - "pacing"
 aliases: []
+hide:
+  - toc
 ---
 
 # Resonance Bridges

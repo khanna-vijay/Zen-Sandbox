@@ -58,6 +58,8 @@ keywords:
   - "chat prompt"
 aliases:
   - "Echo Chamber Chronicle"
+hide:
+  - toc
 ---
 
 # The Narrative Relay

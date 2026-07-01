@@ -65,6 +65,8 @@ keywords:
   - "space work"
 aliases:
   - "Non-Verbal Environmental Transformation"
+hide:
+  - toc
 ---
 
 # Shifting Landscapes

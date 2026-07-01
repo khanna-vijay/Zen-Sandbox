@@ -62,6 +62,8 @@ keywords:
   - "cooperation"
 aliases:
   - "The Arms"
+hide:
+  - toc
 ---
 
 # Composite Characters

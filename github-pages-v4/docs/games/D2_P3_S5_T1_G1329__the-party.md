@@ -58,6 +58,8 @@ keywords:
   - "guests"
 aliases:
   - "Party Quirks"
+hide:
+  - toc
 ---
 
 # The Guest List

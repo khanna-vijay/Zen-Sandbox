@@ -55,6 +55,8 @@ keywords:
   - "attention"
 aliases:
   - "Bippity Bippity Bop"
+hide:
+  - toc
 ---
 
 # Bippity Bippity Bop

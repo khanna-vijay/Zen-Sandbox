@@ -60,6 +60,8 @@ aliases:
   - "Airplane"
   - "Obstacle Course"
   - "Mine Field"
+hide:
+  - toc
 ---
 
 # The Guided Traveler

@@ -1,5 +1,7 @@
 ---
 title: "Workshops"
+hide:
+  - toc
 ---
 
 # 🎭 Improv Workshops — A Year of Lesson Plans

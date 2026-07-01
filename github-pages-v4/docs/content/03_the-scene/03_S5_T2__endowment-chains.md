@@ -1,5 +1,7 @@
 ---
 title: Endowment chains
+hide:
+  - toc
 ---
 
 # 🎯 Endowment chains

@@ -64,6 +64,8 @@ keywords:
   - "narrative integration"
   - "audience connection"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Shared Subconscious

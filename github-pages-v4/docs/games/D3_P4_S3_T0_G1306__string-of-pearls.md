@@ -53,6 +53,8 @@ keywords:
 aliases:
   - "Story String"
   - "Beads on a String"
+hide:
+  - toc
 ---
 
 # String of Pearls

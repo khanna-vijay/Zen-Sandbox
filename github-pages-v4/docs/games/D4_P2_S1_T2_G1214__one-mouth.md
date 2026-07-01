@@ -61,6 +61,8 @@ aliases:
   - "Speak in One Voice"
   - "Shared Voice"
   - "Many Mouths"
+hide:
+  - toc
 ---
 
 # The Single Voice

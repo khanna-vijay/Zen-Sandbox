@@ -59,6 +59,8 @@ keywords:
   - "weaver"
   - "side-coaching"
 aliases: []
+hide:
+  - toc
 ---
 
 # Atmosphere Weave

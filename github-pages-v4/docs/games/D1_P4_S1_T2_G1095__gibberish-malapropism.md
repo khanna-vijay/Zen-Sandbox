@@ -50,6 +50,8 @@ keywords:
   - "vocal"
 aliases:
   - "Jabbertalk Malapropism"
+hide:
+  - toc
 ---
 
 # Nonsense Labels

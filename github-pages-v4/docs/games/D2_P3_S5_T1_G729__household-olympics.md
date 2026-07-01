@@ -63,6 +63,8 @@ keywords:
 aliases:
   - "Olympic Vacuuming"
   - "Domestic Olympics"
+hide:
+  - toc
 ---
 
 # Household Olympiad

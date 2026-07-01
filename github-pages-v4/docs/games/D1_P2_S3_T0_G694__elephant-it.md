@@ -49,6 +49,8 @@ keywords:
   - "elephant"
   - "icebreaker"
 aliases: []
+hide:
+  - toc
 ---
 
 # Trunk Tag

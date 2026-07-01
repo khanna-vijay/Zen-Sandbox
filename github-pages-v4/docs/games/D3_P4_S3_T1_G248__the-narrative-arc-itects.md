@@ -54,6 +54,8 @@ keywords:
   - "narrative engine"
   - "facilitated"
 aliases: []
+hide:
+  - toc
 ---
 
 # Narrative Engine Room

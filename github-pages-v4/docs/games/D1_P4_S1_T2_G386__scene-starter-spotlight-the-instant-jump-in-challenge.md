@@ -60,6 +60,8 @@ keywords:
 aliases:
   - "Scene Starter Spotlight"
   - "The Instant Jump-In Challenge"
+hide:
+  - toc
 ---
 
 # Spotlight Roulette

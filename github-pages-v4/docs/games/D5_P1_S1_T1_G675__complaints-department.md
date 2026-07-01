@@ -50,6 +50,8 @@ keywords:
   - "shop"
   - "returning items"
 aliases: []
+hide:
+  - toc
 ---
 
 # Complaints Department

@@ -49,6 +49,8 @@ keywords:
   - "sensory"
   - "spatial awareness"
 aliases: []
+hide:
+  - toc
 ---
 
 # Blind Runway

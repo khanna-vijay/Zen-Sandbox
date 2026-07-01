@@ -62,6 +62,8 @@ keywords:
   - "last word"
 aliases:
   - "The Empathic Echo Chamber"
+hide:
+  - toc
 ---
 
 # The Partner's Prism

@@ -64,6 +64,8 @@ keywords:
 aliases:
   - "Visual Yes, And"
   - "The Evolving Screenplay"
+hide:
+  - toc
 ---
 
 # The Evolving Screenplay

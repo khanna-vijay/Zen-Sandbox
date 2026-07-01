@@ -58,6 +58,8 @@ keywords:
   - "room reading"
   - "stage presence"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Fourth Wall Conductor

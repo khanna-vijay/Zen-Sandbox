@@ -55,6 +55,8 @@ aliases:
   - "Crazy Eights"
   - "Rubber Chicken"
   - "Crazy 8s"
+hide:
+  - toc
 ---
 
 # The Shakeout Countdown

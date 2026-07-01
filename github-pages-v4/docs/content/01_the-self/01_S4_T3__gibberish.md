@@ -1,5 +1,7 @@
 ---
 title: Gibberish
+hide:
+  - toc
 ---
 
 # 🎯 Gibberish

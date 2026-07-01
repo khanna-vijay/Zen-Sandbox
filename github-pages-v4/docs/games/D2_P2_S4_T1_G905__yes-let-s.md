@@ -61,6 +61,8 @@ keywords:
   - "enthusiasm"
 aliases:
   - "Yes, Let's!"
+hide:
+  - toc
 ---
 
 # Yes, Let's!

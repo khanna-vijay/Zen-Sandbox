@@ -60,6 +60,8 @@ keywords:
   - "gellman"
 aliases:
   - "Henry, Son of Harold"
+hide:
+  - toc
 ---
 
 # Township Threads

@@ -58,6 +58,8 @@ keywords:
   - "meta-improv"
   - "audience connection"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Intent Architect

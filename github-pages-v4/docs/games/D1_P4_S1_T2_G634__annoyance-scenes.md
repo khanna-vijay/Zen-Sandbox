@@ -55,6 +55,8 @@ keywords:
   - "immediate starts"
   - "flow"
 aliases: []
+hide:
+  - toc
 ---
 
 # Rapid Number Duos

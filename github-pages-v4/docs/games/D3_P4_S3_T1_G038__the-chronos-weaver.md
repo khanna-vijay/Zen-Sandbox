@@ -58,6 +58,8 @@ keywords:
   - "plotting"
 aliases:
   - "The Chronos Weaver: Consciously Shaping Narrative Future"
+hide:
+  - toc
 ---
 
 # The Plot Weaver

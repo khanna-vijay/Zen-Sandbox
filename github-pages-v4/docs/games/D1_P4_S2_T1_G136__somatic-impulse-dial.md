@@ -63,6 +63,8 @@ keywords:
   - "breath work"
 aliases:
   - "The Sensory Symphony of Self"
+hide:
+  - toc
 ---
 
 # Somatic Impulse Dial

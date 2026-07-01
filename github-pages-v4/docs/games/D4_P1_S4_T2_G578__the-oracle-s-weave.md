@@ -63,6 +63,8 @@ keywords:
   - "storytelling"
 aliases:
   - "Oracle's Weave"
+hide:
+  - toc
 ---
 
 # The Seamless Oracle

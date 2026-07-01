@@ -58,6 +58,8 @@ keywords:
   - "clarity"
 aliases:
   - "Unseen Audience Crucible"
+hide:
+  - toc
 ---
 
 # The Silent Crucible

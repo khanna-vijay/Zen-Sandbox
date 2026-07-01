@@ -68,6 +68,8 @@ keywords:
   - "emotional endowment"
 aliases:
   - "Emotional Echo and Factual Co-creation"
+hide:
+  - toc
 ---
 
 # Resonance Weave

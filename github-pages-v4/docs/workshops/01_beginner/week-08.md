@@ -1,5 +1,7 @@
 ---
 title: "W08 · Yes, And — Accept & Add"
+hide:
+  - toc
 ---
 
 # Week 08 — Yes, And — Accept & Add

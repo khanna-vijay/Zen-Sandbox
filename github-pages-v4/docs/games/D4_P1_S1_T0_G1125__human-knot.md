@@ -51,6 +51,8 @@ keywords:
   - "untangle"
   - "knot"
 aliases: []
+hide:
+  - toc
 ---
 
 # Ensemble Knot

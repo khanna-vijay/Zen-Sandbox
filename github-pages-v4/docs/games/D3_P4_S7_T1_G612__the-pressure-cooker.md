@@ -56,6 +56,8 @@ keywords:
   - "conflict"
 aliases:
   - "Pressure Cooker"
+hide:
+  - toc
 ---
 
 # The Pressure Cooker

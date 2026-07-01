@@ -68,6 +68,8 @@ keywords:
   - "physicality"
 aliases:
   - "Relational Leverage Through Non-verbal Status Modulation"
+hide:
+  - toc
 ---
 
 # Status Architects

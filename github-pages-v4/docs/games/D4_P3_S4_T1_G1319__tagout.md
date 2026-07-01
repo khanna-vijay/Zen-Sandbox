@@ -53,6 +53,8 @@ keywords:
 aliases:
   - "Tag-Outs"
   - "Tag Play"
+hide:
+  - toc
 ---
 
 # The Tag-Out Edit

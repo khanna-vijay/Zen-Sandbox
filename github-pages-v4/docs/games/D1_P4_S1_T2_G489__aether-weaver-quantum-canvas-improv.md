@@ -60,6 +60,8 @@ keywords:
   - "yes-and"
 aliases:
   - "Rapid-Fire Chat Brainstorm"
+hide:
+  - toc
 ---
 
 # Rapid Chat Roulette

@@ -56,6 +56,8 @@ keywords:
   - "enthusiasm"
   - "fast-paced"
 aliases: []
+hide:
+  - toc
 ---
 
 # Instant Support Rush

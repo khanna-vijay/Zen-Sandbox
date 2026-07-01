@@ -63,6 +63,8 @@ keywords:
 aliases:
   - "Silent Scripting"
   - "Zoom Whispers"
+hide:
+  - toc
 ---
 
 # The Silent Script

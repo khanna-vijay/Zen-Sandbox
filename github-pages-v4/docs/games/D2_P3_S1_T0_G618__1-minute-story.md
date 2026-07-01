@@ -49,6 +49,8 @@ keywords:
   - "connection"
   - "sharing"
 aliases: []
+hide:
+  - toc
 ---
 
 # Sixty-Second Biography

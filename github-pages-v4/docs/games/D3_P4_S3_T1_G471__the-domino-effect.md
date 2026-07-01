@@ -58,6 +58,8 @@ keywords:
   - "chain reaction"
   - "facilitator prompt"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Domino Effect

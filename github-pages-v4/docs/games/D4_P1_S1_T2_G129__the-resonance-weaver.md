@@ -63,6 +63,8 @@ keywords:
   - "coalescence"
 aliases:
   - "The Resonant Tapestry"
+hide:
+  - toc
 ---
 
 # Resonant Tapestry

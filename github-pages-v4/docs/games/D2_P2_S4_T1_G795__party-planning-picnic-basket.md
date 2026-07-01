@@ -54,6 +54,8 @@ keywords:
 aliases:
   - "Picnic Basket"
   - "Party Planning"
+hide:
+  - toc
 ---
 
 # The Event Planners

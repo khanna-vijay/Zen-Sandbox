@@ -55,6 +55,8 @@ keywords:
 aliases:
   - "Gibberish Replay"
   - "Jabbertalk Replay"
+hide:
+  - toc
 ---
 
 # Gibberish Replay

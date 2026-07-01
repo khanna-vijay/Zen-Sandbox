@@ -53,6 +53,8 @@ keywords:
   - "chicken"
   - "dinosaur"
 aliases: []
+hide:
+  - toc
 ---
 
 # Evolution

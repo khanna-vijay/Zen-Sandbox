@@ -70,6 +70,8 @@ keywords:
   - "ensemble"
   - "mapping"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Ensemble Blueprint Assembly

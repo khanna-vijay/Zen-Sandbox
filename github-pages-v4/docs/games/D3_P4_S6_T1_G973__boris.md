@@ -59,6 +59,8 @@ keywords:
   - "accusation"
   - "invisible partner"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Invisible Enforcer

@@ -61,6 +61,8 @@ keywords:
   - "circle game"
   - "warm-up"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Unveiled Impulse

@@ -59,6 +59,8 @@ keywords:
   - "movement"
   - "ensemble"
 aliases: []
+hide:
+  - toc
 ---
 
 # Instant Backup Dancers

@@ -55,6 +55,8 @@ keywords:
   - "fast-paced"
   - "association"
 aliases: []
+hide:
+  - toc
 ---
 
 # Syllable Split

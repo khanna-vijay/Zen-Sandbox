@@ -56,6 +56,8 @@ keywords:
 aliases:
   - "This Reminds Me Of"
   - "Reminds Me Of"
+hide:
+  - toc
 ---
 
 # Association Edits

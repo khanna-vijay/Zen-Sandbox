@@ -51,6 +51,8 @@ keywords:
   - "unison"
   - "physicality"
 aliases: []
+hide:
+  - toc
 ---
 
 # Walk, Stop, Shuffle, Drop

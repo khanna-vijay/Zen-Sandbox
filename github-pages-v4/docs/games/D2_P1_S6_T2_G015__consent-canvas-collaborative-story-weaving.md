@@ -55,6 +55,8 @@ keywords:
   - "negotiation"
   - "truth over pandering"
 aliases: []
+hide:
+  - toc
 ---
 
 # Boundary Canvas

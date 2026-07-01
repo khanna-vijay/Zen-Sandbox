@@ -56,6 +56,8 @@ keywords:
   - "concentration"
 aliases:
   - "Pass the Object"
+hide:
+  - toc
 ---
 
 # The Physicality Circuit

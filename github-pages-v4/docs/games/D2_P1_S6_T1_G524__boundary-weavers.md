@@ -55,6 +55,8 @@ keywords:
   - "active listening"
   - "negotiation"
 aliases: []
+hide:
+  - toc
 ---
 
 # Boundary Cartography

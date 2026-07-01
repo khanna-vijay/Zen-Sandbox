@@ -62,6 +62,8 @@ keywords:
   - "audience participation"
 aliases:
   - "New Choice with Horns"
+hide:
+  - toc
 ---
 
 # The Honk Engine

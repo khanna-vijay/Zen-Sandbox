@@ -1,5 +1,7 @@
 ---
 title: "W07 · Finding the Game"
+hide:
+  - toc
 ---
 
 # Week 07 — Finding the Game

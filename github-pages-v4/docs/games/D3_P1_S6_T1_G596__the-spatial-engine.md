@@ -62,6 +62,8 @@ keywords:
   - "conductor"
 aliases:
   - "The Spatial Engine: Using Physical Shifts for Narrative Progression"
+hide:
+  - toc
 ---
 
 # The Spatial Engine

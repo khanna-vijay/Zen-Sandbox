@@ -55,6 +55,8 @@ keywords:
   - "reveal"
   - "suspense"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Unwitting Guest

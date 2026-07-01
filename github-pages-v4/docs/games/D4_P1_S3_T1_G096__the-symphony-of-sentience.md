@@ -58,6 +58,8 @@ keywords:
   - "sound and movement"
   - "collective consciousness"
 aliases: []
+hide:
+  - toc
 ---
 
 # Symphony of Sentience

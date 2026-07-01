@@ -67,6 +67,8 @@ keywords:
   - "partnership"
   - "make your partner a genius"
 aliases: []
+hide:
+  - toc
 ---
 
 # Emotional Alchemy

@@ -51,6 +51,8 @@ keywords:
   - "warm-up"
   - "holding hands"
 aliases: []
+hide:
+  - toc
 ---
 
 # Linked Mirror Lines

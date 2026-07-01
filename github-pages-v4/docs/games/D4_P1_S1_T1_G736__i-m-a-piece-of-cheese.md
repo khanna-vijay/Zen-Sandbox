@@ -63,6 +63,8 @@ aliases:
   - "Three in a Circle"
   - "I am a Whisk"
   - "I am a Tree"
+hide:
+  - toc
 ---
 
 # Three-Part Picture

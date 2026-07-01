@@ -1,5 +1,7 @@
 ---
 title: The Emotional Dial (1→10)
+hide:
+  - toc
 ---
 
 # 🎯 The Emotional Dial (1→10)

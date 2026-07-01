@@ -61,6 +61,8 @@ keywords:
 aliases:
   - "Emotional Zones"
   - "Zones"
+hide:
+  - toc
 ---
 
 # The Resonance Labyrinth

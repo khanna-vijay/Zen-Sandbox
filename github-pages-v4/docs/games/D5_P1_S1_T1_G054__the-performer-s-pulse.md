@@ -60,6 +60,8 @@ keywords:
   - "stage presence"
   - "projection"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Resonance Dial

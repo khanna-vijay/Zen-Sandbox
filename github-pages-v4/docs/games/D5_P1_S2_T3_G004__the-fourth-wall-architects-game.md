@@ -60,6 +60,8 @@ keywords:
   - "stage presence"
 aliases:
   - "Fourth Wall Architects"
+hide:
+  - toc
 ---
 
 # Architects of the Wall

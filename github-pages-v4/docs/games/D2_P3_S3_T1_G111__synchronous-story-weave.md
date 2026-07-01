@@ -63,6 +63,8 @@ keywords:
   - "yes-and"
   - "story-weaving"
 aliases: []
+hide:
+  - toc
 ---
 
 # Synchronous Story Weave

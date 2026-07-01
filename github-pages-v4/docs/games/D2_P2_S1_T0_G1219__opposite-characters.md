@@ -59,6 +59,8 @@ keywords:
   - "shopkeeper"
   - "contrast"
 aliases: []
+hide:
+  - toc
 ---
 
 # Polar Opposites

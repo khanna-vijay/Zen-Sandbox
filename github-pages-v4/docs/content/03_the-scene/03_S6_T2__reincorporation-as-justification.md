@@ -1,5 +1,7 @@
 ---
 title: Reincorporation-as-justification
+hide:
+  - toc
 ---
 
 # 🎯 Reincorporation-as-justification

@@ -1,5 +1,7 @@
 ---
 title: Stakes-escalation reps
+hide:
+  - toc
 ---
 
 # 🎯 Stakes-escalation reps

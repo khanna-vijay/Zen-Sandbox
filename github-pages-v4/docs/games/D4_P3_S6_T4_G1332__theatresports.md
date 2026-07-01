@@ -62,6 +62,8 @@ keywords:
 aliases:
   - "Theatre Sports"
   - "Danish Theatresports"
+hide:
+  - toc
 ---
 
 # Competitive Improv Showdown

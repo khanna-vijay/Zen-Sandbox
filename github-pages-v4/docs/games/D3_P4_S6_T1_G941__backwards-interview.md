@@ -55,6 +55,8 @@ keywords:
   - "limitation"
 aliases:
   - "Backwards Scene"
+hide:
+  - toc
 ---
 
 # Reverse Interview

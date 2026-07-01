@@ -61,6 +61,8 @@ keywords:
 aliases:
   - "The Living Canvas"
   - "Scene Sculptors"
+hide:
+  - toc
 ---
 
 # Digital Space Sculptors

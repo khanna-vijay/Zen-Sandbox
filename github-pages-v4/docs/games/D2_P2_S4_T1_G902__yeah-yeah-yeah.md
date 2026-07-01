@@ -57,6 +57,8 @@ keywords:
   - "positivity"
   - "pairs"
 aliases: []
+hide:
+  - toc
 ---
 
 # Yeah Yeah Yeah

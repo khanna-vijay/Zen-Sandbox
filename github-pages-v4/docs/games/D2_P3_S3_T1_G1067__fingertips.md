@@ -53,6 +53,8 @@ keywords:
   - "partnering"
 aliases:
   - "Fingertip Lead"
+hide:
+  - toc
 ---
 
 # Fingertip Guide

@@ -53,6 +53,8 @@ keywords:
   - "dying"
 aliases:
   - "Poison Arms"
+hide:
+  - toc
 ---
 
 # Slow-Motion Duelists

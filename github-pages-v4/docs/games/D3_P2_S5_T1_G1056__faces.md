@@ -61,6 +61,8 @@ keywords:
   - "projection"
   - "audience-suggestion"
 aliases: []
+hide:
+  - toc
 ---
 
 # Portrait Gallery

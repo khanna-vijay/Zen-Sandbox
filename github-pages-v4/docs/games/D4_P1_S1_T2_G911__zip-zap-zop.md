@@ -58,6 +58,8 @@ keywords:
   - "eye contact"
   - "concentration"
 aliases: []
+hide:
+  - toc
 ---
 
 # Zip Zap Zop

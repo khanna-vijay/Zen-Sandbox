@@ -54,6 +54,8 @@ keywords:
   - "line game"
   - "warm-up"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Neologism Bee

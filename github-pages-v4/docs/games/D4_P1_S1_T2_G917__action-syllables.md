@@ -55,6 +55,8 @@ keywords:
   - "mirroring"
   - "circle game"
 aliases: []
+hide:
+  - toc
 ---
 
 # Action Syllables

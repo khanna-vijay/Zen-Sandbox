@@ -58,6 +58,8 @@ aliases:
   - "Canadian Who What Where"
   - "Who What Where Now Support Team"
   - "Who What Where Mini Scenes"
+hide:
+  - toc
 ---
 
 # Base Reality Barometers

@@ -58,6 +58,8 @@ keywords:
   - "storytelling"
 aliases:
   - "Ripple and Resonance"
+hide:
+  - toc
 ---
 
 # Ripple and Resonance

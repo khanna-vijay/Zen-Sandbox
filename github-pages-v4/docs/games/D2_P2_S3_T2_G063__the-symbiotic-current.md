@@ -65,6 +65,8 @@ keywords:
   - "connection"
   - "emotional echo"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Symbiotic Current

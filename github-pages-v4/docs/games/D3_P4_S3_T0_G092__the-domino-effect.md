@@ -59,6 +59,8 @@ keywords:
   - "obstacles"
 aliases:
   - "The Domino Effect: Collaborative Narrative Arc Building"
+hide:
+  - toc
 ---
 
 # The Domino Effect

@@ -66,6 +66,8 @@ keywords:
   - "object work"
   - "silent"
 aliases: []
+hide:
+  - toc
 ---
 
 # Choreographed Consensus

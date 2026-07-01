@@ -65,6 +65,8 @@ keywords:
   - "peripheral awareness"
 aliases:
   - "Echo Weave"
+hide:
+  - toc
 ---
 
 # The Echo Chamber Weave

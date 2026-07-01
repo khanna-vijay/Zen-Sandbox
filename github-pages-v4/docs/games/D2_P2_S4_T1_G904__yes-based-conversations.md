@@ -55,6 +55,8 @@ keywords:
   - "acceptance"
   - "base reality"
 aliases: []
+hide:
+  - toc
 ---
 
 # Affirmative Exchanges

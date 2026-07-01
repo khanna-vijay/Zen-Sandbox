@@ -54,6 +54,8 @@ keywords:
   - "object work"
   - "short-form"
 aliases: []
+hide:
+  - toc
 ---
 
 # Living Props

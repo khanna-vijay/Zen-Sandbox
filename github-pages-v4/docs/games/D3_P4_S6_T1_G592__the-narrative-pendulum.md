@@ -60,6 +60,8 @@ keywords:
   - "character development"
   - "scene architecture"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Narrative Pendulum

@@ -59,6 +59,8 @@ keywords:
 aliases:
   - "Split Scene"
   - "Simultaneous Scenes"
+hide:
+  - toc
 ---
 
 # Simultaneous Worlds

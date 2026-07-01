@@ -54,6 +54,8 @@ keywords:
   - "opening scene"
   - "reincorporation"
 aliases: []
+hide:
+  - toc
 ---
 
 # Deconstruction

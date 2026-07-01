@@ -63,6 +63,8 @@ keywords:
   - "circle game"
 aliases:
   - "The Internal Dialect"
+hide:
+  - toc
 ---
 
 # The Emotional Dialect

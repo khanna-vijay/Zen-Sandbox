@@ -56,6 +56,8 @@ keywords:
   - "incorporation"
   - "absurdity"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Hesitation Scene

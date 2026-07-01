@@ -57,6 +57,8 @@ keywords:
   - "mirroring"
   - "limitations"
 aliases: []
+hide:
+  - toc
 ---
 
 # Split Screen

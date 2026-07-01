@@ -59,6 +59,8 @@ keywords:
   - "truth over pandering"
 aliases:
   - "Echo & Flow: The Embodied Narrative"
+hide:
+  - toc
 ---
 
 # The Consent Compass

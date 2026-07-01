@@ -61,6 +61,8 @@ keywords:
 aliases:
   - "Holiday Slideshow"
   - "Slide Show"
+hide:
+  - toc
 ---
 
 # Holiday Slideshow

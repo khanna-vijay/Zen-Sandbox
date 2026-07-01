@@ -60,6 +60,8 @@ keywords:
   - "non-verbal"
   - "projection"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Anchor Gesture

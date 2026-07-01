@@ -53,6 +53,8 @@ keywords:
   - "high-energy"
   - "contact"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Millipede

@@ -52,6 +52,8 @@ keywords:
   - "cooperation"
   - "warm-up"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Complaint Letter

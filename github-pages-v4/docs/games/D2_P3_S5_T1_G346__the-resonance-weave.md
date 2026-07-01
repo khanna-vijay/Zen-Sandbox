@@ -62,6 +62,8 @@ keywords:
   - "empathy"
   - "non-verbal"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Resonance Weave

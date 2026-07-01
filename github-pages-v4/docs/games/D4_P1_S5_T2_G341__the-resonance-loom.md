@@ -65,6 +65,8 @@ keywords:
   - "peripheral awareness"
   - "active listening"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Resonance Loom

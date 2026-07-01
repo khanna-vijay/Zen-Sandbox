@@ -58,6 +58,8 @@ keywords:
   - "low stakes"
   - "pairing"
 aliases: []
+hide:
+  - toc
 ---
 
 # Parallel Worlds Walkabout

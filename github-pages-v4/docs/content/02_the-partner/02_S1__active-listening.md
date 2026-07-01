@@ -1,5 +1,7 @@
 ---
 title: Active Listening
+hide:
+  - toc
 ---
 
 # 🧠 Active Listening

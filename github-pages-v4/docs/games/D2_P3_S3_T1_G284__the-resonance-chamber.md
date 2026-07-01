@@ -66,6 +66,8 @@ keywords:
   - "non-verbal"
   - "status seesaw"
 aliases: []
+hide:
+  - toc
 ---
 
 # Resonant Attunement

@@ -53,6 +53,8 @@ keywords:
   - "empathy"
   - "character"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Mirror

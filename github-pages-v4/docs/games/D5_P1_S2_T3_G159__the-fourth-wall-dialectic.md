@@ -63,6 +63,8 @@ keywords:
 aliases:
   - "The Symbiotic Resonance Protocol"
   - "Symbiotic Resonance Protocol"
+hide:
+  - toc
 ---
 
 # The Fourth Wall Dialectic

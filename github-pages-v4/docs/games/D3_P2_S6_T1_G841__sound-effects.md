@@ -61,6 +61,8 @@ keywords:
 aliases:
   - "SFX"
   - "Audience Sound Effects"
+hide:
+  - toc
 ---
 
 # Sound Effects

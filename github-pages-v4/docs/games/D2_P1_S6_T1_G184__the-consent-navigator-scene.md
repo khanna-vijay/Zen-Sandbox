@@ -55,6 +55,8 @@ keywords:
   - "coaching"
 aliases:
   - "Boundary Weaver"
+hide:
+  - toc
 ---
 
 # The Consent Navigator

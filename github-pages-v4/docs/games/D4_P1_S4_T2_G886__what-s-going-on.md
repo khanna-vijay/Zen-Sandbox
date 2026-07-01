@@ -57,6 +57,8 @@ keywords:
   - "environment"
   - "world-building"
 aliases: []
+hide:
+  - toc
 ---
 
 # What's Going On

@@ -56,6 +56,8 @@ keywords:
   - "truth-over-pandering"
 aliases:
   - "Consent Compass"
+hide:
+  - toc
 ---
 
 # The Consent Compass

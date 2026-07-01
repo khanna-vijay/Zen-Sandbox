@@ -63,6 +63,8 @@ keywords:
 aliases:
   - "The Improv Tapestry"
   - "Zoom Scroll Scene"
+hide:
+  - toc
 ---
 
 # The Digital Tapestry
