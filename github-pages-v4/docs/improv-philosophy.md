@@ -24,7 +24,7 @@ In the modern landscape increasingly defined by rigid structures and the "inhibi
 
 We are not failing to *become* creative. We are succeeding, tragically, at *suppressing* what we already are.
 
-Vivekananda's elaborated a profound True North vision for us. He did not preach the acquisition of greatness but its *manifestation*: ***"All power is within you. You can do anything and everything. Believe in that. Do not believe that you are weak... Stand up and express the divinity within you."*** The improviser's stage is simply a place where this divinity (the potential), this latent, abundant, spontaneous intelligence is given permission to express itself.
+Vivekananda elaborated a profound True North vision for us. He did not preach the acquisition of greatness but its *manifestation*: ***"All power is within you. You can do anything and everything. Believe in that. Do not believe that you are weak... Stand up and express the divinity within you."*** The improviser's stage is simply a place where this divinity (the potential), this latent, abundant, spontaneous intelligence is given permission to express itself.
 
 ## The Intrapersonal Foundation: The War of the Two Selves
 
