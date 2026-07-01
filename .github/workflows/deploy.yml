@@ -50,6 +50,10 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Build site (strict — fails on broken links)
+        # GA4 measurement ID (public, not a secret) kept out of the repo as a
+        # repository variable; Material injects it via the !ENV tag in mkdocs.yml.
+        env:
+          GA_KEY: ${{ vars.GA_KEY }}
         run: mkdocs build --strict
 
       - name: Upload Pages artifact
