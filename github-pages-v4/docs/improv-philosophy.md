@@ -1,5 +1,7 @@
 ---
 title: My Philosophical view on Improv
+hide:
+  - toc
 ---
 
 # My Philosophical Analysis of Improv

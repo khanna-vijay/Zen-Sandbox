@@ -15,6 +15,9 @@ not_in_nav: |
   games/D*.md
   community-guidelines.md
   improv-synopsis.md
+# Previous framework kept in the repo for reference but not published to the site.
+exclude_docs: |
+  improv-maturity-framework_old.md
 
 theme:
   name: material
@@ -77,7 +80,6 @@ nav:
       - index.md
       - My Philosophical view on Improv: improv-philosophy.md
       - Improv Framework: improv-maturity-framework.md
-      - Improv Framework (v2 — consolidated): improv-maturity-framework-v2.md
   - Workshops:
       - Overview: workshops/index.md
       - "Foundations":
