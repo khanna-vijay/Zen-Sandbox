@@ -16,7 +16,7 @@ hide:
 
 This is the paradox at the heart of human condition “What we most desire: to be spontaneous, alive, fully present, creative, free and happy - cannot be *acquired*. It can only be *uncovered*.” We are not empty vessels to be filled with technique; we are a luminous mirror covered with dust. The goal, then, is not addition but subtraction. Not learning but **unlearning**. Not striving but **allowing**.
 
-This is the secret that unites the profound wisdom through ages : Tennis court of Gallwey, Flow-state laboratory of Csíkszentmihályi, the meditation cushion of the *Satipaṭṭhāna* practitioner, the growth-laboratory of Dweck, the improv stage of Johnstone, and the towering vision of Vivekananda: **“The power you seek is already within you. The practice merely removes the obstructions”.** Which resonates with Tim Gallwey’s formula **Performance = Potential – Interference.**
+This is the secret that unites the profound wisdom through ages : Tennis court of Gallwey, Flow-state laboratory of Csíkszentmihályi, the meditation of the Zen (*Satipaṭṭhāna*) practitioner, the growth-laboratory of Dweck, the improv stage of Johnstone, and Vivekananda **“The power you seek is already within you. The practice merely removes the obstructions”.** Which resonates with Tim Gallwey’s formula **Performance = Potential – Interference.**
 
 **Improvisation**, properly understood, is not a theatrical curiosity. It is one of humanity's most elegant framework and a laboratory of the self, disguised as play.
 
@@ -26,7 +26,7 @@ In the modern landscape increasingly defined by rigid structures and the "inhibi
 
 We are not failing to *become* creative. We are succeeding, tragically, at *suppressing* what we already are.
 
-Vivekananda elaborated a profound True North vision for us. He did not preach the acquisition of greatness but its *manifestation*: ***"All power is within you. You can do anything and everything"*** The improviser's stage is simply a place where this potential is given permission to express itself.
+Vivekananda elaborated ***"All power is within you. You can do anything and everything"*** The improviser's stage is simply a place where this potential is given permission to express itself.
 
 ## The Intrapersonal Foundation: The War of the Two Selves
 
@@ -44,7 +44,7 @@ And remarkably, neuroscience research also agrees to *this*. Dr. Charles Limb, p
 
 The **Zen** practitioner cultivates non-judging awareness of what is, moment to moment. Not analyzing the breath, but *being with* the breath. Not attaching to sensations, but *observing* them as-it-is moment to moment.
 
-The improviser cultivates the identical faculty, but in motion and in relationship. To truly listen to a scene partner, not to plan your clever response, but to *receive* them completely is *sati* in action. The improviser who is fully present is not "doing improv." **They become one** **with everything**. They are doing the same thing the meditator does: *resting in the open awareness of this moment, free of the editing mind.* This is why so many describe a great scene as a meditative, even egoless, experience. The two selves have reconciled; Self 1 has gone quiet; only Self 2 and the present moment remain. Unlocking Peak Performance.
+The improviser cultivates the identical faculty, but in motion and in relationship. To truly listen to a scene partner, not to plan your clever response, but to *receive* them completely is *sati* in action. The improviser who is fully present is not "doing improv." **They Become One**. They are doing the same thing the meditator does: *resting in the open awareness of this moment, free of the editing mind.* This is why so many describe a great scene as a meditative, even egoless, experience. The two selves have reconciled; Self 1 has gone quiet; only Self 2 and the present moment remain. Unlocking Peak Performance.
 
 **The Principles of Interiority**
 
