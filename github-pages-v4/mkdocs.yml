@@ -4,7 +4,9 @@ site_description: A complete improv mastery framework — domains, principles, s
 site_url: https://khanna-vijay.github.io/Zen-Sandbox/
 repo_url: https://github.com/khanna-vijay/Zen-Sandbox
 repo_name: khanna-vijay/Zen-Sandbox · v3
-copyright: "An Improv Framework — v3"
+copyright: >-
+  An Improv Framework — v3 ·
+  <a href="#__consent">Cookie settings</a>
 
 extra:
   generator: false        # remove the "Made with Material for MkDocs" footer notice
@@ -14,6 +16,20 @@ extra:
     # GitHub Actions repo variable → deploy.yml). Empty locally ⇒ analytics simply
     # omitted (Material skips it when property is blank), so local builds stay clean.
     property: !ENV [GA_KEY, ""]
+  # Cookie-consent banner. With analytics configured above, Material gates the
+  # Google Analytics cookies behind this consent — nothing is set until the
+  # visitor accepts (and "reject" keeps GA off). Change/withdraw via the footer link.
+  consent:
+    title: 🍪 Cookies on Zen Sandbox
+    description: >-
+      We use Google Analytics cookies to understand which pages help visitors
+      most, so we can improve the site. No analytics cookies are set until you
+      accept — and you can change or withdraw your choice anytime via
+      “Cookie settings” in the footer.
+    actions:
+      - accept
+      - reject
+      - manage
 
 docs_dir: docs
 strict: true
