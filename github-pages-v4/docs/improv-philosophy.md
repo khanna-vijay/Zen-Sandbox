@@ -113,14 +113,4 @@ The world will endlessly hand you unscripted offers, but the power to transform 
 
 ---
 
->> **Veneration to the Zen Masters**
-
-> "It takes a very long time to become young." - Pablo Picasso
- 
-> "There is nothing either good or bad, but thinking makes it so." - Shakespeare, Hamlet
-
-> "The ability to observe without evaluating is the highest form of intelligence." - Jiddu Krishnamurti 
-
-> 
-
 
