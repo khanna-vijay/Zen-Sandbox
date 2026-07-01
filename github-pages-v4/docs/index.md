@@ -3,7 +3,7 @@ hide:
   - toc          # no right-hand table of contents on the landing page — the hero image uses that space
 ---
 
-# About Us: The Zen Sandbox
+# About - Zen Sandbox
 
 > *Playfully "Powered by AI" - Ancient Intelligence.*
 >
