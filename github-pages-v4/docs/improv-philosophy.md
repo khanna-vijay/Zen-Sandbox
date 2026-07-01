@@ -26,13 +26,13 @@ In the modern landscape increasingly defined by rigid structures and the "inhibi
 
 We are not failing to *become* creative. We are succeeding, tragically, at *suppressing* what we already are.
 
-Vivekananda elaborated a profound True North vision for us. He did not preach the acquisition of greatness but its *manifestation*: ***"All power is within you. You can do anything and everything. Believe in that. Do not believe that you are weak... Stand up and express the divinity within you."*** The improviser's stage is simply a place where this divinity (the potential), this latent, abundant, spontaneous intelligence is given permission to express itself.
+Vivekananda elaborated a profound True North vision for us. He did not preach the acquisition of greatness but its *manifestation*: ***"All power is within you. You can do anything and everything"*** The improviser's stage is simply a place where this potential is given permission to express itself.
 
 ## The Intrapersonal Foundation: The War of the Two Selves
 
 To understand the inner dimension of improv, we must first understand that within every human being there are two presences, two voices, two selves. Or we can call them Conscious Self, and Sub-Conscious Self. Though I think of Sub-Conscious Self as Super-Conscious Self.
 
-Interestingly all the Zen Philosophers have been pointing to the same ‘*Philosophia Perennis’* since ages. Tracing the roots of the Ancient Wisdom, starting with Buddha’s **Abhidhamma** exposition of **Papañca (Conceptual Proliferation), Māna (Conceit / Ego-making),** **Uddhacca-Kukkucca (Restlessness and Worry-** The classic "Hindrances" in Buddhist psychology). To the “*Two birds, bound together in mutual friendship, cling to the same tree. One of them eats the sweet and bitter fruits of the tree; the other looks on without eating."* - **Mundaka Upanishad.**  To the recent Masters as W. Timothy Gallwey who named them with modern terms in *The Inner Game of Tennis in 1974*. **Self 1** is the chattering ego, the judge, the instructor, the commentator who narrates and criticizes every action: *"You're going to mess this up. That was stupid. Try harder. Don't look foolish."* **Self 2** is the vast, silent, embodied intelligence, the doer, the natural genius, the unconscious competence that can catch a ball, speak a sentence, or improvise a scene with breathtaking grace *the moment Self 1 stops interfering*.
+Interestingly a lot of Philosophers have been pointing to the same ‘*Philosophia Perennis’* since ages. Tracing the roots of the Ancient Wisdom, starting with Buddha’s **Abhidhamma** exposition of **Uddhacca-Kukkucca Restlessness and Worry** The "Hindrances". To the recent Masters as W. Timothy Gallwey who named them with modern terms in *The Inner Game of Tennis in 1974*. **Self 1** is the chattering ego, the judge, the instructor, the commentator who narrates and criticizes every action: *"You're going to mess this up. That was stupid. Try harder. Don't look foolish."* **Self 2** is the vast, silent, embodied intelligence, the doer, the natural genius, the unconscious competence that can catch a ball, speak a sentence, or improvise a scene with breathtaking grace *the moment Self 1 stops interfering*.
 
 > *"We discovered that there was a perfectly natural process of learning... which operated something like the unconscious or automatic self. And that this Self 2 could learn faster and perform better when Self 1 simply got out of the way."* - Gallwey
 
@@ -40,9 +40,9 @@ This is the entire intrapersonal game of improv. **The censor is the enemy. Not 
 
 And remarkably, neuroscience research also agrees to *this*. Dr. Charles Limb, placing improvising jazz musicians inside an fMRI scanner, observed that during spontaneous creation the **dorsolateral prefrontal cortex,** the seat of self-monitoring, planning, and inhibition (the neurological home of Self 1) *deactivates*, while the **medial prefrontal cortex**, the region of authentic self-expression, *ignites*. The brain, in the act of true improvisation, **literally silences its own censor**. The Zen master would smile: “**The mind, when it stops grasping, becomes a clear mirror**”.
 
-## “Attention is all you Need” - The Satipaṭṭhāna Bridge
+## “Attention is all you Need”
 
-The *Satipaṭṭhāna* practitioner cultivates *sati -* bare, non-judging awareness of what is, moment to moment. Not analyzing the breath, but *being with* the breath. Not attaching to sensations, but *observing* them as-it-is moment to moment.
+The **Zen** practitioner cultivates non-judging awareness of what is, moment to moment. Not analyzing the breath, but *being with* the breath. Not attaching to sensations, but *observing* them as-it-is moment to moment.
 
 The improviser cultivates the identical faculty, but in motion and in relationship. To truly listen to a scene partner, not to plan your clever response, but to *receive* them completely is *sati* in action. The improviser who is fully present is not "doing improv." **They become one** **with everything**. They are doing the same thing the meditator does: *resting in the open awareness of this moment, free of the editing mind.* This is why so many describe a great scene as a meditative, even egoless, experience. The two selves have reconciled; Self 1 has gone quiet; only Self 2 and the present moment remain. Unlocking Peak Performance.
 
