@@ -3,7 +3,7 @@ hide:
   - toc          # no right-hand table of contents on the landing page — the hero image uses that space
 ---
 
-# About - Zen Sandbox : Online Improv Practice Community.
+# About Zen Sandbox : Online Improv Practice Community.
 
 > *Playfully "Powered by AI" - Ancient Intelligence.*
 >
