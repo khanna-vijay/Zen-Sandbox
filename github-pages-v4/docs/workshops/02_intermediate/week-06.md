@@ -84,7 +84,7 @@ hide:
 
 [Open the full game card »](../../games/D2_P3_S5_T1_G032__the-alchemist-s-mirror.md){target=_blank rel=noopener}
 
-??? note "🎒 Backup games — if you have time, or a game falls flat"
+??? star "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
     - **[Silent Alchemy](../../games/D2_P3_S5_T1_G228__the-partner-s-silent-alchemy-echo-status-endowment.md){target=_blank rel=noopener}** — `2+` · `~15m` · `Cx 3/5` · `Energy medium` · _Active Gifting_
     - **[The Resonance Weave](../../games/D2_P3_S5_T1_G346__the-resonance-weave.md){target=_blank rel=noopener}** — `2+` · `~10m` · `Cx 3/5` · `Energy medium` · _Active Gifting_

@@ -84,7 +84,7 @@ hide:
 
 [Open the full game card »](../../games/D2_P3_S1_T0_G785__one-minute-life-story.md){target=_blank rel=noopener}
 
-??? note "🎒 Backup games — if you have time, or a game falls flat"
+??? star "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
     - **[Rapid Connection Rounds](../../games/D2_P0_S1_T0_G844__speedy-get-to-know-you.md){target=_blank rel=noopener}** — `4+` · `~10m` · `Cx 1/5` · `Energy medium` · _Active Listening_
     - **[Granular Week](../../games/D2_P3_S1_T0_G882__week-in-detail.md){target=_blank rel=noopener}** — `2+` · `~5m` · `Cx 1/5` · `Energy low` · _Active Listening_

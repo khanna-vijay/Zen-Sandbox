@@ -87,7 +87,7 @@ hide:
 
 [Open the full game card »](../../games/D1_P3_S2_T1_G527__the-aetheric-resonance-protocol.md){target=_blank rel=noopener}
 
-??? note "🎒 Backup games — if you have time, or a game falls flat"
+??? star "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
     - **[Sonic Self-Sculpture](../../games/D1_P4_S4_T3_G069__the-aural-architect-sonic-self-sculpture.md){target=_blank rel=noopener}** — `4–8` · `~15m` · `Cx 3/5` · `Energy medium` · _Vocal Craft_
     - **[Somatic Weather Systems](../../games/D1_P3_S2_T1_G146__emotional-landscape-architects.md){target=_blank rel=noopener}** — `2+` · `~15m` · `Cx 3/5` · `Energy medium` · _Emotional Fluidity_

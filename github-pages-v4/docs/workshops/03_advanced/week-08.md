@@ -86,7 +86,7 @@ hide:
 
 [Open the full game card »](../../games/D3_P4_S3_T1_G051__narrative-weave.md){target=_blank rel=noopener}
 
-??? note "🎒 Backup games — if you have time, or a game falls flat"
+??? star "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
     - **[Chamber Murder Mystery](../../games/D3_P4_S3_T1_G1194__murder-mystery.md){target=_blank rel=noopener}** — `5+` · `~25m` · `Cx 4/5` · `Energy medium` · _Narrative Architecture_
     - **[Musical Story Spine](../../games/D3_P4_S3_T1_G1195__musical-fairy-tale.md){target=_blank rel=noopener}** — `6–8` · `~10m` · `Cx 4/5` · `Energy high` · _Narrative Architecture_

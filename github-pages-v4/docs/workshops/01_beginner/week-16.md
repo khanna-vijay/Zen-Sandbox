@@ -110,7 +110,7 @@ hide:
 
 [Open the full game card »](../../games/D3_P2_S5_T1_G629__agreement-scenes.md){target=_blank rel=noopener}
 
-??? note "🎒 Backup games — if you have time, or a game falls flat"
+??? star "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
     - **[Rapid Fire Association](../../games/D1_P4_S1_T1_G1068__firing-squad.md){target=_blank rel=noopener}** — `3+` · `~5m` · `Cx 1/5` · `Energy high` · _Unfiltered Spontaneity_
     - **[Yes, Let's!](../../games/D2_P2_S4_T1_G905__yes-let-s.md){target=_blank rel=noopener}** — `3+` · `~5m` · `Cx 1/5` · `Energy high` · _Offer Reception_

@@ -83,7 +83,7 @@ hide:
 
 [Open the full game card »](../../games/D2_P3_S1_T1_G150__the-resonance-refine-drill.md){target=_blank rel=noopener}
 
-??? note "🎒 Backup games — if you have time, or a game falls flat"
+??? star "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
     - **[The Subtext Echo Chamber](../../games/D2_P2_S1_T1_G211__the-echo-chamber-of-evolving-gifts.md){target=_blank rel=noopener}** — `2+` · `~5m` · `Cx 3/5` · `Energy low` · _Active Listening_
     - **[Choreographed Consensus](../../games/D2_P3_S1_T1_G309__the-choreographed-consensus.md){target=_blank rel=noopener}** — `2+` · `~15m` · `Cx 3/5` · `Energy medium` · _Active Listening_

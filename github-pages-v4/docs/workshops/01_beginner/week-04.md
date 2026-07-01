@@ -82,7 +82,7 @@ hide:
 
 [Open the full game card »](../../games/D1_P4_S3_T1_G766__meet-greet-walkabout.md){target=_blank rel=noopener}
 
-??? note "🎒 Backup games — if you have time, or a game falls flat"
+??? star "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
     - **[Evolution](../../games/D1_P2_S3_T1_G1053__evolution.md){target=_blank rel=noopener}** — `4+` · `~5m` · `Cx 1/5` · `Energy high` · _Physicality & Space Work_
     - **[Leading Centers](../../games/D1_P1_S3_T1_G1074__follow-your-nose.md){target=_blank rel=noopener}** — `3+` · `~5m` · `Cx 1/5` · `Energy medium` · _Physicality & Space Work_

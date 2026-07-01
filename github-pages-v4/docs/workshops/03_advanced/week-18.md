@@ -66,7 +66,7 @@ hide:
 
 [Open the full game card »](../../games/D5_P1_S2_T3_G683__day-in-the-life.md){target=_blank rel=noopener}
 
-??? note "🎒 Backup games — if you have time, or a game falls flat"
+??? star "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
     - **[The Gorilla's Choice](../../games/D4_P3_S6_T4_G1099__gorilla-theatre.md){target=_blank rel=noopener}** — `5+` · `~90m` · `Cx 4/5` · `Energy high` · _Format Literacy_
     - **[The Unwritten Novel](../../games/D3_P4_S3_T2_G1269__script-tease.md){target=_blank rel=noopener}** — `3+` · `~30m` · `Cx 4/5` · `Energy medium` · _Narrative Architecture_

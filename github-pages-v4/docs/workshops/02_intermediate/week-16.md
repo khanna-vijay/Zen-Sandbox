@@ -82,7 +82,7 @@ hide:
 
 [Open the full game card »](../../games/D4_P1_S4_T1_G196__kinetic-transitions.md){target=_blank rel=noopener}
 
-??? note "🎒 Backup games — if you have time, or a game falls flat"
+??? star "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
     - **[Ensemble Snap](../../games/D4_P1_S4_T1_G511__sync-snap.md){target=_blank rel=noopener}** — `4–8` · `~25m` · `Cx 3/5` · `Energy medium` · _Pacing & Rhythm_
     - **[The Tempo Conductor](../../games/D4_P1_S4_T2_G536__the-rhythmic-collective.md){target=_blank rel=noopener}** — `4–8` · `~30m` · `Cx 3/5` · `Energy high` · _Pacing & Rhythm_

@@ -80,7 +80,7 @@ hide:
 
 [Open the full game card »](../../games/D2_P3_S3_T1_G770__mirroring.md){target=_blank rel=noopener}
 
-??? note "🎒 Backup games — if you have time, or a game falls flat"
+??? star "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
     - **[Yippee Connection](../../games/D2_P2_S3_T1_G906__yipee.md){target=_blank rel=noopener}** — `4+` · `~5m` · `Cx 1/5` · `Energy high` · _Single-Partner Empathy & Mirroring_
     - **[The Mutation Circle](../../games/D2_P2_S3_T1_G916__accepting-circle.md){target=_blank rel=noopener}** — `4+` · `~5m` · `Cx 1/5` · `Energy medium` · _Single-Partner Empathy & Mirroring_

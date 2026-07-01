@@ -84,7 +84,7 @@ hide:
 
 [Open the full game card »](../../games/D3_P4_S3_T2_G047__the-narrative-current.md){target=_blank rel=noopener}
 
-??? note "🎒 Backup games — if you have time, or a game falls flat"
+??? star "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
     - **[The Narrative Pulse](../../games/D3_P4_S3_T2_G067__the-narrative-pulse.md){target=_blank rel=noopener}** — `3+` · `~15m` · `Cx 3/5` · `Energy medium` · _Narrative Architecture_
     - **[The Narrative Circuit](../../games/D3_P4_S3_T1_G102__the-narrative-circuit.md){target=_blank rel=noopener}** — `3+` · `~15m` · `Cx 3/5` · `Energy medium` · _Narrative Architecture_

@@ -86,7 +86,7 @@ hide:
 
 [Open the full game card »](../../games/D3_P2_S5_T1_G625__action-and-entrance.md){target=_blank rel=noopener}
 
-??? note "🎒 Backup games — if you have time, or a game falls flat"
+??? star "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
     - **[Road Trip Base Reality](../../games/D3_P2_S5_T1_G650__car-journey.md){target=_blank rel=noopener}** — `5+` · `~10m` · `Cx 2/5` · `Energy medium` · _World-Building_
     - **[Dialogue and Doing](../../games/D3_P1_S5_T1_G663__chat-then-add-activity.md){target=_blank rel=noopener}** — `2+` · `~5m` · `Cx 2/5` · `Energy medium` · _World-Building_

@@ -86,7 +86,7 @@ hide:
 
 [Open the full game card »](../../games/D3_P4_S4_T1_G404__the-shifting-want.md){target=_blank rel=noopener}
 
-??? note "🎒 Backup games — if you have time, or a game falls flat"
+??? star "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
     - **[The Implication Engine](../../games/D3_P4_S7_T1_G317__the-implication-engine.md){target=_blank rel=noopener}** — `3–6` · `~10m` · `Cx 3/5` · `Energy medium` · _Raising the Stakes_
     - **[The Narrative Escalator](../../games/D3_P4_S7_T1_G186__the-narrative-escalator.md){target=_blank rel=noopener}** — `2+` · `~15m` · `Cx 3/5` · `Energy medium` · _Raising the Stakes_

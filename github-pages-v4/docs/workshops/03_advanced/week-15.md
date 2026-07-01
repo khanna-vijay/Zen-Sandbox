@@ -83,7 +83,7 @@ hide:
 
 [Open the full game card »](../../games/D5_P1_S1_T1_G044__the-audience-altar-a-resonance-cultivation-experiment.md){target=_blank rel=noopener}
 
-??? note "🎒 Backup games — if you have time, or a game falls flat"
+??? star "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
     - **[Acoustic Calibration](../../games/D5_P1_S1_T1_G350__the-audience-ecosystem-training-protocol.md){target=_blank rel=noopener}** — `5+` · `~45m` · `Cx 4/5` · `Energy medium` · _Room Reading_
     - **[Audience Cartographers](../../games/D5_P1_S1_T2_G422__suggestion-safari-the-audience-cartographers.md){target=_blank rel=noopener}** — `4+` · `~15m` · `Cx 4/5` · `Energy medium` · _Room Reading_

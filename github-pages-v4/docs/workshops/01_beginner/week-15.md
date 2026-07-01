@@ -82,7 +82,7 @@ hide:
 
 [Open the full game card »](../../games/D5_P1_S3_T1_G508__the-transparent-scene-cheating-out-for-audience-clarity.md){target=_blank rel=noopener}
 
-??? note "🎒 Backup games — if you have time, or a game falls flat"
+??? star "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
     - **[Pet Peeves](../../games/D1_P3_S1_T2_G801__pet-peeves.md){target=_blank rel=noopener}** — `2+` · `~10m` · `Cx 1/5` · `Energy low` · _Unfiltered Spontaneity_
     - **[Finger Applause](../../games/D5_P1_S1_T1_G1066__finger-applause.md){target=_blank rel=noopener}** — `4+` · `~2m` · `Cx 1/5` · `Energy medium` · _Room Reading_

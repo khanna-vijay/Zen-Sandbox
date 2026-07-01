@@ -82,7 +82,7 @@ hide:
 
 [Open the full game card »](../../games/D4_P1_S5_T2_G085__the-enso-weave.md){target=_blank rel=noopener}
 
-??? note "🎒 Backup games — if you have time, or a game falls flat"
+??? star "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
     - **[The Conscious Universe](../../games/D4_P1_S5_T1_G212__the-ensemble-s-deep-dive.md){target=_blank rel=noopener}** — `3–8` · `~30m` · `Cx 4/5` · `Energy medium` · _Thematic Synthesis_
     - **[Undercurrent Weave](../../games/D4_P1_S5_T2_G263__the-undercurrent-weave.md){target=_blank rel=noopener}** — `4–8` · `~20m` · `Cx 4/5` · `Energy medium` · _Thematic Synthesis_

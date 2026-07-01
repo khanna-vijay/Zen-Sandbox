@@ -66,6 +66,7 @@ plugins:
 
 markdown_extensions:
   - admonition
+  - pymdownx.details        # enables collapsible "???"/"???+" admonitions (Backup-games blocks)
   - attr_list
   - md_in_html
   - tables
