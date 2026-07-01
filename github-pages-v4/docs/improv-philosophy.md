@@ -20,7 +20,7 @@ This is the secret that unites the profound wisdom through ages : Tennis court o
 
 ## Introduction
 
-In a modern landscape increasingly defined by rigid structures and the "inhibitions of education," improvisation emerges as a critical cognitive intervention. We do not simply "lose" our creativity & spontaneity as we age; rather, we are taught to suppress the "visionary world" of childhood in favor of a "gray and sad" reality. Keith Johnstone, in *Impro*, posits that traditional education acts as a repressive force, layering a "gray crust" over the mind's natural clarity. The child, he observed, lives in a state of perceptual genius until the institution teaches them to value the approval of authority over the truth of their own experience.
+In the modern landscape increasingly defined by rigid structures and the "inhibitions of education," improvisation emerges as a critical cognitive intervention. We do not simply "lose" our creativity & spontaneity as we age; rather, we are taught to suppress the "visionary world" of childhood in favor of a "gray and sad" reality. Keith Johnstone, in *Impro*, posits that traditional education acts as a repressive force, layering a "gray crust" over the mind's natural clarity. The child, he observed, lives in a state of perceptual genius until the institution teaches them to value the approval of authority over the truth of their own experience.
 
 We are not failing to *become* creative. We are succeeding, tragically, at *suppressing* what we already are.
 
