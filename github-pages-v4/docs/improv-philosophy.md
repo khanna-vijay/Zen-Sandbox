@@ -4,13 +4,18 @@ hide:
   - toc
 ---
 
+
 # Analyzing Improv through my Philosophical Lens
 
-> *"Each soul is potentially divine. The goal is to manifest this divinity within."* - Swami Vivekananda
+I believe from my inner core in Perennialism, "Truth is one, but called by many names".
+
+> *"Sell your cleverness and buy bewilderment."* - Rumi 
 
 > *"The opponent within one's own head is more formidable than the one on the other side of the net."* - W. Timothy Gallwey
 
 > *Those who say 'Yes' are rewarded by the adventures they have. Those who say 'No' are rewarded by the safety they attain."* - Keith Johnstone
+
+> *"Each soul is potentially divine. The goal is to manifest this divinity within."* - Swami Vivekananda.
 
 ## Prologue: The Treatise of the Unblocked Self
 
@@ -105,4 +110,17 @@ We have seen this single practice illuminated by many Zen lamps: the *Satipaṭ�
 **Professionally**, it forges the adaptive, collaborative, creative capacities a volatile world demands, leaders who can practice Servant-Leadership, teams that think as one organism, and individuals who greet every disruption not as a threat but as an *offer*.
 
 The world will endlessly hand you unscripted offers, but the power to transform them is always within you. Breathe into the present, reply with a courageous "Yes, And," and let ‘*wu wei’* build the rest.
+
+---
+
+>> **Veneration to the Zen Masters**
+
+> "It takes a very long time to become young." - Pablo Picasso
+ 
+> "There is nothing either good or bad, but thinking makes it so." - Shakespeare, Hamlet
+
+> "The ability to observe without evaluating is the highest form of intelligence." - Jiddu Krishnamurti 
+
+> 
+
 
