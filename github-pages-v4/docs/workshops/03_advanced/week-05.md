@@ -89,7 +89,7 @@ hide:
 
 [Open the full game card »](../../games/D3_P2_S2_T1_G610__the-scene-dynamics-accelerator.md){target=_blank rel=noopener}
 
-??? note "🎒 Backup games — if you have time, or a game falls flat"
+??? star "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
     - **[Retroactive Reality](../../games/D3_P4_S6_T1_G452__the-chrono-warp-justifier.md){target=_blank rel=noopener}** — `3+` · `~15m` · `Cx 4/5` · `Energy medium` · _Justification_
     - **[The Narrative Crucible](../../games/D3_P4_S3_T2_G424__the-narrative-escalation-chamber.md){target=_blank rel=noopener}** — `2+` · `~15m` · `Cx 3/5` · `Energy medium` · _Narrative Architecture_

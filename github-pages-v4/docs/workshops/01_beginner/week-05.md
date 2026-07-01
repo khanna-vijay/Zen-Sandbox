@@ -81,7 +81,7 @@ hide:
 
 [Open the full game card »](../../games/D1_P1_S4_T1_G1243__primal-screams.md){target=_blank rel=noopener}
 
-??? note "🎒 Backup games — if you have time, or a game falls flat"
+??? star "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
     - **[Vocal Resonance Ripple](../../games/D1_P4_S4_T2_G316__the-echo-chamber-of-self.md){target=_blank rel=noopener}** — `6–12` · `~15m` · `Cx 2/5` · `Energy medium` · _Vocal Craft_
     - **[Arnie's Cinema](../../games/D1_P1_S4_T2_G636__arnie.md){target=_blank rel=noopener}** — `2–6` · `~5m` · `Cx 2/5` · `Energy high` · _Vocal Craft_

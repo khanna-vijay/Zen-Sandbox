@@ -83,7 +83,7 @@ hide:
 
 [Open the full game card »](../../games/D5_P1_S2_T3_G033__the-audience-resonance-conductor.md){target=_blank rel=noopener}
 
-??? note "🎒 Backup games — if you have time, or a game falls flat"
+??? star "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
     - **[The Fourth Wall Dial](../../games/D5_P1_S2_T3_G093__the-fourth-wall-fluidity-lab.md){target=_blank rel=noopener}** — `5+` · `~20m` · `Cx 4/5` · `Energy medium` · _Audience-Energy Management_
     - **[Permeable Currents](../../games/D5_P1_S2_T3_G105__contractual-currents.md){target=_blank rel=noopener}** — `2+` · `~15m` · `Cx 4/5` · `Energy medium` · _Audience-Energy Management_

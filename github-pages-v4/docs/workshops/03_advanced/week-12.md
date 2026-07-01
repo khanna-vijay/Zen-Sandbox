@@ -83,7 +83,7 @@ hide:
 
 [Open the full game card »](../../games/D4_P1_S4_T1_G311__the-ensemble-game-weaver.md){target=_blank rel=noopener}
 
-??? note "🎒 Backup games — if you have time, or a game falls flat"
+??? star "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
     - **[Rapid Backstory Montage](../../games/D4_P3_S4_T1_G1063__fast-montage.md){target=_blank rel=noopener}** — `3+` · `~10m` · `Cx 4/5` · `Energy high` · _Pacing & Rhythm_
     - **[Follow the Leaver](../../games/D4_P3_S4_T1_G1073__follow-the-leaver.md){target=_blank rel=noopener}** — `3+` · `~15m` · `Cx 4/5` · `Energy medium` · _Pacing & Rhythm_

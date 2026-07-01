@@ -87,7 +87,7 @@ hide:
 
 [Open the full game card »](../../games/D5_P1_S2_T3_G025__the-contract-weave.md){target=_blank rel=noopener}
 
-??? note "🎒 Backup games — if you have time, or a game falls flat"
+??? star "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
     - **[Fourth Wall Fluctuations](../../games/D5_P1_S2_T3_G039__fourth-wall-fluctuations.md){target=_blank rel=noopener}** — `2+` · `~15m` · `Cx 3/5` · `Energy medium` · _Audience-Energy Management_
     - **[The Resonance Dial](../../games/D5_P1_S1_T1_G054__the-performer-s-pulse.md){target=_blank rel=noopener}** — `3+` · `~15m` · `Cx 3/5` · `Energy medium` · _Room Reading_

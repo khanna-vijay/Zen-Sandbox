@@ -81,7 +81,7 @@ hide:
 
 [Open the full game card »](../../games/D4_P1_S2_T0_G667__circle-of-awesome.md){target=_blank rel=noopener}
 
-??? note "🎒 Backup games — if you have time, or a game falls flat"
+??? star "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
     - **[The Welcome Ovation](../../games/D4_P1_S2_T0_G777__name-and-applause.md){target=_blank rel=noopener}** — `3+` · `~5m` · `Cx 1/5` · `Energy high` · _Support Work_
     - **[Vocal Symphony](../../games/D4_P1_S2_T0_G788__orchestra.md){target=_blank rel=noopener}** — `4+` · `~5m` · `Cx 1/5` · `Energy medium` · _Support Work_

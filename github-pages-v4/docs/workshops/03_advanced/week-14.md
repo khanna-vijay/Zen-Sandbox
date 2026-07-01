@@ -59,7 +59,7 @@ hide:
 
 [Open the full game card »](../../games/D4_P3_S6_T4_G157__the-ensemble-blueprint-assembly.md){target=_blank rel=noopener}
 
-??? note "🎒 Backup games — if you have time, or a game falls flat"
+??? star "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
     - **[The Monologist](../../games/D4_P3_S6_T2_G932__armando.md){target=_blank rel=noopener}** — `4+` · `~25m` · `Cx 4/5` · `Energy medium` · _Format Literacy_
     - **[The Balladeer's Chronicle](../../games/D4_P3_S6_T4_G943__balladeer-2.md){target=_blank rel=noopener}** — `3+` · `~25m` · `Cx 4/5` · `Energy medium` · _Format Literacy_

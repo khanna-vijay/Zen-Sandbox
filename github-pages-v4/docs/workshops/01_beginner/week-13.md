@@ -82,7 +82,7 @@ hide:
 
 [Open the full game card »](../../games/D3_P2_S6_T1_G697__enter-and-exit.md){target=_blank rel=noopener}
 
-??? note "🎒 Backup games — if you have time, or a game falls flat"
+??? star "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
     - **[Instant Travelogue](../../games/D3_P4_S6_T1_G739__instagram-slide-show.md){target=_blank rel=noopener}** — `2–4` · `~5m` · `Cx 2/5` · `Energy medium` · _Justification_
     - **[Sweet Talk Rivals](../../games/D3_P4_S6_T1_G762__love-hearts.md){target=_blank rel=noopener}** — `2–2` · `~5m` · `Cx 2/5` · `Energy medium` · _Justification_

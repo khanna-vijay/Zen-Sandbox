@@ -90,7 +90,7 @@ hide:
 
 [Open the full game card »](../../games/D1_P3_S1_T1_G326__the-impulse-tracing-tapestry.md){target=_blank rel=noopener}
 
-??? note "🎒 Backup games — if you have time, or a game falls flat"
+??? star "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
     - **[The Solo Gauntlet](../../games/D1_P4_S1_T2_G1324__the-gauntlet.md){target=_blank rel=noopener}** — `1–1` · `~10m` · `Cx 4/5` · `Energy high` · _Unfiltered Spontaneity_
     - **[The Resonance Wave](../../games/D1_P4_S1_T2_G382__the-primal-resonator.md){target=_blank rel=noopener}** — `4–8` · `~15m` · `Cx 3/5` · `Energy high` · _Unfiltered Spontaneity_

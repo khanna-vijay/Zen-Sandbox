@@ -87,7 +87,7 @@ hide:
 
 [Open the full game card »](../../games/D1_P4_S1_T2_G022__impulse-alchemist-sensing-forming-shifting-internal-states.md){target=_blank rel=noopener}
 
-??? note "🎒 Backup games — if you have time, or a game falls flat"
+??? star "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
     - **[The Resonance Eddy](../../games/D1_P4_S1_T2_G145__the-sentient-eddy.md){target=_blank rel=noopener}** — `4–8` · `~15m` · `Cx 3/5` · `Energy high` · _Unfiltered Spontaneity_
     - **[The Resonance Crucible](../../games/D1_P4_S1_T2_G340__the-resonance-crucible.md){target=_blank rel=noopener}** — `4–8` · `~15m` · `Cx 3/5` · `Energy medium` · _Unfiltered Spontaneity_

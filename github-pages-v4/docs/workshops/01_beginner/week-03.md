@@ -81,7 +81,7 @@ hide:
 
 [Open the full game card »](../../games/D1_P1_S2_T1_G778__name-and-boring-fact.md){target=_blank rel=noopener}
 
-??? note "🎒 Backup games — if you have time, or a game falls flat"
+??? star "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
     - **[The Emotional Echo](../../games/D1_P1_S2_T2_G094__the-internal-dialect.md){target=_blank rel=noopener}** — `4–8` · `~15m` · `Cx 2/5` · `Energy medium` · _Emotional Fluidity_
     - **[Somatic Impulse Dial](../../games/D1_P4_S2_T1_G136__somatic-impulse-dial.md){target=_blank rel=noopener}** — `2+` · `~15m` · `Cx 2/5` · `Energy medium` · _Emotional Fluidity_

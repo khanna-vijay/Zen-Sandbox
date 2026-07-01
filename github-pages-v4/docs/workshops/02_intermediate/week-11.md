@@ -86,7 +86,7 @@ hide:
 
 [Open the full game card »](../../games/D3_P4_S3_T1_G106__story-architect-s-blueprint.md){target=_blank rel=noopener}
 
-??? note "🎒 Backup games — if you have time, or a game falls flat"
+??? star "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
     - **[The Genre Crucible](../../games/D3_P4_S3_T0_G163__the-genre-crucible.md){target=_blank rel=noopener}** — `3+` · `~15m` · `Cx 3/5` · `Energy medium` · _Narrative Architecture_
     - **[The Final Beat](../../games/D3_P4_S3_T0_G171__the-final-beat.md){target=_blank rel=noopener}** — `3+` · `~15m` · `Cx 3/5` · `Energy medium` · _Narrative Architecture_

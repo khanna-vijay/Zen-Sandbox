@@ -83,7 +83,7 @@ hide:
 
 [Open the full game card »](../../games/D4_P1_S3_T1_G096__the-symphony-of-sentience.md){target=_blank rel=noopener}
 
-??? note "🎒 Backup games — if you have time, or a game falls flat"
+??? star "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
     - **[Premise Kaleidoscope](../../games/D4_P1_S3_T2_G384__deep-dive-premise-weave.md){target=_blank rel=noopener}** — `4–8` · `~20m` · `Cx 3/5` · `Energy medium` · _Suggestion Deconstruction (A-to-C)_
     - **[The Resonance Tapestry](../../games/D4_P1_S3_T1_G470__the-collective-weave.md){target=_blank rel=noopener}** — `4–7` · `~30m` · `Cx 3/5` · `Energy medium` · _Suggestion Deconstruction (A-to-C)_

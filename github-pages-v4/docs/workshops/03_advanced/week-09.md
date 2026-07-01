@@ -85,7 +85,7 @@ hide:
 
 [Open the full game card »](../../games/D4_P1_S1_T2_G002__the-emergent-canvas.md){target=_blank rel=noopener}
 
-??? note "🎒 Backup games — if you have time, or a game falls flat"
+??? star "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
     - **[The Sensory Loom](../../games/D4_P1_S1_T2_G026__the-ensemble-loom.md){target=_blank rel=noopener}** — `4–8` · `~30m` · `Cx 4/5` · `Energy medium` · _Peripheral Awareness_
     - **[Resonant Currents](../../games/D4_P1_S1_T2_G037__nexus-arc-the-silent-current.md){target=_blank rel=noopener}** — `5–8` · `~25m` · `Cx 4/5` · `Energy medium` · _Peripheral Awareness_

@@ -83,7 +83,7 @@ hide:
 
 [Open the full game card »](../../games/D4_P1_S2_T3_G241__the-echoing-environment.md){target=_blank rel=noopener}
 
-??? note "🎒 Backup games — if you have time, or a game falls flat"
+??? star "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
     - **[Echoed Architecture](../../games/D4_P1_S2_T3_G328__echo-weave-the-blind-architect-s-blueprint.md){target=_blank rel=noopener}** — `3–6` · `~10m` · `Cx 3/5` · `Energy medium` · _Support Work_
     - **[Ecosystem](../../games/D4_P1_S2_T3_G569__the-living-landscape.md){target=_blank rel=noopener}** — `5–12` · `~15m` · `Cx 3/5` · `Energy medium` · _Support Work_

@@ -84,7 +84,7 @@ hide:
 
 [Open the full game card »](../../games/D3_P2_S5_T2_G518__the-detail-anchor.md){target=_blank rel=noopener}
 
-??? note "🎒 Backup games — if you have time, or a game falls flat"
+??? star "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
     - **[Relational Threads](../../games/D3_P3_S5_T1_G571__dynamic-threads.md){target=_blank rel=noopener}** — `2–3` · `~10m` · `Cx 3/5` · `Energy medium` · _World-Building_
     - **[The Spatial Engine](../../games/D3_P1_S6_T1_G596__the-spatial-engine.md){target=_blank rel=noopener}** — `3+` · `~15m` · `Cx 3/5` · `Energy medium` · _Justification_

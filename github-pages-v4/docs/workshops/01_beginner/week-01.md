@@ -84,7 +84,7 @@ hide:
 
 [Open the full game card »](../../games/D2_P1_S6_T3_G1174__massage.md){target=_blank rel=noopener}
 
-??? note "🎒 Backup games — if you have time, or a game falls flat"
+??? star "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
     - **[Consent Architects](../../games/D2_P1_S6_T1_G043__consent-architects.md){target=_blank rel=noopener}** — `3–5` · `~15m` · `Cx 2/5` · `Energy medium` · _Boundary Navigation_
     - **[The Boundary Compass](../../games/D2_P1_S6_T1_G148__the-consent-compass.md){target=_blank rel=noopener}** — `2+` · `~15m` · `Cx 2/5` · `Energy low` · _Boundary Navigation_

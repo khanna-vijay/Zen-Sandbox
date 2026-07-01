@@ -108,7 +108,7 @@ hide:
 
 [Open the full game card »](../../games/D1_P4_S1_T1_G652__category-tag.md){target=_blank rel=noopener}
 
-??? note "🎒 Backup games — if you have time, or a game falls flat"
+??? star "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
     - **[Eight Things About Me](../../games/D1_P3_S1_T2_G691__eight-things-about-me.md){target=_blank rel=noopener}** — `3+` · `~10m` · `Cx 1/5` · `Energy medium` · _Unfiltered Spontaneity_
     - **[Pulse Association](../../games/D1_P4_S1_T1_G693__electric-company.md){target=_blank rel=noopener}** — `2+` · `~5m` · `Cx 1/5` · `Energy medium` · _Unfiltered Spontaneity_

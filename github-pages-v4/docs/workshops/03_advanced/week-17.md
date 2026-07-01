@@ -88,7 +88,7 @@ hide:
 
 [Open the full game card »](../../games/D5_P1_S1_T1_G252__the-conductor-s-contract.md){target=_blank rel=noopener}
 
-??? note "🎒 Backup games — if you have time, or a game falls flat"
+??? star "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
     - **[The Silent Weathervane](../../games/D5_P1_S1_T1_G479__the-collective-unconscious-weathervane.md){target=_blank rel=noopener}** — `3+` · `~15m` · `Cx 4/5` · `Energy medium` · _Room Reading_
     - **[The Summons](../../games/D3_P4_S3_T2_G1252__rendez-vous.md){target=_blank rel=noopener}** — `4+` · `~30m` · `Cx 4/5` · `Energy medium` · _Narrative Architecture_

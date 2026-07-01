@@ -81,7 +81,7 @@ hide:
 
 [Open the full game card »](../../games/D1_P2_S6_T2_G761__loserball.md){target=_blank rel=noopener}
 
-??? note "🎒 Backup games — if you have time, or a game falls flat"
+??? star "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
     - **[The Frozen Path](../../games/D1_P1_S5_T1_G981__catch-em.md){target=_blank rel=noopener}** — `3+` · `~5m` · `Cx 1/5` · `Energy medium` · _Silence & Stillness_
     - **[Epic Drop](../../games/D1_P2_S6_T2_G1159__loser-ball.md){target=_blank rel=noopener}** — `3+` · `~5m` · `Cx 1/5` · `Energy high` · _Self-Recovery_

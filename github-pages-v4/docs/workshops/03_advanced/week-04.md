@@ -83,7 +83,7 @@ hide:
 
 [Open the full game card »](../../games/D2_P3_S2_T1_G024__resonance-weave-status-cadence.md){target=_blank rel=noopener}
 
-??? note "🎒 Backup games — if you have time, or a game falls flat"
+??? star "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
     - **[The Living Blueprint](../../games/D2_P2_S2_T1_G277__the-living-blueprint.md){target=_blank rel=noopener}** — `2+` · `~10m` · `Cx 3/5` · `Energy medium` · _Status Modulation_
     - **[Relational Resonance](../../games/D2_P3_S2_T1_G354__the-relational-resonance.md){target=_blank rel=noopener}** — `4+` · `~20m` · `Cx 3/5` · `Energy medium` · _Status Modulation_

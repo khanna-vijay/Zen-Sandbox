@@ -83,7 +83,7 @@ hide:
 
 [Open the full game card »](../../games/D3_P4_S3_T2_G005__the-narrative-architect-s-trilogy.md){target=_blank rel=noopener}
 
-??? note "🎒 Backup games — if you have time, or a game falls flat"
+??? star "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
     - **[Disaster Movie](../../games/D3_P4_S3_T1_G1022__disaster-movie.md){target=_blank rel=noopener}** — `6+` · `~30m` · `Cx 4/5` · `Energy high` · _Narrative Architecture_
     - **[Memorial Service](../../games/D3_P4_S3_T0_G1089__funeral-service.md){target=_blank rel=noopener}** — `4+` · `~20m` · `Cx 4/5` · `Energy medium` · _Narrative Architecture_

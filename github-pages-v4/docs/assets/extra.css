@@ -299,3 +299,25 @@
 @media screen and (max-width: 76.24em) {
   .zs-onerow .md-header__inner > .md-tabs__list { display: none; }
 }
+
+/* --- Custom "star" admonition: the optional/bonus "Backup games" collapsible blocks. ---
+   Gives them a logical gold star icon (matches the amber accent) instead of the raw
+   "??? note" text that showed before pymdownx.details was enabled. Uses a dedicated
+   type so the 87 regular "!!! note" admonitions keep their default note icon. */
+:root {
+  --md-admonition-icon--star: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 17.27 18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>');
+}
+.md-typeset .admonition.star,
+.md-typeset details.star {
+  border-color: rgb(255, 160, 0);
+}
+.md-typeset .star > .admonition-title,
+.md-typeset .star > summary {
+  background-color: rgba(255, 160, 0, 0.12);
+}
+.md-typeset .star > .admonition-title::before,
+.md-typeset .star > summary::before {
+  background-color: rgb(255, 160, 0);
+  -webkit-mask-image: var(--md-admonition-icon--star);
+          mask-image: var(--md-admonition-icon--star);
+}

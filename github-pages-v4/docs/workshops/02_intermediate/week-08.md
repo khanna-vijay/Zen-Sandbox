@@ -83,7 +83,7 @@ hide:
 
 [Open the full game card »](../../games/D3_P4_S2_T1_G759__life-times.md){target=_blank rel=noopener}
 
-??? note "🎒 Backup games — if you have time, or a game falls flat"
+??? star "🎒 Backup games — if you have time, or a game falls flat"
     *Swap-ins drawn from the same maturity band; not part of the timed hour.*
     - **[The Replay Matrix](../../games/D3_P2_S2_T0_G1266__scene-replay.md){target=_blank rel=noopener}** — `2+` · `~10m` · `Cx 3/5` · `Energy medium` · _Heightening & Exploration_
     - **[The Emotional Household](../../games/D3_P1_S2_T1_G695__emotional-family.md){target=_blank rel=noopener}** — `4–6` · `~10m` · `Cx 2/5` · `Energy high` · _Heightening & Exploration_
