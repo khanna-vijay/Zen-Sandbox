@@ -47,6 +47,8 @@ title: "W18 · Competent Showcase"
 
 > Two viewers control the remote while an ensemble physically manifests their chaotic television screen.
 
+![Streaming Queue — infographic](../../games/img/D4_P3_S2_T1_G780__netflix-chill.jpg){ .infographic }
+
 `Players 4+` · `~5 min` · `Complexity 3/5` · `Energy high` · `Props: none`
 
 **Trains:** Support Work · _comedy game_
@@ -68,6 +70,8 @@ title: "W18 · Competent Showcase"
 
 > Navigate a high-stakes crisis together where every action must build upon the last.
 
+![The Shared Ascent — infographic](../../games/img/D3_P4_S3_T0_G614__the-collective-climb.jpg){ .infographic }
+
 `Players 4–6` · `~15 min` · `Complexity 3/5` · `Energy medium` · `Props: none`
 
 **Trains:** Narrative Architecture · _narrative_
@@ -87,6 +91,8 @@ title: "W18 · Competent Showcase"
 #### Core game — More or Less
 
 > Calibrate scene length and narrative momentum by letting the audience vote to continue or cut.
+
+![More or Less — infographic](../../games/img/D5_P1_S1_T1_G1188__more-or-less.jpg){ .infographic }
 
 `Players 5+` · `~30 min` · `Complexity 3/5` · `Energy medium` · `Props: none`
 

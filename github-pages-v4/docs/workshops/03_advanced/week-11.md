@@ -39,6 +39,8 @@ title: "W11 · Weaving the Threads"
 
 > Weave disparate thematic threads into a rich, interconnected tapestry of non-linear performance.
 
+![The Harmonic Loom — infographic](../../games/img/D4_P1_S5_T2_G077__the-harmonic-loom.jpg){ .infographic }
+
 `Players 3–8` · `~20 min` · `Complexity 4/5` · `Energy medium` · `Props: none`
 
 **Trains:** Thematic Synthesis · _connection_
@@ -59,6 +61,8 @@ title: "W11 · Weaving the Threads"
 #### Core game — The Resonance Weave
 
 > Weave non-verbal sound and movement into spoken thematic seeds that inspire deep, connected scenes.
+
+![The Resonance Weave — infographic](../../games/img/D4_P1_S5_T2_G085__the-enso-weave.jpg){ .infographic }
 
 `Players 3–8` · `~20 min` · `Complexity 4/5` · `Energy medium` · `Props: none`
 

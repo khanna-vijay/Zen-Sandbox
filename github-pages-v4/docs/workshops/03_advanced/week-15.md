@@ -39,6 +39,8 @@ title: "W15 · Unify the Room"
 
 > Transform your audience into a living dashboard of real-time performance feedback.
 
+![The Feedback Agreement — infographic](../../games/img/D5_P1_S1_T1_G061__the-echo-chamber-contract.jpg){ .infographic }
+
 `Players 7+` · `~15 min` · `Complexity 4/5` · `Energy medium` · `Props: none`
 
 **Trains:** Room Reading · _skill drill_
@@ -59,6 +61,8 @@ title: "W15 · Unify the Room"
 #### Core game — The Resonance Dial
 
 > Treat the audience's collective energy as your primary scene partner using a real-time visual feedback dial.
+
+![The Resonance Dial — infographic](../../games/img/D5_P1_S1_T1_G044__the-audience-altar-a-resonance-cultivation-experiment.jpg){ .infographic }
 
 `Players 6+` · `~45 min` · `Complexity 4/5` · `Energy medium` · `Props: required`
 

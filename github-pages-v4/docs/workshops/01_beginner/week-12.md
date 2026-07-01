@@ -42,6 +42,8 @@ title: "W12 · Show, Don't Tell — Build a World"
 
 > Build a rich, physically consistent world by letting every new object justify the last.
 
+![The Object Echo Chain — infographic](../../games/img/D3_P2_S5_T1_G608__the-echo-chamber-of-objects-collaborative-environmental-cons.jpg){ .infographic }
+
 `Players 3–5` · `~15 min` · `Complexity 2/5` · `Energy medium` · `Props: none`
 
 **Trains:** World-Building · _skill drill_
@@ -63,6 +65,8 @@ title: "W12 · Show, Don't Tell — Build a World"
 #### Core game — Action and Entrance
 
 > Establish a rich physical environment and a compelling relationship through committed action and emotional entry.
+
+![Action and Entrance — infographic](../../games/img/D3_P2_S5_T1_G625__action-and-entrance.jpg){ .infographic }
 
 `Players 2+` · `~15 min` · `Complexity 2/5` · `Energy medium` · `Props: none`
 

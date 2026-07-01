@@ -39,6 +39,8 @@ title: "W15 · A-to-C — Beyond the Obvious"
 
 > Transform abstract physical impulses into a rich, populated environment through a three-stage ensemble progression.
 
+![The Resonance Canvas — infographic](../../games/img/D4_P1_S3_T1_G235__the-resonance-canvas.jpg){ .infographic }
+
 `Players 3–7` · `~12 min` · `Complexity 3/5` · `Energy medium` · `Props: none`
 
 **Trains:** Suggestion Deconstruction (A-to-C) · _mixed_
@@ -58,6 +60,8 @@ title: "W15 · A-to-C — Beyond the Obvious"
 #### Core game — Symphony of Sentience
 
 > Evolve a single, non-verbal collective consciousness through intuitive, multi-modal sound and movement.
+
+![Symphony of Sentience — infographic](../../games/img/D4_P1_S3_T1_G096__the-symphony-of-sentience.jpg){ .infographic }
 
 `Players 5–12` · `~15 min` · `Complexity 3/5` · `Energy medium` · `Props: none`
 

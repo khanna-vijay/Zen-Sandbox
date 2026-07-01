@@ -39,6 +39,8 @@ title: "W11 · Status: High & Low"
 
 > Explore extreme status dynamics where a single snap of the fingers means instant, dramatic demise.
 
+![The Sovereign's Snap — infographic](../../games/img/D2_P3_S2_T1_G822__royal-status-game.jpg){ .infographic }
+
 `Players 3+` · `~10 min` · `Complexity 2/5` · `Energy medium` · `Props: none`
 
 **Trains:** Status Modulation · _skill drill_
@@ -58,6 +60,8 @@ title: "W11 · Status: High & Low"
 #### Core game — Status Spectrum Party
 
 > Navigate a social gathering while physicalizing a secret status rank from one to ten.
+
+![Status Spectrum Party — infographic](../../games/img/D2_P3_S2_T2_G847__status-party.jpg){ .infographic }
 
 `Players 5+` · `~15 min` · `Complexity 2/5` · `Energy medium` · `Props: required`
 

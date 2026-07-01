@@ -42,6 +42,8 @@ title: "W09 · Group Mind & Follow the Follower"
 
 > Weave environment, movement, and dialogue into a deeply interconnected, multi-layered collective reality.
 
+![The Echo-Scape Weave — infographic](../../games/img/D4_P1_S1_T2_G017__the-echo-scape-weave.jpg){ .infographic }
+
 `Players 4–8` · `~20 min` · `Complexity 4/5` · `Energy medium` · `Props: none`
 
 **Trains:** Peripheral Awareness · _mixed_
@@ -61,6 +63,8 @@ title: "W09 · Group Mind & Follow the Follower"
 #### Core game — The Living Grid
 
 > Co-create and evolve the very rules of your performance format in real-time, completely non-verbally.
+
+![The Living Grid — infographic](../../games/img/D4_P1_S1_T2_G002__the-emergent-canvas.jpg){ .infographic }
 
 `Players 4–8` · `~60 min` · `Complexity 4/5` · `Energy medium` · `Props: none`
 
