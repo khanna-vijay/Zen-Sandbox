@@ -5,17 +5,12 @@ hide:
 ---
 
 
-# Analyzing Improv through my Philosophical Lens
+# Analyzing Improv through my Philosophical Lens : "Truth is one, but called by many names".
 
-I believe from my inner core in Perennialism, "Truth is one, but called by many names".
-
-> *"Sell your cleverness and buy bewilderment."* - Rumi 
 
 > *"The opponent within one's own head is more formidable than the one on the other side of the net."* - W. Timothy Gallwey
 
 > *Those who say 'Yes' are rewarded by the adventures they have. Those who say 'No' are rewarded by the safety they attain."* - Keith Johnstone
-
-> *"Each soul is potentially divine. The goal is to manifest this divinity within."* - Swami Vivekananda.
 
 ## Prologue: The Treatise of the Unblocked Self
 
