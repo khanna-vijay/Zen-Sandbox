@@ -67,6 +67,8 @@ keywords:
   - "support"
 aliases:
   - "Partner's Pedestal"
+hide:
+  - toc
 ---
 
 # The Partner's Pedestal

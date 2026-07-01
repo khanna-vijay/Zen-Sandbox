@@ -62,6 +62,8 @@ keywords:
 aliases:
   - "The Dynamic Director's Cut"
   - "Director's Cut"
+hide:
+  - toc
 ---
 
 # The Live Edit

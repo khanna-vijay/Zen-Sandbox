@@ -58,6 +58,8 @@ keywords:
   - "passing"
   - "object work"
 aliases: []
+hide:
+  - toc
 ---
 
 # Knife Throwing

@@ -60,6 +60,8 @@ keywords:
   - "stage picture"
 aliases:
   - "Echoing Environment"
+hide:
+  - toc
 ---
 
 # The Living Atmosphere

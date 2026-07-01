@@ -1,5 +1,7 @@
 ---
 title: "W02 · The Voice as Instrument"
+hide:
+  - toc
 ---
 
 # Week 02 — The Voice as Instrument

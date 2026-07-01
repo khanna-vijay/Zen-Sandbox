@@ -58,6 +58,8 @@ keywords:
   - "subtle cues"
   - "flow"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Shared Baton

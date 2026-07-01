@@ -60,6 +60,8 @@ keywords:
   - "support"
 aliases:
   - "Retroactive Brilliance"
+hide:
+  - toc
 ---
 
 # Retroactive Brilliance

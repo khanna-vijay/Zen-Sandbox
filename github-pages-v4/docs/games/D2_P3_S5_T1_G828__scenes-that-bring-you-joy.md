@@ -55,6 +55,8 @@ keywords:
   - "connection"
 aliases:
   - "Scenes that bring joy"
+hide:
+  - toc
 ---
 
 # Gifts of Joy

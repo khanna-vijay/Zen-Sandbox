@@ -57,6 +57,8 @@ keywords:
   - "stage presence"
 aliases:
   - "Carousel"
+hide:
+  - toc
 ---
 
 # Scene Carousel

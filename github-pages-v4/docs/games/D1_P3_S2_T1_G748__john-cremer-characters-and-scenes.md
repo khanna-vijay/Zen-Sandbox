@@ -55,6 +55,8 @@ keywords:
   - "warm-up"
 aliases:
   - "John Cremer Characters"
+hide:
+  - toc
 ---
 
 # Inside Out Amplification

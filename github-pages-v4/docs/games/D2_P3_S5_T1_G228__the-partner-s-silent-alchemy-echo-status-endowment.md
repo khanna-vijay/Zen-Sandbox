@@ -69,6 +69,8 @@ keywords:
 aliases:
   - "Silent Alchemy"
   - "Echo & Status Endowment"
+hide:
+  - toc
 ---
 
 # Silent Alchemy

@@ -1,5 +1,7 @@
 ---
 title: Consent & Boundaries
+hide:
+  - toc
 ---
 
 # 💎 Consent & Boundaries

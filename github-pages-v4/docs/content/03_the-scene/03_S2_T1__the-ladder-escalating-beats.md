@@ -1,5 +1,7 @@
 ---
 title: The 'ladder' (escalating beats)
+hide:
+  - toc
 ---
 
 # 🎯 The 'ladder' (escalating beats)

@@ -61,6 +61,8 @@ keywords:
   - "audience suggestion"
 aliases:
   - "Impaired Fairy Tale"
+hide:
+  - toc
 ---
 
 # The Constrained Chronicles

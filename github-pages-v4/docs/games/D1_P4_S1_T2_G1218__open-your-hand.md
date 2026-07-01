@@ -50,6 +50,8 @@ keywords:
   - "object work"
   - "censor"
 aliases: []
+hide:
+  - toc
 ---
 
 # Sky Catch

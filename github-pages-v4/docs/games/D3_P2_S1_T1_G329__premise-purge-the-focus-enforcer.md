@@ -62,6 +62,8 @@ keywords:
 aliases:
   - "Premise Purge"
   - "The Focus Enforcer"
+hide:
+  - toc
 ---
 
 # Premise Purge

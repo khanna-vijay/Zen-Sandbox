@@ -54,6 +54,8 @@ keywords:
   - "listening"
   - "secret"
 aliases: []
+hide:
+  - toc
 ---
 
 # Chain Reactions

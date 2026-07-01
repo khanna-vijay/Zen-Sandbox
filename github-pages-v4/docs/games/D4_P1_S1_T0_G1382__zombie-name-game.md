@@ -51,6 +51,8 @@ keywords:
   - "focus"
   - "group connection"
 aliases: []
+hide:
+  - toc
 ---
 
 # Zombie Name Chase

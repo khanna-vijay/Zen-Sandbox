@@ -56,6 +56,8 @@ keywords:
   - "letters"
   - "numbers"
 aliases: []
+hide:
+  - toc
 ---
 
 # Alphabet Volley

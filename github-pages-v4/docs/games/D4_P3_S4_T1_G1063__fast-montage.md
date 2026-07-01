@@ -54,6 +54,8 @@ keywords:
   - "support"
 aliases:
   - "Flashback Montage"
+hide:
+  - toc
 ---
 
 # Rapid Backstory Montage

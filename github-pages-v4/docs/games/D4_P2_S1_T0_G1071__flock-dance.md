@@ -54,6 +54,8 @@ keywords:
   - "group mind"
 aliases:
   - "Flocking"
+hide:
+  - toc
 ---
 
 # Flock Movement

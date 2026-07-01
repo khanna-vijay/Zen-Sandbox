@@ -57,6 +57,8 @@ keywords:
   - "feedback loop"
 aliases:
   - "Conductor's Fourth Wall"
+hide:
+  - toc
 ---
 
 # The Responsive House

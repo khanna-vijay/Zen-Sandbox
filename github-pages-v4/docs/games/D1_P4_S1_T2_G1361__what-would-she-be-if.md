@@ -56,6 +56,8 @@ keywords:
 aliases:
   - "What Would They Be If"
   - "If They Were A"
+hide:
+  - toc
 ---
 
 # Metaphorical Portrait

@@ -53,6 +53,8 @@ keywords:
   - "listening"
   - "speed"
 aliases: []
+hide:
+  - toc
 ---
 
 # I Need A...

@@ -57,6 +57,8 @@ keywords:
   - "cut calls"
   - "truth over pandering"
 aliases: []
+hide:
+  - toc
 ---
 
 # Bridges and Boundaries

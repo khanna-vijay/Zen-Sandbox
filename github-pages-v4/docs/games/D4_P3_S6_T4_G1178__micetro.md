@@ -61,6 +61,8 @@ keywords:
 aliases:
   - "Maestro"
   - "Maestro Impro"
+hide:
+  - toc
 ---
 
 # The Conductor's Challenge

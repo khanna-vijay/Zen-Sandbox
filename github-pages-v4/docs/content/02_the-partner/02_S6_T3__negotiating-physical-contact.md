@@ -1,5 +1,7 @@
 ---
 title: Negotiating physical contact
+hide:
+  - toc
 ---
 
 # 🎯 Negotiating physical contact

@@ -51,6 +51,8 @@ keywords:
   - "sweep edit"
   - "tag out"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Scene Montage

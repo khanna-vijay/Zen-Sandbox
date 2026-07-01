@@ -55,6 +55,8 @@ keywords:
   - "pov"
   - "storytelling"
 aliases: []
+hide:
+  - toc
 ---
 
 # Object Perspectives

@@ -59,6 +59,8 @@ keywords:
 aliases:
   - "Blind Date"
   - "Dating Game"
+hide:
+  - toc
 ---
 
 # The Quirky Dating Show

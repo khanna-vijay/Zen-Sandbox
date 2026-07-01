@@ -60,6 +60,8 @@ keywords:
   - "audibility"
 aliases:
   - "Visibility & Connection Grid"
+hide:
+  - toc
 ---
 
 # The Sightline Lab

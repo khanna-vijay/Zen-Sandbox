@@ -56,6 +56,8 @@ keywords:
   - "unusual behavior"
   - "meta-improv"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Pattern Weaver

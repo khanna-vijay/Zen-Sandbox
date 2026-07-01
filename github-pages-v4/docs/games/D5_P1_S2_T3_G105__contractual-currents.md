@@ -62,6 +62,8 @@ keywords:
   - "meta-commentary"
   - "energy calibration"
 aliases: []
+hide:
+  - toc
 ---
 
 # Permeable Currents

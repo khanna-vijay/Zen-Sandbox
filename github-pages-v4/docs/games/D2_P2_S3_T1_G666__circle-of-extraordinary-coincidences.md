@@ -61,6 +61,8 @@ keywords:
   - "physicality"
   - "abstract"
 aliases: []
+hide:
+  - toc
 ---
 
 # Symphony of Coincidences

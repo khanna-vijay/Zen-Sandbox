@@ -60,6 +60,8 @@ keywords:
   - "listening"
   - "association"
 aliases: []
+hide:
+  - toc
 ---
 
 # Resonant Tapestry

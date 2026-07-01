@@ -50,6 +50,8 @@ keywords:
   - "mental agility"
 aliases:
   - "Fuzzy Duck"
+hide:
+  - toc
 ---
 
 # Fuzzy Ducky

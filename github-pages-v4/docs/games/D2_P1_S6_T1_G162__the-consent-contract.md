@@ -60,6 +60,8 @@ keywords:
 aliases:
   - "Consent Coins"
   - "Dynamic Consent Contract"
+hide:
+  - toc
 ---
 
 # Consent Coins

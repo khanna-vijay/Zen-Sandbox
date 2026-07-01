@@ -60,6 +60,8 @@ keywords:
   - "metronome"
   - "calibration"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Audience Current

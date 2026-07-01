@@ -59,6 +59,8 @@ keywords:
 aliases:
   - "Five Titles"
   - "Ten Titles"
+hide:
+  - toc
 ---
 
 # The Playlist

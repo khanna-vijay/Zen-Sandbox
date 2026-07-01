@@ -56,6 +56,8 @@ keywords:
   - "yes and"
   - "spontaneity"
 aliases: []
+hide:
+  - toc
 ---
 
 # Story Swap

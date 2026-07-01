@@ -58,6 +58,8 @@ keywords:
   - "spontaneity"
   - "justification"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Character Bag

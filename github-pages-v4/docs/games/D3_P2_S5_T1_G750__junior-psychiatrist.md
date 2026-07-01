@@ -56,6 +56,8 @@ keywords:
   - "active listening"
   - "side-coaching"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Scene Analyst

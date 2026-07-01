@@ -60,6 +60,8 @@ keywords:
   - "collective unconscious"
 aliases:
   - "The Permeable Veil"
+hide:
+  - toc
 ---
 
 # The Silent Weathervane

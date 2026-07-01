@@ -56,6 +56,8 @@ keywords:
   - "debrief"
 aliases:
   - "The Improv Comfort Curve"
+hide:
+  - toc
 ---
 
 # The Comfort Curve

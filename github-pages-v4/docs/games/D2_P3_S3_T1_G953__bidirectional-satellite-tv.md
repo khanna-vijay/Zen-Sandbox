@@ -55,6 +55,8 @@ keywords:
   - "coordination"
   - "listening"
 aliases: []
+hide:
+  - toc
 ---
 
 # Dual-Channel Echo Mirror

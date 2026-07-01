@@ -49,6 +49,8 @@ keywords:
   - "base-reality"
   - "crow"
 aliases: []
+hide:
+  - toc
 ---
 
 # C.R.O.W. Launchpad

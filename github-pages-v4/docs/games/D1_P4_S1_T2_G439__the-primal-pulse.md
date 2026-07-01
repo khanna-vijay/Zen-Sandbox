@@ -65,6 +65,8 @@ keywords:
   - "transformation"
   - "first thought"
 aliases: []
+hide:
+  - toc
 ---
 
 # Resonance and Shift

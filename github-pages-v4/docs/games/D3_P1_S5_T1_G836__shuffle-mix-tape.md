@@ -65,6 +65,8 @@ keywords:
 aliases:
   - "Shuffle"
   - "Mix Tape"
+hide:
+  - toc
 ---
 
 # Soundtrack Roulette

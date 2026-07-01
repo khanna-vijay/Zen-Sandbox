@@ -1,5 +1,7 @@
 ---
 title: "W04 · Invisible Status"
+hide:
+  - toc
 ---
 
 # Week 04 — Invisible Status

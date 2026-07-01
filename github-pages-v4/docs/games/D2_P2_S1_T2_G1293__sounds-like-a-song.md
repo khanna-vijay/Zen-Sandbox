@@ -55,6 +55,8 @@ keywords:
   - "listening"
   - "verbal cue"
 aliases: []
+hide:
+  - toc
 ---
 
 # Sounds Like a Song

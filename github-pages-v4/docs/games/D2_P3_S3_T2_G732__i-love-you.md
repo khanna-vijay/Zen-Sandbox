@@ -57,6 +57,8 @@ keywords:
   - "honesty"
   - "gifting"
 aliases: []
+hide:
+  - toc
 ---
 
 # I Love You

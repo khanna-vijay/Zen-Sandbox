@@ -69,6 +69,8 @@ aliases:
   - "Status Swap"
   - "Status Transfer"
   - "Status Switch"
+hide:
+  - toc
 ---
 
 # Status Seesaw Shift

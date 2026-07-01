@@ -63,6 +63,8 @@ keywords:
   - "analytical"
 aliases:
   - "Intent Architect"
+hide:
+  - toc
 ---
 
 # The Story Architect

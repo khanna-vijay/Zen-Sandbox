@@ -60,6 +60,8 @@ keywords:
   - "physicality"
   - "sensory"
 aliases: []
+hide:
+  - toc
 ---
 
 # Ecosystem

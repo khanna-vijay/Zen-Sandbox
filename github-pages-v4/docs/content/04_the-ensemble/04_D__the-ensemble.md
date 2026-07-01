@@ -1,5 +1,7 @@
 ---
 title: The Ensemble
+hide:
+  - toc
 ---
 
 # 🎭 The Ensemble

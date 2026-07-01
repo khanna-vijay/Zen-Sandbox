@@ -58,6 +58,8 @@ keywords:
 aliases:
   - "Speedy Get to Know"
   - "Speed Dating Icebreaker"
+hide:
+  - toc
 ---
 
 # Rapid Connection Rounds

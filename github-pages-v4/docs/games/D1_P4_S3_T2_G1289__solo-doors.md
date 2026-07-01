@@ -52,6 +52,8 @@ keywords:
   - "platform"
   - "space work"
 aliases: []
+hide:
+  - toc
 ---
 
 # Solo Thresholds

@@ -1,5 +1,7 @@
 ---
 title: High/low-status walks
+hide:
+  - toc
 ---
 
 # 🎯 High/low-status walks

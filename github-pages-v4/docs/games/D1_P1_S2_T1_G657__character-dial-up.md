@@ -62,6 +62,8 @@ keywords:
 aliases:
   - "Character Dial"
   - "Dial Up"
+hide:
+  - toc
 ---
 
 # Incremental Character Dial

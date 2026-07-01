@@ -63,6 +63,8 @@ keywords:
 aliases:
   - "Catch Impro"
   - "Improv Catch"
+hide:
+  - toc
 ---
 
 # Tag-Team Theatre

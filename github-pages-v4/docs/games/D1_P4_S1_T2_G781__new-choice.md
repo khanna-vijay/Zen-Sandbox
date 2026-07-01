@@ -56,6 +56,8 @@ aliases:
   - "Change"
   - "New Action"
   - "Honkasaurus Rex"
+hide:
+  - toc
 ---
 
 # New Choice

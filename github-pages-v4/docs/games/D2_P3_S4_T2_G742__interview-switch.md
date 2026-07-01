@@ -59,6 +59,8 @@ keywords:
   - "character"
   - "spontaneity"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Expert Exchange

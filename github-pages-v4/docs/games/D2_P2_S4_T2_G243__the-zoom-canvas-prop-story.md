@@ -60,6 +60,8 @@ keywords:
 aliases:
   - "Prop Story"
   - "The Zoom Canvas"
+hide:
+  - toc
 ---
 
 # The Virtual Prop Relay

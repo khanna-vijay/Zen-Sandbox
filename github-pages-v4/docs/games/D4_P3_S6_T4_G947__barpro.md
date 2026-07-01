@@ -52,6 +52,8 @@ keywords:
   - "miming props"
   - "small space"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Intimate Showcase

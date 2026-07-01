@@ -60,6 +60,8 @@ keywords:
   - "sculpting"
   - "space work"
 aliases: []
+hide:
+  - toc
 ---
 
 # Symbiotic Environments

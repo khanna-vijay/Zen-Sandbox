@@ -59,6 +59,8 @@ keywords:
 aliases:
   - "Audience Accord"
   - "Fourth Wall Decision Cycle"
+hide:
+  - toc
 ---
 
 # The Fourth Wall Accord

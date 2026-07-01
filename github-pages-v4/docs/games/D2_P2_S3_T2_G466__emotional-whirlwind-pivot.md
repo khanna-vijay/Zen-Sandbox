@@ -66,6 +66,8 @@ keywords:
   - "justification"
 aliases:
   - "Emotion-Driven Scene Pivot"
+hide:
+  - toc
 ---
 
 # Emotional Whirlwind Pivot

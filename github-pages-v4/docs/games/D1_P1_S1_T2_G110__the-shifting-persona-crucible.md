@@ -58,6 +58,8 @@ keywords:
   - "rapid transitions"
   - "conductor"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Impulse Crucible

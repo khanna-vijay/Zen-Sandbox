@@ -56,6 +56,8 @@ keywords:
   - "movement"
   - "contact"
 aliases: []
+hide:
+  - toc
 ---
 
 # Chivalrous Duos

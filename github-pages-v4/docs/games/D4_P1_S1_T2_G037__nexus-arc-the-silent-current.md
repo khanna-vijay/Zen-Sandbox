@@ -59,6 +59,8 @@ keywords:
   - "abstract"
 aliases:
   - "The Silent Current"
+hide:
+  - toc
 ---
 
 # Resonant Currents

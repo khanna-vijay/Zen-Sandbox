@@ -58,6 +58,8 @@ aliases:
   - "Lines from a Pocket"
   - "Paper Chase"
   - "Slips of Paper"
+hide:
+  - toc
 ---
 
 # The Slip Bucket

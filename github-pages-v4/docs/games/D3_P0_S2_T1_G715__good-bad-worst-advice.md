@@ -55,6 +55,8 @@ keywords:
 aliases:
   - "Good, Bad, Ugly Advice"
   - "Three Psychiatrists"
+hide:
+  - toc
 ---
 
 # Good, Bad, Worst Advice

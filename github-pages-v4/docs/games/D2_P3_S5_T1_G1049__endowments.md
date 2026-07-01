@@ -61,6 +61,8 @@ aliases:
   - "Object Endowment"
   - "Secrets Endowment"
   - "Superhero Endowment"
+hide:
+  - toc
 ---
 
 # The Secret Gift

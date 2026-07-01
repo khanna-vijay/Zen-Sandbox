@@ -63,6 +63,8 @@ keywords:
 aliases:
   - "Game Architect"
   - "Relationship Echoes"
+hide:
+  - toc
 ---
 
 # The Narrative Crucible

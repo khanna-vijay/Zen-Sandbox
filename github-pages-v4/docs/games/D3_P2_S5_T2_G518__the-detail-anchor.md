@@ -56,6 +56,8 @@ keywords:
   - "specificity"
   - "memory recall"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Detail Anchor

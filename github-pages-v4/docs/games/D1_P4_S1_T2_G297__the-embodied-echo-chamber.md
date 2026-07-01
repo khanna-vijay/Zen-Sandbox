@@ -64,6 +64,8 @@ keywords:
   - "resonance"
   - "group mind"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Embodied Echo Chamber

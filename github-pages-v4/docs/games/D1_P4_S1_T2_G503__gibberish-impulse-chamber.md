@@ -62,6 +62,8 @@ keywords:
   - "vocal craft"
   - "physicality"
 aliases: []
+hide:
+  - toc
 ---
 
 # Gibberish Impulse Chamber

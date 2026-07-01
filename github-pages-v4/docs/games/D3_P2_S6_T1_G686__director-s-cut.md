@@ -58,6 +58,8 @@ keywords:
   - "side-coaching"
   - "heightening"
 aliases: []
+hide:
+  - toc
 ---
 
 # Director's Cut

@@ -56,6 +56,8 @@ keywords:
   - "quick thinking"
   - "association"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Emergency Gift

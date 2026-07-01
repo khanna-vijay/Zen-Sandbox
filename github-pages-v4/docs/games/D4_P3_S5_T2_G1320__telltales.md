@@ -61,6 +61,8 @@ keywords:
   - "transitions"
   - "direct address"
 aliases: []
+hide:
+  - toc
 ---
 
 # Threaded Solos

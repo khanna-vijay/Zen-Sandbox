@@ -1,5 +1,7 @@
 ---
 title: The Audience Is the Final Scene Partner
+hide:
+  - toc
 ---
 
 # 💎 The Audience Is the Final Scene Partner

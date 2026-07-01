@@ -65,6 +65,8 @@ keywords:
   - "absurdity"
 aliases:
   - "Problem-Solution Loop"
+hide:
+  - toc
 ---
 
 # The Brilliant Solution Loop

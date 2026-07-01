@@ -52,6 +52,8 @@ keywords:
   - "storytelling"
   - "facilitator"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Narrative Kaleidoscope

@@ -65,6 +65,8 @@ keywords:
   - "duo"
 aliases:
   - "Rapid Ignition"
+hide:
+  - toc
 ---
 
 # The Instant Spark

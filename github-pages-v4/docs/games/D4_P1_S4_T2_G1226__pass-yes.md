@@ -55,6 +55,8 @@ keywords:
   - "eyes closed"
 aliases:
   - "Yes No Circle"
+hide:
+  - toc
 ---
 
 # Pass Yes

@@ -58,6 +58,8 @@ keywords:
 aliases:
   - "Hello"
   - "Lost Friend"
+hide:
+  - toc
 ---
 
 # Dynamic Greetings

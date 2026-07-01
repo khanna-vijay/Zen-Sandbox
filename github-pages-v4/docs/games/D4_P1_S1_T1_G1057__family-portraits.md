@@ -56,6 +56,8 @@ keywords:
   - "warm-up"
   - "pictures"
 aliases: []
+hide:
+  - toc
 ---
 
 # Family Portraits

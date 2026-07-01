@@ -57,6 +57,8 @@ keywords:
   - "connection"
   - "reaction"
 aliases: []
+hide:
+  - toc
 ---
 
 # Zip Zap Boing

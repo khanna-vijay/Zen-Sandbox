@@ -59,6 +59,8 @@ aliases:
   - "Haunted House"
   - "Blind Stalker"
   - "Vampire Game"
+hide:
+  - toc
 ---
 
 # Blind Sentinel

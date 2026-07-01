@@ -1,5 +1,7 @@
 ---
 title: "W15 · Playing to the Back Row"
+hide:
+  - toc
 ---
 
 # Week 15 — Playing to the Back Row

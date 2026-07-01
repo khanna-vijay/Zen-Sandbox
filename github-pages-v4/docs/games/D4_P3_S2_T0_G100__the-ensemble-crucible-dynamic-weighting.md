@@ -66,6 +66,8 @@ keywords:
   - "roles"
 aliases:
   - "Weighted Contribution"
+hide:
+  - toc
 ---
 
 # Dynamic Weighting

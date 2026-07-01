@@ -1,5 +1,7 @@
 ---
 title: Stakes / The 'Want'
+hide:
+  - toc
 ---
 
 # 🧠 Stakes / The 'Want'

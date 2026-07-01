@@ -55,6 +55,8 @@ keywords:
   - "focus"
   - "ensemble"
 aliases: []
+hide:
+  - toc
 ---
 
 # Receiver's Right

@@ -66,6 +66,8 @@ keywords:
   - "movement"
 aliases:
   - "Emotional Current Walk"
+hide:
+  - toc
 ---
 
 # The Emotional Current Walk

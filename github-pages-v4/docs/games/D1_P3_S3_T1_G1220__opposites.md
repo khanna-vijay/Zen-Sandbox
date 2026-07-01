@@ -54,6 +54,8 @@ keywords:
   - "self-awareness"
   - "traits"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Inverse Self

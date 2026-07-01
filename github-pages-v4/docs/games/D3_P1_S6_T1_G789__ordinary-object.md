@@ -58,6 +58,8 @@ keywords:
   - "creative thinking"
 aliases:
   - "Props Scene"
+hide:
+  - toc
 ---
 
 # Object Metamorphosis

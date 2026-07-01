@@ -58,6 +58,8 @@ keywords:
   - "soap opera"
   - "london"
 aliases: []
+hide:
+  - toc
 ---
 
 # Soap Opera Circle

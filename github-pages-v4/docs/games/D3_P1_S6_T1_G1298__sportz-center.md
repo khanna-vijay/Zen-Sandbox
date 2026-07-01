@@ -60,6 +60,8 @@ keywords:
   - "replay"
 aliases:
   - "SloMo World Champion"
+hide:
+  - toc
 ---
 
 # Championship Commentary

@@ -63,6 +63,8 @@ keywords:
   - "ensemble"
   - "tapestry"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Resonance Engine

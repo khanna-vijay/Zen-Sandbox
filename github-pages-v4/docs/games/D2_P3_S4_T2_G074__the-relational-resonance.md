@@ -65,6 +65,8 @@ keywords:
   - "whispered prompts"
   - "relationship"
 aliases: []
+hide:
+  - toc
 ---
 
 # Subtextual Resonance

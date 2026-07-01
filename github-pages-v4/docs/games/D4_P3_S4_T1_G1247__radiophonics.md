@@ -55,6 +55,8 @@ keywords:
   - "transitions"
   - "dj"
 aliases: []
+hide:
+  - toc
 ---
 
 # Sonic Dial

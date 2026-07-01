@@ -59,6 +59,8 @@ keywords:
   - "group mind"
   - "support"
 aliases: []
+hide:
+  - toc
 ---
 
 # Dubbing

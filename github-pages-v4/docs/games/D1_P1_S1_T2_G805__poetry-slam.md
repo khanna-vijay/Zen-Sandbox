@@ -57,6 +57,8 @@ keywords:
   - "teams"
   - "performance"
 aliases: []
+hide:
+  - toc
 ---
 
 # Slam Poetry Showdown

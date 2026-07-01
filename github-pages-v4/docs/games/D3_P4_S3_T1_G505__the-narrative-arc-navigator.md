@@ -56,6 +56,8 @@ keywords:
   - "meta-awareness"
   - "side-coaching"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Narrative Arc Navigator

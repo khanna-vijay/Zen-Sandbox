@@ -61,6 +61,8 @@ keywords:
   - "character change"
   - "ripple effect"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Ripple Effect

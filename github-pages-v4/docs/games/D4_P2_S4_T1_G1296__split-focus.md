@@ -54,6 +54,8 @@ keywords:
   - "pacing"
   - "editing"
 aliases: []
+hide:
+  - toc
 ---
 
 # Split Focus

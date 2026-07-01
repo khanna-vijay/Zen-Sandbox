@@ -59,6 +59,8 @@ keywords:
   - "narrative"
   - "audience-choice"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Genre Blueprint

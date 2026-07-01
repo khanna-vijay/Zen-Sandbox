@@ -56,6 +56,8 @@ keywords:
   - "co-creation"
 aliases:
   - "Attenborough"
+hide:
+  - toc
 ---
 
 # The Storyteller's Lens

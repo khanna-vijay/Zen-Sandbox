@@ -60,6 +60,8 @@ keywords:
 aliases:
   - "The Narrative Navigator"
   - "Zones for Narrative Arc Construction"
+hide:
+  - toc
 ---
 
 # Narrative Thresholds

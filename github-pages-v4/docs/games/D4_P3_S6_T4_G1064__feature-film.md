@@ -55,6 +55,8 @@ keywords:
 aliases:
   - "At the Movies"
   - "At The Oscars"
+hide:
+  - toc
 ---
 
 # The Director's Cut

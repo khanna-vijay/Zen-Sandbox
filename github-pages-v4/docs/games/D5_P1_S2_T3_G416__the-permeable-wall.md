@@ -61,6 +61,8 @@ keywords:
   - "direct address"
 aliases:
   - "The Permeable Wall: A Dynamic Engagement Exercise"
+hide:
+  - toc
 ---
 
 # The Permeable Wall

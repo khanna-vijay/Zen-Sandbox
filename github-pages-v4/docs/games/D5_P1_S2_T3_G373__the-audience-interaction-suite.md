@@ -59,6 +59,8 @@ keywords:
   - "feedback loop"
   - "stage presence"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Fourth Wall Tension Wire

@@ -58,6 +58,8 @@ keywords:
 aliases:
   - "Playbook"
   - "Don't Mess with Textus"
+hide:
+  - toc
 ---
 
 # Actor's Nightmare

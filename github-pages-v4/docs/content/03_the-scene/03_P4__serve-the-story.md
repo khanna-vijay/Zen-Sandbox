@@ -1,5 +1,7 @@
 ---
 title: Serve the Story
+hide:
+  - toc
 ---
 
 # 💎 Serve the Story

@@ -52,6 +52,8 @@ keywords:
   - "non-verbal"
   - "coordination"
 aliases: []
+hide:
+  - toc
 ---
 
 # Glacial Chairs

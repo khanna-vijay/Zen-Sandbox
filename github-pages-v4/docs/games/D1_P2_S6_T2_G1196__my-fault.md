@@ -54,6 +54,8 @@ keywords:
   - "mistakes"
   - "physical"
 aliases: []
+hide:
+  - toc
 ---
 
 # My Fault!

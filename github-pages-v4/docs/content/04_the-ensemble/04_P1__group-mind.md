@@ -1,5 +1,7 @@
 ---
 title: Group Mind
+hide:
+  - toc
 ---
 
 # 💎 Group Mind

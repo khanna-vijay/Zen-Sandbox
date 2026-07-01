@@ -55,6 +55,8 @@ keywords:
   - "focus"
   - "tempo"
 aliases: []
+hide:
+  - toc
 ---
 
 # Satellite Echo

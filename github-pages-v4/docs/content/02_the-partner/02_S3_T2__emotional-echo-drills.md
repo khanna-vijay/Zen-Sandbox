@@ -1,5 +1,7 @@
 ---
 title: Emotional-echo drills
+hide:
+  - toc
 ---
 
 # 🎯 Emotional-echo drills

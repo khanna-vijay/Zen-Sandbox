@@ -62,6 +62,8 @@ keywords:
   - "permeability"
   - "stage presence"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Permeability Spectrum

@@ -49,6 +49,8 @@ keywords:
   - "bridging"
   - "time travel"
 aliases: []
+hide:
+  - toc
 ---
 
 # Time Jump

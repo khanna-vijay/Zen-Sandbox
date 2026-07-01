@@ -58,6 +58,8 @@ keywords:
   - "shortform"
 aliases:
   - "Alphabet"
+hide:
+  - toc
 ---
 
 # Alphabet Elimination

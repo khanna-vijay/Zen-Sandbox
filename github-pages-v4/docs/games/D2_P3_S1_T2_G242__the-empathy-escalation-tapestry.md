@@ -64,6 +64,8 @@ keywords:
   - "attunement"
   - "subtext"
 aliases: []
+hide:
+  - toc
 ---
 
 # Subtext Resonance

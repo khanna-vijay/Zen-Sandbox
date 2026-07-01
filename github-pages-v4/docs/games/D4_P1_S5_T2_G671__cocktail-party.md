@@ -55,6 +55,8 @@ keywords:
   - "organic edit"
   - "split-attention"
 aliases: []
+hide:
+  - toc
 ---
 
 # Cocktail Party

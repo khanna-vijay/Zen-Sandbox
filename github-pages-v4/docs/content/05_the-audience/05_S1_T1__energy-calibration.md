@@ -1,5 +1,7 @@
 ---
 title: Energy-calibration
+hide:
+  - toc
 ---
 
 # 🎯 Energy-calibration

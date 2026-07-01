@@ -1,5 +1,7 @@
 ---
 title: Reading the suggestion's intent
+hide:
+  - toc
 ---
 
 # 🎯 Reading the suggestion's intent

@@ -49,6 +49,8 @@ keywords:
   - "scramble"
   - "speed"
 aliases: []
+hide:
+  - toc
 ---
 
 # Bumpity Bump

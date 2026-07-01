@@ -62,6 +62,8 @@ keywords:
   - "solo performance"
 aliases:
   - "Audience Architect"
+hide:
+  - toc
 ---
 
 # The Response Architect

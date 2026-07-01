@@ -54,6 +54,8 @@ keywords:
   - "crow"
   - "spontaneity"
 aliases: []
+hide:
+  - toc
 ---
 
 # Dual-Offer Discovery

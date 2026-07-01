@@ -1,5 +1,7 @@
 ---
 title: Start in the Middle
+hide:
+  - toc
 ---
 
 # 💎 Start in the Middle

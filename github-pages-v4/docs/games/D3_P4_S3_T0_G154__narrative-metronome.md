@@ -61,6 +61,8 @@ keywords:
   - "stakes"
 aliases:
   - "Narrative Metronome: Conscious Pacing for Narrative Impact"
+hide:
+  - toc
 ---
 
 # Narrative Metronome

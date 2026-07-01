@@ -56,6 +56,8 @@ keywords:
   - "meta-commentary"
   - "stage presence"
 aliases: []
+hide:
+  - toc
 ---
 
 # Fourth Wall Flux

@@ -1,5 +1,7 @@
 ---
 title: "W09 · The Story Spine"
+hide:
+  - toc
 ---
 
 # Week 09 — The Story Spine

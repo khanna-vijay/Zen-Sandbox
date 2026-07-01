@@ -63,6 +63,8 @@ keywords:
   - "justification"
   - "stakes"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Story Chronometer

@@ -54,6 +54,8 @@ keywords:
   - "physical contact"
   - "communication"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Mindful Replay

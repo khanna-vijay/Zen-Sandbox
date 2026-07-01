@@ -1,5 +1,7 @@
 ---
 title: Endowment-gifting drills
+hide:
+  - toc
 ---
 
 # 🎯 Endowment-gifting drills

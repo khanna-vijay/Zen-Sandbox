@@ -54,6 +54,8 @@ keywords:
   - "pairs"
   - "hesitation"
 aliases: []
+hide:
+  - toc
 ---
 
 # Reflex Tap

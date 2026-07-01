@@ -62,6 +62,8 @@ keywords:
   - "endowment"
   - "group mind"
 aliases: []
+hide:
+  - toc
 ---
 
 # Grid Weavers

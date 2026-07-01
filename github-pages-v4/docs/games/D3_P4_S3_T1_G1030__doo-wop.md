@@ -56,6 +56,8 @@ keywords:
   - "performance"
 aliases:
   - "Doo Wop (1)"
+hide:
+  - toc
 ---
 
 # Doo-Wop Narrative

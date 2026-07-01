@@ -1,5 +1,7 @@
 ---
 title: "W11 · Status: High & Low"
+hide:
+  - toc
 ---
 
 # Week 11 — Status: High & Low

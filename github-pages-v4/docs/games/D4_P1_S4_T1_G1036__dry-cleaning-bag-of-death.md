@@ -56,6 +56,8 @@ keywords:
   - "entrances"
   - "exits"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Endurance Relay

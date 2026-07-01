@@ -60,6 +60,8 @@ keywords:
   - "sensory"
 aliases:
   - "The Coherent Thread"
+hide:
+  - toc
 ---
 
 # Atmospheric Architects

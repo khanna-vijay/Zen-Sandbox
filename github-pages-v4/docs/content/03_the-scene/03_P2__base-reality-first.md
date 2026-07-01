@@ -1,5 +1,7 @@
 ---
 title: Base Reality First
+hide:
+  - toc
 ---
 
 # 💎 Base Reality First

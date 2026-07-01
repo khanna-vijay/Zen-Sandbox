@@ -58,6 +58,8 @@ keywords:
   - "object work"
   - "justification"
 aliases: []
+hide:
+  - toc
 ---
 
 # Mundane Rituals

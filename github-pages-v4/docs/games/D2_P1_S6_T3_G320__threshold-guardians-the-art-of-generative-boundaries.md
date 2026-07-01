@@ -57,6 +57,8 @@ keywords:
   - "negotiation"
 aliases:
   - "Threshold Guardians"
+hide:
+  - toc
 ---
 
 # Threshold Negotiators

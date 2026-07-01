@@ -55,6 +55,8 @@ keywords:
   - "sequential"
 aliases:
   - "Slacker (variation)"
+hide:
+  - toc
 ---
 
 # Follow the Leaver

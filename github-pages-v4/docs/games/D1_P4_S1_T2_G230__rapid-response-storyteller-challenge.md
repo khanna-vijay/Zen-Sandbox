@@ -57,6 +57,8 @@ keywords:
   - "adaptation"
 aliases:
   - "Rapid Response Storyteller"
+hide:
+  - toc
 ---
 
 # The Whisper Feed

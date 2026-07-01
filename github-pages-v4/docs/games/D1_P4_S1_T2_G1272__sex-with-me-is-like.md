@@ -51,6 +51,8 @@ keywords:
   - "comedy"
 aliases:
   - "Sex With Me Is Like..."
+hide:
+  - toc
 ---
 
 # Sex With Me Is Like

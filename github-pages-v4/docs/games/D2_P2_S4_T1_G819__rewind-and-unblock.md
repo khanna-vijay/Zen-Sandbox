@@ -52,6 +52,8 @@ keywords:
   - "offers"
   - "yes and"
 aliases: []
+hide:
+  - toc
 ---
 
 # Rewind and Rebuild

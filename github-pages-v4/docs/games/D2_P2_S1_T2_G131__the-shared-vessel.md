@@ -67,6 +67,8 @@ keywords:
   - "physicality"
   - "meisner"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Shared Vessel

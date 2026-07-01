@@ -60,6 +60,8 @@ keywords:
   - "facilitator tap"
 aliases:
   - "Emotional Resonance Chamber"
+hide:
+  - toc
 ---
 
 # Subtext Resonance Chamber

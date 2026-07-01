@@ -1,5 +1,7 @@
 ---
 title: C.R.O.W. (Character, Relationship, Objective, Where)
+hide:
+  - toc
 ---
 
 # 🎯 C.R.O.W. (Character, Relationship, Objective, Where)

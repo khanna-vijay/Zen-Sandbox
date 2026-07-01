@@ -61,6 +61,8 @@ keywords:
   - "stage presence"
   - "pivoting"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Audience Conductor

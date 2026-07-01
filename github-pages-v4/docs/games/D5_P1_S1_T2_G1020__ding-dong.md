@@ -59,6 +59,8 @@ keywords:
   - "spontaneity"
 aliases:
   - "Day in the Life (Ding Dong)"
+hide:
+  - toc
 ---
 
 # Ding Dong

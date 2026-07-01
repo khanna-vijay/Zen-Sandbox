@@ -61,6 +61,8 @@ keywords:
   - "vocal craft"
   - "yes and"
 aliases: []
+hide:
+  - toc
 ---
 
 # Status Architects

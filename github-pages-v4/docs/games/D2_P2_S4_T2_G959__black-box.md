@@ -61,6 +61,8 @@ keywords:
   - "red button"
   - "reaction"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Three-Button Box

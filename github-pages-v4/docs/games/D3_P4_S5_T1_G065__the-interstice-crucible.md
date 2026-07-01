@@ -61,6 +61,8 @@ keywords:
   - "crow"
   - "narrative engine"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Relational Crucible

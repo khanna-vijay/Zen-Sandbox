@@ -51,6 +51,8 @@ keywords:
   - "energy"
 aliases:
   - "Ha-Soh-Kah"
+hide:
+  - toc
 ---
 
 # Ha So Ka

@@ -56,6 +56,8 @@ keywords:
   - "base reality"
   - "scene start"
 aliases: []
+hide:
+  - toc
 ---
 
 # Three-Line Platform

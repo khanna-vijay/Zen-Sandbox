@@ -55,6 +55,8 @@ keywords:
   - "check-in"
 aliases:
   - "The Consent Canvas"
+hide:
+  - toc
 ---
 
 # The Negotiation Canvas

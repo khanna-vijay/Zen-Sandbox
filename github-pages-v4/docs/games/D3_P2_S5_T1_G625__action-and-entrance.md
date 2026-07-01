@@ -57,6 +57,8 @@ keywords:
   - "crow"
   - "base reality"
 aliases: []
+hide:
+  - toc
 ---
 
 # Action and Entrance

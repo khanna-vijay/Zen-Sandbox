@@ -56,6 +56,8 @@ keywords:
   - "group mirror"
 aliases:
   - "Group Mirror"
+hide:
+  - toc
 ---
 
 # The Mirror Exercise

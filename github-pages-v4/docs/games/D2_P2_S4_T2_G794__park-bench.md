@@ -60,6 +60,8 @@ keywords:
 aliases:
   - "Park Bench of Truth"
   - "Park Bench of Change"
+hide:
+  - toc
 ---
 
 # Transforming Bench

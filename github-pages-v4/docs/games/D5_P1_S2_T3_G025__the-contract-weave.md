@@ -62,6 +62,8 @@ keywords:
   - "energy calibration"
 aliases:
   - "Contract Weave"
+hide:
+  - toc
 ---
 
 # The Fourth Wall Weave

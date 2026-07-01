@@ -54,6 +54,8 @@ keywords:
   - "truth over pandering"
 aliases:
   - "Collaborative Boundary Navigation and Dynamic Consent"
+hide:
+  - toc
 ---
 
 # Container Co-Pilots

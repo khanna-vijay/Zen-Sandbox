@@ -59,6 +59,8 @@ keywords:
   - "online team building"
 aliases:
   - "The Living Environment"
+hide:
+  - toc
 ---
 
 # Background Biomes

@@ -58,6 +58,8 @@ keywords:
   - "agreement"
 aliases:
   - "Co-Creation Contract"
+hide:
+  - toc
 ---
 
 # The Scene Treaty

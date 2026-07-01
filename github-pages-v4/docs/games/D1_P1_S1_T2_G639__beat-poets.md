@@ -54,6 +54,8 @@ keywords:
   - "style"
   - "vocal craft"
 aliases: []
+hide:
+  - toc
 ---
 
 # Beat Poets

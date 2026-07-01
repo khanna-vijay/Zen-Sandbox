@@ -56,6 +56,8 @@ keywords:
   - "building"
 aliases:
   - "Yes, And..."
+hide:
+  - toc
 ---
 
 # Yes, And Sentence Build

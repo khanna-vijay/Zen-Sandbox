@@ -54,6 +54,8 @@ aliases:
   - "Shake Down"
   - "Eight Count Shake"
   - "Shakedown"
+hide:
+  - toc
 ---
 
 # Seven-Count Shakeout

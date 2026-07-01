@@ -52,6 +52,8 @@ keywords:
   - "tempo"
   - "coordination"
 aliases: []
+hide:
+  - toc
 ---
 
 # Big Booty

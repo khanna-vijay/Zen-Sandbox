@@ -57,6 +57,8 @@ keywords:
   - "stage presence"
 aliases:
   - "Conductor's Contract"
+hide:
+  - toc
 ---
 
 # The Conductor's Contract

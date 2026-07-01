@@ -52,6 +52,8 @@ keywords:
   - "illusion"
   - "limitation"
 aliases: []
+hide:
+  - toc
 ---
 
 # Sideways Stage

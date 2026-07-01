@@ -51,6 +51,8 @@ keywords:
   - "historical"
   - "storytelling"
 aliases: []
+hide:
+  - toc
 ---
 
 # Rewriting History

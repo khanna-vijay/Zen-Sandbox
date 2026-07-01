@@ -53,6 +53,8 @@ keywords:
   - "gestures"
   - "brain-fry"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Four-Step Cadence

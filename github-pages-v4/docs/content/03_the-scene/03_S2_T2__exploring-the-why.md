@@ -1,5 +1,7 @@
 ---
 title: Exploring the 'why'
+hide:
+  - toc
 ---
 
 # 🎯 Exploring the 'why'

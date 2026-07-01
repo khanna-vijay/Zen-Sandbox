@@ -53,6 +53,8 @@ keywords:
   - "comedy"
   - "support"
 aliases: []
+hide:
+  - toc
 ---
 
 # Evil Twin

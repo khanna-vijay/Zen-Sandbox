@@ -52,6 +52,8 @@ keywords:
   - "peripheral vision"
   - "group mind"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Silent Conductor

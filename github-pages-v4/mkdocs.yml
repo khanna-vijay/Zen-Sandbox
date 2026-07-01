@@ -19,6 +19,7 @@ not_in_nav: |
 theme:
   name: material
   language: en
+  custom_dir: overrides
   features:
     - navigation.tabs
     - navigation.top
@@ -76,6 +77,7 @@ nav:
       - index.md
       - My Philosophical view on Improv: improv-philosophy.md
       - Improv Framework: improv-maturity-framework.md
+      - Improv Framework (v2 — consolidated): improv-maturity-framework-v2.md
   - Workshops:
       - Overview: workshops/index.md
       - "Foundations":

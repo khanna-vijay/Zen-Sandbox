@@ -54,6 +54,8 @@ keywords:
   - "hierarchy"
   - "listening"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Pecking Order

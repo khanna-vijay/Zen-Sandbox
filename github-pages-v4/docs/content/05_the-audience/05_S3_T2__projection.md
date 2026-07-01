@@ -1,5 +1,7 @@
 ---
 title: Projection
+hide:
+  - toc
 ---
 
 # 🎯 Projection

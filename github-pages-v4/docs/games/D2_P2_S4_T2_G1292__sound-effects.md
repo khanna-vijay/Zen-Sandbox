@@ -61,6 +61,8 @@ keywords:
 aliases:
   - "SFX"
   - "Foley Artist"
+hide:
+  - toc
 ---
 
 # Foley Artists

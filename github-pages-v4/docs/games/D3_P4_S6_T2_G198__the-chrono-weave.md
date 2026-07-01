@@ -61,6 +61,8 @@ keywords:
   - "layering"
 aliases:
   - "Chrono-Weave"
+hide:
+  - toc
 ---
 
 # The Thread Weaver

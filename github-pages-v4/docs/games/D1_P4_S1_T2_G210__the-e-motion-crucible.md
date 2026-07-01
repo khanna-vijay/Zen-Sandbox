@@ -64,6 +64,8 @@ keywords:
   - "adaptation"
 aliases:
   - "E-Motion Crucible"
+hide:
+  - toc
 ---
 
 # The Impulse Crucible

@@ -54,6 +54,8 @@ keywords:
   - "spontaneity"
 aliases:
   - "Jeepers Peepers"
+hide:
+  - toc
 ---
 
 # Gaze and Scream

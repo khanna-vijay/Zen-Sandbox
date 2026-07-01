@@ -56,6 +56,8 @@ keywords:
   - "entrances"
   - "emotional dial"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Emotional Household

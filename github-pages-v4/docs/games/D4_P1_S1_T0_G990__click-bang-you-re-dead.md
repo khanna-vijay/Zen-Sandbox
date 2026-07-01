@@ -47,6 +47,8 @@ keywords:
   - "group mind"
   - "puzzle"
 aliases: []
+hide:
+  - toc
 ---
 
 # Click, Bang, Dead

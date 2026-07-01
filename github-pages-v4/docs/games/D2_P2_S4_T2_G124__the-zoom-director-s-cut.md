@@ -64,6 +64,8 @@ keywords:
 aliases:
   - "Director's Cut"
   - "Zoom Director's Cut"
+hide:
+  - toc
 ---
 
 # The Chat-Cut Director

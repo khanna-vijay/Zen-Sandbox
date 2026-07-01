@@ -55,6 +55,8 @@ keywords:
   - "transitions"
 aliases:
   - "Sync and Snap"
+hide:
+  - toc
 ---
 
 # Ensemble Snap

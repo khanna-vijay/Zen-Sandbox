@@ -1,5 +1,7 @@
 ---
 title: Emotional substitution
+hide:
+  - toc
 ---
 
 # 🎯 Emotional substitution

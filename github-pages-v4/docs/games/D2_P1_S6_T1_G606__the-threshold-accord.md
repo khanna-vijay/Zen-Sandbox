@@ -55,6 +55,8 @@ keywords:
   - "truth over pandering"
   - "active listening"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Boundary Threshold

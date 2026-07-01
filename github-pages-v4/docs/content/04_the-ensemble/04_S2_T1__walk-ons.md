@@ -1,5 +1,7 @@
 ---
 title: Walk-ons
+hide:
+  - toc
 ---
 
 # 🎯 Walk-ons

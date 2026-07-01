@@ -57,6 +57,8 @@ keywords:
 aliases:
   - "Conducted Story"
   - "Storyteller Die"
+hide:
+  - toc
 ---
 
 # Conducted Narrative

@@ -1,5 +1,7 @@
 ---
 title: "W09 · Group Mind & Follow the Follower"
+hide:
+  - toc
 ---
 
 # Week 09 — Group Mind & Follow the Follower

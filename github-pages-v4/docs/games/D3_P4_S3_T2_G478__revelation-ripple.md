@@ -59,6 +59,8 @@ keywords:
   - "if true what else is true"
 aliases:
   - "Revelation Ripple: Co-creating Narrative Through Unexpected Revelations"
+hide:
+  - toc
 ---
 
 # Unspoken Revelations

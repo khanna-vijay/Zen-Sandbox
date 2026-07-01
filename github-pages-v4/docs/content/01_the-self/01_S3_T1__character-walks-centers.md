@@ -1,5 +1,7 @@
 ---
 title: Character Walks/Centers
+hide:
+  - toc
 ---
 
 # 🎯 Character Walks/Centers

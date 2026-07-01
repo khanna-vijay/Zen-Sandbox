@@ -57,6 +57,8 @@ keywords:
   - "debrief"
 aliases:
   - "Consent Replay"
+hide:
+  - toc
 ---
 
 # The Consent Replay

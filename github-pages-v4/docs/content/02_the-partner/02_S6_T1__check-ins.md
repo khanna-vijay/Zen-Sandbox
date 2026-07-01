@@ -1,5 +1,7 @@
 ---
 title: Check-ins
+hide:
+  - toc
 ---
 
 # 🎯 Check-ins

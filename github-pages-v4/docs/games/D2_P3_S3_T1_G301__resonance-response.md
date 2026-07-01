@@ -63,6 +63,8 @@ keywords:
   - "partner connection"
   - "multi-sensory"
 aliases: []
+hide:
+  - toc
 ---
 
 # Somatic Resonance

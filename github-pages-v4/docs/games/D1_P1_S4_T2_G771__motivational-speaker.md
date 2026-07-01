@@ -51,6 +51,8 @@ keywords:
   - "vocal craft"
   - "energy"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Rallying Cry

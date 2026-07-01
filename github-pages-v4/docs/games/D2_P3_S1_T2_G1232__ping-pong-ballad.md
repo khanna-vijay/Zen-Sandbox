@@ -56,6 +56,8 @@ keywords:
   - "interview"
   - "duet"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Ping-Pong Ballad

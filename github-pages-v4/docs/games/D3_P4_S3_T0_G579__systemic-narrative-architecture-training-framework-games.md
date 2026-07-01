@@ -68,6 +68,8 @@ aliases:
   - "Engine Lock-In"
   - "Climax Climb"
   - "SNAT Framework"
+hide:
+  - toc
 ---
 
 # Engine Lock-In

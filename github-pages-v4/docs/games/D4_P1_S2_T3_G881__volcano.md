@@ -59,6 +59,8 @@ keywords:
   - "speed"
   - "spontaneity"
 aliases: []
+hide:
+  - toc
 ---
 
 # Instant Architecture

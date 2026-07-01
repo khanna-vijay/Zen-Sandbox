@@ -64,6 +64,8 @@ keywords:
   - "self-recovery"
   - "rapid-fire"
 aliases: []
+hide:
+  - toc
 ---
 
 # Metamorphosis Maelstrom

@@ -58,6 +58,8 @@ keywords:
   - "communication"
 aliases:
   - "Proactive Consent Generation"
+hide:
+  - toc
 ---
 
 # Invitation Engine

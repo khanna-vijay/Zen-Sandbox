@@ -54,6 +54,8 @@ keywords:
   - "mundane"
   - "exaggeration"
 aliases: []
+hide:
+  - toc
 ---
 
 # Melodrama

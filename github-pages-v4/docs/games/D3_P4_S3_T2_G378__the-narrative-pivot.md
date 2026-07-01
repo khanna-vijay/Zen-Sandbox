@@ -59,6 +59,8 @@ keywords:
 aliases:
   - "The Art of the Narrative Pivot"
   - "Pivot"
+hide:
+  - toc
 ---
 
 # The Narrative Pivot

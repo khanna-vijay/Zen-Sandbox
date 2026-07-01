@@ -58,6 +58,8 @@ keywords:
 aliases:
   - "Marriage Counselor"
   - "Marriage Counseling"
+hide:
+  - toc
 ---
 
 # Relationship Therapy Endowment

@@ -58,6 +58,8 @@ keywords:
   - "empathy"
   - "status"
 aliases: []
+hide:
+  - toc
 ---
 
 # Architect of Genius

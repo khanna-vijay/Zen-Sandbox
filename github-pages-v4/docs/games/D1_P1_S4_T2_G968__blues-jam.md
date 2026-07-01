@@ -54,6 +54,8 @@ keywords:
   - "audience suggestion"
   - "performance"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Blues Jam

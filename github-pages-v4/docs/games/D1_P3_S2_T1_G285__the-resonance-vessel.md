@@ -64,6 +64,8 @@ keywords:
   - "impulse"
   - "embodiment"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Resonance Vessel

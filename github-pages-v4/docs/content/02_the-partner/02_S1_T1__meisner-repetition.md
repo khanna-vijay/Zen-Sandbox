@@ -1,5 +1,7 @@
 ---
 title: Meisner Repetition
+hide:
+  - toc
 ---
 
 # 🎯 Meisner Repetition

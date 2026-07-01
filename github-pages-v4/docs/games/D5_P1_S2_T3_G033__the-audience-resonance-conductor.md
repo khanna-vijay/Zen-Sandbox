@@ -62,6 +62,8 @@ keywords:
   - "stage presence"
   - "coaching feedback"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Audience Resonance Conductor

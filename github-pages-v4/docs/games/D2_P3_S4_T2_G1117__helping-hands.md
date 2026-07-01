@@ -57,6 +57,8 @@ keywords:
   - "limitations"
 aliases:
   - "Arm Game"
+hide:
+  - toc
 ---
 
 # Helping Hands

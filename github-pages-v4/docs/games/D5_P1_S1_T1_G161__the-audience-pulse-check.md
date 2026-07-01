@@ -59,6 +59,8 @@ keywords:
   - "stage presence"
 aliases:
   - "Audience Pulse Check"
+hide:
+  - toc
 ---
 
 # Audience Pulse Check

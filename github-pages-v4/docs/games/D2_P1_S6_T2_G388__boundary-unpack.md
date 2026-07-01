@@ -53,6 +53,8 @@ keywords:
   - "physical contact"
   - "unsolicited propositions"
 aliases: []
+hide:
+  - toc
 ---
 
 # Boundary Unpack

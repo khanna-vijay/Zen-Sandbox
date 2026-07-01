@@ -61,6 +61,8 @@ keywords:
 aliases:
   - "The Echoing Edits"
   - "Storyweavers"
+hide:
+  - toc
 ---
 
 # Echoing Edits

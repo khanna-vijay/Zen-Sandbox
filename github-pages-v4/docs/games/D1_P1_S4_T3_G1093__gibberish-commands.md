@@ -52,6 +52,8 @@ keywords:
   - "exercise"
 aliases:
   - "Jabbertalk Commands"
+hide:
+  - toc
 ---
 
 # Gibberish Commands

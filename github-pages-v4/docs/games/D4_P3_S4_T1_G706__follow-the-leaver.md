@@ -52,6 +52,8 @@ keywords:
   - "scene work"
   - "narrative"
 aliases: []
+hide:
+  - toc
 ---
 
 # Follow the Leaver

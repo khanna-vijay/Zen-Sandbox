@@ -61,6 +61,8 @@ keywords:
   - "performance calibration"
 aliases:
   - "Fourth Wall Dial"
+hide:
+  - toc
 ---
 
 # The Fourth Wall Dial

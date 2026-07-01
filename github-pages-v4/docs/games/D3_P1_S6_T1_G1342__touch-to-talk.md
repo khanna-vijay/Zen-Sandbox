@@ -54,6 +54,8 @@ keywords:
   - "connection"
   - "closeness"
 aliases: []
+hide:
+  - toc
 ---
 
 # Touch to Speak

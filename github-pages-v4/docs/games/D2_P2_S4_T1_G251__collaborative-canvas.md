@@ -55,6 +55,8 @@ keywords:
   - "virtual team building"
   - "chat queue"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Narrative Canvas

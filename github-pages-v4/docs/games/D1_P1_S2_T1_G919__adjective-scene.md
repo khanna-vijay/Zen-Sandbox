@@ -56,6 +56,8 @@ keywords:
   - "attitude"
   - "expression"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Adjective Dial

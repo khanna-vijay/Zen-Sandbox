@@ -53,6 +53,8 @@ keywords:
   - "group mind"
   - "awareness"
 aliases: []
+hide:
+  - toc
 ---
 
 # Give and Take: Sound and Motion

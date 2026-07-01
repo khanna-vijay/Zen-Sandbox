@@ -55,6 +55,8 @@ keywords:
   - "character goal"
 aliases:
   - "Declared Destinies"
+hide:
+  - toc
 ---
 
 # Want and Wall

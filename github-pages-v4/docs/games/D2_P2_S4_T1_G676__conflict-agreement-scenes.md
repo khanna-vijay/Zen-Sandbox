@@ -55,6 +55,8 @@ keywords:
   - "scenic exercise"
   - "charna halpern"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Agreement Pivot

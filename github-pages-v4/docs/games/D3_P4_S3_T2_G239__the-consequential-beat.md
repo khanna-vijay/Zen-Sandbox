@@ -60,6 +60,8 @@ keywords:
   - "justification"
 aliases:
   - "Beat Shift"
+hide:
+  - toc
 ---
 
 # Consequential Beats

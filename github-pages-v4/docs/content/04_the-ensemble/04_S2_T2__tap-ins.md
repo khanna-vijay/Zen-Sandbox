@@ -1,5 +1,7 @@
 ---
 title: Tap-ins
+hide:
+  - toc
 ---
 
 # 🎯 Tap-ins

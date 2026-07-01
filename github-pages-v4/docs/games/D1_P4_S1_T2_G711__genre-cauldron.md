@@ -52,6 +52,8 @@ keywords:
   - "association"
   - "obvious"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Genre Cauldron

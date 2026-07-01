@@ -60,6 +60,8 @@ keywords:
   - "micro-interactions"
 aliases:
   - "Fourth Wall Flickers"
+hide:
+  - toc
 ---
 
 # The Co-Conspirator's Glance

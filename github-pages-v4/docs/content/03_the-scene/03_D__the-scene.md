@@ -1,5 +1,7 @@
 ---
 title: The Scene
+hide:
+  - toc
 ---
 
 # 🎭 The Scene

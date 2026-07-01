@@ -1,5 +1,7 @@
 ---
 title: "W06 · Gifting that Serves"
+hide:
+  - toc
 ---
 
 # Week 06 — Gifting that Serves

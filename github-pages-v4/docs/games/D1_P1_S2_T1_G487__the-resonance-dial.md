@@ -65,6 +65,8 @@ keywords:
   - "vulnerability"
 aliases:
   - "Emotional Dial"
+hide:
+  - toc
 ---
 
 # The Emotional Resonance Dial

@@ -49,6 +49,8 @@ keywords:
   - "blocks"
   - "walking"
 aliases: []
+hide:
+  - toc
 ---
 
 # Degrees of Connection

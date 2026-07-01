@@ -55,6 +55,8 @@ keywords:
   - "justification"
   - "performance"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Film Review

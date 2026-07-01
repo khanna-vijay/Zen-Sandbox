@@ -59,6 +59,8 @@ keywords:
   - "grandpa"
   - "solo"
 aliases: []
+hide:
+  - toc
 ---
 
 # Grandpa's Tall Tales

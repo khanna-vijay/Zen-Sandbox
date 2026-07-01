@@ -52,6 +52,8 @@ keywords:
   - "body hide"
   - "cohesion"
 aliases: []
+hide:
+  - toc
 ---
 
 # Ensemble Shield

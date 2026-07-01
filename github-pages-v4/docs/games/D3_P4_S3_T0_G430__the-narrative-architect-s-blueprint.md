@@ -60,6 +60,8 @@ keywords:
   - "justification"
   - "if true what else is true"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Story Architect

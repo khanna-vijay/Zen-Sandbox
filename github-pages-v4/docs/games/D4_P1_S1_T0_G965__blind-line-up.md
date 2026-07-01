@@ -53,6 +53,8 @@ keywords:
   - "trust"
   - "group coordination"
 aliases: []
+hide:
+  - toc
 ---
 
 # Silent Blind Line-Up

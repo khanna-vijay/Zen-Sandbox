@@ -65,6 +65,8 @@ keywords:
   - "structural agility"
 aliases:
   - "Form Juggling"
+hide:
+  - toc
 ---
 
 # Modular Format Juggling

@@ -59,6 +59,8 @@ keywords:
   - "solo performance"
   - "conducting"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Permeability Dial

@@ -70,6 +70,8 @@ keywords:
   - "somatic"
 aliases:
   - "Sensorium Cycle"
+hide:
+  - toc
 ---
 
 # The Sensory Circuit

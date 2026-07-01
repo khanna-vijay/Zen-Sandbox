@@ -58,6 +58,8 @@ keywords:
   - "negotiation"
 aliases:
   - "Echoes of Accord: Negotiating Boundaries Through Improvised Scene Disruption and Re-Accord"
+hide:
+  - toc
 ---
 
 # Echoes of Accord

@@ -57,6 +57,8 @@ keywords:
   - "phones"
 aliases:
   - "Written Lines (Text Version)"
+hide:
+  - toc
 ---
 
 # Last Text Sent

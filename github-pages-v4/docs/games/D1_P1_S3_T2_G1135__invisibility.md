@@ -55,6 +55,8 @@ keywords:
   - "voiceover"
   - "physicality"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Unseen Companion

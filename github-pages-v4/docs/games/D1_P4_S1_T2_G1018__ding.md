@@ -57,6 +57,8 @@ keywords:
   - "re-do"
 aliases:
   - "Other Choice"
+hide:
+  - toc
 ---
 
 # Ding

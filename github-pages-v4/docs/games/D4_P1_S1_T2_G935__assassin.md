@@ -51,6 +51,8 @@ keywords:
   - "physicality"
   - "icebreaker"
 aliases: []
+hide:
+  - toc
 ---
 
 # Shield and Assassin

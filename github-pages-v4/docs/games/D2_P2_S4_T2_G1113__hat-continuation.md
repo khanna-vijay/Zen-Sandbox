@@ -54,6 +54,8 @@ keywords:
   - "role swap"
   - "narrative"
 aliases: []
+hide:
+  - toc
 ---
 
 # Hat Swap Continuity

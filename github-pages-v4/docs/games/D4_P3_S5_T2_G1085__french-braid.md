@@ -54,6 +54,8 @@ keywords:
   - "narrative"
   - "weaving"
 aliases: []
+hide:
+  - toc
 ---
 
 # Braided Narratives

@@ -49,6 +49,8 @@ keywords:
   - "solo"
   - "spontaneity"
 aliases: []
+hide:
+  - toc
 ---
 
 # Physical Impulse Monologue

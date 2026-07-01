@@ -67,6 +67,8 @@ keywords:
   - "partnership"
 aliases:
   - "The Resonance Chamber: Multi-Modal Echoes for Dynamic Partnership"
+hide:
+  - toc
 ---
 
 # Resonant Echoes

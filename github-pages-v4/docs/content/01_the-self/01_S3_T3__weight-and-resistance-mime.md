@@ -1,5 +1,7 @@
 ---
 title: Weight & resistance mime
+hide:
+  - toc
 ---
 
 # 🎯 Weight & resistance mime

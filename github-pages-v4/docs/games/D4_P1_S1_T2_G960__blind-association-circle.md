@@ -54,6 +54,8 @@ keywords:
   - "voice recognition"
 aliases:
   - "Blind Free Association Circle"
+hide:
+  - toc
 ---
 
 # Sensory Thread Circle

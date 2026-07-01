@@ -57,6 +57,8 @@ keywords:
   - "object work"
 aliases:
   - "He Said While She"
+hide:
+  - toc
 ---
 
 # Narrated Endowments

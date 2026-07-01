@@ -59,6 +59,8 @@ keywords:
   - "heightening"
 aliases:
   - "Supermen"
+hide:
+  - toc
 ---
 
 # Mundane Crisis Heroes

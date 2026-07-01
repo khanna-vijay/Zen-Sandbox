@@ -58,6 +58,8 @@ keywords:
   - "mundane"
   - "base-reality"
 aliases: []
+hide:
+  - toc
 ---
 
 # Boring Scene Celebration

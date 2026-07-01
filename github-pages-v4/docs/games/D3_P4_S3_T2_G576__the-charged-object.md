@@ -64,6 +64,8 @@ keywords:
   - "endowment"
 aliases:
   - "Imbuing Objects with Meaning to Drive Narrative"
+hide:
+  - toc
 ---
 
 # The Charged Object

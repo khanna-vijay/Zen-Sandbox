@@ -1,5 +1,7 @@
 ---
 title: Landing/cushioning a beat
+hide:
+  - toc
 ---
 
 # 🎯 Landing/cushioning a beat

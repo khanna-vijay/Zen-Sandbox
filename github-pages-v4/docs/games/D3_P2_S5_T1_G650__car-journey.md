@@ -57,6 +57,8 @@ keywords:
   - "environment"
   - "space work"
 aliases: []
+hide:
+  - toc
 ---
 
 # Road Trip Base Reality

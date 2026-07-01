@@ -56,6 +56,8 @@ keywords:
   - "intrapersonal"
   - "embodiment"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Unseen Burden

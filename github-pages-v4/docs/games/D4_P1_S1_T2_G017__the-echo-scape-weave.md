@@ -68,6 +68,8 @@ keywords:
   - "a-to-c"
 aliases:
   - "The Collective Weave"
+hide:
+  - toc
 ---
 
 # The Echo-Scape Weave

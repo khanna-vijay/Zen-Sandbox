@@ -57,6 +57,8 @@ aliases:
   - "Remote Control"
   - "TV Zapping"
   - "Channels"
+hide:
+  - toc
 ---
 
 # Channel Surfing

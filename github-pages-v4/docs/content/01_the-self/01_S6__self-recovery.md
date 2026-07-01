@@ -1,5 +1,7 @@
 ---
 title: Self-Recovery
+hide:
+  - toc
 ---
 
 # 🧠 Self-Recovery

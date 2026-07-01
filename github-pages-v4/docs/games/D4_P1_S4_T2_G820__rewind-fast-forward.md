@@ -60,6 +60,8 @@ keywords:
 aliases:
   - "Remote Control"
   - "Rewind, Play, Pause, Fast Forward"
+hide:
+  - toc
 ---
 
 # Remote Control Playback

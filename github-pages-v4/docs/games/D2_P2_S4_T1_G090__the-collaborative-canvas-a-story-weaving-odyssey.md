@@ -66,6 +66,8 @@ keywords:
 aliases:
   - "The Collaborative Canvas"
   - "Story-Weaving Odyssey"
+hide:
+  - toc
 ---
 
 # The Illustrated Chronicle

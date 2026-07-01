@@ -62,6 +62,8 @@ keywords:
   - "co-creation"
 aliases:
   - "Loom"
+hide:
+  - toc
 ---
 
 # The Story Loom

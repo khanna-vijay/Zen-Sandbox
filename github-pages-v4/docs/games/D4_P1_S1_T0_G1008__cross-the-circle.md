@@ -53,6 +53,8 @@ aliases:
   - "Big Wind Blows"
   - "Never Have I Ever Circle"
   - "Have You Ever"
+hide:
+  - toc
 ---
 
 # Circle Crossing

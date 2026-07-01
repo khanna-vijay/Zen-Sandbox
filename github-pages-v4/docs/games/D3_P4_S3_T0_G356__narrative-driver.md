@@ -53,6 +53,8 @@ keywords:
   - "scene-building"
   - "cause and effect"
 aliases: []
+hide:
+  - toc
 ---
 
 # Narrative Drivers

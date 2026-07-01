@@ -61,6 +61,8 @@ keywords:
   - "object work"
   - "stage picture"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Living Canvas

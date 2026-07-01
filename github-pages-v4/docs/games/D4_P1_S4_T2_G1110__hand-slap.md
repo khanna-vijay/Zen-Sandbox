@@ -49,6 +49,8 @@ keywords:
   - "elimination"
   - "physicality"
 aliases: []
+hide:
+  - toc
 ---
 
 # Rhythm Slap

@@ -58,6 +58,8 @@ keywords:
   - "cause and effect"
   - "storytelling"
 aliases: []
+hide:
+  - toc
 ---
 
 # Consequence Cascade

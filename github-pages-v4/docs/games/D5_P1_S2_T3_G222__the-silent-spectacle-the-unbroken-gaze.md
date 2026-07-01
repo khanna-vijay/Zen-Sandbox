@@ -61,6 +61,8 @@ keywords:
 aliases:
   - "The Unbroken Gaze"
   - "Silent Spectacle"
+hide:
+  - toc
 ---
 
 # The Unbroken Gaze

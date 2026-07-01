@@ -54,6 +54,8 @@ keywords:
   - "endowment"
   - "offers"
 aliases: []
+hide:
+  - toc
 ---
 
 # Action and Justify

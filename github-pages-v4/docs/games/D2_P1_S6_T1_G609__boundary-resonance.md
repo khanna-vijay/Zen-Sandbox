@@ -56,6 +56,8 @@ keywords:
   - "check-ins"
   - "physical contact"
 aliases: []
+hide:
+  - toc
 ---
 
 # Boundary Echoes

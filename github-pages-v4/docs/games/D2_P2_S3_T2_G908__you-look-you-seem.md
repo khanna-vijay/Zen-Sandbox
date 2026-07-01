@@ -60,6 +60,8 @@ keywords:
   - "connection"
   - "you look you seem"
 aliases: []
+hide:
+  - toc
 ---
 
 # You Look, You Seem

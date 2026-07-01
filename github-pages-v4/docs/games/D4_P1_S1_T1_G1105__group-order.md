@@ -55,6 +55,8 @@ keywords:
   - "cohesion"
 aliases:
   - "Line Up"
+hide:
+  - toc
 ---
 
 # Silent Spectrum

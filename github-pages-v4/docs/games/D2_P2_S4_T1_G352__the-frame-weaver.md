@@ -61,6 +61,8 @@ keywords:
   - "storytelling"
   - "video frame"
 aliases: []
+hide:
+  - toc
 ---
 
 # Grid Weavers

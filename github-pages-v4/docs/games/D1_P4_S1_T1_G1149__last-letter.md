@@ -51,6 +51,8 @@ keywords:
   - "listening"
   - "verbal speed"
 aliases: []
+hide:
+  - toc
 ---
 
 # Last Letter Association

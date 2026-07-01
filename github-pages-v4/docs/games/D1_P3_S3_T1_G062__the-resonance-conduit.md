@@ -66,6 +66,8 @@ keywords:
   - "voice"
 aliases:
   - "Resonance Conduit"
+hide:
+  - toc
 ---
 
 # Somatic Echoes

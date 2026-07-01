@@ -61,6 +61,8 @@ keywords:
   - "truth over pandering"
   - "ensemble"
 aliases: []
+hide:
+  - toc
 ---
 
 # Consent Sculpture Ensemble

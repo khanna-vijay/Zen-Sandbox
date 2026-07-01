@@ -64,6 +64,8 @@ keywords:
   - "scene painting"
   - "crow"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Digital Diorama

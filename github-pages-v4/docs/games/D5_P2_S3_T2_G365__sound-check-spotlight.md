@@ -59,6 +59,8 @@ keywords:
   - "stage presence"
   - "vocal craft"
 aliases: []
+hide:
+  - toc
 ---
 
 # Vocal Spotlight

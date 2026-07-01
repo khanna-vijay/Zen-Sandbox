@@ -1,5 +1,7 @@
 ---
 title: Make Your Partner a Genius
+hide:
+  - toc
 ---
 
 # 💎 Make Your Partner a Genius

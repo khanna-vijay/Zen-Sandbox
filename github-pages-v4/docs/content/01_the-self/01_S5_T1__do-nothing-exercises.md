@@ -1,5 +1,7 @@
 ---
 title: Do nothing exercises
+hide:
+  - toc
 ---
 
 # 🎯 Do nothing exercises

@@ -62,6 +62,8 @@ keywords:
   - "collaboration"
 aliases:
   - "Emotional Canvas"
+hide:
+  - toc
 ---
 
 # Emotional Architects

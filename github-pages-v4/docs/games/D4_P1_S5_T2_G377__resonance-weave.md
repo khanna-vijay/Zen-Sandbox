@@ -59,6 +59,8 @@ keywords:
   - "ensemble"
   - "ripple mechanic"
 aliases: []
+hide:
+  - toc
 ---
 
 # Echo Weave

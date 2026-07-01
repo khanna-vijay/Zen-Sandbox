@@ -60,6 +60,8 @@ keywords:
   - "storytelling"
 aliases:
   - "Chapters"
+hide:
+  - toc
 ---
 
 # Chapter Break

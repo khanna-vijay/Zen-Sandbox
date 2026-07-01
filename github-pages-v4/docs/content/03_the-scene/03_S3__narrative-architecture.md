@@ -1,5 +1,7 @@
 ---
 title: Narrative Architecture
+hide:
+  - toc
 ---
 
 # 🧠 Narrative Architecture

@@ -58,6 +58,8 @@ keywords:
   - "trust"
 aliases:
   - "Collaborative Building with Embedded Consent and Boundary Negotiation"
+hide:
+  - toc
 ---
 
 # The Aligned Architects

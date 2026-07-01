@@ -55,6 +55,8 @@ keywords:
 aliases:
   - "Anyone Who"
   - "Train Wreck"
+hide:
+  - toc
 ---
 
 # Circle Swap

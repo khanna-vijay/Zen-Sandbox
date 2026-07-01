@@ -1,5 +1,7 @@
 ---
 title: Serve the Piece
+hide:
+  - toc
 ---
 
 # 💎 Serve the Piece

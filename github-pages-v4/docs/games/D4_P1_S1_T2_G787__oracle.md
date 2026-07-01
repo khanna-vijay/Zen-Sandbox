@@ -62,6 +62,8 @@ keywords:
 aliases:
   - "Four-Headed Oracle"
   - "Word-at-a-Time Oracle"
+hide:
+  - toc
 ---
 
 # The Multi-Tiered Oracle

@@ -50,6 +50,8 @@ keywords:
   - "imaginary ball"
   - "jill bernard"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Celebration Pass

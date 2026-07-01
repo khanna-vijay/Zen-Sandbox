@@ -57,6 +57,8 @@ aliases:
   - "Speak in One Voice"
   - "Simultaneous Speaking"
   - "Shared Voice"
+hide:
+  - toc
 ---
 
 # Unison Voice

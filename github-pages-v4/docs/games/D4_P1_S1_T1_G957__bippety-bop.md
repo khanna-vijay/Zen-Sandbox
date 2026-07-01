@@ -56,6 +56,8 @@ aliases:
   - "Bappety Boo"
   - "Elephant"
   - "Bunny"
+hide:
+  - toc
 ---
 
 # Bippety Bippety Bop

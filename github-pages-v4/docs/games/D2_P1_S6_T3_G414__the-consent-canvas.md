@@ -56,6 +56,8 @@ keywords:
   - "truth over pandering"
 aliases:
   - "Pause & Paint"
+hide:
+  - toc
 ---
 
 # The Boundary Canvas

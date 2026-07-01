@@ -50,6 +50,8 @@ keywords:
   - "fail joyfully"
   - "rhythm"
 aliases: []
+hide:
+  - toc
 ---
 
 # Big Fish, Small Fish

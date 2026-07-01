@@ -66,6 +66,8 @@ keywords:
   - "connection"
 aliases:
   - "Resonance Weave"
+hide:
+  - toc
 ---
 
 # Resonance Architects

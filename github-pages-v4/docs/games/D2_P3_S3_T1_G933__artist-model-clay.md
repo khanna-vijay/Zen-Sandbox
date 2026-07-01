@@ -54,6 +54,8 @@ keywords:
   - "connection"
   - "trios"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Silent Sculptor

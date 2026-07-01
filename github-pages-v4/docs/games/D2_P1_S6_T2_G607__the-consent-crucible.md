@@ -57,6 +57,8 @@ keywords:
   - "debrief"
 aliases:
   - "The Consent Crucible: High-Stakes Training for Consent, Boundaries, and 'Cut' Calls"
+hide:
+  - toc
 ---
 
 # The Boundary Lab

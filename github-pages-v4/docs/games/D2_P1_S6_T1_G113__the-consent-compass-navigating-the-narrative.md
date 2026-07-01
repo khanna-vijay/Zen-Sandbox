@@ -56,6 +56,8 @@ keywords:
   - "intimacy"
 aliases:
   - "The Consent Compass"
+hide:
+  - toc
 ---
 
 # The Consent Compass

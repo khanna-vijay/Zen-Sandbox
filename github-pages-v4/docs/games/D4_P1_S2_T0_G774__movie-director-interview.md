@@ -59,6 +59,8 @@ keywords:
 aliases:
   - "Director's Cut"
   - "Movie Clips"
+hide:
+  - toc
 ---
 
 # The Director's Cut

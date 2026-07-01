@@ -56,6 +56,8 @@ keywords:
   - "pairs"
   - "endowment"
 aliases: []
+hide:
+  - toc
 ---
 
 # Unwrapping Endowments

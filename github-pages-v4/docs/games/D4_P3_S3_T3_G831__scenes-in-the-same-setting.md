@@ -52,6 +52,8 @@ keywords:
   - "scenework"
   - "exploration"
 aliases: []
+hide:
+  - toc
 ---
 
 # Setting Kaleidoscope

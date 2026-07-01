@@ -1,5 +1,7 @@
 ---
 title: "W11 · Which Engine? Game vs Story"
+hide:
+  - toc
 ---
 
 # Week 11 — Which Engine? Game vs Story

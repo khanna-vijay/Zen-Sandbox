@@ -54,6 +54,8 @@ keywords:
 aliases:
   - "Bippety Bippety Bop Extension"
   - "Elephant, Palm Tree, Car"
+hide:
+  - toc
 ---
 
 # Ensemble Sculptures

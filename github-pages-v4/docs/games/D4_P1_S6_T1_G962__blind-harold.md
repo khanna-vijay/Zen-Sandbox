@@ -56,6 +56,8 @@ keywords:
   - "harold"
 aliases:
   - "The Bat"
+hide:
+  - toc
 ---
 
 # The Blind Harold

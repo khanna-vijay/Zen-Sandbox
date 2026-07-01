@@ -57,6 +57,8 @@ keywords:
   - "truth over pandering"
   - "physical contact"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Boundary Compass

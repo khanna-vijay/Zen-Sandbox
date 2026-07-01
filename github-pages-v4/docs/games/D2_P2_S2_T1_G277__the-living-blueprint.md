@@ -67,6 +67,8 @@ keywords:
   - "gifting"
 aliases:
   - "Collaborative Object Creation with Dynamic Status Modulation"
+hide:
+  - toc
 ---
 
 # The Living Blueprint

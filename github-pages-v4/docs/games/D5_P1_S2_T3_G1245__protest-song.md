@@ -52,6 +52,8 @@ keywords:
   - "verse-chorus"
   - "performance"
 aliases: []
+hide:
+  - toc
 ---
 
 # Protest Anthem

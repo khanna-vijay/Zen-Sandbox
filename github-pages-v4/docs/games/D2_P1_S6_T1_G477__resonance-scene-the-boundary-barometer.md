@@ -57,6 +57,8 @@ keywords:
 aliases:
   - "The Boundary Barometer"
   - "Boundary Barometer"
+hide:
+  - toc
 ---
 
 # The Boundary Barometer

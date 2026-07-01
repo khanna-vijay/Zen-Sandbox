@@ -56,6 +56,8 @@ keywords:
   - "no but"
 aliases:
   - "Consent Weave"
+hide:
+  - toc
 ---
 
 # The Consent Weave

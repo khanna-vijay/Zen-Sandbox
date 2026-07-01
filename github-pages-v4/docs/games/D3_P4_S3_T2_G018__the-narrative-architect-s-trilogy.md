@@ -64,6 +64,8 @@ aliases:
   - "The Escalation Ladder"
   - "Detail Drip"
   - "Pattern & Pivot"
+hide:
+  - toc
 ---
 
 # The Platform Tilt

@@ -52,6 +52,8 @@ keywords:
   - "non-verbal cues"
   - "truth over pandering"
 aliases: []
+hide:
+  - toc
 ---
 
 # Boundary Cartographers

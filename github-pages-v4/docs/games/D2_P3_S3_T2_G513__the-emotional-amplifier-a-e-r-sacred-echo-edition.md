@@ -62,6 +62,8 @@ aliases:
   - "The Emotional Amplifier"
   - "A.E.R."
   - "Sacred Echo"
+hide:
+  - toc
 ---
 
 # The Resonance Chamber

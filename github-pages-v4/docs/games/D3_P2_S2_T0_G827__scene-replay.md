@@ -59,6 +59,8 @@ keywords:
   - "beginners"
 aliases:
   - "Genre Rollercoaster"
+hide:
+  - toc
 ---
 
 # Genre Rewind

@@ -52,6 +52,8 @@ keywords:
   - "base reality"
   - "action-reaction"
 aliases: []
+hide:
+  - toc
 ---
 
 # Hats

@@ -1,5 +1,7 @@
 ---
 title: Platform/Tilt
+hide:
+  - toc
 ---
 
 # 🎯 Platform/Tilt

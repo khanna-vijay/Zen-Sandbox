@@ -62,6 +62,8 @@ keywords:
   - "scoring"
 aliases:
   - "Audience Conductor's Score"
+hide:
+  - toc
 ---
 
 # The Audience Conductor

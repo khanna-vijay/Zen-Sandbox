@@ -50,6 +50,8 @@ keywords:
   - "mc"
   - "show opener"
 aliases: []
+hide:
+  - toc
 ---
 
 # Audience Orchestration

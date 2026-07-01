@@ -62,6 +62,8 @@ keywords:
   - "connection"
   - "seesaw"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Status Oracle

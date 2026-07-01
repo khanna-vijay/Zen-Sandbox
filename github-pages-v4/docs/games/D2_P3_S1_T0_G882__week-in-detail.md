@@ -50,6 +50,8 @@ keywords:
   - "details"
   - "sharing"
 aliases: []
+hide:
+  - toc
 ---
 
 # Granular Week

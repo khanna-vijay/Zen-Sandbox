@@ -1,5 +1,7 @@
 ---
 title: Longform vs. shortform mechanics
+hide:
+  - toc
 ---
 
 # 🎯 Longform vs. shortform mechanics

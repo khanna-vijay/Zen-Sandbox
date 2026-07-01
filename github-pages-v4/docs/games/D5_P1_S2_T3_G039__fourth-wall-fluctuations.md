@@ -63,6 +63,8 @@ keywords:
   - "stage presence"
   - "feedback loop"
 aliases: []
+hide:
+  - toc
 ---
 
 # Fourth Wall Fluctuations

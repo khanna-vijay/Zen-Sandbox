@@ -55,6 +55,8 @@ keywords:
   - "safety"
   - "truth over pandering"
 aliases: []
+hide:
+  - toc
 ---
 
 # Boundary Ballet

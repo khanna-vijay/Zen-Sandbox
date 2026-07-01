@@ -59,6 +59,8 @@ keywords:
   - "heightening"
   - "escalation"
 aliases: []
+hide:
+  - toc
 ---
 
 # Persona Swap

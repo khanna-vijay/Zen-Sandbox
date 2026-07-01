@@ -59,6 +59,8 @@ keywords:
   - "remote team"
 aliases:
   - "Visual Yes, And"
+hide:
+  - toc
 ---
 
 # Visual Reality Warp

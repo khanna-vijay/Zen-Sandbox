@@ -55,6 +55,8 @@ keywords:
   - "tempo"
 aliases:
   - "Big Booty"
+hide:
+  - toc
 ---
 
 # Rhythmic Number Pass

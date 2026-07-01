@@ -50,6 +50,8 @@ keywords:
   - "tempo"
   - "numbers"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Four-Step Rhythm Shift

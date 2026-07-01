@@ -55,6 +55,8 @@ keywords:
   - "spontaneity"
   - "switching"
 aliases: []
+hide:
+  - toc
 ---
 
 # Animal Understudy

@@ -57,6 +57,8 @@ keywords:
   - "rope"
 aliases:
   - "Tug of War"
+hide:
+  - toc
 ---
 
 # The Invisible Rope

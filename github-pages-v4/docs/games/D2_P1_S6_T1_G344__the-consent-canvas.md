@@ -56,6 +56,8 @@ keywords:
   - "truth over pandering"
   - "comfort zone"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Consent Canvas

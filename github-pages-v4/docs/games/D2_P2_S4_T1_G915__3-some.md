@@ -56,6 +56,8 @@ aliases:
   - "Three Some"
   - "I am a Tree variant"
   - "Three-Person Freeze"
+hide:
+  - toc
 ---
 
 # Three-Part Tableau

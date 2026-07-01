@@ -50,6 +50,8 @@ keywords:
   - "vocal craft"
 aliases:
   - "Non Sequitur"
+hide:
+  - toc
 ---
 
 # State Shifter

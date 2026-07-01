@@ -1,5 +1,7 @@
 ---
 title: "W16 · Putting It Together — Showcase"
+hide:
+  - toc
 ---
 
 # Week 16 — Putting It Together — Showcase

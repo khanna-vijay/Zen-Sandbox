@@ -55,6 +55,8 @@ keywords:
   - "imagination"
   - "sensory"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Portal Tour

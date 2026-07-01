@@ -55,6 +55,8 @@ keywords:
   - "movement"
   - "fail joyfully"
 aliases: []
+hide:
+  - toc
 ---
 
 # Deep Sea Currents

@@ -55,6 +55,8 @@ keywords:
   - "listening"
 aliases:
   - "Gibberish Dictionary"
+hide:
+  - toc
 ---
 
 # Gibberish Translation Circle

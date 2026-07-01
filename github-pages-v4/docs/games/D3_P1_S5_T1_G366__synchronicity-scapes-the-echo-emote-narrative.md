@@ -64,6 +64,8 @@ keywords:
 aliases:
   - "The Echo-Emote Narrative"
   - "Synchronicity Scapes"
+hide:
+  - toc
 ---
 
 # Virtual Echo Scapes

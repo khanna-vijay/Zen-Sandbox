@@ -1,5 +1,7 @@
 ---
 title: Make it matter more beats
+hide:
+  - toc
 ---
 
 # 🎯 Make it matter more beats

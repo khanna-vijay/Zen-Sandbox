@@ -60,6 +60,8 @@ keywords:
   - "storytelling"
   - "pacing"
 aliases: []
+hide:
+  - toc
 ---
 
 # Thread Weavers

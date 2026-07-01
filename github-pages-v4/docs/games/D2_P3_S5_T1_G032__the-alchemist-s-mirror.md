@@ -66,6 +66,8 @@ keywords:
   - "embodiment"
 aliases:
   - "Alchemist's Mirror"
+hide:
+  - toc
 ---
 
 # The Status Alchemist

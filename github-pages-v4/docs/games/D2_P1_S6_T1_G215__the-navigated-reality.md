@@ -54,6 +54,8 @@ keywords:
   - "physical contact"
 aliases:
   - "Navigated Reality"
+hide:
+  - toc
 ---
 
 # Navigated Realities

@@ -60,6 +60,8 @@ keywords:
   - "non-verbal"
   - "co-creation"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Collective Canvas

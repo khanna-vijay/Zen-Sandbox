@@ -55,6 +55,8 @@ keywords:
   - "speed"
   - "structure"
 aliases: []
+hide:
+  - toc
 ---
 
 # Six-Scene Saga

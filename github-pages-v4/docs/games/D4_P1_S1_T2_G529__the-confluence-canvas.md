@@ -62,6 +62,8 @@ keywords:
   - "non-verbal cues"
   - "thematic synthesis"
 aliases: []
+hide:
+  - toc
 ---
 
 # Resonant Threads

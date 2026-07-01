@@ -55,6 +55,8 @@ keywords:
   - "movement"
   - "gifting"
 aliases: []
+hide:
+  - toc
 ---
 
 # Obstacle Chase

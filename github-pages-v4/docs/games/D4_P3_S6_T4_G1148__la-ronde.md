@@ -58,6 +58,8 @@ keywords:
   - "chicago style"
   - "schnitzler"
 aliases: []
+hide:
+  - toc
 ---
 
 # La Ronde

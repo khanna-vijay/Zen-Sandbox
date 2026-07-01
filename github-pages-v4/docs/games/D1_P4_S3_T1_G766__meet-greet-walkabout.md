@@ -55,6 +55,8 @@ keywords:
   - "physicality"
   - "eye contact"
 aliases: []
+hide:
+  - toc
 ---
 
 # Walkabout Greetings

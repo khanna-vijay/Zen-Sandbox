@@ -55,6 +55,8 @@ keywords:
   - "pantomime"
   - "limitations"
 aliases: []
+hide:
+  - toc
 ---
 
 # Five-Point Endowment

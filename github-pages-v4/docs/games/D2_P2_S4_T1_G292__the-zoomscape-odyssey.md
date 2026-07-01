@@ -63,6 +63,8 @@ keywords:
   - "visual"
   - "storytelling"
 aliases: []
+hide:
+  - toc
 ---
 
 # Backdrop Odyssey

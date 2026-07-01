@@ -1,5 +1,7 @@
 ---
 title: "W16 · Conducting Audience Energy"
+hide:
+  - toc
 ---
 
 # Week 16 — Conducting Audience Energy

@@ -54,6 +54,8 @@ keywords:
   - "limitations"
   - "shortform"
 aliases: []
+hide:
+  - toc
 ---
 
 # Pocket Lines

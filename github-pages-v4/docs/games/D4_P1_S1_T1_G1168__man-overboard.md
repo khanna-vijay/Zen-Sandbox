@@ -55,6 +55,8 @@ keywords:
 aliases:
   - "Captain's Coming"
   - "Shipwreck"
+hide:
+  - toc
 ---
 
 # All Hands on Deck

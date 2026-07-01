@@ -60,6 +60,8 @@ keywords:
   - "performance"
   - "comedy"
 aliases: []
+hide:
+  - toc
 ---
 
 # Super Justifiers

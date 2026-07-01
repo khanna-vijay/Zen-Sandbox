@@ -1,5 +1,7 @@
 ---
 title: What do they stand to lose? reps
+hide:
+  - toc
 ---
 
 # 🎯 What do they stand to lose? reps

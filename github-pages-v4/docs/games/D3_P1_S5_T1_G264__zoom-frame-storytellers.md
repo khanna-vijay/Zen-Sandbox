@@ -59,6 +59,8 @@ keywords:
   - "framing"
   - "collaborative narrative"
 aliases: []
+hide:
+  - toc
 ---
 
 # Frame-by-Frame Worldbuilders

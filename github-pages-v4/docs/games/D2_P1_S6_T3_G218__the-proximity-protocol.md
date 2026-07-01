@@ -54,6 +54,8 @@ keywords:
   - "safety"
 aliases:
   - "Proximity Protocol"
+hide:
+  - toc
 ---
 
 # The Proximity Protocol

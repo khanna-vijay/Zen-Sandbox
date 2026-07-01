@@ -59,6 +59,8 @@ keywords:
   - "remote team"
   - "online improv"
 aliases: []
+hide:
+  - toc
 ---
 
 # Grid Worlds

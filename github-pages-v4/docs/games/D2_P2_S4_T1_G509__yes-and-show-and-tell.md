@@ -63,6 +63,8 @@ keywords:
 aliases:
   - "Zoom's Shifting Scene-scape"
   - "Silent Screen Storytellers"
+hide:
+  - toc
 ---
 
 # The Echoing Storyteller

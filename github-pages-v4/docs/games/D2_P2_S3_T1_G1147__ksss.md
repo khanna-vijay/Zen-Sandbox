@@ -55,6 +55,8 @@ keywords:
   - "energy"
   - "coordination"
 aliases: []
+hide:
+  - toc
 ---
 
 # Ksss

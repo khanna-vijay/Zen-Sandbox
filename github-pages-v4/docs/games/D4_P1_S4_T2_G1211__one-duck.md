@@ -52,6 +52,8 @@ keywords:
   - "ducks"
   - "math"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Duck Chorus

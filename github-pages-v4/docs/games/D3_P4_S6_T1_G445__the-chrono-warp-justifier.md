@@ -59,6 +59,8 @@ keywords:
   - "tilt"
   - "storytelling"
 aliases: []
+hide:
+  - toc
 ---
 
 # Retroactive Reality Shift

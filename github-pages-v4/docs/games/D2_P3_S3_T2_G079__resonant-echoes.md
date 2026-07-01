@@ -68,6 +68,8 @@ keywords:
   - "silence"
 aliases:
   - "The Resonant Echoes Game"
+hide:
+  - toc
 ---
 
 # Resonant Echoes

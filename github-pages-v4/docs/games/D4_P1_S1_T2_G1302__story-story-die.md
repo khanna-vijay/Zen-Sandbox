@@ -57,6 +57,8 @@ keywords:
   - "group story"
 aliases:
   - "Conducted Story"
+hide:
+  - toc
 ---
 
 # Conducted Story Elimination

@@ -53,6 +53,8 @@ keywords:
   - "deleted scenes"
   - "director"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Special Edition Feature

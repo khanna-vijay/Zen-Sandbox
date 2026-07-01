@@ -59,6 +59,8 @@ aliases:
   - "Half-Life"
   - "Time Crunched Scene"
   - "60, 30, 15, 5"
+hide:
+  - toc
 ---
 
 # Half-Life Story

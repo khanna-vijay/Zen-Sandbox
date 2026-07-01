@@ -58,6 +58,8 @@ keywords:
   - "meta-commentary"
   - "replay"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Consent Prism

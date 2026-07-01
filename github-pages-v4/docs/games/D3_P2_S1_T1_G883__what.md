@@ -51,6 +51,8 @@ keywords:
   - "reaction"
   - "active listening"
 aliases: []
+hide:
+  - toc
 ---
 
 # What?

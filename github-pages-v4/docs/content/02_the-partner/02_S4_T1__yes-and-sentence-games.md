@@ -1,5 +1,7 @@
 ---
 title: Yes, And… sentence games
+hide:
+  - toc
 ---
 
 # 🎯 Yes, And… sentence games

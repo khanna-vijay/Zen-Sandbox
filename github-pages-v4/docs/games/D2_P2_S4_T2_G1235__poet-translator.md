@@ -59,6 +59,8 @@ keywords:
   - "listening"
   - "justification"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Verse Translator

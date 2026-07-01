@@ -54,6 +54,8 @@ keywords:
   - "listening"
   - "cooperation"
 aliases: []
+hide:
+  - toc
 ---
 
 # Proverbial Wisdom

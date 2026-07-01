@@ -59,6 +59,8 @@ keywords:
   - "yes and"
 aliases:
   - "Silent Symphony"
+hide:
+  - toc
 ---
 
 # Muted Symphony
