@@ -54,6 +54,8 @@ keywords:
 aliases:
   - "Pause"
   - "Five Second Pause"
+hide:
+  - toc
 ---
 
 # The Five-Second Pause

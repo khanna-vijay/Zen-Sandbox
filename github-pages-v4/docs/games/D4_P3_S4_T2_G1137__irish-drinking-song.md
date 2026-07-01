@@ -58,6 +58,8 @@ keywords:
   - "performance"
   - "melody"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Folk Song Quartet

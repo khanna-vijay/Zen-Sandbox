@@ -1,5 +1,7 @@
 ---
 title: And that's exactly what I meant
+hide:
+  - toc
 ---
 
 # 🎯 And that's exactly what I meant

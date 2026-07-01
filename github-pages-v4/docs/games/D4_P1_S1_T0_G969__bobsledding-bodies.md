@@ -52,6 +52,8 @@ keywords:
   - "cohesion"
   - "contact"
 aliases: []
+hide:
+  - toc
 ---
 
 # Ensemble Bobsled

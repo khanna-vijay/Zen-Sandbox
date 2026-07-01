@@ -58,6 +58,8 @@ keywords:
   - "scaffolding"
   - "coherence"
 aliases: []
+hide:
+  - toc
 ---
 
 # Narrative Arc Navigator

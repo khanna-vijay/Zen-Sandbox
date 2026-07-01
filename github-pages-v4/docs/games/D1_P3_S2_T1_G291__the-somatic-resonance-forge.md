@@ -66,6 +66,8 @@ keywords:
 aliases:
   - "Somatic Resonance Forge"
   - "The Echo-Forge"
+hide:
+  - toc
 ---
 
 # The Resonance Forge

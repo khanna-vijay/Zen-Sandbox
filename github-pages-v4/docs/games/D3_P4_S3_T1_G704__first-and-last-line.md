@@ -49,6 +49,8 @@ keywords:
   - "sequencing"
   - "cause and effect"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Story Bridge

@@ -64,6 +64,8 @@ keywords:
 aliases:
   - "The Loom"
   - "The Interwoven Tapestry"
+hide:
+  - toc
 ---
 
 # The Loom

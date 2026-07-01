@@ -1,5 +1,7 @@
 ---
 title: What's interesting about this? mining
+hide:
+  - toc
 ---
 
 # 🎯 What's interesting about this? mining

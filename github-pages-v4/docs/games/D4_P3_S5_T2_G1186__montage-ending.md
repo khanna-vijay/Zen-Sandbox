@@ -56,6 +56,8 @@ keywords:
   - "climax"
   - "pacing"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Crescendo Finale

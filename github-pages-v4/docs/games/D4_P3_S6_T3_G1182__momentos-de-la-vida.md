@@ -57,6 +57,8 @@ keywords:
   - "visual prompt"
 aliases:
   - "Moments of Life"
+hide:
+  - toc
 ---
 
 # Captured Moments

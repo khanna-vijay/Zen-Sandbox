@@ -52,6 +52,8 @@ keywords:
   - "performance"
   - "style imitation"
 aliases: []
+hide:
+  - toc
 ---
 
 # Lounge Legend

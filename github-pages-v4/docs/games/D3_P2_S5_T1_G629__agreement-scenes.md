@@ -51,6 +51,8 @@ keywords:
   - "atmosphere"
   - "yes and"
 aliases: []
+hide:
+  - toc
 ---
 
 # Agreement Anchors

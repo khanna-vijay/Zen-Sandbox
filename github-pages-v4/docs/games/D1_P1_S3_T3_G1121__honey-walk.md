@@ -50,6 +50,8 @@ keywords:
   - "imagination"
   - "resistance"
 aliases: []
+hide:
+  - toc
 ---
 
 # Viscosity Walk

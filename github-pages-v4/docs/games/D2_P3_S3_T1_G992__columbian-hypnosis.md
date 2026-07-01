@@ -52,6 +52,8 @@ keywords:
   - "pairs"
   - "connection"
 aliases: []
+hide:
+  - toc
 ---
 
 # Magnetic Palm

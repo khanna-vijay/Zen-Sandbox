@@ -65,6 +65,8 @@ keywords:
   - "gifting"
   - "connection"
 aliases: []
+hide:
+  - toc
 ---
 
 # Echo and Align

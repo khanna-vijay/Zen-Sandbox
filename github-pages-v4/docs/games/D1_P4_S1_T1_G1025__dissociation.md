@@ -48,6 +48,8 @@ keywords:
   - "brain-strain"
   - "unfiltered"
 aliases: []
+hide:
+  - toc
 ---
 
 # Dissociation Drill

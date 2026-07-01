@@ -1,5 +1,7 @@
 ---
 title: Bring a Brick
+hide:
+  - toc
 ---
 
 # 🎯 Bring a Brick

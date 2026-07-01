@@ -56,6 +56,8 @@ keywords:
   - "observation"
   - "warm-up"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Echo Chamber

@@ -66,6 +66,8 @@ keywords:
 aliases:
   - "Reactive Endowment Weave"
   - "The Reactive Endowment Weave for Attunement and Scene Building"
+hide:
+  - toc
 ---
 
 # The Resonance Weave

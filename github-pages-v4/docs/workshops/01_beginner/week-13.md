@@ -1,5 +1,7 @@
 ---
 title: "W13 · Make It Make Sense"
+hide:
+  - toc
 ---
 
 # Week 13 — Make It Make Sense

@@ -53,6 +53,8 @@ keywords:
   - "reaction"
 aliases:
   - "Bunny Variation"
+hide:
+  - toc
 ---
 
 # Predatory Bunny

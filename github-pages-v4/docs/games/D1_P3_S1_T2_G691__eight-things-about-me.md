@@ -51,6 +51,8 @@ keywords:
   - "support"
   - "counting"
 aliases: []
+hide:
+  - toc
 ---
 
 # Eight Things About Me

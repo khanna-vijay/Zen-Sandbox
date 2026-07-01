@@ -56,6 +56,8 @@ keywords:
   - "character endowment"
   - "limitations"
 aliases: []
+hide:
+  - toc
 ---
 
 # Fortune Cookie Scene

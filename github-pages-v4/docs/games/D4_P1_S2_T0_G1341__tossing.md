@@ -52,6 +52,8 @@ keywords:
   - "safety"
   - "falling"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Ensemble Sway

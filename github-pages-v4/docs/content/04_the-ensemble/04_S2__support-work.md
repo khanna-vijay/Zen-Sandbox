@@ -1,5 +1,7 @@
 ---
 title: Support Work
+hide:
+  - toc
 ---
 
 # 🧠 Support Work

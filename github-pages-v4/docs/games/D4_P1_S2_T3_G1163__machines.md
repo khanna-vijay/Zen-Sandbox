@@ -60,6 +60,8 @@ keywords:
 aliases:
   - "Machine"
   - "The Machine"
+hide:
+  - toc
 ---
 
 # Ensemble Machine

@@ -56,6 +56,8 @@ keywords:
   - "warm-up"
   - "gestures"
 aliases: []
+hide:
+  - toc
 ---
 
 # Alliterative Name Train

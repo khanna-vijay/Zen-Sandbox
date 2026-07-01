@@ -62,6 +62,8 @@ keywords:
   - "co-creation"
   - "physicalization"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Endowment Loop

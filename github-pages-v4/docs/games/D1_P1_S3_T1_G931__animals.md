@@ -56,6 +56,8 @@ keywords:
   - "sensory"
   - "embodiment"
 aliases: []
+hide:
+  - toc
 ---
 
 # Creature Pairs

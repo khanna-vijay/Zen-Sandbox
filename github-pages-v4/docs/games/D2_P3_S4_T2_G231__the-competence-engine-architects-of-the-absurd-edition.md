@@ -59,6 +59,8 @@ keywords:
   - "acceptance"
 aliases:
   - "The Competence Engine"
+hide:
+  - toc
 ---
 
 # Architects of Brilliance

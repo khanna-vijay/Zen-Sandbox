@@ -59,6 +59,8 @@ keywords:
 aliases:
   - "Status Cards"
   - "Status Numbers"
+hide:
+  - toc
 ---
 
 # Status Spectrum Party

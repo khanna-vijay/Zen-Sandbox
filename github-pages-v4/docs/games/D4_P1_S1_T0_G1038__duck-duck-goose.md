@@ -59,6 +59,8 @@ keywords:
 aliases:
   - "Invent a Game"
   - "Invented Children's Game"
+hide:
+  - toc
 ---
 
 # Instant Playground

@@ -1,5 +1,7 @@
 ---
 title: "W03 · The Power of Stillness"
+hide:
+  - toc
 ---
 
 # Week 03 — The Power of Stillness

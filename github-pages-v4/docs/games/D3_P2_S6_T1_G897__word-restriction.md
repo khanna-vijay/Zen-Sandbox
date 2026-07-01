@@ -51,6 +51,8 @@ keywords:
   - "listening"
   - "limitation"
 aliases: []
+hide:
+  - toc
 ---
 
 # Restricted Word Count

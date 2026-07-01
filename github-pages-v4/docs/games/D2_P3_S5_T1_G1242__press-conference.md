@@ -54,6 +54,8 @@ keywords:
   - "verbal wit"
   - "party game"
 aliases: []
+hide:
+  - toc
 ---
 
 # Press Conference

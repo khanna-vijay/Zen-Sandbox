@@ -58,6 +58,8 @@ keywords:
   - "tagging"
 aliases:
   - "Spectrum Pulse: Dynamic Emotional Tags for Intrapersonal Mastery"
+hide:
+  - toc
 ---
 
 # Emotional Pulse

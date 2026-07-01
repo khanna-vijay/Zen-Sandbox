@@ -57,6 +57,8 @@ keywords:
   - "trust"
 aliases:
   - "The Game Physical Yes, And"
+hide:
+  - toc
 ---
 
 # The Contact Compass

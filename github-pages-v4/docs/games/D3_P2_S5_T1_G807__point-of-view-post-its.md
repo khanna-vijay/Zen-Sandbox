@@ -59,6 +59,8 @@ keywords:
   - "crow"
 aliases:
   - "Point of View Post"
+hide:
+  - toc
 ---
 
 # Point of View Post-Its

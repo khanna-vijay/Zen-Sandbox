@@ -59,6 +59,8 @@ keywords:
   - "narrative"
 aliases:
   - "Doo Wop 2"
+hide:
+  - toc
 ---
 
 # Vocal Groove Longform

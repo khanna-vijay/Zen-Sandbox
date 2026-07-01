@@ -66,6 +66,8 @@ keywords:
 aliases:
   - "Zoom Grid"
   - "Character Grid"
+hide:
+  - toc
 ---
 
 # The Digital Neighborhood

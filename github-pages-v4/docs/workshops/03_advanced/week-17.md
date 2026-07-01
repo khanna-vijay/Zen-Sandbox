@@ -1,5 +1,7 @@
 ---
 title: "W17 · Serve the Piece"
+hide:
+  - toc
 ---
 
 # Week 17 — Serve the Piece

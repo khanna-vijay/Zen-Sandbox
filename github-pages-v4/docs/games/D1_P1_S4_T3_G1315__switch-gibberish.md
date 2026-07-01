@@ -53,6 +53,8 @@ keywords:
   - "spontaneity"
 aliases:
   - "Jabbertalk Switch"
+hide:
+  - toc
 ---
 
 # Gibberish Switch

@@ -56,6 +56,8 @@ keywords:
   - "expression"
 aliases:
   - "Gibberish Scene"
+hide:
+  - toc
 ---
 
 # Pure Gibberish

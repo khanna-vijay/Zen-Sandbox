@@ -52,6 +52,8 @@ keywords:
   - "speed"
   - "overthinking"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Obvious Entrance

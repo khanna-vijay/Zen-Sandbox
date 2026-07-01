@@ -56,6 +56,8 @@ keywords:
   - "impro theatre"
   - "interwoven"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Triptych Play

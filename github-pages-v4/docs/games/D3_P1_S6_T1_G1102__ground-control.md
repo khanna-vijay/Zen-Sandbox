@@ -58,6 +58,8 @@ keywords:
   - "coordination"
   - "puppets"
 aliases: []
+hide:
+  - toc
 ---
 
 # Ground Control

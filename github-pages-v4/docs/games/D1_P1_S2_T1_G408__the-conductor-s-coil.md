@@ -73,6 +73,8 @@ keywords:
   - "ensemble"
 aliases:
   - "Conductor's Coil"
+hide:
+  - toc
 ---
 
 # The Conductor's Coil

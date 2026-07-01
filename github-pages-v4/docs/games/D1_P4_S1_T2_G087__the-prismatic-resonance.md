@@ -73,6 +73,8 @@ keywords:
   - "intrapersonal"
 aliases:
   - "Prismatic Resonance"
+hide:
+  - toc
 ---
 
 # Prismatic Impulse

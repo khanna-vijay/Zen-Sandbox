@@ -61,6 +61,8 @@ keywords:
   - "feedback loop"
   - "environment work"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Sentient Space

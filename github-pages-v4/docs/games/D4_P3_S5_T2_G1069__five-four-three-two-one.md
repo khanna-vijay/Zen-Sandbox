@@ -57,6 +57,8 @@ keywords:
 aliases:
   - "Triptych"
   - "Tapestry"
+hide:
+  - toc
 ---
 
 # Five-Four-Three-Two-One

@@ -52,6 +52,8 @@ keywords:
   - "reaction"
   - "warm-up"
 aliases: []
+hide:
+  - toc
 ---
 
 # Rapid-Fire Goalie

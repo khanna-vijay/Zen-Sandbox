@@ -57,6 +57,8 @@ keywords:
   - "limitations"
 aliases:
   - "Ping Pong"
+hide:
+  - toc
 ---
 
 # Word-by-Word Scene

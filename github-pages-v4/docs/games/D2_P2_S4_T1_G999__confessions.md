@@ -54,6 +54,8 @@ keywords:
   - "shortform"
   - "character"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Confessional

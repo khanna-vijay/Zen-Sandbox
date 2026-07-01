@@ -62,6 +62,8 @@ keywords:
 aliases:
   - "Somatic Impulse Dial"
   - "Somatic Impulse Dial: Rapid Emotional Embodiment and Unfiltered Vocalization"
+hide:
+  - toc
 ---
 
 # The Somatic Impulse Dial

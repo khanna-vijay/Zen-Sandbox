@@ -51,6 +51,8 @@ keywords:
 aliases:
   - "Ten Fingers"
   - "Never Have I Ever"
+hide:
+  - toc
 ---
 
 # Ten Fingers

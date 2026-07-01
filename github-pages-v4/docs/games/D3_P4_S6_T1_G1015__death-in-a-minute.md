@@ -58,6 +58,8 @@ keywords:
   - "timed scene"
   - "narrative"
 aliases: []
+hide:
+  - toc
 ---
 
 # One-Minute Demise

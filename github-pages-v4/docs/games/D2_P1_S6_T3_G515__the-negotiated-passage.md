@@ -57,6 +57,8 @@ keywords:
   - "cut"
   - "truth over pandering"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Negotiated Passage

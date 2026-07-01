@@ -1,5 +1,7 @@
 ---
 title: Timing exercises
+hide:
+  - toc
 ---
 
 # 🎯 Timing exercises

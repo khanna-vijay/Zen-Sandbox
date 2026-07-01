@@ -55,6 +55,8 @@ keywords:
   - "continuation"
 aliases:
   - "Zoom In, Zoom Out"
+hide:
+  - toc
 ---
 
 # Zoom In, Zoom Out

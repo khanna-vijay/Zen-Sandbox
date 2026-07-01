@@ -1,5 +1,7 @@
 ---
 title: "W02 · The First Thought Is a Gift"
+hide:
+  - toc
 ---
 
 # Week 02 — The First Thought Is a Gift

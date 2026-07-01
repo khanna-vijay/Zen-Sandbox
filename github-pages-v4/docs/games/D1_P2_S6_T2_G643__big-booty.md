@@ -55,6 +55,8 @@ keywords:
   - "chant"
   - "focus"
 aliases: []
+hide:
+  - toc
 ---
 
 # Big Booty

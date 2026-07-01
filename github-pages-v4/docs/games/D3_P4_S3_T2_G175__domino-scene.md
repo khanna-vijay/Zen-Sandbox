@@ -59,6 +59,8 @@ keywords:
   - "plot points"
 aliases:
   - "Escalating Scene"
+hide:
+  - toc
 ---
 
 # The Domino Chain

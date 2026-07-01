@@ -55,6 +55,8 @@ keywords:
   - "negotiation"
 aliases:
   - "The Consent Blueprint"
+hide:
+  - toc
 ---
 
 # Boundary Blueprints

@@ -56,6 +56,8 @@ keywords:
 aliases:
   - "Synchronized Clapping"
   - "Clap Pass"
+hide:
+  - toc
 ---
 
 # Synchronized Pulse

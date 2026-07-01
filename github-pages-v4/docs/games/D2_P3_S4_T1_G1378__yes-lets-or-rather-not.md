@@ -52,6 +52,8 @@ keywords:
   - "subversion"
 aliases:
   - "Yes, Let's - or Rather Not"
+hide:
+  - toc
 ---
 
 # Yes, Let's... Or Not

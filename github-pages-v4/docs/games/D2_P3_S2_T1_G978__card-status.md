@@ -60,6 +60,8 @@ keywords:
 aliases:
   - "Status Cards"
   - "Forehead Status"
+hide:
+  - toc
 ---
 
 # Card Status

@@ -55,6 +55,8 @@ keywords:
   - "silly"
   - "physical"
 aliases: []
+hide:
+  - toc
 ---
 
 # Yippee Connection

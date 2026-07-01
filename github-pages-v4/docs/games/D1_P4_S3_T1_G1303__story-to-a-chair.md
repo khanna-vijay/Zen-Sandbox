@@ -53,6 +53,8 @@ keywords:
   - "monologue"
   - "physicalization"
 aliases: []
+hide:
+  - toc
 ---
 
 # Narrating into Form

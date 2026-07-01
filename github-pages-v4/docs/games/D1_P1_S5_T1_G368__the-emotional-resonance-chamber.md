@@ -57,6 +57,8 @@ keywords:
   - "somatic"
   - "mindfulness"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Resonance Chamber

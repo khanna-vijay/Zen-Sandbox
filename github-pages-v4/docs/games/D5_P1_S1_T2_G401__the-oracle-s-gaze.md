@@ -59,6 +59,8 @@ keywords:
   - "stage presence"
 aliases:
   - "The Oracle's Gaze: Mastering Audience Cues for Fourth Wall Navigation"
+hide:
+  - toc
 ---
 
 # The Oracle's Eye

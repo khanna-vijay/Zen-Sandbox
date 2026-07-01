@@ -60,6 +60,8 @@ keywords:
   - "real-time feedback"
   - "scene construction"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Narrative Barometer

@@ -53,6 +53,8 @@ keywords:
 aliases:
   - "Environment Painting"
   - "Space Painting"
+hide:
+  - toc
 ---
 
 # Scene Painting

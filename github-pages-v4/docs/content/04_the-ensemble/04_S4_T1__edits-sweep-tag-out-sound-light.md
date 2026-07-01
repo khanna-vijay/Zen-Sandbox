@@ -1,5 +1,7 @@
 ---
 title: Edits (Sweep, Tag-Out, Sound/Light)
+hide:
+  - toc
 ---
 
 # 🎯 Edits (Sweep, Tag-Out, Sound/Light)

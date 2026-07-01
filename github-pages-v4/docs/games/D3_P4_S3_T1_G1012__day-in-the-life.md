@@ -57,6 +57,8 @@ keywords:
   - "performance"
 aliases:
   - "Nightmare"
+hide:
+  - toc
 ---
 
 # Day in the Life

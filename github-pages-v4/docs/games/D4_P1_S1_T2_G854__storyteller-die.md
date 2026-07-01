@@ -65,6 +65,8 @@ aliases:
   - "Story Story Die"
   - "Die Game"
   - "Story Die"
+hide:
+  - toc
 ---
 
 # Story, Story, Die

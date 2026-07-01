@@ -53,6 +53,8 @@ keywords:
   - "connection"
   - "body parts"
 aliases: []
+hide:
+  - toc
 ---
 
 # Anatomy Assembly

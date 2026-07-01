@@ -51,6 +51,8 @@ keywords:
   - "famous people"
   - "last words"
 aliases: []
+hide:
+  - toc
 ---
 
 # Famous Last Words

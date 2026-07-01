@@ -58,6 +58,8 @@ keywords:
   - "truth over pandering"
   - "check-in"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Shared Blueprint

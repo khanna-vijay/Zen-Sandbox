@@ -66,6 +66,8 @@ keywords:
   - "longform transition"
 aliases:
   - "Life and Times"
+hide:
+  - toc
 ---
 
 # Biographical Beats

@@ -56,6 +56,8 @@ keywords:
   - "tag-out"
   - "director"
 aliases: []
+hide:
+  - toc
 ---
 
 # Understudy

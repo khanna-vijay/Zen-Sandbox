@@ -61,6 +61,8 @@ keywords:
   - "multi-modal"
   - "spontaneity"
 aliases: []
+hide:
+  - toc
 ---
 
 # Instant Character Shift

@@ -63,6 +63,8 @@ keywords:
 aliases:
   - "The Chat Canvas"
   - "Yes, And Accelerated"
+hide:
+  - toc
 ---
 
 # The Dual-Channel Canvas

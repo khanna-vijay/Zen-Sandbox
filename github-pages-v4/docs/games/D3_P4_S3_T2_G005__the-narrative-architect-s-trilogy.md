@@ -63,6 +63,8 @@ keywords:
   - "trilogy"
 aliases:
   - "The Narrative Architect's Trilogy: A Systematic Framework for Scene Construction"
+hide:
+  - toc
 ---
 
 # Platform, Pattern, Pivot

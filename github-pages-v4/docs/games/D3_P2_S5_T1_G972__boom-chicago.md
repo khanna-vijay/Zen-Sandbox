@@ -58,6 +58,8 @@ keywords:
   - "speed"
   - "platform"
 aliases: []
+hide:
+  - toc
 ---
 
 # C.R.O.W. Build

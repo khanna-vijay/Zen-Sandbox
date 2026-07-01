@@ -57,6 +57,8 @@ keywords:
   - "passing"
   - "character"
 aliases: []
+hide:
+  - toc
 ---
 
 # Shared Monologue

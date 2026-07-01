@@ -56,6 +56,8 @@ keywords:
   - "rounds"
 aliases:
   - "Death Con"
+hide:
+  - toc
 ---
 
 # Departed Voices

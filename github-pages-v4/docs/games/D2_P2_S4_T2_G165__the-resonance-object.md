@@ -63,6 +63,8 @@ keywords:
   - "yes and"
   - "physicalization"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Resonance Object

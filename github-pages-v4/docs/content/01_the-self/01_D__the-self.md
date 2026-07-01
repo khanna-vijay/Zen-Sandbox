@@ -1,5 +1,7 @@
 ---
 title: The Self
+hide:
+  - toc
 ---
 
 # 🎭 The Self

@@ -60,6 +60,8 @@ keywords:
   - "yes and"
 aliases:
   - "Resonance & Refine"
+hide:
+  - toc
 ---
 
 # Echo and Elevate

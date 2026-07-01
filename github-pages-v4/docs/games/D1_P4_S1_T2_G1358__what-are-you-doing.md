@@ -55,6 +55,8 @@ keywords:
   - "fast-paced"
 aliases:
   - "What Are You Doing?"
+hide:
+  - toc
 ---
 
 # What Are You Doing?

@@ -54,6 +54,8 @@ keywords:
   - "scene initiation"
   - "silence"
 aliases: []
+hide:
+  - toc
 ---
 
 # Resonant Emotional Dial

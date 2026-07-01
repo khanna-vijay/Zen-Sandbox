@@ -62,6 +62,8 @@ keywords:
   - "endowment"
   - "problem solving"
 aliases: []
+hide:
+  - toc
 ---
 
 # Unlikely Superheroes

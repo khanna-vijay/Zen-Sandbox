@@ -59,6 +59,8 @@ keywords:
   - "storytelling"
 aliases:
   - "Guiding Story Arcs with Non-Verbal Cues"
+hide:
+  - toc
 ---
 
 # The Narrative Pulse

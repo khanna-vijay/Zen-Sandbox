@@ -64,6 +64,8 @@ keywords:
   - "mirroring"
   - "character centers"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Impulse Architect

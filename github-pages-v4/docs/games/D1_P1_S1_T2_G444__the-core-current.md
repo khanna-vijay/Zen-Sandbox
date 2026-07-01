@@ -65,6 +65,8 @@ keywords:
   - "warm-up"
   - "intrapersonal"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Impulse Current

@@ -56,6 +56,8 @@ keywords:
   - "quick-fire"
   - "comedy"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Answer Is

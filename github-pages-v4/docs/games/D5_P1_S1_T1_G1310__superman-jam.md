@@ -53,6 +53,8 @@ keywords:
   - "vocal"
   - "crowd work"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Conducted Chant

@@ -52,6 +52,8 @@ keywords:
   - "coordination"
 aliases:
   - "Human Knot"
+hide:
+  - toc
 ---
 
 # The Mindful Knot

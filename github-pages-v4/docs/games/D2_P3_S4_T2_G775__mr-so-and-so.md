@@ -58,6 +58,8 @@ aliases:
   - "Mr. So and So"
   - "Chef So and So"
   - "Coach So and So"
+hide:
+  - toc
 ---
 
 # The Legend of So-and-So

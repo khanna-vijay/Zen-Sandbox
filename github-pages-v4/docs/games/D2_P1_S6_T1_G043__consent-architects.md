@@ -51,6 +51,8 @@ keywords:
   - "structural integrity"
   - "truth over pandering"
 aliases: []
+hide:
+  - toc
 ---
 
 # Consent Architects

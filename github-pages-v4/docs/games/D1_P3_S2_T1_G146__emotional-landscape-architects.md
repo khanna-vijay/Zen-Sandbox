@@ -68,6 +68,8 @@ keywords:
 aliases:
   - "Architect-Guide & Internal Weather"
   - "Internal Weather Systems"
+hide:
+  - toc
 ---
 
 # Somatic Weather Systems

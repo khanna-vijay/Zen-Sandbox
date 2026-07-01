@@ -55,6 +55,8 @@ keywords:
   - "narrative"
   - "cause and effect"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Sovereign and the Servant

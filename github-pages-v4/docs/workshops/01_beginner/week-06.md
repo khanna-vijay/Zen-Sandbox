@@ -1,5 +1,7 @@
 ---
 title: "W06 · Fail Joyfully & Recover"
+hide:
+  - toc
 ---
 
 # Week 06 — Fail Joyfully & Recover

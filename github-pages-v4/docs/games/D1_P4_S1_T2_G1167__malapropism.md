@@ -51,6 +51,8 @@ keywords:
 aliases:
   - "Dissociation"
   - "Point and Name"
+hide:
+  - toc
 ---
 
 # The Misnaming Walk

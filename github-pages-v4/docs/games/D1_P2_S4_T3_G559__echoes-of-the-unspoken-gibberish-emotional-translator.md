@@ -59,6 +59,8 @@ keywords:
 aliases:
   - "Gibberish Emotional Translator"
   - "Emotional Translator"
+hide:
+  - toc
 ---
 
 # Emotional Gibberish Echo

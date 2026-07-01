@@ -55,6 +55,8 @@ keywords:
 aliases:
   - "Mister Whisker"
   - "Misty Vista"
+hide:
+  - toc
 ---
 
 # Whisky Mixer

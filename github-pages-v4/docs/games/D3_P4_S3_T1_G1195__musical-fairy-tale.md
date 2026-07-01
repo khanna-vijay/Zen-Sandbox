@@ -64,6 +64,8 @@ keywords:
   - "musician"
   - "performance"
 aliases: []
+hide:
+  - toc
 ---
 
 # Musical Story Spine

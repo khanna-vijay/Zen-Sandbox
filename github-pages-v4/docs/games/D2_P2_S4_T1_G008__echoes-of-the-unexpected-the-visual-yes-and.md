@@ -57,6 +57,8 @@ keywords:
   - "visual-art"
 aliases:
   - "Zoom Canvas Chronicles"
+hide:
+  - toc
 ---
 
 # Shared Canvas Chronicles

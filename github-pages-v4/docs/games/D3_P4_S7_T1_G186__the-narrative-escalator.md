@@ -59,6 +59,8 @@ keywords:
   - "story spine"
   - "heightening"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Narrative Escalator

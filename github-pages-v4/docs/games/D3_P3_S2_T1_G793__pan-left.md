@@ -59,6 +59,8 @@ keywords:
 aliases:
   - "Pan Right"
   - "TV Channels"
+hide:
+  - toc
 ---
 
 # Pan Left

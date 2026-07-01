@@ -1,5 +1,7 @@
 ---
 title: Reframe-the-flub reps
+hide:
+  - toc
 ---
 
 # 🎯 Reframe-the-flub reps

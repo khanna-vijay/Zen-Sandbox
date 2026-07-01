@@ -57,6 +57,8 @@ keywords:
   - "sounds"
   - "telephone"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Mutation Circle

@@ -64,6 +64,8 @@ aliases:
   - "Whispering Thermometer"
   - "Fourth Wall Architect"
   - "Resonance Chamber"
+hide:
+  - toc
 ---
 
 # Acoustic Calibration

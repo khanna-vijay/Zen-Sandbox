@@ -55,6 +55,8 @@ keywords:
   - "physical contact"
   - "meta-communication"
 aliases: []
+hide:
+  - toc
 ---
 
 # Rewind and Reframe

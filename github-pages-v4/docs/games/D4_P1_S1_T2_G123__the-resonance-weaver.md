@@ -64,6 +64,8 @@ keywords:
   - "sensory awakening"
   - "resonance"
 aliases: []
+hide:
+  - toc
 ---
 
 # Resonance Weaving

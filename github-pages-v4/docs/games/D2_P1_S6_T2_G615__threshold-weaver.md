@@ -57,6 +57,8 @@ keywords:
   - "threshold weaver"
   - "truth over pandering"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Silent Line

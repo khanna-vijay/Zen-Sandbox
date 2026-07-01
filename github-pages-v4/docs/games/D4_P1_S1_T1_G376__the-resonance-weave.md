@@ -58,6 +58,8 @@ keywords:
   - "transformation"
   - "synchronicity"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Resonance Weave

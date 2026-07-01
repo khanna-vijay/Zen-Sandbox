@@ -1,5 +1,7 @@
 ---
 title: The Partner
+hide:
+  - toc
 ---
 
 # 🎭 The Partner

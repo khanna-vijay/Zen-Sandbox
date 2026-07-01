@@ -55,6 +55,8 @@ keywords:
   - "applause"
   - "platform"
 aliases: []
+hide:
+  - toc
 ---
 
 # Three-Line Scenes

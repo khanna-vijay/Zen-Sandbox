@@ -52,6 +52,8 @@ keywords:
   - "character"
 aliases:
   - "Build a Relationship"
+hide:
+  - toc
 ---
 
 # Beyond the Transaction

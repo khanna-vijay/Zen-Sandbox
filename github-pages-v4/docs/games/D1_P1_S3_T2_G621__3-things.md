@@ -58,6 +58,8 @@ keywords:
   - "short-form"
   - "three things"
 aliases: []
+hide:
+  - toc
 ---
 
 # Triple Substitution

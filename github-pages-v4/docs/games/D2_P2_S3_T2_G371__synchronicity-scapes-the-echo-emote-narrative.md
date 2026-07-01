@@ -63,6 +63,8 @@ keywords:
   - "mirroring"
   - "spotlight"
 aliases: []
+hide:
+  - toc
 ---
 
 # Emotional Echo Chambers

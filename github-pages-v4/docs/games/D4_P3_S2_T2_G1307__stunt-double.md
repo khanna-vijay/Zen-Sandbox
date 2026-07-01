@@ -54,6 +54,8 @@ keywords:
   - "slapstick"
   - "performance"
 aliases: []
+hide:
+  - toc
 ---
 
 # Stunt Double

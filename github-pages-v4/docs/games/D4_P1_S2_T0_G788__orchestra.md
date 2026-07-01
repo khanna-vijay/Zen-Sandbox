@@ -56,6 +56,8 @@ keywords:
   - "support"
   - "warm-up"
 aliases: []
+hide:
+  - toc
 ---
 
 # Vocal Symphony

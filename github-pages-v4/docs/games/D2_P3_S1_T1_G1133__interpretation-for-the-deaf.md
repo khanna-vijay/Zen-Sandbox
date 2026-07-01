@@ -58,6 +58,8 @@ keywords:
   - "mirroring"
 aliases:
   - "Translation for the Deaf"
+hide:
+  - toc
 ---
 
 # The Physical Interpreter

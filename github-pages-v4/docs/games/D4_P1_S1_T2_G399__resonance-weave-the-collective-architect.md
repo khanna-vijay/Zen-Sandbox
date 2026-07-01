@@ -63,6 +63,8 @@ keywords:
   - "non-linear"
   - "coherence"
 aliases: []
+hide:
+  - toc
 ---
 
 # Resonant Tapestry

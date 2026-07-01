@@ -55,6 +55,8 @@ aliases:
   - "Never Have I Ever (Chairs)"
   - "The Great Wind Blows"
   - "Fruit Basket"
+hide:
+  - toc
 ---
 
 # Do You Like Your Neighbor?

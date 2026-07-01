@@ -56,6 +56,8 @@ keywords:
   - "rhythm"
   - "listening"
 aliases: []
+hide:
+  - toc
 ---
 
 # Word Ball

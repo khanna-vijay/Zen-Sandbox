@@ -58,6 +58,8 @@ keywords:
 aliases:
   - "Pattern Association"
   - "Heightening Circle"
+hide:
+  - toc
 ---
 
 # Pattern Escalator

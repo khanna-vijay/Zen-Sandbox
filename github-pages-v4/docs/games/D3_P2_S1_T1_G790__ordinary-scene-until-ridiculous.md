@@ -51,6 +51,8 @@ keywords:
   - "patience"
   - "realistic"
 aliases: []
+hide:
+  - toc
 ---
 
 # Establishing the Ordinary

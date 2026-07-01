@@ -55,6 +55,8 @@ keywords:
   - "narrative arc"
   - "relationship"
 aliases: []
+hide:
+  - toc
 ---
 
 # Sweet Talk Rivals

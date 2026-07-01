@@ -62,6 +62,8 @@ keywords:
 aliases:
   - "Scenes Cut from a Hat"
   - "Hat Game"
+hide:
+  - toc
 ---
 
 # Scenes from a Hat

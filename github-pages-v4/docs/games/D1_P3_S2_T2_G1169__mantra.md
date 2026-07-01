@@ -51,6 +51,8 @@ keywords:
   - "internal state"
   - "johnstone"
 aliases: []
+hide:
+  - toc
 ---
 
 # Internal Mantra

@@ -57,6 +57,8 @@ keywords:
   - "storytelling"
 aliases:
   - "Consequence Chain"
+hide:
+  - toc
 ---
 
 # The Consequence Chain

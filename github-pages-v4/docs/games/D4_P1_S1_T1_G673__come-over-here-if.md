@@ -50,6 +50,8 @@ keywords:
   - "ensemble"
   - "getting to know you"
 aliases: []
+hide:
+  - toc
 ---
 
 # Common Ground

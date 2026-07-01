@@ -67,6 +67,8 @@ keywords:
   - "silence"
 aliases:
   - "Vocalizing Internal Emotional Resonances"
+hide:
+  - toc
 ---
 
 # The Inner Cadence

@@ -64,6 +64,8 @@ keywords:
   - "status seesaw"
   - "active listening"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Status Seesaw Echo

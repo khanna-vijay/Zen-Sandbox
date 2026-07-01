@@ -56,6 +56,8 @@ keywords:
   - "brown bag foul"
 aliases:
   - "Comedy Sports"
+hide:
+  - toc
 ---
 
 # The Improv Arena Match

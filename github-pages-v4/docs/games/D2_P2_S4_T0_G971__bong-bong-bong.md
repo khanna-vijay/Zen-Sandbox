@@ -58,6 +58,8 @@ keywords:
   - "translation"
   - "chain"
 aliases: []
+hide:
+  - toc
 ---
 
 # Gibberish Relay

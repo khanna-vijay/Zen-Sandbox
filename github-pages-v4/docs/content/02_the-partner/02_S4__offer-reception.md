@@ -1,5 +1,7 @@
 ---
 title: Offer Reception
+hide:
+  - toc
 ---
 
 # 🧠 Offer Reception

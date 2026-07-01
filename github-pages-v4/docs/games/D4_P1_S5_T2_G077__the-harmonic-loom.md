@@ -65,6 +65,8 @@ keywords:
   - "non-linear"
 aliases:
   - "Harmonic Loom"
+hide:
+  - toc
 ---
 
 # The Harmonic Loom

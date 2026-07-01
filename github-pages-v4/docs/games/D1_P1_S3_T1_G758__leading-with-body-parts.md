@@ -49,6 +49,8 @@ keywords:
   - "warm-up"
   - "somatic"
 aliases: []
+hide:
+  - toc
 ---
 
 # Physical Centers

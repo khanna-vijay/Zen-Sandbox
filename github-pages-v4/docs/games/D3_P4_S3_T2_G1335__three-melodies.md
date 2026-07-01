@@ -54,6 +54,8 @@ keywords:
   - "structure"
   - "problem-solving"
 aliases: []
+hide:
+  - toc
 ---
 
 # Three Melodies

@@ -59,6 +59,8 @@ keywords:
 aliases:
   - "PAUSE & PIVOT"
   - "The Compassionate Interjection"
+hide:
+  - toc
 ---
 
 # Pause and Pivot

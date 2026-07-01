@@ -63,6 +63,8 @@ keywords:
   - "justification"
   - "endowment"
 aliases: []
+hide:
+  - toc
 ---
 
 # Digital Identity Shift

@@ -60,6 +60,8 @@ aliases:
   - "Three in a Circle"
   - "I'll Keep"
   - "I Am a Tree"
+hide:
+  - toc
 ---
 
 # The Living Collage

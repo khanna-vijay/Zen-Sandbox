@@ -55,6 +55,8 @@ keywords:
   - "pairs"
 aliases:
   - "Story Change"
+hide:
+  - toc
 ---
 
 # Shared Memory Swap

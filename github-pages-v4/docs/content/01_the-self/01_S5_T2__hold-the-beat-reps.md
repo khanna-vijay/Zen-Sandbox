@@ -1,5 +1,7 @@
 ---
 title: Hold-the-beat reps
+hide:
+  - toc
 ---
 
 # 🎯 Hold-the-beat reps

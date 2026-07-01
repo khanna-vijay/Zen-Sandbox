@@ -63,6 +63,8 @@ keywords:
   - "projection"
 aliases:
   - "Audience Accord"
+hide:
+  - toc
 ---
 
 # The Fourth Wall Conductor

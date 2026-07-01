@@ -53,6 +53,8 @@ keywords:
   - "energy"
   - "name-swap"
 aliases: []
+hide:
+  - toc
 ---
 
 # Sole Swap Tag

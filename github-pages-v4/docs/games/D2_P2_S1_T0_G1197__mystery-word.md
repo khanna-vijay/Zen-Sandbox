@@ -51,6 +51,8 @@ keywords:
   - "group mind"
   - "collaboration"
 aliases: []
+hide:
+  - toc
 ---
 
 # Collective Definition

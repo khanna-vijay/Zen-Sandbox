@@ -50,6 +50,8 @@ keywords:
   - "circle game"
 aliases:
   - "Who Stole the Cookies from the Cookie Jar"
+hide:
+  - toc
 ---
 
 # The Cookie Jar Rhythm

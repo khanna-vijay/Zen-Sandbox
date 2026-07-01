@@ -59,6 +59,8 @@ keywords:
   - "remote"
 aliases:
   - "Construct Chain"
+hide:
+  - toc
 ---
 
 # The Narrative Scaffold

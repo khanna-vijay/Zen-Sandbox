@@ -61,6 +61,8 @@ keywords:
   - "listening"
 aliases:
   - "Blind Harold"
+hide:
+  - toc
 ---
 
 # The Bat

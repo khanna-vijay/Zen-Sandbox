@@ -58,6 +58,8 @@ keywords:
   - "multi-sensory"
 aliases:
   - "Screen Symphony"
+hide:
+  - toc
 ---
 
 # Visible Echoes

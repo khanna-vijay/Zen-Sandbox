@@ -59,6 +59,8 @@ keywords:
   - "cognitive flexibility"
 aliases:
   - "Unstable Reality"
+hide:
+  - toc
 ---
 
 # Shifting Foundations

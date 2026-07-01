@@ -57,6 +57,8 @@ keywords:
   - "rapid-fire"
   - "ensemble"
 aliases: []
+hide:
+  - toc
 ---
 
 # Premise Kaleidoscope

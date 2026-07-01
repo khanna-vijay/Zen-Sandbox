@@ -56,6 +56,8 @@ keywords:
   - "conductor"
 aliases:
   - "Fourth Wall Conductor"
+hide:
+  - toc
 ---
 
 # The Wall Conductor

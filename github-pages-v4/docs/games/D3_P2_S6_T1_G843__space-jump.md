@@ -58,6 +58,8 @@ keywords:
 aliases:
   - "Freeze Tag Nesting Variant"
   - "Nesting Freeze"
+hide:
+  - toc
 ---
 
 # Space Jump

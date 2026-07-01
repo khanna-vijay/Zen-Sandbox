@@ -63,6 +63,8 @@ keywords:
   - "performance craft"
 aliases:
   - "The Fourth Wall Flip"
+hide:
+  - toc
 ---
 
 # The Proscenium Pivot

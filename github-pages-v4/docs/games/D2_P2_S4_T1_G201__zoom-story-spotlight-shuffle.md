@@ -61,6 +61,8 @@ keywords:
 aliases:
   - "One Line at a Time"
   - "Tell Me a Story"
+hide:
+  - toc
 ---
 
 # Spotlight Story Pass

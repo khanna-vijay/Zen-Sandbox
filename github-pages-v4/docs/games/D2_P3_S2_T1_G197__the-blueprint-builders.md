@@ -66,6 +66,8 @@ keywords:
   - "mirroring"
   - "partner work"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Blueprint Builders

@@ -1,5 +1,7 @@
 ---
 title: "W07 · Stakes They Can Feel"
+hide:
+  - toc
 ---
 
 # Week 07 — Stakes They Can Feel

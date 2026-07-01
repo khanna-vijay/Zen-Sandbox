@@ -63,6 +63,8 @@ keywords:
   - "micro-expressions"
 aliases:
   - "NSAM"
+hide:
+  - toc
 ---
 
 # Somatic Resonance Matrix

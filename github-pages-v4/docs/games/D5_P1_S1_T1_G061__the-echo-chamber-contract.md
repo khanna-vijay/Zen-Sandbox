@@ -59,6 +59,8 @@ keywords:
   - "stage presence"
   - "calibration"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Feedback Agreement

@@ -60,6 +60,8 @@ keywords:
 aliases:
   - "Hijacker"
   - "Blind Endowment"
+hide:
+  - toc
 ---
 
 # Who, Where, and Why

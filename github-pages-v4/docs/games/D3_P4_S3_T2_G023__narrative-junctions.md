@@ -61,6 +61,8 @@ keywords:
   - "choices"
 aliases:
   - "Fork in the Road"
+hide:
+  - toc
 ---
 
 # Narrative Junctions

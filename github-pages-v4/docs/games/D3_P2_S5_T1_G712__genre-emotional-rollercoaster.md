@@ -62,6 +62,8 @@ keywords:
 aliases:
   - "Genre Rollercoaster"
   - "Emotional Rollercoaster"
+hide:
+  - toc
 ---
 
 # Style Rollercoaster

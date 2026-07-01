@@ -56,6 +56,8 @@ keywords:
   - "plot twist"
 aliases:
   - "Narrative Architects: Shaping Scenes with Structural Directives"
+hide:
+  - toc
 ---
 
 # Narrative Architects

@@ -61,6 +61,8 @@ keywords:
 aliases:
   - "Frame Shift Story Weavers"
   - "Frame Shift Story Weavers: A Dynamic Visual Storytelling Experience"
+hide:
+  - toc
 ---
 
 # The Secret Script

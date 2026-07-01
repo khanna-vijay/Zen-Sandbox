@@ -56,6 +56,8 @@ keywords:
   - "duo"
   - "matching"
 aliases: []
+hide:
+  - toc
 ---
 
 # Peas in a Pod

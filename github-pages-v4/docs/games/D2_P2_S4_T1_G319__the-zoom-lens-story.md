@@ -63,6 +63,8 @@ keywords:
   - "virtual"
 aliases:
   - "Zoom Lens Story"
+hide:
+  - toc
 ---
 
 # The Focal Point Story

@@ -66,6 +66,8 @@ keywords:
 aliases:
   - "The Living Canvas"
   - "The Algorithmic Environment"
+hide:
+  - toc
 ---
 
 # The Living Canvas

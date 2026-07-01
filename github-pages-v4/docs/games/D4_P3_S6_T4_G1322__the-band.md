@@ -56,6 +56,8 @@ keywords:
   - "narrative"
   - "relationships"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Band

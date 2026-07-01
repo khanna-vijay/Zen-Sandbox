@@ -1,5 +1,7 @@
 ---
 title: Game Identification
+hide:
+  - toc
 ---
 
 # 🧠 Game Identification

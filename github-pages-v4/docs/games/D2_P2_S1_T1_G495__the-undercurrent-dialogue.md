@@ -59,6 +59,8 @@ keywords:
   - "connection"
   - "tone"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Undercurrent Dialogue

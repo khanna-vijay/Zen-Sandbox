@@ -58,6 +58,8 @@ keywords:
 aliases:
   - "Puppet Master"
   - "Human Puppets"
+hide:
+  - toc
 ---
 
 # Human Puppets

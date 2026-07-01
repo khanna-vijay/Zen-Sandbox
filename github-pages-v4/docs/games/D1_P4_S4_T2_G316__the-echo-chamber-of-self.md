@@ -63,6 +63,8 @@ keywords:
   - "mind-body-voice"
 aliases:
   - "Echo Chamber of Self"
+hide:
+  - toc
 ---
 
 # Vocal Resonance Ripple

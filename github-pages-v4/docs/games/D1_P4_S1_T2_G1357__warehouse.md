@@ -52,6 +52,8 @@ keywords:
   - "solo"
 aliases:
   - "Open Your Hand"
+hide:
+  - toc
 ---
 
 # The Infinite Warehouse

@@ -63,6 +63,8 @@ keywords:
   - "vocal craft"
   - "justification"
 aliases: []
+hide:
+  - toc
 ---
 
 # Emotional Glitch

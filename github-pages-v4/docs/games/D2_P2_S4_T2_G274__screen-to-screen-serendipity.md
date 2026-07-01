@@ -62,6 +62,8 @@ keywords:
   - "endowment"
   - "active listening"
 aliases: []
+hide:
+  - toc
 ---
 
 # Grid Gift Relay

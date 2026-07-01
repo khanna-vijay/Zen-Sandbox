@@ -56,6 +56,8 @@ keywords:
   - "warm-up"
   - "connection"
 aliases: []
+hide:
+  - toc
 ---
 
 # Spine Sync

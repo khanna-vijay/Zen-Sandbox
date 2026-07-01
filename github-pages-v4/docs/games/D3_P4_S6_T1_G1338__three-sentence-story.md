@@ -51,6 +51,8 @@ keywords:
   - "offers"
   - "listening"
 aliases: []
+hide:
+  - toc
 ---
 
 # Three-Sentence Synthesis

@@ -53,6 +53,8 @@ keywords:
   - "spontaneity"
   - "speed"
 aliases: []
+hide:
+  - toc
 ---
 
 # Rapid Fire Letters

@@ -54,6 +54,8 @@ keywords:
   - "choices"
   - "story starter"
 aliases: []
+hide:
+  - toc
 ---
 
 # Spontaneous Finger Puppets

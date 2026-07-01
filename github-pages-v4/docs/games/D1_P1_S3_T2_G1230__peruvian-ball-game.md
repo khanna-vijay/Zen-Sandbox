@@ -58,6 +58,8 @@ keywords:
   - "awareness"
   - "physicality"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Traveling Sphere

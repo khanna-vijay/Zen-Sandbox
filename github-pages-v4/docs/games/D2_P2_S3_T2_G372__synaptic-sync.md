@@ -62,6 +62,8 @@ keywords:
   - "active listening"
   - "gifting"
 aliases: []
+hide:
+  - toc
 ---
 
 # Resonant Echoes

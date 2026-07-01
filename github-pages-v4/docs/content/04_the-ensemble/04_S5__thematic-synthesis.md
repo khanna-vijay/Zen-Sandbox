@@ -1,5 +1,7 @@
 ---
 title: Thematic Synthesis
+hide:
+  - toc
 ---
 
 # 🧠 Thematic Synthesis

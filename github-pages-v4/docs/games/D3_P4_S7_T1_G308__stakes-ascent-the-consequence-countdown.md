@@ -61,6 +61,8 @@ keywords:
 aliases:
   - "The Consequence Countdown"
   - "Stakes Ascent"
+hide:
+  - toc
 ---
 
 # Consequence Countdown

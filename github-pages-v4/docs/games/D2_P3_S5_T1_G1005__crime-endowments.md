@@ -55,6 +55,8 @@ keywords:
   - "party quirks"
 aliases:
   - "Hijacker"
+hide:
+  - toc
 ---
 
 # The Mastermind's Briefing

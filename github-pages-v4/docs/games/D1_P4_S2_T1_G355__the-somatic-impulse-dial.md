@@ -66,6 +66,8 @@ keywords:
 aliases:
   - "Somatic Impulse Dial"
   - "Emotional Dial"
+hide:
+  - toc
 ---
 
 # The Somatic Impulse Dial

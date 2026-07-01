@@ -62,6 +62,8 @@ keywords:
   - "connection"
   - "yes and"
 aliases: []
+hide:
+  - toc
 ---
 
 # Echo and Seed

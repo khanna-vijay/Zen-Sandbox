@@ -1,5 +1,7 @@
 ---
 title: Fail Joyfully
+hide:
+  - toc
 ---
 
 # 💎 Fail Joyfully

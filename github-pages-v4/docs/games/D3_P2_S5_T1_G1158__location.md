@@ -53,6 +53,8 @@ keywords:
   - "time shift"
   - "walk-on"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Shared Space

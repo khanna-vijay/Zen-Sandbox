@@ -1,5 +1,7 @@
 ---
 title: Vocal characterization
+hide:
+  - toc
 ---
 
 # 🎯 Vocal characterization

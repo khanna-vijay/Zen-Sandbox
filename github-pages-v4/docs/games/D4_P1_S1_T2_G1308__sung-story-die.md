@@ -62,6 +62,8 @@ keywords:
   - "pointer"
 aliases:
   - "Singing Story Story Die"
+hide:
+  - toc
 ---
 
 # Melodic Story-Pass

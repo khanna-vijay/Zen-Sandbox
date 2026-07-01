@@ -49,6 +49,8 @@ keywords:
   - "ensemble building"
   - "introductions"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Welcome Ovation

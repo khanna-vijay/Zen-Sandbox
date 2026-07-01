@@ -56,6 +56,8 @@ keywords:
   - "group mind"
   - "support"
 aliases: []
+hide:
+  - toc
 ---
 
 # Resonance Ripples

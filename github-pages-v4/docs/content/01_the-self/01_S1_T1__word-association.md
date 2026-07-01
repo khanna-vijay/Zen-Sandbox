@@ -1,5 +1,7 @@
 ---
 title: Word-association
+hide:
+  - toc
 ---
 
 # 🎯 Word-association

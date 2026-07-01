@@ -57,6 +57,8 @@ keywords:
   - "storytelling"
 aliases:
   - "Circle of Expectations"
+hide:
+  - toc
 ---
 
 # The Expectation Circle

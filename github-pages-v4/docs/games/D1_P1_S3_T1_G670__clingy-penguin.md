@@ -59,6 +59,8 @@ keywords:
   - "secret"
   - "initiation"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Gifted Persona

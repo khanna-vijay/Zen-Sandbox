@@ -56,6 +56,8 @@ keywords:
   - "remote team"
   - "one sentence"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Persona Chronicle

@@ -55,6 +55,8 @@ keywords:
   - "real-time feedback"
 aliases:
   - "Auditor's Echo"
+hide:
+  - toc
 ---
 
 # The Silent Auditor

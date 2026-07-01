@@ -59,6 +59,8 @@ keywords:
   - "storylines"
 aliases:
   - "Finale Song"
+hide:
+  - toc
 ---
 
 # The Weaving Finale

@@ -67,6 +67,8 @@ keywords:
 aliases:
   - "Echo Chamber"
   - "The Collective Canvas Game"
+hide:
+  - toc
 ---
 
 # Spatial Echoes

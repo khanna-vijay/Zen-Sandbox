@@ -53,6 +53,8 @@ keywords:
   - "reaction"
   - "stakes"
 aliases: []
+hide:
+  - toc
 ---
 
 # Make It Personal

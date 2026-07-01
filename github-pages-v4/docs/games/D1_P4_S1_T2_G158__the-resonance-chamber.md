@@ -62,6 +62,8 @@ keywords:
   - "physicality"
   - "impulse"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Impulse Chamber

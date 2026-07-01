@@ -61,6 +61,8 @@ keywords:
   - "show format"
 aliases:
   - "Gorilla Theater"
+hide:
+  - toc
 ---
 
 # The Gorilla's Choice

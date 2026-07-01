@@ -66,6 +66,8 @@ keywords:
   - "physicality"
   - "breath"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Somatic Blueprint

@@ -53,6 +53,8 @@ keywords:
   - "scene transitions"
   - "weaving"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Lotus

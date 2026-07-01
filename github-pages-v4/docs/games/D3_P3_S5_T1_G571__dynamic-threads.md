@@ -61,6 +61,8 @@ keywords:
   - "conflict"
   - "justification"
 aliases: []
+hide:
+  - toc
 ---
 
 # Relational Threads

@@ -64,6 +64,8 @@ keywords:
   - "mindfulness"
   - "subtle"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Silent Symphony

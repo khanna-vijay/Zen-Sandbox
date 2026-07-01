@@ -52,6 +52,8 @@ keywords:
   - "focus"
   - "circle game"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Cadence Pass

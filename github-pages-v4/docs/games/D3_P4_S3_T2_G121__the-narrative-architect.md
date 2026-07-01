@@ -57,6 +57,8 @@ keywords:
   - "stakes"
   - "platform and tilt"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Narrative Architect

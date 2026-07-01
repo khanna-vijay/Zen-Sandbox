@@ -60,6 +60,8 @@ keywords:
   - "fail joyfully"
 aliases:
   - "And That's Exactly What I Meant"
+hide:
+  - toc
 ---
 
 # Exactly What I Meant

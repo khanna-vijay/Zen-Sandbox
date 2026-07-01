@@ -56,6 +56,8 @@ keywords:
 aliases:
   - "Clap Pass"
   - "Pass the Clap"
+hide:
+  - toc
 ---
 
 # Pass the Pulse

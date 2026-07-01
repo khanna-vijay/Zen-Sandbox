@@ -52,6 +52,8 @@ keywords:
   - "ensemble"
   - "coordination"
 aliases: []
+hide:
+  - toc
 ---
 
 # Vector Tag

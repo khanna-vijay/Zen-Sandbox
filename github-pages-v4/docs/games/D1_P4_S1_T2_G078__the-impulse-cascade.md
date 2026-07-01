@@ -62,6 +62,8 @@ keywords:
   - "warm-up"
 aliases:
   - "Impulse Cascade"
+hide:
+  - toc
 ---
 
 # The Impulse Cascade

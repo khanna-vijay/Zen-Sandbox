@@ -54,6 +54,8 @@ keywords:
   - "solo"
   - "physicality"
 aliases: []
+hide:
+  - toc
 ---
 
 # Instant Character Carousel

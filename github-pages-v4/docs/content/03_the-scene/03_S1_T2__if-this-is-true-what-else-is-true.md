@@ -1,5 +1,7 @@
 ---
 title: If this is true, what else is true?
+hide:
+  - toc
 ---
 
 # 🎯 If this is true, what else is true?

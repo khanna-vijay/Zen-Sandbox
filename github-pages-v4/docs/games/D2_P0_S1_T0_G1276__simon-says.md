@@ -49,6 +49,8 @@ keywords:
   - "physicality"
   - "elimination"
 aliases: []
+hide:
+  - toc
 ---
 
 # Simon Says

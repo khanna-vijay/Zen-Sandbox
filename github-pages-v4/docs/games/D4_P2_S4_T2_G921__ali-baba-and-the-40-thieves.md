@@ -58,6 +58,8 @@ keywords:
   - "coordination"
   - "energy"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Rhythmic Conveyor Belt

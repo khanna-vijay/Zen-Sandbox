@@ -60,6 +60,8 @@ keywords:
   - "online improv"
   - "collaboration"
 aliases: []
+hide:
+  - toc
 ---
 
 # Virtual Vista Architects

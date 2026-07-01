@@ -50,6 +50,8 @@ keywords:
   - "sensory"
   - "pairs"
 aliases: []
+hide:
+  - toc
 ---
 
 # Somatic Echo

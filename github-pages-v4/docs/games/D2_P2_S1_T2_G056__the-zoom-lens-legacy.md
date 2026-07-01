@@ -60,6 +60,8 @@ keywords:
   - "spotlight"
   - "gallery-view"
 aliases: []
+hide:
+  - toc
 ---
 
 # Legacy of the Frame

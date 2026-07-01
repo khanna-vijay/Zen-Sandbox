@@ -61,6 +61,8 @@ keywords:
   - "mark beltzman"
 aliases:
   - "Hitchhiker"
+hide:
+  - toc
 ---
 
 # The Familiar Passenger

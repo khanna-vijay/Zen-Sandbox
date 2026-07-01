@@ -62,6 +62,8 @@ keywords:
 aliases:
   - "Scenic Shifters"
   - "Reality Rewire"
+hide:
+  - toc
 ---
 
 # Virtual Horizon Shifters

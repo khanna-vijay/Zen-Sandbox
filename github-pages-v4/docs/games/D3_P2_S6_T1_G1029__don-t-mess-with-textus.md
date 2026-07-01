@@ -57,6 +57,8 @@ keywords:
 aliases:
   - "Textus"
   - "SMS Actor's Nightmare"
+hide:
+  - toc
 ---
 
 # Text Message Roulette

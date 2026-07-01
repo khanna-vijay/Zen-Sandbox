@@ -58,6 +58,8 @@ keywords:
 aliases:
   - "Secret Motivations"
   - "Unspoken Desires"
+hide:
+  - toc
 ---
 
 # Undercurrents

@@ -62,6 +62,8 @@ keywords:
   - "projection"
   - "cheating out"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Confidant's Spotlight

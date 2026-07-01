@@ -66,6 +66,8 @@ keywords:
   - "intrapersonal"
 aliases:
   - "Emotional Seismograph"
+hide:
+  - toc
 ---
 
 # The Emotional Seismograph

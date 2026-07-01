@@ -58,6 +58,8 @@ keywords:
   - "storytelling"
   - "canvas"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Digital Scene Canvas

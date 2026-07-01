@@ -62,6 +62,8 @@ keywords:
   - "vocal shift"
 aliases:
   - "Ding Character"
+hide:
+  - toc
 ---
 
 # Instant Character Shift

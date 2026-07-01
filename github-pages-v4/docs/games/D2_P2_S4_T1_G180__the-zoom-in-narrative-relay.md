@@ -61,6 +61,8 @@ keywords:
   - "active listening"
   - "endowment"
 aliases: []
+hide:
+  - toc
 ---
 
 # Spotlight Narrative Relay

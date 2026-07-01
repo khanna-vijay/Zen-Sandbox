@@ -56,6 +56,8 @@ keywords:
 aliases:
   - "Escalating Scene"
   - "Raise the Stakes"
+hide:
+  - toc
 ---
 
 # The Ripple Effect

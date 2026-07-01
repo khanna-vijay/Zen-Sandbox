@@ -60,6 +60,8 @@ keywords:
 aliases:
   - "Gibberish Interpreter"
   - "Foreign Expert"
+hide:
+  - toc
 ---
 
 # The Gibberish Translator

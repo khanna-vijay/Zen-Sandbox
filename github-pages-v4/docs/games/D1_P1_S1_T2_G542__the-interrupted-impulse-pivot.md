@@ -59,6 +59,8 @@ keywords:
   - "warm-up"
   - "side-coaching"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Instant Impulse Pivot

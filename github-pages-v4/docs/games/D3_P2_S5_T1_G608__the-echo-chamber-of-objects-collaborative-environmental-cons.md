@@ -62,6 +62,8 @@ keywords:
   - "collaborative"
 aliases:
   - "The Echo Chamber of Objects"
+hide:
+  - toc
 ---
 
 # The Object Echo Chain

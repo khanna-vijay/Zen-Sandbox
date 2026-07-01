@@ -60,6 +60,8 @@ keywords:
   - "intuition"
   - "partnership"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Unspoken Quest

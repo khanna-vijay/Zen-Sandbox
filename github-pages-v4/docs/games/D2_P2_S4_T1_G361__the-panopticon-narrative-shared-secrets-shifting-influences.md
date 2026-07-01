@@ -59,6 +59,8 @@ keywords:
   - "adaptation"
   - "active listening"
 aliases: []
+hide:
+  - toc
 ---
 
 # Secret Currents

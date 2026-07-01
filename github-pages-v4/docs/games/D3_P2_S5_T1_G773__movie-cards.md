@@ -54,6 +54,8 @@ keywords:
   - "physical comedy"
   - "shortform"
 aliases: []
+hide:
+  - toc
 ---
 
 # Cinematic Cue Cards

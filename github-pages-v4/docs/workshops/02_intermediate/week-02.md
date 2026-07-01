@@ -1,5 +1,7 @@
 ---
 title: "W02 · Emotion with Logic"
+hide:
+  - toc
 ---
 
 # Week 02 — Emotion with Logic

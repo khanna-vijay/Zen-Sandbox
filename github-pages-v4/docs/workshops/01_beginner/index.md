@@ -1,5 +1,7 @@
 ---
 title: "Foundations — The Brave Beginner"
+hide:
+  - toc
 ---
 
 # Foundations — The Brave Beginner

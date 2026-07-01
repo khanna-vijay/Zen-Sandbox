@@ -58,6 +58,8 @@ keywords:
   - "spontaneity"
   - "somatic"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Tri-State Reset

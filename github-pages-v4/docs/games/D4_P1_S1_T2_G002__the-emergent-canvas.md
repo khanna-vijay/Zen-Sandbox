@@ -62,6 +62,8 @@ keywords:
   - "advanced"
 aliases:
   - "The Emergent Canvas: Non-Verbal Structural Mastery"
+hide:
+  - toc
 ---
 
 # The Living Grid

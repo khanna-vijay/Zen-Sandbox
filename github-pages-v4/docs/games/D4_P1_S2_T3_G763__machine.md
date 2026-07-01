@@ -60,6 +60,8 @@ keywords:
 aliases:
   - "The Machine"
   - "Moving Machine"
+hide:
+  - toc
 ---
 
 # The Human Machine

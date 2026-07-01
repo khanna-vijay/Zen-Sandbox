@@ -56,6 +56,8 @@ keywords:
   - "coordination"
   - "focus"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Invisible Jump Rope

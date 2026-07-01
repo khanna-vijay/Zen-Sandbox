@@ -63,6 +63,8 @@ keywords:
   - "thread tracking"
   - "synthesis"
 aliases: []
+hide:
+  - toc
 ---
 
 # Tapestry of Threads

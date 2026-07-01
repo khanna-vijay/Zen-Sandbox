@@ -60,6 +60,8 @@ keywords:
   - "shortform"
 aliases:
   - "A Day in the Life"
+hide:
+  - toc
 ---
 
 # Day in the Life

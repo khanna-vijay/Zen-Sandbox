@@ -60,6 +60,8 @@ keywords:
 aliases:
   - "The Shifting Scenery Storytellers"
   - "Dynamic Digital Improv with Zoom Features"
+hide:
+  - toc
 ---
 
 # Clandestine Chronicles

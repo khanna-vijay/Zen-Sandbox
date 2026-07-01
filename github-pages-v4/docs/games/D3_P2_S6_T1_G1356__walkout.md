@@ -55,6 +55,8 @@ keywords:
   - "word trigger"
 aliases:
   - "Exit Game"
+hide:
+  - toc
 ---
 
 # Trigger Exits

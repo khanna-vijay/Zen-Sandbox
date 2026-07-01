@@ -1,5 +1,7 @@
 ---
 title: Cheating out
+hide:
+  - toc
 ---
 
 # 🎯 Cheating out

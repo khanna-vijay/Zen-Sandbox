@@ -55,6 +55,8 @@ keywords:
   - "co-creation"
   - "secret rule"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Illusion of Plot

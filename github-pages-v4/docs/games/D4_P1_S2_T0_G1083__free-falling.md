@@ -54,6 +54,8 @@ keywords:
   - "vulnerability"
 aliases:
   - "Trust Fall"
+hide:
+  - toc
 ---
 
 # Circle of Support

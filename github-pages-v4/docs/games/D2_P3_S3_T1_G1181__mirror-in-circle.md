@@ -53,6 +53,8 @@ keywords:
   - "eye contact"
   - "group mind"
 aliases: []
+hide:
+  - toc
 ---
 
 # Reflective Convergence

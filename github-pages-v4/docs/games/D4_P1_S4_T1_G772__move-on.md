@@ -56,6 +56,8 @@ keywords:
   - "transitions"
   - "fast-paced"
 aliases: []
+hide:
+  - toc
 ---
 
 # Keep and Move On

@@ -53,6 +53,8 @@ keywords:
   - "line game"
   - "quick-fire"
 aliases: []
+hide:
+  - toc
 ---
 
 # World's Worst

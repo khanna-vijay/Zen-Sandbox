@@ -58,6 +58,8 @@ keywords:
   - "peripheral awareness"
   - "unspoken agreement"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Pattern Weaver

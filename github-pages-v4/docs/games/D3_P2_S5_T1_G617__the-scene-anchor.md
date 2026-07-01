@@ -58,6 +58,8 @@ keywords:
   - "anchoring"
 aliases:
   - "The Art of the Scene Ignition: Forging Potent Improvised Beginnings"
+hide:
+  - toc
 ---
 
 # The Scene Anchor

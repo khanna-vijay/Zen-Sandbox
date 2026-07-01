@@ -57,6 +57,8 @@ keywords:
   - "out of character"
 aliases:
   - "The Co-Created Contract: Explicit Negotiation of Emotional & Physical Advancements"
+hide:
+  - toc
 ---
 
 # The Negotiated Scene

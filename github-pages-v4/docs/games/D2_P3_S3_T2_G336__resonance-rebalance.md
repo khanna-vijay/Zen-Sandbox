@@ -65,6 +65,8 @@ keywords:
   - "partnership"
   - "vulnerability"
 aliases: []
+hide:
+  - toc
 ---
 
 # Attunement Waves

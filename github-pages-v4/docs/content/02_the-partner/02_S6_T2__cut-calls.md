@@ -1,5 +1,7 @@
 ---
 title: Cut calls
+hide:
+  - toc
 ---
 
 # 🎯 Cut calls

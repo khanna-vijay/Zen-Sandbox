@@ -56,6 +56,8 @@ keywords:
 aliases:
   - "The Consent Navigator"
   - "Cut & Clarity"
+hide:
+  - toc
 ---
 
 # Boundary Compass

@@ -59,6 +59,8 @@ keywords:
   - "audience suggestion"
 aliases:
   - "Party Guests"
+hide:
+  - toc
 ---
 
 # Party Quirks

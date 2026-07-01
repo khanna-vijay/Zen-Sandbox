@@ -1,5 +1,7 @@
 ---
 title: Object work
+hide:
+  - toc
 ---
 
 # 🎯 Object work

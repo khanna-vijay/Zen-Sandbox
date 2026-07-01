@@ -1,5 +1,7 @@
 ---
 title: "W14 · We're a Team"
+hide:
+  - toc
 ---
 
 # Week 14 — We're a Team

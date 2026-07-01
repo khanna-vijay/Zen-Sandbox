@@ -55,6 +55,8 @@ keywords:
   - "sound effects"
   - "audio scene"
 aliases: []
+hide:
+  - toc
 ---
 
 # Scene in the Dark

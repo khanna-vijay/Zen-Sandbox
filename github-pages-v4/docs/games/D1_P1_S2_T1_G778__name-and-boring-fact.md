@@ -54,6 +54,8 @@ keywords:
   - "commitment"
 aliases:
   - "Boring Fact"
+hide:
+  - toc
 ---
 
 # The Epic Mundane

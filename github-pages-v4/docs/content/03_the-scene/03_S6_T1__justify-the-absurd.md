@@ -1,5 +1,7 @@
 ---
 title: Justify the absurd
+hide:
+  - toc
 ---
 
 # 🎯 Justify the absurd

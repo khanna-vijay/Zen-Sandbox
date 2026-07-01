@@ -61,6 +61,8 @@ keywords:
   - "ensemble"
   - "synthesis"
 aliases: []
+hide:
+  - toc
 ---
 
 # Thematic Architects

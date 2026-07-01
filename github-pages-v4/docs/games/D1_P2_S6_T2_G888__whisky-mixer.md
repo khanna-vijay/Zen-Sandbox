@@ -52,6 +52,8 @@ keywords:
   - "speed"
   - "mistakes"
 aliases: []
+hide:
+  - toc
 ---
 
 # Whisky Mixer

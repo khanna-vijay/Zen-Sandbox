@@ -59,6 +59,8 @@ aliases:
   - "Spoon River"
   - "Moon River"
   - "Spork River"
+hide:
+  - toc
 ---
 
 # Echoes of the Valley

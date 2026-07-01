@@ -54,6 +54,8 @@ keywords:
   - "chaos"
   - "grouping"
 aliases: []
+hide:
+  - toc
 ---
 
 # Sound Herd

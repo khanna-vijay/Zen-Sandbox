@@ -57,6 +57,8 @@ keywords:
   - "safety"
   - "collaboration"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Co-Authored Journey

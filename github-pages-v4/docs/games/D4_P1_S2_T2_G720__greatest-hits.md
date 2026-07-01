@@ -58,6 +58,8 @@ keywords:
   - "ensemble"
   - "gifting"
 aliases: []
+hide:
+  - toc
 ---
 
 # Greatest Hits

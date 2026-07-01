@@ -56,6 +56,8 @@ keywords:
   - "warm-up"
 aliases:
   - "Let's Play..."
+hide:
+  - toc
 ---
 
 # Instant Game Engine

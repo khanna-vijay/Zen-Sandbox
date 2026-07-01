@@ -54,6 +54,8 @@ keywords:
   - "clues"
 aliases:
   - "Rebel without a Clue"
+hide:
+  - toc
 ---
 
 # The Unwitting Hijacker

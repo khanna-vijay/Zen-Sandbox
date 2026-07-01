@@ -61,6 +61,8 @@ keywords:
   - "invisible witness"
 aliases:
   - "Resonance Conductor"
+hide:
+  - toc
 ---
 
 # The Resonance Conductor

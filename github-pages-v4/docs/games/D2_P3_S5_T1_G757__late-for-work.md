@@ -56,6 +56,8 @@ keywords:
   - "teamwork"
   - "late for work"
 aliases: []
+hide:
+  - toc
 ---
 
 # Late for Work

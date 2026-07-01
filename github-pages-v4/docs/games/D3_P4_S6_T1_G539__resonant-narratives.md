@@ -61,6 +61,8 @@ keywords:
   - "sensory"
 aliases:
   - "Resonant Narratives: Sound-Driven Scene Construction"
+hide:
+  - toc
 ---
 
 # Acoustic Architecture

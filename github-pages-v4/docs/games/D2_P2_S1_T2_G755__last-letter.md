@@ -53,6 +53,8 @@ keywords:
   - "focus"
   - "wordplay"
 aliases: []
+hide:
+  - toc
 ---
 
 # Last Letter Connection

@@ -1,5 +1,7 @@
 ---
 title: Peripheral Awareness
+hide:
+  - toc
 ---
 
 # 🧠 Peripheral Awareness

@@ -54,6 +54,8 @@ keywords:
   - "connection"
   - "playful"
 aliases: []
+hide:
+  - toc
 ---
 
 # You're Amazing

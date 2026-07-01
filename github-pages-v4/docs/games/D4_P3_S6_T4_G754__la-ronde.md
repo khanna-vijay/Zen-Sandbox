@@ -57,6 +57,8 @@ keywords:
   - "narrative"
   - "editing"
 aliases: []
+hide:
+  - toc
 ---
 
 # La Ronde

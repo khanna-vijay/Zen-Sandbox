@@ -60,6 +60,8 @@ keywords:
   - "vocal"
   - "shop"
 aliases: []
+hide:
+  - toc
 ---
 
 # Character Echo

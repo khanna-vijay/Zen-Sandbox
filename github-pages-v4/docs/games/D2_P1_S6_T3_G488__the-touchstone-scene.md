@@ -53,6 +53,8 @@ keywords:
   - "intimacy"
   - "agreement"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Touchstone Scene

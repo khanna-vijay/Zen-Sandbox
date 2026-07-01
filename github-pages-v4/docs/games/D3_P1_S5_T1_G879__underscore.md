@@ -61,6 +61,8 @@ keywords:
   - "non-verbal"
   - "atmosphere"
 aliases: []
+hide:
+  - toc
 ---
 
 # Cinematic Underscore

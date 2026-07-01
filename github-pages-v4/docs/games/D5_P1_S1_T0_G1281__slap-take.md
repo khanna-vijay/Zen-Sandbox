@@ -50,6 +50,8 @@ keywords:
   - "stage slap"
   - "performance"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Reaction Strike

@@ -61,6 +61,8 @@ keywords:
   - "listening"
   - "non-verbal"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Living Tapestry

@@ -60,6 +60,8 @@ keywords:
   - "scene building"
 aliases:
   - "Domino Effect"
+hide:
+  - toc
 ---
 
 # The Domino Effect

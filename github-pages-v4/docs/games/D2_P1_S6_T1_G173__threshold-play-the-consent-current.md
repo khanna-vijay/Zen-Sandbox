@@ -58,6 +58,8 @@ keywords:
   - "boundary navigation"
 aliases:
   - "The Consent Current"
+hide:
+  - toc
 ---
 
 # The Consent Current

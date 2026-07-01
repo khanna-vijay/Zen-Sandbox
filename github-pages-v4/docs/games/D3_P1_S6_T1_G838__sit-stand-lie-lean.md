@@ -57,6 +57,8 @@ keywords:
 aliases:
   - "Sit Stand Kneel Lie"
   - "Sit Stand Lie Bend"
+hide:
+  - toc
 ---
 
 # Sit, Stand, Lie, Lean

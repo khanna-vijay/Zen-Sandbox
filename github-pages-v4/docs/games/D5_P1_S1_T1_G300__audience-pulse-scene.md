@@ -55,6 +55,8 @@ keywords:
   - "virtual improv"
 aliases:
   - "Reactions to Reactions"
+hide:
+  - toc
 ---
 
 # Audience Pulse

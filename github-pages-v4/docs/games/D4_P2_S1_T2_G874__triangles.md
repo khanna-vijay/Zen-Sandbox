@@ -53,6 +53,8 @@ keywords:
 aliases:
   - "Assassins"
   - "Biggest Fan"
+hide:
+  - toc
 ---
 
 # Equilateral Triangles

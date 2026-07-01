@@ -55,6 +55,8 @@ keywords:
   - "energy calibration"
 aliases:
   - "The Engagement Conductor – A Real-Time Audience Navigation System"
+hide:
+  - toc
 ---
 
 # The Engagement Conductor

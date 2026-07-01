@@ -59,6 +59,8 @@ keywords:
   - "if true what else is true"
 aliases:
   - "Narrative Cascade"
+hide:
+  - toc
 ---
 
 # The Narrative Cascade

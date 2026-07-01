@@ -1,5 +1,7 @@
 ---
 title: Boundary Navigation
+hide:
+  - toc
 ---
 
 # 🧠 Boundary Navigation

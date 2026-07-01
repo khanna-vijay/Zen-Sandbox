@@ -52,6 +52,8 @@ keywords:
   - "recall"
   - "details"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Observation Audit

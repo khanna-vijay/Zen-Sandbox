@@ -63,6 +63,8 @@ aliases:
   - "News Anchor"
   - "News Flash"
   - "Breaking News"
+hide:
+  - toc
 ---
 
 # News Desk

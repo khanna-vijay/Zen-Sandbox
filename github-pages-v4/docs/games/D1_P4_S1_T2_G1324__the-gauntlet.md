@@ -56,6 +56,8 @@ keywords:
   - "sybil"
   - "multi-character"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Solo Gauntlet

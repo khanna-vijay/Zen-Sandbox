@@ -63,6 +63,8 @@ keywords:
   - "yes and"
   - "emotional shift"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Attunement Loop

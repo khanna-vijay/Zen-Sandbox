@@ -58,6 +58,8 @@ keywords:
   - "line-by-line"
   - "meter"
 aliases: []
+hide:
+  - toc
 ---
 
 # Poetry Corner

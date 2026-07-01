@@ -56,6 +56,8 @@ keywords:
   - "memory"
 aliases:
   - "Blind Freeze Extension"
+hide:
+  - toc
 ---
 
 # Synthesis Freeze

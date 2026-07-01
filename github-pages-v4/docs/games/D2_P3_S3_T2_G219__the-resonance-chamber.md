@@ -65,6 +65,8 @@ keywords:
   - "active listening"
   - "yes and"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Resonance Chamber

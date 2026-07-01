@@ -48,6 +48,8 @@ keywords:
   - "warm-up"
   - "stream of consciousness"
 aliases: []
+hide:
+  - toc
 ---
 
 # Dada Stream

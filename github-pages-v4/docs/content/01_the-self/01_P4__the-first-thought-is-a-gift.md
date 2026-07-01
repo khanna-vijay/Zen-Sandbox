@@ -1,5 +1,7 @@
 ---
 title: The First Thought Is a Gift
+hide:
+  - toc
 ---
 
 # 💎 The First Thought Is a Gift

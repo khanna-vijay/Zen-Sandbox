@@ -56,6 +56,8 @@ keywords:
   - "cctv"
   - "fired"
 aliases: []
+hide:
+  - toc
 ---
 
 # CCTV Playback

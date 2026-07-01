@@ -58,6 +58,8 @@ keywords:
   - "follow the follower"
   - "thematic synthesis"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Collective Lens

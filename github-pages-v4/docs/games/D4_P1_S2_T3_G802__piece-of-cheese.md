@@ -57,6 +57,8 @@ keywords:
 aliases:
   - "I'm a Whisk"
   - "I am a Tree"
+hide:
+  - toc
 ---
 
 # Three-Part Tableau

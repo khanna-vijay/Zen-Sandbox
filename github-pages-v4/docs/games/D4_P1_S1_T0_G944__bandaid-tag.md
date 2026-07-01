@@ -50,6 +50,8 @@ keywords:
   - "cooperation"
 aliases:
   - "Band-Aid Tag"
+hide:
+  - toc
 ---
 
 # Bandage Tag

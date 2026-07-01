@@ -59,6 +59,8 @@ keywords:
   - "physicality"
 aliases:
   - "Emotional Compass"
+hide:
+  - toc
 ---
 
 # The Emotional Compass

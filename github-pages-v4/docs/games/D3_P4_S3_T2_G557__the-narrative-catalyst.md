@@ -60,6 +60,8 @@ keywords:
 aliases:
   - "Narrative Catalyst"
   - "Catalyst Cards"
+hide:
+  - toc
 ---
 
 # The Narrative Catalyst

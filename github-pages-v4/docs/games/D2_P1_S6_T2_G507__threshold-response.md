@@ -53,6 +53,8 @@ keywords:
   - "facilitation"
   - "physical contact"
 aliases: []
+hide:
+  - toc
 ---
 
 # Threshold and Response

@@ -55,6 +55,8 @@ keywords:
   - "verbal cues"
   - "stage movement"
 aliases: []
+hide:
+  - toc
 ---
 
 # Cue and Justify

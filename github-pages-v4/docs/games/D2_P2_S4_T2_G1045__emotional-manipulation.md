@@ -56,6 +56,8 @@ keywords:
   - "reaction"
   - "affect"
 aliases: []
+hide:
+  - toc
 ---
 
 # Emotional Endowment

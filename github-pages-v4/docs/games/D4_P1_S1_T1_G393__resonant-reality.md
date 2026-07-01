@@ -62,6 +62,8 @@ keywords:
   - "follow the follower"
 aliases:
   - "Building Shared Worlds Through Simultaneous Resonance"
+hide:
+  - toc
 ---
 
 # Atmospheric Resonance

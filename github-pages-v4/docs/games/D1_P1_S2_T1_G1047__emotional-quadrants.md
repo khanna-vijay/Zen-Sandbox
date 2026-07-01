@@ -52,6 +52,8 @@ keywords:
   - "emotional shifts"
   - "limitations"
 aliases: []
+hide:
+  - toc
 ---
 
 # Emotional Quadrants

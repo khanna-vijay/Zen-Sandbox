@@ -51,6 +51,8 @@ keywords:
   - "opinions"
   - "connection"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Opinion Axis

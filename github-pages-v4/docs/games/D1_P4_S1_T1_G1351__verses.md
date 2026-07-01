@@ -54,6 +54,8 @@ keywords:
   - "verbal constraint"
   - "rhyming"
 aliases: []
+hide:
+  - toc
 ---
 
 # Self-Rhyming Couplets

@@ -66,6 +66,8 @@ keywords:
   - "meisner"
 aliases:
   - "The Subtext Symphony: Non-Verbal Foundation and Verbal Affirmation"
+hide:
+  - toc
 ---
 
 # Echoes of the Unspoken

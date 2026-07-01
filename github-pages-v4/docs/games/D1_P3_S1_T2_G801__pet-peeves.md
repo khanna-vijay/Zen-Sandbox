@@ -51,6 +51,8 @@ keywords:
   - "sharing"
   - "obvious"
 aliases: []
+hide:
+  - toc
 ---
 
 # Pet Peeves

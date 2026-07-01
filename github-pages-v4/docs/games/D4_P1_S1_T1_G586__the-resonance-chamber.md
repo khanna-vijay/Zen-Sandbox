@@ -65,6 +65,8 @@ keywords:
   - "sensory stimulus"
   - "peripheral awareness"
 aliases: []
+hide:
+  - toc
 ---
 
 # Resonance Chamber

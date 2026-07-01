@@ -57,6 +57,8 @@ keywords:
   - "collaboration"
   - "relationship"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Positivity Chain

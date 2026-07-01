@@ -63,6 +63,8 @@ keywords:
   - "world-building"
   - "character creation"
 aliases: []
+hide:
+  - toc
 ---
 
 # Virtual Scene Architects

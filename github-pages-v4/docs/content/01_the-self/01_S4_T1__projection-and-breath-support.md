@@ -1,5 +1,7 @@
 ---
 title: Projection & breath support
+hide:
+  - toc
 ---
 
 # 🎯 Projection & breath support

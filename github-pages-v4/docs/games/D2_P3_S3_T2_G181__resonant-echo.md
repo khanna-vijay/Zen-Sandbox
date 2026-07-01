@@ -62,6 +62,8 @@ keywords:
   - "unspoken desire"
 aliases:
   - "Implied Desire Fulfillment"
+hide:
+  - toc
 ---
 
 # Resonant Echo

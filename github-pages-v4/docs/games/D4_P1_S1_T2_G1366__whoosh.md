@@ -58,6 +58,8 @@ keywords:
   - "passing game"
 aliases:
   - "Zip Zap Zoop"
+hide:
+  - toc
 ---
 
 # Whoosh Wave

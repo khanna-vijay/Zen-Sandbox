@@ -64,6 +64,8 @@ keywords:
 aliases:
   - "Aetheric Resonance Protocol"
   - "Aetheric Chamber"
+hide:
+  - toc
 ---
 
 # The Resonance Dial

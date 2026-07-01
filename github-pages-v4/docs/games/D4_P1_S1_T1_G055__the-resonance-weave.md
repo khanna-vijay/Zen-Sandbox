@@ -61,6 +61,8 @@ keywords:
   - "fluid transformation"
 aliases:
   - "Resonance Weave"
+hide:
+  - toc
 ---
 
 # Resonance Weave

@@ -57,6 +57,8 @@ keywords:
   - "narrative"
   - "collaboration"
 aliases: []
+hide:
+  - toc
 ---
 
 # Parallel Realities

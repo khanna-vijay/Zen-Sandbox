@@ -63,6 +63,8 @@ keywords:
   - "warm-up"
   - "comedy"
 aliases: []
+hide:
+  - toc
 ---
 
 # Double Blind Freeze

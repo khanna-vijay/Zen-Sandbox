@@ -52,6 +52,8 @@ keywords:
   - "rap"
   - "clapping"
 aliases: []
+hide:
+  - toc
 ---
 
 # Off-Beat Rap

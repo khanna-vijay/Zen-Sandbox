@@ -53,6 +53,8 @@ keywords:
   - "focus"
   - "listening"
 aliases: []
+hide:
+  - toc
 ---
 
 # Word Ball

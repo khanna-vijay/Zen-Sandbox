@@ -63,6 +63,8 @@ keywords:
   - "atmosphere"
 aliases:
   - "The Unseen Architect"
+hide:
+  - toc
 ---
 
 # The Resonance Weave

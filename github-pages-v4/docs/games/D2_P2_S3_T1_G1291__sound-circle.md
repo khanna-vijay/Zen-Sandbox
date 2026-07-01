@@ -57,6 +57,8 @@ keywords:
   - "energy"
 aliases:
   - "Pass Catch"
+hide:
+  - toc
 ---
 
 # Resonance Circle

@@ -53,6 +53,8 @@ keywords:
   - "active listening"
 aliases:
   - "Cultivating a Culture of Consent"
+hide:
+  - toc
 ---
 
 # The Touch Protocol

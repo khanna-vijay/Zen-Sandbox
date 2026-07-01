@@ -1,5 +1,7 @@
 ---
 title: Commit 100%
+hide:
+  - toc
 ---
 
 # 💎 Commit 100%

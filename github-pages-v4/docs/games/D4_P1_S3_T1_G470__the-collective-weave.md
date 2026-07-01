@@ -56,6 +56,8 @@ keywords:
   - "resonance"
 aliases:
   - "The Confluence Weave"
+hide:
+  - toc
 ---
 
 # The Resonance Tapestry

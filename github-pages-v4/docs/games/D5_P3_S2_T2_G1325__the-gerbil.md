@@ -53,6 +53,8 @@ keywords:
   - "sincerity"
   - "audience reaction"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Gravity Test

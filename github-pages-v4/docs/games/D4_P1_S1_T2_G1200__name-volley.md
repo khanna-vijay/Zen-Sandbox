@@ -56,6 +56,8 @@ keywords:
   - "focus"
   - "ensemble"
 aliases: []
+hide:
+  - toc
 ---
 
 # Name Volley

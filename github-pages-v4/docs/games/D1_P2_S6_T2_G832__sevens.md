@@ -53,6 +53,8 @@ keywords:
   - "elimination"
   - "rhythm"
 aliases: []
+hide:
+  - toc
 ---
 
 # Sevens

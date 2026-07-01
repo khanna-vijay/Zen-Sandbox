@@ -54,6 +54,8 @@ keywords:
   - "focus"
   - "physical"
 aliases: []
+hide:
+  - toc
 ---
 
 # Wild West

@@ -1,5 +1,7 @@
 ---
 title: "W10 · Two Minds, One Mirror"
+hide:
+  - toc
 ---
 
 # Week 10 — Two Minds, One Mirror

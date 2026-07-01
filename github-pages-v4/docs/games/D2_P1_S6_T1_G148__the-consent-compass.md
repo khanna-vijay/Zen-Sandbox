@@ -56,6 +56,8 @@ keywords:
   - "truth over pandering"
   - "partner work"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Boundary Compass

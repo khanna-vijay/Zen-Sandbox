@@ -56,6 +56,8 @@ keywords:
   - "performance"
 aliases:
   - "Radio Commercial"
+hide:
+  - toc
 ---
 
 # The Infomercial

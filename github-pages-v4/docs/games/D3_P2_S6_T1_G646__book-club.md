@@ -55,6 +55,8 @@ keywords:
   - "audience books"
   - "gifting"
 aliases: []
+hide:
+  - toc
 ---
 
 # Book Club

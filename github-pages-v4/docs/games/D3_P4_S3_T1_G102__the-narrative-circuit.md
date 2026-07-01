@@ -58,6 +58,8 @@ keywords:
   - "conductor"
   - "stations"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Narrative Circuit

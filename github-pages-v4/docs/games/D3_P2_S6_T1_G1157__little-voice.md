@@ -57,6 +57,8 @@ keywords:
   - "voice play"
 aliases:
   - "Speck"
+hide:
+  - toc
 ---
 
 # Voices of the Room

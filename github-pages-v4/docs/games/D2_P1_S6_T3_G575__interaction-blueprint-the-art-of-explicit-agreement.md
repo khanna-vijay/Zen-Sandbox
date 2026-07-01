@@ -53,6 +53,8 @@ keywords:
 aliases:
   - "The Art of Explicit Agreement"
   - "Interaction Blueprint"
+hide:
+  - toc
 ---
 
 # The Agreement Blueprint

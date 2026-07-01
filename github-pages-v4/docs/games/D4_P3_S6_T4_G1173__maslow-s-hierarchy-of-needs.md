@@ -54,6 +54,8 @@ keywords:
   - "scene locations"
   - "dan goldstein"
 aliases: []
+hide:
+  - toc
 ---
 
 # Spatial Anchors

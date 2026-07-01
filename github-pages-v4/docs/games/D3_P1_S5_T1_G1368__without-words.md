@@ -53,6 +53,8 @@ keywords:
   - "limitations"
   - "show don't tell"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Wordless World

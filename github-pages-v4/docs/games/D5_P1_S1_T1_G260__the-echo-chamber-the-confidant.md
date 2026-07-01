@@ -64,6 +64,8 @@ keywords:
 aliases:
   - "The Echo Chamber"
   - "The Confidant"
+hide:
+  - toc
 ---
 
 # The Confidant's Echo

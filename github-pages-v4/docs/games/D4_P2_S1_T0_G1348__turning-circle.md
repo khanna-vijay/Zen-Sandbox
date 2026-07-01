@@ -53,6 +53,8 @@ keywords:
   - "group mind"
   - "coordination"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Turning Circle

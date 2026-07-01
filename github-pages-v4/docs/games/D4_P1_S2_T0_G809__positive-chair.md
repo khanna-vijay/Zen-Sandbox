@@ -53,6 +53,8 @@ keywords:
   - "compliments"
   - "closing ritual"
 aliases: []
+hide:
+  - toc
 ---
 
 # The Appreciation Seat

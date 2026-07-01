@@ -54,6 +54,8 @@ keywords:
   - "truth over pandering"
 aliases:
   - "The Consent Compass: A Game of Negotiated Realities"
+hide:
+  - toc
 ---
 
 # The Consent Compass

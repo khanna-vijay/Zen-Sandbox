@@ -63,6 +63,8 @@ keywords:
   - "synchronicity"
 aliases:
   - "Conductor-Led Tempo"
+hide:
+  - toc
 ---
 
 # The Tempo Conductor

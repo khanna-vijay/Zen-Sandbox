@@ -52,6 +52,8 @@ keywords:
   - "physical"
   - "icebreaker"
 aliases: []
+hide:
+  - toc
 ---
 
 # Sound Flocks

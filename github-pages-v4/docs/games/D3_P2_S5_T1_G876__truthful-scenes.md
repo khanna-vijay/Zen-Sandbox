@@ -56,6 +56,8 @@ keywords:
   - "grounded"
   - "memories"
 aliases: []
+hide:
+  - toc
 ---
 
 # Truthful Beginnings

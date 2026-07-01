@@ -56,6 +56,8 @@ keywords:
   - "flash-forward"
 aliases:
   - "Time Jump"
+hide:
+  - toc
 ---
 
 # Temporal Tapestry

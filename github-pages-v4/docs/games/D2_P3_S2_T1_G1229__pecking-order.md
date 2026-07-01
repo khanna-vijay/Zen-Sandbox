@@ -51,6 +51,8 @@ keywords:
   - "relationship"
   - "pecking order"
 aliases: []
+hide:
+  - toc
 ---
 
 # Secret Status Scale

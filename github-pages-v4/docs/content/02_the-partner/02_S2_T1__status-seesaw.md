@@ -1,5 +1,7 @@
 ---
 title: Status Seesaw
+hide:
+  - toc
 ---
 
 # 🎯 Status Seesaw

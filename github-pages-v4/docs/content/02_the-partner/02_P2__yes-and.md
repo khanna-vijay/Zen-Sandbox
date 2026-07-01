@@ -1,5 +1,7 @@
 ---
 title: Yes, And
+hide:
+  - toc
 ---
 
 # 💎 Yes, And

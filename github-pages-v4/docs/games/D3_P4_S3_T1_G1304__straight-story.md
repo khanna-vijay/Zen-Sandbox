@@ -50,6 +50,8 @@ keywords:
   - "straight story"
   - "no flashbacks"
 aliases: []
+hide:
+  - toc
 ---
 
 # Straight Story

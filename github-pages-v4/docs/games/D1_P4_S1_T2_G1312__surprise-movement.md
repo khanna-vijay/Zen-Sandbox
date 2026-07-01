@@ -50,6 +50,8 @@ keywords:
   - "discovery"
   - "somatic"
 aliases: []
+hide:
+  - toc
 ---
 
 # Accidental Action

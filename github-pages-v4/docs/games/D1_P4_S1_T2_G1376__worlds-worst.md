@@ -56,6 +56,8 @@ keywords:
   - "rapid-fire"
 aliases:
   - "World's Worst"
+hide:
+  - toc
 ---
 
 # World's Worst

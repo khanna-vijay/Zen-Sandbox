@@ -52,6 +52,8 @@ keywords:
 aliases:
   - "Seven Things"
   - "7 Things"
+hide:
+  - toc
 ---
 
 # Eight Rapid Things
