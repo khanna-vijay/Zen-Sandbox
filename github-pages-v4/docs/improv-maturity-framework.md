@@ -1,4 +1,10 @@
-# 🎭 The Complete Improv Mastery Framework (v3.0)
+---
+hide:
+  - toc
+---
+
+# 🎭 The Complete Improv Mastery Framework 
+*The below content is for Advanced Improv Practitioners*
 
 ---
 
@@ -15,14 +21,15 @@ Every concept lives at the intersection of **three axes**:
 !!! abstract "The Central Thesis (the engine of the system)"
     Mastery is not knowing *more* techniques — it is executing the *same basic techniques* governed by *deeper principles.*
 
-    **You LEARN bottom-up** (Technique → Skill → Principle). **You PERFORM top-down** (Principle → Skill → Technique).
+    **We LEARN bottom-up** (Technique → Skill → Principle). 
+    **We PERFORM top-down** (Principle → Skill → Technique).
 
-### The Layer Definitions (v3 — the "muscle / brain / value" model)
+### The Layer Definitions (the "muscle / brain / value" model)
 - **Technique = the muscle.** A discrete, repeatable, *observable* action you can isolate and drill. *Litmus: Can you watch someone do it?*
 - **Skill = the brain.** The contextual judgment of *which* technique to deploy, *when*, and *how much*. *Litmus: Is it a choice made under pressure?*
 - **Principle = the value.** The belief that defines what "right" even means. *Litmus: Is it unobservable, held only as conviction?*
 
-### The Maturity Stages (v3 — attempt-based floor, observable ceiling)
+### The Maturity Stages (attempt-based floor, observable ceiling)
 | Stage | Universal Definition | Living at Layer |
 |---|---|---|
 | **1. Novice** | Attempts the right behavior *consciously*, but **drops it under cognitive load** | Technique (effortful) |
@@ -36,190 +43,8 @@ Every concept lives at the intersection of **three axes**:
 
 ---
 
-## 🧘 DOMAIN 1 — THE SELF (Intrapersonal)
-*Goal: Freedom from hesitation; complete physical/vocal control; the courage to be truthful and the discipline to be still.*
 
-### Principles (Why)
-| Principle | Core Belief |
-|---|---|
-| **Commit 100%** | There are no mistakes, only choices not yet justified. |
-| **Fail Joyfully** | Relationship to **risk** — fear of failure is the only real block. |
-| **Vulnerability** | Relationship to **truth** — the best work comes from exposing your real perspective and flaws. |
-| **The First Thought Is a Gift** | Trust the impulse before the internal editor censors it. |
-
-### Skills (What) → Techniques (How) that train them
-| Skill (the brain) | Techniques (the muscles) |
-|---|---|
-| **Unfiltered Spontaneity** | Word-association; "First Thought" drills; "Bring a Brick" |
-| **Emotional Fluidity** | The Emotional Dial (1→10); emotional substitution |
-| **Physicality & Space Work** | Character Walks/Centers; object work; weight & resistance mime |
-| **Vocal Craft** | Projection & breath support; vocal characterization; Gibberish |
-| **Silence & Stillness** | "Do nothing" exercises; hold-the-beat reps; status-through-stillness |
-| **Self-Recovery** | "And that's exactly what I meant"; reframe-the-flub reps |
-
-### Maturity Progression
-| Stage | **Spontaneity** | **Emotional Fluidity** | **Silence & Stillness** | **Vocal Craft** |
-|---|---|---|---|---|
-| **1 Novice** | Tries the first thought but the editor wins under pressure | Consciously names an emotion instead of feeling it | Tries to hold a beat but rushes to fill silence | Remembers to project, then drops volume on uncertainty |
-| **2 Adv. Beginner** | Offers first thought reliably in drills | Switches emotion on an external cue | Holds a beat on instruction | Projects on command; one distinct character voice |
-| **3 Competent** | Chooses to bypass the editor under mild scene pressure | Transitions emotion when scene logic calls for it | Decides when a moment needs silence | Matches vocal energy to emotional content |
-| **4 Proficient** | Impulse and action are simultaneous without thought | Layered, genuine emotion arrives unbidden | Lets moments breathe automatically | Voice instantly conveys age/status/state |
-| **5 Master** | No measurable latency between impulse and offer | Feels real emotion *and* modulates it to serve the scene | Weaponizes silence — holds the room with stillness, audible collective focus | Uses the voice as a fully controlled instrument serving the piece |
-
----
-
-## 🤝 DOMAIN 2 — THE PARTNER (Interpersonal)
-*Goal: From "acting with someone" to a "shared mind" — within a container of mutual safety.*
-
-### Principles (Why)
-| Principle | Core Belief |
-|---|---|
-| **Consent & Boundaries** *(taught FIRST)* | Safety is the container Yes-And lives inside. The rule of consent **overrides** the rule of agreement. |
-| **Yes, And** | Accept the offered reality, then add to it. |
-| **Make Your Partner a Genius** | Treat every offer as the best idea in the room. |
-| **Assume Competence** | Trust your partner has a reason; never bail on them. |
-
-### Skills (What) → Techniques (How)
-| Skill (the brain) | Techniques (the muscles) |
-|---|---|
-| **Active Listening** | Meisner Repetition; "Last Word Response" |
-| **Status Modulation** | Status Seesaw; high/low-status walks |
-| **Single-Partner Empathy & Mirroring** *(scoped: ONE partner)* | Mirror exercise; emotional-echo drills |
-| **Offer Reception** | "Yes, And…" sentence games; endowment-acceptance |
-| **Active Gifting** *(the inverse of reception)* | Endowment-gifting drills; "give them the answer" |
-| **Boundary Navigation** | Check-ins; "Cut" calls; negotiating physical contact |
-
-### Maturity Progression
-| Stage | **Active Listening** | **Active Gifting** | **Status Modulation** | **Boundary Navigation** |
-|---|---|---|---|---|
-| **1 Novice** | Tries to listen but load pulls them into planning their line | Tries to endow but gives vague/unusable offers | Status is accidental, unintentional | Aware safety matters but forgets to check in under pressure |
-| **2 Adv. Beginner** | Repeats partner's words accurately in drills | Gives a clear endowment when prompted | Plays assigned high or low status | Uses check-ins and "Cut" in exercises |
-| **3 Competent** | Builds on partner's *specific* offers | Chooses gifts that ease the partner's job | Picks status that fits the relationship | Reads and respects limits while improvising |
-| **4 Proficient** | Hears subtext, not just text | Gifts instinctively to set partner up to shine | Status shifts fluidly to drive the story | Senses comfort levels and adjusts without breaking scene |
-| **5 Master** | Reads partner's breath/micro-expressions to anticipate the offer | Every move makes the partner look brilliant; gifting is invisible | Status play is purposeful and unnoticed | Models safety so fully the ensemble trusts total risk-taking |
-
----
-
-## 🎬 DOMAIN 3 — THE SCENE (Narrative / Construct)
-*Goal: Architect compelling scenes in real time — using **both engines of improv** and knowing which one the scene wants.*
-
-> **The two engines (the v3 paradigm fix):**
-> - **GAME engine** (Close/UCB/iO): comedy from *pattern* — find the unusual, heighten it.
-> - **NARRATIVE engine** (Johnstone/Loose Moose): meaning from *story* — characters change, events have consequences.
-> The master-level meta-skill is **knowing which engine the scene is asking for.**
-
-### Principles (Why)
-| Principle | Core Belief |
-|---|---|
-| **Show, Don't Tell** | Play the reality; never narrate what can be lived. |
-| **Base Reality First** | Establish the normal world before the unusual element. |
-| **Start in the Middle** | Enter *in media res*; skip exposition. |
-| **Serve the Story** *(Narrative engine)* | Characters must change; events must have consequences. |
-
-### Skills (What) → Techniques (How)
-| Skill (the brain) | Techniques (the muscles) |
-|---|---|
-| **Game Identification** *(Game engine)* | Finding & Playing the Game; "If this is true, what else is true?" |
-| **Heightening & Exploration** *(Game engine — intensifies the PATTERN)* | The "ladder" (escalating beats); exploring the "why" |
-| **Narrative Architecture** *(Narrative engine)* | Story Spine; Platform/Tilt; Protagonist/Antagonist ID |
-| **Stakes / The "Want"** *(scoped: WHY we care — distinct from CROW's "O" setup move and from "Raising the Stakes" technique)* | "What do they stand to lose?" reps; objective-laddering |
-| **World-Building** | C.R.O.W. (Character, Relationship, Objective, Where); endowment chains |
-| **Justification** *(sole home — removed from Self)* | "Justify the absurd"; reincorporation-as-justification |
-| **Raising the Stakes** *(Narrative engine — intensifies CONSEQUENCES, not pattern)* | Stakes-escalation reps; "make it matter more" beats |
-
-> **The critical v3 distinction:** *Heightening the Game* (the pattern gets more extreme) ≠ *Raising the Stakes* (the consequences get more dire). A game-biased framework conflates these; v3 keeps them separate and assigns each to its engine.
-
-### Maturity Progression
-| Stage | **Game Identification** | **Narrative Architecture** | **Stakes / The "Want"** | **Engine Selection** *(meta)* |
-|---|---|---|---|---|
-| **1 Novice** | Tries to spot the unusual thing but misses it live | Tries to tell a story but it wanders / no change | Plays activities with no reason to care | Doesn't yet know two engines exist |
-| **2 Adv. Beginner** | Names the game *after* the scene | Hits Story-Spine beats when prompted | States a "Want" when reminded | Recognizes "this is a game scene" vs. "story scene" in review |
-| **3 Competent** | Identifies the game during the scene | Builds Platform then Tilts deliberately | Establishes what's at risk for the character | Chooses an engine consciously at scene start |
-| **4 Proficient** | Frames the game with the first unusual line | Story arc and character change feel inevitable | Stakes are felt, not stated; they fuel the scene | Switches engines mid-scene as the scene demands |
-| **5 Master** | Finds, plays, *and intentionally breaks* the game | Architects a full arc with consequence and change in real time | Makes the audience genuinely care about absurd people | Reads what the scene needs and serves it invisibly — game *or* story, never forced |
-
----
-
-## 👥 DOMAIN 4 — THE ENSEMBLE (Group / Format)
-*Goal: Surrender ego to the piece; perceive, support, generate, and weave — without pre-planning.*
-
-### Principles (Why)
-| Principle | Core Belief |
-|---|---|
-| **Group Mind** | The team's collective intelligence exceeds any individual. |
-| **Follow the Follower** | When someone makes a strong choice, the whole team commits. |
-| **Serve the Piece** | Choose what the *show* needs, not what *you* want to do. |
-
-### Skills (What) → Techniques (How)
-| Skill (the brain) | Techniques (the muscles) |
-|---|---|
-| **Peripheral Awareness** *(scoped: PERCEPTION / input — multi-person spatial + thread tracking)* | Stage-picture exercises; thread-tracking drills |
-| **Support Work** *(scoped: CONTRIBUTION / output — entering to give, not take)* | Walk-ons; Tap-ins; playing architecture/objects |
-| **Suggestion Deconstruction (A-to-C)** | A-to-C drills; premise brainstorm rounds; "what's interesting about this?" mining |
-| **Pacing & Rhythm** | Edits (Sweep, Tag-Out, Sound/Light); timing exercises |
-| **Thematic Synthesis** | Callbacks & Mapping; "weave the threads" |
-| **Format Literacy** | Harold; Armando; Montage; longform vs. shortform mechanics |
-
-> **The Peripheral Awareness / Support Work split (v3 MECE fix):** Peripheral Awareness is the skill of *perceiving* (input). Support Work is the skill of *contributing off-focus* (output). Walk-ons/Tap-ins are the techniques that execute Support Work.
-
-### Maturity Progression
-| Stage | **Peripheral Awareness** | **Support Work** | **Suggestion Deconstruction** | **Pacing & Rhythm** |
-|---|---|---|---|---|
-| **1 Novice** | Tries to track the stage but tunnel-visions on own scene | Wants to help but enters to grab focus / steal | Plays the first, most obvious association | Tries to edit but lets scenes run long, misses the exit |
-| **2 Adv. Beginner** | Notices when the stage is crowded | Executes a clean walk-on/tap-in on instruction | Generates several associations in a brainstorm | Performs a Sweep/Tag-Out on cue |
-| **3 Competent** | Tracks all active threads | Chooses to enter only when a scene needs something | Selects the non-obvious ("C") premise | Edits *at the right moment* |
-| **4 Proficient** | Anticipates where teammates will go | Supports invisibly; gives exactly what's missing then exits | Mines a suggestion for its richest, most playable angle | Pacing breathes — energy, silence, ending |
-| **5 Master** | Sees the entire show as one organism | Off-focus support elevates others; ego fully surrendered | Turns any word into a premise the whole team can run | Edits the audience never consciously notices — arrives on the exact peak |
-
----
-
-## 🎟️ DOMAIN 5 — THE AUDIENCE (Performance)
-*Goal: Honor the performer–audience contract; read, ride, and unify the room — without pandering.*
-
-### Principles (Why)
-| Principle | Core Belief |
-|---|---|
-| **The Audience Is the Final Scene Partner** | Their energy is information — ignore it and the show dies; chase it and you sell out. |
-| **Play for the Back Row** | Generosity of energy, clarity, stakes — never private in-jokes. |
-| **Truth Over Pandering** | Earn the laugh by playing honestly, not by begging. |
-
-### Skills (What) → Techniques (How)
-| Skill (the brain) | Techniques (the muscles) |
-|---|---|
-| **Room Reading** | Energy-calibration; reading the suggestion's intent |
-| **Audience-Energy Management** | Tag-running (riding a laugh wave); landing/cushioning a beat; **Breaking the 4th Wall / Direct Address** |
-| **Stage Presence & Clarity** | Cheating out; projection; "make the choice readable" |
-
-### Maturity Progression
-| Stage | **Room Reading** | **Audience-Energy Management** | **Stage Presence & Clarity** |
-|---|---|---|---|
-| **1 Novice** | Tries to gauge the room but panics or panders under pressure | Talks over laughs, killing momentum | Remembers to cheat out, then turns away under load |
-| **2 Adv. Beginner** | Notices when the room is "with" them | Pauses for laughs mechanically; tries direct address on cue | Cheats out and projects when reminded |
-| **3 Competent** | Reads the room's general temperature | Rides a laugh then re-engages; chooses *when* to break the 4th wall | Choices read clearly to the back row |
-| **4 Proficient** | Adjusts tone to the specific crowd without pandering | Surfs energy waves to build a set; uses direct address as a deliberate lever | Commanding, generous presence |
-| **5 Master** | **Unifies the room** — converts a fragmented audience into one organism breathing together (observable: synchronized collective laughter/gasp timing) | Conducts audience energy like an instrument; knows precisely when to include vs. play behind the proscenium | Owns the space effortlessly and honestly |
-
----
-
-## 🗺️ Deployment: Building the Syllabus from the Matrix
-
-### The diagonal teaching path
-Sequence the curriculum **by Stage across all Domains** — not by completing one domain before the next. A student should touch every domain at each stage, climbing the Layer axis as they go.
-
-| Level | Stage Focus | Layer Focus | Representative Content |
-|---|---|---|---|
-| **101** | Novice | Technique | **Consent & Boundaries (taught first)**, Yes-And drills, character walks, basic listening |
-| **201** | Adv. Beginner | Technique (fluent) | CROW, finding the game, Story Spine basics, clean walk-ons, Sweep/Tag-Out |
-| **301** | Competent | Technique → Skill | Engine selection, heightening vs. raising stakes, status, A-to-C, edits-on-time |
-| **401** | Proficient | Skill | Group mind, thematic synthesis, narrative architecture, format literacy, room reading |
-| **501** | Master | Principle | Serve the piece/story, invisible technique, audience as co-author, full longform |
-
-### Built-in assessment rubric
-Because every cell now describes **stage-specific observable behavior** — with an *attempt-based floor* (Novice = "tries X, drops it under load") and an *observable ceiling* (Master = measurable behavior, no magical thinking) — **the maturity tables ARE your grading rubric.** To assess a student on any skill, identify which row's behavior they consistently exhibit.
-
----
-
-## 🛡️ The Safety & Consent Container: A Practical Manual for Boundary Navigation and Spontaneous Interaction
+## 🛡️ Domain 0 — Safety & Consent Container
 
 ### 1. Introduction: The Strategic Imperative of Layer 0
 
@@ -300,13 +125,14 @@ Boundary Navigation is the ultimate skill for the modern professional. By master
 
 ---
 
-## 🧘 Intrapersonal Mastery: The Mechanics of the Self as a Controllable Instrument
 
-### 1. Strategic Introduction: The Architecture of the Internal Instrument
+## 🧘 Domain 1 - The Self : Intrapersonal Mastery - The Mechanics of the Self as a Controllable Instrument
+
+#### 1. Strategic Introduction: The Architecture of the Internal Instrument
 
 Mastering "The Self" is the non-negotiable prerequisite for high-value performance. To operate as a proactive creator rather than a reactive observer, you must treat your internal mechanics—impulse, emotional fluidity, and physical presence—as a precisely calibrated, controllable instrument. This mastery requires a radical "un-learning." As documented in the Johnstone lineage, traditional education is a destructive process designed to suppress spontaneity in favor of a "grey and sad" adulthood. This systemic inhibition prioritizes an "internal editor" that filters every thought to avoid social friction. To reclaim your visionary intensity, you must systematically dismantle the intellectualism that views creativity as a series of "correct" choices. You are not a student looking for an answer; you are a malleable catalyst for action.
 
-### 2. Core Principles: The Psychological Framework for Spontaneity
+#### 2. Core Principles: The Psychological Framework for Spontaneity
 
 The primary barrier to peak performance is the psychological friction of self-judgment. You must establish a "Failure-Positive" mindset to bridge the gap between hesitation and flow. By removing the perceived threat of the "mistake," the instrument is freed to produce creative output impossible under the regime of perfectionism.
 
@@ -319,7 +145,7 @@ The primary barrier to peak performance is the psychological friction of self-ju
 
 The Strategic "So What?": Failing Joyfully is your primary defense against the "fear of being ordinary." Intellectualism often serves as a mask for this fear; when you stop trying to be "original" and embrace the obvious, you paradoxically become unique. Mastery of these principles allows the instrument to function without the debilitating drag of self-consciousness.
 
-### 3. Cognitive Fluidity: Drills for Unfiltered Spontaneity
+#### 3. Cognitive Fluidity: Drills for Unfiltered Spontaneity
 
 To achieve a state of flow, you must practice bypassing the internal editor through rigorous cognitive disruption.
 
@@ -327,7 +153,7 @@ To achieve a state of flow, you must practice bypassing the internal editor thro
 * The Inversion Habit: Practice the internal reversal of every phrase. When presented with an assertion—social, professional, or pedagogical—silently explore the absolute opposite. This habit is a tool to escape "standard social norms" and the "convenience" of predictable thought. It reveals the full gamut of possibilities hidden by the "polite" intellect.
 * Word-Association Reps: Force an immediate vocal response to any stimulus without the intervention of logic. Trust the intuitive leap over the calculated answer to train the instrument in unfiltered transmission.
 
-### 4. Physicality and Space Work: Commanding the Void
+#### 4. Physicality and Space Work: Commanding the Void
 
 High-level presence is a physical achievement. You must command the space through "Object Work"—the ability to build a complex imaginary reality through total physical commitment.
 
@@ -335,21 +161,21 @@ High-level presence is a physical achievement. You must command the space throug
 * The "Bring a Brick" Mechanic: Build a scene or a presence by physically committing to a single, simple action—like placing a brick. You must refuse to explain the action. The non-verbal commitment to the physical reality of the "imaginary" object creates a truth more convincing than any verbal argument.
 * Physical Centers: Side-coach yourself to shift your "center" of movement—lead with the chin, the chest, or the knees. Each shift fundamentally alters the internal status of the instrument and the audience’s perception of your authority.
 
-### 5. Emotional Fluidity: The Internal Dial and Substitution
+#### 5. Emotional Fluidity: The Internal Dial and Substitution
 
 Strategic emotional fluidity prevents "stagnation" and "blocking." You must be able to shift internal states rapidly and authentically without waiting for external triggers.
 
 * The Emotional Dial (1→10): Practice intensifying a single emotion—joy, fear, or anger—through incremental physical and internal adjustments. Treat the emotion as a volume knob. Moving from a "1" (a trace) to a "10" (total saturation) teaches you that emotion is a controllable variable rather than an involuntary reaction.
 * Emotional Substitution: Anchor your performance in "past internal truths" to fuel current authenticity. Specifically, utilize the feeling of being "thwarted" or the "hostility of objects" (e.g., a door that won't open, a pen that won't write) from childhood memories. These specific triggers provide the "impotence" or "intensity" required to fuel high-stakes professional presence.
 
-### 6. Vocal Craft and Silence: The Auditory Instrument
+#### 6. Vocal Craft and Silence: The Auditory Instrument
 
 Vocal craft and the strategic use of silence are your most potent tools for commanding attention and shifting status.
 
 * Jerigonza (Gibberish) Transactions: Practice status transactions using Gibberish rather than language. By removing the "crutch" of literal meaning, you force the instrument to rely on breath, tone, and intention. This proves that what is said is secondary to how it is represented. If you can command a room in Jerigonza, your vocal characterization is truly mastered.
 * Silence and Stillness Reps: Silence is a high-status tool that creates a vacuum. Practice "holding the beat" or "doing nothing" in high-stakes moments. This forces the environment and other participants to react to you, effectively reclaiming power through the refusal to fill the void with "social" noise.
 
-### 7. Self-Recovery and the "Satori" of Failure
+#### 7. Self-Recovery and the "Satori" of Failure
 
 The ultimate test of the intrapersonal instrument is the ability to reclaim presence immediately after an error. This is an aggressive reclamation of power.
 
@@ -358,7 +184,7 @@ The ultimate test of the intrapersonal instrument is the ability to reclaim pres
 
 The Strategic "So What?": The practice of joyful failure is your ultimate competitive advantage. In high-stakes, unpredictable environments, the individual who can fail without losing presence is the only one capable of real-time innovation.
 
-### 8. Conclusion: The Unified Controllable Instrument
+#### 8. Conclusion: The Unified Controllable Instrument
 
 The "Self" is the only professional asset entirely within your control. By systematically resisting the intellectualism and inhibition imposed by social structures, you transition from being "frozen" to being "visionary." This is the lifelong practice of the intrapersonal instrument: cognitive fluidity, physical command, and emotional agility unified into a single, proactive force. To operate at the peak of human capability, you must remain a malleable catalyst, recreating every instant as if for the first time.
 
@@ -367,17 +193,49 @@ Be fully present and unfiltered; only then can you command the reality of the pe
 
 ---
 
-## 🤝 The Interpersonal Flow: A Masterclass in Partner Attunement and Status Modulation
+*Goal: Freedom from hesitation; complete physical/vocal control; the courage to be truthful and the discipline to be still.*
 
-### 1. Introduction: The Strategic Value of "The Partner"
+#### Principles (Why)
+| Principle | Core Belief |
+|---|---|
+| **Commit 100%** | There are no mistakes, only choices not yet justified. |
+| **Fail Joyfully** | Relationship to **risk** — fear of failure is the only real block. |
+| **Vulnerability** | Relationship to **truth** — the best work comes from exposing your real perspective and flaws. |
+| **The First Thought Is a Gift** | Trust the impulse before the internal editor censors it. |
+
+#### Skills (What) → Techniques (How) that train them
+| Skill (the brain) | Techniques (the muscles) |
+|---|---|
+| **Unfiltered Spontaneity** | Word-association; "First Thought" drills; "Bring a Brick" |
+| **Emotional Fluidity** | The Emotional Dial (1→10); emotional substitution |
+| **Physicality & Space Work** | Character Walks/Centers; object work; weight & resistance mime |
+| **Vocal Craft** | Projection & breath support; vocal characterization; Gibberish |
+| **Silence & Stillness** | "Do nothing" exercises; hold-the-beat reps; status-through-stillness |
+| **Self-Recovery** | "And that's exactly what I meant"; reframe-the-flub reps |
+
+#### Maturity Progression
+| Stage | **Spontaneity** | **Emotional Fluidity** | **Silence & Stillness** | **Vocal Craft** |
+|---|---|---|---|---|
+| **1 Novice** | Tries the first thought but the editor wins under pressure | Consciously names an emotion instead of feeling it | Tries to hold a beat but rushes to fill silence | Remembers to project, then drops volume on uncertainty |
+| **2 Adv. Beginner** | Offers first thought reliably in drills | Switches emotion on an external cue | Holds a beat on instruction | Projects on command; one distinct character voice |
+| **3 Competent** | Chooses to bypass the editor under mild scene pressure | Transitions emotion when scene logic calls for it | Decides when a moment needs silence | Matches vocal energy to emotional content |
+| **4 Proficient** | Impulse and action are simultaneous without thought | Layered, genuine emotion arrives unbidden | Lets moments breathe automatically | Voice instantly conveys age/status/state |
+| **5 Master** | No measurable latency between impulse and offer | Feels real emotion *and* modulates it to serve the scene | Weaponizes silence — holds the room with stillness, audible collective focus | Uses the voice as a fully controlled instrument serving the piece |
+
+---
+
+
+## 🤝 Domain 2 - The Partner : The Interpersonal Flow - A Masterclass in Partner Attunement and Status Modulation
+
+#### 1. Introduction: The Strategic Value of "The Partner"
 
 In the crucible of high-stakes interaction, we do not aim for individual brilliance; we aim for the "Interpersonal." This is the deliberate, two-way flow of receiving, gifting, and attuning between two bodies in space. To master these mechanics is to move beyond isolated performance—where the ego is trapped in its own loops—and enter a state of co-creative "flow." By prioritizing the partner’s signals over a prepared agenda, we bypass the "negating intellect" and activate the "unconscious friend," as described by Keith Johnstone. This shift provides immense psychological relief: when you are no longer responsible for carrying the interaction alone, you move from a state of self-conscious friction to a state of collective intelligence. The "So What?" is clear: by dissolving the individual ego into the duo, we exponentially enhance the quality and efficiency of collaborative output. We stop trying to be "interesting" and start being "present."
 
-### 2. Foundational Principles: The Ethics of the Duo
+#### 2. Foundational Principles: The Ethics of the Duo
 
 The psychological bedrock of any successful interpersonal exchange rests on a set of ethics designed to maximize spontaneity and trust. These principles—"Yes, And," "Make Your Partner a Genius," and "Assume Competence"—are the operational gears that allow a duo to function as a single, highly-responsive organism. When we deploy these, we are not just being "nice"; we are creating a framework where the fear of failure is strategically eliminated.
 
-#### Principles of Interpersonal Excellence
+##### Principles of Interpersonal Excellence
 
 | Principle | Operational Impact |
 |---|---|
@@ -387,24 +245,24 @@ The psychological bedrock of any successful interpersonal exchange rests on a se
 
 These internal ethics provide the necessary safety to engage in the more complex, external mechanics of status modulation.
 
-### 3. The Mechanics of Status: The "Seesaw" Effect
+#### 3. The Mechanics of Status: The "Seesaw" Effect
 
 Status is not a static trait or a reflection of your job title; it is a fluid, modulated transaction. Johnstone famously described this as El Balancín (The Seesaw). In any interaction, status is constantly shifting: as one person moves "up," the other moves "down" to maintain the balance. To keep a scene or a meeting "authentic," practitioners must maintain a "minimum gap" between their status levels. If the gap becomes too wide, the interaction loses its human connection; if it is mastered, it becomes the primary tool for creating psychological safety. A leader who knows how to "go low" at the right moment—perhaps by using a vocal filler or a submissive posture—creates the necessary space for an entry-level contributor to "go high" and offer a genius insight.
 
-#### The Physicality of Status Modulation
+##### The Physicality of Status Modulation
 
 * The Still Head: A primary marker of high status. Keeping the head perfectly still while speaking conveys absolute calm and authority. Conversely, nodding or "bamboleo" (head-swinging) signals a lower status, as it often suggests a search for approval.
 * Eye Contact: This functions as a tool for dominance or submission. Sustained, unblinking eye contact establishes a high-status position, whereas breaking contact or looking away prematurely signals a lower, more submissive status.
 * The "Eh" Sound: The length of this vocal filler changes the transaction. A short "eh" at the start of a sentence is a status-lowering invitation for the partner to interrupt. A long, sustained "eeeeh" is often used to hold the floor, signaling that you are not yet ready to relinquish status.
 * Toeing-In: A subtle physical marker where the toes are pointed slightly inward. This lowers status by shrinking the individual’s footprint and signaling an internal lack of certainty.
 
-### 4. Offer Reception and Gifting: The Economy of Endowment
+#### 4. Offer Reception and Gifting: The Economy of Endowment
 
 At the heart of attunement is the concept of "Active Gifting." We must view every behavior, gesture, or emotion from our partner as an "Offer"—a gift to be utilized rather than a hurdle to be cleared. Mastery involves the "Economy of Endowment," a technique where you define your partner’s role or characteristics to give them immediate purpose.
 
 By "giving them the answer"—for instance, stating, "You look like you have the solution to this merger"—you are essentially offloading their cognitive load. You provide the foundation for their status, making it easy for them to appear "Genius" without the strain of self-definition. This is supported by the use of "Emotional-Echoes." By mirroring or echoing a partner’s emotional state, you validate their reality. This validation builds instant rapport and signals that you are attuned to the shared space, reinforcing the "Yes, And" at an emotional level.
 
-### 5. Tactical Laboratory: Games and Drills for Partner Attunement
+#### 5. Tactical Laboratory: Games and Drills for Partner Attunement
 
 These exercises are designed to bypass the self-conscious intellect and train the body to respond instinctively. By focusing on a "Point of Concentration" (POC)—a concept pioneered by Viola Spolin—we direct our attention toward an external reality, effectively silencing the internal critic.
 
@@ -424,19 +282,203 @@ These exercises are designed to bypass the self-conscious intellect and train th
   * The Mechanics: Walking through a space while maintaining physical markers like a "still head" or "toeing-in."
   * The Objective: Translates internal status concepts into actionable external movement and physical presence.
 
-### 6. Synthesis: From Technique to Instinct
+#### 6. Synthesis: From Technique to Instinct
 
 The transition from neophyte to expert occurs when these mechanics become invisible. In the hands of a master, status modulation and offer reception are no longer calculated "moves"; they are the natural extensions of an attuned professional presence. When we allow the "two-way flow" to dominate, we create an environment where collective intelligence replaces individual ego. We move from a state of "trying" to a state of "being." The ultimate interpersonal success is found not in your own performance, but in the unwavering decision to assume your partner's competence and make them a genius.
 
 
 ---
-## 👥 The Ensemble Blueprint: Mechanics of the Collaborative Organism
 
-### 1. Foundations of the Ensemble Mindset
+
+*Goal: From "acting with someone" to a "shared mind" — within a container of mutual safety.*
+
+#### Principles (Why)
+| Principle | Core Belief |
+|---|---|
+| **Consent & Boundaries** *(taught FIRST)* | Safety is the container Yes-And lives inside. The rule of consent **overrides** the rule of agreement. |
+| **Yes, And** | Accept the offered reality, then add to it. |
+| **Make Your Partner a Genius** | Treat every offer as the best idea in the room. |
+| **Assume Competence** | Trust your partner has a reason; never bail on them. |
+
+#### Skills (What) → Techniques (How)
+| Skill (the brain) | Techniques (the muscles) |
+|---|---|
+| **Active Listening** | Meisner Repetition; "Last Word Response" |
+| **Status Modulation** | Status Seesaw; high/low-status walks |
+| **Single-Partner Empathy & Mirroring** *(scoped: ONE partner)* | Mirror exercise; emotional-echo drills |
+| **Offer Reception** | "Yes, And…" sentence games; endowment-acceptance |
+| **Active Gifting** *(the inverse of reception)* | Endowment-gifting drills; "give them the answer" |
+| **Boundary Navigation** | Check-ins; "Cut" calls; negotiating physical contact |
+
+#### Maturity Progression
+| Stage | **Active Listening** | **Active Gifting** | **Status Modulation** | **Boundary Navigation** |
+|---|---|---|---|---|
+| **1 Novice** | Tries to listen but load pulls them into planning their line | Tries to endow but gives vague/unusable offers | Status is accidental, unintentional | Aware safety matters but forgets to check in under pressure |
+| **2 Adv. Beginner** | Repeats partner's words accurately in drills | Gives a clear endowment when prompted | Plays assigned high or low status | Uses check-ins and "Cut" in exercises |
+| **3 Competent** | Builds on partner's *specific* offers | Chooses gifts that ease the partner's job | Picks status that fits the relationship | Reads and respects limits while improvising |
+| **4 Proficient** | Hears subtext, not just text | Gifts instinctively to set partner up to shine | Status shifts fluidly to drive the story | Senses comfort levels and adjusts without breaking scene |
+| **5 Master** | Reads partner's breath/micro-expressions to anticipate the offer | Every move makes the partner look brilliant; gifting is invisible | Status play is purposeful and unnoticed | Models safety so fully the ensemble trusts total risk-taking |
+
+---
+
+
+## 🎬 Domain 3 - The Scene : Architecting the Scene - A Master Manual of Improvisational Engines
+
+#### 1. The Architectural Framework: Introduction to Real-Time Construct
+
+A professional improvisational scene is not a product of wit, but an achievement of structural engineering built upon a solidified Base Reality. The primary antagonist of a scene is the Negative Intellect—that internal critic identified by Keith Johnstone that fears judgment and forces performers into "polite talk" or stalling maneuvers to avoid psychological exposure (Source 8). To bypass this intellect and achieve a moment of Satori—a state of sudden, spontaneous illumination where the unconscious takes over (Source 4)—the architect must engage one of two primary engines: a repeating pattern of behavior (The Game) or a progression of irreversible consequences (The Narrative).
+
+The Dual-Engine Philosophy posits that engine selection is the mechanism of longevity. The Game Engine utilizes "If true, what else is true?" logic to escalate absurdity, while the Narrative Engine focuses on "The Tilt"—the event that forces a permanent change in the characters' world (Source 5). Mastery of these engines prevents the scene from "circling," a state of mechanical failure where characters merely describe the world rather than inhabit it. By selecting an engine, the performer moves from a state of fearful hesitation to one of mechanical inevitability.
+
+This architecture requires a foundation where every object and relationship serves as a radar for potential dramatic energy.
+
+#### 2. Phase I: [FOUNDATION] – Constructing the Static Reality
+
+Before the engine can rev, the performer must construct a Base Reality. This is not a suggestion; it is the containment vessel for escalating pressure. Establishing Character, Relationship, Objective, and Where (C.R.O.W.) provides the structural integrity required to survive a "Tilt." Without a grounded foundation, the scene remains a "ghost," lacking the weight necessary for the audience to invest in its eventual destruction.
+
+The C.R.O.W. Protocol
+
+The following protocol utilizes the "Smith/Boss" and "Master/Servant" dynamics to ensure immediate psychological grounding (Source 35, 49).
+
+| Element | Description | Endowment Chain Prompts |
+|---|---|---|
+| Character | The internal status and physicalization of authority. | 1. "Keep your head perfectly still while speaking (Cabeza quieta) to project tragic authority" (Source 42). <br>2. "Endow your hands with the weight of a surgeon’s tools." <br>3. "Identify as a 'Servant' who is secretly the intellectual superior of the room." |
+| Relationship | The Balancín (Seesaw) transaction between players (Source 32). | 1. "You are Smith attempting to 'reconsider' a termination with a Boss" (Source 49). <br>2. "You are an apprentice who knows the Master’s darkest secret." <br>3. "You are a 'Señor' whose status is being subtly eroded by a Vagabundo" (Source 35). |
+| Objective | The "Want" that necessitates a status transaction. | 1. "I must force the other person to look away first to signal submission" (Source 41). <br>2. "I must raise my status by demonstrating cultural superiority" (Source 36). <br>3. "I must lower my status to escape a dangerous responsibility." |
+| Where | The physical environment treated as a "radar for danger" (Source 47). | 1. "The Wrong Room: Enter a space and immediately justify why your presence there is a mistake" (Source 46). <br>2. "The environment contains an object that could destroy your reputation." <br>3. "The space is a high-status vacuum that requires formal rigidity." |
+
+##### Game Mechanic: "Start in the Middle"
+
+Starting in the middle bypasses the Negative Intellect’s desire to "introduce" the scene. Performers are commanded to begin mid-action or mid-argument. This forces immediate Justification—the brain cannot plan a polite entrance and is instead forced to reconcile the physical reality of the moment. It transforms the actor from a creator into a detective, searching for the logic of their own spontaneous movements.
+
+##### Game Mechanic: "Justify the Absurd"
+
+Drawing on Johnstone’s principle of "reincorporation-as-justification," this drill treats accidents as gifts.
+
+1. The Accident: A performer makes a physical "mistake" (e.g., a stutter, a trip, or an accidental high-status gaze).
+2. The Recognition: The performer acknowledges the "Tilt" (Source 5) rather than ignoring it.
+3. The Justification: The mistake is defined as a deliberate character trait. (e.g., "I stutter only when I am lying to my superior.")
+4. The Integration: This trait is now a permanent pillar of the scene’s architecture.
+
+Once the foundation is unshakeable, the performer looks for the pattern that signals the shift from static reality to the Game Engine.
+
+#### 3. Phase II: [GAME-ENGINE] – Exploiting Pattern and Comedy
+
+The Game Engine is a repeating, escalating pattern of behavior. Its strategic value lies in the "If true, what else is true?" logic, which creates a rhythmic inevitability that generates comedy and high audience engagement.
+
+##### The "Status Balancín" (The Seesaw)
+
+Status is not a personality trait; it is a transaction (Source 32). In a Game Engine, the comedy often comes from the friction of this transaction.
+
+* The Mechanics of Authority: To play high status, a performer must employ the Cabeza quieta (Still Head) technique (Source 42). Moving the head while speaking signals a lack of control; a still head signals the "Heroic" or "Tragic" status of an officer or master.
+* The Eye Contact Logic: Status is won or lost in the gaze. Looking away first signals Status-Resistance—an attempt to lower one's own status or a failure to maintain dominance (Source 41).
+* The Smith/Boss Drill: Using the dialogue from Source 49, players must attempt to raise or lower their status using only physical shifts. When Smith asks to "reconsider," he is attempting to push the "Seesaw" up; the Boss must use a "Still Head" and direct eye contact to flatten that resistance.
+
+##### Game Mechanic: "The Ladder of Heightening"
+
+This drill identifies one "odd" behavior and heightens it across three levels of intensity.
+
+* Level 1 (The Seed): A character makes a minor claim (e.g., "I own this sidewalk").
+* Level 2 (The Step): The claim heightens (e.g., "I own the air above this sidewalk").
+* Level 3 (The Peak): The claim becomes absolute (e.g., "I am the gravity that keeps you on this sidewalk"). This keeps the scene focused on a single pattern, preventing the "chaos of originality" that the Negative Intellect often attempts to substitute for true reincorporation.
+
+#### 4. Phase III: [NARRATIVE-ENGINE] – Driving Story and Meaning
+
+The Narrative Engine drives the scene toward a "So What?" It moves beyond the repetitive loop of a Game to "Raise the Stakes," resulting in emotional depth and a permanent shift in the characters' universe.
+
+##### The Story Spine & Objective-Laddering
+
+The Narrative Architecture follows a strict progression:
+
+1. Once upon a time... (Foundation).
+2. Every day... (The Status Quo).
+3. But one day... (The Tilt - Source 5).
+4. Because of that... (Consequences).
+5. Until finally... (The Climax/Destruction).
+6. And ever since then... (The New Status Quo - Source 39).
+
+Exercise: Objective-Laddering Characters must escalate their "Want" against the "Tilt." If a character wants a seat on a bus and is refused, they must not repeat the request. They must escalate the psychological stakes until the situation reaches a level of Tragedy—where a character of high status is "destroyed" or "sacrificed" to fulfill the story’s requirement for a permanent change (Source 39).
+
+##### Game Mechanic: "Protag/Antag Identification"
+
+Performers must identify who is the Driver (the one seeking change) and who is the Obstacle. Clearly defined roles prevent scenes from "stalling" in a cycle of mutual agreement. A narrative only revs when one character is willing to "destroy" the other's status to achieve an objective.
+
+#### 5. Phase IV: [ENGINE-SELECT] – Meta-Judgment and Synthesis
+
+Expertise lies in the Meta-judgment of knowing which engine to fuel. If a scene feels "Neutral," the engine has died. According to Johnstone, there is no possibility of being neutral; every "Good morning" is a status move (Source 36).
+
+Technique: "Find/Play the Game" vs. "Serve the Story"
+
+| Signs the Scene wants a Game Engine | Signs the Scene wants a Narrative Engine |
+|---|---|
+| Absurd patterns or verbal tics cause laughter. | A character experiences a genuine emotional "Tilt." |
+| Transactions are rhythmic/repetitive. | There is a permanent change in relationship. |
+| The status is a "Seesaw" loop. | The consequences of a choice feel "dire." |
+| Warning: If the scene feels "Neutral," it is stalling. Pick a status and drive a Game or Narrative immediately (Source 36). | Warning: Avoid "originality." Reincorporate a previous element to find the story's end (Source 8). |
+
+##### The "Meta-Judgment" Drill
+
+A coach shouts "SWITCH ENGINE" mid-scene.
+
+* Game to Narrative: Performers must take a repetitive pattern (e.g., a character who repeats everything their boss says) and introduce a consequence (the boss realizes the character is mocking them and fires them—a permanent relationship change).
+* Narrative to Game: Performers take a high-stakes moment and find a repeating behavioral pattern within it, shifting the focus from the "What happens next?" to the "How is this happening?"
+
+##### Final Summary: Mastering the Scene
+
+1. Status is a Transaction, Not a Trait: Every interaction is a movement on the "Balancín." You are either pushing the seesaw up or pulling it down; neutrality is a failure of the intellect (Source 32, 36).
+2. Reincorporation over Originality: The Negative Intellect tries to be "creative." The Architect simply looks back and reincorporates what has already happened to achieve "Satori" (Source 8).
+3. The Tilt Dictates the Engine: Once the foundation is "Tilted" by an absurdity or a conflict, you must choose: escalate the pattern (Game) or escalate the consequences (Narrative).
+
+---
+
+
+*Goal: Architect compelling scenes in real time — using **both engines of improv** and knowing which one the scene wants.*
+
+> **The two engines (the v3 paradigm fix):**
+> - **GAME engine** (Close/UCB/iO): comedy from *pattern* — find the unusual, heighten it.
+> - **NARRATIVE engine** (Johnstone/Loose Moose): meaning from *story* — characters change, events have consequences.
+> The master-level meta-skill is **knowing which engine the scene is asking for.**
+
+#### Principles (Why)
+| Principle | Core Belief |
+|---|---|
+| **Show, Don't Tell** | Play the reality; never narrate what can be lived. |
+| **Base Reality First** | Establish the normal world before the unusual element. |
+| **Start in the Middle** | Enter *in media res*; skip exposition. |
+| **Serve the Story** *(Narrative engine)* | Characters must change; events must have consequences. |
+
+#### Skills (What) → Techniques (How)
+| Skill (the brain) | Techniques (the muscles) |
+|---|---|
+| **Game Identification** *(Game engine)* | Finding & Playing the Game; "If this is true, what else is true?" |
+| **Heightening & Exploration** *(Game engine — intensifies the PATTERN)* | The "ladder" (escalating beats); exploring the "why" |
+| **Narrative Architecture** *(Narrative engine)* | Story Spine; Platform/Tilt; Protagonist/Antagonist ID |
+| **Stakes / The "Want"** *(scoped: WHY we care — distinct from CROW's "O" setup move and from "Raising the Stakes" technique)* | "What do they stand to lose?" reps; objective-laddering |
+| **World-Building** | C.R.O.W. (Character, Relationship, Objective, Where); endowment chains |
+| **Justification** *(sole home — removed from Self)* | "Justify the absurd"; reincorporation-as-justification |
+| **Raising the Stakes** *(Narrative engine — intensifies CONSEQUENCES, not pattern)* | Stakes-escalation reps; "make it matter more" beats |
+
+> **The critical v3 distinction:** *Heightening the Game* (the pattern gets more extreme) ≠ *Raising the Stakes* (the consequences get more dire). A game-biased framework conflates these; v3 keeps them separate and assigns each to its engine.
+
+#### Maturity Progression
+| Stage | **Game Identification** | **Narrative Architecture** | **Stakes / The "Want"** | **Engine Selection** *(meta)* |
+|---|---|---|---|---|
+| **1 Novice** | Tries to spot the unusual thing but misses it live | Tries to tell a story but it wanders / no change | Plays activities with no reason to care | Doesn't yet know two engines exist |
+| **2 Adv. Beginner** | Names the game *after* the scene | Hits Story-Spine beats when prompted | States a "Want" when reminded | Recognizes "this is a game scene" vs. "story scene" in review |
+| **3 Competent** | Identifies the game during the scene | Builds Platform then Tilts deliberately | Establishes what's at risk for the character | Chooses an engine consciously at scene start |
+| **4 Proficient** | Frames the game with the first unusual line | Story arc and character change feel inevitable | Stakes are felt, not stated; they fuel the scene | Switches engines mid-scene as the scene demands |
+| **5 Master** | Finds, plays, *and intentionally breaks* the game | Architects a full arc with consequence and change in real time | Makes the audience genuinely care about absurd people | Reads what the scene needs and serves it invisibly — game *or* story, never forced |
+
+---
+
+
+## 👥 Domain 4 - The Ensemble : The Ensemble Blueprint - Mechanics of the Collaborative Organism
+
+#### 1. Foundations of the Ensemble Mindset
 
 In the architecture of high-performance improvisation, the ensemble is not a collection of individuals, but a single, integrated "group organism." Transitioning from a gathering of soloists to a unified Group Mind requires a total dissolution of the ego. This is a strategic imperative: when the performer's perception shifts from "What do I do next?" to "What is the organism doing now?", the narrative complexity transcends the limits of the individual imagination. Achieving this state is a rigorous exercise in spontaneity, defined by Johnstone as the "empty head" and the conscious decision to not try to control the future (Source 30).
 
-#### The Principles of Interdependence
+##### The Principles of Interdependence
 
 To sustain the collaborative organism, three technical pillars must be operationalized:
 
@@ -444,26 +486,26 @@ To sustain the collaborative organism, three technical pillars must be operation
 * Follow the Follower: A systemic mechanic of mutual leadership where every impulse is simultaneously a lead and a response, ensuring the organism moves in lockstep without a central authority.
 * Serve the Piece: The commitment to the narrative’s requirements above individual comfort. This is mechanically linked to spontaneity; by refusing to plan, the performer is forced to serve the immediate reality of the scene (Source 30).
 
-#### The Stabilizing Force: The Balancín (Teeter-totter)
+##### The Stabilizing Force: The Balancín (Teeter-totter)
 
 The "Teeter-totter" principle of status (Source 32, 36) acts as the stabilizing force within the ensemble. A Performance Architect must understand a fundamental Johnstone law: there is no possibility of being neutral (Source 36). Every physical choice—a simple "hello," a posture in a group photo, or an eye contact—is a status move. If one performer moves to a higher status (going "up" the teeter-totter), the other must move "down" to maintain the narrative equilibrium. Without this constant calibration, performers compete for the "high" position, resulting in "stalled" narrative space where the organism cannot breathe.
 
-#### Structuralizing Awareness
+##### Structuralizing Awareness
 
 These philosophical principles necessitate a specific set of sensory inputs. To "Serve the Piece," the performer must first calibrate their internal state to receive the group’s data, moving from internal focus to externalized awareness.
 
-### 2. Core Ensemble Skills: Peripheral Awareness and Support
+#### 2. Core Ensemble Skills: Peripheral Awareness and Support
 
 Internal focus—being "in one's head"—is the primary antagonist of the ensemble. Support work (output) is mechanically impossible without heightened Peripheral Awareness (input).
 
-#### Mechanics of Peripheral Vision
+##### Mechanics of Peripheral Vision
 
 To solve the "opacamiento" (grayness or clouding) of the mind's eye (Source 11), performers must use specific drills to trick the brain into a state of total reception.
 
 * The Drill: The performer fixes their eyes on a central object. While maintaining that fixed point, they must consciously process the micro-movements and status shifts occurring at the periphery.
 * The Technical Result: This prevents the "predatory" or "defensive" focus of direct eye contact, allowing the performer to sense the architecture of the entire stage simultaneously. It clears the "grayness" (Source 31) and replaces it with real-time data.
 
-#### The No-Defense Technique
+##### The No-Defense Technique
 
 Building group resilience requires the "No-Defense" mechanic. In standard social interaction, humans instinctively resist status drops. Performance training requires the opposite: the total acceptance of "attacks."
 
@@ -479,44 +521,44 @@ Analytical Deep-Dive: Input vs. Output
 | Filling a physical gap on stage. | Seeing the architecture of the stage-picture. |
 | Result: Cohesion and narrative flow. | Enablement: Real-time data for the Group Mind. |
 
-#### Interlocking Sensory and Physical Space
+##### Interlocking Sensory and Physical Space
 
 Once the internal sensory skills are calibrated to receive input, the ensemble must project these mechanics onto the external architecture of the stage.
 
-### 3. Techniques for Shaping the Multi-Person Piece
+#### 3. Techniques for Shaping the Multi-Person Piece
 
 The ensemble must "play the architecture" of the stage to create a cohesive whole. This involves tracking "threads" of status and proximity to define the group organism’s physical presence.
 
-#### Stage-Picture and Architecture Drills
+##### Stage-Picture and Architecture Drills
 
 Actors use physical levels and proximity as mechanical tools of communication (Source 33, 40).
 
 * The Look: Eye contact and "looking away" are tracked as physical threads. A performer who refuses to return a gaze is making a high-status move that shifts the group equilibrium (Source 40).
 * Level Management: Utilizing the vertical plane (sitting, standing, kneeling) to clarify the status hierarchy. The ensemble "weaves" the stage-picture by ensuring no two actors are redundant in level or status.
 
-#### Mechanics of Spontaneity (A-to-C)
+##### Mechanics of Spontaneity (A-to-C)
 
 To avoid linear, boring thinking, the ensemble utilizes "Premise Brainstorm Rounds" to move from a suggestion (A) to an unrelated concept (C).
 
 * The Logic: Moving from A to B is predictable. Jumping to C requires an "empty head" and the decision to not control the future (Source 30).
 * The Mechanic: By jumping to an unrelated concept, the ensemble enters a state of discovery where they are forced to find the "weave" between disparate ideas, ensuring the piece remains surprising.
 
-#### The Impact of "Tap-ins" and "Walk-ons"
+##### The Impact of "Tap-ins" and "Walk-ons"
 
 These are supportive mechanics designed to prevent stagnation and force the input → output → weave loop.
 
 * Tap-ins: A performer enters to physically replace an actor, adopting or inverting the established status to push the scene into a new beat.
 * Walk-ons: Entering briefly to provide a "gift" (a status-shifting piece of information) and exiting immediately. These interventions prevent the organism from becoming static.
 
-#### Calibrating Technical Mastery
+##### Calibrating Technical Mastery
 
 These individual maneuvers are the raw materials for advanced performance structures, where technical status-play is synthesized into a larger thematic whole.
 
-### 4. Advanced Formats and Synthesis Mechanics
+#### 4. Advanced Formats and Synthesis Mechanics
 
 "Format Literacy" is the strategic understanding of structural intent. Knowing the mechanics of the Harold, Montage, or Armando allows the ensemble to "Serve the Piece" by recognizing when a beat is complete and how to tie disparate threads together.
 
-#### The Mechanics of the Edit
+##### The Mechanics of the Edit
 
 The edit is the systemic heartbeat of the piece. An edit must occur the moment a status beat has peaked to maintain the organism's momentum.
 
@@ -524,7 +566,7 @@ The edit is the systemic heartbeat of the piece. An edit must occur the moment a
 * Tag-Out: Tapping a performer to maintain a physical position while changing the context.
 * Light/Sound Cues: External edits that the ensemble must respond to as a single unit.
 
-#### Thematic Synthesis and Mapping
+##### Thematic Synthesis and Mapping
 
 Advanced longform requires the ensemble to link scenes through thematic and status-based callbacks.
 
@@ -532,7 +574,7 @@ Advanced longform requires the ensemble to link scenes through thematic and stat
 * The Mueca (Grimace) Callback: Reintroducing a specific physicality or "mueca" (Source 43) acts as a visual anchor. Repeating these physical markers provides a unifying thread that the audience recognizes as thematic mastery.
 * Status Inversion: Inverting a hierarchy established earlier in the piece (Source 43) provides profound "satisfaction to the audience." It shows the "Balancín" in full rotation, moving the piece from a collection of games to a psychological narrative.
 
-#### Format Comparison: Mechanics and Focus
+##### Format Comparison: Mechanics and Focus
 
 | Feature | Shortform Mechanics | Longform Mechanics |
 |---|---|---|
@@ -544,117 +586,44 @@ Advanced longform requires the ensemble to link scenes through thematic and stat
 The ensemble is a mastery of both technical status-play and selfless collaborative awareness, where the individual disappears so the organism can thrive.
 
 ---
-## 🎬 Architecting the Scene: A Master Manual of Improvisational Engines
 
-### 1. The Architectural Framework: Introduction to Real-Time Construct
 
-A professional improvisational scene is not a product of wit, but an achievement of structural engineering built upon a solidified Base Reality. The primary antagonist of a scene is the Negative Intellect—that internal critic identified by Keith Johnstone that fears judgment and forces performers into "polite talk" or stalling maneuvers to avoid psychological exposure (Source 8). To bypass this intellect and achieve a moment of Satori—a state of sudden, spontaneous illumination where the unconscious takes over (Source 4)—the architect must engage one of two primary engines: a repeating pattern of behavior (The Game) or a progression of irreversible consequences (The Narrative).
+*Goal: Surrender ego to the piece; perceive, support, generate, and weave — without pre-planning.*
 
-The Dual-Engine Philosophy posits that engine selection is the mechanism of longevity. The Game Engine utilizes "If true, what else is true?" logic to escalate absurdity, while the Narrative Engine focuses on "The Tilt"—the event that forces a permanent change in the characters' world (Source 5). Mastery of these engines prevents the scene from "circling," a state of mechanical failure where characters merely describe the world rather than inhabit it. By selecting an engine, the performer moves from a state of fearful hesitation to one of mechanical inevitability.
-
-This architecture requires a foundation where every object and relationship serves as a radar for potential dramatic energy.
-
-### 2. Phase I: [FOUNDATION] – Constructing the Static Reality
-
-Before the engine can rev, the performer must construct a Base Reality. This is not a suggestion; it is the containment vessel for escalating pressure. Establishing Character, Relationship, Objective, and Where (C.R.O.W.) provides the structural integrity required to survive a "Tilt." Without a grounded foundation, the scene remains a "ghost," lacking the weight necessary for the audience to invest in its eventual destruction.
-
-The C.R.O.W. Protocol
-
-The following protocol utilizes the "Smith/Boss" and "Master/Servant" dynamics to ensure immediate psychological grounding (Source 35, 49).
-
-| Element | Description | Endowment Chain Prompts |
-|---|---|---|
-| Character | The internal status and physicalization of authority. | 1. "Keep your head perfectly still while speaking (Cabeza quieta) to project tragic authority" (Source 42). <br>2. "Endow your hands with the weight of a surgeon’s tools." <br>3. "Identify as a 'Servant' who is secretly the intellectual superior of the room." |
-| Relationship | The Balancín (Seesaw) transaction between players (Source 32). | 1. "You are Smith attempting to 'reconsider' a termination with a Boss" (Source 49). <br>2. "You are an apprentice who knows the Master’s darkest secret." <br>3. "You are a 'Señor' whose status is being subtly eroded by a Vagabundo" (Source 35). |
-| Objective | The "Want" that necessitates a status transaction. | 1. "I must force the other person to look away first to signal submission" (Source 41). <br>2. "I must raise my status by demonstrating cultural superiority" (Source 36). <br>3. "I must lower my status to escape a dangerous responsibility." |
-| Where | The physical environment treated as a "radar for danger" (Source 47). | 1. "The Wrong Room: Enter a space and immediately justify why your presence there is a mistake" (Source 46). <br>2. "The environment contains an object that could destroy your reputation." <br>3. "The space is a high-status vacuum that requires formal rigidity." |
-
-#### Game Mechanic: "Start in the Middle"
-
-Starting in the middle bypasses the Negative Intellect’s desire to "introduce" the scene. Performers are commanded to begin mid-action or mid-argument. This forces immediate Justification—the brain cannot plan a polite entrance and is instead forced to reconcile the physical reality of the moment. It transforms the actor from a creator into a detective, searching for the logic of their own spontaneous movements.
-
-#### Game Mechanic: "Justify the Absurd"
-
-Drawing on Johnstone’s principle of "reincorporation-as-justification," this drill treats accidents as gifts.
-
-1. The Accident: A performer makes a physical "mistake" (e.g., a stutter, a trip, or an accidental high-status gaze).
-2. The Recognition: The performer acknowledges the "Tilt" (Source 5) rather than ignoring it.
-3. The Justification: The mistake is defined as a deliberate character trait. (e.g., "I stutter only when I am lying to my superior.")
-4. The Integration: This trait is now a permanent pillar of the scene’s architecture.
-
-Once the foundation is unshakeable, the performer looks for the pattern that signals the shift from static reality to the Game Engine.
-
-### 3. Phase II: [GAME-ENGINE] – Exploiting Pattern and Comedy
-
-The Game Engine is a repeating, escalating pattern of behavior. Its strategic value lies in the "If true, what else is true?" logic, which creates a rhythmic inevitability that generates comedy and high audience engagement.
-
-#### The "Status Balancín" (The Seesaw)
-
-Status is not a personality trait; it is a transaction (Source 32). In a Game Engine, the comedy often comes from the friction of this transaction.
-
-* The Mechanics of Authority: To play high status, a performer must employ the Cabeza quieta (Still Head) technique (Source 42). Moving the head while speaking signals a lack of control; a still head signals the "Heroic" or "Tragic" status of an officer or master.
-* The Eye Contact Logic: Status is won or lost in the gaze. Looking away first signals Status-Resistance—an attempt to lower one's own status or a failure to maintain dominance (Source 41).
-* The Smith/Boss Drill: Using the dialogue from Source 49, players must attempt to raise or lower their status using only physical shifts. When Smith asks to "reconsider," he is attempting to push the "Seesaw" up; the Boss must use a "Still Head" and direct eye contact to flatten that resistance.
-
-#### Game Mechanic: "The Ladder of Heightening"
-
-This drill identifies one "odd" behavior and heightens it across three levels of intensity.
-
-* Level 1 (The Seed): A character makes a minor claim (e.g., "I own this sidewalk").
-* Level 2 (The Step): The claim heightens (e.g., "I own the air above this sidewalk").
-* Level 3 (The Peak): The claim becomes absolute (e.g., "I am the gravity that keeps you on this sidewalk"). This keeps the scene focused on a single pattern, preventing the "chaos of originality" that the Negative Intellect often attempts to substitute for true reincorporation.
-
-### 4. Phase III: [NARRATIVE-ENGINE] – Driving Story and Meaning
-
-The Narrative Engine drives the scene toward a "So What?" It moves beyond the repetitive loop of a Game to "Raise the Stakes," resulting in emotional depth and a permanent shift in the characters' universe.
-
-#### The Story Spine & Objective-Laddering
-
-The Narrative Architecture follows a strict progression:
-
-1. Once upon a time... (Foundation).
-2. Every day... (The Status Quo).
-3. But one day... (The Tilt - Source 5).
-4. Because of that... (Consequences).
-5. Until finally... (The Climax/Destruction).
-6. And ever since then... (The New Status Quo - Source 39).
-
-Exercise: Objective-Laddering Characters must escalate their "Want" against the "Tilt." If a character wants a seat on a bus and is refused, they must not repeat the request. They must escalate the psychological stakes until the situation reaches a level of Tragedy—where a character of high status is "destroyed" or "sacrificed" to fulfill the story’s requirement for a permanent change (Source 39).
-
-#### Game Mechanic: "Protag/Antag Identification"
-
-Performers must identify who is the Driver (the one seeking change) and who is the Obstacle. Clearly defined roles prevent scenes from "stalling" in a cycle of mutual agreement. A narrative only revs when one character is willing to "destroy" the other's status to achieve an objective.
-
-### 5. Phase IV: [ENGINE-SELECT] – Meta-Judgment and Synthesis
-
-Expertise lies in the Meta-judgment of knowing which engine to fuel. If a scene feels "Neutral," the engine has died. According to Johnstone, there is no possibility of being neutral; every "Good morning" is a status move (Source 36).
-
-Technique: "Find/Play the Game" vs. "Serve the Story"
-
-| Signs the Scene wants a Game Engine | Signs the Scene wants a Narrative Engine |
+#### Principles (Why)
+| Principle | Core Belief |
 |---|---|
-| Absurd patterns or verbal tics cause laughter. | A character experiences a genuine emotional "Tilt." |
-| Transactions are rhythmic/repetitive. | There is a permanent change in relationship. |
-| The status is a "Seesaw" loop. | The consequences of a choice feel "dire." |
-| Warning: If the scene feels "Neutral," it is stalling. Pick a status and drive a Game or Narrative immediately (Source 36). | Warning: Avoid "originality." Reincorporate a previous element to find the story's end (Source 8). |
+| **Group Mind** | The team's collective intelligence exceeds any individual. |
+| **Follow the Follower** | When someone makes a strong choice, the whole team commits. |
+| **Serve the Piece** | Choose what the *show* needs, not what *you* want to do. |
 
-#### The "Meta-Judgment" Drill
+#### Skills (What) → Techniques (How)
+| Skill (the brain) | Techniques (the muscles) |
+|---|---|
+| **Peripheral Awareness** *(scoped: PERCEPTION / input — multi-person spatial + thread tracking)* | Stage-picture exercises; thread-tracking drills |
+| **Support Work** *(scoped: CONTRIBUTION / output — entering to give, not take)* | Walk-ons; Tap-ins; playing architecture/objects |
+| **Suggestion Deconstruction (A-to-C)** | A-to-C drills; premise brainstorm rounds; "what's interesting about this?" mining |
+| **Pacing & Rhythm** | Edits (Sweep, Tag-Out, Sound/Light); timing exercises |
+| **Thematic Synthesis** | Callbacks & Mapping; "weave the threads" |
+| **Format Literacy** | Harold; Armando; Montage; longform vs. shortform mechanics |
 
-A coach shouts "SWITCH ENGINE" mid-scene.
+> **The Peripheral Awareness / Support Work split (v3 MECE fix):** Peripheral Awareness is the skill of *perceiving* (input). Support Work is the skill of *contributing off-focus* (output). Walk-ons/Tap-ins are the techniques that execute Support Work.
 
-* Game to Narrative: Performers must take a repetitive pattern (e.g., a character who repeats everything their boss says) and introduce a consequence (the boss realizes the character is mocking them and fires them—a permanent relationship change).
-* Narrative to Game: Performers take a high-stakes moment and find a repeating behavioral pattern within it, shifting the focus from the "What happens next?" to the "How is this happening?"
-
-#### Final Summary: Mastering the Scene
-
-1. Status is a Transaction, Not a Trait: Every interaction is a movement on the "Balancín." You are either pushing the seesaw up or pulling it down; neutrality is a failure of the intellect (Source 32, 36).
-2. Reincorporation over Originality: The Negative Intellect tries to be "creative." The Architect simply looks back and reincorporates what has already happened to achieve "Satori" (Source 8).
-3. The Tilt Dictates the Engine: Once the foundation is "Tilted" by an absurdity or a conflict, you must choose: escalate the pattern (Game) or escalate the consequences (Narrative).
+#### Maturity Progression
+| Stage | **Peripheral Awareness** | **Support Work** | **Suggestion Deconstruction** | **Pacing & Rhythm** |
+|---|---|---|---|---|
+| **1 Novice** | Tries to track the stage but tunnel-visions on own scene | Wants to help but enters to grab focus / steal | Plays the first, most obvious association | Tries to edit but lets scenes run long, misses the exit |
+| **2 Adv. Beginner** | Notices when the stage is crowded | Executes a clean walk-on/tap-in on instruction | Generates several associations in a brainstorm | Performs a Sweep/Tag-Out on cue |
+| **3 Competent** | Tracks all active threads | Chooses to enter only when a scene needs something | Selects the non-obvious ("C") premise | Edits *at the right moment* |
+| **4 Proficient** | Anticipates where teammates will go | Supports invisibly; gives exactly what's missing then exits | Mines a suggestion for its richest, most playable angle | Pacing breathes — energy, silence, ending |
+| **5 Master** | Sees the entire show as one organism | Off-focus support elevates others; ego fully surrendered | Turns any word into a premise the whole team can run | Edits the audience never consciously notices — arrives on the exact peak |
 
 ---
-## 🎟️ Performance Mechanics: Mastering the Performer–Audience Axis
 
-### 1. Introduction: The Performer–Audience Contract
+
+## 🎟️ Domain 5 - The Audience : Performance Mechanics - Mastering the Performer–Audience Axis
+
+#### 1. Introduction: The Performer–Audience Contract
 
 In the architecture of elite performance, the audience is never a passive observer; they are the Final Scene Partner. The "Fourth Wall" is not a masonry barrier designed to isolate the actor, but a dynamic, transparent axis that requires rigorous management. To maintain the "Truth Over Pandering" boundary, the performer must command the room rather than beg for its approval. A failure to manage this axis results in a literal physical sensation of "coldness"—a draft that the seasoned improviser detects the moment the audience feels excluded from the narrative process.
 
@@ -665,7 +634,7 @@ A "readable choice" is a physical or vocal transaction executed with sufficient 
 
 A performer’s awareness of the audience dictates the scene's metabolic rate. A "cold" room is one where the audience feels cheated—estafando—because the status transactions are muddy or invisible. A "unified" room, conversely, occurs when the performer bridges the psychological gap through the primary mechanical tool of the stage: Status.
 
-### 2. The Mechanics of Status: The Audience’s Primary Lens
+#### 2. The Mechanics of Status: The Audience’s Primary Lens
 
 Status—as defined by Keith Johnstone—is the fundamental mechanism through which an audience deciphers human interaction. It is not a social rank, but a behavioral choice. Johnstone describes this as El Balancín (The Seesaw): when one performer’s status rises, the other’s must drop. This constant, fluid motion provides the "pleasure of the contrast" that prevents a performance from devolving into the "boring conversations" of polite real-life chat.
 
@@ -678,17 +647,17 @@ The audience finds visceral satisfaction in the movement of status. They crave t
 | Speech Patterns | Clear, complete sentences; the voice is used with "Heroic Stillness." No fillers. | Frequent use of "eh," "um," or breathy, hesitant vocalizations that invite interruption. |
 | Physicality | Relaxed, taking up space; toes pointed slightly outward; expansive stillness. | Toes pointed inward; hands kept near the face as a protective, self-grooming mechanism. |
 
-### 3. Presence and Clarity: "Playing for the Back Row"
+#### 3. Presence and Clarity: "Playing for the Back Row"
 
 To honor the audience contract, the performer must prioritize the "readability" of every choice. "Internalized" performance is a violation of the professional contract; it is a retreat into the self that leaves the audience guessing. The performer commands the rhythm of the room by ensuring that intent is never ambiguous.
 
-#### Techniques of Readability
+##### Techniques of Readability
 
 1. Energy Calibration: The performer must match the "size" of their physical and vocal choices to the theater's specific volume. A choice that is "truthful" in a studio may be "invisible" in a five-hundred-seat house.
 2. Cushioning the Beat: The performer dictates the pace by allowing the audience time to absorb a choice. To rush to the next line before a narrative shift has landed is to desert the final partner.
 3. Tag-Running (Riding the Laugh Wave): A master of the axis manages the room’s respiration. One must wait for the laughter to peak and just begin its recession before delivering the next beat, ensuring critical information is never lost to the "Great Beast."
 
-### 4. The Exercise Lab: Practical Drills for Room Reading
+#### 4. The Exercise Lab: Practical Drills for Room Reading
 
 The pedagogue's role here is to facilitate the "un-learning" of social inhibitions. Through Side-coaching—a technique essential for maintaining the performer's focus on the "here and now"—the director forces the actor out of their head and into the room.
 
@@ -709,7 +678,7 @@ The pedagogue's role here is to facilitate the "un-learning" of social inhibitio
   * Mechanic: Fixed roles where the Servant must find ways to lower their status further (e.g., apologizing for occupying space), while the Master remains credible.
   * Audience Impact: Clear status gaps prevent "neutral" scenes, which Johnstone identifies as the primary cause of audience boredom.
 
-### 5. Advanced Techniques: Breaking the Wall and Energy Management
+#### 5. Advanced Techniques: Breaking the Wall and Energy Management
 
 Direct Address and "Breaking the 4th Wall" are high-level strategic tools. When used to serve the narrative, they reinforce the contract; when used solely for a cheap laugh, they are a form of Exhibitionism.
 
@@ -720,6 +689,37 @@ Reading the "Great Beast" The audience is a collective entity—the Great Beast�
 
 The line between being an Expert in Status and an Exhibitionist is the difference between a professional and an amateur. The expert uses status to serve the story; the exhibitionist uses the stage as a mirror for their own ego. The former fulfills the contract; the latter is a fundamental failure of duty.
 
-### 6. Conclusion: The Ethical Performer
+#### 6. Conclusion: The Ethical Performer
 
 The "Category 5" philosophy of performance dictates that the "Audience Is the Final Scene Partner." All tools—Status, Presence, and the discipline of the Exercise Lab—are instruments of service. Excellence is achieved only when the "Fourth Wall" is a transparent window of truth. By mastering the performer–audience axis, the artist ceases "doing a scene" and begins the true work of managing a room, transforming a collection of strangers into a single, breathing, unified audience.
+
+
+
+*Goal: Honor the performer–audience contract; read, ride, and unify the room — without pandering.*
+
+#### Principles (Why)
+| Principle | Core Belief |
+|---|---|
+| **The Audience Is the Final Scene Partner** | Their energy is information — ignore it and the show dies; chase it and you sell out. |
+| **Play for the Back Row** | Generosity of energy, clarity, stakes — never private in-jokes. |
+| **Truth Over Pandering** | Earn the laugh by playing honestly, not by begging. |
+
+#### Skills (What) → Techniques (How)
+| Skill (the brain) | Techniques (the muscles) |
+|---|---|
+| **Room Reading** | Energy-calibration; reading the suggestion's intent |
+| **Audience-Energy Management** | Tag-running (riding a laugh wave); landing/cushioning a beat; **Breaking the 4th Wall / Direct Address** |
+| **Stage Presence & Clarity** | Cheating out; projection; "make the choice readable" |
+
+#### Maturity Progression
+| Stage | **Room Reading** | **Audience-Energy Management** | **Stage Presence & Clarity** |
+|---|---|---|---|
+| **1 Novice** | Tries to gauge the room but panics or panders under pressure | Talks over laughs, killing momentum | Remembers to cheat out, then turns away under load |
+| **2 Adv. Beginner** | Notices when the room is "with" them | Pauses for laughs mechanically; tries direct address on cue | Cheats out and projects when reminded |
+| **3 Competent** | Reads the room's general temperature | Rides a laugh then re-engages; chooses *when* to break the 4th wall | Choices read clearly to the back row |
+| **4 Proficient** | Adjusts tone to the specific crowd without pandering | Surfs energy waves to build a set; uses direct address as a deliberate lever | Commanding, generous presence |
+| **5 Master** | **Unifies the room** — converts a fragmented audience into one organism breathing together (observable: synchronized collective laughter/gasp timing) | Conducts audience energy like an instrument; knows precisely when to include vs. play behind the proscenium | Owns the space effortlessly and honestly |
+
+---
+
+
