@@ -8,6 +8,12 @@ copyright: "An Improv Framework — v3"
 
 extra:
   generator: false        # remove the "Made with Material for MkDocs" footer notice
+  analytics:
+    provider: google
+    # GA4 measurement ID injected at build time from the GA_KEY env var (set as a
+    # GitHub Actions repo variable → deploy.yml). Empty locally ⇒ analytics simply
+    # omitted (Material skips it when property is blank), so local builds stay clean.
+    property: !ENV [GA_KEY, ""]
 
 docs_dir: docs
 strict: true
