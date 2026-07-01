@@ -41,6 +41,8 @@ title: "W06 · Fail Joyfully & Recover"
 
 > Transform mental slip-ups into moments of shared celebration through a fast-paced, evolving counting pattern.
 
+![One Two Three — infographic](../../games/img/D1_P2_S6_T2_G619__1-2-3.jpg){ .infographic }
+
 `Players 2+` · `~5 min` · `Complexity 1/5` · `Energy high` · `Props: none`
 
 **Trains:** Self-Recovery · _connection_
@@ -59,6 +61,8 @@ title: "W06 · Fail Joyfully & Recover"
 #### Core game — The Celebration Pass
 
 > Celebrate every dropped pass with explosive, joyful applause to reframe mistakes as triumphs.
+
+![The Celebration Pass — infographic](../../games/img/D1_P2_S6_T2_G761__loserball.jpg){ .infographic }
 
 `Players 3+` · `~5 min` · `Complexity 1/5` · `Energy high` · `Props: none`
 

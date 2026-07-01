@@ -41,6 +41,8 @@ title: "W02 · The Voice as Instrument"
 
 > Embody a core emotion while instantly integrating a rapid-fire barrage of physical and vocal constraints.
 
+![The Emotional Crucible — infographic](../../games/img/D1_P1_S2_T1_G182__the-chronos-synaptic-forge.jpg){ .infographic }
+
 `Players 4–8` · `~15 min` · `Complexity 4/5` · `Energy high` · `Props: none`
 
 **Trains:** Emotional Fluidity · _skill drill_
@@ -62,6 +64,8 @@ title: "W02 · The Voice as Instrument"
 #### Core game — The Resonance Dial
 
 > Scale raw emotional impulses from a silent spark to peak intensity and back to neutral.
+
+![The Resonance Dial — infographic](../../games/img/D1_P3_S2_T1_G527__the-aetheric-resonance-protocol.jpg){ .infographic }
 
 `Players 3–8` · `~20 min` · `Complexity 4/5` · `Energy high` · `Props: required`
 

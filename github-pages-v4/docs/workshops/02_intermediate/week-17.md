@@ -41,6 +41,8 @@ title: "W17 · Reading the Room"
 
 > Direct and redirect the fourth wall in real-time to master audience connection and energy.
 
+![The Fourth Wall Conductor — infographic](../../games/img/D5_P1_S2_T3_G011__the-audience-accord.jpg){ .infographic }
+
 `Players 3+` · `~15 min` · `Complexity 3/5` · `Energy medium` · `Props: none`
 
 **Trains:** Audience-Energy Management · _mixed_
@@ -63,6 +65,8 @@ title: "W17 · Reading the Room"
 #### Core game — The Fourth Wall Weave
 
 > Master the boundary between stage and spectator by dynamically toggling direct address based on live audience energy.
+
+![The Fourth Wall Weave — infographic](../../games/img/D5_P1_S2_T3_G025__the-contract-weave.jpg){ .infographic }
 
 `Players 3+` · `~15 min` · `Complexity 3/5` · `Energy medium` · `Props: required`
 

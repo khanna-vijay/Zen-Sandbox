@@ -42,6 +42,8 @@ title: "W13 · Eyes in the Back of Your Head"
 
 > Transform abstract physical and vocal environments into rich, collaborative narrative worlds.
 
+![Resonant Landscapes — infographic](../../games/img/D4_P1_S1_T2_G030__collective-cartography-the-resonant-landscape.jpg){ .infographic }
+
 `Players 3–12` · `~15 min` · `Complexity 3/5` · `Energy medium` · `Props: none`
 
 **Trains:** Peripheral Awareness · _mixed_
@@ -64,6 +66,8 @@ title: "W13 · Eyes in the Back of Your Head"
 #### Core game — The Ambient Web
 
 > Weave a collective physical and auditory atmosphere using only your peripheral senses and shared intuition.
+
+![The Ambient Web — infographic](../../games/img/D4_P1_S1_T2_G014__the-resonance-weaver.jpg){ .infographic }
 
 `Players 4–8` · `~25 min` · `Complexity 3/5` · `Energy low` · `Props: none`
 

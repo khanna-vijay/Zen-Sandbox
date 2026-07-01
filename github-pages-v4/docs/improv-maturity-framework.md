@@ -36,7 +36,7 @@ Every concept lives at the intersection of **three axes**:
 
 ---
 
-# 🧘 DOMAIN 1 — THE SELF (Intrapersonal)
+## 🧘 DOMAIN 1 — THE SELF (Intrapersonal)
 *Goal: Freedom from hesitation; complete physical/vocal control; the courage to be truthful and the discipline to be still.*
 
 ### Principles (Why)
@@ -68,7 +68,7 @@ Every concept lives at the intersection of **three axes**:
 
 ---
 
-# 🤝 DOMAIN 2 — THE PARTNER (Interpersonal)
+## 🤝 DOMAIN 2 — THE PARTNER (Interpersonal)
 *Goal: From "acting with someone" to a "shared mind" — within a container of mutual safety.*
 
 ### Principles (Why)
@@ -100,7 +100,7 @@ Every concept lives at the intersection of **three axes**:
 
 ---
 
-# 🎬 DOMAIN 3 — THE SCENE (Narrative / Construct)
+## 🎬 DOMAIN 3 — THE SCENE (Narrative / Construct)
 *Goal: Architect compelling scenes in real time — using **both engines of improv** and knowing which one the scene wants.*
 
 > **The two engines (the v3 paradigm fix):**
@@ -140,7 +140,7 @@ Every concept lives at the intersection of **three axes**:
 
 ---
 
-# 👥 DOMAIN 4 — THE ENSEMBLE (Group / Format)
+## 👥 DOMAIN 4 — THE ENSEMBLE (Group / Format)
 *Goal: Surrender ego to the piece; perceive, support, generate, and weave — without pre-planning.*
 
 ### Principles (Why)
@@ -173,7 +173,7 @@ Every concept lives at the intersection of **three axes**:
 
 ---
 
-# 🎟️ DOMAIN 5 — THE AUDIENCE (Performance)
+## 🎟️ DOMAIN 5 — THE AUDIENCE (Performance)
 *Goal: Honor the performer–audience contract; read, ride, and unify the room — without pandering.*
 
 ### Principles (Why)
@@ -201,7 +201,7 @@ Every concept lives at the intersection of **three axes**:
 
 ---
 
-# 🗺️ Deployment: Building the Syllabus from the Matrix
+## 🗺️ Deployment: Building the Syllabus from the Matrix
 
 ### The diagonal teaching path
 Sequence the curriculum **by Stage across all Domains** — not by completing one domain before the next. A student should touch every domain at each stage, climbing the Layer axis as they go.
