@@ -5,7 +5,7 @@ hide:
 ---
 
 
-# Analyzing Improv through my Philosophical Lens : "Truth is one, but called by many names".
+# Analyzing Improv through my Philosophical Lens 
 
 
 > *"The opponent within one's own head is more formidable than the one on the other side of the net."* - W. Timothy Gallwey
