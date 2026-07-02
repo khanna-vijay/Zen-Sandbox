@@ -7,6 +7,7 @@ hide:
 
 # Analyzing Improv through my Philosophical Lens 
 
+> *"When the rational mind is shut off, we have the possibility of intuition"* - Viola Spolin
 
 > *"The opponent within one's own head is more formidable than the one on the other side of the net."* - W. Timothy Gallwey
 
