@@ -9,9 +9,6 @@ hide:
 
 > *"When the rational mind is shut off, we have the possibility of intuition"* - Viola Spolin
 
-> *"The opponent within one's own head is more formidable than the one on the other side of the net."* - W. Timothy Gallwey
-
-> *Those who say 'Yes' are rewarded by the adventures they have. Those who say 'No' are rewarded by the safety they attain."* - Keith Johnstone
 
 ## Prologue: The Treatise of the Unblocked Self
 
