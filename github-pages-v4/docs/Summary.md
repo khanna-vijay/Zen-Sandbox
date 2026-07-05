@@ -4,18 +4,18 @@ hide:
   - toc
 ---
 
-# 🗺️ Improv Mastery — Concentric Mind Map
+# 🎭 Improv Mastery — Concentric Mind Map
 
 A single-page **concentric mind map** of the entire [Improv Mastery Framework](improv-maturity-framework.md):
-the **5 Domains**, their **18 Principles**,
-**28 Skills**, and
-**68 Techniques** — every concept on one canvas.
+the **5 Domains**, their **18 Principles**, and **28 Skills** — arranged as tightly-packed rings,
+every tile readable in normal (horizontal) text. *(The full 68 techniques are listed in the outline below.)*
 
 [🗺️ Open the interactive map (full screen)](https://khanna-vijay.github.io/Zen-Sandbox/Summary.html){ .md-button .md-button--primary }
-&nbsp; *Toggle the outer **Techniques** ring · switch light/dark · export a 16:9 **PNG** · print to **A3** landscape PDF.*
+&nbsp; *Hover a tile for its definition · switch light/dark · export a **PNG** · print to **A3** landscape PDF.*
 
 <iframe src="https://khanna-vijay.github.io/Zen-Sandbox/Summary.html" title="Improv Mastery concentric mind map"
-        loading="lazy" style="width:100%; aspect-ratio:16/9; border:1px solid rgba(128,128,128,.3); border-radius:12px; margin:.5rem 0 1rem;"></iframe>
+        loading="lazy" style="width:100%; max-width:820px; aspect-ratio:1/1; display:block; margin:.6rem auto 1rem;
+        border:1px solid rgba(128,128,128,.3); border-radius:12px;"></iframe>
 
 ---
 
@@ -37,13 +37,13 @@ Every concept lives at the intersection of three axes — the map draws the firs
 - 🧠 **Skill — the *brain*.** The judgment of *which* technique to deploy, *when*, and *how much*.
 - 🎯 **Technique — the *muscle*.** A discrete, repeatable, observable action you can drill.
 
-> The whole framework rests on **Layer 0 — the Safety & Consent Container** (shown at the hub): psychological safety is the environment every other domain lives inside.
+> The whole framework rests on **Layer 0 — the Safety & Consent Container** (the hub of the map): psychological safety is the environment every other domain lives inside.
 
 ---
 
 ## 📋 Full outline
 
-*Each skill's **Techniques** are collapsed by default — expand a skill to reveal them, or use the interactive map above.*
+*Each skill's **Techniques** are collapsed by default — expand a skill to reveal them.*
 
 
 ## 🎭 Domain 1 — The Self
@@ -240,4 +240,4 @@ Every concept lives at the intersection of three axes — the map draws the firs
 
 ---
 
-*Generated from the same data as the interactive map. Source: the [Improv Mastery Framework](improv-maturity-framework.md) and the [Domains](content/01_the-self/01_D__the-self.md).*
+*The interactive map and this outline are generated from the same data. Source: the [Improv Mastery Framework](improv-maturity-framework.md) and the [Domains](content/01_the-self/01_D__the-self.md).*
