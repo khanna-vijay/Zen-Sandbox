@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Improv Mastery — Radial Mind Map (v1)</title>
+<style>
+  /* ---- Palette (validated categorical, brand-warm chrome) ---------------- */
+  :root{
+    --plane:#f9f9f7; --surface:#fcfcfb;
+    --ink:#0b0b0b; --ink-2:#52514e; --muted:#898781;
+    --grid:#e1e0d9; --border:rgba(11,11,11,.10);
+    --hub:#d1541f; --hub-ink:#ffffff;
+    --d1:#2a78d6; --d2:#1baf7a; --d3:#eda100; --d4:#008300; --d5:#4a3aa7;
+    --shadow:0 1px 3px rgba(11,11,11,.08),0 8px 30px rgba(11,11,11,.06);
+  }
+  @media (prefers-color-scheme:dark){
+    :root{
+      --plane:#0d0d0d; --surface:#1a1a19;
+      --ink:#ffffff; --ink-2:#c3c2b7; --muted:#898781;
+      --grid:#2c2c2a; --border:rgba(255,255,255,.10);
+      --hub:#eb6834; --hub-ink:#1a1a19;
+      --d1:#3987e5; --d2:#199e70; --d3:#c98500; --d4:#008300; --d5:#9085e9;
+      --shadow:0 1px 3px rgba(0,0,0,.5),0 8px 30px rgba(0,0,0,.4);
+    }
+  }
+  body.force-light{
+    --plane:#f9f9f7;--surface:#fcfcfb;--ink:#0b0b0b;--ink-2:#52514e;--muted:#898781;
+    --grid:#e1e0d9;--border:rgba(11,11,11,.10);--hub:#d1541f;--hub-ink:#fff;
+    --d1:#2a78d6;--d2:#1baf7a;--d3:#eda100;--d4:#008300;--d5:#4a3aa7;
+  }
+  body.force-dark{
+    --plane:#0d0d0d;--surface:#1a1a19;--ink:#fff;--ink-2:#c3c2b7;--muted:#898781;
+    --grid:#2c2c2a;--border:rgba(255,255,255,.10);--hub:#eb6834;--hub-ink:#1a1a19;
+    --d1:#3987e5;--d2:#199e70;--d3:#c98500;--d4:#008300;--d5:#9085e9;
+  }
+
+  *{box-sizing:border-box}
+  html,body{margin:0;height:100%}
+  body{
+    background:var(--plane); color:var(--ink);
+    font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+    -webkit-font-smoothing:antialiased;
+  }
+
+  /* ---- Toolbar (screen only) -------------------------------------------- */
+  .toolbar{
+    position:sticky; top:0; z-index:10;
+    display:flex; gap:.5rem; align-items:center; flex-wrap:wrap;
+    padding:.6rem .9rem; background:var(--surface);
+    border-bottom:1px solid var(--border); box-shadow:var(--shadow);
+  }
+  .toolbar .title{font-weight:700; font-size:1rem; margin-right:auto; letter-spacing:.2px}
+  .toolbar .title small{color:var(--ink-2); font-weight:500}
+  button.tb{
+    font:inherit; font-size:.85rem; font-weight:600; cursor:pointer;
+    color:var(--ink); background:var(--plane);
+    border:1px solid var(--border); border-radius:.55rem; padding:.42rem .7rem;
+    transition:filter .15s, background .15s;
+  }
+  button.tb:hover{filter:brightness(1.05); background:var(--surface)}
+  button.tb[aria-pressed="true"]{background:var(--hub); color:var(--hub-ink); border-color:transparent}
+
+  /* ---- Stage: 16:9 --------------------------------------------------------*/
+  .stage-wrap{display:flex; justify-content:center; padding:16px}
+  .stage{
+    width:100%; max-width:1600px; aspect-ratio:16/9;
+    background:var(--surface); border:1px solid var(--border);
+    border-radius:14px; box-shadow:var(--shadow); overflow:hidden;
+  }
+  svg{width:100%; height:100%; display:block; font-family:inherit}
+
+  .ring-guide{fill:none; stroke:var(--grid); stroke-width:1; stroke-dasharray:2 6}
+  .link{fill:none; stroke-width:1.4; opacity:.55}
+  .node-dot{stroke:var(--surface); stroke-width:1.5}
+  text{fill:var(--ink); paint-order:stroke; }
+  .t-tech{font-size:10.5px; fill:var(--ink-2)}
+  .t-skill{font-size:12.5px; font-weight:700}
+  .t-prin{font-size:12px; font-style:italic}
+  .t-dom{font-size:17px; font-weight:800; letter-spacing:.2px}
+  .halo{stroke:var(--surface); stroke-width:3.2px}
+  .faded{opacity:.12; transition:opacity .15s}
+  .lit{opacity:1 !important}
+
+  /* legend inside svg uses tspans; caption below screen-only */
+  .tooltip{
+    position:fixed; pointer-events:none; z-index:20; max-width:280px;
+    background:var(--surface); color:var(--ink); border:1px solid var(--border);
+    border-radius:.55rem; box-shadow:var(--shadow); padding:.55rem .7rem;
+    font-size:.82rem; line-height:1.35; opacity:0; transform:translateY(4px);
+    transition:opacity .12s;
+  }
+  .tooltip .tt-code{color:var(--muted); font-size:.72rem; font-weight:700; letter-spacing:.4px}
+  .tooltip .tt-name{font-weight:700; margin:.1rem 0 .15rem}
+  .tooltip .tt-kind{display:inline-block; font-size:.68rem; font-weight:700; text-transform:uppercase;
+    letter-spacing:.5px; padding:.05rem .35rem; border-radius:.35rem; color:#fff}
+
+  .hint{max-width:1600px; margin:2px auto 22px; padding:0 20px; color:var(--muted);
+    font-size:.8rem; text-align:center}
+
+  /* ---- Print: A3 landscape, fit the 16:9 stage ------------------------- */
+  @media print{
+    @page{ size:A3 landscape; margin:8mm; }
+    .toolbar,.hint{display:none !important}
+    body{background:#fff}
+    body.force-dark{--plane:#fff;--surface:#fff;--ink:#0b0b0b;--ink-2:#52514e;
+      --grid:#e1e0d9;--border:rgba(11,11,11,.12);--hub:#d1541f;--hub-ink:#fff;
+      --d1:#2a78d6;--d2:#1baf7a;--d3:#eda100;--d4:#008300;--d5:#4a3aa7;}
+    .stage-wrap{padding:0}
+    .stage{max-width:100%; width:100%; border:none; box-shadow:none; border-radius:0}
+  }
+</style>
+</head>
+<body>
+  <div class="toolbar">
+    <div class="title">🎭 Improv Mastery — Concentric Mind Map
+      <small>&nbsp;Domains · Principles · Skills · Techniques</small></div>
+    <button class="tb" id="btnTech" aria-pressed="false" title="Show / hide the outer Techniques ring">Techniques: hidden</button>
+    <button class="tb" id="btnTheme" title="Toggle light / dark">◐ Theme</button>
+    <button class="tb" id="btnPNG" title="Download a PNG image (16:9)">⬇ PNG</button>
+    <button class="tb" id="btnPrint" title="Print / Save as PDF at A3 landscape">🖨 A3 / PDF</button>
+  </div>
+
+  <div class="stage-wrap">
+    <div class="stage"><svg id="map" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid meet" role="img"
+      aria-label="Concentric mind map of the Improv Mastery Framework"></svg></div>
+  </div>
+  <div class="hint">Hover any node for its definition · toggle <b>Techniques</b> to collapse the outer ring ·
+    export as a 16:9 <b>PNG</b> or print to <b>A3</b> landscape PDF.</div>
+  <div class="tooltip" id="tip"></div>
+
+<script src="assets/mindmap-data.js"></script>
+<script>
+/* ============================ DATA (119 nodes) ============================ */
+const DOMAINS = window.IMPROV_DOMAINS;
+const DOMVAR = ["--d1","--d2","--d3","--d4","--d5"];
+
+/* ============================ GEOMETRY =================================== */
+const SVG = document.getElementById("map");
+const NS = "http://www.w3.org/2000/svg";
+const CX = 800, CY = 450;               // centre of 1600×900 stage (room for legend top-left)
+const R = {dom:106, mid:176, tech:296}; // concentric radii (wide skill→tech gap; pole labels fit 16:9)
+const GAP = 0.045;                      // angular gap between domains (radians)
+let showTech = false;
+
+function el(tag, attrs){ const e=document.createElementNS(NS,tag);
+  for(const k in attrs) e.setAttribute(k, attrs[k]); return e; }
+function polar(r,a){ return [r*Math.sin(a), -r*Math.cos(a)]; }  // a: 0=top, clockwise
+function cssv(v){ return getComputedStyle(document.body).getPropertyValue(v).trim(); }
+
+/* Build the visible node list with angles + radii */
+function layout(){
+  // leaves per domain
+  const domLeaves = DOMAINS.map(d=>{
+    let n = d.principles.length;
+    n += showTech ? d.skills.reduce((s,sk)=>s+sk.techniques.length,0) : d.skills.length;
+    return n;
+  });
+  const total = domLeaves.reduce((a,b)=>a+b,0);
+  const avail = 2*Math.PI - GAP*DOMAINS.length;
+  const nodes=[], links=[];
+  let cursor = GAP/2;                       // start just after the top gap
+  DOMAINS.forEach((d,di)=>{
+    const win = avail * (domLeaves[di]/total);
+    const color = cssv(DOMVAR[di]);
+    // ordered leaves for this domain: principles, then skills(→techniques)
+    const leaf=[]; // {ref, kind, parentAngleSetter}
+    d.principles.forEach(p=>leaf.push({node:p,kind:"prin"}));
+    const skillLeafRanges=[];
+    d.skills.forEach(sk=>{
+      if(showTech){ const start=leaf.length;
+        sk.techniques.forEach(t=>leaf.push({node:t,kind:"tech"}));
+        skillLeafRanges.push({sk,start,end:leaf.length-1});
+      } else { leaf.push({node:sk,kind:"skill"}); }
+    });
+    const nL = leaf.length;
+    const angleOf = i => cursor + ((i+0.5)/nL)*win;
+    // domain node
+    const dA = cursor + win/2;
+    nodes.push({kind:"dom",code:d.code,name:d.emoji+"  "+d.name,plain:d.name,desc:d.desc,
+                r:R.dom,a:dA,color,di,root:true});
+    links.push({a1:dA,r1:58,a2:dA,r2:R.dom,color,trunk:true}); // hub → domain spoke
+    // principles (leaves at mid ring)
+    d.principles.forEach((p,pi)=>{
+      const a=angleOf(pi);
+      nodes.push({kind:"prin",code:p.code,name:p.name,desc:p.desc,r:R.mid,a,color,di});
+      links.push({a1:dA,r1:R.dom,a2:a,r2:R.mid,color});
+    });
+    if(showTech){
+      skillLeafRanges.forEach(({sk,start,end})=>{
+        const aSk=(angleOf(start)+angleOf(end))/2;
+        nodes.push({kind:"skill",code:sk.code,name:sk.name,desc:sk.descShort||"The judgment of which technique to deploy, when, and how much.",r:R.mid,a:aSk,color,di});
+        links.push({a1:dA,r1:R.dom,a2:aSk,r2:R.mid,color});
+        sk.techniques.forEach((t,ti)=>{
+          const a=angleOf(start+ti);
+          nodes.push({kind:"tech",code:t.code,name:t.name,desc:"Drillable technique that trains “"+sk.name+"”.",r:R.tech,a,color,di});
+          links.push({a1:aSk,r1:R.mid,a2:a,r2:R.tech,color});
+        });
+      });
+    } else {
+      // skills are leaves on the mid ring
+      let li=d.principles.length;
+      d.skills.forEach(sk=>{
+        const a=angleOf(li++);
+        nodes.push({kind:"skill",code:sk.code,name:sk.name,desc:"Skill — trains "+sk.techniques.length+" techniques.",r:R.mid,a,color,di});
+        links.push({a1:dA,r1:R.dom,a2:a,r2:R.mid,color});
+      });
+    }
+    cursor += win + GAP;
+  });
+  return {nodes,links};
+}
+
+/* radial smooth link path (d3-style) in centre-origin space */
+function linkPath(l){
+  const [x1,y1]=polar(l.r1,l.a1), [x2,y2]=polar(l.r2,l.a2);
+  const mr=(l.r1+l.r2)/2;
+  const [cx1,cy1]=polar(mr,l.a1), [cx2,cy2]=polar(mr,l.a2);
+  return `M${x1},${y1} C${cx1},${cy1} ${cx2},${cy2} ${x2},${y2}`;
+}
+
+const KIND_LABEL={dom:"Domain",prin:"Principle",skill:"Skill",tech:"Technique"};
+function render(){
+  while(SVG.firstChild) SVG.removeChild(SVG.firstChild);
+  const {nodes,links}=layout();
+  const g=el("g",{transform:`translate(${CX},${CY})`}); SVG.appendChild(g);
+
+  // concentric ring guides
+  [R.dom,R.mid, ...(showTech?[R.tech]:[])].forEach(r=>
+    g.appendChild(el("circle",{class:"ring-guide",r})));
+
+  // links
+  const gl=el("g",{}); g.appendChild(gl);
+  links.forEach(l=>{ const p=el("path",{class:"link",d:linkPath(l),stroke:l.color});
+    if(l.trunk){ p.setAttribute("stroke-width","2.4"); p.setAttribute("opacity",".75"); }
+    gl.appendChild(p); l._p=p; });
+
+  // hub
+  const hub=el("g",{}); g.appendChild(hub);
+  hub.appendChild(el("circle",{r:56,fill:cssv("--hub")}));
+  const h1=el("text",{"text-anchor":"middle",fill:cssv("--hub-ink"),"font-weight":"800","font-size":"18",y:-6}); h1.textContent="IMPROV"; hub.appendChild(h1);
+  const h2=el("text",{"text-anchor":"middle",fill:cssv("--hub-ink"),"font-weight":"800","font-size":"18",y:16}); h2.textContent="MASTERY"; hub.appendChild(h2);
+  const h3=el("text",{"text-anchor":"middle",fill:cssv("--hub-ink"),"font-size":"10",opacity:".85",y:34}); h3.textContent="Layer 0 · Safety"; hub.appendChild(h3);
+
+  // nodes + labels
+  const gn=el("g",{}); g.appendChild(gn);
+  nodes.forEach(n=>{
+    const [x,y]=polar(n.r,n.a);
+    const grp=el("g",{}); gn.appendChild(grp); n._g=grp;
+    // marker
+    let mk;
+    if(n.kind==="dom"){ mk=el("circle",{cx:x,cy:y,r:9,class:"node-dot",fill:n.color,"stroke-width":"2.5"}); }
+    else if(n.kind==="prin"){ // diamond
+      mk=el("rect",{x:x-5,y:y-5,width:10,height:10,transform:`rotate(45 ${x} ${y})`,class:"node-dot",fill:n.color,"fill-opacity":".55"}); }
+    else if(n.kind==="skill"){ mk=el("circle",{cx:x,cy:y,r:6,class:"node-dot",fill:n.color}); }
+    else { mk=el("circle",{cx:x,cy:y,r:3.4,fill:n.color,"fill-opacity":".85"}); }
+    grp.appendChild(mk);
+
+    if(n.kind==="dom"){
+      // tangential label in the empty hub→domain annulus (ink, not series colour)
+      let ta=n.a*180/Math.PI; if(ta>90 && ta<270) ta-=180;
+      const rl=80, [lx,ly]=polar(rl,n.a);
+      const t=el("text",{class:"t-dom",x:lx,y:ly,"text-anchor":"middle","dominant-baseline":"middle",
+        transform:`rotate(${ta} ${lx} ${ly})`, fill:cssv("--ink"),
+        stroke:cssv("--surface"),"stroke-width":"4.5","paint-order":"stroke"});
+      t.textContent=n.plain; grp.appendChild(t);
+    } else {
+      // radial label along the spoke
+      const deg=n.a*180/Math.PI-90, left=n.a>Math.PI;
+      const lg=el("g",{transform:`rotate(${deg}) translate(${n.r+10},0)`});
+      const cls = n.kind==="skill"?"t-skill":n.kind==="prin"?"t-prin":"t-tech";
+      const t=el("text",{class:cls,"text-anchor":left?"end":"start","dominant-baseline":"middle",
+        transform:left?"rotate(180)":"", stroke:cssv("--surface"),"stroke-width":"3.2","paint-order":"stroke"});
+      t.textContent=n.name; lg.appendChild(t);
+      grp.appendChild(lg);
+    }
+
+    // interactions
+    grp.style.cursor="pointer";
+    grp.addEventListener("mouseenter",e=>hover(n,nodes,true,e));
+    grp.addEventListener("mousemove",e=>moveTip(e));
+    grp.addEventListener("mouseleave",()=>hover(n,nodes,false));
+  });
+
+  drawLegend();
+}
+
+/* highlight the branch (domain) of the hovered node */
+function hover(n,nodes,on,e){
+  const tip=document.getElementById("tip");
+  if(on){
+    nodes.forEach(m=>{ m._g.classList.toggle("faded", m.di!==n.di); });
+    // tooltip
+    tip.innerHTML=`<span class="tt-kind" style="background:${n.color}">${KIND_LABEL[n.kind]}</span>
+      <div class="tt-code">${n.code}</div>
+      <div class="tt-name">${(n.plain||n.name)}</div>
+      <div>${n.desc||""}</div>`;
+    tip.style.opacity="1"; moveTip(e);
+  } else {
+    nodes.forEach(m=>m._g.classList.remove("faded"));
+    tip.style.opacity="0";
+  }
+}
+function moveTip(e){ const tip=document.getElementById("tip");
+  const pad=14; let x=e.clientX+pad, y=e.clientY+pad;
+  const r=tip.getBoundingClientRect();
+  if(x+r.width>innerWidth) x=e.clientX-r.width-pad;
+  if(y+r.height>innerHeight) y=e.clientY-r.height-pad;
+  tip.style.left=x+"px"; tip.style.top=y+"px";
+}
+
+/* legend drawn in SVG (top-left) so it exports with the image */
+function drawLegend(){
+  const g=el("g",{transform:"translate(28,26)"}); SVG.appendChild(g);
+  const ink=cssv("--ink"), ink2=cssv("--ink-2");
+  const title=el("text",{x:0,y:0,"font-size":"14","font-weight":"800",fill:ink}); title.textContent="Layers"; g.appendChild(title);
+  const layers=[["Domain","dom"],["Principle · Why","prin"],["Skill · What","skill"],["Technique · How","tech"]];
+  layers.forEach((L,i)=>{
+    const y=18+i*18, row=el("g",{transform:`translate(2,${y})`}); g.appendChild(row);
+    if(L[1]==="prin") row.appendChild(el("rect",{x:-5,y:-5,width:10,height:10,transform:"rotate(45 0 0)",fill:ink2,"fill-opacity":".55"}));
+    else row.appendChild(el("circle",{cx:0,cy:0,r:L[1]==="dom"?7:L[1]==="skill"?5:3.2,fill:ink2}));
+    const tx=el("text",{x:16,y:4,"font-size":"12",fill:ink2}); tx.textContent=L[0]; row.appendChild(tx);
+  });
+  // domain colour key (top-right)
+  const gr=el("g",{transform:"translate(1440,26)"}); SVG.appendChild(gr);
+  const t2=el("text",{x:0,y:0,"font-size":"14","font-weight":"800",fill:ink,"text-anchor":"start"}); t2.textContent="Domains"; gr.appendChild(t2);
+  DOMAINS.forEach((d,i)=>{
+    const y=18+i*18, row=el("g",{transform:`translate(2,${y})`}); gr.appendChild(row);
+    row.appendChild(el("circle",{cx:0,cy:0,r:6,fill:cssv(DOMVAR[i])}));
+    const tx=el("text",{x:14,y:4,"font-size":"12",fill:ink2}); tx.textContent=(i+1)+". "+d.name; row.appendChild(tx);
+  });
+  // footnote
+  const fn=el("text",{x:28,y:876,"font-size":"11",fill:cssv("--muted")});
+  fn.textContent="Learn bottom-up (Technique→Skill→Principle) · Perform top-down (Principle→Skill→Technique).";
+  SVG.appendChild(fn);
+}
+
+/* ============================ CONTROLS =================================== */
+const btnTech=document.getElementById("btnTech");
+btnTech.addEventListener("click",()=>{
+  showTech=!showTech;
+  btnTech.setAttribute("aria-pressed",showTech);
+  btnTech.textContent="Techniques: "+(showTech?"shown":"hidden");
+  render();
+});
+document.getElementById("btnTheme").addEventListener("click",()=>{
+  const b=document.body;
+  if(b.classList.contains("force-dark")){b.classList.remove("force-dark");b.classList.add("force-light");}
+  else if(b.classList.contains("force-light")){b.classList.remove("force-light");}
+  else{b.classList.add("force-dark");}
+  render();
+});
+document.getElementById("btnPrint").addEventListener("click",()=>window.print());
+document.getElementById("btnPNG").addEventListener("click",exportPNG);
+
+function exportPNG(){
+  const clone=SVG.cloneNode(true);
+  clone.setAttribute("xmlns",NS);
+  clone.setAttribute("width",1600); clone.setAttribute("height",900); // intrinsic size for raster
+  // Inline a resolved stylesheet (concrete hex, no CSS vars) — the class-based
+  // font sizes/weights and strokes live in the page <style> and won't otherwise
+  // travel with a cloned SVG rendered as an image.
+  const st=document.createElementNS(NS,"style");
+  st.textContent=`
+    text{font-family:system-ui,-apple-system,'Segoe UI',sans-serif; fill:${cssv('--ink')};}
+    .ring-guide{fill:none; stroke:${cssv('--grid')}; stroke-width:1; stroke-dasharray:2 6;}
+    .link{fill:none; stroke-width:1.4; opacity:.55;}
+    .node-dot{stroke:${cssv('--surface')}; stroke-width:1.5;}
+    .t-tech{font-size:10.5px; fill:${cssv('--ink-2')};}
+    .t-skill{font-size:12.5px; font-weight:700;}
+    .t-prin{font-size:12px; font-style:italic;}
+    .t-dom{font-size:17px; font-weight:800;}`;
+  clone.insertBefore(st,clone.firstChild);
+  // paint a solid background rect so the PNG isn't transparent
+  const bg=el("rect",{x:0,y:0,width:1600,height:900,fill:cssv("--surface")});
+  clone.insertBefore(bg,clone.firstChild);
+  const xml=new XMLSerializer().serializeToString(clone);
+  const svg64="data:image/svg+xml;charset=utf-8,"+encodeURIComponent(xml);
+  const img=new Image();
+  img.onload=()=>{
+    const scale=2.4, c=document.createElement("canvas");
+    c.width=1600*scale; c.height=900*scale;
+    const ctx=c.getContext("2d"); ctx.scale(scale,scale); ctx.drawImage(img,0,0);
+    c.toBlob(b=>{
+      const a=document.createElement("a");
+      a.href=URL.createObjectURL(b); a.download="improv-mind-map-16x9.png"; a.click();
+      setTimeout(()=>URL.revokeObjectURL(a.href),1000);
+    },"image/png");
+  };
+  img.src=svg64;
+}
+
+render();
+window.addEventListener("resize",()=>{}); // viewBox handles scaling
+</script>
+</body>
+</html>
