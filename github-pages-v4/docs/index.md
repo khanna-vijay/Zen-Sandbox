@@ -19,7 +19,6 @@ We believe improvisation is far more than "making up jokes on the spot." It's a 
 
 [▶ Our Improv Song](https://www.youtube.com/watch?v=9Qi_dvZmFyI){.glightbox}
 
-
 #### The Sandbox Vibe: Low Expectations, High Fun
 
 Life is unscripted, yet we often forget how to navigate it without a plan. Zen Sandbox is a safe, low-pressure space where no prior experience is needed and there's nothing to prepare.
