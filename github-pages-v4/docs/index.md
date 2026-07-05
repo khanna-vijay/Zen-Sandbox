@@ -17,7 +17,16 @@ Zen Sandbox is a non-profit community built around the playful and profound art 
 
 We believe improvisation is far more than "making up jokes on the spot." It's a practice of presence, collaboration, and openness. Whether you're leading a meeting, navigating a personal transition, or simply looking to unwind, improv offers a way of meeting an unpredictable world with a resilient, playful spirit.
 
-[▶ Our Improv Song](https://www.youtube.com/watch?v=9Qi_dvZmFyI){.glightbox}
+<div style="max-width:720px; margin:1.2rem 0;">
+  <iframe style="width:100%; aspect-ratio:16/9; border:0; border-radius:.4rem;"
+    src="https://www.youtube-nocookie.com/embed/9Qi_dvZmFyI"
+    title="Our Improv Song"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen></iframe>
+</div>
+
+🎵 [Our Improv Song](https://www.youtube.com/watch?v=9Qi_dvZmFyI)
 
 #### The Sandbox Vibe: Low Expectations, High Fun
 
