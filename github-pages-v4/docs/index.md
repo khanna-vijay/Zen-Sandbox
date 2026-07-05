@@ -56,11 +56,3 @@ A few beautifully simple ideas sit at the heart of our community — and they ha
 | **No Mistakes** | A misstep becomes an unexpected gift; you weave the stumble right into the scene. | We trade the fear of failure for curious exploration. |
 
 ---
-
-#### 🗺️ The Whole System, One Canvas
-
-Curious how it all fits together? Explore the entire framework — every **Domain, Principle, Skill, and Technique** — as a single, interactive concentric **mind map**.
-
-[🗺️ Open the Improv Mastery Mind Map](Summary.md){ .md-button .md-button--primary }
-
----
