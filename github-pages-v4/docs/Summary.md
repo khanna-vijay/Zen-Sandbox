@@ -1,5 +1,5 @@
 ---
-title: Mind Map (Summary)
+title: Mind Map
 hide:
   - toc
 ---
