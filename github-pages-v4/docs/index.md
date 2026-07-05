@@ -13,9 +13,11 @@ hide:
 
 #### Who We Are
 
-Zen Sandbox is an online, non-profit community built around the playful and profound art of improvisation. We're a small, trusted circle of friends, colleagues, and collaborators who gather to step away from the over-scripted nature of daily life.
+Zen Sandbox is a non-profit community built around the playful and profound art of improvisation. We're a small, trusted circle of friends, colleagues, and collaborators who gather to step away from the over-scripted nature of daily life.
 
 We believe improvisation is far more than "making up jokes on the spot." It's a practice of presence, collaboration, and openness. Whether you're leading a meeting, navigating a personal transition, or simply looking to unwind, improv offers a way of meeting an unpredictable world with a resilient, playful spirit.
+
+[▶ Our Improv Song](https://www.youtube.com/watch?v=9Qi_dvZmFyI){.glightbox}
 
 #### The Sandbox Vibe: Low Expectations, High Fun
 
