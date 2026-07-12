@@ -286,9 +286,12 @@
   }
   .zs-onerow .md-header__button.md-logo { order: 1; padding: .1rem; }
   .zs-onerow .md-header__inner > .md-tabs__list {
-    order: 2; flex: 1 1 auto; display: flex; margin: 0; padding: 0;
-  }
-  .zs-onerow .md-search { order: 3; }
+    order: 2; flex: 1 1 auto; display: flex; flex-wrap: nowrap; margin: 0; padding: 0;
+  }                                                      /* nowrap → all tabs stay on one row */
+  /* Search shrunk to ~1/4 of its default width so all the tabs fit beside it on one row.
+     It still expands to full width on focus (Material's [data-md-toggle=search]:checked rule). */
+  .zs-onerow .md-search { order: 3; flex: 0 0 auto; }
+  .zs-onerow .md-search__inner { width: 2.9rem; }        /* was ~11.7rem (≈ 1/4) */
   .zs-onerow .md-header__source { order: 4; width: auto; margin-left: .2rem; }
   .zs-onerow .md-header__title {
     order: 5; flex: 0 1 auto; margin: 0 .2rem 0 .4rem; font-size: .82rem; line-height: 1.15;
