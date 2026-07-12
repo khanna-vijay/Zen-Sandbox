@@ -33,7 +33,7 @@ hide:
 - **The one cue to coach:** *“Same but more. Then ask why it's true.”*
 
 !!! abstract "📖 Go deeper"
-    Read the full write-up: [Heightening & Exploration](../../content/03_the-scene/03_S2__heightening-and-exploration.md)
+    Read the full write-up: [Heightening & Exploration](../../theory/03_the-scene/03_S2__heightening-and-exploration.md)
 
 ## 2. 🎲 Today's games
 

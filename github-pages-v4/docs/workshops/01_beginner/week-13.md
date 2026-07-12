@@ -33,7 +33,7 @@ hide:
 - **The one cue to coach:** *“If it's weird, decide why it's normal here.”*
 
 !!! abstract "📖 Go deeper"
-    Read the full write-up: [Justification](../../content/03_the-scene/03_S6__justification.md)
+    Read the full write-up: [Justification](../../theory/03_the-scene/03_S6__justification.md)
 
 ## 2. 🎲 Today's games
 

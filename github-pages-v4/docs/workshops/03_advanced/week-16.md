@@ -33,7 +33,7 @@ hide:
 - **The one cue to coach:** *“Ride the wave. Break the wall only on purpose.”*
 
 !!! abstract "📖 Go deeper"
-    Read the full write-up: [Audience-Energy Management](../../content/05_the-audience/05_S2__audience-energy-management.md)
+    Read the full write-up: [Audience-Energy Management](../../theory/05_the-audience/05_S2__audience-energy-management.md)
 
 ## 2. 🎲 Today's games
 

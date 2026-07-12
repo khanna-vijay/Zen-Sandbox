@@ -33,7 +33,7 @@ hide:
 - **The one cue to coach:** *“Let it breathe. Don't fill the gap.”*
 
 !!! abstract "📖 Go deeper"
-    Read the full write-up: [Silence & Stillness](../../content/01_the-self/01_S5__silence-and-stillness.md)
+    Read the full write-up: [Silence & Stillness](../../theory/01_the-self/01_S5__silence-and-stillness.md)
 
 ## 2. 🎲 Today's games
 

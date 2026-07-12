@@ -37,8 +37,8 @@ hide:
 - **The one cue to coach:** *“Know the rule so well you can shatter it.”*
 
 !!! abstract "📖 Go deeper"
-    Read the full write-up: [Game Identification](../../content/03_the-scene/03_S1__game-identification.md)
-    · [Heightening & Exploration](../../content/03_the-scene/03_S2__heightening-and-exploration.md)
+    Read the full write-up: [Game Identification](../../theory/03_the-scene/03_S1__game-identification.md)
+    · [Heightening & Exploration](../../theory/03_the-scene/03_S2__heightening-and-exploration.md)
 
 ## 2. 🎲 Today's games
 

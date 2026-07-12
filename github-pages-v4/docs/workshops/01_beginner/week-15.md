@@ -33,7 +33,7 @@ hide:
 - **The one cue to coach:** *“Open up. Let them see your face and your choice.”*
 
 !!! abstract "📖 Go deeper"
-    Read the full write-up: [Stage Presence & Clarity](../../content/05_the-audience/05_S3__stage-presence-and-clarity.md)
+    Read the full write-up: [Stage Presence & Clarity](../../theory/05_the-audience/05_S3__stage-presence-and-clarity.md)
 
 ## 2. 🎲 Today's games
 

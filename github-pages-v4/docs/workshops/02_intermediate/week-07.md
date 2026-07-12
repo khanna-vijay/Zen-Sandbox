@@ -36,7 +36,7 @@ hide:
 - **The one cue to coach:** *“What's the one funny thing? Do it again.”*
 
 !!! abstract "📖 Go deeper"
-    Read the full write-up: [Game Identification](../../content/03_the-scene/03_S1__game-identification.md)
+    Read the full write-up: [Game Identification](../../theory/03_the-scene/03_S1__game-identification.md)
 
 ## 2. 🎲 Today's games
 

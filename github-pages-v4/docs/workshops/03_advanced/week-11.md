@@ -33,7 +33,7 @@ hide:
 - **The one cue to coach:** *“Nothing is wasted. Bring it all back.”*
 
 !!! abstract "📖 Go deeper"
-    Read the full write-up: [Thematic Synthesis](../../content/04_the-ensemble/04_S5__thematic-synthesis.md)
+    Read the full write-up: [Thematic Synthesis](../../theory/04_the-ensemble/04_S5__thematic-synthesis.md)
 
 ## 2. 🎲 Today's games
 

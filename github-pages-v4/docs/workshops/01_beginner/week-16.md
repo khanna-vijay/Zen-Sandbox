@@ -38,10 +38,10 @@ hide:
 - **The one cue to coach:** *“Trust the basics. Have fun. Support each other.”*
 
 !!! abstract "📖 Go deeper"
-    Read the full write-up: [Offer Reception](../../content/02_the-partner/02_S4__offer-reception.md)
-    · [Unfiltered Spontaneity](../../content/01_the-self/01_S1__unfiltered-spontaneity.md)
-    · [Active Listening](../../content/02_the-partner/02_S1__active-listening.md)
-    · [World-Building](../../content/03_the-scene/03_S5__world-building.md)
+    Read the full write-up: [Offer Reception](../../theory/02_the-partner/02_S4__offer-reception.md)
+    · [Unfiltered Spontaneity](../../theory/01_the-self/01_S1__unfiltered-spontaneity.md)
+    · [Active Listening](../../theory/02_the-partner/02_S1__active-listening.md)
+    · [World-Building](../../theory/03_the-scene/03_S5__world-building.md)
 
 ## 2. 🎲 Today's games
 

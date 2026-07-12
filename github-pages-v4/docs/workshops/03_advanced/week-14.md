@@ -32,7 +32,7 @@ hide:
 - **The one cue to coach:** *“Let the inspiration drive the scenes.”*
 
 !!! abstract "📖 Go deeper"
-    Read the full write-up: [Format Literacy](../../content/04_the-ensemble/04_S6__format-literacy.md)
+    Read the full write-up: [Format Literacy](../../theory/04_the-ensemble/04_S6__format-literacy.md)
 
 ## 2. 🎲 Today's games
 

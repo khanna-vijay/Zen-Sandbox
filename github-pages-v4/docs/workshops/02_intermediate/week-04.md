@@ -33,7 +33,7 @@ hide:
 - **The one cue to coach:** *“What did they really mean? Build on that.”*
 
 !!! abstract "📖 Go deeper"
-    Read the full write-up: [Active Listening](../../content/02_the-partner/02_S1__active-listening.md)
+    Read the full write-up: [Active Listening](../../theory/02_the-partner/02_S1__active-listening.md)
 
 ## 2. 🎲 Today's games
 

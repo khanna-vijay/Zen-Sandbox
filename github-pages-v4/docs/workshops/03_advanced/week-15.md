@@ -33,7 +33,7 @@ hide:
 - **The one cue to coach:** *“Play to everyone at once. Find the shared breath.”*
 
 !!! abstract "📖 Go deeper"
-    Read the full write-up: [Room Reading](../../content/05_the-audience/05_S1__room-reading.md)
+    Read the full write-up: [Room Reading](../../theory/05_the-audience/05_S1__room-reading.md)
 
 ## 2. 🎲 Today's games
 

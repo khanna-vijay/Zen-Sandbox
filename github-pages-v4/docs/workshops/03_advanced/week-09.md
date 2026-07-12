@@ -36,7 +36,7 @@ hide:
 - **The one cue to coach:** *“When someone's strong, the whole team follows.”*
 
 !!! abstract "📖 Go deeper"
-    Read the full write-up: [Peripheral Awareness](../../content/04_the-ensemble/04_S1__peripheral-awareness.md)
+    Read the full write-up: [Peripheral Awareness](../../theory/04_the-ensemble/04_S1__peripheral-awareness.md)
 
 ## 2. 🎲 Today's games
 

@@ -36,10 +36,10 @@ hide:
 - **The one cue to coach:** *“Everything you know, in service of one piece.”*
 
 !!! abstract "📖 Go deeper"
-    Read the full write-up: [Format Literacy](../../content/04_the-ensemble/04_S6__format-literacy.md)
-    · [Narrative Architecture](../../content/03_the-scene/03_S3__narrative-architecture.md)
-    · [Audience-Energy Management](../../content/05_the-audience/05_S2__audience-energy-management.md)
-    · [Unfiltered Spontaneity](../../content/01_the-self/01_S1__unfiltered-spontaneity.md)
+    Read the full write-up: [Format Literacy](../../theory/04_the-ensemble/04_S6__format-literacy.md)
+    · [Narrative Architecture](../../theory/03_the-scene/03_S3__narrative-architecture.md)
+    · [Audience-Energy Management](../../theory/05_the-audience/05_S2__audience-energy-management.md)
+    · [Unfiltered Spontaneity](../../theory/01_the-self/01_S1__unfiltered-spontaneity.md)
 
 ## 2. 🎲 Today's games
 

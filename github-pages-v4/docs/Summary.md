@@ -240,4 +240,4 @@ Every concept lives at the intersection of three axes — the map draws the firs
 
 ---
 
-*The interactive map and this outline are generated from the same data. Source: the [Improv Mastery Framework](improv-maturity-framework.md) and the [Domains](content/01_the-self/01_D__the-self.md).*
+*The interactive map and this outline are generated from the same data. Source: the [Improv Mastery Framework](improv-maturity-framework.md) and the [Domains](theory/01_the-self/01_D__the-self.md).*

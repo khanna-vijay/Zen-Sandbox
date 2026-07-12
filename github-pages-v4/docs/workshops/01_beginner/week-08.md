@@ -33,7 +33,7 @@ hide:
 - **The one cue to coach:** *“Yes to their reality. And to your contribution.”*
 
 !!! abstract "📖 Go deeper"
-    Read the full write-up: [Offer Reception](../../content/02_the-partner/02_S4__offer-reception.md)
+    Read the full write-up: [Offer Reception](../../theory/02_the-partner/02_S4__offer-reception.md)
 
 ## 2. 🎲 Today's games
 
