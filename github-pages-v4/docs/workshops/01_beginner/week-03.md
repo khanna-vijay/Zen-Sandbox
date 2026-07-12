@@ -33,7 +33,7 @@ hide:
 - **The one cue to coach:** *“Pick a number. Commit the whole body to it.”*
 
 !!! abstract "📖 Go deeper"
-    Read the full write-up: [Emotional Fluidity](../../content/01_the-self/01_S2__emotional-fluidity.md)
+    Read the full write-up: [Emotional Fluidity](../../theory/01_the-self/01_S2__emotional-fluidity.md)
 
 ## 2. 🎲 Today's games
 

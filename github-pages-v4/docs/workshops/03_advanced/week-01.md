@@ -37,8 +37,8 @@ hide:
 - **The one cue to coach:** *“Don't decide to move. Just move.”*
 
 !!! abstract "📖 Go deeper"
-    Read the full write-up: [Unfiltered Spontaneity](../../content/01_the-self/01_S1__unfiltered-spontaneity.md)
-    · [Boundary Navigation](../../content/02_the-partner/02_S6__boundary-navigation.md)
+    Read the full write-up: [Unfiltered Spontaneity](../../theory/01_the-self/01_S1__unfiltered-spontaneity.md)
+    · [Boundary Navigation](../../theory/02_the-partner/02_S6__boundary-navigation.md)
 
 ## 2. 🎲 Today's games
 

@@ -33,7 +33,7 @@ hide:
 - **The one cue to coach:** *“Earn the shift. Let the scene move you.”*
 
 !!! abstract "📖 Go deeper"
-    Read the full write-up: [Emotional Fluidity](../../content/01_the-self/01_S2__emotional-fluidity.md)
+    Read the full write-up: [Emotional Fluidity](../../theory/01_the-self/01_S2__emotional-fluidity.md)
 
 ## 2. 🎲 Today's games
 

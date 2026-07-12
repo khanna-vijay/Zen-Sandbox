@@ -38,10 +38,10 @@ hide:
 - **The one cue to coach:** *“Pick your engine and commit. Trust your edits.”*
 
 !!! abstract "📖 Go deeper"
-    Read the full write-up: [Game Identification](../../content/03_the-scene/03_S1__game-identification.md)
-    · [Narrative Architecture](../../content/03_the-scene/03_S3__narrative-architecture.md)
-    · [Support Work](../../content/04_the-ensemble/04_S2__support-work.md)
-    · [Room Reading](../../content/05_the-audience/05_S1__room-reading.md)
+    Read the full write-up: [Game Identification](../../theory/03_the-scene/03_S1__game-identification.md)
+    · [Narrative Architecture](../../theory/03_the-scene/03_S3__narrative-architecture.md)
+    · [Support Work](../../theory/04_the-ensemble/04_S2__support-work.md)
+    · [Room Reading](../../theory/05_the-audience/05_S1__room-reading.md)
 
 ## 2. 🎲 Today's games
 

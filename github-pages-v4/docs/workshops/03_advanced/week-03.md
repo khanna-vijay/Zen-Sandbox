@@ -34,8 +34,8 @@ hide:
 - **The one cue to coach:** *“Listen with your eyes. Set them up without them noticing.”*
 
 !!! abstract "📖 Go deeper"
-    Read the full write-up: [Active Listening](../../content/02_the-partner/02_S1__active-listening.md)
-    · [Active Gifting](../../content/02_the-partner/02_S5__active-gifting.md)
+    Read the full write-up: [Active Listening](../../theory/02_the-partner/02_S1__active-listening.md)
+    · [Active Gifting](../../theory/02_the-partner/02_S5__active-gifting.md)
 
 ## 2. 🎲 Today's games
 

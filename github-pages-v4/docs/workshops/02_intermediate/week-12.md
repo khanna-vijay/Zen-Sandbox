@@ -34,8 +34,8 @@ hide:
 - **The one cue to coach:** *“Plant it early, pay it off late.”*
 
 !!! abstract "📖 Go deeper"
-    Read the full write-up: [World-Building](../../content/03_the-scene/03_S5__world-building.md)
-    · [Justification](../../content/03_the-scene/03_S6__justification.md)
+    Read the full write-up: [World-Building](../../theory/03_the-scene/03_S5__world-building.md)
+    · [Justification](../../theory/03_the-scene/03_S6__justification.md)
 
 ## 2. 🎲 Today's games
 

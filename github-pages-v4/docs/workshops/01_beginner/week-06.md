@@ -34,8 +34,8 @@ hide:
 - **The one cue to coach:** *“Take a bow for the mistake. Then justify it.”*
 
 !!! abstract "📖 Go deeper"
-    Read the full write-up: [Self-Recovery](../../content/01_the-self/01_S6__self-recovery.md)
-    · [Silence & Stillness](../../content/01_the-self/01_S5__silence-and-stillness.md)
+    Read the full write-up: [Self-Recovery](../../theory/01_the-self/01_S6__self-recovery.md)
+    · [Silence & Stillness](../../theory/01_the-self/01_S5__silence-and-stillness.md)
 
 ## 2. 🎲 Today's games
 

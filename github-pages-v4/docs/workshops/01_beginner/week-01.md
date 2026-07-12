@@ -36,7 +36,7 @@ hide:
 - **The one cue to coach:** *“You can always say 'Cut.' Nothing happens without a yes.”*
 
 !!! abstract "📖 Go deeper"
-    Read the full write-up: [Boundary Navigation](../../content/02_the-partner/02_S6__boundary-navigation.md)
+    Read the full write-up: [Boundary Navigation](../../theory/02_the-partner/02_S6__boundary-navigation.md)
 
 ## 2. 🎲 Today's games
 

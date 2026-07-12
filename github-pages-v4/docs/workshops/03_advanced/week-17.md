@@ -34,9 +34,9 @@ hide:
 - **The one cue to coach:** *“What does the show need right now?”*
 
 !!! abstract "📖 Go deeper"
-    Read the full write-up: [Support Work](../../content/04_the-ensemble/04_S2__support-work.md)
-    · [Room Reading](../../content/05_the-audience/05_S1__room-reading.md)
-    · [Narrative Architecture](../../content/03_the-scene/03_S3__narrative-architecture.md)
+    Read the full write-up: [Support Work](../../theory/04_the-ensemble/04_S2__support-work.md)
+    · [Room Reading](../../theory/05_the-audience/05_S1__room-reading.md)
+    · [Narrative Architecture](../../theory/03_the-scene/03_S3__narrative-architecture.md)
 
 ## 2. 🎲 Today's games
 

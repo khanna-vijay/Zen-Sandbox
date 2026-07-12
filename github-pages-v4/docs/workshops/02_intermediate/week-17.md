@@ -34,8 +34,8 @@ hide:
 - **The one cue to coach:** *“Let the laugh land. Don't talk over it.”*
 
 !!! abstract "📖 Go deeper"
-    Read the full write-up: [Room Reading](../../content/05_the-audience/05_S1__room-reading.md)
-    · [Audience-Energy Management](../../content/05_the-audience/05_S2__audience-energy-management.md)
+    Read the full write-up: [Room Reading](../../theory/05_the-audience/05_S1__room-reading.md)
+    · [Audience-Energy Management](../../theory/05_the-audience/05_S2__audience-energy-management.md)
 
 ## 2. 🎲 Today's games
 

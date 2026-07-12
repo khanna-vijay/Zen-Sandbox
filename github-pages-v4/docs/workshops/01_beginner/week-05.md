@@ -33,7 +33,7 @@ hide:
 - **The one cue to coach:** *“Play to the back row. Breathe, then speak.”*
 
 !!! abstract "📖 Go deeper"
-    Read the full write-up: [Vocal Craft](../../content/01_the-self/01_S4__vocal-craft.md)
+    Read the full write-up: [Vocal Craft](../../theory/01_the-self/01_S4__vocal-craft.md)
 
 ## 2. 🎲 Today's games
 

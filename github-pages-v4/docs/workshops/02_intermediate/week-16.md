@@ -33,7 +33,7 @@ hide:
 - **The one cue to coach:** *“Leave them wanting more. Cut on the laugh.”*
 
 !!! abstract "📖 Go deeper"
-    Read the full write-up: [Pacing & Rhythm](../../content/04_the-ensemble/04_S4__pacing-and-rhythm.md)
+    Read the full write-up: [Pacing & Rhythm](../../theory/04_the-ensemble/04_S4__pacing-and-rhythm.md)
 
 ## 2. 🎲 Today's games
 

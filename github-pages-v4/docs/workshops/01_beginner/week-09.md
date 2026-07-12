@@ -33,7 +33,7 @@ hide:
 - **The one cue to coach:** *“Give them the answer. Set them up to shine.”*
 
 !!! abstract "📖 Go deeper"
-    Read the full write-up: [Active Gifting](../../content/02_the-partner/02_S5__active-gifting.md)
+    Read the full write-up: [Active Gifting](../../theory/02_the-partner/02_S5__active-gifting.md)
 
 ## 2. 🎲 Today's games
 

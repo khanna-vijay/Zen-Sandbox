@@ -33,7 +33,7 @@ hide:
 - **The one cue to coach:** *“Share the lead. Make it impossible to tell who's following.”*
 
 !!! abstract "📖 Go deeper"
-    Read the full write-up: [Single-Partner Empathy & Mirroring](../../content/02_the-partner/02_S3__single-partner-empathy-and-mirroring.md)
+    Read the full write-up: [Single-Partner Empathy & Mirroring](../../theory/02_the-partner/02_S3__single-partner-empathy-and-mirroring.md)
 
 ## 2. 🎲 Today's games
 

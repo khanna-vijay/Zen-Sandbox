@@ -33,7 +33,7 @@ hide:
 - **The one cue to coach:** *“Lead with a body part. Let the walk find the character.”*
 
 !!! abstract "📖 Go deeper"
-    Read the full write-up: [Physicality & Space Work](../../content/01_the-self/01_S3__physicality-and-space-work.md)
+    Read the full write-up: [Physicality & Space Work](../../theory/01_the-self/01_S3__physicality-and-space-work.md)
 
 ## 2. 🎲 Today's games
 

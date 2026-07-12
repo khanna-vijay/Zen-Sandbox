@@ -33,7 +33,7 @@ hide:
 - **The one cue to coach:** *“Make them look brilliant. Disappear.”*
 
 !!! abstract "📖 Go deeper"
-    Read the full write-up: [Support Work](../../content/04_the-ensemble/04_S2__support-work.md)
+    Read the full write-up: [Support Work](../../theory/04_the-ensemble/04_S2__support-work.md)
 
 ## 2. 🎲 Today's games
 

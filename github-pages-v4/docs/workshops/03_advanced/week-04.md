@@ -33,7 +33,7 @@ hide:
 - **The one cue to coach:** *“Move the status to move the story.”*
 
 !!! abstract "📖 Go deeper"
-    Read the full write-up: [Status Modulation](../../content/02_the-partner/02_S2__status-modulation.md)
+    Read the full write-up: [Status Modulation](../../theory/02_the-partner/02_S2__status-modulation.md)
 
 ## 2. 🎲 Today's games
 

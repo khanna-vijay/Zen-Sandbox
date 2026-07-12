@@ -34,8 +34,8 @@ hide:
 - **The one cue to coach:** *“The voice serves the story, not your cleverness.”*
 
 !!! abstract "📖 Go deeper"
-    Read the full write-up: [Vocal Craft](../../content/01_the-self/01_S4__vocal-craft.md)
-    · [Emotional Fluidity](../../content/01_the-self/01_S2__emotional-fluidity.md)
+    Read the full write-up: [Vocal Craft](../../theory/01_the-self/01_S4__vocal-craft.md)
+    · [Emotional Fluidity](../../theory/01_the-self/01_S2__emotional-fluidity.md)
 
 ## 2. 🎲 Today's games
 

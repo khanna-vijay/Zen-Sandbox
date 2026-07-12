@@ -2,11 +2,12 @@
 (function () {
   function activeFor(href, path) {
     var seg = href.indexOf("/workshops/") >= 0 ? "/workshops/"
+            : href.indexOf("/solo-practice/") >= 0 ? "/solo-practice/"
             : href.indexOf("/games/") >= 0 ? "/games/"
-            : href.indexOf("/content/") >= 0 ? "/content/" : "__about__";
+            : href.indexOf("/theory/") >= 0 ? "/theory/" : "__about__";
     if (seg === "__about__")
-      return path.indexOf("/workshops/") < 0 && path.indexOf("/games/") < 0
-          && path.indexOf("/content/") < 0;
+      return path.indexOf("/workshops/") < 0 && path.indexOf("/solo-practice/") < 0
+          && path.indexOf("/games/") < 0 && path.indexOf("/theory/") < 0;
     return path.indexOf(seg) >= 0;
   }
   function sync() {

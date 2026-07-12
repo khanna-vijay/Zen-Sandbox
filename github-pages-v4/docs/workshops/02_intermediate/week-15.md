@@ -33,7 +33,7 @@ hide:
 - **The one cue to coach:** *“First thought's a gift — second and third are the game.”*
 
 !!! abstract "📖 Go deeper"
-    Read the full write-up: [Suggestion Deconstruction (A-to-C)](../../content/04_the-ensemble/04_S3__suggestion-deconstruction-a-to-c.md)
+    Read the full write-up: [Suggestion Deconstruction (A-to-C)](../../theory/04_the-ensemble/04_S3__suggestion-deconstruction-a-to-c.md)
 
 ## 2. 🎲 Today's games
 

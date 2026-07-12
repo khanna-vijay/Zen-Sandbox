@@ -34,8 +34,8 @@ hide:
 - **The one cue to coach:** *“Don't say it matters. Show that it costs.”*
 
 !!! abstract "📖 Go deeper"
-    Read the full write-up: [Raising the Stakes](../../content/03_the-scene/03_S7__raising-the-stakes.md)
-    · [Stakes / The “Want”](../../content/03_the-scene/03_S4__stakes-the-want.md)
+    Read the full write-up: [Raising the Stakes](../../theory/03_the-scene/03_S7__raising-the-stakes.md)
+    · [Stakes / The “Want”](../../theory/03_the-scene/03_S4__stakes-the-want.md)
 
 ## 2. 🎲 Today's games
 

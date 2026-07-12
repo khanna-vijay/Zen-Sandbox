@@ -34,8 +34,8 @@ hide:
 - **The one cue to coach:** *“What happens if they fail? Make it matter.”*
 
 !!! abstract "📖 Go deeper"
-    Read the full write-up: [Stakes / The “Want”](../../content/03_the-scene/03_S4__stakes-the-want.md)
-    · [Raising the Stakes](../../content/03_the-scene/03_S7__raising-the-stakes.md)
+    Read the full write-up: [Stakes / The “Want”](../../theory/03_the-scene/03_S4__stakes-the-want.md)
+    · [Raising the Stakes](../../theory/03_the-scene/03_S7__raising-the-stakes.md)
 
 ## 2. 🎲 Today's games
 

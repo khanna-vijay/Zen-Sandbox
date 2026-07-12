@@ -33,7 +33,7 @@ hide:
 - **The one cue to coach:** *“Every scene changes someone. Who, and how?”*
 
 !!! abstract "📖 Go deeper"
-    Read the full write-up: [Narrative Architecture](../../content/03_the-scene/03_S3__narrative-architecture.md)
+    Read the full write-up: [Narrative Architecture](../../theory/03_the-scene/03_S3__narrative-architecture.md)
 
 ## 2. 🎲 Today's games
 

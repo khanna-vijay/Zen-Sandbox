@@ -37,7 +37,7 @@ hide:
 - **The one cue to coach:** *“Say the obvious thing. Be brave enough to be boring.”*
 
 !!! abstract "📖 Go deeper"
-    Read the full write-up: [Unfiltered Spontaneity](../../content/01_the-self/01_S1__unfiltered-spontaneity.md)
+    Read the full write-up: [Unfiltered Spontaneity](../../theory/01_the-self/01_S1__unfiltered-spontaneity.md)
 
 ## 2. 🎲 Today's games
 
