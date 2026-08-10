@@ -85,7 +85,8 @@ The application form asks you to confirm **three** things. All three are set out
 | | |
 |---|---|
 | **Admission** | The organizers reserve the right of admission, and of continuing membership. We have never needed to use it. It exists so that one difficult person cannot undo a room built on trust. |
-| **Sobriety** | Please do not join a session under the influence of drugs or alcohol, or while working through severe trauma or active therapy. Improv lowers your guard by design. That is a gift on a good day and genuinely unhelpful on a hard one, so come to us when it will do you good. |
+| **Sobriety** | To maintain a safe and focused environment for the whole group, please do not join sessions under the influence of drugs or alcohol. Improv requires us to be highly present and connected with our scene partners, and showing up sober ensures we can all fully support each other. |
+| **Mental & Emotional Well-being** | Improv lowers your emotional guard by design. While this vulnerability is a gift on a good day, it can be genuinely unhelpful if you are currently working through severe trauma or intense active therapy. This space is not a substitute for clinical support. Please prioritize your healing, and come join us when you are in a season where this kind of open play will truly do you good. |
 | **Free will** | Participation is voluntary, and the training can be ended at any time. Each participant stays responsible for their own well-being, and for extending courtesy to the community. Nobody here is being graded, and nobody is being kept. |
 | **Privacy** | No recording of any kind, and nothing said in the room is shared, quoted or reused outside it. People take real risks in these sessions, and they can only do that if they know it stays in the room. |
 | **Non-commercial** | This is a non-profit endeavour, and no commercial solicitation is permitted in the forum. No pitches, no recruiting, no newsletters. Just the class. |
