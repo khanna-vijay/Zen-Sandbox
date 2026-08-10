@@ -34,9 +34,9 @@ Do not expect a magic bullet for corporate charisma or public speaking. The magi
     Everything we practise here we learned from teachers and institutions who have carried
     this art form for decades. If you can, pursue a 6-to-8-week professional, **in-person**
     improv course at a local theater — [The Second City](https://www.secondcity.com/),
-    [ComedySportz](https://cszworldwide.com/), UCB (Upright Citizens Brigade), or similar
-    thought leaders in this domain. Second City and UCB also run great **online** improv
-    courses taught by professional teachers.
+    [ComedySportz](https://cszworldwide.com/), [UCB (Upright Citizens Brigade)](https://ucbcomedy.com/),
+    or similar thought leaders in this domain. Second City and UCB also run great **online**
+    improv courses taught by professional teachers.
 
     Training from these reputed leading organizations is incredible, and I am a big fan —
     I have completed multiple improv courses with them. Our thanks to them, and to the
