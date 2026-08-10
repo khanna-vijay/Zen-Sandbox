@@ -342,6 +342,17 @@ nav:
                   - "Cheating out": theory/05_the-audience/05_S3_T1__cheating-out.md
                   - "Projection": theory/05_the-audience/05_S3_T2__projection.md
                   - "Make the choice readable": theory/05_the-audience/05_S3_T3__make-the-choice-readable.md
+      - "Long-Form":
+          - theory/long-form/index.md
+          - "Apocalypse": theory/long-form/apocalypse.md
+          - "Armando": theory/long-form/armando.md
+          - "Bat": theory/long-form/bat.md
+          - "Burrito": theory/long-form/burrito.md
+          - "Call The Corpse": theory/long-form/call-the-corpse.md
+          - "Caravan": theory/long-form/caravan.md
+          - "Chimichanga": theory/long-form/chimichanga.md
+          - "Clap-In": theory/long-form/clap-in.md
+          - "Code Blue: Improv Taboo": theory/long-form/code-blue-improv-taboo.md
   - Workshops:
       - Overview: workshops/index.md
       - "Format #1":
