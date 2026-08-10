@@ -5,8 +5,12 @@
 *.pyc
 
 # ── Build output ──
-**/site/        # MkDocs
-**/_book/       # Honkit/GitBook
+# NOTE: git has no inline comments — a trailing "# …" becomes part of the
+# pattern and silently matches nothing. Keep comments on their own line.
+# MkDocs
+**/site/
+# Honkit/GitBook
+**/_book/
 
 # ── Pipeline local artefacts (regenerable; 4K originals are large) ──
 **/.cache/
@@ -25,12 +29,19 @@
 Thumbs.db
 *.log
 
+# ── Local backups (e.g. mkdocs.yml.pre-v5.bak) — never publish ──
+*.bak
+*.orig
+*~
+
 # ── website_checker.sh output (regenerable audit report) ──
 website_link_report.md
 
 # ── Publish ONLY the v3 site to GitHub. Everything below stays local. ──
 /gitbook/
 /github-pages/
+# superseded v3 pipeline (contains local LLM-client code refs) — never publish
+/old_v3-github-pages/
 /github-pages-v3/pipeline/
 /github-pages-v3/README.md
 /v3-github-pages/
