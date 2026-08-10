@@ -8,10 +8,6 @@ hide:
 
 > *Mastering 'ai' in the Age of AI.*
 
-!!! success "💛 Zero course fees — **$0**"
-    This is a **not-for-profit community initiative**. There are **no course fees**, no
-    tiers and nothing to upgrade — it is run as part of our **pay-it-forward** initiative.
-
 I have been practicing the art form of Improvisation for some time now, and believe it is one of the most critical skills for the current era. While the world chases Artificial Intelligence, I call **Improv** the essential **'ai'** skill — **Ancient Intelligence**.
 
 It is a counter-intuitive approach to polishing essential life skills. Think of it as a modern practice of the Zen philosophy *Wu wei* (Effortless Action).
@@ -34,8 +30,17 @@ Let me be completely honest: **Improv does not guarantee anything.** There is a 
 
 Do not expect a magic bullet for corporate charisma or public speaking. The magic of improv *only* happens if you approach it with **Shoshin** (Beginner's Mind), approaching the space with total openness, eagerness, zero ego, and no expectations.
 
-!!! note "In-person training first, if you can"
-    I highly recommend pursuing a 6-to-8-week professional, in-person improv course at a local theater (like Second City, ComedySportz, UCB or similar thought leaders in this domain). SC and UCB also have great online improv courses by professional teachers. In-person training is super incredible, and I am a big fan of it.
+!!! note "With gratitude — and a strong recommendation"
+    Everything we practise here we learned from teachers and institutions who have carried
+    this art form for decades. If you can, pursue a 6-to-8-week professional, **in-person**
+    improv course at a local theater — [The Second City](https://www.secondcity.com/),
+    [ComedySportz](https://cszworldwide.com/), UCB (Upright Citizens Brigade), or similar
+    thought leaders in this domain. Second City and UCB also run great **online** improv
+    courses taught by professional teachers.
+
+    Training from these reputed leading organizations is incredible, and I am a big fan —
+    I have completed multiple improv courses with them. Our thanks to them, and to the
+    wider improv tradition, for the craft this community is built on.
 
 But, realizing many of us have busy schedules and cannot travel, a few friends and I decided to build a not-for-profit online community alternative.
 
@@ -50,27 +55,53 @@ We are piloting an intense, 8-week online improv course — a condensed version 
 | | |
 |---|---|
 | **Fees** | **None — $0.** A not-for-profit, pay-it-forward community initiative |
-| **When** | Saturdays at 8:00 AM Pacific Time (8:30 PM IST) — starting **September 5th** |
+| **When** | All 8 Saturdays, **5 September – 24 October**, 8:00 AM Pacific Time (8:30 PM IST) |
 | **Duration** | 2 hours 30 minutes (150 minutes) per weekend session |
 | **Homework** | 30 minutes of daily homework tasks between weekend sessions |
 
 [🎭 Apply for the September cohort](https://forms.gle/mTu57wvF2A1dihUB7){ .md-button .md-button--primary }
 
-Because this is a deeply interactive, vulnerable online environment, we must maintain strict boundaries to ensure the psychological safety and quality of the class. **Please review the requirements carefully before applying.**
+## 📜 What you are agreeing to
 
-## 🛡️ Community Ground Rules
+Because this is a deeply interactive and vulnerable online environment, we maintain strict boundaries to protect the psychological safety and the quality of the class.
 
-* **Commitment:** If you miss 2 sessions, you will be asked to step out and rejoin a future batch. Each module builds on the previous one, so missing classes will impact the group's learning experience.
-* **Respect:** Zero tolerance for political, religious, or discriminatory discussions.
-* **Safety First:** Your well-being is paramount. If you feel anxious or uncomfortable, you may drop out anytime, no explanation needed.
-* **Physicality:** This is almost like theater training. Expect to move around, make funny faces, gibberish noises, and do acting warmups!
+The application form asks you to confirm **three** things. All three are set out in full below, so you can read them properly here rather than skim them inside a form.
 
-## 💻 Technical & Space Requirements
+### 🛡️ 1. Community Ground Rules
 
-* **Device:** This course is engineered for Zoom on a PC/laptop only. Students cannot join via mobile, iPad, or tablet.
-* **Connection:** 30Mbps+ stable internet. Heavy lag or jitter impacts group activities, interactions and everyone's learning.
-* **Presence:** This is a highly interactive course with lots of interactive activities. Camera and microphone must be ON for the entire 150-minute session.
-* **Privacy:** You must be in a private, distraction-free room where you can act and speak freely. Many folks do not like justifying to their partners and relatives why they were making funny faces and acting childish on a Zoom call 🙂.
+*How we treat each other in the room.*
+
+| | |
+|---|---|
+| **Commitment** | If you miss 2 sessions, you will be asked to step out and rejoin a future batch. Each module builds on the previous one, so missing classes impacts the group's learning experience. |
+| **Respect** | Zero tolerance for political, religious, or discriminatory discussions. |
+| **Safety first** | Your well-being is paramount. If you feel anxious or uncomfortable, you may drop out anytime, no explanation needed. |
+| **Physicality** | This is almost like theater training. Expect to move around, make funny faces, gibberish noises, and do acting warmups! |
+
+### 📋 2. Course Expectations
+
+*What you are committing to, and what we commit to in return.*
+
+| | |
+|---|---|
+| **Admission** | The organizers reserve the right of admission, and of continuing membership. |
+| **Sobriety** | I will not join the sessions under any influence of drugs or alcohol, or while going through severe trauma or therapy. |
+| **Free will** | I am joining of my own free will and have the right to end the training. I am responsible for my own well-being, and will extend courtesy to the community. |
+| **Privacy** | I understand the privacy rights of the community, and will not record, use, or share any information gained in these interactions. |
+| **Non-commercial** | I understand that this is a non-profit endeavour. No commercial solicitation is permitted in the forum. |
+| **Attendance** | I will join all 8 consecutive Saturdays, 5 September – 24 October, at 8:00 AM Pacific Time (8:30 PM IST), 2 hours 30 minutes per session. |
+| **Homework** | I can allocate 30 minutes for daily homework tasks between weekend sessions. |
+
+### 💻 3. Technical & Space Requirements
+
+*What you need in place before the first session.*
+
+| | |
+|---|---|
+| **Device** | This course is engineered for Zoom on a desktop or laptop only. Students cannot join via mobile, iPad, or tablet. |
+| **Connection** | 30Mbps+ stable internet. Heavy lag or jitter impacts group activities, interactions and everyone's learning. |
+| **Presence** | This is a highly interactive course with lots of interactive activities. Camera and microphone must be ON for the entire 150-minute session. |
+| **Privacy** | You must be in a private, distraction-free room where you can act and speak freely. Many folks do not like justifying to their partners and relatives why they were making funny faces and acting childish on a Zoom call 🙂. |
 
 ## 🌱 The Reported Benefits
 
@@ -84,6 +115,10 @@ Mileage always varies depending on how much energy you invest and the depth of y
 
 ## Ready to let go of the illusion of control?
 
-Claim your spot in the upcoming **September 5th** cohort, and let's navigate the unscripted world together. It costs nothing but your attention — **zero course fees**, paid forward.
+Claim your spot in the upcoming **September 5th** cohort, and let's navigate the unscripted world together.
+
+!!! success "💛 Zero course fees — **$0**"
+    This is a **not-for-profit community initiative**. There are **no course fees**, no
+    tiers and nothing to upgrade — it is run as part of our **pay-it-forward** initiative.
 
 [🎭 Apply for the September cohort](https://forms.gle/mTu57wvF2A1dihUB7){ .md-button .md-button--primary }
