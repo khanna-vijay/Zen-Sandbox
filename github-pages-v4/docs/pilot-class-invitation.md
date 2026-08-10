@@ -73,10 +73,10 @@ The application form asks you to confirm **three** things. All three are set out
 
 | | |
 |---|---|
-| **Commitment** | If you miss 2 sessions, you will be asked to step out and rejoin a future batch. Each module builds on the previous one, so missing classes impacts the group's learning experience. |
-| **Respect** | Zero tolerance for political, religious, or discriminatory discussions. |
-| **Safety first** | Your well-being is paramount. If you feel anxious or uncomfortable, you may drop out anytime, no explanation needed. |
-| **Physicality** | This is almost like theater training. Expect to move around, make funny faces, gibberish noises, and do acting warmups! |
+| **Commitment** | Miss 2 sessions and you will be asked to step out and rejoin a future batch. Each week builds on the last, so a gap in your learning quietly becomes a gap in your scene partner's too. |
+| **Respect** | Zero tolerance for political, religious, or discriminatory discussions. The stage is one of the few places left where none of that has to follow you in, and we would like to keep it that way. |
+| **Safety first** | Step out at any point, with no explanation owed to anyone. Nobody will ask why and nobody will think less of you. Here, "pass" is a complete sentence. |
+| **Physicality** | This is closer to theater training than to a webinar. Expect to be on your feet, making funny faces, gibberish noises and acting warmups. Everyone else looks equally silly, which is rather the point. |
 
 ### 📋 2. Course Expectations
 
@@ -84,13 +84,13 @@ The application form asks you to confirm **three** things. All three are set out
 
 | | |
 |---|---|
-| **Admission** | The organizers reserve the right of admission, and of continuing membership. |
-| **Sobriety** | I will not join the sessions under any influence of drugs or alcohol, or while going through severe trauma or therapy. |
-| **Free will** | I am joining of my own free will and have the right to end the training. I am responsible for my own well-being, and will extend courtesy to the community. |
-| **Privacy** | I understand the privacy rights of the community, and will not record, use, or share any information gained in these interactions. |
-| **Non-commercial** | I understand that this is a non-profit endeavour. No commercial solicitation is permitted in the forum. |
-| **Attendance** | I will join all 8 consecutive Saturdays, 5 September – 24 October, at 8:00 AM Pacific Time (8:30 PM IST), 2 hours 30 minutes per session. |
-| **Homework** | I can allocate 30 minutes for daily homework tasks between weekend sessions. |
+| **Admission** | The organizers reserve the right of admission, and of continuing membership. We have never needed to use it. It exists so that one difficult person cannot undo a room built on trust. |
+| **Sobriety** | Please do not join a session under the influence of drugs or alcohol, or while working through severe trauma or active therapy. Improv lowers your guard by design. That is a gift on a good day and genuinely unhelpful on a hard one, so come to us when it will do you good. |
+| **Free will** | Participation is voluntary, and the training can be ended at any time. Each participant stays responsible for their own well-being, and for extending courtesy to the community. Nobody here is being graded, and nobody is being kept. |
+| **Privacy** | No recording of any kind, and nothing said in the room is shared, quoted or reused outside it. People take real risks in these sessions, and they can only do that if they know it stays in the room. |
+| **Non-commercial** | This is a non-profit endeavour, and no commercial solicitation is permitted in the forum. No pitches, no recruiting, no newsletters. Just the class. |
+| **Attendance** | All 8 consecutive Saturdays, 5 September to 24 October, at 8:00 AM Pacific Time (8:30 PM IST), 2 hours 30 minutes per session. Please check every date against your calendar before applying. Finding a clash in week three is much harder on the group than finding it now. |
+| **Homework** | Around 30 minutes a day between weekend sessions. Small and daily beats heroic and occasional, because the skill sets between the classes rather than during them. |
 
 ### 💻 3. Technical & Space Requirements
 
@@ -98,9 +98,9 @@ The application form asks you to confirm **three** things. All three are set out
 
 | | |
 |---|---|
-| **Device** | This course is engineered for Zoom on a desktop or laptop only. Students cannot join via mobile, iPad, or tablet. |
-| **Connection** | 30Mbps+ stable internet. Heavy lag or jitter impacts group activities, interactions and everyone's learning. |
-| **Presence** | This is a highly interactive course with lots of interactive activities. Camera and microphone must be ON for the entire 150-minute session. |
+| **Device** | Zoom on a desktop or laptop only. Mobile, iPad and tablet cannot be used. We need to see your whole body for the physical work, and a phone propped against a shelf simply cannot give us that. |
+| **Connection** | 30Mbps or better, and stable. Improv runs on split-second timing, and half a second of lag turns a scene into two people apologising for talking over each other. |
+| **Presence** | Camera and microphone ON for the entire 150-minute session. Your scene partner is reading your face for their next offer, and a black rectangle gives them nothing to work with. |
 | **Privacy** | You must be in a private, distraction-free room where you can act and speak freely. Many folks do not like justifying to their partners and relatives why they were making funny faces and acting childish on a Zoom call 🙂. |
 
 ## 🌱 The Reported Benefits
