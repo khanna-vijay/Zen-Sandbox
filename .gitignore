@@ -54,3 +54,9 @@ website_link_report.md
 /Assets/
 # local reference material (57 MB of source PNGs and working notes)
 /Ref/
+# local helper scripts — the deploy is GitHub Actions (.github/workflows/deploy.yml),
+# so none of these run in CI and none of them need to be published
+/00_push_to_github_pages.sh
+/start_local_server.sh
+/website_checker.py
+/website_checker.sh
