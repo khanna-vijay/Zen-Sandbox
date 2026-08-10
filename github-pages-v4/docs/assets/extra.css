@@ -337,3 +337,44 @@
   -webkit-mask-image: var(--md-admonition-icon--star);
           mask-image: var(--md-admonition-icon--star);
 }
+
+/* --- Raised call-to-action buttons (the "Apply" / "Open the map" primary buttons). ---
+   Material ships these flat, which reads as a label rather than a control. A soft drop
+   shadow plus rounded corners makes them look pressable; the button lifts on hover and
+   sinks on click, so the shadow does the work a 3D bevel used to. */
+.md-typeset .md-button--primary {
+  border-radius: .6rem;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, .22), 0 6px 16px rgba(0, 0, 0, .14);
+  transition: transform .15s ease, box-shadow .15s ease, filter .15s ease;
+}
+.md-typeset .md-button--primary:hover,
+.md-typeset .md-button--primary:focus-visible {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 9px rgba(0, 0, 0, .26), 0 10px 24px rgba(0, 0, 0, .18);
+  filter: brightness(1.06);
+}
+/* Pressed: drop back to the surface and flatten the shadow — reads as a physical click. */
+.md-typeset .md-button--primary:active {
+  transform: translateY(1px);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, .3);
+  filter: brightness(.97);
+}
+/* Shadows disappear against a dark background, so lean on a warm accent glow instead. */
+[data-md-color-scheme="slate"] .md-typeset .md-button--primary {
+  box-shadow: 0 2px 5px rgba(0, 0, 0, .5), 0 6px 18px rgba(255, 160, 0, .18);
+}
+[data-md-color-scheme="slate"] .md-typeset .md-button--primary:hover,
+[data-md-color-scheme="slate"] .md-typeset .md-button--primary:focus-visible {
+  box-shadow: 0 4px 9px rgba(0, 0, 0, .55), 0 10px 26px rgba(255, 160, 0, .28);
+}
+/* Respect users who ask the OS to reduce motion — keep the shadow, drop the movement. */
+@media (prefers-reduced-motion: reduce) {
+  .md-typeset .md-button--primary {
+    transition: none;
+  }
+  .md-typeset .md-button--primary:hover,
+  .md-typeset .md-button--primary:focus-visible,
+  .md-typeset .md-button--primary:active {
+    transform: none;
+  }
+}

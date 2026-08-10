@@ -21,7 +21,7 @@ At its core, to improvise is to invent or make something using whatever is avail
 Why does making up scenes on the spot feel so transformative? Cognitive science and ancient philosophy point to the same answers:
 
 * **Silencing the Inner Critic:** Neurological studies show that during deep improvisation, the brain's Default Mode Network (responsible for conscious self-monitoring and judgment) essentially powers down. We naturally enter a "Flow state" where we tap into pure intuition rather than overthinking.
-* **The Power of "Yes, And":** Humans suffer from an illusion of control. We step into a dynamic situation without a script and accept whatever reality our partner offers ("Yes"), and add to it ("And"). We accept the truth of present reality as it is (not as we want it to be), and act with a positive mindset to overcome our fear of the unknown.
+* **The Power of "Yes, And":** We often get stressed due to the illusion of control. In Improv, we practice stepping into a dynamic situation without a script and accept whatever reality our partner offers ("Yes"), and add to it ("And"). We accept the truth of present reality as it is (not as we want it to be), and act with a positive mindset to overcome our fear of the unknown.
 * **Embracing Imperfection (*Wabi-Sabi*):** In improv, there are no mistakes, only opportunities. If you drop a prop or misspeak, it becomes a deliberate part of the story. It is a safe space for the inner kid to have fun and build resilience.
 
 ## 🔍 Honest Expectations & The "Shoshin" Mindset
@@ -42,9 +42,9 @@ Do not expect a magic bullet for corporate charisma or public speaking. The magi
     I have completed multiple improv courses with them. Our thanks to them, and to the
     wider improv tradition, for the craft this community is built on.
 
-But, realizing many of us have busy schedules and cannot travel, a few friends and I decided to build a not-for-profit online community alternative.
+But, realizing many of us have busy schedules and would like to reduce travel, a few friends and I decided to build a not-for-profit online community alternative.
 
-We have compiled and open-sourced our [theory](improv-maturity-framework.md), [practice games](games/index.md), and [workshop curriculum](workshops/index.md). Anyone with basic theater or improv experience can run these sessions, and you can even contribute to our [GitHub repository](https://github.com/khanna-vijay/Zen-Sandbox) with more games and session plans.
+We have compiled and open-sourced our [theory](improv-maturity-framework.md), [practice games](games/index.md), and [workshop curriculum](workshops/index.md). Anyone with basic theater or improv experience can run these sessions themselves, and you can even contribute to our [GitHub repository](https://github.com/khanna-vijay/Zen-Sandbox) with more games and session plans.
 
 After a successful 3-week experimental phase, we are ready to pilot our full beginners program.
 
@@ -54,12 +54,10 @@ We are piloting an intense, 8-week online improv course [Format #2 - The 8-Week 
 
 | | |
 |---|---|
-| **Fees** | **None - $0.** A not-for-profit, pay-it-forward community initiative |
+| **Fees** | **None - $0.** A not-for-profit, pay-it-forward amateur-community initiative |
 | **When** | All 8 Saturdays, **5 September – 24 October**, 8:00 AM Pacific Time (8:30 PM IST) |
 | **Duration** | 2 hours 30 minutes (150 minutes) per weekend session |
 | **Homework** | 30 minutes of daily homework tasks between weekend sessions |
-
-[🎭 Apply for the September cohort](https://forms.gle/mTu57wvF2A1dihUB7){ .md-button .md-button--primary }
 
 ## 📜 What you are agreeing to
 
@@ -104,15 +102,18 @@ The application form asks you to confirm **three** things. All three are set out
 | **Presence** | Camera and microphone ON for the entire 150-minute session. Your scene partner is reading your face for their next offer, and a black rectangle gives them nothing to work with. |
 | **Privacy** | You must be in a private, distraction-free room where you can act and speak freely. Many folks do not like justifying to their partners and relatives why they were making funny faces and acting childish on a Zoom call 🙂. |
 
-## 🌱 The Reported Benefits
+## 🌱 The Benefits reported by Improv Participants
 
-Mileage always varies depending on how much energy you invest and the depth of your *Shoshin* mindset. However, participants who practice this art form regularly report:
+Mileage always varies depending on how much energy you invest and the depth of *Shoshin* mindset. However, participants who practice this art form regularly report:
 
 * Improved spontaneity and risk-taking ability.
-* Increased comfort operating in a changing, VUCA world.
-* Ability to quiet the inner critic, being able to take action and move ahead despite the self-doubt chatter in the head.
+* Increased comfort operating in a Changing, VUCA world.
+* Ability to quiet the inner critic.
 * Heightened intuition and creativity.
 * Strengthened "fun muscles!"
+* Deeper, more active listening skills.
+* Improved ability of "Being in the Present", instead of overthinking the future.
+ 
 
 ## Ready to let go of the illusion of control?
 
@@ -122,4 +123,4 @@ Claim your spot in the upcoming **September 5th** cohort, and let's navigate the
     This is a **not-for-profit community initiative**. There are **no course fees**, no
     tiers and nothing to upgrade : It is run as part of our **pay-it-forward** initiative.
 
-[🎭 Apply for the September cohort](https://forms.gle/mTu57wvF2A1dihUB7){ .md-button .md-button--primary }
+[🎭 Apply for the September cohort](https://forms.gle/mTu57wvF2A1dihUB7){ .md-button .md-button--primary target="_blank" rel="noopener" }
