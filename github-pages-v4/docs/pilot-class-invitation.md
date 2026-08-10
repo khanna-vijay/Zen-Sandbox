@@ -8,7 +8,7 @@ hide:
 
 > *Mastering 'ai' in the Age of AI.*
 
-I have been practicing the art form of Improvisation for some time now, and believe it is one of the most critical skills for the current era. While the world chases Artificial Intelligence, I call **Improv** the essential **'ai'** skill : **Ancient Intelligence**, the timeless human capacity for presence, laughter, and connection.
+I have been practicing the art form of Improvisation for some time now, and believe it is one of the most critical skills for the current era. While the world chases Artificial Intelligence, I call **Improv** the essential **'ai'** skill : **ancient intelligence**, the timeless human capacity for presence, laughter, and connection.
 
 It is a counter-intuitive approach to polishing essential life skills. Think of it as a modern practice of the Zen philosophy *Wu wei* (Effortless Action).
 

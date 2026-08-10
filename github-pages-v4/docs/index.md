@@ -5,7 +5,7 @@ hide:
 
 # Zen Sandbox : Online Improv Community. 
 
-> *Playfully "Powered by AI" - Ancient Intelligence.*
+> *Playfully "Powered by ai" - ancient intelligence.*
 >
 > *Rediscover the timeless human capacity for presence, laughter, and connection. No machines required.*
 
