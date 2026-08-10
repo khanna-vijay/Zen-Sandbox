@@ -1,5 +1,7 @@
 ---
-title: Chimichanga
+title: "Chimichanga"
+search:
+  exclude: true
 hide:
   - toc
 ---
@@ -77,7 +79,7 @@ Some notes about the Chimichanga:
 
 *How the form is played: the shape of the piece, the opening, the roles, the edit vocabulary, the flow of information, and the clock.*
 
-![Chimichanga - Structure and Mechanics](img/Chimichanga__1_mechanics.jpg){ .diagram }
+![Chimichanga - Structure and Mechanics](img/Chimichanga__1_mechanics.jpg){ .diagram loading=lazy decoding=async width="1100" height="614" }
 
 
 <details>
@@ -94,7 +96,7 @@ Your image is ready.
 
 *A single worked performance from suggestion to blackout: what happens in each beat, with short real example lines and what the players are doing technically.*
 
-![Chimichanga - A Show, Beat by Beat](img/Chimichanga__2_example.jpg){ .diagram }
+![Chimichanga - A Show, Beat by Beat](img/Chimichanga__2_example.jpg){ .diagram loading=lazy decoding=async width="1100" height="614" }
 
 
 
@@ -104,7 +106,7 @@ Your image is ready.
 
 *Where the form came from: creators, dates, theatres, how it spread between schools and cities, and the key figures - a documented timeline and lineage map.*
 
-![Chimichanga - Origins and Lineage](img/Chimichanga__3_history.jpg){ .diagram }
+![Chimichanga - Origins and Lineage](img/Chimichanga__3_history.jpg){ .diagram loading=lazy decoding=async width="1100" height="614" }
 
 
 
@@ -114,7 +116,7 @@ Your image is ready.
 
 *The theory: the core principles of the form and the research and craft ideas that explain why the structure produces good improv, each tied to a specific mechanic.*
 
-![Chimichanga - Why It Works](img/Chimichanga__4_theory.jpg){ .diagram }
+![Chimichanga - Why It Works](img/Chimichanga__4_theory.jpg){ .diagram loading=lazy decoding=async width="1100" height="614" }
 
 
 
@@ -124,7 +126,7 @@ Your image is ready.
 
 *Training and fixing the form: the essential drills, the common failure modes with their symptom-and-fix pairs, and the markers of beginner through expert play.*
 
-![Chimichanga - Rehearsal and Repair](img/Chimichanga__5_coaching.jpg){ .diagram }
+![Chimichanga - Rehearsal and Repair](img/Chimichanga__5_coaching.jpg){ .diagram loading=lazy decoding=async width="1100" height="614" }
 
 
 

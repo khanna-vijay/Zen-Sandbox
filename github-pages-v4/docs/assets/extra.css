@@ -14,6 +14,10 @@
    adapt to dark mode internally, so no shadow — just a hairline to seat them. */
 .md-typeset .diagram {
   display: block; margin: 1.4rem 0; width: 100%; max-width: 100%;
+  /* height:auto is load-bearing — these carry width/height attributes so the
+     browser can reserve their space while they lazy-load, and without this the
+     attribute height would squash them at narrow widths. */
+  height: auto;
   border-radius: 14px; border: 1px solid var(--md-default-fg-color--lightest);
   cursor: zoom-in;
 }

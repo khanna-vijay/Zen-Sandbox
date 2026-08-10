@@ -1,5 +1,7 @@
 ---
-title: Bat
+title: "Bat"
+search:
+  exclude: true
 hide:
   - toc
 ---
@@ -79,7 +81,7 @@ The format was created by Joe Bill of Annoyance Theatre in Chicago.
 
 *How the form is played: the shape of the piece, the opening, the roles, the edit vocabulary, the flow of information, and the clock.*
 
-![Bat - Structure and Mechanics](img/Bat__1_mechanics.jpg){ .diagram }
+![Bat - Structure and Mechanics](img/Bat__1_mechanics.jpg){ .diagram loading=lazy decoding=async width="1100" height="614" }
 
 
 
@@ -89,7 +91,7 @@ The format was created by Joe Bill of Annoyance Theatre in Chicago.
 
 *A single worked performance from suggestion to blackout: what happens in each beat, with short real example lines and what the players are doing technically.*
 
-![Bat - A Show, Beat by Beat](img/Bat__2_example.jpg){ .diagram }
+![Bat - A Show, Beat by Beat](img/Bat__2_example.jpg){ .diagram loading=lazy decoding=async width="1100" height="614" }
 
 
 
@@ -99,7 +101,7 @@ The format was created by Joe Bill of Annoyance Theatre in Chicago.
 
 *Where the form came from: creators, dates, theatres, how it spread between schools and cities, and the key figures - a documented timeline and lineage map.*
 
-![Bat - Origins and Lineage](img/Bat__3_history.jpg){ .diagram }
+![Bat - Origins and Lineage](img/Bat__3_history.jpg){ .diagram loading=lazy decoding=async width="1100" height="614" }
 
 
 
@@ -109,7 +111,7 @@ The format was created by Joe Bill of Annoyance Theatre in Chicago.
 
 *The theory: the core principles of the form and the research and craft ideas that explain why the structure produces good improv, each tied to a specific mechanic.*
 
-![Bat - Why It Works](img/Bat__4_theory.jpg){ .diagram }
+![Bat - Why It Works](img/Bat__4_theory.jpg){ .diagram loading=lazy decoding=async width="1100" height="614" }
 
 
 
@@ -119,7 +121,7 @@ The format was created by Joe Bill of Annoyance Theatre in Chicago.
 
 *Training and fixing the form: the essential drills, the common failure modes with their symptom-and-fix pairs, and the markers of beginner through expert play.*
 
-![Bat - Rehearsal and Repair](img/Bat__5_coaching.jpg){ .diagram }
+![Bat - Rehearsal and Repair](img/Bat__5_coaching.jpg){ .diagram loading=lazy decoding=async width="1100" height="614" }
 
 
 <details>

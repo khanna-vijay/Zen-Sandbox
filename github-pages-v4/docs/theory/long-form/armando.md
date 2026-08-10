@@ -1,5 +1,7 @@
 ---
-title: Armando
+title: "Armando"
+search:
+  exclude: true
 hide:
   - toc
 ---
@@ -82,7 +84,7 @@ The Monologue Deconstruction is sometimes referred to as The Armando, after [Arm
 
 *How the form is played: the shape of the piece, the opening, the roles, the edit vocabulary, the flow of information, and the clock.*
 
-![Armando - Structure and Mechanics](img/Armando__1_mechanics.jpg){ .diagram }
+![Armando - Structure and Mechanics](img/Armando__1_mechanics.jpg){ .diagram loading=lazy decoding=async width="1100" height="614" }
 
 
 
@@ -92,7 +94,7 @@ The Monologue Deconstruction is sometimes referred to as The Armando, after [Arm
 
 *A single worked performance from suggestion to blackout: what happens in each beat, with short real example lines and what the players are doing technically.*
 
-![Armando - A Show, Beat by Beat](img/Armando__2_example.jpg){ .diagram }
+![Armando - A Show, Beat by Beat](img/Armando__2_example.jpg){ .diagram loading=lazy decoding=async width="1100" height="614" }
 
 
 
@@ -102,7 +104,7 @@ The Monologue Deconstruction is sometimes referred to as The Armando, after [Arm
 
 *Where the form came from: creators, dates, theatres, how it spread between schools and cities, and the key figures - a documented timeline and lineage map.*
 
-![Armando - Origins and Lineage](img/Armando__3_history.jpg){ .diagram }
+![Armando - Origins and Lineage](img/Armando__3_history.jpg){ .diagram loading=lazy decoding=async width="1100" height="614" }
 
 
 <details>
@@ -119,7 +121,7 @@ There you have it. Let me know if you need anything else!
 
 *The theory: the core principles of the form and the research and craft ideas that explain why the structure produces good improv, each tied to a specific mechanic.*
 
-![Armando - Why It Works](img/Armando__4_theory.jpg){ .diagram }
+![Armando - Why It Works](img/Armando__4_theory.jpg){ .diagram loading=lazy decoding=async width="1100" height="614" }
 
 
 
@@ -129,7 +131,7 @@ There you have it. Let me know if you need anything else!
 
 *Training and fixing the form: the essential drills, the common failure modes with their symptom-and-fix pairs, and the markers of beginner through expert play.*
 
-![Armando - Rehearsal and Repair](img/Armando__5_coaching.jpg){ .diagram }
+![Armando - Rehearsal and Repair](img/Armando__5_coaching.jpg){ .diagram loading=lazy decoding=async width="1100" height="614" }
 
 
 

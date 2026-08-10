@@ -1,5 +1,7 @@
 ---
-title: Call The Corpse
+title: "Call The Corpse"
+search:
+  exclude: true
 hide:
   - toc
 ---
@@ -76,7 +78,7 @@ It seems important to us to give the feeling of coherence and not let a call and
 
 *How the form is played: the shape of the piece, the opening, the roles, the edit vocabulary, the flow of information, and the clock.*
 
-![Call The Corpse - Structure and Mechanics](img/Call_The_Corpse__1_mechanics.jpg){ .diagram }
+![Call The Corpse - Structure and Mechanics](img/Call_The_Corpse__1_mechanics.jpg){ .diagram loading=lazy decoding=async width="1100" height="614" }
 
 
 
@@ -86,7 +88,7 @@ It seems important to us to give the feeling of coherence and not let a call and
 
 *A single worked performance from suggestion to blackout: what happens in each beat, with short real example lines and what the players are doing technically.*
 
-![Call The Corpse - A Show, Beat by Beat](img/Call_The_Corpse__2_example.jpg){ .diagram }
+![Call The Corpse - A Show, Beat by Beat](img/Call_The_Corpse__2_example.jpg){ .diagram loading=lazy decoding=async width="1100" height="614" }
 
 
 
@@ -96,7 +98,7 @@ It seems important to us to give the feeling of coherence and not let a call and
 
 *Where the form came from: creators, dates, theatres, how it spread between schools and cities, and the key figures - a documented timeline and lineage map.*
 
-![Call The Corpse - Origins and Lineage](img/Call_The_Corpse__3_history.jpg){ .diagram }
+![Call The Corpse - Origins and Lineage](img/Call_The_Corpse__3_history.jpg){ .diagram loading=lazy decoding=async width="1100" height="614" }
 
 
 
@@ -106,7 +108,7 @@ It seems important to us to give the feeling of coherence and not let a call and
 
 *The theory: the core principles of the form and the research and craft ideas that explain why the structure produces good improv, each tied to a specific mechanic.*
 
-![Call The Corpse - Why It Works](img/Call_The_Corpse__4_theory.jpg){ .diagram }
+![Call The Corpse - Why It Works](img/Call_The_Corpse__4_theory.jpg){ .diagram loading=lazy decoding=async width="1100" height="614" }
 
 
 
@@ -116,7 +118,7 @@ It seems important to us to give the feeling of coherence and not let a call and
 
 *Training and fixing the form: the essential drills, the common failure modes with their symptom-and-fix pairs, and the markers of beginner through expert play.*
 
-![Call The Corpse - Rehearsal and Repair](img/Call_The_Corpse__5_coaching.jpg){ .diagram }
+![Call The Corpse - Rehearsal and Repair](img/Call_The_Corpse__5_coaching.jpg){ .diagram loading=lazy decoding=async width="1100" height="614" }
 
 
 

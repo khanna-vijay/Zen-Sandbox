@@ -1,5 +1,7 @@
 ---
-title: Code Blue: Improv Taboo
+title: "Code Blue: Improv Taboo"
+search:
+  exclude: true
 hide:
   - toc
 ---
@@ -135,7 +137,7 @@ Try to assemble a cast that is equitable in terms of gender, race, and orientati
 
 *How the form is played: the shape of the piece, the opening, the roles, the edit vocabulary, the flow of information, and the clock.*
 
-![Code Blue: Improv Taboo - Structure and Mechanics](img/Code_Blue_Improv_Taboo__1_mechanics.jpg){ .diagram }
+![Code Blue: Improv Taboo - Structure and Mechanics](img/Code_Blue_Improv_Taboo__1_mechanics.jpg){ .diagram loading=lazy decoding=async width="1100" height="614" }
 
 
 
@@ -145,7 +147,7 @@ Try to assemble a cast that is equitable in terms of gender, race, and orientati
 
 *A single worked performance from suggestion to blackout: what happens in each beat, with short real example lines and what the players are doing technically.*
 
-![Code Blue: Improv Taboo - A Show, Beat by Beat](img/Code_Blue_Improv_Taboo__2_example.jpg){ .diagram }
+![Code Blue: Improv Taboo - A Show, Beat by Beat](img/Code_Blue_Improv_Taboo__2_example.jpg){ .diagram loading=lazy decoding=async width="1100" height="614" }
 
 
 
@@ -155,7 +157,7 @@ Try to assemble a cast that is equitable in terms of gender, race, and orientati
 
 *Where the form came from: creators, dates, theatres, how it spread between schools and cities, and the key figures - a documented timeline and lineage map.*
 
-![Code Blue: Improv Taboo - Origins and Lineage](img/Code_Blue_Improv_Taboo__3_history.jpg){ .diagram }
+![Code Blue: Improv Taboo - Origins and Lineage](img/Code_Blue_Improv_Taboo__3_history.jpg){ .diagram loading=lazy decoding=async width="1100" height="614" }
 
 
 
@@ -165,7 +167,7 @@ Try to assemble a cast that is equitable in terms of gender, race, and orientati
 
 *The theory: the core principles of the form and the research and craft ideas that explain why the structure produces good improv, each tied to a specific mechanic.*
 
-![Code Blue: Improv Taboo - Why It Works](img/Code_Blue_Improv_Taboo__4_theory.jpg){ .diagram }
+![Code Blue: Improv Taboo - Why It Works](img/Code_Blue_Improv_Taboo__4_theory.jpg){ .diagram loading=lazy decoding=async width="1100" height="614" }
 
 
 
@@ -175,7 +177,7 @@ Try to assemble a cast that is equitable in terms of gender, race, and orientati
 
 *Training and fixing the form: the essential drills, the common failure modes with their symptom-and-fix pairs, and the markers of beginner through expert play.*
 
-![Code Blue: Improv Taboo - Rehearsal and Repair](img/Code_Blue_Improv_Taboo__5_coaching.jpg){ .diagram }
+![Code Blue: Improv Taboo - Rehearsal and Repair](img/Code_Blue_Improv_Taboo__5_coaching.jpg){ .diagram loading=lazy decoding=async width="1100" height="614" }
 
 
 <details>

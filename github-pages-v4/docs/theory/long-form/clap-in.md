@@ -1,5 +1,7 @@
 ---
-title: Clap-In
+title: "Clap-In"
+search:
+  exclude: true
 hide:
   - toc
 ---
@@ -69,7 +71,7 @@ The "clap in" form is one of the signature forms of [Empty Stage Comedy](https:/
 
 *How the form is played: the shape of the piece, the opening, the roles, the edit vocabulary, the flow of information, and the clock.*
 
-![Clap-In - Structure and Mechanics](img/Clap_In__1_mechanics.jpg){ .diagram }
+![Clap-In - Structure and Mechanics](img/Clap_In__1_mechanics.jpg){ .diagram loading=lazy decoding=async width="1100" height="614" }
 
 
 
@@ -79,7 +81,7 @@ The "clap in" form is one of the signature forms of [Empty Stage Comedy](https:/
 
 *A single worked performance from suggestion to blackout: what happens in each beat, with short real example lines and what the players are doing technically.*
 
-![Clap-In - A Show, Beat by Beat](img/Clap_In__2_example.jpg){ .diagram }
+![Clap-In - A Show, Beat by Beat](img/Clap_In__2_example.jpg){ .diagram loading=lazy decoding=async width="1100" height="614" }
 
 
 
@@ -89,7 +91,7 @@ The "clap in" form is one of the signature forms of [Empty Stage Comedy](https:/
 
 *Where the form came from: creators, dates, theatres, how it spread between schools and cities, and the key figures - a documented timeline and lineage map.*
 
-![Clap-In - Origins and Lineage](img/Clap_In__3_history.jpg){ .diagram }
+![Clap-In - Origins and Lineage](img/Clap_In__3_history.jpg){ .diagram loading=lazy decoding=async width="1100" height="614" }
 
 
 
@@ -99,7 +101,7 @@ The "clap in" form is one of the signature forms of [Empty Stage Comedy](https:/
 
 *The theory: the core principles of the form and the research and craft ideas that explain why the structure produces good improv, each tied to a specific mechanic.*
 
-![Clap-In - Why It Works](img/Clap_In__4_theory.jpg){ .diagram }
+![Clap-In - Why It Works](img/Clap_In__4_theory.jpg){ .diagram loading=lazy decoding=async width="1100" height="614" }
 
 
 
@@ -109,7 +111,7 @@ The "clap in" form is one of the signature forms of [Empty Stage Comedy](https:/
 
 *Training and fixing the form: the essential drills, the common failure modes with their symptom-and-fix pairs, and the markers of beginner through expert play.*
 
-![Clap-In - Rehearsal and Repair](img/Clap_In__5_coaching.jpg){ .diagram }
+![Clap-In - Rehearsal and Repair](img/Clap_In__5_coaching.jpg){ .diagram loading=lazy decoding=async width="1100" height="614" }
 
 
 <details>

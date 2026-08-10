@@ -26,9 +26,10 @@ Where the five domains above teach the **craft**, this section catalogues the **
 | [Chimichanga](chimichanga.md) | 47,919 | [posters](chimichanga.md#part-ii-the-infographics) |
 | [Clap-In](clap-in.md) | 47,650 | [posters](clap-in.md#part-ii-the-infographics) |
 | [Code Blue: Improv Taboo](code-blue-improv-taboo.md) | 51,265 | [posters](code-blue-improv-taboo.md#part-ii-the-infographics) |
+| [Dear Diary](dear-diary.md) | 42,806 | [posters](dear-diary.md#part-ii-the-infographics) |
 
 !!! note "This library is still being written"
-    9 formats are published so far. New ones appear here as each is
+    10 formats are published so far. New ones appear here as each is
     finished end to end — the source article, all five posters, both research passes
     and the full manual. Partly-built formats are deliberately held back.
 

@@ -1,5 +1,7 @@
 ---
-title: Burrito
+title: "Burrito"
+search:
+  exclude: true
 hide:
   - toc
 ---
@@ -87,7 +89,7 @@ Some things to keep in mind:
 
 *How the form is played: the shape of the piece, the opening, the roles, the edit vocabulary, the flow of information, and the clock.*
 
-![Burrito - Structure and Mechanics](img/Burrito__1_mechanics.jpg){ .diagram }
+![Burrito - Structure and Mechanics](img/Burrito__1_mechanics.jpg){ .diagram loading=lazy decoding=async width="1100" height="614" }
 
 
 
@@ -97,7 +99,7 @@ Some things to keep in mind:
 
 *A single worked performance from suggestion to blackout: what happens in each beat, with short real example lines and what the players are doing technically.*
 
-![Burrito - A Show, Beat by Beat](img/Burrito__2_example.jpg){ .diagram }
+![Burrito - A Show, Beat by Beat](img/Burrito__2_example.jpg){ .diagram loading=lazy decoding=async width="1100" height="614" }
 
 
 <details>
@@ -114,7 +116,7 @@ Does this match what you envisioned?
 
 *Where the form came from: creators, dates, theatres, how it spread between schools and cities, and the key figures - a documented timeline and lineage map.*
 
-![Burrito - Origins and Lineage](img/Burrito__3_history.jpg){ .diagram }
+![Burrito - Origins and Lineage](img/Burrito__3_history.jpg){ .diagram loading=lazy decoding=async width="1100" height="614" }
 
 
 
@@ -124,7 +126,7 @@ Does this match what you envisioned?
 
 *The theory: the core principles of the form and the research and craft ideas that explain why the structure produces good improv, each tied to a specific mechanic.*
 
-![Burrito - Why It Works](img/Burrito__4_theory.jpg){ .diagram }
+![Burrito - Why It Works](img/Burrito__4_theory.jpg){ .diagram loading=lazy decoding=async width="1100" height="614" }
 
 
 
@@ -134,7 +136,7 @@ Does this match what you envisioned?
 
 *Training and fixing the form: the essential drills, the common failure modes with their symptom-and-fix pairs, and the markers of beginner through expert play.*
 
-![Burrito - Rehearsal and Repair](img/Burrito__5_coaching.jpg){ .diagram }
+![Burrito - Rehearsal and Repair](img/Burrito__5_coaching.jpg){ .diagram loading=lazy decoding=async width="1100" height="614" }
 
 
 
