@@ -8,13 +8,13 @@ hide:
 
 > *Mastering 'ai' in the Age of AI.*
 
-I have been practicing the art form of Improvisation for some time now, and believe it is one of the most critical skills for the current era. While the world chases Artificial Intelligence, I call **Improv** the essential **'ai'** skill — **Ancient Intelligence**.
+I have been practicing the art form of Improvisation for some time now, and believe it is one of the most critical skills for the current era. While the world chases Artificial Intelligence, I call **Improv** the essential **'ai'** skill : **Ancient Intelligence**.
 
 It is a counter-intuitive approach to polishing essential life skills. Think of it as a modern practice of the Zen philosophy *Wu wei* (Effortless Action).
 
 At its core, to improvise is to invent or make something using whatever is available at the time, without prior planning. But beneath the surface, it is an essential tool for navigating the **VUCA** (Volatility, Uncertainty, Complexity, and Ambiguity) world we live in. It trains us to think on our feet, stay in the present, and handle the inner critic's relentless judgemental chatter, while maintaining a reasonably joyous state of mind.
 
-![The Zen Sandbox — a playful beach sandbox where a community builds sandcastles and block towers and shares stories around a campfire, with signposts reading Yes And, Practice Presence, Have Fun, and Build Bonds](assets/zen-sandbox.jpg){ .hero-image loading=lazy }
+![The Zen Sandbox : a playful beach sandbox where a community builds sandcastles and block towers and shares stories around a campfire, with signposts reading Yes And, Practice Presence, Have Fun, and Build Bonds](assets/zen-sandbox.jpg){ .hero-image loading=lazy }
 
 ## 🧠 The Science and Soul of the Unscripted Mind
 
@@ -30,15 +30,15 @@ Let me be completely honest: **Improv does not guarantee anything.** There is a 
 
 Do not expect a magic bullet for corporate charisma or public speaking. The magic of improv *only* happens if you approach it with **Shoshin** (Beginner's Mind), approaching the space with total openness, eagerness, zero ego, and no expectations.
 
-!!! note "With gratitude — and a strong recommendation"
+!!! note "With gratitude, and a strong recommendation"
     Everything we practise here we learned from teachers and institutions who have carried
     this art form for decades. If you can, pursue a 6-to-8-week professional, **in-person**
-    improv course at a local theater — [The Second City](https://www.secondcity.com/),
+    improv course at a local theater : [The Second City](https://www.secondcity.com/),
     [ComedySportz](https://cszworldwide.com/), [UCB (Upright Citizens Brigade)](https://ucbcomedy.com/),
     or similar thought leaders in this domain. Second City and UCB also run great **online**
     improv courses taught by professional teachers.
 
-    Training from these reputed leading organizations is incredible, and I am a big fan —
+    Training from these reputed leading organizations is incredible, and I am a big fan. 
     I have completed multiple improv courses with them. Our thanks to them, and to the
     wider improv tradition, for the craft this community is built on.
 
@@ -50,11 +50,11 @@ After a successful 3-week experimental phase, we are ready to pilot our full beg
 
 ## 🗓️ The 8-Week Intensive Beginner Course
 
-We are piloting an intense, 8-week online improv course — a condensed version of [Format #2 — The 8-Week Deep Dive](workshops/format-2/index.md) published on this site. Each session builds upon the last, requiring serious commitment.
+We are piloting an intense, 8-week online improv course [Format #2 - The 8-Week Deep Dive](workshops/format-2/index.md) published on this site. Each session builds upon the last, requiring serious commitment.
 
 | | |
 |---|---|
-| **Fees** | **None — $0.** A not-for-profit, pay-it-forward community initiative |
+| **Fees** | **None - $0.** A not-for-profit, pay-it-forward community initiative |
 | **When** | All 8 Saturdays, **5 September – 24 October**, 8:00 AM Pacific Time (8:30 PM IST) |
 | **Duration** | 2 hours 30 minutes (150 minutes) per weekend session |
 | **Homework** | 30 minutes of daily homework tasks between weekend sessions |
@@ -109,7 +109,7 @@ Mileage always varies depending on how much energy you invest and the depth of y
 
 * Improved spontaneity and risk-taking ability.
 * Increased comfort operating in a changing, VUCA world.
-* Ability to quiet the inner critic — being able to take action and move ahead despite the self-doubt chatter in the head.
+* Ability to quiet the inner critic, being able to take action and move ahead despite the self-doubt chatter in the head.
 * Heightened intuition and creativity.
 * Strengthened "fun muscles!"
 
@@ -117,8 +117,8 @@ Mileage always varies depending on how much energy you invest and the depth of y
 
 Claim your spot in the upcoming **September 5th** cohort, and let's navigate the unscripted world together.
 
-!!! success "💛 Zero course fees — **$0**"
+!!! success "💛 Zero course fees : **$0**"
     This is a **not-for-profit community initiative**. There are **no course fees**, no
-    tiers and nothing to upgrade — it is run as part of our **pay-it-forward** initiative.
+    tiers and nothing to upgrade : It is run as part of our **pay-it-forward** initiative.
 
 [🎭 Apply for the September cohort](https://forms.gle/mTu57wvF2A1dihUB7){ .md-button .md-button--primary }
