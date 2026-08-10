@@ -8,6 +8,10 @@ hide:
 
 > *Mastering 'ai' in the Age of AI.*
 
+!!! success "💛 Zero course fees — **$0**"
+    This is a **not-for-profit community initiative**. There are **no course fees**, no
+    tiers and nothing to upgrade — it is run as part of our **pay-it-forward** initiative.
+
 I have been practicing the art form of Improvisation for some time now, and believe it is one of the most critical skills for the current era. While the world chases Artificial Intelligence, I call **Improv** the essential **'ai'** skill — **Ancient Intelligence**.
 
 It is a counter-intuitive approach to polishing essential life skills. Think of it as a modern practice of the Zen philosophy *Wu wei* (Effortless Action).
@@ -45,6 +49,7 @@ We are piloting an intense, 8-week online improv course. Each session builds upo
 
 | | |
 |---|---|
+| **Fees** | **None — $0.** A not-for-profit, pay-it-forward community initiative |
 | **When** | Saturdays at 8:00 AM Pacific Time (8:30 PM IST) — starting **September 5th** |
 | **Duration** | 2 hours 30 minutes (150 minutes) per weekend session |
 | **Homework** | 30 minutes of daily homework tasks between weekend sessions |
@@ -82,6 +87,6 @@ Mileage always varies depending on how much energy you invest and the depth of y
 
 ## Ready to let go of the illusion of control?
 
-Claim your spot in the upcoming **September 5th** cohort, and let's navigate the unscripted world together.
+Claim your spot in the upcoming **September 5th** cohort, and let's navigate the unscripted world together. It costs nothing but your attention — **zero course fees**, paid forward.
 
 [🎭 Apply for the September cohort](https://forms.gle/mTu57wvF2A1dihUB7){ .md-button .md-button--primary }
