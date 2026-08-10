@@ -4,31 +4,40 @@ hide:
   - toc
 ---
 
-# 🎭 Improv Workshops — A Year of Lesson Plans
+# 🎭 Improv Workshops — Two Formats, One Framework
 
-Three facilitator-ready courses that take a group from first nerves to a full improvised show — **one hour a week, 52 weeks a year**. Every session reuses the toolkit's framework, games, infographics and deep-dive content, so the workshops and the encyclopedia stay one connected whole.
+Every workshop on this site teaches the same thing: the [Improv Maturity Framework](../improv-maturity-framework.md), its five domains, and the games that make them land in the body. What differs is **how much room you have** — an hour a week for a year, or a long session a week for eight weeks.
 
-## The three courses
+Pick the one that matches your room, not your ambition. Both arrive at a public show.
 
-| Course | Weeks | Stage | Layer focus |
-|---|---:|---|---|
-| [Foundations — The Brave Beginner](01_beginner/index.md) | 16 | Novice → Advanced Beginner | Technique (effortful → fluent) |
-| [Choices Under Pressure — The Competent Improviser](02_intermediate/index.md) | 18 | Competent | Technique → Skill bridge |
-| [Serve the Piece — Toward Mastery](03_advanced/index.md) | 18 | Proficient → Master | Skill → Principle |
+## The two formats
 
-## The Facilitation Model
+| Format | Cadence | Courses | Best for |
+|---|---|---|---|
+| 📅 [**Format #1**](format-1/index.md) — A Year of Lesson Plans | 52 weeks · **1 hour a week** | 16 + 18 + 18 weeks | A standing weekly class with a shifting roster |
+| 🏔️ [**Format #2**](format-2/index.md) — The 8-Week Deep Dive | 24 weeks · **3 hours a week** | 8 + 8 + 8 weeks | A committed cohort of 10–20 who signed up together |
 
-The student already knows everything — we simply **facilitate their self-discovery.** This curriculum follows the framework's **diagonal facilitation path**: instead of finishing one domain before the next, every course **spirals through all five domains** — *The Self → The Partner → The Scene → The Ensemble → The Audience* — at a higher **maturity stage** each time. You *learn bottom-up* (Technique → Skill → Principle) and *perform top-down*. **Safety & Consent (Layer 0) is established first** and re-committed at the start of every course.
+## How they differ
 
-!!! abstract "Every session, the same shape"
-    **1. Theory** (a skill/principle + its infographic, linked to the full page) → **2. Games** (1–3, drawn from the master library) → **3. Reflection** (deepen your improv *and* carry it beyond the stage).
+| | **Format #1** | **Format #2** |
+|---|---|---|
+| Session length | 60 min | 180 min |
+| Course length | 16 / 18 / 18 weeks | 8 weeks each |
+| Shape per session | Theory → Games → Reflection | Ten fixed blocks, ice-breaker to reflection |
+| Depth per skill | One session, one pass | Isolation drill → drill under load → scene lab |
+| Homework | Optional | Every week, with a pack |
+| Ends in | Ongoing practice | A public showcase, per course |
+| Group | Drop-in tolerant | Fixed cohort of 10–20 |
 
-### The one-hour session
+!!! tip "Not sure which?"
+    If you cannot guarantee the same faces next week, run **Format #1** — every session stands alone. If you can, run **Format #2**: the second and third hours are where a skill stops being an idea and becomes a habit.
 
-| Time | Block |
-|---|---|
-| 0:00–0:05 | Arrival & safety check-in |
-| 0:05–0:15 | Warm-up game |
-| 0:15–0:27 | Today's theory |
-| 0:27–0:52 | Today's games |
-| 0:52–1:00 | Reflection & debrief |
+## What both share
+
+The student already knows everything — we simply **facilitate their self-discovery.** Both formats follow the framework's **diagonal facilitation path**: rather than finishing one domain before starting the next, each course **spirals through all five domains** — *The Self → The Partner → The Scene → The Ensemble → The Audience* — at a higher **maturity stage** each time. You *learn bottom-up* (Technique → Skill → Principle) and *perform top-down*.
+
+!!! warning "Layer 0 comes first, in both"
+    **Safety & Consent is established before anything else** and re-committed at the start of every course. Anyone may say **"Cut"** at any moment, for any reason, with no explanation owed. The rule of consent overrides the rule of agreement — *Yes, And* never means *yes, you must*.
+
+!!! abstract "The same toolkit underneath"
+    Both formats draw on the same [games library](../games/index.md), the same [theory pages](../theory/01_the-self/01_D__the-self.md) and the same infographics, so a facilitator can move between them without relearning anything.

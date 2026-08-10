@@ -2,3 +2,4 @@
 mkdocs-material==9.7.6
 mkdocs-glightbox==0.5.2          # click-to-zoom fullscreen lightbox for images
 mkdocs-print-site-plugin==2.6.0  # single-scroll "Read as one page" view
+mkdocs-redirects==1.2.2          # old /workshops/<course>/ URLs -> format-1/

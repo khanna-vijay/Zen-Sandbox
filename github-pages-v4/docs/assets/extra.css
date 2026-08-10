@@ -8,6 +8,15 @@
   display: block; margin: 1.4rem auto; width: 100%; max-width: 640px;
   border-radius: 14px; box-shadow: 0 8px 28px rgba(0,0,0,.14); cursor: zoom-in;
 }
+/* Wide explanatory diagrams — the Format #2 facilitator infographics (SVG).
+   Full text-column width: these are 1200px landscape schematics, not the 640px
+   square art that .infographic is sized for. They carry their own surface and
+   adapt to dark mode internally, so no shadow — just a hairline to seat them. */
+.md-typeset .diagram {
+  display: block; margin: 1.4rem 0; width: 100%; max-width: 100%;
+  border-radius: 14px; border: 1px solid var(--md-default-fg-color--lightest);
+  cursor: zoom-in;
+}
 /* Game page hero infographic (top of each game page) + "coming soon" placeholder.
    Full text-column width; click-to-zoom (glightbox) preserved. */
 .md-typeset .game-hero {

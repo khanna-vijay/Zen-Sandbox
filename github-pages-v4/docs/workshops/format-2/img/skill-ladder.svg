@@ -1,0 +1,133 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" width="1200" height="560"
+     role="img" aria-labelledby="sl-title sl-desc" font-family="Roboto, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <title id="sl-title">The Skill Ladder — one skill, six passes</title>
+  <desc id="sl-desc">A rising staircase of six rungs showing how a single skill is learned in a Format #2 week. Rung one, Meet it, is twenty minutes of theory. Rung two, Isolate it, is thirty minutes of Drill A. Rung three, Load it, is thirty minutes of Drill B. Rung four, Embed it, is thirty minutes of Scene Lab. Rung five, Show it, is a twenty-five minute showcase round. Rung six, Take it home, is the week's homework. Pressure and realism rise at every rung.</desc>
+
+  <style>
+    /* Light is the base; dark mode re-steps the SAME hues for the dark surface.
+       Plain hex on classes rather than CSS custom properties — var() is not
+       resolved by every SVG rasteriser, and these files are also rendered outside
+       a browser. Palette validated (all-pairs, both modes) with the data-viz
+       six checks: worst normal-vision dE 19.6 light / 19.3 dark. */
+    .bg{fill:#fcfcfb}
+    .card{fill:#f4f3f1;stroke:#dedcd7;stroke-width:1}
+    .hair{stroke:#dedcd7}
+    .c-arrive{fill:#2a78d6}
+    .c-think{fill:#eda100}
+    .c-practise{fill:#008300}
+    .c-perform{fill:#e87ba4}
+    .c-rest{fill:#8a8985}
+    .t-title{fill:#0b0b0b;font-size:30px;font-weight:700}
+    .t-sub{fill:#52514e;font-size:15.5px}
+    .t-leg{fill:#52514e;font-size:13.5px}
+    .t-min{fill:#6f6e6a;font-size:12px;text-anchor:middle}
+    .t-clock{fill:#6f6e6a;font-size:12.5px}
+    .t-name{fill:#0b0b0b;font-size:14.5px;font-weight:700}
+    .t-rung{fill:#0b0b0b;font-size:16px;font-weight:700}
+    .t-job{fill:#0b0b0b;font-size:13px;font-weight:700}
+    .t-time,.t-src{fill:#6f6e6a;font-size:11.5px}
+    .t-body{fill:#52514e;font-size:12.5px}
+    .t-note,.t-axis{fill:#6f6e6a;font-size:12.5px}
+    .t-badge{fill:#ffffff;font-size:12.5px;font-weight:700;text-anchor:middle}
+    .t-pill{fill:#ffffff;font-size:10.5px;font-weight:700;text-anchor:middle}
+    @media (prefers-color-scheme: dark) {
+      .bg{fill:#1a1a19}
+      .card{fill:#232322;stroke:#3a3a38}
+      .hair{stroke:#3a3a38}
+      .c-arrive{fill:#3987e5}
+      .c-think{fill:#c98500}
+      .c-perform{fill:#d55181}
+      .c-rest{fill:#6f6e6a}
+      .t-title,.t-name,.t-rung,.t-job{fill:#ffffff}
+      .t-sub,.t-leg,.t-body{fill:#c3c2b7}
+      .t-min,.t-clock,.t-time,.t-src,.t-note,.t-axis{fill:#a3a29a}
+    }
+  </style>
+
+  <g>
+    <rect x="0" y="0" width="1200" height="560" class="bg"/>
+
+    <text class="t-title" x="40" y="46">The Skill Ladder — one skill, six passes</text>
+    <text class="t-sub" x="40" y="72">Format #2 · what the second and third hours buy you. Format #1 stops after rung one and a single game.</text>
+
+    <g transform="translate(40,96)">
+      <rect x="0" y="0" width="13" height="13" rx="3" class="c-think"/>
+      <text class="t-leg" x="20" y="11">Think</text>
+      <rect x="92" y="0" width="13" height="13" rx="3" class="c-practise"/>
+      <text class="t-leg" x="112" y="11">Practise</text>
+      <rect x="196" y="0" width="13" height="13" rx="3" class="c-perform"/>
+      <text class="t-leg" x="216" y="11">Perform</text>
+    </g>
+
+    <g transform="translate(0,-40)">
+    <!-- the rise, drawn behind the cards -->
+    <polyline points="126,380 316,344 505,308 694,272 884,236 1073,200"
+              fill="none" class="hair" stroke-width="2" stroke-dasharray="5 5"/>
+
+    <!-- rung 1 -->
+    <g>
+      <rect class="card" x="40" y="380" width="173.33" height="160" rx="10"/>
+      <rect x="40" y="386" width="173.33" height="6" class="c-think"/>
+      <circle cx="68" cy="416" r="13" class="c-think"/><text class="t-badge" x="68" y="421">1</text>
+      <text class="t-rung" x="90" y="415">Meet it</text>
+      <text class="t-src" x="90" y="431">Theory · 20 min</text>
+      <text class="t-body" x="56" y="464"><tspan x="56" dy="0">Named and shown,</tspan><tspan x="56" dy="17">with one cue short</tspan><tspan x="56" dy="17">enough to remember</tspan><tspan x="56" dy="17">on stage.</tspan></text>
+    </g>
+
+    <!-- rung 2 -->
+    <g>
+      <rect class="card" x="229.33" y="344" width="173.33" height="196" rx="10"/>
+      <rect x="229.33" y="350" width="173.33" height="6" class="c-practise"/>
+      <circle cx="257.33" cy="380" r="13" class="c-practise"/><text class="t-badge" x="257.33" y="385">2</text>
+      <text class="t-rung" x="279.33" y="379">Isolate it</text>
+      <text class="t-src" x="279.33" y="395">Drill A · 30 min</text>
+      <text class="t-body" x="245.33" y="428"><tspan x="245.33" dy="0">The skill alone.</tspan><tspan x="245.33" dy="17">High reps. Nothing</tspan><tspan x="245.33" dy="17">else to think about.</tspan><tspan x="245.33" dy="17">Repetition is the</tspan><tspan x="245.33" dy="17">whole point.</tspan></text>
+    </g>
+
+    <!-- rung 3 -->
+    <g>
+      <rect class="card" x="418.67" y="308" width="173.33" height="232" rx="10"/>
+      <rect x="418.67" y="314" width="173.33" height="6" class="c-practise"/>
+      <circle cx="446.67" cy="344" r="13" class="c-practise"/><text class="t-badge" x="446.67" y="349">3</text>
+      <text class="t-rung" x="468.67" y="343">Load it</text>
+      <text class="t-src" x="468.67" y="359">Drill B · 30 min</text>
+      <text class="t-body" x="434.67" y="392"><tspan x="434.67" dy="0">Speed, stakes or</tspan><tspan x="434.67" dy="17">distraction added.</tspan><tspan x="434.67" dy="17">The skill has to</tspan><tspan x="434.67" dy="17">survive being</tspan><tspan x="434.67" dy="17">inconvenient.</tspan></text>
+    </g>
+
+    <!-- rung 4 -->
+    <g>
+      <rect class="card" x="608" y="272" width="173.33" height="268" rx="10"/>
+      <rect x="608" y="278" width="173.33" height="6" class="c-practise"/>
+      <circle cx="636" cy="308" r="13" class="c-practise"/><text class="t-badge" x="636" y="313">4</text>
+      <text class="t-rung" x="658" y="307">Embed it</text>
+      <text class="t-src" x="658" y="323">Scene Lab · 30 min</text>
+      <text class="t-body" x="624" y="356"><tspan x="624" dy="0">Inside a whole scene,</tspan><tspan x="624" dy="17">with character, story</tspan><tspan x="624" dy="17">and partner switched</tspan><tspan x="624" dy="17">back on. Nobody</tspan><tspan x="624" dy="17">mentions the skill.</tspan></text>
+    </g>
+
+    <!-- rung 5 -->
+    <g>
+      <rect class="card" x="797.33" y="236" width="173.33" height="304" rx="10"/>
+      <rect x="797.33" y="242" width="173.33" height="6" class="c-perform"/>
+      <circle cx="825.33" cy="272" r="13" class="c-perform"/><text class="t-badge" x="825.33" y="277">5</text>
+      <text class="t-rung" x="847.33" y="271">Show it</text>
+      <text class="t-src" x="847.33" y="287">Showcase · 25 min</text>
+      <text class="t-body" x="813.33" y="320"><tspan x="813.33" dy="0">In front of the others,</tspan><tspan x="813.33" dy="17">rehearsing the real</tspan><tspan x="813.33" dy="17">ending from week</tspan><tspan x="813.33" dy="17">one — so the last</tspan><tspan x="813.33" dy="17">night holds no</tspan><tspan x="813.33" dy="17">surprises.</tspan></text>
+    </g>
+
+    <!-- rung 6 -->
+    <g>
+      <rect class="card" x="986.67" y="200" width="173.33" height="340" rx="10"/>
+      <rect x="986.67" y="206" width="173.33" height="6" class="c-think"/>
+      <circle cx="1014.67" cy="236" r="13" class="c-think"/><text class="t-badge" x="1014.67" y="241">6</text>
+      <text class="t-rung" x="1036.67" y="235">Take it home</text>
+      <text class="t-src" x="1036.67" y="251">Homework · weekly</text>
+      <text class="t-body" x="1002.67" y="284"><tspan x="1002.67" dy="0">A solo drill, a life</tspan><tspan x="1002.67" dy="17">practice, and one</tspan><tspan x="1002.67" dy="17">thing to notice in</tspan><tspan x="1002.67" dy="17">the world. The skill</tspan><tspan x="1002.67" dy="17">leaves the room and</tspan><tspan x="1002.67" dy="17">comes back changed.</tspan></text>
+    </g>
+
+    <!-- axis -->
+    <line x1="40" y1="558" x2="1160" y2="558" class="hair" stroke-width="2"/>
+    <path d="M1152,552 l10,6 l-10,6" fill="none" class="hair" stroke-width="2"/>
+    <text class="t-axis" x="40" y="580">same skill · rising pressure, rising realism, falling scaffolding</text>
+    </g>
+  </g>
+</svg>

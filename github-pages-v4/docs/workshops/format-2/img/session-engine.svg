@@ -1,0 +1,162 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 610" width="1200" height="610"
+     role="img" aria-labelledby="se-title se-desc" font-family="Roboto, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <title id="se-title">The Session Engine — 180 minutes, ten blocks</title>
+  <desc id="se-desc">A proportional timeline of a Format #2 session. Twenty-five minutes of arrival (ice-breaker 5, laughter blast 5, warm-up cluster 15), twenty minutes of theory, thirty minutes of Drill A, a ten-minute break, thirty minutes of Drill B, thirty minutes of Scene Lab, twenty-five minutes of showcase rehearsal and ten minutes of reflection. Blocks are grouped into four jobs: Arrive, Think, Practise and Perform.</desc>
+
+  <style>
+    /* Light is the base; dark mode re-steps the SAME hues for the dark surface.
+       Plain hex on classes rather than CSS custom properties — var() is not
+       resolved by every SVG rasteriser, and these files are also rendered outside
+       a browser. Palette validated (all-pairs, both modes) with the data-viz
+       six checks: worst normal-vision dE 19.6 light / 19.3 dark. */
+    .bg{fill:#fcfcfb}
+    .card{fill:#f4f3f1;stroke:#dedcd7;stroke-width:1}
+    .hair{stroke:#dedcd7}
+    .c-arrive{fill:#2a78d6}
+    .c-think{fill:#eda100}
+    .c-practise{fill:#008300}
+    .c-perform{fill:#e87ba4}
+    .c-rest{fill:#8a8985}
+    .t-title{fill:#0b0b0b;font-size:30px;font-weight:700}
+    .t-sub{fill:#52514e;font-size:15.5px}
+    .t-leg{fill:#52514e;font-size:13.5px}
+    .t-min{fill:#6f6e6a;font-size:12px;text-anchor:middle}
+    .t-clock{fill:#6f6e6a;font-size:12.5px}
+    .t-name{fill:#0b0b0b;font-size:14.5px;font-weight:700}
+    .t-rung{fill:#0b0b0b;font-size:16px;font-weight:700}
+    .t-job{fill:#0b0b0b;font-size:13px;font-weight:700}
+    .t-time,.t-src{fill:#6f6e6a;font-size:11.5px}
+    .t-body{fill:#52514e;font-size:12.5px}
+    .t-note,.t-axis{fill:#6f6e6a;font-size:12.5px}
+    .t-badge{fill:#ffffff;font-size:12.5px;font-weight:700;text-anchor:middle}
+    .t-pill{fill:#ffffff;font-size:10.5px;font-weight:700;text-anchor:middle}
+    @media (prefers-color-scheme: dark) {
+      .bg{fill:#1a1a19}
+      .card{fill:#232322;stroke:#3a3a38}
+      .hair{stroke:#3a3a38}
+      .c-arrive{fill:#3987e5}
+      .c-think{fill:#c98500}
+      .c-perform{fill:#d55181}
+      .c-rest{fill:#6f6e6a}
+      .t-title,.t-name,.t-rung,.t-job{fill:#ffffff}
+      .t-sub,.t-leg,.t-body{fill:#c3c2b7}
+      .t-min,.t-clock,.t-time,.t-src,.t-note,.t-axis{fill:#a3a29a}
+    }
+  </style>
+
+  <g>
+    <rect x="0" y="0" width="1200" height="610" class="bg"/>
+
+    <text class="t-title" x="40" y="46">The Session Engine — 180 minutes, ten blocks</text>
+    <text class="t-sub" x="40" y="72">Format #2 · the same shape every week, so the room stops wondering what happens next</text>
+
+    <!-- legend: identity is never colour alone — every block is numbered and named below -->
+    <g transform="translate(40,96)">
+      <rect x="0" y="0" width="13" height="13" rx="3" class="c-arrive"/>
+      <text class="t-leg" x="20" y="11">Arrive · 25 min</text>
+      <rect x="150" y="0" width="13" height="13" rx="3" class="c-think"/>
+      <text class="t-leg" x="170" y="11">Think · 30 min</text>
+      <rect x="296" y="0" width="13" height="13" rx="3" class="c-practise"/>
+      <text class="t-leg" x="316" y="11">Practise · 90 min</text>
+      <rect x="456" y="0" width="13" height="13" rx="3" class="c-perform"/>
+      <text class="t-leg" x="476" y="11">Perform · 25 min</text>
+      <rect x="614" y="0" width="13" height="13" rx="3" class="c-rest"/>
+      <text class="t-leg" x="634" y="11">Break · 10 min</text>
+    </g>
+
+    <!-- proportional ribbon: 1102px of fill for 180 min, 2px surface gaps between segments -->
+    <g>
+      <rect x="40"      y="148" width="30.61"  height="46" rx="4" class="c-arrive"/>
+      <rect x="72.61"   y="148" width="30.61"  height="46" rx="4" class="c-arrive"/>
+      <rect x="105.22"  y="148" width="91.83"  height="46" rx="4" class="c-arrive"/>
+      <rect x="199.06"  y="148" width="122.44" height="46" rx="4" class="c-think"/>
+      <rect x="323.50"  y="148" width="183.67" height="46" rx="4" class="c-practise"/>
+      <rect x="509.17"  y="148" width="61.22"  height="46" rx="4" class="c-rest"/>
+      <rect x="572.39"  y="148" width="183.67" height="46" rx="4" class="c-practise"/>
+      <rect x="758.06"  y="148" width="183.67" height="46" rx="4" class="c-practise"/>
+      <rect x="943.73"  y="148" width="153.06" height="46" rx="4" class="c-perform"/>
+      <rect x="1098.79" y="148" width="61.22"  height="46" rx="4" class="c-think"/>
+    </g>
+
+    <!-- minutes, outside the fills so they stay legible on every hue -->
+    <g class="t-min">
+      <text x="55.31"   y="212">5</text>
+      <text x="87.92"   y="212">5</text>
+      <text x="151.14"  y="212">15</text>
+      <text x="260.28"  y="212">20</text>
+      <text x="415.34"  y="212">30</text>
+      <text x="539.78"  y="212">10</text>
+      <text x="664.23"  y="212">30</text>
+      <text x="849.90"  y="212">30</text>
+      <text x="1020.26" y="212">25</text>
+      <text x="1129.40" y="212">10</text>
+    </g>
+    <text class="t-clock" x="40" y="232">0:00</text>
+    <text class="t-clock" x="1160" y="232" text-anchor="end">3:00</text>
+
+    <!-- the ten blocks, in order -->
+    <g>
+      <!-- row 1 -->
+      <rect class="card" x="40" y="252" width="211.2" height="150"/>
+      <circle cx="66" cy="278" r="13" class="c-arrive"/><text class="t-badge" x="66" y="283">1</text>
+      <text class="t-name" x="88" y="277">Ice-breaker</text>
+      <text class="t-time" x="88" y="293">0:00–0:05</text>
+      <text class="t-body" x="58" y="326"><tspan x="58" dy="0">Everyone says something true</tspan><tspan x="58" dy="17">about themselves in the first</tspan><tspan x="58" dy="17">five minutes, before nerves</tspan><tspan x="58" dy="17">harden into silence.</tspan></text>
+
+      <rect class="card" x="267.2" y="252" width="211.2" height="150"/>
+      <circle cx="293.2" cy="278" r="13" class="c-arrive"/><text class="t-badge" x="293.2" y="283">2</text>
+      <text class="t-name" x="315.2" y="277">Laughter Blast</text>
+      <text class="t-time" x="315.2" y="293">0:05–0:10</text>
+      <text class="t-body" x="285.2" y="326"><tspan x="285.2" dy="0">Childhood laughter on</tspan><tspan x="285.2" dy="17">purpose. No jokes, nothing</tspan><tspan x="285.2" dy="17">to be funny about — it just</tspan><tspan x="285.2" dy="17">drops the guard.</tspan></text>
+
+      <rect class="card" x="494.4" y="252" width="211.2" height="150"/>
+      <circle cx="520.4" cy="278" r="13" class="c-arrive"/><text class="t-badge" x="520.4" y="283">3</text>
+      <text class="t-name" x="542.4" y="277">Warm-up cluster</text>
+      <text class="t-time" x="542.4" y="293">0:10–0:25</text>
+      <text class="t-body" x="512.4" y="326"><tspan x="512.4" dy="0">Three short games: body,</tspan><tspan x="512.4" dy="17">voice, group pulse. The</tspan><tspan x="512.4" dy="17">room starts moving as one</tspan><tspan x="512.4" dy="17">animal.</tspan></text>
+
+      <rect class="card" x="721.6" y="252" width="211.2" height="150"/>
+      <circle cx="747.6" cy="278" r="13" class="c-think"/><text class="t-badge" x="747.6" y="283">4</text>
+      <text class="t-name" x="769.6" y="277">Theory</text>
+      <text class="t-time" x="769.6" y="293">0:25–0:45</text>
+      <text class="t-body" x="739.6" y="326"><tspan x="739.6" dy="0">One skill, its infographic,</tspan><tspan x="739.6" dy="17">and one cue short enough</tspan><tspan x="739.6" dy="17">to remember on stage.</tspan></text>
+
+      <rect class="card" x="948.8" y="252" width="211.2" height="150"/>
+      <circle cx="974.8" cy="278" r="13" class="c-practise"/><text class="t-badge" x="974.8" y="283">5</text>
+      <text class="t-name" x="996.8" y="277">Drill A</text>
+      <text class="t-time" x="996.8" y="293">0:45–1:15 · isolation</text>
+      <text class="t-body" x="966.8" y="326"><tspan x="966.8" dy="0">The skill on its own, high</tspan><tspan x="966.8" dy="17">reps, nothing else to think</tspan><tspan x="966.8" dy="17">about. Repetition is the</tspan><tspan x="966.8" dy="17">point.</tspan></text>
+
+      <!-- row 2 -->
+      <rect class="card" x="40" y="418" width="211.2" height="150"/>
+      <circle cx="66" cy="444" r="13" class="c-rest"/><text class="t-badge" x="66" y="449">6</text>
+      <text class="t-name" x="88" y="443">Break</text>
+      <text class="t-time" x="88" y="459">1:15–1:25</text>
+      <text class="t-body" x="58" y="492"><tspan x="58" dy="0">Water, air, side</tspan><tspan x="58" dy="17">conversations. Protect it —</tspan><tspan x="58" dy="17">the ensemble forms here as</tspan><tspan x="58" dy="17">much as in the games.</tspan></text>
+
+      <rect class="card" x="267.2" y="418" width="211.2" height="150"/>
+      <circle cx="293.2" cy="444" r="13" class="c-practise"/><text class="t-badge" x="293.2" y="449">7</text>
+      <text class="t-name" x="315.2" y="443">Drill B</text>
+      <text class="t-time" x="315.2" y="459">1:25–1:55 · under load</text>
+      <text class="t-body" x="285.2" y="492"><tspan x="285.2" dy="0">The same skill with speed,</tspan><tspan x="285.2" dy="17">stakes or distraction added.</tspan><tspan x="285.2" dy="17">This is where it stops being</tspan><tspan x="285.2" dy="17">an idea.</tspan></text>
+
+      <rect class="card" x="494.4" y="418" width="211.2" height="150"/>
+      <circle cx="520.4" cy="444" r="13" class="c-practise"/><text class="t-badge" x="520.4" y="449">8</text>
+      <text class="t-name" x="542.4" y="443">Scene Lab</text>
+      <text class="t-time" x="542.4" y="459">1:55–2:25</text>
+      <text class="t-body" x="512.4" y="492"><tspan x="512.4" dy="0">The skill inside a whole</tspan><tspan x="512.4" dy="17">scene, with everything else</tspan><tspan x="512.4" dy="17">switched back on.</tspan></text>
+
+      <rect class="card" x="721.6" y="418" width="211.2" height="150"/>
+      <circle cx="747.6" cy="444" r="13" class="c-perform"/><text class="t-badge" x="747.6" y="449">9</text>
+      <text class="t-name" x="769.6" y="443">Showcase round</text>
+      <text class="t-time" x="769.6" y="459">2:25–2:50</text>
+      <text class="t-body" x="739.6" y="492"><tspan x="739.6" dy="0">Rehearse the end-of-course</tspan><tspan x="739.6" dy="17">show for real, from week</tspan><tspan x="739.6" dy="17">one. Nothing about the last</tspan><tspan x="739.6" dy="17">night is a surprise.</tspan></text>
+
+      <rect class="card" x="948.8" y="418" width="211.2" height="150"/>
+      <circle cx="974.8" cy="444" r="13" class="c-think"/><text class="t-badge" x="974.8" y="449">10</text>
+      <text class="t-name" x="996.8" y="443">Reflection</text>
+      <text class="t-time" x="996.8" y="459">2:50–3:00</text>
+      <text class="t-body" x="966.8" y="492"><tspan x="966.8" dy="0">Two questions that deepen</tspan><tspan x="966.8" dy="17">the improv, one that carries</tspan><tspan x="966.8" dy="17">it beyond the stage, then</tspan><tspan x="966.8" dy="17">the homework.</tspan></text>
+    </g>
+  </g>
+</svg>

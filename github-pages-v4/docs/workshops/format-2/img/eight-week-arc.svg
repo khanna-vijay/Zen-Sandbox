@@ -1,0 +1,156 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" width="1200" height="500"
+     role="img" aria-labelledby="wa-title wa-desc" font-family="Roboto, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <title id="wa-title">The 8-Week Arc — contract, build, choose, rehearse, perform</title>
+  <desc id="wa-desc">The shape of one Format #2 course. Week one re-contracts safety. Weeks two to six each add one new skill. The cohort votes on its showcase format at the end of week six, runs a full dress rehearsal in week seven, and performs a public showcase in week eight. A homework pack goes out after every session, and the cohort's maturity stage rises one notch across the eight weeks.</desc>
+
+  <style>
+    /* Light is the base; dark mode re-steps the SAME hues for the dark surface.
+       Plain hex on classes rather than CSS custom properties — var() is not
+       resolved by every SVG rasteriser, and these files are also rendered outside
+       a browser. Palette validated (all-pairs, both modes) with the data-viz
+       six checks: worst normal-vision dE 19.6 light / 19.3 dark. */
+    .bg{fill:#fcfcfb}
+    .card{fill:#f4f3f1;stroke:#dedcd7;stroke-width:1}
+    .hair{stroke:#dedcd7}
+    .c-arrive{fill:#2a78d6}
+    .c-think{fill:#eda100}
+    .c-practise{fill:#008300}
+    .c-perform{fill:#e87ba4}
+    .c-rest{fill:#8a8985}
+    .t-title{fill:#0b0b0b;font-size:30px;font-weight:700}
+    .t-sub{fill:#52514e;font-size:15.5px}
+    .t-leg{fill:#52514e;font-size:13.5px}
+    .t-min{fill:#6f6e6a;font-size:12px;text-anchor:middle}
+    .t-clock{fill:#6f6e6a;font-size:12.5px}
+    .t-name{fill:#0b0b0b;font-size:14.5px;font-weight:700}
+    .t-rung{fill:#0b0b0b;font-size:16px;font-weight:700}
+    .t-job{fill:#0b0b0b;font-size:13px;font-weight:700}
+    .t-time,.t-src{fill:#6f6e6a;font-size:11.5px}
+    .t-body{fill:#52514e;font-size:12.5px}
+    .t-wk{fill:#52514e;font-size:10.5px}
+    .t-note,.t-axis{fill:#6f6e6a;font-size:12.5px}
+    .t-badge{fill:#ffffff;font-size:12.5px;font-weight:700;text-anchor:middle}
+    .t-pill{fill:#ffffff;font-size:10.5px;font-weight:700;text-anchor:middle}
+    @media (prefers-color-scheme: dark) {
+      .bg{fill:#1a1a19}
+      .card{fill:#232322;stroke:#3a3a38}
+      .hair{stroke:#3a3a38}
+      .c-arrive{fill:#3987e5}
+      .c-think{fill:#c98500}
+      .c-perform{fill:#d55181}
+      .c-rest{fill:#6f6e6a}
+      .t-title,.t-name,.t-rung,.t-job{fill:#ffffff}
+      .t-sub,.t-leg,.t-body,.t-wk{fill:#c3c2b7}
+      .t-min,.t-clock,.t-time,.t-src,.t-note,.t-axis{fill:#a3a29a}
+    }
+  </style>
+
+  <g>
+    <rect x="0" y="0" width="1200" height="500" class="bg"/>
+
+    <text class="t-title" x="40" y="46">The 8-Week Arc — contract, build, choose, rehearse, perform</text>
+    <text class="t-sub" x="40" y="72">Format #2 · the same shape in all three courses. Every course ends in front of an audience.</text>
+
+    <g transform="translate(40,96)">
+      <rect x="0" y="0" width="13" height="13" rx="3" class="c-arrive"/>
+      <text class="t-leg" x="20" y="11">Contract</text>
+      <rect x="108" y="0" width="13" height="13" rx="3" class="c-practise"/>
+      <text class="t-leg" x="128" y="11">Build</text>
+      <rect x="204" y="0" width="13" height="13" rx="3" class="c-perform"/>
+      <text class="t-leg" x="224" y="11">Perform</text>
+    </g>
+
+    <!-- week 1 -->
+    <g>
+      <rect class="card" x="45" y="140" width="130" height="152" rx="10"/>
+      <rect x="45" y="146" width="130" height="6" class="c-arrive"/>
+      <circle cx="69" cy="176" r="14" class="c-arrive"/><text class="t-badge" x="69" y="180">1</text>
+      <text class="t-job" x="90" y="180">Contract</text>
+      <text class="t-wk" x="59" y="212"><tspan x="59" dy="0">Safety, the circle,</tspan><tspan x="59" dy="15">names. Layer 0</tspan><tspan x="59" dy="15">is settled before</tspan><tspan x="59" dy="15">anything else.</tspan></text>
+    </g>
+
+    <!-- week 2 -->
+    <g>
+      <rect class="card" x="185" y="140" width="130" height="152" rx="10"/>
+      <rect x="185" y="146" width="130" height="6" class="c-practise"/>
+      <circle cx="209" cy="176" r="14" class="c-practise"/><text class="t-badge" x="209" y="180">2</text>
+      <text class="t-job" x="230" y="180">Build</text>
+      <text class="t-wk" x="199" y="212"><tspan x="199" dy="0">One new skill,</tspan><tspan x="199" dy="15">drilled three ways.</tspan><tspan x="199" dy="15">First homework</tspan><tspan x="199" dy="15">pack goes out.</tspan></text>
+    </g>
+
+    <!-- week 3 -->
+    <g>
+      <rect class="card" x="325" y="140" width="130" height="152" rx="10"/>
+      <rect x="325" y="146" width="130" height="6" class="c-practise"/>
+      <circle cx="349" cy="176" r="14" class="c-practise"/><text class="t-badge" x="349" y="180">3</text>
+      <text class="t-job" x="370" y="180">Build</text>
+      <text class="t-wk" x="339" y="212"><tspan x="339" dy="0">One new skill. The</tspan><tspan x="339" dy="15">spiral turns to the</tspan><tspan x="339" dy="15">next domain, one</tspan><tspan x="339" dy="15">stage higher.</tspan></text>
+    </g>
+
+    <!-- week 4 -->
+    <g>
+      <rect class="card" x="465" y="140" width="130" height="152" rx="10"/>
+      <rect x="465" y="146" width="130" height="6" class="c-practise"/>
+      <circle cx="489" cy="176" r="14" class="c-practise"/><text class="t-badge" x="489" y="180">4</text>
+      <text class="t-job" x="510" y="180">Build</text>
+      <text class="t-wk" x="479" y="212"><tspan x="479" dy="0">One new skill. The</tspan><tspan x="479" dy="15">showcase rounds</tspan><tspan x="479" dy="15">start stacking</tspan><tspan x="479" dy="15">real material.</tspan></text>
+    </g>
+
+    <!-- week 5 -->
+    <g>
+      <rect class="card" x="605" y="140" width="130" height="152" rx="10"/>
+      <rect x="605" y="146" width="130" height="6" class="c-practise"/>
+      <circle cx="629" cy="176" r="14" class="c-practise"/><text class="t-badge" x="629" y="180">5</text>
+      <text class="t-job" x="650" y="180">Build</text>
+      <text class="t-wk" x="619" y="212"><tspan x="619" dy="0">One new skill.</tspan><tspan x="619" dy="15">Both showcase</tspan><tspan x="619" dy="15">formats now tried</tspan><tspan x="619" dy="15">in the room.</tspan></text>
+    </g>
+
+    <!-- week 6 -->
+    <g>
+      <rect class="card" x="745" y="140" width="130" height="152" rx="10"/>
+      <rect x="745" y="146" width="130" height="6" class="c-practise"/>
+      <circle cx="769" cy="176" r="14" class="c-practise"/><text class="t-badge" x="769" y="180">6</text>
+      <text class="t-job" x="790" y="180">Choose</text>
+      <text class="t-wk" x="759" y="212"><tspan x="759" dy="0">One new skill —</tspan><tspan x="759" dy="15">then the cohort</tspan><tspan x="759" dy="15">votes on which</tspan><tspan x="759" dy="15">format to run.</tspan></text>
+      <rect x="759" y="268" width="108" height="17" rx="8.5" class="c-perform"/>
+      <text class="t-pill" x="813" y="280">Showcase vote</text>
+    </g>
+
+    <!-- week 7 -->
+    <g>
+      <rect class="card" x="885" y="140" width="130" height="152" rx="10"/>
+      <rect x="885" y="146" width="130" height="6" class="c-perform"/>
+      <circle cx="909" cy="176" r="14" class="c-perform"/><text class="t-badge" x="909" y="180">7</text>
+      <text class="t-job" x="930" y="180">Rehearse</text>
+      <text class="t-wk" x="899" y="212"><tspan x="899" dy="0">A full dress run</tspan><tspan x="899" dy="15">of the chosen</tspan><tspan x="899" dy="15">format, in order,</tspan><tspan x="899" dy="15">with no stopping.</tspan></text>
+      <rect x="899" y="268" width="108" height="17" rx="8.5" class="c-perform"/>
+      <text class="t-pill" x="953" y="280">Dress run</text>
+    </g>
+
+    <!-- week 8 -->
+    <g>
+      <rect class="card" x="1025" y="140" width="130" height="152" rx="10"/>
+      <rect x="1025" y="146" width="130" height="6" class="c-perform"/>
+      <circle cx="1049" cy="176" r="14" class="c-perform"/><text class="t-badge" x="1049" y="180">8</text>
+      <text class="t-job" x="1070" y="180">Perform</text>
+      <text class="t-wk" x="1039" y="212"><tspan x="1039" dy="0">The public show.</tspan><tspan x="1039" dy="15">An audience who</tspan><tspan x="1039" dy="15">did not come to</tspan><tspan x="1039" dy="15">be kind.</tspan></text>
+      <rect x="1039" y="268" width="108" height="17" rx="8.5" class="c-perform"/>
+      <text class="t-pill" x="1093" y="280">Public show</text>
+    </g>
+
+    <!-- homework loop -->
+    <g>
+      <path d="M110,320 C110,344 1090,344 1090,320" fill="none" class="hair"
+            stroke-width="2" stroke-dasharray="5 5"/>
+      <text class="t-note" x="600" y="360" text-anchor="middle">a homework pack after every session — a solo drill, a life practice, and one thing to notice</text>
+    </g>
+
+    <!-- stage rise -->
+    <g>
+      <line x1="40" y1="412" x2="1160" y2="412" class="hair" stroke-width="2"/>
+      <path d="M1152,406 l10,6 l-10,6" fill="none" class="hair" stroke-width="2"/>
+      <text class="t-note" x="40" y="434">eight weeks · one maturity stage · the domain spiral turns once</text>
+      <text class="t-note" x="40" y="462">Class size 10–20 · 180 minutes a session · the same ten blocks every week</text>
+    </g>
+  </g>
+</svg>
