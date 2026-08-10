@@ -14,11 +14,6 @@ hide:
 |---|---|
 | **Format** | Apocalypse |
 | **Primary source** | [IRC Improv Wiki](https://wiki.improvresourcecenter.com/index.php?title=Apocalypse) |
-| **Article retrieved** | 2026-08-09 23:23 UTC |
-| **Research model** | `gemini-3.1-pro-preview` - Google Search grounded, 2 passes |
-| **Analysis model** | `claude-opus-5` - 3 passes |
-| **Infographic model** | `gemini-3-pro-image` - 5 posters, 16:9 |
-| **Compiled** | 2026-08-10 01:45 UTC |
 
 ---
 
@@ -31,10 +26,10 @@ hide:
    - [3. Origins and Lineage](#infographic-3-history)
    - [4. Why It Works](#infographic-4-theory)
    - [5. Rehearsal and Repair](#infographic-5-coaching)
-3. [Part III - Research Dossier](#part-iii-research-dossier-gemini-31-pro)
+3. [Part III - Research Dossier](#part-iii-research-dossier)
    - [Pass 1: History, Lineage, Literature and Scholarship](#research-history)
    - [Pass 2: Comparative Anatomy, Pedagogy and Production](#research-comparative)
-4. [Part IV - Mechanics, Gameplay and Coaching Manual](#part-iv-mechanics-gameplay-and-coaching-manual-claude-opus-5)
+4. [Part IV - Mechanics, Gameplay and Coaching Manual](#part-iv-mechanics-gameplay-and-coaching-manual)
    - [Pass 1: The Form, Its Mechanics and Its Gameplay](#manual-mechanics)
    - [Pass 2: Training, Coaching and Performance Companion](#manual-coaching)
 
@@ -66,7 +61,7 @@ Everyone in the class wore half black, half bright solid color.
 
 ## Part II - The Infographics
 
-*Five 16:9 posters (`gemini-3-pro-image`), each teaching a different aspect of the format. Click any poster to enlarge.*
+*Five 16:9 posters, each teaching a different aspect of the format. Click any poster to enlarge.*
 
 <a id="infographic-1-mechanics"></a>
 
@@ -120,9 +115,9 @@ Everyone in the class wore half black, half bright solid color.
 
 ---
 
-## Part III - Research Dossier (Gemini 3.1 Pro)
+## Part III - Research Dossier
 
-*Two grounded research passes with live Google Search: the historical record, then the comparative and pedagogical record. The model tags claims by evidence strength; treat tagged and unverified items accordingly.*
+*Two research passes: the historical record, then the comparative and pedagogical record. Claims carry evidence tags - treat unverified items accordingly.*
 
 <a id="research-history"></a>
 
@@ -436,14 +431,14 @@ The Apocalypse is a composite, thematic macro-form. It does not invent a new bas
 ### Source List
 
 1. "Apocalypse" - IRC Improv Wiki - 2017 - https://wiki.improvresourcecenter.com/index.php?title=Apocalypse - Supports form structure, creator (Will Hines), music cues, and dress code.
-2. "Evente improv form" - Improv Resource Center Forums - 2004 - https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZfW09KseY6FUA5_wg1IXTPZhCwkTueLrLs201alwb6SFSgu7iZwMwzV9HPhO7zGyFDP0rMhlQyVpAI4u4MARf-shebZLe0hbGhSButYgYol03gJ-y-YWNjLuDgtlPNIUuGHbDeAjw6jBdOxQlLh_XqbkbRM2dkQ4NojJASdt8lKEcTbG73prB0iOXNZVmldlNBOHoEi_2IRBAQPWJg0kA-xBw7w== - Supports the mechanics of the first half (time dashes, flashbacks).
-3. "Advanced Study Improv: Evente Tue w/ Diana Kolsky" - Kickstand Comedy via Crowdwork - 2026 - https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6ZJDRmGzXfNogB668duNyXH1WCvy-QUwphc4DGumpsuuqBo-5d4Fae5GxLDgQIFTq4ql4ZLJUcF3fCGXj_qivInee7Dk_hqAEbT38OcHFcUJKYpqUe8jOWVtrwrVUqbMRnLoi9MnQ1OlivJ_-2J5jjYD8TCVzL9Nb_zs4MCpIcTsQSXhrgwyL2yU76g== - Supports contemporary teaching of the Eventé form and time dash mechanics.
-4. "Level Four: Forms" - Magnet Theater - 2021 - https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQfLSs4duA1pbnujyEp_uMad9jnjTrcjxqfw-jJjf0PglIGZCC_fU04fvi8wnB5vWp-NV9VW9A5BjQFtJMdp_EK0oc2_cbzPAjHFXPmqokXHFRgIG6EtWlstq7_uvEDyFVebX02L3msDy0gwqzutGEYIRt - Supports the teaching of Eventé as an advanced narrative form by Armando Diaz.
-5. "I'm Will Hines... AMA" - Reddit (/r/Earwolf) - 2017 - https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEP3NMZjuL4qKsAnHL_d8UFH6cDbpUqg_s4pIVQ3SQtAyqeaSeFc6HpdV4dS-u3wFzZNrLgGA-dlq_oYErtx9MYCKaSAeNkpDviBAFkiMYgVFCck8vtMFMHQZk_dG1wnJi44mYe3jf3kgcDm5LPoD_oQv_2Y4_SwkHDM9KxOzug3DyhG6rPRavvyUTTSGVhPX1I3E8zM00DQg== - Supports Will Hines's perspective on bolting different forms together to create the Apocalypse structure.
+2. "Evente improv form" - Improv Resource Center Forums - 2004 - https://improvresourcecenter.com/forums/index.php?threads/anyone-know-about-the-structure-of-evente.24001/ - Supports the mechanics of the first half (time dashes, flashbacks).
+3. "Advanced Study Improv: Evente Tue w/ Diana Kolsky" - Kickstand Comedy via Crowdwork - 2026 - https://www.crowdwork.com/e/advanced-study-improv-evente-tue-w-diana-kolsky-s3-26 - Supports contemporary teaching of the Eventé form and time dash mechanics.
+4. "Level Four: Forms" - Magnet Theater - 2021 - https://magnettheater.com/class/improv-level-four/10552/ - Supports the teaching of Eventé as an advanced narrative form by Armando Diaz.
+5. "I'm Will Hines... AMA" - Reddit (/r/Earwolf) - 2017 - https://www.reddit.com/r/Earwolf/comments/6nvmng/im_will_hines_a_human_being_who_has_been_on/ - Supports Will Hines's perspective on bolting different forms together to create the Apocalypse structure.
 
 ---
 
-## Part IV - Mechanics, Gameplay and Coaching Manual (Claude Opus 5)
+## Part IV - Mechanics, Gameplay and Coaching Manual
 
 *Synthesis over the original article and both research dossiers: first how the form works and how to play it, then how to train an ensemble to perform it.*
 
@@ -2772,7 +2767,7 @@ ACT TWO — CAST B — 25 min — MONOSCENE — nine years later
 
 ---
 
-<sub>Compiled by `Elaborate_Games.sh` on 2026-08-10 01:45 UTC. Source article archived from https://wiki.improvresourcecenter.com/index.php?title=Apocalypse. Generated sections are model output: the research passes are search-grounded but should be verified before citation, and the craft analysis is expert-style synthesis, not a primary source.</sub>
+<sub>Part I is an archived third-party article, reproduced as scraped. Parts III and IV are generated elaboration: the research passes are search-grounded but should be verified before citation, and the craft analysis is expert-style synthesis, not a primary source.</sub>
 
 ---
 

@@ -15,11 +15,6 @@ hide:
 | **Format** | Armando |
 | **Canonical name** | Monologue Deconstruction |
 | **Primary source** | [IRC Improv Wiki](https://wiki.improvresourcecenter.com/index.php?title=Armando) |
-| **Article retrieved** | 2026-08-09 23:23 UTC |
-| **Research model** | `gemini-3.1-pro-preview` - Google Search grounded, 2 passes |
-| **Analysis model** | `claude-opus-5` - 3 passes |
-| **Infographic model** | `gemini-3-pro-image` - 5 posters, 16:9 |
-| **Compiled** | 2026-08-10 01:45 UTC |
 
 ---
 
@@ -32,10 +27,10 @@ hide:
    - [3. Origins and Lineage](#infographic-3-history)
    - [4. Why It Works](#infographic-4-theory)
    - [5. Rehearsal and Repair](#infographic-5-coaching)
-3. [Part III - Research Dossier](#part-iii-research-dossier-gemini-31-pro)
+3. [Part III - Research Dossier](#part-iii-research-dossier)
    - [Pass 1: History, Lineage, Literature and Scholarship](#research-history)
    - [Pass 2: Comparative Anatomy, Pedagogy and Production](#research-comparative)
-4. [Part IV - Mechanics, Gameplay and Coaching Manual](#part-iv-mechanics-gameplay-and-coaching-manual-claude-opus-5)
+4. [Part IV - Mechanics, Gameplay and Coaching Manual](#part-iv-mechanics-gameplay-and-coaching-manual)
    - [Pass 1: The Form, Its Mechanics and Its Gameplay](#manual-mechanics)
    - [Pass 2: Training, Coaching and Performance Companion](#manual-coaching)
 
@@ -76,7 +71,7 @@ The Monologue Deconstruction is sometimes referred to as The Armando, after [Arm
 
 ## Part II - The Infographics
 
-*Five 16:9 posters (`gemini-3-pro-image`), each teaching a different aspect of the format. Click any poster to enlarge.*
+*Five 16:9 posters, each teaching a different aspect of the format. Click any poster to enlarge.*
 
 <a id="infographic-1-mechanics"></a>
 
@@ -107,13 +102,6 @@ The Monologue Deconstruction is sometimes referred to as The Armando, after [Arm
 ![Armando - Origins and Lineage](img/Armando__3_history.jpg){ .diagram loading=lazy decoding=async width="1100" height="614" }
 
 
-<details>
-<summary>Designer's notes returned with the image</summary>
-
-There you have it. Let me know if you need anything else!
-
-</details>
-
 
 <a id="infographic-4-theory"></a>
 
@@ -137,9 +125,9 @@ There you have it. Let me know if you need anything else!
 
 ---
 
-## Part III - Research Dossier (Gemini 3.1 Pro)
+## Part III - Research Dossier
 
-*Two grounded research passes with live Google Search: the historical record, then the comparative and pedagogical record. The model tags claims by evidence strength; treat tagged and unverified items accordingly.*
+*Two research passes: the historical record, then the comparative and pedagogical record. Claims carry evidence tags - treat unverified items accordingly.*
 
 <a id="research-history"></a>
 
@@ -462,7 +450,7 @@ The Armando sits as a direct descendant of the Harold, created at iO Chicago in 
 
 ---
 
-## Part IV - Mechanics, Gameplay and Coaching Manual (Claude Opus 5)
+## Part IV - Mechanics, Gameplay and Coaching Manual
 
 *Synthesis over the original article and both research dossiers: first how the form works and how to play it, then how to train an ensemble to perform it.*
 
@@ -2725,7 +2713,7 @@ MONOLOGUE 3 (90s) → BRAID → BUTTON on a verbatim line → BLACKOUT
 
 ---
 
-<sub>Compiled by `Elaborate_Games.sh` on 2026-08-10 01:45 UTC. Source article archived from https://wiki.improvresourcecenter.com/index.php?title=Armando. Generated sections are model output: the research passes are search-grounded but should be verified before citation, and the craft analysis is expert-style synthesis, not a primary source.</sub>
+<sub>Part I is an archived third-party article, reproduced as scraped. Parts III and IV are generated elaboration: the research passes are search-grounded but should be verified before citation, and the craft analysis is expert-style synthesis, not a primary source.</sub>
 
 ---
 

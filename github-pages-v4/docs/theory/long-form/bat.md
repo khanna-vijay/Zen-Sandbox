@@ -14,11 +14,6 @@ hide:
 |---|---|
 | **Format** | Bat |
 | **Primary source** | [IRC Improv Wiki](https://wiki.improvresourcecenter.com/index.php?title=Bat) |
-| **Article retrieved** | 2026-08-09 23:23 UTC |
-| **Research model** | `gemini-3.1-pro-preview` - Google Search grounded, 2 passes |
-| **Analysis model** | `claude-opus-5` - 3 passes |
-| **Infographic model** | `gemini-3-pro-image` - 5 posters, 16:9 |
-| **Compiled** | 2026-08-10 01:15 UTC |
 
 ---
 
@@ -31,10 +26,10 @@ hide:
    - [3. Origins and Lineage](#infographic-3-history)
    - [4. Why It Works](#infographic-4-theory)
    - [5. Rehearsal and Repair](#infographic-5-coaching)
-3. [Part III - Research Dossier](#part-iii-research-dossier-gemini-31-pro)
+3. [Part III - Research Dossier](#part-iii-research-dossier)
    - [Pass 1: History, Lineage, Literature and Scholarship](#research-history)
    - [Pass 2: Comparative Anatomy, Pedagogy and Production](#research-comparative)
-4. [Part IV - Mechanics, Gameplay and Coaching Manual](#part-iv-mechanics-gameplay-and-coaching-manual-claude-opus-5)
+4. [Part IV - Mechanics, Gameplay and Coaching Manual](#part-iv-mechanics-gameplay-and-coaching-manual)
    - [Pass 1: The Form, Its Mechanics and Its Gameplay](#manual-mechanics)
    - [Pass 2: Training, Coaching and Performance Companion](#manual-coaching)
 
@@ -73,7 +68,7 @@ The format was created by Joe Bill of Annoyance Theatre in Chicago.
 
 ## Part II - The Infographics
 
-*Five 16:9 posters (`gemini-3-pro-image`), each teaching a different aspect of the format. Click any poster to enlarge.*
+*Five 16:9 posters, each teaching a different aspect of the format. Click any poster to enlarge.*
 
 <a id="infographic-1-mechanics"></a>
 
@@ -124,19 +119,12 @@ The format was created by Joe Bill of Annoyance Theatre in Chicago.
 ![Bat - Rehearsal and Repair](img/Bat__5_coaching.jpg){ .diagram loading=lazy decoding=async width="1100" height="614" }
 
 
-<details>
-<summary>Designer's notes returned with the image</summary>
-
-Generation complete.
-
-</details>
-
 
 ---
 
-## Part III - Research Dossier (Gemini 3.1 Pro)
+## Part III - Research Dossier
 
-*Two grounded research passes with live Google Search: the historical record, then the comparative and pedagogical record. The model tags claims by evidence strength; treat tagged and unverified items accordingly.*
+*Two research passes: the historical record, then the comparative and pedagogical record. Claims carry evidence tags - treat unverified items accordingly.*
 
 <a id="research-history"></a>
 
@@ -437,7 +425,7 @@ The Bat sits at the intersection of the classic Chicago Harold and the tradition
 
 ---
 
-## Part IV - Mechanics, Gameplay and Coaching Manual (Claude Opus 5)
+## Part IV - Mechanics, Gameplay and Coaching Manual
 
 *Synthesis over the original article and both research dossiers: first how the form works and how to play it, then how to train an ensemble to perform it.*
 
@@ -1452,1079 +1440,1046 @@ Same suggestion, same cast, a Bat that only sort of works. Annotations mark the 
 
 ### Coaching Philosophy for This Form
 
-Read the mechanics manual first; this document assumes it. Nothing below re-explains the Rule of Three Layers, the transport carriers, the edit catalogue or the structural map. This is the floor plan for getting a cold room of eight people to the point where they can execute that manual under performance pressure, in the dark, at thirty minutes.
+You are not directing a show. You are building a **listening organism** and then giving it thirty minutes of darkness to live in. Everything in the mechanics manual — the Rule of Three Layers, the Peel, sonic editing, voice slots — is downstream of one fact you must keep in front of the room every rehearsal: *in the dark, the ensemble's coordination and the show's content are the same signal.* There is no backstage. Every negotiation is heard.
 
-**What you are actually building.** Not "a team that can do a show in the dark." You are building a *self-regulating mix*. Eight people who each carry, at all times, an accurate live model of what the room currently sounds like, and who each know — without being told, without being able to see anyone — whether their next contribution would add information or destroy it. Everything else in this form is downstream of that single capacity. A team that has it will produce a decent Bat with almost no structural coaching. A team that lacks it will produce a wall of noise no amount of Harold theory will fix.
+That reframes the director's job in three ways.
 
-The second thing you are building is **a group that has renegotiated its relationship with silence**. In the light, a pause is an absence. In the dark, a pause is an object with a shape, and the whole ensemble has to be willing to hold it. Most rehearsal time in weeks one to three is not spent teaching people to make sound. It is spent making them comfortable *not* making sound while the show continues without them.
+**First, you are coaching restraint far more than you are coaching invention.** With most forms you spend the first month getting people to do more. Here you will spend the first month getting people to do less, later, and at the right frequency. The naturally generous improviser is the biggest threat in the room, because their generosity is additive and this medium is subtractive. My working figure: in a healthy Bat rehearsal, at any given second, **four of your seven players are making no sound at all**, and they are working hard doing it. If you can only teach one behaviour in eight weeks, teach *productive silence*.
 
-**The three things to protect above all others.**
+**Second, you are building reproducibility, not spontaneity.** This form is unusual in that its highest-value skill is boring: making the same sound the same way twenty minutes later. Improvisers hate this at first because it feels like memorisation, which they associate with cheating. It is not memorisation of *content*; it is precision of *instrument*. A cellist who cannot play the same note twice is not spontaneous, they are unreliable. Say that out loud in week one and then keep saying it.
 
-| Protect | Why it comes first | What it costs you if you let it slip |
+**Third, you are running a room where nobody gets credit, and you must not accidentally reintroduce credit.** Kris Hammond's observation that "without the visual element, ego dissolves" is a structural fact of the performance — but it is not automatically true of the *rehearsal*, because in rehearsal the lights come back on and you start talking, and if you say "great drip, Priya" you have just installed the exact hierarchy the form was designed to dissolve. Notes discipline is not politeness here; it is form maintenance. (See the rubric section for how I handle this.)
+
+**The three things to protect above all others:**
+
+| Protect | What it means in practice | What it looks like when you fail to protect it |
 |---|---|---|
-| **Physical safety and consent in the dark** | You have removed every ordinary safeguard a stage has. One collision, one unexpected hand on a shoulder, and the ensemble's trust — which is the only thing holding the form together — is gone for months | An injured player, a boundary breach you cannot undo, and a team that from then on plays the dark tentatively, which is audible |
-| **Bandwidth discipline** | This is the form's constitutive skill and the hardest to build. Everything charming about a Bat happens in the gaps | The Audio Pile-On, which is not a mistake you can note away in the moment. It is a habit and it takes six weeks to unlearn |
-| **Unassignable credit** | Kris Hammond's observation is a structural fact of the form, not a value you impose. But it is fragile in the *rehearsal room*, where the lights are on afterwards and people know who did what | The instant a player learns they can be praised for a specific sound, they start playing to be identifiable, get louder, and the pile-on begins |
+| **The floor of silence** | The ensemble's default state is not-making-sound. Silence is a held position with breath under it, never a vacuum, never a panic trigger | Pile-ons, filled pauses, seven layers by second six, an ensemble that cannot stop |
+| **Sonic honesty** | Every sound corresponds to a real physical event with a real material; every callback is a reproduction; every movement is audible | Approximate callbacks that die, teleportation, "comedy noises" that comment instead of exist |
+| **The audience's picture** | The room before the mouth, the clean space after the edit, one voice per character for the whole show | Talking heads in a void, a corrupted character map, an audience decoding instead of imagining |
 
-**Three coaching commitments that follow from that.**
-
-1. **Coach from a recording, not from the room.** Put one mic at the middle of the front row. Everything you *think* you heard while standing at the side of the stage is wrong: you have visual information the audience will never have, and you are in the wrong acoustic position. Play back the run before you give a single note. This is the single biggest change most directors have to make for this form.
-2. **Give notes to the mix, not to the mouth.** Default note language is "at minute nine there were four things happening," not "Priya, you were too loud." Name individuals for *safety*, *voice slots*, and *assigned roles*. Name the mix for everything else. This is not softness; it is consistency with the form's own physics.
-3. **Never rehearse the dark with the lights on.** A team can do all the listening drills in the world in a lit room and still panic at blackout. Darkness itself is a skill. Budget for it: minimum three genuinely dark rehearsals before anyone talks about a show, and the rehearsal room must be able to reach the same blackness as the venue.
-
-**One thing to be relaxed about.** Structure. Joe Bill's licence — more than three scenes and a game, "I like chaos" — means you can be genuinely loose about narrative shape and still have a Bat. You cannot be loose about the audio protocols. Tighten the procedure, loosen the story. Teams get this backwards and rehearse the Harold beats while their beds collapse.
+And one thing to protect that is not craft: **the physical and consensual safety of a room full of people who cannot see.** You are the only person in the building whose job includes remembering that. It is not an admin task you do once; it is a standing item at the top of every single rehearsal, forever.
 
 ---
 
 ### Prerequisites and Readiness Check
 
-**Non-negotiable prerequisites before week one.**
+The Bat punishes weaknesses that lit forms hide. Do not take a team into eight weeks of this if the underlying scene work is not already sound — the dark will not fix it, it will amplify it and then make it inaudible.
 
-| Prerequisite | Why | How you verify it |
+#### What the ensemble must already be able to do
+
+| Prerequisite | Why it's non-negotiable here | Acceptable substitute |
 |---|---|---|
-| Reliable two-person scene work in the light | The dark amplifies weak scene work; it does not disguise it. A team that can't establish a relationship in sixty seconds lit will produce thirty minutes of floating voices | Watch three montages. If more than one scene in five is a transaction with no relationship, do six weeks of lit scene work first |
-| A room that can go genuinely black | Everything in this curriculum from week two on requires it | Stand in the room, lights out, for ninety seconds. If after ninety seconds you can see your own hand, it is not dark enough. Fix or find another room |
-| Written, explicit touch and movement boundaries | See mechanics manual, hard rule H7 | Each player has stated theirs out loud to the whole group, and the director has them written down |
-| Cast of 6–8 who will actually attend | Voice slots are assigned per person. A rotating cast destroys the audience's — and the ensemble's — lookup table | Attendance commitment before week one |
-| One recording device and someone who will actually press record | The recording is your only honest witness | — |
-| A swept, cleared floor with taped or removed hazards | — | Do it as a group ritual in week one so everyone learns the room |
+| **Reliable two-person scene work** — establish who/where/what and a relationship inside 60 seconds, lit | The Bat runs on two-handers; a three-hander costs you a third of your bandwidth permanently | None. Fix this first, in the light |
+| **Genuine listening — can repeat a partner's last line verbatim on demand** | Verbatim recall *is* callback precision in embryo | None |
+| **Yielding without apology** — two people start, one stops mid-word without a "sorry" | The collision protocol is reflexive or it is useless | None |
+| **Object work with commitment** — a player will actually strain, kneel, lift | Exertion Mime is the entire physicality channel | None |
+| **A team, not a pickup cast** — at least ten hours of shared stage time | Voice-recognition and role handoff depend on knowing each other's instruments | A three-day intensive with the same seven people, all day |
+| **Basic vocal range control** — can hold a register for two minutes without drifting | Voice is the audience's only casting tool | Assign the drifters non-speaking bed roles for the first shows |
+| **A venue that can actually go black** | Definitional | Audience blindfolds, announced as ritual |
+| **Explicit consent and boundary practice already in the culture** | You are turning off the lights on adults | None. Build the culture first |
 
-**The readiness test.** Run this as a single 45-minute block at the end of week one, and again at the end of week four as a re-check. Everything is done in full darkness. Score each task 0 (fail), 1 (partial), 2 (clean). **A team needs 14/20 to proceed past week four, and 17/20 before you book a show.**
+#### The readiness test (run it in one 75-minute session, before week one)
 
-| # | Task | How to run it | Pass condition (score 2) |
+Score each item pass/fail as a whole group. This is a diagnostic, not an audition; run it with blindfolds and the lights on so you can watch.
+
+| # | Test | Setup | Pass condition |
 |---|---|---|---|
-| 1 | **The Ninety-Second Settle** | Blackout. Nobody makes any sound for 90 seconds | Zero vocalisations, zero giggles, zero shuffles for the full duration |
-| 2 | **Sonar Location** | Each player in turn makes one short sound; every other player silently points at them; lights up | At least 6 of 8 players pointing within 45° of the source |
-| 3 | **Four-Minute Bed** | Two nominated players hold a single rain bed for four minutes, handing off breaths | No audible gap, no drift into a different weather, no volume creep |
-| 4 | **Slot Roll-Call** | Director calls "SLOT" mid-scene. Every player states their register in one word, in character | All eight distinct; no two players claim the same slot |
-| 5 | **The Yield** | Director cues six deliberate simultaneous initiations | Yielder is silent within a quarter-second all six times; no "no, you go" |
-| 6 | **Cold Bed Entry** | One player holds an unannounced ambience for 20 seconds; two others must enter and start a scene inside it | Bed is *named or implied* by the first two lines; nobody speaks before the bed is legible |
-| 7 | **Reproduce Cold** | Director names a motif established 20 minutes earlier; three random players reproduce it separately | All three reproductions match in rhythm, pitch and duration well enough that the others can't tell who's who |
-| 8 | **Exertion Read** | One player performs a demanding physical task in the dark, silently except for breath and contact; the rest write down what it was | 5 of 7 guesses in the right family (lifting / dragging / climbing / digging) |
-| 9 | **Three-Layer Hold** | Run a three-minute scene. Count layers on the recording | Never more than three simultaneous elements, for the whole three minutes |
-| 10 | **Drain and Peel** | Build a 90-second soundscape, drain it, peel to one sound, start a scene | One clean sound survives; the scene's first line comes on top of it, not after it |
+| 1 | **The Ninety** | Blindfolded, standing, spread out. Coach says "begin." Nobody may make any sound for ninety seconds | Zero sounds. Not one giggle, cough, shuffle or nervous hum. Fail if anyone breaks |
+| 2 | **Seed and Wait** | One nominated player makes one small sound. Second player adds one, at least eight seconds later. Stop at four layers | Four distinguishable layers, four different frequency bands, nobody fifth. Fail if it hits five, or if entries bunch |
+| 3 | **Verbatim Return** | Two-hander, blindfolded, 3 minutes. Coach calls "STOP" at a random point; each player must repeat their partner's *last full line* exactly | Both correct. Fail if either paraphrases |
+| 4 | **The Cross** | One player crosses the room blindfolded, from wall to wall, while making their movement fictionally audible | You can hear where they are the entire way, and it is a scene sound, not a shuffle. Fail on any silent metre |
+| 5 | **Slot Hold** | Each player picks a vocal slot, speaks a 90-second monologue, and must be within a semitone of their start at the end (coach judges by ear, or with a phone tuner app) | Five of seven hold. Fail if the majority drift |
+| 6 | **Cold Reproduction** | At the top of the session, each player makes one signature sound. Seventy minutes later, with no warning, coach calls their name; they reproduce it | Five of seven reproduce recognisably (same rhythm, same pitch band, same duration) |
+| 7 | **Collision** | Coach deliberately cues two players to speak at once, five times | Yielder is silent within a quarter-second, every time, with no "no, you go." Fail on any polite mutual trail-off |
+| 8 | **Boundary conversation** | Sit in a circle, lights on. Each player states one physical boundary for dark work | Everybody speaks. Nobody jokes their way out of it. This is a pass/fail on culture, and it is the most important item on the list |
 
-**What to do with a failing team.** Do not proceed and hope. Map failures to weeks: 1–2 failing → repeat week one. 3, 6, 9 failing → the team is a pile-on team; run weeks two and three twice. 4, 7 failing → memory and voice discipline; add the Memory Bank drill to every warm-up. 5 failing → the team has a dominance problem, not a listening problem; go to the Individual Skill Development section before you go anywhere else.
+**Reading the score:**
+
+- **7–8 passes:** start the eight weeks at week one and expect to be performing on schedule.
+- **5–6 passes:** start at week one, but double weeks 2 and 3 (add a week; make it nine).
+- **3–4 passes:** you have a lit-form problem, not a Bat problem. Spend a month on two-handers and listening, then retest.
+- **Fewer than 3, or a fail on item 8:** do not run this form with this group yet. Say so plainly and without drama: "We're not ready for the dark. Here's what we're doing instead for four weeks."
 
 ---
 
 ### Eight-Week Rehearsal Curriculum
 
-Assumes one 2.5-hour rehearsal per week plus homework. If you have three hours, extend the "what to run" block, never the drill block — drills go stale after forty minutes.
+Assumes **two rehearsals per week**: Session A is 2 hours (technical, mostly blindfolded with lights on so the coach can see), Session B is 2.5 hours (in genuine darkness). Cast of seven. If you can only rehearse once a week, run Session B only and extend to twelve weeks — do not skip the dark sessions in favour of the lit ones, or you will have a team of theorists.
+
+Every session, without exception, begins with the **Dark Call** (see Rehearsal-to-Stage Checklist) and ends with **Cold Reproduction** of that day's sounds.
+
+#### Week 1 — Darkness, safety, silence
 
 | Week | Focus | Warm-up | Drills | What to run | Notes to give | Homework |
 |---|---|---|---|---|---|---|
-| **1** | Darkness, safety, spatial map | Floor Sweep and Boundary Call (15 min) · The Sixty-Second Settle | Anchor Points and the Dark Walk · Sonar · Blindfolded Pass the Sound | Nothing. No scenes this week. Two 10-minute pure soundscapes, seated | Only safety and comfort notes. "Nobody was hurt and nobody guessed. That is week one." | Ten minutes a night, eyes closed, list every sound you can hear and its distance. Write the list down |
-| **2** | The bed; room before the mouth | Room Tone Circle · Slot Roll-Call (introduce) | Frequency Slot Ladder · Cold Beds · Bed Handoff Relay · Room Before the Mouth | Six two-handers, each with a nominated bed keeper, 3 min max, edited by the director's clap | "Every scene had a room. Two of them had a room that arrived late." | Record a 3-minute bed of a location on your phone. Bring it. It must be one location |
-| **3** | Voice, character, existence-by-emission | Slot Roll-Call · Breath Ladder | Voice Slot Auction · Signature Sound Draft · Two-Name Handshake Sprints · Exertion Mime | Eight two-handers with assigned slots; each character must have a signature sound inside 30 seconds | "I could tell four of you apart with my eyes shut. That's the number. We need eight." | Build and rehearse two characters with fixed slots and reproducible signature sounds. Be able to do them cold |
-| **4** | Sonic editing and the clean space | Motif Pass · Name and Yield | The Yield Drill · Double-Edit Collision Protocol · Clean Space Metronome · Edit Roulette | A 12-minute montage in the dark: nine short scenes, every edit a different type from the catalogue | "Four of your nine edits carried nothing. An edit that carries nothing is a stop." | Learn five edits from the catalogue cold, including how you physically execute them |
-| **5** | The opening soundscape and the frame | Motif Pass · Whisper Line | Dream Symbol Association · Soundscape Swell, Drain and Peel · Ten Closings (first pass) | Five openings back to back, 3 min each, each with a different suggestion; then five closings off imagined shows | "Motif in three of five. Word layer sat *on top of* the rhythm in all five. Get inside it." | Free-associate for two minutes a day off a random noun, out loud, recording yourself. Listen for the moment you go sideways instead of along |
-| **6** | Group pieces, dynamics, convergence | Room Tone Circle · Chorus Count-In | Chorus Swarm with Count-In · Dynamics Dice · Hold the Silence · Proximity Theatre | Two 18-minute half-Bats: opening, three scenes, group piece, three second-beats, closing. Stop the clock, no convergence yet | "Both group pieces were loud. The second one has to be a *contrast*, and the cheapest contrast is quiet and close." | Draw the dynamics curve of last week's recording from memory, then check it against the tape |
-| **7** | Full runs, memory, convergence | Slot Roll-Call · Memory Bank | Memory Bank · Match-Cut Chain · Ten Closings (second pass) | Two full 30-minute Bats, back to back, with a 20-minute listen-back between them | "Your convergence was three more normal scenes. Halve the lengths and let two beds share a room." | Listen to the whole recording once. Write down every sound the show made. Bring the list |
-| **8** | Tech, contract, dress, performance | The Sixty-Second Settle · Slot Roll-Call · Floor Sweep | Light-leak hunt · Host script run · Abort-word drill | Two full dress runs *in the venue*, with the host, the tech and the house staff, lights and all | Almost none. Confirm roles, confirm cues, get out of the way | Sleep. Do not add anything new |
+| W1 · A (2h) | Acclimatisation; the room as a map; silence tolerance | Dark Call (10m); Breath Circle (8m); Room Tone Tuning (6m) | Echolocation Anchor Map (20m); The Ninety (10m); Blindfolded Pass the Sound (20m) | Nothing. No scenes this session | "Your job today is to not be scared and to not fill." "Where's your anchor? Say it out loud." | Sit in a dark room at home for 10 minutes, twice, and list every sound you hear |
+| W1 · B (2.5h) | Seated Bat; existence requires emission | Dark Call (10m); Name-and-Place (5m); Slot Auction, first pass (20m) | Seed and Wait (25m); The Settle (15m); Cold Beds, seated (25m) | Three **seated two-handers**, 3 min each, chairs in a line, no movement at all | "Nobody moves tonight. The only variable is sound." "You went quiet for twenty seconds — you left the show." | Record yourself making five distinguishable sounds; label the frequency band of each |
 
-**Week 1 — what "good" looks like.** By the end of week one, nobody flinches at the blackout, everybody can find the upstage-centre anchor by ear within five seconds, and the team has held ninety seconds of complete silence without a single nervous noise. Somebody will say "that felt like ten minutes" — that is the correct reaction and worth naming. The two soundscapes will be bad. They will be seven layers thick with no motif. Let them be bad. Do not fix soundscapes in week one; you are only proving the room is survivable.
+**What "good" looks like by the end of Week 1:** nobody is frightened of the dark, and nobody is frightened of the silence. The cast can walk from any point in the room to any other and you can hear them the whole way. They can hold ninety seconds of nothing without a giggle. Crucially, when a seated two-hander happens, at least one player is renewing presence with breath and small sound between lines rather than going acoustically dead. The scenes will be bad. Say so cheerfully and explain that this week was about the floor, not the building.
 
-**Week 2 — what "good" looks like.** Every scene has a bed running before the first line, held by a person whose name was said out loud before the scene started. The team can hold a four-minute bed with two keepers handing off and you cannot hear the join. Listening back, you can identify the location of at least five of six scenes from the first three seconds of tape alone. Scenes will still be talking heads — that's week three's job — but they are talking heads *in a room*, which is a genuine and audible improvement.
+#### Week 2 — Beds, bodies, materials
 
-**Week 3 — what "good" looks like.** On playback, you can name every character in every scene from voice alone, with your list of slot assignments in front of you. Each character has a signature sound and it is the *same* sound each time. Exertion is audible: somebody drags something and you believe it's heavy. The tell that the week has landed is a moment where a player enters a scene, makes only their signature sound, and everyone in the room — coach included — knows who it is before a word is spoken. When that happens, stop and name it: "That. That's the form."
+| Week | Focus | Warm-up | Drills | What to run | Notes to give | Homework |
+|---|---|---|---|---|---|---|
+| W2 · A (2h) | The bed as a job; frequency discipline | Dark Call; Frequency Ladder (10m); Machine Without Eyes (10m) | Cold Beds (20m); Bed Handoff Relay (25m); Three Layers / Hand-Over-Mouth (20m) | Four scenes, each with a named bed keeper announced out loud beforehand | "Bed before mouth. Three seconds, every time." "Who's on the bed? Say it before you start." | Build a two-minute bed for a place you know well; time yourself; note when you ran out of breath |
+| W2 · B (2.5h) | Physicality and materiality | Dark Call; Exertion Circle (10m) | Exertion Mime (25m); The Material Bank (25m); Tell–Sound–React ladder (20m) | Five two-handers, 3 min, each with a *mandatory physical task* assigned by the coach (dig, carry, prise, wash, climb) | "I can hear that you're standing up straight and pretending. Get on the floor." "Name the material, then sound it, then react to it." | Find three household objects; learn to make each one's sound with your mouth and hands only |
 
-**Week 4 — what "good" looks like.** Edits are clean and varied. No double-edit survives more than a quarter-second. There is a clean space after every edit — you can hear the audience's picture change. The team has stopped defaulting to the audio wipe for everything. Crucially, at least two edits in the twelve-minute montage should have *carried* something: a match-cut, a bed recall, a word. If zero carried anything, do not proceed to week five; run the montage again with the sole rule that every edit must reuse material.
+**What "good" looks like by the end of Week 2:** every scene has an ambience running *before* the first line, and the bed keeper does not get bored and start embellishing. When somebody lifts something heavy, you hear the effort in the larynx and the scuff on the floor rather than the words "wow, this is heavy." The cast can distinguish, by ear, at least six materials from each other. The hand-over-mouth reflex has begun: when a fourth sound starts, someone kills theirs without being told. Scenes are still shapeless. Ignore that; it's week two.
 
-**Week 5 — what "good" looks like.** Every opening produces a motif within ninety seconds that three random players can reproduce cold at the end of rehearsal. The word layer sits in the gaps, not over the top. The drain is a cut, not a fade, and it's owned by one person. The peel hands a living bed to the first scene. Closings should still be shaky — ten closings in one night is deliberately more than anyone can do well — but by the tenth, somebody will instinctively re-seed the motif alone, and the rest will add only old material. That instinct is what you're growing.
+#### Week 3 — Voice as costume
 
-**Week 6 — what "good" looks like.** The two group pieces in each half-Bat are *different from each other* in dynamic, density and distance. The team can hold a five-second silence with a 5% bed floor and nobody fills it. On the recording, you can hear a shape: loud, quiet, close, far. If you draw the dynamics curve, it should not be a flat line with two spikes. The most common week-six failure is that the second group piece is the first one again but faster; the fix is to assign the contrast in advance for two runs, then remove the assignment.
+| Week | Focus | Warm-up | Drills | What to run | Notes to give | Homework |
+|---|---|---|---|---|---|---|
+| W3 · A (2h) | Slot discipline; anchoring voice to body | Dark Call; Slot Auction, full (20m); Six-Slot Round Robin (10m) | Voice Slot Check "SLOT!" (15m); Signature Sound Installation (25m); Two-Name Handshake Speed Round (20m) | Six 2-minute openers only — first 30 seconds of a scene, then stop | "Both names, first three lines, different mouths." "Where is that voice living in your body? Not in your head — your jaw" | Choose two characters. Give each a physical cause (jaw, palate, posture) and a signature sound. Practise switching |
+| W3 · B (2.5h) | Holding character across time and fatigue | Dark Call; Breath Circle; Slot recall cold | Distance and Proximity (25m); Whisper Close-Up (15m); Cold Reproduction, extended (15m) | Three two-handers of **6 minutes** each (deliberately too long) to test drift | "You started high and rough; you're now yourself. Go back up a fifth on the next line." "Don't tell me you're far away — be far away." | Sustain one character voice for a full 15-minute phone call with a friend. Report what broke it |
 
-**Week 7 — what "good" looks like.** Two thirty-minute shows in one night is exhausting and revealing. Good looks like: the second run is better than the first, and better in the specific way you noted. The convergence has short units — under ninety seconds — and at least one thread crosses into another using nothing but a voice. The closing soundscape contains only material the show made, and the last sound is meaningful rather than whoever was slowest to stop. If the team can produce one show this week where you'd say "an audience would have got that," you are ready.
+**What "good" looks like by the end of Week 3:** you can sit at the back of a dark room with your eyes closed and correctly identify all seven players by voice within one sentence, and correctly identify all ten to twelve characters they've invented. Nobody in a scene shares a slot with their partner. At least three players have a signature sound so reliable that hearing it makes you see the character. Distance is audible — when someone says they're in the next room, they *are* in the next room and turned away. This is the week the show stops being anonymous mush.
 
-**Week 8 — what "good" looks like.** Nothing new. The dress runs should be slightly *worse* than week seven's best — that's normal and you should say so out loud, because a nervous cast reads a flat dress as disaster. What must be perfect in week eight is not the art but the apparatus: the host's contract is word-perfect, the tech snaps and never fades, there is no light leak anywhere in the room including the booth monitor and the fire panel, house staff have a shaded torch and know the abort word, and every player can state their slot, their assigned show role (seeder, drain owner, anchor) and their boundaries without hesitation.
+#### Week 4 — The edit
+
+| Week | Focus | Warm-up | Drills | What to run | Notes to give | Homework |
+|---|---|---|---|---|---|---|
+| W4 · A (2h) | Clean edits; the clean space; collision | Dark Call; Wipe Chorus (8m) | Clean Space Metronome (20m); Double-Edit Collision Drill (20m); Edit Vocabulary Round (25m) | **Edit-only montage:** 12 scene-starts, each edited within 45 seconds. No scene may complete | "Edit, one-two, bed, line. Count it out loud in your head." "You both went — who killed theirs first? Faster next time" | Watch/listen to any radio drama and log every transition device it uses |
+| W4 · B (2.5h) | Transport: making edits carry information | Dark Call; Sound Association Chain (10m) | Match-Cut Gauntlet (30m); Object Handoff (20m); Bed Recall Cold Test (15m) | A 12-minute **montage** of six scenes; every edit must carry one of the five transport carriers, named aloud in the debrief | "That edit carried nothing. It was a stop and a start." "Catch the sound — don't invent a new one." | Write down five pairs of objects that make near-identical sounds. Bring them |
+
+**What "good" looks like by the end of Week 4:** no scene runs more than thirty seconds past its peak. Double edits still happen — that's fine, they always will — but the yield is instant and inaudible as a mistake. Every edit is followed by a real gap of one to two seconds and then a bed, in that order, without anyone thinking about it. At least half of the edits are carrying a sound token, a word, a voice, a bed or the motif. The montage now sounds like one piece rather than six unrelated fragments, and nobody can quite say why.
+
+#### Week 5 — The frame: openings
+
+| Week | Focus | Warm-up | Drills | What to run | Notes to give | Homework |
+|---|---|---|---|---|---|---|
+| W5 · A (2h) | Soundscape architecture; motif | Dark Call; Count-In Lock (10m); Frequency Ladder | Motif Forge (30m); Seed and Wait, competitive (15m); Chorus Swarm & Count-In (25m) | **Eight openings back to back**, 4 minutes each, different suggestion every time, stopping at the Peel | "Somebody lock a figure. Two to four seconds, repeatable, boring is fine." "You're all adding. Who's replacing?" | Compose (out loud, at home) three 3-second motifs. Be able to reproduce each cold |
+| W5 · B (2.5h) | The word layer; dream logic; the Peel | Dark Call; Dream Symbol Association warm (12m) | Dream Symbol Association, full drill (30m); The Peel Drill (20m); Word-to-World (20m) | Six **opening → Scene A** units: soundscape, drain, peel, and the first three minutes of scene one | "Sideways, not along. Penny, coin, money is nothing. Penny, blood, your grandmother's mouth is a show." "Words go in the gaps, not over the top." | List ten nouns from your own life that carry a smell or a taste. Keep the list |
+
+**What "good" looks like by the end of Week 5:** the ensemble can build a soundscape from cold, with one seed, four to five layers, a locked motif, six to twelve associative words placed inside the rhythm, a peak of under ten seconds, and a clean drain that hands one live sound to the first scene — and they can do it eight times in a row with different suggestions. The word layer produces images, not synonyms. Somebody owns the drain and cuts rather than fades. If you can achieve only this in eight weeks, you have most of the form.
+
+#### Week 6 — Group pieces, space, dynamics
+
+| Week | Focus | Warm-up | Drills | What to run | Notes to give | Homework |
+|---|---|---|---|---|---|---|
+| W6 · A (2h) | Composed group sound; contrast | Dark Call; Wipe Chorus; Count-In Lock | Chorus Swarm, staggered entries (25m); Inversion Drill: loud piece → whisper piece (25m); Dynamics Assignment Run (30m) | Four group pieces, each on a called theme (machine / crowd / weather / chant), 90 seconds each, then a Peel into a scene | "Staggered. Three seconds apart. Nobody enters on the beat someone else did." "That was chaos. Chaos is a texture you compose, not a thing that happens to you" | Listen to a piece of minimalist music and count how long each layer holds before anything changes |
+| W6 · B (2.5h) | Standing, free-moving, spatial staging | Dark Call; Echolocation Anchor Map (standing, 12m) | Sonify the Cross (20m); Spatial Reveal (15m); Ghost Line & Audience-Adjacent Chorus (20m) | Two **20-minute part-runs**: opening → three scenes → group piece → Peel | "Move audibly or don't move." "You're all standing in a clump upstage. Use the depth of the stage — that's your camera" | Walk your own home in the dark for ten minutes. Notice what makes you feel located |
+
+**What "good" looks like by the end of Week 6:** the cast stands up and moves, and nothing teleports. Group pieces have staggered entries, one rhythm, a peak and an exit — they are *composed*. The second group piece in a run is a deliberate contrast to the first (usually quieter and closer) rather than a louder repeat. You can draw a map of where everyone was at any moment in the run, and so can the players. Dynamics stop being accidental: someone will now open a scene at a whisper on purpose because the previous unit was loud.
+
+#### Week 7 — Memory, convergence, closing
+
+| Week | Focus | Warm-up | Drills | What to run | Notes to give | Homework |
+|---|---|---|---|---|---|---|
+| W7 · A (2h) | Exact recall; the third act | Dark Call; Cold Reproduction gauntlet (12m) | Bed Recall Cold Test (20m); Ten Closings (35m); Convergence Sprint (25m) | Two convergence sections only — coach supplies three "prior threads" verbally, cast plays the last 6 minutes | "That callback was 80% right, which is 0% right. Same rhythm, same pitch, same length." "Collide. Somebody walk into the wrong thread" | Pick any show you've done. Write down every sound it made. Reproduce three of them tomorrow |
+| W7 · B (2.5h) | First full runs | Dark Call; Slot Auction; motif reproduction | (Minimal — go straight to runs) | **Two full 30-minute Bats**, back to back, with a 20-minute structured debrief between | "Time cue for the drain owner is 27:00 regardless of what's happening." "Scene lengths halve in the last eight minutes. That's the sound of a third act" | Nothing. Rest your voice |
+
+**What "good" looks like by the end of Week 7:** two complete Bats exist. They are uneven, but each has an opening that hands over a bed, three recognisable threads with stable voices, two contrasting group pieces, a convergence where threads actually collide, and a closing soundscape built only from the show's own material that drains to one sound and holds silence. Callbacks land — you can hear the audience-of-one (you) recognise them. The frame closes.
+
+#### Week 8 — Performance conditions
+
+| Week | Focus | Warm-up | Drills | What to run | Notes to give | Homework |
+|---|---|---|---|---|---|---|
+| W8 · A (2h) | Tech, contract, failure rehearsal | Dark Call; full green-room ritual as it will be run | Disaster Drills (30m: light leak, latecomer, corpsing, a player lost, an audience member leaving); Host script rehearsal (20m) | One 30-minute run **with the actual tech operator and actual venue blackout** | "If the light leaks, nobody acknowledges it. Play on. I'll deal with it." "Host: exits, no-touch, no recorded sound, duration, phobia warning. In that order" | Read the audience contract aloud to a non-improviser and ask if anything worried them |
+| W8 · B (2.5h) | Invited preview | Full pre-show ritual | None | **One 30-minute Bat for 10–15 invited guests**, then bow, then a 30-minute debrief with 3 audience questions | Give only three notes afterwards, all structural, none individual | Sleep |
+
+**What "good" looks like by the end of Week 8:** the team can execute the full ritual — venue sweep, boundary call, slot call, host contract, blackout, thirty minutes, snap-up, bow — without the coach in the room. The show survives at least one thing going wrong without the audience knowing. Somebody in the invited audience says a version of "I could see it," which is the only review that matters for this form. You are stage-ready. You are not good yet; good is about show twelve.
 
 ---
 
 ### Drill Library
 
-Every drill here is run in genuine darkness unless the setup says otherwise. Blindfolds with the lights up are a legitimate substitute for the first three drills only; after that you need real dark, because the panic-management skill is separate from the listening skill.
+Twenty drills. Every one is runnable tonight. Unless stated, all are done blindfolded with the lights on (so you can watch) for the first two weeks, and in genuine darkness thereafter.
 
 ---
 
-#### 1. Anchor Points and the Dark Walk
+#### 1. Echolocation Anchor Map
 
-- **Target skill:** spatial confidence; eliminating collision fear so it stops eating attention.
-- **Setup:** swept empty floor. Perimeter walls identified. Six to eight players.
-- **Instructions:**
-  1. Lights on. Every player walks the perimeter of the playing space with a hand on the wall, out loud counting paces. 3 min.
-  2. Each player chooses and physically stands in an **anchor point** — a specific spot they can find blind. Name them aloud: "Priya, downstage-left corner."
-  3. Lights out. Everyone walks slowly, arms *down* (arms out causes face-height collisions), to the centre and back to their anchor. Repeat three times.
-  4. Add: on the coach's clap, freeze; each player says their name and their believed position ("Priya, downstage left"). Coach lights up and checks.
-  5. Final round: everyone crosses to the anchor *diagonally opposite* theirs, making a continuous low hum as they move.
-- **Duration:** 12–15 min. First rehearsal only, then 4 min as a refresher for the first month.
-- **Side-coaching:** "Arms down. Feet find it, not hands." · "Hum on the move. If you go quiet you have vanished." · "Slower than feels necessary. Nobody is watching, so nobody is impressed by speed."
-- **Common mistakes:** shuffling with arms outstretched; going silent to concentrate; walking fast to prove confidence; players quietly opting out and standing still all session.
-- **Progress:** add two chairs as obstacles; add the requirement that anchors change every 30 seconds on a call. **Regress:** seated in a circle, hands on knees, only turn and point.
-
----
-
-#### 2. Sonar
-
-- **Target skill:** locating a voice by ear; building the ensemble's shared spatial map.
-- **Setup:** dark, players scattered, standing still.
-- **Instructions:**
-  1. Coach calls a name. That player makes one short sound (a click, a "ha") and stops.
-  2. Everyone else points at them, silently, and holds.
-  3. Coach calls "SHOW" and hits the lights. Everyone sees their own error.
-  4. Repeat twelve times, varying sound length, volume and height (crouched, standing, arms up).
-  5. Round two: the sounding player moves two steps *before* sounding.
-- **Duration:** 10 min.
-- **Side-coaching:** "Don't guess, wait. You'll hear it hit the back wall." · "Height matters. He's on the floor and you're all pointing at his head." · "Whoever's laughing is now the loudest thing in the room and I know exactly where you are."
-- **Common mistakes:** pointing at where someone *was* twenty minutes ago; sounds too long (a long sound lets you turn your head and cheat, which is fine in a show but defeats the drill).
-- **Progress:** two players sound simultaneously; point at both. **Regress:** seated circle, and the sounding player says a full sentence.
+- **Target skill:** spatial safety; building the mental map that makes free movement possible.
+- **Setup:** cleared floor, perimeter marked with tape or chairs pushed to the walls. Everyone blindfolded, standing at least 1.5 m apart.
+- **Steps:**
+  1. Each player picks and states an **anchor**: "Rosa, downstage-left corner." Everyone repeats the list aloud once.
+  2. On "go," each player makes a distinct continuous low sound (a hum, a tick, a breath) and walks slowly. Arms are down, not out (arms out means you find people with your hands; we want ears).
+  3. After 2 minutes, coach calls "FREEZE — point at Mei." Everyone points. Blindfolds off. Look.
+  4. Repeat three times, reducing the volume of the location sounds each round.
+  5. Final round: everyone returns to their anchor from wherever they are, by ear, silently except for footfalls.
+- **Duration:** 15–20 minutes.
+- **Side-coaching:** "Slow feet. Nobody has ever been hurt walking slowly." · "Ears forward. Turn your head, not your body." · "Where's the wall? Listen to the wall — it's louder than you think." · "Point at Yusuf. No conferring."
+- **Common mistakes:** arms out in front (kill it immediately — it produces gropey, unsafe, undramatic movement); everyone drifting to the middle; players making their sound too loud and masking each other.
+- **Progress:** remove the location sounds entirely, navigate on footfall alone; add a "crossing task" where two players must swap corners. **Regress:** do it seated, passing a sound around a circle to establish who is where.
 
 ---
 
-#### 3. Blindfolded Pass the Sound
+#### 2. The Ninety (silence tolerance)
 
-- **Target skill:** entering late; volume matching; the discipline of one sound at a time.
-- **Setup:** circle, blindfolds or dark, arm's length apart.
-- **Instructions:**
-  1. Player A makes a sound. Silence for a count of three.
-  2. Any player may take it — they reproduce it exactly, then alter *one* parameter (volume, pitch, tempo, or texture) and hold it.
-  3. Silence for three. Next taker.
-  4. Twenty passes. No two players may take consecutively.
-  5. Round two: the count of three becomes a count of eight. This is the harder version and the point of the drill.
-- **Duration:** 12 min.
-- **Side-coaching:** "Three full seconds. Count them." · "You changed two things. One." · "Somebody take it. Nobody take it. Let it be empty a moment longer." · "That was a new sound, not that sound."
-- **Common mistakes:** taking too fast, which is nerves; changing everything at once; the same two extroverts taking eighteen of the twenty passes — if that happens, ration: everyone must take exactly two.
-- **Progress:** the sound must pass around the circle in order, with no visual cue, meaning each player must recognise their turn by ear. **Regress:** coach names the taker each time.
-
----
-
-#### 4. Frequency Slot Ladder
-
-- **Target skill:** the five-slot bed; preventing mud.
-- **Setup:** dark. Coach announces the five slots aloud before starting: low drone, mid texture, high accent, rhythm, human breath.
-- **Instructions:**
-  1. Coach names a location ("a laundrette at midnight").
-  2. One player takes the low drone. Wait eight seconds.
-  3. One player takes the mid texture. Wait eight. High accent. Wait eight. Rhythm. Wait eight. Breath.
-  4. All five hold for sixty seconds. Nobody else may enter.
-  5. Coach calls a slot name — that player drops out and a *different* player must fill the empty slot within four seconds.
-  6. Repeat six times, then drain on the coach's word.
-- **Duration:** 15 min for three locations.
-- **Side-coaching:** "That's a second mid. Go up or go home." · "Whoever's about to be sixth — don't. Wait for a vacancy." · "Breath is a slot, not a filler. Make it a *person* breathing."
-- **Common mistakes:** everyone hearing "drone" and doing a hum; the high accent player accenting continuously (an accent is intermittent); nobody wanting the breath slot because it feels like doing nothing.
-- **Progress:** remove the coach's slot calls — players must self-manage vacancies. Then: run it under a two-person scene. **Regress:** three slots only, with the coach assigning by name.
+- **Target skill:** productive silence; killing the nervous fill reflex.
+- **Setup:** dark, standing or seated, spread.
+- **Steps:**
+  1. Coach: "Ninety seconds. No sound at all. If you break it, we restart the clock and nobody is annoyed with you."
+  2. Run it. Restart as many times as needed.
+  3. Second pass: 90 seconds where players *may* breathe audibly but nothing else.
+  4. Third pass: 90 seconds with one player holding a 5% bed underneath. Debrief the difference in how the silence *felt*.
+- **Duration:** 10 minutes.
+- **Side-coaching:** (say almost nothing) "Still going." · "That's forty seconds. It feels like four minutes. That's the lesson."
+- **Common mistakes:** treating it as an endurance gag; laughing to release tension. Address it once, straight: "The audience will hear that giggle and think we've lost control. This is the muscle."
+- **Progress:** three minutes. **Regress:** thirty seconds seated, with the coach counting aloud.
 
 ---
 
-#### 5. Cold Beds
+#### 3. Seed and Wait
 
-- **Target skill:** offering a bed as an invitation; entering someone else's world.
-- **Setup:** dark, whole team available.
-- **Instructions:**
-  1. Any one player, unprompted, begins a bed and holds it. Nobody else makes any sound.
-  2. At twenty seconds, two players walk into it and begin a scene. They may not ask what the location is; they must *name it or imply it* in their first two lines.
-  3. Scene runs 90 seconds. Coach edits with a clap.
-  4. Immediately, a different player starts a new cold bed. Twelve rounds.
-  5. Rule: nobody may start a cold bed twice until everyone has started one.
-- **Duration:** 20 min.
-- **Side-coaching:** "Twenty seconds is long. Hold it." · "Don't ask her what it is. Tell her." · "You named a place the bed contradicts. The bed wins — the audience already heard it."
-- **Common mistakes:** the bed-starter embellishing after three seconds because it feels sparse; enterers waiting for a "clearer" bed and letting forty seconds go; enterers naming the location in dialogue that comments on it ("Wow, it's raining") rather than living in it.
-- **Progress:** the bed-starter must build a bed that is deliberately ambiguous (could be two locations) and the enterers choose. **Regress:** the coach whispers the location to the bed-starter *and* the enterers.
-
----
-
-#### 6. Room Before the Mouth
-
-- **Target skill:** the three-second discipline; killing talking-heads openings.
-- **Setup:** dark, pairs, one nominated bed keeper each.
-- **Instructions:**
-  1. Coach names a suggestion word. The pair has three seconds of silent thinking.
-  2. The bed keeper starts. The pair must not speak until the coach snaps their fingers, which the coach does at a randomly varied 3–8 seconds.
-  3. Scene runs two minutes.
-  4. Repeat with a new pair. Eight rounds.
-  5. Final two rounds: remove the snap. The pair must self-judge the wait.
-- **Duration:** 20 min.
-- **Side-coaching:** "Wait. Wait. Still wait." · "You're breathing like someone about to talk. Breathe like someone in a warehouse." · "Now — and your first line is *inside* that room, not about it."
-- **Common mistakes:** the pair fidgeting audibly during the wait; the first line being an announcement of the location; the bed keeper stopping once dialogue begins.
-- **Progress:** bed keeper starts the bed *wrong* on purpose (a bed that doesn't match the suggestion) and the pair must accept the bed over the suggestion. **Regress:** coach says the location aloud in the dark first.
+- **Target skill:** patient layering; frequency discipline; killing the six-second pile-on.
+- **Setup:** dark, spread, one player nominated as seeder.
+- **Steps:**
+  1. Fifteen seconds of silence after "go."
+  2. Seeder makes one small, repeatable, rhythmically neutral sound.
+  3. Nobody may enter for eight seconds. Second player enters in a *different frequency band*.
+  4. Third at +8s, fourth at +8s. **Hard stop at four layers.**
+  5. Coach calls "FIVE" — the fifth player must enter *by replacing* someone, who must cut out cleanly.
+  6. Coach calls "DRAIN" — nominated drain owner hard-cuts; others peel out, high frequencies first.
+- **Duration:** 20–25 minutes (six or seven rounds, rotating seeder).
+- **Side-coaching:** "Wait. Wait. Wait — now." · "That's the same band as Rosa. Move." · "Somebody's got to go before you come in." · "Cut, don't fade. A fade in the dark is a question; a cut is a sentence."
+- **Common mistakes:** entering on the first gap out of anxiety; adding sounds that are interesting rather than complementary; the fifth player adding instead of replacing.
+- **Progress:** remove the coach's counting; the group self-regulates the eight seconds. **Regress:** coach counts the eight seconds aloud and points at the next entrant.
 
 ---
 
-#### 7. Exertion Mime
+#### 4. Frequency Slot Auction
 
-- **Target skill:** bodies in the dark; breath as object work.
-- **Setup:** dark, floor clear, one player performing, rest listening.
-- **Instructions:**
-  1. Coach whispers a physical task to one player: drag a wardrobe; climb a ladder with a bucket; dig; crawl through a gap; carry someone.
-  2. Player performs it fully, for real, for 45 seconds. Speech forbidden. Only breath, contact and material sound.
-  3. Listeners write down what they heard.
-  4. Reveal. Repeat with everyone.
-  5. Round two: the same tasks, but now with one line of dialogue permitted — and the line must not name the task.
-- **Duration:** 20 min for a cast of seven.
-- **Side-coaching:** "Do it properly. You are miming to nobody; there is no one to impress with the shape of your hands." · "Your breath is doing nothing. It's heavy. Let it cost you." · "Feet. Where are your feet? I can't hear you take the weight."
-- **Common mistakes:** performing the *idea* of effort with a relaxed throat; making a cartoon "hnnngh" instead of real strained breath; forgetting the floor is an instrument.
-- **Progress:** two players share one task (carrying a table) and must coordinate audibly. **Regress:** lights on, blindfolded listeners.
-
----
-
-#### 8. Materiality Ladder
-
-- **Target skill:** making objects specific by material; killing generic foley.
-- **Setup:** lights **on** for the first half — this is one of two drills where light helps — then dark.
-- **Instructions:**
-  1. Coach names an object family: "a door." Players in turn must produce, with mouth and body only, a *different material* door: hollow interior door, heavy oak, steel fire door, car door, glass sliding door.
-  2. The group votes on which were distinguishable. Discuss what makes them different (attack, resonance, decay).
-  3. Repeat for: a cup being put down, footsteps on a surface, a container being opened, something breaking.
-  4. Lights out. Coach names a material and a player must sound it; the group names the material back.
-- **Duration:** 20 min.
-- **Side-coaching:** "That's a door-shaped noise. What's it made of?" · "The difference is the ending, not the hit. Let the oak one ring." · "Say the material out loud, then make it. Tell–sound–react."
-- **Common mistakes:** all doors sounding like the same "bam"; players reaching for volume instead of texture; using a real object on the floor and calling it foley (allowed in rehearsal, banned in performance).
-- **Progress:** two players must make the same object sound identically so it can pass between them. **Regress:** allow a small object table so players learn what materials genuinely sound like before imitating.
+- **Target skill:** conscious use of the audio spectrum; ending mud.
+- **Setup:** lights on for the first run, dark thereafter. Whiteboard optional.
+- **Steps:**
+  1. Name five slots aloud: **low drone / mid texture / high accent / rhythm / breath**.
+  2. Go round the circle. Each player demonstrates their best sound in each slot, one at a time, whole group listening.
+  3. Group votes (by humming approval) who owns each slot most naturally.
+  4. Write it down. This is the ensemble's default sound-department depth chart.
+  5. Then: coach calls a slot at random ("HIGH ACCENT"), and the three players who did *not* win it must produce one, immediately.
+- **Duration:** 20 minutes first time; 5 minutes as a recurring warm-up.
+- **Side-coaching:** "That's a mid texture pretending to be a drone. Go lower or go elsewhere." · "Everyone can do everything. This is about who does it *cleanest*." · "Rhythm isn't a sound, it's a job."
+- **Common mistakes:** players hearing "you own the low drone" as a life sentence; funny voices instead of textures.
+- **Progress:** blind slot identification — one player makes a sound, everyone names the slot. **Regress:** work with three slots only (low / mid / high).
 
 ---
 
-#### 9. Voice Slot Auction
+#### 5. Blindfolded Pass the Sound
 
-- **Target skill:** ensemble voice discipline; conscious register ownership.
-- **Setup:** lights on, everyone standing in a line, then repeated in the dark.
-- **Instructions:**
-  1. Write the six slots from the mechanics manual on a wall: low/slow, low/fast, mid/warm, mid/nasal or breathy, high/bright, high/rough.
-  2. Each player speaks the same neutral sentence ("I told you it was going to rain") in their natural register. The group assigns them a slot by consensus.
-  3. Collisions are resolved by auction: the two colliding players each demonstrate a *moved* version; the group picks who moves.
-  4. Write the final map down. Photograph it. It is the team's document.
-  5. Now in the dark: coach calls "SLOT" at random during a scene and every player states theirs in one word without dropping character.
-- **Duration:** 25 min first time; 5 min as a warm-up thereafter.
-- **Side-coaching:** "That's the same slot as his. One of you moves — and it's not a pitch change, it's a *timbre* change." · "You've drifted back to your own voice. Find the physical cause: jaw, palate, chest." · "Anchor it in your body, not your head. Head voices fade at minute twenty."
-- **Common mistakes:** treating slots as accents (they aren't; an accent is a decoration on a slot); assigning slots and never checking them again; players choosing a slot they can't sustain for thirty minutes.
-- **Progress:** each player must hold *two* slots for two different characters, switching on demand. **Regress:** four slots only, two players per slot but never in the same scene.
-
----
-
-#### 10. Signature Sound Draft
-
-- **Target skill:** the character-identifying non-verbal sound.
-- **Setup:** dark. Each player has already chosen a slot.
-- **Instructions:**
-  1. Each player invents a non-verbal signature sound for a character: a knuckle crack, a wet sniff, a hummed three-note phrase, keys, a click of the tongue, a shallow asthmatic in-breath.
-  2. Round the circle: each performs theirs three times. The group checks it's (a) reproducible, (b) frequency-distinct from the others, (c) usable while walking and talking.
-  3. Collisions are re-drafted.
-  4. **Test:** coach calls a random name; that player must make *someone else's* signature. If the group can't identify whose, the signature is too vague.
-  5. Run four two-handers in which each character must sound their signature before their first line, and once more before the scene ends.
-- **Duration:** 20 min.
-- **Side-coaching:** "Before you speak. Let them know who's arrived." · "That signature is a bit. Signatures are habits, not jokes." · "Can you do it while lifting something? Then it doesn't work."
-- **Common mistakes:** choosing something too loud (it competes with the bed); choosing something that's actually a comedy noise, which stops being character and starts being commentary; forgetting it entirely after the first beat.
-- **Progress:** signature sounds must be usable as *transport* — one character's signature becomes the edit into another thread. **Regress:** assign signatures from a list.
+- **Target skill:** volume calibration; spatial listening; group tempo.
+- **Setup:** circle, blindfolded, standing.
+- **Steps:**
+  1. Player A makes a specific sound and "sends" it by turning toward a target and increasing volume slightly.
+  2. The player who believes they were targeted receives it by **reproducing it exactly**, then modifies one parameter (pitch, volume, tempo, texture) and sends on.
+  3. Any misfire (two people receiving) is resolved by instant yield — the drill continues, no restart.
+  4. Round two: send across the circle, not to neighbours. Round three: the sound may only get quieter; the game ends when it is inaudible.
+- **Duration:** 20 minutes.
+- **Side-coaching:** "Reproduce first, *then* change. Reproduce first." · "You changed three things. One." · "Quieter. Quieter. Now barely."
+- **Common mistakes:** "passing" a completely new sound (the drill dies); getting louder every pass because loud is easier.
+- **Progress:** two sounds circulating simultaneously in opposite directions. **Regress:** seated, neighbour-to-neighbour only.
 
 ---
 
-#### 11. Two-Name Handshake Sprints
+#### 6. Dream Symbol Association (after Joe Bill)
 
-- **Target skill:** naming fast, cleanly, in two mouths.
-- **Setup:** dark, pairs rotating.
-- **Instructions:**
-  1. Coach calls a location. Bed keeper starts.
-  2. Pair has **four lines total** to establish: both names (one in each mouth), the relationship, and one physical activity. Coach edits hard at line four with a clap.
-  3. Immediately, next pair. Twenty sprints.
-  4. Second half: same but the names must be delivered without vocative address ("You're late, Boyd" is easy; "Boyd's here, everyone" from a third mouth is harder and better).
-- **Duration:** 15 min.
-- **Side-coaching:** "Both names in your mouth — I can't map them. Give one away." · "You've named her twice and yourself never." · "One activity. Not a topic. Something with a sound."
-- **Common mistakes:** using all four lines on setup and none on relationship; a name delivered so fast it's inaudible; both players naming each other in the same line and the audience mishearing which is which.
-- **Progress:** three lines. Then two. **Regress:** six lines and the coach prompts "name" out loud.
-
----
-
-#### 12. The Yield Drill
-
-- **Target skill:** instant, reflexive yielding; killing the "no, you" collapse.
-- **Setup:** dark, pairs, then whole ensemble.
-- **Instructions:**
-  1. Two players run a scene. On the coach's clap, **both must begin a line simultaneously**.
-  2. One yields — instantly, mid-word, silent. Not softened, not trailed.
-  3. The survivor completes their line without acknowledging.
-  4. Fifteen collisions per pair. Nobody decides in advance who yields; if both yield, that's a fail and you run it again.
-  5. Advanced round: the yielder must *absorb* the collision in character on their next line ("Sorry. Go on.") without it sounding like an improv note.
-- **Duration:** 12 min.
-- **Side-coaching:** "Silence. Not quieter — silence." · "Both of you yielded. That's worse. Someone has to survive." · "Don't apologise as a person. Apologise as the character or not at all."
-- **Common mistakes:** politeness fade-out; the survivor hesitating out of guilt, which wastes the yield; players pre-agreeing by feel who is dominant, which is the exact hierarchy the form is meant to dissolve — rotate deliberately.
-- **Progress:** three-way collisions, two must yield. **Regress:** coach names the yielder before the clap.
-
----
-
-#### 13. Double-Edit Collision Protocol
-
-- **Target skill:** edit collisions; the two absolute edit disciplines.
-- **Setup:** dark, a scene running, four players offstage with edit authority.
-- **Instructions:**
-  1. Scene runs. Coach whispers "GO" to two offstage players simultaneously (tap on the shoulder — this is the one place a light touch is used, negotiated in advance).
-  2. Both begin an edit. First to *hear* the other kills theirs within a quarter-second; the survivor **commits louder**.
-  3. Ten collisions.
-  4. Round two: rehearse the alternative recovery — both commit and *merge* the two sounds into one bigger sound. Practise both, so the team has two legitimate outs.
-  5. Round three: no coach taps. Natural collisions only. Count them on the recording.
-- **Duration:** 15 min.
-- **Side-coaching:** "Kill it. Dead. Not fading." · "Survivor: you got quieter because you felt bad. Get *louder*." · "That was two half-edits. Two half-edits is worse than a bad edit."
-- **Common mistakes:** both shrinking; the survivor apologising with tone; the ensemble becoming so afraid of collision that nobody edits at all for the next ten minutes — watch for this and note it.
-- **Progress:** run a whole ten-minute montage; the only note afterwards is the collision count. **Regress:** assign edit rights to two named players only.
-
----
-
-#### 14. Clean Space Metronome
-
-- **Target skill:** render lag; the 1–2 second gap after every edit.
-- **Setup:** dark, coach with a stopwatch or a silent hand count.
-- **Instructions:**
-  1. Run a montage of eight 60-second scenes.
-  2. After every edit sound, the coach counts two full seconds *out loud in the dark* ("one… two…") before allowing the new bed.
-  3. Second pass: coach counts silently and calls out only when the gap was under one second — a single word: "short."
-  4. Third pass: no coach. Time the gaps on the recording afterwards and show the team the numbers.
-- **Duration:** 18 min.
-- **Side-coaching:** "Short." · "You put the new line inside the old room. Everyone's still in the kitchen." · "Two seconds is very long and it is not long enough."
-- **Common mistakes:** filling the clean space with a "helpful" transitional noise, which defeats it; the incoming pair starting the bed *and* the line in the same half-second.
-- **Progress:** vary deliberately — some edits with 1 second, some with 3 — and discuss which felt right where. **Regress:** the coach makes every edit personally.
-
----
-
-#### 15. Edit Roulette
-
-- **Target skill:** edit vocabulary breadth; killing the wipe habit.
-- **Setup:** dark. Coach has the edit catalogue. Before blackout, each offstage player draws a slip naming one edit type.
-- **Instructions:**
-  1. Run a montage. Each player must execute their drawn edit, once, at a moment they judge correct.
-  2. If two players hold the same edit type, they may not use it consecutively.
-  3. After the run, lights on, and each player says which edit they had and where they used it. Group discusses whether it *fitted* the moment or was imposed.
-  4. Second round: redraw, and the rule becomes "you may only use your edit if the scene earns it — if it never earns it, you don't edit at all."
-- **Duration:** 25 min.
-- **Side-coaching:** "That's a swell on a peak. You buried a good line." · "You've been holding a match-cut for six minutes waiting for the perfect object. Take the imperfect one." · "Third wipe in a row and I can predict you."
-- **Common mistakes:** forcing the assigned edit into a hostile moment; treating the drill as a checklist and rushing; forgetting the clean space because they're concentrating on the edit type.
-- **Progress:** no slips — players must simply not repeat any edit type across a whole show. **Regress:** three edit types only (wipe, swell, match-cut) drilled to fluency first.
-
----
-
-#### 16. Match-Cut Chain
-
-- **Target skill:** transport by sound token; the form's signature move.
-- **Setup:** dark, whole ensemble, no scenes at first.
-- **Instructions:**
-  1. Player A makes an object sound and names it ("a coin in a tin").
-  2. Player B reproduces the *identical* sound and renames it as a different object ("a filling in a tooth"). No dialogue.
-  3. Player C takes B's sound, reproduces it exactly, renames it. Chain of twelve.
-  4. Round two: same chain, but each renaming is accompanied by two lines of dialogue in the new world, then the next player cuts in on the sound.
-  5. Round three: run a real montage where at least four of the seven edits are match-cuts.
-- **Duration:** 20 min.
-- **Side-coaching:** "You changed the sound to fit your idea. Take the sound as it is and find the idea." · "That's not the same sound, that's a cousin." · "Don't explain the new object. Sound it and live in it."
-- **Common mistakes:** altering the sound to make the pun work — this destroys the effect entirely, because the audience hears a new sound; going for cleverness over material honesty.
-- **Progress:** chains where the object *material* must stay honest across the cut. **Regress:** lights on, using real objects.
-
----
-
-#### 17. Soundscape Swell, Drain and Peel
-
-- **Target skill:** the frame mechanics; the structural transitions.
-- **Setup:** dark. Designate a seeder and a drain owner by name, out loud.
-- **Instructions:**
-  1. Seeder makes one sound. Eight-second gap. Second layer. Eight-second gap. Layers to five. No sixth.
-  2. Someone locks a 2–4 second motif. Ensemble locks to it.
-  3. Word layer: six to twelve associations, spoken into the gaps.
-  4. Peak: 20 seconds of build, max 10 seconds at peak.
-  5. Drain owner **hard-cuts their own layer**. Others peel out, high frequencies first, over 3–4 seconds.
-  6. One sound survives. Two players enter and play 60 seconds inside it.
-  7. Repeat five times with different seeders and drain owners.
-- **Duration:** 30 min for five.
-- **Side-coaching:** "Nobody is the sixth. Sit down." · "That's not a motif, that's a noise you did twice. Lock it." · "Cut, don't fade. Half of them can't tell what you're doing." · "The bed didn't survive. Who's holding it? Nobody. There's your problem."
-- **Common mistakes:** everyone entering in the first four seconds; the word layer becoming synonyms; the drain being a group fade that nobody leads; the peel dropping to zero, leaving the incoming scene naked.
-- **Progress:** remove the designations — the seeder and drain owner must emerge. **Regress:** coach conducts by calling "layer," "motif," "words," "peak," "drain."
-
----
-
-#### 18. Dream Symbol Association
-
-- **Target skill:** going sideways, not along; the word layer's raw material.
-- **Setup:** dark, circle, seated is fine.
-- **Instructions:**
+- **Target skill:** generating associative, image-rich raw material; killing the synonym reflex.
+- **Setup:** dark, seated or lying on the floor. This one genuinely works better lying down.
+- **Steps:**
   1. Coach gives a concrete noun.
-  2. Round the circle, each player gives one association. Rule: **no synonyms, no categories, no plurals of the same idea.** "Penny → coin → money" is banned. "Penny → the taste of blood → your grandmother's mouth → a bus ticket in a coat pocket" is the target.
-  3. Any synonym is called out instantly: coach says "along" and that player goes again.
-  4. Three laps, then a lap of *images with sound in them* only ("a bus ticket going soft in a wet pocket").
-  5. Final lap: each association must be spoken *and* accompanied by one sound.
-- **Duration:** 15 min.
-- **Side-coaching:** "Along." · "That's a definition, not a dream." · "Give me a place, not a concept. Where is it, what's it made of?" · "Sensory. If I can't hear it or taste it, don't say it."
-- **Common mistakes:** cleverness (associations designed to be funny, which are always along rather than sideways); abstractions ("nostalgia"); competitive speed.
-- **Progress:** two-word constraints; each association must connect to the one *two* places back. **Regress:** the coach models a full chain first.
+  2. Players speak single words or short images into the dark, with **at least three seconds of silence between contributions**. No responding to each other directly; no jokes.
+  3. **The rule that makes it work:** you may not offer a synonym, a category member, or a definition. Chalk → dust is legal. Chalk → blackboard is legal but lazy. Chalk → white → snow is a chain of categories and is banned. Chalk → the sound of a teacher's ring on a door is what you want.
+  4. Coach calls "SIDEWAYS" whenever a chain goes literal.
+  5. Round two: add a locked motif underneath, and words must land in the motif's gaps.
+- **Duration:** 12 minutes warm; 30 minutes as a full drill with the motif layer.
+- **Side-coaching:** "Sideways." · "That's a definition. Give me a memory." · "Slower. There's no shortage of time in the dark." · "Say the one you're embarrassed by."
+- **Common mistakes:** rapid-fire word association (this is not a speed game); everyone building one narrative; competitive weirdness with no sensory content.
+- **Progress:** after the word layer, the coach picks two words at random and the group immediately plays a scene inside each. **Regress:** coach supplies the first three associations to model the sideways move.
 
 ---
 
-#### 19. Chorus Swarm with Count-In
+#### 7. Cold Beds
 
-- **Target skill:** group pieces that are composed, not chaotic.
+- **Target skill:** offering an environment as an invitation; entering someone else's world.
+- **Setup:** dark. Everyone spread.
+- **Steps:**
+  1. Any single player begins an ambience — no announcement — and holds it, unchanged, for twenty seconds.
+  2. Two other players walk into it (audibly) and start a scene *inside* it. They must let the bed dictate the location; they may not contradict it.
+  3. The bed keeper holds for the whole scene, drops on the edit.
+  4. Ninety-second scenes. Run twelve of them.
+  5. Variation "Wrong Room": the scene players deliberately choose the least obvious location the bed could be. (A steady low hum: not a fridge — the hold of a ship.)
+- **Duration:** 25 minutes.
+- **Side-coaching:** "Hold it. Don't get bored and add a bird." · "You just contradicted the bed. What are you actually hearing?" · "Somebody give me a room. Anybody. A room is cheaper than an idea."
+- **Common mistakes:** bed keeper decorating the bed as soon as the scene starts (this is the number-one bed sin); scene players naming a location that the bed doesn't support; three people entering.
+- **Progress:** two beds offered simultaneously; scene players must choose one and the other must cut cleanly. **Regress:** coach assigns the bed and the location.
+
+---
+
+#### 8. Bed Handoff Relay
+
+- **Target skill:** sustaining ambience beyond one lung; invisible role transfer.
+- **Setup:** dark, two players per bed, side by side but not touching.
+- **Steps:**
+  1. Player A starts a continuous bed (rain, wind, machine hum).
+  2. Player B must join by starting their inhale-sound **before A runs out**, matching pitch and texture within a beat.
+  3. A drops out on their own exhale. The bed must not flicker.
+  4. Continue for four full minutes, alternating.
+  5. Round two: three keepers, one leaving the room entirely mid-relay (audibly).
+  6. Round three: a two-hander runs on top; the keepers must relay without the scene players noticing.
+- **Duration:** 25 minutes.
+- **Side-coaching:** "Come in underneath, not on top." · "Both of you just breathed in. The world flickered off." · "Match the *texture*, not just the pitch."
+- **Common mistakes:** the incoming keeper announcing themselves with a slightly different sound; both keepers running out simultaneously; the bed creeping louder each handoff (it always creeps louder — call it every time).
+- **Progress:** relay a *rhythmic* bed (dripping, clock) where timing errors are exposed. **Regress:** the two keepers overlap heavily for ten seconds each way.
+
+---
+
+#### 9. Exertion Mime
+
+- **Target skill:** making bodies audible; killing floating voices.
+- **Setup:** dark, cleared floor. Players may use the floor and walls only — no props.
+- **Steps:**
+  1. Coach assigns each player a genuinely demanding physical task: drag a body, prise up a floorboard, climb a ladder with a bucket, hold a door shut against someone.
+  2. Players perform it **at full physical commitment** for 60 seconds, alone, in the dark, with no words. Everyone else listens.
+  3. Listeners then say what they heard: material, effort level, direction of travel, size of object.
+  4. Round two: two players share a task (carrying something heavy together) and must coordinate by breath and contact sound only, **with a pre-agreed touch permission or a no-touch version where they carry it "one each end" a metre apart**.
+  5. Round three: the same task, now with dialogue. The dialogue must be *interrupted by the effort*, not describe it.
+- **Duration:** 25 minutes.
+- **Side-coaching:** "I don't believe your spine." · "Let the effort get into the vowels." · "Don't tell me it's heavy. Be defeated by it." · "That grunt is a comedy grunt. Give me a real one."
+- **Common mistakes:** performing the *sound of* effort while standing comfortably (audible instantly); narrating; doing it for laughs.
+- **Progress:** three-minute tasks with a scene running throughout. **Regress:** seated tasks (rowing, kneading, sawing).
+
+---
+
+#### 10. The Material Bank
+
+- **Target skill:** precise materiality; making the audience hear *events*, not noises.
+- **Setup:** lights ON, a table of real objects at the perimeter (tin can, glass, wood block, gravel in a tray, fabric, paper, chain, ceramic mug). This drill deliberately uses props — you are studying, not performing.
+- **Steps:**
+  1. Round the table: strike, drop, drag and scrape each object. Everyone listens hard. Name what makes tin different from copper, ceramic from glass.
+  2. Lights off. Coach names a material; every player produces it with mouth and body only. Coach picks the closest and everyone copies it.
+  3. Build a shared **material bank** — a written list of the ensemble's agreed best mouth-sound for twelve materials.
+  4. Test: coach makes a mouth-sound; players name the material. Score out of ten.
+  5. Final: pairs play a 90-second scene in which they must establish four materials by sound alone; listeners write down what they heard.
+- **Duration:** 25 minutes; revisit for 8 minutes monthly.
+- **Side-coaching:** "That's just a noise. What is it *made of*?" · "Tin is thin and it dies fast. You gave me a bell." · "Dull tink, not a ring."
+- **Common mistakes:** mouth sounds that are impressively loud but materially ambiguous; treating the object table as permanent (it isn't — it comes away for performance).
+- **Progress:** materials in states (wet wood, rusted iron, cracked glass). **Regress:** three materials only: metal, wood, water.
+
+---
+
+#### 11. Tell–Sound–React Ladder
+
+- **Target skill:** making invisible objects undeniable.
+- **Setup:** dark, pairs.
+- **Steps:**
+  1. Player A names an object ("Sledgehammer"), sounds it, then reacts to the sound. Three moves, in that order, no gaps.
+  2. Player B must then use the same object, sound it *identically*, and react differently.
+  3. Coach calls "DROP ONE" — pairs must do it with only two of the three elements, and the group votes on whether the object still existed. (It usually doesn't.)
+  4. Ladder up: four objects in a 2-minute scene, all triple-executed.
+- **Duration:** 20 minutes.
+- **Side-coaching:** "Name it, make it, feel it." · "You made it and nobody reacted, so it didn't happen." · "Same object, same sound. You've just made a second sledgehammer."
+- **Common mistakes:** reacting before sounding; the second player's version of the object sounding different (this is the drill's whole point — catch it every time).
+- **Progress:** the object's sound contradicts what a character says about it, and that becomes the scene. **Regress:** coach names the objects.
+
+---
+
+#### 12. Double-Edit Collision Drill
+
+- **Target skill:** reflexive yielding; recovering audibly-well from an unavoidable clash.
+- **Setup:** dark. A scene running; four players offstage.
+- **Steps:**
+  1. Coach whispers to two offstage players to edit at exactly the same moment (or simply runs enough scenes that it happens naturally — but engineer it, don't wait).
+  2. On collision, the rule: **the second person to *hear* it kills theirs within a quarter-second, completely, mid-sound.**
+  3. The survivor must get *louder*, not smaller.
+  4. Run ten deliberate collisions in a row.
+  5. Round two — the "Commit Both" recovery: when both hear a collision and neither can tell who was first, **both escalate into one bigger combined sound** and it becomes a chorus swallow. Drill this five times so the ensemble has two legal answers, not one.
+- **Duration:** 20 minutes.
+- **Side-coaching:** "Kill it. Kill it dead. Don't fade — that's worse." · "You both shrank. Now it's a mistake the audience heard." · "If you can't tell who was first, get bigger together."
+- **Common mistakes:** the polite mutual trail-off (the worst possible outcome); the survivor losing confidence and softening.
+- **Progress:** collisions during delicate quiet scenes, where the repair must be gentle. **Regress:** slow it down — coach counts, players practise the physical act of stopping mid-breath.
+
+---
+
+#### 13. Clean Space Metronome
+
+- **Target skill:** render lag discipline — the 1–2 second gap after every edit.
+- **Setup:** dark. Coach has a stopwatch or counts.
+- **Steps:**
+  1. Twelve scene-starts in a row. Each runs 30–45 seconds, then gets edited.
+  2. After each edit sound, the coach counts **out loud**: "one… two…" and only then may a bed start; the first line comes three seconds after the bed.
+  3. After four rounds, the coach counts silently and taps their own leg; players must feel it.
+  4. Rounds nine to twelve: no counting at all. Coach notes any transition where the gap was under one second and says "short" immediately.
+- **Duration:** 20 minutes.
+- **Side-coaching:** "Short." · "You landed your first line inside the old room." · "Let them put the last picture down before you hand them a new one." · "The gap is not dead air. It's a scene change."
+- **Common mistakes:** treating the gap as an invitation to add a decorative sound; nervous players filling; the bed and the line arriving simultaneously.
+- **Progress:** vary the gap deliberately — half a second for a hard comic cut, three seconds for a tonal shift — and have the group name which was used. **Regress:** coach claps the gap.
+
+---
+
+#### 14. Match-Cut Gauntlet
+
+- **Target skill:** transporting information across edits; the form's signature move.
 - **Setup:** dark, whole ensemble.
-- **Instructions:**
-  1. One player establishes a pulse and **holds it unembellished for four bars**. Nobody joins.
-  2. Players enter one at a time, three seconds apart, all on the *same* rhythmic figure, differentiated only by pitch and timbre.
-  3. When everyone is in, the group builds for 20 seconds, peaks for 8, and exits in reverse order of entry.
-  4. Repeat with a spoken word instead of a pulse.
-  5. Repeat *whispered*, with the whole ensemble physically walking downstage as it builds.
-- **Duration:** 20 min.
-- **Side-coaching:** "Four bars, unchanged. You're already decorating." · "Same figure. You've invented your own and now we have two songs." · "Peak's over. Somebody has to be first out — be it."
-- **Common mistakes:** everyone entering at once; the pulse-setter embellishing immediately so nobody can lock on; a peak that never ends because nobody wants to be first to stop.
-- **Progress:** two simultaneous choruses at different tempos that resolve into one. **Regress:** coach conducts entries by name.
+- **Steps:**
+  1. Two players run a 60-second scene containing at least three distinct object sounds.
+  2. At the coach's call "CATCH," an offstage player must take one of those sounds, **continue making it identically**, and let a new scene reinterpret it as a different object.
+  3. New scene runs 45 seconds. Repeat six times, chaining.
+  4. Debrief: which matches were true (the sounds really were alike) and which were forced?
+  5. Round two: the same, but the match must also carry *theme* (a wine glass ring → a coin machine carries "money"; a wine glass ring → a bicycle bell carries nothing).
+- **Duration:** 30 minutes.
+- **Side-coaching:** "Catch it — don't reinvent it." · "That match wasn't real. A cough is not a car door." · "What else in the world makes that exact noise?" · "Now what does the match *mean*?"
+- **Common mistakes:** the catcher changing the sound by 20% (which reads as a new object); forced cleverness; forgetting the clean space because the match feels continuous — **it still needs a beat of air unless the sound itself is bridging it.**
+- **Progress:** three-way matches; matches across five minutes rather than immediately. **Regress:** coach nominates the sound to be caught.
 
 ---
 
-#### 20. Dynamics Dice
+#### 15. Bed Recall Cold Test
 
-- **Target skill:** the contrast curve; escaping conversational-level flatness.
-- **Setup:** dark. Before the run, coach assigns each upcoming scene a dynamic on a card read out in the light: WHISPER / SHOUT / DISTANT / CLOSE / SPARSE / DENSE.
-- **Instructions:**
-  1. Run eight scenes, each locked to its assigned dynamic for its whole length.
-  2. Rule: no two consecutive scenes may share a dynamic.
-  3. Listen back. Draw the curve on a whiteboard.
-  4. Second run: no assignments, but the same rule applies and players must self-manage.
-  5. Third run (later week): players may *change* dynamic within a scene, once.
-- **Duration:** 25 min.
-- **Side-coaching:** "That's a whisper scene and you're at a mumble. True whisper — no voice at all." · "Distant means *go upstage*. You're two feet from her pretending." · "You've done three mids in a row. The next one is extreme."
-- **Common mistakes:** whisper scenes drifting up to conversational within thirty seconds; "loud" being interpreted as shouting the dialogue rather than a dense loud world; DISTANT being played with volume rather than actual physical distance.
-- **Progress:** assign the whole show's curve in advance and see if the team can hit it. **Regress:** two dynamics only, alternating.
-
----
-
-#### 21. Hold the Silence
-
-- **Target skill:** the held pause with a 5% floor.
-- **Setup:** dark, a scene running, one bed keeper.
-- **Instructions:**
-  1. Scene runs normally. Coach calls "HOLD" (a single quiet word).
-  2. Both scene players stop speaking. The bed keeper drops the bed to a *just-audible* floor. Everyone breathes in the shape of the scene.
-  3. Hold until the coach says "GO." Start at three seconds; extend to five, seven, ten.
-  4. Round two: the *scene players* choose their own holds and the coach counts them on the recording.
-  5. Round three: run a hold to zero — no floor — for comparison, and let the team hear the difference on playback.
-- **Duration:** 15 min.
-- **Side-coaching:** "Floor. Somebody give me a floor." · "You're holding your breath. Hold the *scene's* breath." · "Nobody fill it. Nobody. Good." · "Ten seconds. That was ten seconds and it was the best thing you did tonight."
-- **Common mistakes:** somebody giggling; the bed keeper cutting to zero out of confusion; a player filling with a "meaningful" sigh that reads as a joke.
-- **Progress:** the team must generate a ten-second hold with no coach cue at all in a full run. **Regress:** three seconds, with the coach counting aloud.
+- **Target skill:** exact reproduction; making returns land.
+- **Setup:** dark, any point in rehearsal.
+- **Steps:**
+  1. Early in the session, run three scenes with distinctive beds and signature sounds. Note them privately.
+  2. **Forty to seventy minutes later**, with no warning, the coach says: "Rosa — the crawlspace." Rosa must reproduce that bed instantly.
+  3. Then: "Everyone — Tomás's character sound." All seven attempt it. Compare. If the group's versions differ wildly, the sound is too complex to be a usable motif — simplify it now, together, and re-store it.
+  4. Final: "Reinstate the second scene's bed and play the next beat of it." Two players walk in cold.
+- **Duration:** 15 minutes, embedded.
+- **Side-coaching:** "Not close. The same." · "You did four taps. It was three." · "If three people can't reproduce it, it isn't a motif — it's an effect. Make it simpler."
+- **Common mistakes:** defending the approximation ("that's basically it"); inventing over-elaborate signatures that cannot be recalled.
+- **Progress:** week-to-week recall — reproduce last Tuesday's motif. **Regress:** five-minute gaps.
 
 ---
 
-#### 22. Bed Handoff Relay
+#### 16. Distance and Proximity
 
-- **Target skill:** continuous ambience across breaths and across people.
-- **Setup:** dark, four players nominated, one location.
-- **Instructions:**
-  1. Player 1 starts a bed. Player 2 joins on Player 1's *exhale*, matching timbre exactly.
-  2. Player 1 drops out. Player 2 holds alone. Player 3 joins on Player 2's exhale. And so on, for four minutes.
-  3. Listeners raise a hand every time they hear a join. Lights up; compare.
-  4. Round two: hand off between two *different* location beds — the join must be a deliberate crossfade over four seconds.
-- **Duration:** 15 min.
-- **Side-coaching:** "You came in on the inhale. Come in underneath the sound that's already there." · "You're louder than her. Match, don't improve." · "Somebody's about to run out of air and I can hear the panic."
-- **Common mistakes:** the incoming keeper "improving" the bed; both keepers inhaling simultaneously, producing a one-second world-flicker; volume creep across the relay.
-- **Progress:** relay while a scene runs on top. **Regress:** two players only, thirty-second holds.
-
----
-
-#### 23. Memory Bank
-
-- **Target skill:** exact reproduction; callbacks that land.
-- **Setup:** dark, at any point during a rehearsal, and again cold at the end.
-- **Instructions:**
-  1. During the first half of rehearsal, the coach silently logs six sounds the team made (motifs, signatures, beds, foley).
-  2. At the end, in the dark, the coach describes each one in words only ("the thing Marc did with the tin in the second scene").
-  3. Three randomly named players must each reproduce it, in turn, without conferring.
-  4. Listeners vote: same sound or three different sounds?
-  5. Any sound that fails the test is declared **unusable** and the team simplifies it until it passes.
-- **Duration:** 12 min.
-- **Side-coaching:** "Three sounds. That means it's not a motif, it's a mood." · "Simplify it. Two taps, not five." · "Same *rhythm*. You've got the pitch and lost the rhythm, and the rhythm is what they stored."
-- **Common mistakes:** players reproducing their *impression* of the sound; motifs that were too elaborate to begin with; the original maker being the only one who can do it, which makes the show fragile.
-- **Progress:** run it 48 hours later at the top of the next rehearsal. **Regress:** the original maker demonstrates first, then the others copy.
+- **Target skill:** spatial audio; using the stage as a camera.
+- **Setup:** dark. Marked zones (tape you can feel with your feet, or chairs at the perimeter): downstage edge, mid, upstage wall, and one position in the house.
+- **Steps:**
+  1. One player speaks the same neutral sentence from each of four positions, plus turned away at each. The rest describe what changed.
+  2. Pairs play a 2-minute scene in which the characters are in **different rooms** throughout; they must be genuinely at different depths and one must be turned away.
+  3. Then a scene that begins far apart and ends nose-to-nose, with the approach fully sonified.
+  4. Then the **Whisper Close-Up**: one player at the very downstage edge, true whisper volume, one line. Listeners at the back report whether they got it.
+- **Duration:** 25 minutes.
+- **Side-coaching:** "Don't play far away. *Be* far away." · "You dropped volume and turned away — that's two cues; pick one." · "Come closer. Closer. Now whisper it." · "I can hear the room around your voice change. That's the shot."
+- **Common mistakes:** simulating distance with volume while standing shoulder to shoulder (the room acoustics betray it instantly); whispering from upstage.
+- **Progress:** three-position scenes with a moving listener. **Regress:** two positions only, front and back.
 
 ---
 
-#### 24. Proximity Theatre
+#### 17. Sonify the Cross
 
-- **Target skill:** spatial staging; the whisper close-up; the ghost line.
-- **Setup:** dark, playing space marked with taped lines the players learned in the light: DOWNSTAGE EDGE, MID, UPSTAGE, and one position at the back of the house.
-- **Instructions:**
-  1. One player delivers the same line from all four positions. Listeners describe what each version *meant* ("intimate," "in the next room," "shouting from a hill").
-  2. Two-handers where the coach calls positions mid-scene: "downstage / upstage." Players must move audibly and adjust delivery.
-  3. Whisper close-up: a scene played entirely from the downstage edge at true whisper. Listeners sit in the front row.
-  4. The Approach: entrances with six audible footsteps closing distance before the first line. Ten repetitions.
-  5. One ghost line from the back of the house, and a discussion of how the player gets back.
-- **Duration:** 20 min.
-- **Side-coaching:** "You changed volume but not position. The room acoustics gave you away instantly." · "That's a stage whisper. I want a real one. Come closer instead." · "How do you get back? Plan it now, not in the show."
-- **Common mistakes:** faking distance with volume; whispering from upstage where nobody can hear; the ghost line becoming a party trick used three times.
-- **Progress:** two simultaneous conversations at different distances (spatial pull-focus). **Regress:** three positions, coach-called only.
-
----
-
-#### 25. Ten Closings
-
-- **Target skill:** the closing soundscape as a rehearsed set piece.
-- **Setup:** dark. Before each round, the coach reads out a fictional show's inventory of six sounds and four words.
-- **Instructions:**
-  1. Coach reads the inventory aloud once. Players have thirty seconds of dark silence to memorise.
-  2. The named drain owner re-seeds the motif alone.
-  3. Others add only inventory items, one at a time.
-  4. Words return over the top. Peak four seconds.
-  5. Drain to motif, to one sound, to three seconds of silence. Coach says "lights."
-  6. Ten times, with a different drain owner each round.
-- **Duration:** 30 min. Brutal and the most valuable half-hour in the curriculum.
-- **Side-coaching:** "That's new material. Nothing new in a closing." · "Who's the drain owner? Then own it." · "Last sound. Make it the *right* one — what was this show about?" · "Three seconds. Nobody breathe. Count it."
-- **Common mistakes:** somebody adding a lovely new sound; the drain becoming a mush; the final sound being whoever happened to be slowest; the silence being two seconds and feeling unfinished.
-- **Progress:** run closings off the team's *own* shows, from memory, 24 hours later. **Regress:** coach conducts each addition by name.
+- **Target skill:** eliminating teleportation.
+- **Setup:** dark, cleared floor.
+- **Steps:**
+  1. Every player must cross the space and, while crossing, keep a **fictional** sound alive: footsteps in-world, a hummed tune, a muttered line, a dragged object, breathing that belongs to a character.
+  2. Coach calls "ILLEGAL" on any silent metre.
+  3. Round two: cross *during* someone else's scene without disrupting it — the cross must be quiet enough to sit under dialogue and audible enough to be tracked.
+  4. Round three: **Spatial Reveal** — start a line at the far wall and finish it standing behind your scene partner, moving audibly, so the reveal is spatial rather than verbal.
+- **Duration:** 20 minutes.
+- **Side-coaching:** "Illegal." · "Your feet are not in the show. Put them in the show." · "That cross was louder than the scene. Halve it." · "Land the second half of the line where you've arrived."
+- **Common mistakes:** shuffling (reads as a performer, not a character); crossing during a delicate beat.
+- **Progress:** two simultaneous crosses in opposite directions during a whispered scene. **Regress:** cross only during blackouts between exercises, with permission to be loud.
 
 ---
 
-#### 26. The Foley Diet
+#### 18. Voice Slot Check ("SLOT!")
 
-- **Target skill:** curing the Foley Trap.
-- **Setup:** dark. One nominated foley operator per scene.
-- **Instructions:**
-  1. Run six three-minute scenes. The foley operator is allowed **exactly six sounds** per scene. They count them on their fingers.
-  2. Rule: a sound may only be made if an onstage player has named it, is about to need it, or is already implying it.
-  3. After each scene, the foley operator reports how many they used and which one they'd cut.
-  4. Second half: allowance drops to three.
-- **Duration:** 20 min.
-- **Side-coaching:** "Nobody asked for a bird." · "You've got two left. Spend them well." · "That one was a comment, not an object."
-- **Common mistakes:** operators making a sound because a silence felt long; operators embellishing a named sound into a solo; scene players ignoring the foley they were given, which teaches the operator their work is decorative.
-- **Progress:** unlimited allowance but any unnamed sound is called out on playback. **Regress:** two sounds, both pre-agreed.
+- **Target skill:** register stability under fatigue and emotion.
+- **Setup:** dark, any scene running.
+- **Steps:**
+  1. Cast agrees a one-word label for each slot: LOW-SLOW, LOW-FAST, MID-WARM, MID-NASAL, MID-BREATHY, HIGH-BRIGHT, HIGH-ROUGH.
+  2. Scenes run as normal. At random, the coach calls "SLOT!"
+  3. Every player currently speaking states their slot in one word, **in character voice, without stopping the scene** — it becomes an odd interjection and everyone carries on.
+  4. Later rounds: the coach calls "SLOT!" and *listeners* name the speaker's slot; the speaker confirms or is caught drifting.
+  5. Endurance version: 10-minute scenes, "SLOT!" called at minute 2, 6 and 10. Drift almost always begins at minute 5.
+- **Duration:** 15 minutes.
+- **Side-coaching:** "You're back in your own voice." · "Anchor it to the jaw, not the idea." · "Go up a fifth and stay there." · "Drift starts when you get emotionally involved. Get involved *in the slot*."
+- **Common mistakes:** players anchoring a voice to a mood (moods change); comedy accents that collapse under real emotion.
+- **Progress:** two characters per player, switching within a scene. **Regress:** one 60-second held register with no scene at all.
+
+---
+
+#### 19. Chorus Swarm and Count-In
+
+- **Target skill:** composed group sound; entering without a conductor.
+- **Setup:** dark, whole ensemble.
+- **Steps:**
+  1. One player establishes an unembellished pulse (tongue click, foot) and holds it **unchanged for four bars**. Nobody joins.
+  2. Players join one at a time, three seconds apart, all on the *same rhythmic figure*, differentiated only by pitch.
+  3. When all are in, the coach calls a single word from earlier in the session; the swarm becomes that word, whispered, staggered.
+  4. Build for twenty seconds; then the drain owner hard-cuts; everyone peels.
+  5. **Inversion round:** the identical structure at whisper volume, with everyone slowly walking downstage toward where the audience would be.
+- **Duration:** 25 minutes.
+- **Side-coaching:** "Hold the pulse. Boring is the job." · "Three seconds apart. You came in with Dara." · "Same figure. You're all soloing." · "Peak — and out. Don't nurse it."
+- **Common mistakes:** the pulse-setter embellishing immediately (nobody can lock on); everyone entering at once; the swarm never ending because nobody owns the exit.
+- **Progress:** two swarms in counterpoint, splitting the ensemble. **Regress:** unison only, coach counting entries.
+
+---
+
+#### 20. Ten Closings
+
+- **Target skill:** the closing soundscape as a rehearsed set piece; the show's index.
+- **Setup:** dark. Coach reads out a list of six "sounds this imaginary show made" and three "words this imaginary show said."
+- **Steps:**
+  1. Coach: "Your show had: a wet drip, three metallic taps, a cash drawer, a chain, a bright ring on glass, a wheezing boiler. And it said: copper, warm, green."
+  2. Cast has thirty seconds of silence, then builds and executes the closing: re-seed the motif alone → add only listed material, one at a time → optional word return → four-second peak → drain → one sound alone → three seconds of held silence.
+  3. Coach says "LIGHTS." Repeat with a new list. Ten times.
+  4. Every third round, deliberately give a list that includes a sound nobody in the room can make well — and let the group solve it by simplifying.
+- **Duration:** 35 minutes.
+- **Side-coaching:** "Nothing new. If it wasn't in the show, it isn't in the ending." · "Who owns the last sound? Decide by doing it." · "Three seconds of silence. Count them. Nobody breathe." · "That was ninety seconds of pretty. Make it *mean* — put the words back in."
+- **Common mistakes:** inventing new sounds because the old ones feel used up; the drain fading rather than cutting; the final silence being two seconds (it always shrinks under nerves — drill it at four so it lands at three).
+- **Progress:** run closings straight off real full runs with no list. **Regress:** coach names the order of re-entry.
+
+---
+
+#### 21. Hand-Over-Mouth (Three Layers Enforcement)
+
+- **Target skill:** bandwidth discipline; the physical habit of stopping.
+- **Setup:** dark, scenes running, whole ensemble offstage except two.
+- **Steps:**
+  1. Rule: any offstage player not currently the nominated bed keeper or foley operator must have **a hand physically over their own mouth.**
+  2. To take a role, you must first hear the current holder stop.
+  3. Run six scenes.
+  4. Round two: remove the hand rule but keep the count. Coach says "THREE" the instant a fourth layer appears; whoever added last must kill theirs.
+  5. Round three: the coach says nothing; instead, at the end, the group counts how many times they exceeded three.
+- **Duration:** 20 minutes.
+- **Side-coaching:** "Three." · "Who's fourth? You know who you are." · "When in doubt, be the one who stops." · "Silence from you *is* support. You are supporting right now by being quiet."
+- **Common mistakes:** players interpreting the rule as "don't help"; the bed keeper thickening their own bed to compensate.
+- **Progress:** allow four layers deliberately for eight seconds and hear how quickly it turns to mud; then return to three. **Regress:** two layers only.
+
+---
+
+#### 22. Dynamics Assignment Run
+
+- **Target skill:** planning and feeling the attention curve.
+- **Setup:** dark. Coach has a written running order of dynamics.
+- **Steps:**
+  1. Before the run, coach assigns each of eight units a dynamic: WHISPER-CLOSE / LOUD-FULL / MID-DISTANT / SPARSE-SLOW / DENSE-FAST / SILENT-HEAVY / CHORUS / MID-WARM.
+  2. Run the eight units as a 20-minute piece. Whoever initiates each unit must honour its assignment.
+  3. Debrief by drawing the curve on a whiteboard and asking "where did you feel yourself drift?"
+  4. Round two: no assignments; after the run, the group reconstructs the curve from memory and compares it to the coach's notes.
+- **Duration:** 30 minutes.
+- **Side-coaching:** "That's the third mid-warm in a row. Somebody go quiet or go enormous." · "Contrast, not volume. A drop is as strong as a shout." · "You're at minute eighteen. The room is going soft. Change the *distance*."
+- **Common mistakes:** interpreting "loud" as shouting dialogue rather than dense sound; two adjacent peaks.
+- **Progress:** the coach assigns only the *shape*, not the units. **Regress:** four units only.
 
 ---
 
 ### Warm-Ups Tuned to This Form
 
-Run 15–20 minutes of warm-up before every rehearsal and before every show. Always include one silence warm-up and one voice warm-up.
+Each of these runs in 5–12 minutes and is chosen because it does work that a generic improv warm-up does not.
 
-| Warm-up | How it runs (3 min unless stated) | Why it earns its place *here* |
+| Warm-up | How it runs | Why it earns its place in **this** form |
 |---|---|---|
-| **Floor Sweep and Boundary Call** | The whole cast physically sweeps and walks the stage together, then each player says one sentence about their touch/movement boundary for tonight | It is the only warm-up in improv where the physical safety ritual and the consent ritual are the same act, and in this form both are load-bearing. |
-| **The Sixty-Second Settle** | Lights out. Sixty seconds of nothing. Nobody speaks. Then one person says "ready" | Trains the team to survive the most valuable and most frequently squandered silence in the form: the opening blackout hold. |
-| **Slot Roll-Call** | Circle, dark. Each player says one sentence in their assigned slot, and the group confirms distinctness | The audience's entire casting system is set here; five minutes of maintenance stops the week-seven drift that ruins beat two. |
-| **Room Tone Circle** | Coach names a location. All eight build the bed in five slots. Hold sixty seconds. Coach names a new location; the room *crossfades* without stopping | Rehearses the single most-used skill in a Bat — a bed that starts before it's needed and changes without a gap. |
-| **Breath Ladder** | Standing, dark. Silent breath → audible breath → strained breath → exertion breath → panicked breath → back down. 20 seconds a rung | Breath is the only object work the audience can perceive. Warming it up as a *sound instrument* rather than a support system changes how it's used all night. |
-| **Motif Pass** (5 min) | One player invents a 3-second motif. Everyone in the circle reproduces it exactly, one after another. Any drift and it goes back to the start | Callbacks in this form must be reproductions, not references; this is the muscle, warmed. |
-| **Name and Yield** (4 min) | Pairs, dark, deliberately start speaking at the same time on a clap; one yields silently; swap | Puts the collision protocol into the body before the show, so the first collision of the night isn't the first of the week. |
-| **Whisper Line** (4 min) | The cast stands in a line downstage; one at a time, each whispers a sentence to the empty house at true whisper volume; the coach sits in the back row and reports what carried | Calibrates the whisper close-up to the actual room, which changes with every venue and every audience size. |
-| **Cupped Hands Choir** (3 min) | Everyone hums one pitch, hands open; on a cue, all cup hands and the choir becomes a radio; uncup; recup | Warms the cupped-timbre technique and, incidentally, gets everyone breathing together, which is how a group piece starts well. |
-| **The Inventory** (4 min, pre-show only) | Standing in a circle in the light, each player states out loud: their slot, their signature sounds, their role for tonight (seeder / drain owner / anchor), and their boundary | Every avoidable disaster in this form traces back to something nobody said out loud before the blackout. |
+| **The Dark Call** (10 min, mandatory) | Lights on, circle. (1) Physical hazards named aloud by whoever swept the floor. (2) Each player states one boundary for tonight ("no touch above the elbow," "please don't shout directly at me"). (3) The abort word is said aloud by everyone. (4) Anchor points assigned. (5) Lights out. | It is the only safeguard between a dark room and an accident, and saying it every time is what stops it becoming theatre. It also puts consent in the ensemble's mouth rather than the director's. |
+| **Breath Circle** (6 min) | Standing circle in the dark. One player begins an audible inhale/exhale cycle; others join one at a time until the whole group is breathing as one organism; then peel out one at a time in silence. | Teaches the 5% floor under silence — the exact thing that separates a held pause from a collapse — and gets the ensemble's tempo synchronised before a word is spoken. |
+| **Room Tone Tuning** (5 min) | Total silence, seated, 3 minutes. Each player then names one sound the *building* is making (a ballast hum, traffic, a fridge). Group reproduces the loudest one and holds it. | Calibrates the ensemble to the actual acoustic of tonight's room, which changes with audience bodies in it, and models what a bed is: something that was already there. |
+| **Slot Auction (short form)** (5 min) | Each player says their name, then their character-of-the-night's slot, then their signature sound, in a single breath. Nobody may duplicate a slot. | Prevents the single most audience-destroying failure — two characters sharing a register — before it can happen, and installs signature sounds as a habit rather than an inspiration. |
+| **Frequency Ladder** (6 min) | Group builds one soundscape in strict order: low drone first, then mid, then high, then rhythm, then breath. Then dismantles it in reverse. Twice. | Makes the Rule of Three Layers physical rather than theoretical; players feel the spectrum fill up, and learn what an unoccupied band sounds like. |
+| **Wipe Chorus** (5 min) | Round the circle, each player executes a different edit from the vocabulary — audio wipe, hard foley cut, breath edit, chorus swallow start, drain — while the group holds a 5% bed that must survive or die appropriately. | Keeps the whole edit vocabulary live in the mouth so that under pressure the team doesn't default to the same swoosh four times. |
+| **Exertion Circle** (6 min) | Each player, in turn, does 20 seconds of a genuinely strenuous invisible task while everyone listens; the next player must name the material and the effort level before starting their own. | Warms the body and the breath *together*, which is the only channel this form has for physicality, and instantly re-establishes that we do the object work harder here, not less. |
+| **Cold Reproduction Gauntlet** (5 min) | Coach reads out six sounds from a previous rehearsal or show; the group reproduces each in unison on hearing its name. | Trains the exactness that makes callbacks land, and quietly builds the ensemble's shared sonic vocabulary across a season rather than a night. |
+| **Two-Name Handshake Speed Round** (5 min) | Rotating pairs. Each pair has ten seconds, in the dark, to open a scene in which both names and one relationship fact are established in two lines. Twelve pairs. | Attacks the specific bottleneck of this form's scene openings, where the audience has zero visual information and needs the map in the first six seconds. |
+| **Count-In Lock** (4 min) | One player sets a pulse; the group must join and stay locked for 60 seconds with zero embellishment; then the pulse-setter tries to speed up or slow down and the group must follow without discussion. | Group sound pieces live or die on whether seven people can lock to one tempo with no conductor and no eye contact. |
 
 ---
 
 ### Annotated Sample Transcripts
 
-Notation: **bold** = player name; *(italics)* = sound made, not spoken; `[COACH]` = side-coaching in a rehearsal context; blockquote alternatives mark decision points.
+Cast of seven throughout: **Rosa** (mid/warm), **Tomás** (low/slow), **Yusuf** (low/fast), **Mei** (high/bright), **Dara** (mid/breathy), **Priya** (mid/nasal), **Nils** (high/rough).
 
 ---
 
-#### Transcript One — Opening through Scene A1 (rehearsal, week five, suggestion: "a swimming pool")
+#### Transcript A — Rehearsal run, Week 7. Opening through Scene A1. Suggestion: "chalk."
 
-Cast of seven: **Nadia** (mid/warm), **Tom** (low/slow), **Priya** (high/bright), **Marc** (low/fast), **Jo** (mid/breathy), **Ife** (high/rough), **Sam** (mid/nasal). Seeder: Marc. Drain owner: Nadia. Anchor: Sam.
+*Host has taken the suggestion in the light. Blackout at 0:00.*
 
-```
-0:00  BLACKOUT
-```
+> *(0:00–0:16 — nothing at all)*
 
-*(Silence. Fourteen seconds. Somebody in the group shifts their weight and stops.)*
+> **Coach's read:** Sixteen seconds. Note that nobody moved either — you can hear a room in which seven people are standing still, and so can an audience. This ensemble passed The Ninety in week one and is now cashing it in.
+>
+> **Alternative:** The Held Dark — 45–60 seconds of nothing before the seed. It would have bought a much more ominous frame and taught this specific audience that the show is not afraid of them. It would have cost two-thirds of a minute off a 30-minute clock and, in a room that had never seen a Bat, would have risked reading as a technical fault.
 
-> **Annotation:** Fourteen is short of the recommended fifteen-to-twenty, and it was the weight-shift that broke it, not a decision. In performance this is fine; nobody notices. In rehearsal, note the shift, because in a show it will be a nervous laugh instead.
+> **DARA:** *(a dry, breathy scrape — the side of a hand slowly across a hard flat surface. Once. Then, eight seconds later, once more.)*
 
-**MARC:** *(a single flat slap of a palm on the thigh — a wet, dead slap, low)*
+> **Coach's read:** Perfect seed. Small, repeatable, rhythmically neutral, and unmistakably *chalk-adjacent* without being literal. Dara is the designated seeder for this run so no one raced her.
 
-*(nine seconds of nothing)*
+> *(0:32)* **TOMÁS:** *(a very low, sustained room hum — the sound of a big empty hall)*
+> *(0:41)* **MEI:** *(a high, short, dry tap. Chalk hitting a floor. tk.)*
+> *(0:50)* **YUSUF:** *(a rhythm: three soft footfalls, pause, three more)*
 
-**MARC:** *(the same slap)*
+> **Coach's read:** Four layers, four bands, eight-second spacing, nobody fifth. Notice Yusuf takes *rhythm* rather than another texture. This is the Frequency Slot Auction paying off six weeks later.
 
-> **Annotation:** Correct seeding. Small, repeatable, rhythmically neutral, and he waited. Note that he chose a *sound of the thing* rather than a sound *about* the thing — this is a body hitting water, not a swimming-pool-shaped idea.
+> **MEI:** *tk. tk-tk.* *(pause)* *tk. tk-tk.*
 
-> **Alternative:** Marc could have seeded with a long high whistle-tone (a lifeguard's whistle, or the ringing of tiled reverb). That would have been more evocative and more immediately legible as "swimming pool" — and it would have cost the ensemble the *rhythm*. A sustained tone gives nobody a pulse to lock to, and this opening's motif came directly out of the slap's tempo. Rule of thumb worth teaching: **seed rhythm, not atmosphere.** Atmosphere is layer two.
+> **Coach's read:** Mei converts her single tap into the **motif** — a 2-second repeatable figure. This is the most important decision in the first two minutes and it is made without discussion, by one person simply repeating themselves until the room locks. The ensemble locks within one cycle.
+>
+> **Alternative:** Yusuf could have made the motif out of the footfalls instead. It would have bought a more human, walking-pace show and made every later callback feel like an approach. It would have cost the high-frequency brightness that makes Mei's figure cut through dialogue at low volume later — a footfall motif under a scene is much harder to hear.
 
-**JO:** *(a low, wide, hollow room tone — mouth open, throat relaxed, almost sub-vocal)*
+> *(1:35, into the gaps)*
+> **PRIYA:** Dust on the sleeve of a black jumper.
+> *(motif)*
+> **ROSA:** The squeak. The one that gets your teeth.
+> **NILS:** A hundred lines. *I must not.*
+> *(motif)*
+> **TOMÁS:** They outline a body in it, don't they.
+> **DARA:** My mother's hands were always white.
+> *(motif)*
+> **MEI:** Cliffs.
+> **YUSUF:** It's just very small animals. All of it. Millions of them, pressed.
 
-**PRIYA:** *(a very high, thin, intermittent squeak — a wet finger on tile)*
+> **Coach's read:** Eight images, none of them a synonym for chalk, each one landing in a gap. Yusuf's last is the best offer in the opening — chalk as compressed dead creatures — because it is *factually true and emotionally strange*, which is precisely the dream-symbol register. Note that "cliffs" and "small animals pressed" are one step apart, so the room is building associatively rather than randomly.
+>
+> **Alternative:** Someone could have taken "I must not" and started a chant of it under the motif right there. It would have bought an enormous, immediate group-piece energy at 1:50. It would have cost the opening its restraint and probably burned the show's best chorus material before a single scene existed. Save chants for the group pieces; the opening is a word *bank*, not a spending spree.
 
-> **Annotation:** Textbook frequency slot discipline. Low drone, high accent, and Marc's rhythm. Three slots occupied, two free, nobody has piled in.
+> *(2:20 — density rises; motif accelerates; Tomás's hum swells; Rosa and Priya overlap on "white… white… on your hands… on the sleeve… white…" for about eight seconds at full volume)*
+> **MEI:** *(hard-cuts her motif to absolute silence)*
+> *(Yusuf out. Priya out. Rosa out. Tomás's hum decays last, over three seconds.)*
+> **DARA:** *(the dry scrape. Alone. Slow. Once. Twice.)*
 
-**TOM:** *(a distant, blurred crowd murmur — the sound of voices heard underwater)*
+> **Coach's read:** The Drain and the Peel. Mei owns the drain tonight and *cuts* rather than fading, so the cue is unambiguous. High frequencies peel out first, the low hum last — that is the order that sounds like a room emptying rather than a machine breaking. Dara's scrape survives and is now the bed of Scene A.
+>
+> **Alternative:** Tomás's hall hum could have been the survivor instead. That would have bought a much bigger first location — an assembly hall, a church — and a show about institutions. It would have cost the intimacy that the scrape gives you: a scrape is a *hand*, and it puts the audience within a metre of somebody's body. My preference in a first act is almost always to peel to the smaller sound; you can always widen later, and widening is easier than tightening.
 
-**MARC:** *(slap. slap-slap.)* *(pause)* *(slap. slap-slap.)*
+> **SCENE A1 — 3:05**
+> *(the scrape continues, low, irregular. A stool leg shifts. Someone's knees crack.)*
+> **NILS:** *(high, rough, close to the floor)* Don't rub it out.
+> **ROSA:** *(mid/warm, standing, further back)* It's four days old, Aud.
+> **NILS:** Don't rub it out, Sylvie.
+> **ROSA:** *(the scrape stops)* Fine.
 
-> **Annotation:** There's the motif. Marc converted his seed into a repeatable four-second figure and the room can lock to it. Everything in the closing soundscape twenty-eight minutes from now depends on this being simple enough that all seven can reproduce it cold.
+> **Coach's read:** Room before mouth — the bed ran for eight seconds before a syllable. Both names in three lines, in two clearly separated slots. And the scrape *is the action of the scene* — Rosa was already rubbing something out when the lights went down, which means the scene began before it started. That is the cleanest possible use of a peeled bed and I would take it as the model for the team.
+>
+> **Alternative:** Nils could have entered with an approach — six audible footsteps arriving — rather than being already present on the floor. It would have bought a clearer spatial picture of two people at different depths. It would have cost the immediacy: as played, we arrive mid-conflict, which is worth more at minute three than geometric clarity.
 
-`[COACH, quietly from the side]` "Lock it."
+> **NILS:** *(a small, tight wheeze on the in-breath — his signature)* You can see the shape of it still. Look. There's her heel.
+> **ROSA:** I'm not looking at the floor of my own kitchen for the rest of my life.
+> **NILS:** *(wheeze)* It's chalk. It comes off with a wet cloth. That's all it is. *(taps the floor twice with a fingernail: tk. tk-tk.)*
 
-*(the ensemble settles onto the motif's pulse; five layers running, nobody adds a sixth)*
+> **Coach's read:** There is the motif, at 3:50, reproduced *exactly* and now diegetic — a fingernail on a kitchen floor. The audience feels the opening return without being told anything. Nils's wheeze has been installed inside twenty seconds and will be his entrance ticket in beat two.
+>
+> **Alternative:** He could have made the motif slightly different to avoid being "too neat." That would have bought nothing and cost everything — an 80%-accurate motif reads as a new sound. This is the note I give most often in weeks 6–8: **you are not being unimaginative by repeating exactly; you are being audible.**
 
-**IFE:** Chlorine.
+> **ROSA:** *(kneeling — knees, fabric, a bucket set down, water sloshing: Priya on foley from the wing, one sound, short)* Get out of the way.
+> **NILS:** Sylvie—
+> **ROSA:** *(cloth into water. Wrung. The wet slap onto the floor.)* Get *out* of the way.
+> **NILS:** *(wheeze) (pause)* …Do it slowly, then.
+> *(Rosa scrubs. Real effort — the breath goes ragged, the cloth drags. Twelve seconds of nothing but that.)*
+> **NILS:** *(very quietly, from the floor)* Start at her feet.
 
-*(motif)*
+> **Coach's read:** Exertion Mime doing the entire emotional job. Twelve seconds with no dialogue and it is the strongest passage in the run, because the audience is hearing a woman erase her daughter's outline and hearing exactly how much it costs her arm. Priya's foley is *one* sound (the bucket) and then she stops. That's the discipline.
+>
+> **Alternative:** Priya could have underscored the scrubbing with a rising low drone to signal grief. It would have bought a swell into an edit. It would have cost the scene its restraint and told the audience how to feel about something they were already feeling. **In this form, the temptation to score the emotion is enormous and almost always wrong. The bed states the place; the players state the feeling.**
 
-**SAM:** The bit at the deep end where the light doesn't go.
+> *(4:50)*
+> **ROSA:** *(scrubbing stops)* It's gone.
+> **NILS:** *(nothing)*
+> **ROSA:** Aud. It's gone.
+> *(the bed drops to almost nothing — Dara's scrape gone, just a faint room tone. Two people breathing. Four seconds.)*
+> **MEI:** *(from the far side of the stage: tk. tk-tk.)*
 
-**NADIA:** My father's watch, still on.
-
-*(motif)*
-
-**PRIYA:** Everyone's a different colour under there.
-
-**TOM:** Verruca socks. God.
-
-*(motif)*
-
-**JO:** The whistle means get out.
-
-**IFE:** *(quietly)* Somebody's counting.
-
-> **Annotation:** Seven images, all one association-step sideways from "swimming pool," none of them a synonym for it. Spoken *into* the motif's gaps — no collisions in ninety seconds, which is not luck; it's the rhythm doing traffic control. Note Nadia's "my father's watch, still on," which is an image with a *person* in it. That's the one that becomes a scene.
-
-> **Alternative:** Ife could have started the word layer with "water," and the group would very likely have followed with "swimming," "pool," "diving board" — a synonym chain. It would have cost them the entire show. The word layer is the show's raw material bank; if the words are all the same word, the ensemble has ninety minutes of scenes about swimming pools and nowhere to go. When you hear the first word of a word layer go *along*, note it in the moment: `[COACH]` "along" — the team will self-correct within two words.
-
-*(density rises: motif accelerates, Tom's murmur becomes agitated, Priya's squeak becomes continuous, voices overlap on "chlorine — the deep end — somebody's counting — get out — get out —" for eight seconds at full)*
-
-**NADIA:** *(hard-cuts her own layer to nothing)*
-
-*(Priya out. Ife out. Tom out. Jo out — over three seconds, high frequencies first)*
-
-**MARC:** *(the slap, alone. slap. slap-slap. pause. slap.)*
-
-> **Annotation:** Drain and peel, clean. Nadia's cut is unambiguous because it's a *stop*, not a fade. And crucially, the surviving sound is the *motif itself*, which means the first scene is going to be played inside the show's signature figure. That's an elegant, slightly risky choice.
-
-> **Alternative:** Jo's hollow room tone could have been the survivor instead — a more conventional peel, giving Scene A a big tiled reverberant *place* rather than a rhythm. That would have bought clearer location and cost the motif's early establishment as a diegetic thing. Both are legitimate. What is *not* legitimate is two sounds surviving; the peel is to one.
-
-*(0:20 into the peel)*
-
-**TOM:** *(from the floor, breath tight, water-slapping continues under)* Right. Feet on the wall.
-
-**PRIYA:** *(above him, closer to the audience, brisk)* Feet on the wall, Bernard, and this time don't look at me.
-
-**TOM:** I wasn't looking at you.
-
-**PRIYA:** You were looking at me the whole length.
-
-**TOM:** *(a long, wheezing in-breath through a blocked nose — his signature)* I was looking for the *end*, Denise.
-
-> **Annotation:** Room before the mouth: the bed was already running. Two-name handshake: Bernard from Priya's mouth, Denise from Tom's, in four lines. Signature sound installed at line five. Two clearly distinct slots. Physical positions differentiated — Tom is on the floor and Priya is standing, and you can hear it.
-
-> **Alternative:** Tom's first line could have been "God, this water's cold." That names the environment explicitly and would feel safer to a nervous player. It would have cost them the *activity*. "Feet on the wall" tells you it's a swimming lesson, that one of them is teaching, that there's a wall, and that something is about to be attempted — four facts in four words, and none of them describe the room, because the room was already sounding. **Coaching principle: when the bed is doing the location, the dialogue is free to do the relationship.** Most teams waste their opening lines re-describing what the bed already said.
-
-**PRIYA:** Push. *(a sudden explosive water-thrash — Jo and Ife both on it, one high splash, one low churn)*
-
-**TOM:** *(genuinely straining, breath ragged)* Nnn— *(splash, going wrong)* — nn— *(coughing)*
-
-**PRIYA:** *(closer, crouched now — you can hear her get lower)* Stand up. Bernard. Stand up, you can stand up.
-
-**TOM:** *(gasping)* I know I can stand up.
-
-*(the water settles; the room tone widens; distant crowd murmur returns very low)*
-
-**PRIYA:** *(pause)* You could stand up the whole time.
-
-> **Annotation:** Exertion mime doing the whole job — nobody said "you're struggling." Note that the foley (Jo and Ife) is two contributors, not four, and it stops the instant it's no longer needed. Then Priya's physical move to a crouch is *audible*, which lets the scene get intimate without a word about intimacy. The silence before her last line has the room tone under it at maybe 5%, so it's a hold, not a hole.
-
-> **Alternative:** At the coughing, an offstage player could have executed a hard foley cut — a whistle blast — and edited straight out. It would have been a strong, funny button and it would have cost the scene its actual content, which arrived nine seconds later. Coaching note to give afterwards: "There was a whistle available at 5:40 and nobody took it. Good. That scene hadn't happened yet." Teach the team that **the availability of a clean edit is not an obligation.**
-
-`[COACH]` "Bed keeper, thin it."
-
-*(Jo reduces the room tone by about a third over eight seconds)*
-
-**MARC:** *(offstage, downstage-left, takes the motif and turns it into a hand slapping a wet tiled floor, approaching — slap. slap-slap. slap.)*
-
-*(room tone cuts. One and a half seconds of near-nothing.)*
-
-**IFE:** *(new bed: a strip light buzzing, a mop bucket's castors, a much smaller and drier room)*
-
-**SAM:** *(nasal, tired)* Mind the wet.
-
-> **Annotation:** Match-cut edit. The palm-on-water motif became a palm on a wet floor, and the transport was free. Clean space of 1.5 seconds, and then the new bed arrives *before* dialogue. This edit carries the motif, which is the strongest of the five transport carriers this early in a show.
+> **Coach's read:** Freeze-Breath with a 5% floor under it — Dara keeps the faintest room tone alive so the four seconds read as held, not dropped. Then Mei uses the motif itself as the edit, from a completely different spatial position, which simultaneously ends the scene, transports the motif, and tells the audience the next world is *elsewhere*. That single sound is doing three jobs.
+>
+> **Alternative:** A hard foley cut — a door slam — would have buttoned the scene decisively and reset the energy upward. It would have bought pace. It would have cost this specific moment its ache; a slam on top of "it's gone" is an exclamation mark on a full stop. The chosen edit costs about two seconds of momentum and buys the whole third act, because the motif is now established as something that *follows people*.
 
 ---
 
-#### Transcript Two — A group piece and the turn into beat two (same show, 12:00–14:20)
+#### Transcript B — Same run, 19:00. Group piece 2 into convergence.
 
-**JO:** *(the room tone returns, but bigger — the empty pool at night, huge reverb)*
+*Threads so far: **A** — Sylvie and Aud, the kitchen, the outline. **B** — Mei and Yusuf as two teenagers doing lines in a detention hall. **C** — Tomás and Priya as a geologist and an insurance assessor at the foot of a cliff.*
 
-**MARC:** *(one slap. Alone. Very loud, very wet, and it takes almost two seconds to decay)*
+> *(scene C2 has just ended on Priya saying "It's not a cliff, it's a graveyard." Two seconds of air.)*
+> **DARA:** *(whispered)* Millions of them.
+> **TOMÁS:** *(whispered, three seconds later)* Pressed.
+> **YUSUF:** *(three seconds later)* Millions of them.
+> **NILS:** *(wheeze, then, whispered)* Pressed.
+> **ROSA / MEI / PRIYA:** *(entering at three-second intervals, all on the same two-beat figure, differentiated only by pitch)* "millions of them… pressed… millions of them… pressed…"
 
-> **Annotation:** The count-in. Marc has re-established the motif as the group piece's pulse, and he's given it four full seconds of space so everyone can lock on. This is the single most-skipped step in group pieces and its absence is the cause of ninety per cent of pile-ons.
+> **Coach's read:** Textbook Chorus Swarm — staggered entries, one figure, pitch-differentiated, built entirely from **existing** material (Yusuf's opening image). Note that it's whispered, because group piece 1 at minute 12 was a loud one (a hall full of scraping chairs). Contrast, not repetition.
 
-**MARC:** *(slap. slap-slap.)* *(pause)* *(slap. slap-slap.)*
+> *(the whole ensemble begins walking downstage, audibly, in slow, irregular footfalls — Yusuf's opening rhythm layer, now made of seven pairs of feet)*
+> **ALL:** *(nearest voices now roughly a metre from the front row)* "…millions of them… pressed… millions… pressed…"
+> **MEI:** *tk. tk-tk.*
+> **ALL:** *(one sharp collective inhale — then absolute silence)*
 
-**TOM:** *(joining on the pulse, low)* Counting.
+> **Coach's read:** The audience-adjacent chorus. Seven people advancing on a blind audience in pitch dark is the most physically potent move this form owns and it costs nothing but nerve. The collective inhale is a Vocal Sting used as a full stop, and it means the silence that follows has a floor under it (seven held breaths are audible as tension, not absence).
+>
+> **Alternative:** The ensemble could have *retreated* upstage instead, taking the whisper away from the audience. It would have bought a beautiful sense of the world receding and would have been the correct choice if the show's tone were elegiac rather than uncanny. It would have cost the physical thrill. Whichever you pick, **pick one and do it fully** — the failure mode is a chorus that mills about at mid-depth.
+>
+> **Alternative (structural):** Skipping group piece 2 entirely and going straight from C2 into convergence. It would have bought four extra minutes of scene material and a faster third act. It would have cost the dynamics curve its second peak, and in my experience a 30-minute Bat with only one group piece sags between minutes 18 and 22 no matter how good the scenes are.
 
-*(three seconds)*
+> *(three seconds of silence — genuinely nothing but held breath)*
+> *(19:50 — CONVERGENCE. Scene lengths now 30–60 seconds.)*
 
-**IFE:** *(joining, high, on the same figure)* Counting.
+> **ROSA:** *(kitchen room tone returns, exact)* …It's back.
+> **NILS:** *(wheeze)* Where.
+> **ROSA:** Same place.
+> *(hard cut — Mei's tk tk-tk, loud)*
 
-*(three seconds)*
+> **Coach's read:** Bed Recall as re-entry: the room tone alone puts us in the kitchen before a word. Twenty-five seconds and out. The audible signature of a third act in this form is **scene length halving**, and the ensemble is executing it.
 
-**NADIA:** *(mid)* Somebody's counting.
+> **YUSUF:** *(detention hall bed: a big empty hall hum — Tomás's opening drone, reused)* Two hundred and forty.
+> **MEI:** You're not even doing them properly. You're doing squiggles.
+> **YUSUF:** It's two hundred and forty squiggles.
+> **MEI:** *(chalk snapping — a dry crack)* …It broke.
+> **YUSUF:** Use the little bit.
+> **MEI:** *(a scrape, dry, the side of a hand across a surface — Dara's opening seed, exactly)* There's nothing left of it.
+> *(two seconds)*
+> **DARA:** *(from the dark, not in the scene, quietly)* My mother's hands were always white.
 
-**PRIYA, SAM, JO:** *(entering staggered over six seconds, same figure, differentiated by pitch)* Counting… counting… somebody's counting…
+> **Coach's read:** Two things at once. Mei reproduces the **seed sound** with her hand, twenty minutes after Dara made it, and it is unmistakable. Then Dara — offstage, uncredited, unassignable — drops her own opening line back into the show as a ghost line. The audience cannot tell whether this is a character, a memory or the building talking, and in the dark they do not need to know. **This is the exact move that is impossible in a lit show**, because in the light we would see a woman standing at the side saying a line, and we would have to place her.
+>
+> **Alternative:** Dara could have entered as a character — the mother, in the hall. It would have bought a plot connection between threads B and A. It would have cost the ambiguity, and it would have introduced an eighth voice at minute twenty-one, which is the worst possible time to ask the audience to expand their lookup table.
 
-> **Annotation:** Staggered entries, three seconds apart, all on the *same* rhythmic figure. Compare this to the pile-on version, where all seven enter within two seconds on seven different figures. The material is 100% recycled — "somebody's counting" was Ife's word from the opening at 2:50.
+> *(hard cut — Priya's assessor voice, mid/nasal)*
+> **PRIYA:** Nobody's disputing that a person was there.
+> **TOMÁS:** *(low/slow)* I'm disputing what a person is.
+> **PRIYA:** Doctor—
+> **TOMÁS:** Give it four hundred thousand years and she's a cliff. *(pause)* That's not grief, that's a timescale.
+> *(the cliff wind bed swells — Rosa and Nils both on it — and swallows him)*
 
-*(builds for eighteen seconds; the counting fragments into actual numbers, overlapping, all on the pulse)*
+> **Coach's read:** A soundscape swell used as an edit at the exact right moment: the scene has said its thesis and is now vulnerable to going on. Two keepers on the swell, which is legal because dialogue has ceased.
+>
+> **Alternative:** Letting the line hang in silence and hard-cutting to the kitchen would have been sharper and cheaper. It would have bought contrast. The swell costs six seconds — the most expensive edit in the form — but here it buys the *transition into the closing*, because the wind can now thin down into the room tone of the kitchen without a break. Expensive edits should be paid for by what comes next.
 
-**ALL:** *(overlapping)* "…forty-one… forty-two… twelve… twelve… ninety… forty-three…"
+> **ROSA:** *(kitchen, the wind thinning into room tone)* Aud, come down.
+> **NILS:** *(from below floor level, very close to the audience, whispering)* I'm not upstairs.
+> *(silence — three seconds)*
+> **ROSA:** …Where are you.
+> **NILS:** *(wheeze) (tk. tk-tk.)*
 
-**PRIYA:** *(cutting across, alone, at full volume)* **OUT.**
+> **Coach's read:** The reality dial, turned at minute twenty-four and not before. Nils has physically lain down at the downstage edge; his voice comes from below and in front of the audience while Rosa's comes from mid-stage. Nobody has said anything supernatural. The *geometry* is what's wrong, and geometry is something this form can state and a lit stage cannot.
+>
+> **Alternative:** Nils could have said "I'm in the floor." It would have bought clarity for anyone who missed the spatial cue. It would have cost the whole effect — the audience's own conclusion is worth ten times the line. My standing note: **in the dark, let the audience be the one who says the frightening thing, in their head.**
 
-*(everything stops dead. Two seconds of absolute nothing.)*
-
-> **Annotation:** A vocal sting as a full stop. The whole ensemble hard-cut on a single word, which they can only do because they drilled it. Two seconds of nothing after a peak is enormous in the dark.
-
-> **Alternative:** Instead of the hard stop, the group could have *drained* into the next scene — peeling out over four seconds, leaving one sound as a bed. That is the gentler, more musical move, and it would have bought a smoother transition into beat two while costing the shock. Which you want depends entirely on where you are on the dynamics curve. Here, the show had been mid-loud for four minutes and needed a wall, not a slope. **Teach the team to make this choice by asking one question: has the audience had a shock in the last five minutes?**
-
-*(2.5 seconds of silence)*
-
-**MARC:** *(a single slap — but now it's soft, and it's a hand on a shoulder)*
-
-**JO:** *(a small bed: a car interior, rain on a roof, an engine off, the tick of cooling metal)*
-
-**TOM:** *(the wheezing in-breath)*
-
-> **Annotation:** Beat two entry via signature sound. The audience knows Bernard is in the car before a word. Note the bed *changed the whole acoustic register* — from vast tiled reverb to a tiny padded box — which in this form is the equivalent of a full set change and costs one second.
-
-**PRIYA:** *(very close, small)* You can't tell them.
-
-**TOM:** *(sniff)* I'm not going to tell them.
-
-**PRIYA:** You'll tell them by Tuesday.
-
-**TOM:** *(long pause; rain; the tick of the engine)* He was counting. That's the bit I can't— he was counting out loud the whole way down.
-
-> **Annotation:** Bed recall in reverse — this is a *new* location for the A thread, which is the correct way to say "later, elsewhere, and something has changed." And "counting" is the transport: the group piece's word arrives in the scene loaded with everything the group piece did to it. The audience doesn't analyse this; they just feel that the show is about something.
-
-> **Alternative:** The team could have returned to the pool bed exactly — a straight bed recall — for a scene at the same location later that day. Cheaper, cleaner, and the audience recognition would have been instant. What it would have cost: the sense of *consequence*. Bed recall says "we're back." A new bed for a known pair says "time has passed and it has cost them something." Both are correct moves; the second is the beat-two move.
+> *(24:40 — the ensemble, one by one, picks up the room tone. Mei starts the motif alone. The closing has begun without anyone deciding it had.)*
 
 ---
 
-#### Transcript Three — A run that goes wrong, and the repair, in real time
+#### Transcript C — A run that goes wrong, and the repair, in real time
 
-Week seven, full run, suggestion: "moths." Cast of seven. This is transcribed from the recording, and the repairs are all executed by the players, not the coach — that is the point of showing it.
+*Week 6, second dark rehearsal. Suggestion: "swimming pool." This is 9:00 into a 20-minute part-run. Thread A (Rosa and Tomás, a poolside argument) has been running for four minutes.*
 
-```
-0:00  BLACKOUT
-```
+> **ROSA:** …and I'm just saying it's not about the membership.
+> **TOMÁS:** It's about the membership.
+> **ROSA:** It's not about the membership.
+> **DARA:** *(from the wing, a lane-rope slap)*
+> **PRIYA:** *(a distant whistle)*
+> **MEI:** *(children shrieking, far off)*
+> **YUSUF:** *(a low tiled-room reverb hum)*
+> **NILS:** *(splashing)*
 
-**SAM:** *(at 0:03, a fluttering lip-trill)*
+> **What just happened:** five simultaneous offstage contributors. Every one of them is *appropriate to a swimming pool*, which is why it happened — this is never a failure of taste, it is a failure of arithmetic. The dialogue is now inaudible. This is the Audio Pile-On and it took nine seconds to build.
 
-**IFE:** *(at 0:04, a high whine)*
+> **YUSUF:** *(kills his hum, completely)*
+> **MEI:** *(kills the children)*
+> **NILS:** *(kills the splashing)*
+> *(remaining: lane rope, distant whistle)*
 
-**MARC:** *(at 0:04, a low hum)*
-
-**PRIYA:** *(at 0:05, a scrape)*
-
-**JO, NADIA, TOM:** *(at 0:06, three unrelated sounds)*
-
-> **What went wrong:** Everybody in by six seconds. No settle, no seed, no slot discipline, seven layers. Sam jumped because silence in the dark is unbearable when you're nervous, and the rest followed because a rushing sound feels like a train you have to catch.
-
-**Repair, executed at 0:11 by Nadia:** *(she stops dead, completely)*
-
-*(within two seconds, Tom stops. Then Jo. Then Priya.)*
-
-**MARC:** *(holds the low hum, unchanged)*
-
-**IFE:** *(drops the whine, waits four seconds, re-enters with a single high tick, intermittent)*
-
-> **How the repair worked, and why it's the one to teach:** No one announced anything. Nadia applied the single most useful in-show reflex in this form — **when the mix is broken, subtract yourself** — and the ensemble read the subtraction as a cue, because in the dark a stop is as legible as a start. Within eight seconds they were at three layers with a clear low, a clear high, and space. The recovery is audible on the tape as a *deliberate* thinning, not as a collapse.
+> **The repair, part one:** three players applied the standing rule — *when you can hear three or more layers, be the one who stops.* Note that they cut, they didn't fade, and they did it inside two seconds. Nobody waited to find out who was "meant" to be on the bed. This is the single most valuable reflex in the form and it is entirely drillable (Drill 21).
 >
-> The team's standing rule after this run: **if you can hear four things, you are one of them.** Whoever counts to four first stops. Nobody negotiates. Two people stopping is fine; the mix survives two people stopping and does not survive nobody stopping.
+> **Alternative:** Rosa or Tomás could have raised their volume to cut through. It would have bought two more lines of audibility. It would have cost the scene's entire register — you cannot argue quietly about a marriage while shouting — and it would have taught the sound department that piling on is survivable. **Never let the scene players solve a pile-on. The layer that arrived last should leave first.**
 
-> **Alternative:** Somebody could have tried to *lead* — establishing a loud clear pulse over the top and pulling the group onto it. Occasionally this works and it is thrilling when it does. But it requires being the loudest thing in a room that is already too loud, which pushes the mix up rather than down, and if two people try it simultaneously you now have a wall of noise with two conductors. **Subtract first, lead second.** Teach the subtraction as the default and reserve the pulse-grab for a player who has proved they can do it.
+> **PRIYA:** *(one more distant whistle, then stops — leaving Dara alone on the lane rope)*
+> **ROSA:** *(back at normal volume)* …It's about the fact that you booked it without me.
+> **TOMÁS:** *(a beat)* Yeah.
 
-*(the soundscape recovers; a motif emerges at 1:30 — Ife's tick, in a group of three: tick-tick-tick)*
+> **The repair, part two:** Priya reads that two layers is still one too many for a scene this intimate and removes the whistle, leaving a single slow lane-rope slap as the bed. Tomás's "Yeah" is smart repair craft — he takes the pause that the chaos created and *uses* it as a concession, so the mess is retroactively absorbed into the scene's emotional life. The audience files those nine seconds as "the pool was busy."
 
-**PRIYA:** Porch light.
+> *(11:20 — the scene has now been running six minutes and has been over for two. Nobody edits.)*
+> **DARA:** *(thins the lane rope by about a third and slows it)*
+> *(nothing happens — no one takes the invitation)*
+> **DARA:** *(waits ten seconds, then executes: a hard, close, flat slap of a palm on a thigh — a body hitting water)*
+> **YUSUF:** *(simultaneously, from the other side)* "shhhWOO—"
+> *(both stop)*
+> *(1.5 seconds of nothing)*
 
-**JO:** Wool.
+> **What just happened:** the Endless Scene, then a double edit, then the worst version of the recovery — both players shrank. The audience now hears a mistake.
 
-**MARC:** Dust on your fingers.
+> **DARA + YUSUF:** *(both, immediately, together, escalating: a full-ensemble-sized crash of water, Yusuf's wipe stretching into it, three seconds, enormous)*
+> **MEI, NILS, PRIYA:** *(joining the crash on hearing it — a chorus swallow)*
+> *(the crash decays over two seconds into: a single dripping tap in a tiled room)*
+> *(clean space — 1.5 seconds)*
+> **NILS:** *(high/rough, close, echoing off tile)* Everyone out. Everyone out of the water.
 
-**NADIA:** Moths.
-
-> **What went wrong:** Nadia said the suggestion itself. In the dark, the suggestion word is the one word the audience is already holding; saying it aloud in the word layer adds nothing and signals that the team is out of associations.
-
-**Repair, executed immediately by Sam:** The thing my grandmother said was the soul of somebody.
-
-> **Annotation:** Sam took the dead word and gave it a body and a speaker — turning a nothing-offer into the show's best image. This is the second key in-show repair: **you cannot delete a bad offer in this form, because it's already in the audience's head; you can only make it mean something.** Additions are free; contradictions are fatal. Sam added.
-
-*(peak, drain, peel — the tick survives)*
-
-*(2:50)*
-
-**TOM:** *(no bed has been handed over; the tick is alone and very sparse)* So what did the doctor actually say?
-
-**PRIYA:** He said it's probably nothing.
-
-**TOM:** Probably nothing.
-
-**PRIYA:** Probably.
-
-*(forty seconds pass with two voices, one tick, and no location of any kind)*
-
-> **What went wrong:** Two errors compounding. The peel left a sound so sparse it wasn't a bed, and Tom initiated with a talking-heads exchange that could be anywhere. This is the pure floating-voices failure, and the recording is unlistenable — you can hear the audience's imagination getting no purchase.
-
-**Repair, executed at 3:38 by Jo, from offstage:** *(a fluorescent tube's hum and tick, then a distant tannoy, muffled and unintelligible)*
-
-**TOM:** *(taking it instantly)* …Are we allowed to sit down here? Or is this a corridor.
-
-**PRIYA:** It's a corridor with chairs in it, Ruth. That's what a waiting room is.
-
-> **Annotation:** Three things to teach off this repair. **One:** Jo did not ask permission or wait for a gap; she built a room *underneath* dialogue that was already running, which is always legal and always welcome. **Two:** she chose a bed consistent with what had already been said ("the doctor"), so it read as revelation rather than contradiction. **Three:** Tom *acknowledged the new information in his very next line* and Priya's response delivered a name, the relationship's texture and the location in eleven words. The scene went from a void to a place in nine seconds.
+> **The repair, part three — the important one:** the "Commit Both" recovery. When two edits collide and neither yields in time, the only legal move left is for **both to get bigger together** and let the collision become the transition. Three more players heard the escalation and joined, converting an accident into a chorus swallow. The show now has a group sound piece it did not plan, arriving at minute eleven and a half, which is *exactly where a group piece belongs*.
 >
-> The standing rule the team wrote after this: **any offstage player may build a bed under a bedless scene at any time, without invitation, and the scene players must accept it in their next line.** This is the single most useful house rule I know for this form.
-
-> **Alternative:** Tom could have repaired it himself — "God, these hospital chairs" — which is faster and costs nothing but puts the location in the *dialogue* rather than in the *world*. It works, and it is the emergency version. It is weaker because a location stated in words decays in about thirty seconds without sonic reinforcement, whereas a fluorescent hum carries indefinitely. Teach both, and teach the priority: **someone offstage fixes it with sound; if nobody does within fifteen seconds, the scene players fix it with words.**
-
-*(6:20 — the scene has been running four minutes and has said what it has to say)*
-
-**JO:** *(thins the fluorescent hum by a third over eight seconds)*
-
-*(nothing happens for twelve seconds)*
-
-**MARC and IFE:** *(both begin an audio wipe simultaneously)* "shhhWO—" / "shhhWO—"
-
-*(both stop dead)*
-
-*(1.8 seconds of nothing)*
-
-> **What went wrong:** The endless scene, then the collision, then — worse — the double-stop. Both players applied the collision protocol at the same instant, which is the protocol's one failure mode.
-
-**Repair, executed at 6:34 by Ife:** *(re-commits, alone, at nearly double the previous volume)* "**shhhWOOOP**"
-
-*(clean space, 1.5 seconds. Marc starts the new bed.)*
-
-> **Annotation:** The correct recovery from a mutual stop is for **one player to re-commit bigger**, immediately, without hesitation and without apology in the tone. The audience hears one slightly emphatic edit, not a mistake. Ife's instinct — the second player to speak after the stop wins the floor — is the convention I recommend teams adopt explicitly, because "whoever moves first" is a race and "whoever is braver" is a hierarchy. Make it a rule so nobody has to decide.
+> **Alternative:** They could have both stopped and let one of them re-attempt the wipe alone two seconds later (which is what happened the first time, and which reads as a stumble). It would have cost the audience's confidence for about thirty seconds. The escalation costs nothing and buys a structural unit.
 >
-> Note also what didn't happen: nobody laughed. Offstage corpsing after a collision is the thing that actually tells the audience something went wrong. The edit itself is recoverable; the giggle is not.
+> **Alternative:** Dara alone could have carried on and Yusuf killed his within a quarter second — the correct move, if either had heard the other a beat earlier. Drill it (Drill 12) so that this is the *first* answer and "commit both" is the fallback.
 
-> **Alternative:** Both could have re-committed and merged into one larger sound — a bigger, messier wipe. This is legitimate and it's the version I'd drill for teams whose problem is timidity rather than collision. It costs precision and buys energy. Never teach both as equally available in the moment; pick one as your team's convention and drill it, because in the dark you cannot negotiate which convention you're using.
+> **ROSA:** *(from the previous scene, still present, quietly, into the new room)* …Is it him?
+> *(three seconds of the dripping tap)*
+> **NILS:** Everyone *out*.
 
-*(14:00 — a callback attempt)*
+> **The repair, part four:** Rosa carries a single line across the edit — a voice-jump — which means the accidental transition also carries information between threads. Two minutes ago this was a broken run; it is now a run with a chorus swallow and a thread-crossing at minute twelve. The audience never knew.
 
-**SAM:** *(trying to bring back the opening motif — two ticks, slightly slower, slightly lower)*
+**What I said to the room afterwards, verbatim, and in this order:**
 
-*(nothing. No one responds. The scene continues over the top.)*
-
-> **What went wrong:** Approximate callback. The motif was three ticks at a specific tempo; Sam produced two at a different one. The ensemble didn't recognise it, so nobody supported it, so it died in public.
-
-**Repair, executed at 14:20 by Ife:** *(three ticks, at the exact original tempo and pitch)*
-
-**SAM:** *(immediately taking it back, now correct)* *(tick-tick-tick)*
-
-**NADIA:** *(in scene, stopping)* …Turn the porch light off.
-
-> **Annotation:** Ife *corrected the callback by performing it properly*, which is the only available repair in this form — you cannot say "no, it goes like this." The team's rule after this run: **if you hear a callback attempt that's wrong, do it right, immediately and once.** Sam then had the presence to abandon his version and copy Ife's, which is the ego dissolution the form is famous for, working in real time under pressure.
->
-> The rehearsal-level fix is upstream: run **Memory Bank** and, if a motif can't be reproduced cold by three players, simplify it until it can. Three ticks was borderline. Two ticks would have been safer.
+1. "Three things went wrong tonight and all three were repaired inside two seconds, and I want to talk about the repairs first."
+2. "Pile-on at nine minutes: five of you, all correct, all at once. Yusuf, Mei, Nils — you three killed yours before I could open my mouth. That's the show."
+3. "Endless scene at eleven twenty. That's on the whole offstage group, not on Dara. She thinned the bed for ten seconds and nobody took it. **If you hear a bed thin, that's an invitation and it expires.**"
+4. "Double edit, both shrank, then both committed. The second version is the right one. Let's not need it — we'll run the collision drill ten times on Thursday — but when we do need it, that's what it sounds like."
+5. "Rosa carrying the line across the crash: that's the best structural choice anyone made tonight and I genuinely don't know whose idea it was, which is the correct state of affairs."
 
 ---
 
 ### Feedback and Notes Rubric
 
-Score each dimension 1–5 off the **recording**, not off memory. Give three notes maximum per session and always name the timestamp.
+Score by ensemble, not by person, except where a dimension is explicitly individual. Give the score, then the exact note. Do not soften and do not decorate.
 
 | Dimension | What a 1 looks like | What a 3 looks like | What a 5 looks like | Exact note language to use |
 |---|---|---|---|---|
-| **Bed discipline** | Scenes have no ambience, or it arrives after the first line | Every scene has a bed, started before dialogue, held steady | Beds are handed off invisibly, evolve with the scene's emotion, and *change* to indicate time passing | "Listen to 4:10. The line lands before the room does, and I'm nowhere for eight seconds. Room before the mouth, every time." |
-| **Bandwidth / three layers** | Four-plus simultaneous elements for long stretches; dialogue masked | Three layers held most of the time; occasional four-layer spill at transitions | Never exceeds three; the ensemble visibly *subtracts* when density rises; group pieces are the only exception and they're framed | "From 9:00 to 9:40 I count four things and I can't hear the scene. Whoever hears four should be one of the things that stops." |
-| **Voice discipline** | Registers drift; two characters share a slot in one scene | Slots hold for a whole scene; some drift by minute twenty | Slots hold for thirty minutes; a returning voice is recognised before any name; a shared voice is used as a deliberate reveal | "The character at 18:00 is in a different register from the same character at 6:00. Anchor it physically — jaw, chest — because it's fatigue, not choice." |
-| **Edits and clean space** | Missed edits, double edits, no gap after the cut | Clean single edits with a real clean space; mostly wipes and swells | Varied vocabulary; at least half the edits carry a transport (sound, word, voice, bed, motif); indistinguishable from content | "Six of your nine edits carried nothing. An edit that carries nothing is a stop and a start. Find the object that's in both rooms." |
-| **Physicality and exertion** | Talking heads; no breath, no contact sound | Some exertion; activity audible in most scenes | You can hear bodies, weight, surfaces, distance; effort costs the voice | "Nobody's carrying anything at 11:30. You said it was heavy in a completely relaxed throat. Do it for real; the breath is the object work." |
-| **Dynamics** | Flat conversational for the whole run | Some contrast; group pieces louder than scenes | A drawable curve; contrast every 60–90 seconds; a whispered passage and a close passage as well as loud ones | "Draw me the volume graph of that run. It's a line. Three scenes at the same level in a row means we're asleep by minute eighteen." |
-| **Memory and callbacks** | Callbacks approximate; nothing recurs | One or two motifs return, roughly | Multiple sounds reproduced exactly across thirty minutes by any player; recall is instant | "That callback at 21:00 was two taps and the original was three. The room heard a new noise. Reproduce, don't reference." |
-| **The frame** | No motif in the opening; no closing soundscape, or a brand-new one | Motif exists; closing exists but includes new material | Closing is a precise index of the show; drain owned; last sound is the *right* sound; three seconds of silence held | "The closing had a lovely new sound in it. Nothing new after 26 minutes. The closing is the show's index, not its encore." |
-| **Ensemble yielding** | Collisions, double-stops, audible negotiation | Collisions resolved within a second | No collisions; nobody can say afterwards who decided anything | "Two half-edits at 6:30 and then a hole. Whoever's second to stop, re-commit louder. Decide that convention now, not in the show." |
-| **Use of the dark** | The dark is a constraint being coped with; visual habits leaking through | The dark is a novelty being enjoyed; a lot of foley | The dark is a tool: intimacy, scale, dread, surrealism, and the piece couldn't exist lit | "Nothing in that run needed to be in the dark. Where's the whisper from a metre away? Where's the thing we'd never believe with the lights on?" |
-| **Safety and contract** | Collisions; someone touched without agreement; boundaries not stated | Stated and mostly observed | Stated aloud every session; anchors used; no incidents; nobody plays tentatively | "Two bumps tonight. That's not a note about art. Anchor points at the top of every run and hum on every cross." |
+| **The Settle & Opening Silence** | First sound inside 3 seconds of blackout; nervous fill | 8–12 seconds of held silence, then a clean seed | 15–20 seconds of genuinely still, breathing silence; the audience audibly settles into it | "You spent your best silence at second two. Nobody breathes for fifteen. Dara seeds, and only Dara." |
+| **Soundscape architecture** | Seven layers in six seconds; no motif; churn | One seed, spaced layers, a motif emerges late | Seed, spaced layers, locked motif by 1:30, word layer in the gaps, peak under 10 seconds | "There's no figure in it. Somebody lock two-to-four seconds and repeat it until we all arrive." |
+| **The Peel** | Full stop, then cold dialogue | One sound survives but the scene starts before it settles | A live bed is handed over and the scene begins *inside* it, mid-action | "The scape ended with a full stop. One sound survives the drain. Always. Whose?" |
+| **Bed discipline** | Scenes have no bed, or the bed starts after line one | Bed before mouth, held steady | Beds evolve to carry time and emotion; handoffs are invisible; a bed change tells us hours have passed | "Room before mouth. Three seconds. Every scene, no exceptions." |
+| **Three-layer bandwidth** | Regular pile-ons; four-plus layers routine | Occasional fourth layer, corrected within a few seconds | Never more than three; the fourth person to arrive replaces rather than adds, instantly and silently | "Five of you were right and it made one wall of nothing. Last in, first out." |
+| **Foley economy** | Two-minute solo sound effects; unrequested noises | Named objects sounded promptly; some decoration | Roughly one object sound per 30 seconds, each one naming a material and serving a line | "Foley is punctuation. You wrote a paragraph of commas." |
+| **Materiality** | Generic noises; you can't tell wood from tin | Materials distinguishable when named | The sound of an object contradicts what a character says about it, and that's the scene | "That's a noise. What's it made of? Make me hear the tin." |
+| **Physicality / Exertion** | Players stand still and describe activity | Effort audible in breath and contact | You can hear posture, weight, floor surface and fatigue; dialogue is interrupted by effort | "I can hear that you're standing up comfortably. Get down on it and let it cost you." |
+| **Voice discipline** | Registers drift; two characters share a slot in one scene | Slots held per scene; occasional drift late on | Slots hold across 30 minutes; a voice returning in a new thread is used as a deliberate reveal | "You started high-rough and finished as yourself. Anchor it to your jaw, not your mood." |
+| **Signature sounds** | None, or unreproducible | One or two characters have one | Every recurring character is identifiable by a sound before they speak | "Give her one noise she owns. Small enough that three of us could copy it." |
+| **Sonic editing** | Missed edits; endless scenes; silent shifts | Clean wipes and swells with a proper clean space | A varied vocabulary; match-cuts and object handoffs; edits carry theme | "That edit carried nothing — it was a stop and a start. What travelled?" |
+| **The clean space** | First line lands inside the old picture | 1–2 seconds most of the time | Gap length is *chosen* — half a second for comedy, three for a tonal shift | "Short. Let them put the last room down." |
+| **Movement / spatial map** | Teleportation; players clumped mid-stage | Crosses are sonified; some depth used | The stage picture is drawable; depth and direction are used as camera moves | "You moved silently and the map broke. Move audibly or don't move." |
+| **Dynamics** | Forty minutes at conversational level | Some contrast between beats | A planned curve; group pieces contrast each other; novelty every 60–90 seconds | "Three units at the same size in a row. Next one is a whisper or a swarm — decide by doing it." |
+| **Memory / callback precision** | Approximate callbacks that die | One or two motifs reproduced accurately | Multiple motifs, exactly reproduced by any player, across 30 minutes | "Eighty per cent right is zero per cent right. Three taps, not four." |
+| **Silence handling** | Every gap filled; or true zero that reads as a fault | Two-second pauses with a floor | Four to six seconds held with a 5% bed under it, and the room stops breathing | "Never let the bed hit zero unless you mean it. Five per cent is the floor under the pause." |
+| **Structure / the frame** | No closing scape; a fade-up on nothing | A closing scape exists; some new material sneaks in | The closing is a precise index of the show, drains to one sound, three seconds held, snap up | "Nothing new in the ending. If we didn't make it tonight, it doesn't go in." |
+| **Convergence** | Three more normal-length scenes; nobody collides | One thread crossing; scenes shorten a bit | Scene lengths halve; voices cross threads; beds bleed; the piece audibly tips over | "Nobody dared collide. Somebody walk into the wrong room." |
+| **Use of the dark** | The dark is a constraint being coped with | The dark is a novelty being enjoyed | The dark is the subject — intimacy, scale, dread, geometry the light can't do | "That scene could have been done with the lights on. What did the dark buy?" |
+| **Ensemble yielding** | Polite mutual trail-offs; collisions read as errors | Yields are fast; recoveries are decent | Nobody collides; nobody can say afterwards who decided anything | "You both got smaller. Get smaller *or* get bigger together — never both smaller." |
 
-**How to give notes on this form without flattening the players.**
+#### How to give notes on this form without flattening the players
 
-1. **Play the tape before you talk.** Fifteen minutes of listening back with nobody speaking is worth an hour of notes. Ninety per cent of the notes will be given by the recording itself, and self-diagnosed notes don't wound.
-2. **Address the mix, not the mouth, for everything except safety, slots and assigned roles.** "At 9:00 there were four things" is a note the whole room can act on. "Priya, you were the fourth thing" is technically more precise, less useful, and it teaches Priya to be quiet forever rather than to count. If a specific player has a persistent habit, take it to them privately between sessions, not in the room.
-3. **Never praise a specific sound in the group note.** This is counter-intuitive and important. The instant a player learns that a particular noise gets director-praise, they start playing for identifiability, get louder, and the pile-on begins. Praise *the room* ("the crawlspace was genuinely frightening") and praise *behaviours you want repeated* ("somebody subtracted at 0:11 and saved the opening — that's the reflex"), and let the individual credit stay unassignable, exactly as it is for the audience.
-4. **Note in the form's own vocabulary.** "Room before the mouth," "subtract yourself," "reproduce, don't reference," "who owned the drain." Shared, short phrases are usable at speed in the dark; paragraphs are not. Your notes vocabulary should be small enough to fit on the quick reference card.
-5. **Rank your notes by cost of failure, not by how much they annoyed you.** Order: safety → contract → bandwidth → bed → voice → edits → everything else. A team that fixes bandwidth fixes six other things for free.
-6. **Give one note that is a permission, not a correction, every session.** "You are allowed to do nothing for four minutes." "You are allowed a ten-second silence." "You are allowed to hand your joke to someone else." This form is unusually punishing for anxious players, and a permission does more work than a prohibition.
-7. **Do not note the writing much.** In the dark, the technical layer determines whether the writing is even perceptible. A team with clean beds and clean edits will write better next week without you saying anything about content, because they'll finally be able to hear each other.
-8. **End every notes session with the inventory.** Each player states their slot and their role for next time out loud. It's a closing ritual, it takes ninety seconds, and it converts notes into commitments.
+**Note the ensemble, not the individual, by default.** Because credit is unassignable in performance, assigning it in the notes session actively damages the thing you're building. My rule: **four out of five notes are addressed to "the room."** "The bed arrived after the dialogue three times tonight" does the work without producing a person who feels caught. Reserve named notes for (a) safety, (b) voice slot ownership, which is inherently individual, and (c) genuine praise for a *self-sacrificing* choice, which is the one thing worth naming publicly because it's the behaviour you most want copied.
+
+**Note the sound before the scene.** Improvisers will always want to discuss the writing. If the bed was late and the callback was approximate, the writing conversation is premature — the audience didn't hear the writing. Fix the channel, then discuss what went down it.
+
+**Give notes in the dark, at least half the time.** Turn the lights off, sit the cast down, and talk. Two effects: the note is received in the medium it applies to, and the players cannot see each other's faces receiving criticism, which measurably lowers defensiveness in my experience of running these rooms. It also stops you from watching them react, which makes you say the plainer thing.
+
+**Never say "too much."** Say the number. "That was five layers" is a fact. "You were doing too much" is a character assessment, and in a form built on generous support it lands as "your generosity is a problem," which is corrosive. Arithmetic is kinder than adjectives.
+
+**Take one note per player per session, maximum, and make it a *habit*, not an *instance*.** "Anchor your register to your jaw" is workable for six weeks. "Your voice slipped in scene four" is a receipt.
+
+**End on reproduction, not reflection.** Finish every debrief with the Cold Reproduction gauntlet — everyone makes tonight's sounds. It converts the notes session from an evaluation into a rehearsal, and the last thing the cast does together is a group act, in the dark, that nobody can be graded on.
 
 ---
 
 ### Individual Skill Development
 
-| Player type | What they bring | How this form punishes them | What to work on | Their drill | Their private note |
+| Player type | What they do well here | What the form exposes | What to work on | Their drill | The note that lands |
 |---|---|---|---|---|---|
-| **The strong initiator** | Scenes start, energy arrives, nothing dies of hesitation | They initiate into the void — dialogue before bed, name before room — and their speed means they win every collision, so the ensemble stops offering | Waiting; initiating with *sound* rather than dialogue; deliberately losing collisions | **Cold Beds** (they may only *start beds*, never enter scenes, for a full session) plus **The Yield Drill** with an instruction to lose ten of fifteen | "You are the fastest person in the room and in this form fast is a cost. Your new job is to make the room, not to be first in it. If you start three of eight scenes tonight, that's two too many." |
-| **The great support** | Beds, foley, the entire environment, uncomplaining | They are so good at the bed that they end up holding it for thirty minutes, are never in a scene, and the team unconsciously lets them; also, being unassignable, their contribution is invisible even to the ensemble | Taking scenes; initiating; being the drain owner and the seeder, which are high-status structural jobs | **Two-Name Handshake Sprints** with them in every pair, plus a rotation rule: nobody may hold a bed twice in a row | "The show cannot exist without what you did. That is a real sentence and also a trap. You're seeding next week and you're in the A thread. The bed will survive without you." |
-| **The shy one** | Careful listening, exactness, no clutter | The dark should liberate them and often does — but they can also disappear completely, because silence is free here and nobody can see them not participating | Existence-by-emission; occupying a frequency slot deliberately; entering scenes on a bed rather than on a line | **Frequency Slot Ladder** (they must take a named slot every round) and **Blindfolded Pass the Sound** with a ration: everyone takes exactly two | "The dark is on your side. Nobody can see you, which means nobody is judging the shape of your face while you decide. But if you make no sound you are not in the show. One sound. Small is fine. Small is better." |
-| **The scene hog** | Commitment, drive, willingness to carry | The form removes their tools — they cannot mug, cannot stand centre, cannot get credit — so they compensate with *volume and frequency of speech*, which is the exact behaviour that breaks the mix. Their instinct is to fill silence | Yielding; holding a bed; handing away lines; tolerating a ten-second hold | **Hold the Silence** with them as the bed keeper every round, plus a run in which they may speak dialogue in only two of eight scenes | "You can't be seen here, so you're getting louder to be *heard*, and it isn't working — the audience doesn't know it's you and never will. The only way you win in this form is if the show is good. That's the whole deal and it's a good deal for you." |
-| **The analyst** | Structure, callbacks, pattern, they know where the show is | They narrate structure instead of playing it; they wait to identify the correct move and the moment passes; in the dark, thinking looks exactly like absence | Acting on the first instinct; sensory rather than conceptual association; making a sound *before* deciding what it means | **Dream Symbol Association** with a hard one-second response rule, plus **Match-Cut Chain** (which rewards their pattern brain while forcing immediate physical output) | "You're right about the show. You're right about it four seconds after it would have helped. Make the sound and find out what it was afterwards — in this form the sound is the thought." |
-
-**Two more worth naming, because most teams have them:**
-
-- **The virtuoso foley player.** Genuinely gifted at noise, and therefore the single greatest threat to the form after the pile-on. Put them on **The Foley Diet** at three sounds per scene, and give them the highest-status structural jobs (drain owner, closing soundscape lead) so their skill is spent on the frame rather than on solos. Note: *"You can make any sound in the world, so you're the only person here who has to be disciplined about it. Six sounds. Choose the six."*
-- **The nervous laugher.** Corpses offstage, which the audience hears. Not a character flaw; a physical response to darkness and tension. Fix physically: position them at the side of the stage in the acoustic world (not behind, where they feel offstage), give them a bed to hold at all times so their breath is occupied, and let them know that a hand over the mouth is invisible and entirely allowed.
+| **The strong initiator** | Never dead air; will always start a bed or a scene; invaluable in the convergence | Initiates *over* other people's incipient offers, because in the dark they cannot see the person who was about to go. Also tends to seed the opening prematurely | Latency. Learning that the eight-second gap is a *move*. Learning to initiate a **bed** rather than a scene as their default offer | **Seed and Wait** (Drill 3) with a personal rule: they may never be the first or second layer for three weeks. Then **Cold Beds** (Drill 7), where their job is to offer environments other people fill | "Your instinct is right and it's two seconds early. Offer a room instead of an idea, and let someone else walk into it." |
+| **The great support** | The backbone of the form: beds, foley, staggered chorus entries, invisible handoffs | Two risks. First, they never take a scene, and this form lets them hide *productively*, which is more insidious than hiding lazily. Second, they are the likeliest source of the pile-on, because their instinct is always to add | Taking the dialogue layer at least twice per run. And subtraction: learning that *stopping* is the highest form of support here | **Hand-Over-Mouth** (Drill 21) in the removal round, plus a standing rehearsal quota: they must play the A-thread in every second run | "Your best move tonight was stopping. Your job for the next month is to be in the scene, not around it." |
+| **The shy one** | Often the best listener in the room; their offers are usually the most specific | They vanish. In the light, a quiet player still occupies space; in the dark, a quiet player literally ceases to exist, so shyness converts directly into absence | Sub-dialogue: breath, hums, small object sounds that renew presence without requiring a line. This is the perfect on-ramp — it's *presence without exposure* | **Exertion Mime** (Drill 9) alone in the dark, where nobody can see them and the sound is the only performance. Then the **Signature Sound Installation** round of Drill 18 | "You don't have to talk to be in it. Breathe in the scene, shift your weight, touch something. That's a line." |
+| **The scene hog** | Energy, drive, willingness | The form removes their tools — they cannot mug, cannot hold centre, cannot get bigger physically. Their compensation is to get *louder and more frequent*, which is the fastest way to wreck a Bat. Also, they tend to re-explain the scene | Frequency management, and the discovery that the bed is a lead role. Genuinely: give them a five-minute bed and tell them the audience will experience it as the entire world. It's true, and it usually converts them | **Dynamics Assignment Run** (Drill 22) where they are only ever assigned WHISPER-CLOSE and SPARSE-SLOW; plus **Bed Handoff Relay** (Drill 8) with them holding rain for four minutes | "Nobody can see you and nobody will know it was you. That's not a punishment, it's the deal. Take the bed and be the whole room." |
+| **The analyst** | Superb at structure, transport carriers, dynamics curves; the person who notices at minute 22 that the closing needs starting | Thinking is audible as hesitation. They arrive half a beat late on everything and produce edits that are correct and dead. They also over-design signature sounds | Reflex over reasoning. Their homework is exclusively physical and rhythmic — the pulse, the collision yield, the reproduction — because those bypass deliberation | **Double-Edit Collision Drill** (Drill 12) at speed, and **Count-In Lock**; plus **Match-Cut Gauntlet** (Drill 14) with a two-second time limit to catch | "You were right and you were late. Take the wrong sound on time — I'd rather have that." |
+| **The foley virtuoso** *(you will have one)* | Can make a horse, a helicopter and a rainstorm with their mouth | The Foley Trap incarnate. They will solo. They will also make sounds nobody asked for, which are *offers the scene must now absorb* | The discipline that **sound effects are answers, not offers**: you may only sound something an onstage player has named, is about to need, or is already implying | **Tell–Sound–React** (Drill 11) as the *responder* only, and **Foley Accompaniment** with a hard cap of one sound per 30 seconds, counted aloud by the coach | "Everything you made was excellent and none of it was asked for. Wait to be needed. It'll happen constantly." |
+| **The naturalistic scene player** *(TJ-type)* | Patience, truth, will let a pause live | Can be inaudible. Naturalism plus darkness equals two people mumbling in a void with no environment | Volume floor and materiality. Their truth must include the *noise* of truth — the chair, the cup, the breath | **Distance and Proximity** (Drill 16) plus a personal rule: every scene they play must contain three sounded objects | "It was true and I couldn't hear the room. Truth in here has a floor surface." |
+| **The blind or low-vision player** | Frequently the strongest navigator, the most reliable spatial tracker, and the least dependent on visual cues | Nothing about the form. Everything about the *rehearsal process* — lit warm-ups, whiteboards, coaches pointing | Nothing special. Adjust your process, not their training: make anchor points tactile, deliver all diagrams verbally, never gesture-cue, and run the dynamics curve as a spoken list as well as a drawing | Standard curriculum. Consider making them the **Anchor** for early shows — it plays to a genuine advantage | Same notes as everyone else. Resist the urge to make their participation a talking point; it isn't one. |
 
 ---
 
 ### Casting and Ensemble Design
 
-**Ideal composition: seven.** Six works. Eight is the ceiling. The reasoning is the audience's voice lookup table, which reliably holds six to eight entries and collapses past that.
+#### The ideal seven
 
-| Slot | How many | Notes |
-|---|---|---|
-| Low/slow | 1 | Your anchor voice; often the best bed keeper too |
-| Low/fast | 1 | — |
-| Mid/warm | 1–2 | Two is acceptable only if one has a strong secondary marker (accent, tempo) |
-| Mid/nasal or mid/breathy | 1 | The most useful and most under-cast slot; actively recruit for it |
-| High/bright | 1 | — |
-| High/rough | 1 | — |
+Cast for the **spectrum first and the comedy second**. This is the one form where I will take a mediocre improviser with a distinctive instrument over a strong one who sounds like everybody else, at least for one slot.
 
-**Beyond voice, cast for four functions.** A team can be brilliant and still fail if it lacks these:
-
-| Function | What they do | How many you need | Symptom of absence |
+| Seat | Vocal slot | Temperament you want | Show job they'll do most |
 |---|---|---|---|
-| **Bed engine** | Can hold a four-minute ambience without drifting, and enjoys it | At least two | Scenes start naked; the bed keeper role gets hot-potatoed |
-| **Editor** | Comfortable terminating things; hears when a scene is over | At least two | The endless scene; every run overruns |
-| **Composer ear** | Hears the whole mix and instinctively finds the empty slot | At least one, ideally two | Mud; nobody notices the fourth layer |
-| **Nerve** | Will hold a ten-second silence, will whisper to the front row, will walk to the back of the house | At least one | A competent, forgettable show |
+| 1 | Low / slow | Patient, grounded, unhurried | Bed anchor; the Anchor role; the long drone |
+| 2 | Low / fast | Driving, dry, comic | Edits; scrapyard-type transactional characters; rhythm layer |
+| 3 | Mid / warm | The everyman; emotionally available | The A-thread; the audience's home base |
+| 4 | Mid / nasal or mid / breathy | Distinctive timbre, character-forward | Second and third characters; cupped-voice machines and phones |
+| 5 | High / bright | Quick, precise, musical | The motif; high accents; the seeder |
+| 6 | High / rough | Textural, willing to be ugly | Signature sounds; the uncanny; the reality dial |
+| 7 | Wildcard / widest range | The best listener you have | The drain owner; whoever's missing; the one who stops |
 
-**Odd numbers, and awkward numbers.**
+Seat 7 is the most important and the least glamorous. Cast your most selfless, most rhythmically reliable player there and give them the drain, because the drain is the show's punctuation and it must never be a race.
+
+#### Odd numbers and off sizes
 
 | Cast size | What to do |
 |---|---|
-| **5** | Run 20 minutes, not 30. Two threads, not three. One group piece. Assign the fifth player as a permanent floating bed keeper so no scene is ever naked, and rotate that job every beat so it isn't a punishment |
-| **7 (odd, ideal)** | The odd player is a feature: one person is always spare, which means someone is always available to subtract, to catch a match-cut, or to build a rescue bed. Designate them explicitly each beat: "Sam's spare this beat" |
-| **9 or 10** | Split into two fixed shifts of four to five that alternate every five to six minutes. Each shift owns its own threads. The audience's lookup table only ever holds one shift at a time. Announce nothing; the audience will simply experience a wider world |
-| **Even numbers** | Slightly worse than odd for this form, because pairing is the default and an even cast pairs off completely, leaving nobody spare. With six or eight, formally designate one player as spare per beat |
-| **A player drops out on the day** | Reassign slots aloud in the green room, redistribute the seeder / drain owner / anchor jobs, cut one thread, and shorten by five minutes. Do not attempt the same show with one fewer person |
+| **4** | Run a 12–15 minute "Batlet": opening scape, three scenes, one group piece, closing scape. No second beat. Assign the bed to the *offstage* player and accept thin ambience. Everyone works constantly; keep it short or you'll shred voices |
+| **5** | Workable. One thread must be a solo/monologue-ish unit so you always have two spare for bed and foley. Cut to two threads plus one recurring solo voice, and 25 minutes |
+| **6** | Fine. The classic minimum for a full 30. Roles are tight but never doubled |
+| **7** | Optimal in my view: three two-handers plus a permanent spare who owns the drain and the emergencies |
+| **8** | Also excellent, and the maximum I'd take without shifts. Beds get luxurious; watch the pile-on risk, which rises non-linearly |
+| **9–10** | Split into two fixed **shifts** of four or five that alternate every five to six minutes. The off-shift is *completely silent*, standing at the back wall, hands over mouths. Announce the shift changes in rehearsal with a sound cue you all know. Voice-identification still degrades; expect the audience to lose one thread |
+| **11+** | Don't. Run two Bats on the same bill instead, or make the extras the audience |
+| **Odd number with an unfillable slot** | Two players may share a slot **only if they never appear in a scene together and never in the same beat.** Write it on the wall. Give them maximally different signature sounds and different tempos |
 
-**How to seed a new team.**
+#### Seeding a new team
 
-1. **Recruit for ear, not for funny.** In an audition or a workshop, the most predictive exercise is Blindfolded Pass the Sound. Watch for who waits, who matches volume, and who takes their turn twice. Funny arrives later; a bad ear never leaves.
-2. **Deliberately unbalance the voices.** A team of seven pleasant mid-range voices will be indistinguishable in the dark and there is nothing you can coach around it. If you have a choice, take the croaky one and the very deep one over the two better improvisers with identical registers.
-3. **Cast at least one person who is genuinely comfortable in the dark** — a caver, a night-shift worker, someone with a sensory background — and at least one who is genuinely *un*comfortable and says so. The second person will keep your safety practice honest.
-4. **Recruit blind and low-vision performers actively, and not as a gesture.** This form levels the field more completely than any other in improv; a player who navigates by ear daily has spent years developing the exact capacity you are trying to build in eight weeks. Adapt your rehearsal room accordingly (consistent furniture positions, verbal orientation as standard, spoken rather than written notes) and note that these adaptations improve the room for everyone.
-5. **First rehearsal, first hour: safety and boundaries, then a ten-minute soundscape, then go home.** Do not do scenes in the first session. The team's relationship with the darkness is the thing being cast.
-6. **Fix the roster before you fix the show.** Rotating guest players is fatal here in a way it isn't in a montage — every substitution invalidates the voice map and every signature sound. If you must use a sub, run a full slot auction and give them the bed for the whole first beat.
+1. **Audition by ear, in the dark, with your back turned.** Have candidates play three-minute two-handers while you sit facing away and take notes on voice, breath, and whether you can picture the room. Do not watch. You will pick different people, and better ones for this.
+2. **Build the depth chart before the first rehearsal.** Run the Frequency Slot Auction in session one and *write it down*. A team with two low/slow players and no high accent will spend eight weeks sounding muddy for reasons nobody can name.
+3. **Mix at least two experienced beds with two experienced scene players.** A team of all initiators produces nine minutes of brilliant openings and no environments.
+4. **Recruit at least one person who is musical** — not a singer necessarily, but someone who can hold a pulse and hear when a group has drifted. They will be your count-in and your chorus spine.
+5. **Recruit for temperament in the dark specifically.** Ask directly: how do you feel about being in a pitch-black room for half an hour? Someone with genuine nyctophobia should not be cast, and there is no shame in it — say so kindly and early.
+6. **Set the culture in the first ten minutes of the first rehearsal**, with the boundary round. Whatever you do in rehearsal one becomes the ritual. If you skip it once, you will never install it.
+7. **Give the team a permanent shared sound bank** — a written list of the ensemble's agreed mouth-sounds for the twelve most useful materials (see Drill 10). This is the closest this form has to a company style, and teams that keep one improve much faster than teams that don't.
 
 ---
 
 ### Rehearsal-to-Stage Checklist
 
-#### Pre-show
+#### T-minus: producer and venue (do this a week out)
 
-| When | Who | Item |
-|---|---|---|
-| T−7 days | Producer | Venue blackout test *at night*, in performance conditions. Sit in the room ten minutes. Log every light source: exit signs, fire panel, booth monitor, EPOS terminal, fridge in the bar, the glow under the door |
-| T−7 days | Producer | Fire officer / venue manager conversation about exit signage. If they can't be covered, order blindfolds for the house and rewrite the host's script |
-| T−7 days | Producer | Front-of-house copy and ticketing page carry the darkness warning. Nobody should discover this at the door |
-| T−3 hours | Producer | Blindfolds counted; shaded torch charged; a chair by each exit for staff |
-| T−90 | Cast + tech | Full stage sweep, physically, together. Remove everything. Tape down anything that can't go. Walk the perimeter |
-| T−80 | Cast | Anchor points assigned and walked, in the dark, three times |
-| T−70 | Tech + cast | Blackout rehearsal: tech kills everything, cast stands in it for two minutes, and every person reports any light they can see |
-| T−60 | Cast | Warm-up: Floor Sweep and Boundary Call · Slot Roll-Call · Motif Pass · Whisper Line calibrated to *this* room |
-| T−40 | Cast | **The Inventory**, out loud, in a circle: name, slot, signature sounds, tonight's role (seeder / drain owner / anchor / floor), tonight's boundary |
-| T−30 | Host + tech | Host script run, verbatim, including the exact blackout cue line, and the abort word |
-| T−20 | Whole company | Abort drill: someone says the abort word; tech has lights up within two seconds; everyone knows where they go |
-| T−15 | Cast | Phones: not silenced — **off**, and out of the building's stage area. A silenced phone still lights up |
-| T−10 | Cast | Watches, fitness trackers, lit trainers, illuminated logos: removed. Anything that glows |
-| T−5 | Cast | Water. Everybody drinks. Thirty minutes of continuous vocalising is an athletic event |
-| T−2 | Cast | Positions in the dark of the wings; one shared breath; silence from here |
+- [ ] **Fire code check.** Can the exit signs legally be covered? Get the answer from the venue manager in writing. If no, buy blindfolds — one per seat, plus 20%.
+- [ ] **Light audit, performed at night, from the middle of the stage, with everything off.** Look for: booth monitor, standby LEDs on amps and dimmer racks, fire panel, phone charging lights, window light, the gap under the house door, an illuminated bar sign, a smoke detector LED. Tape everything you can; curtain the rest.
+- [ ] Floor swept and mopped; every cable, riser, chair, mic stand and set piece removed or pushed to the perimeter and taped down.
+- [ ] Steps and any level change either removed from the playing area or physically barriered with something a foot can feel.
+- [ ] Front-of-house briefed: shaded torch at the back, one staff member standing at the rear for the whole show, house doors closed and lightproofed.
+- [ ] Pre-show warning in the listing, on the door, and in the pre-show announcement: *pitch darkness for approximately 30 minutes, no strobe, no touch, no audience participation.*
+- [ ] Water for the cast at a known perimeter point.
 
-#### The opening ritual
+#### Pre-show, cast (last 45 minutes)
 
-Do this identically every time. In the dark, ritual is the only thing that substitutes for a stage manager.
+| Time | Item |
+|---|---|
+| −45 | **Stage walk in the dark, all seven.** Walk the perimeter twice; touch each wall; find your anchor point by feel; find the water |
+| −40 | **Hazard call.** One player names every hazard aloud; everyone repeats the list |
+| −35 | **Boundary round.** Each player states one boundary for tonight. The **abort word** is said aloud by all seven (see below) |
+| −30 | Physical and vocal warm-up: Exertion Circle, Breath Circle |
+| −20 | **Slot Auction (short).** Name, slot, signature sound, in a single breath, no duplicates |
+| −15 | **Motif reproduction:** everyone reproduces last show's motif, cold, for the discipline of it |
+| −10 | **Role call for the show:** who seeds, who owns the drain, who is the Anchor, who is the "floor" (starts a bed if two seconds of unplanned silence occur) |
+| −8 | Tech check with the operator: blackout is a **snap**, restore is a **snap**, hard time cue at 27:00 for the drain owner, abort procedure confirmed |
+| −5 | Host confirms the contract script and the suggestion type |
+| −2 | Silence backstage. No chat. Enter the space and take positions in the light |
 
-1. **Host, in the light:** the contract, in this order — the dark and how long; nobody will touch you and nobody comes into the house; every sound is made by a human in this room, nothing is recorded; the exits are *there* and *there*, and staff will meet you with a torch if you need to go, which is fine; the loudness policy; then the suggestion.
-2. **Host repeats the suggestion twice, clearly**, then says the cue line and leaves. The cue line is fixed, the same every show, and the tech's only trigger.
-3. **Snap to black.** Never a fade. A fade lets the audience watch it happen; a snap makes it an event.
-4. **The Settle: fifteen to twenty seconds of nothing.** The cast's job in this window is to not move.
-5. **The seeder seeds.** One sound. Only them. The whole ensemble knows who it is because it was said aloud at T−40.
+**The abort word.** Pick one word that is not going to appear in a scene (I use "**HOUSELIGHTS**"). Anyone — performer, tech, house staff — may say it, and the response is immediate and non-negotiable: tech snaps the lights to full, everyone stops, the host or the most senior person in the room addresses the audience calmly. It is used for injury, medical emergency, an audience member in distress who cannot find the exit, or a genuine safety concern. Say it aloud together before every single show, so that if it is ever needed, saying it does not feel like breaking a taboo. In eight years of dark work I have needed it twice; both times were worth it and neither hurt the show's reputation.
+
+#### The opening ritual (audience-facing)
+
+1. Cast is already onstage, in position, in the light, still and quiet, as the audience settles. **Do not enter after the announcement** — the audience should have their bodies loaded before the dark takes them away.
+2. Host, in the light, in this order and no other:
+   - what the piece is called and how long it runs;
+   - "the lights will go completely out and stay out for about thirty minutes";
+   - "**nobody will touch you, nobody comes into the audience, nobody is brought onstage**";
+   - "there is no recorded sound and no music from the booth — everything you hear is made by a person in this room with their body";
+   - "the exits are there, and there" (point) "and if you need to leave at any time, that's absolutely fine — a member of staff at the back has a torch and will take you out";
+   - the loudness policy (either "it gets loud but never suddenly" or, if you do jump-scares, say so);
+   - phones **off**, not silent — "if a screen lights up, everyone in the room will look at it, including us."
+3. Host takes the suggestion: **one concrete thing you could hear or touch.** Repeat it back twice, clearly, at volume.
+4. Host exits. **Their exit is the tech's blackout cue.** No verbal "lights please" if you can avoid it — the snap should feel like it came from the piece, not from a stage manager.
+5. Fifteen to twenty seconds of held silence. The seeder seeds.
 
 #### In-show discipline
 
-| Rule | The behaviour |
+| Rule | Detail |
 |---|---|
-| Count to four | If you can hear four things, you are one of them. Stop |
-| Subtract first | When the mix breaks, remove yourself before you try to lead |
-| Losers re-commit | On a mutual edit stop, the second person to break silence wins and goes bigger |
-| Move audibly, always | Footsteps, hum, or a line delivered on the move. No exceptions, including offstage repositioning |
-| Hands over mouths | Offstage corpsing is audible. A hand over your mouth is invisible and permitted |
-| Beds are never zero | Unless you mean it. A 5% floor is what lets the ensemble hold a pause |
-| Any bedless scene may be furnished | Any offstage player, unasked, at any time. The scene players accept it next line |
-| Callbacks are corrected by performing them right | Once, immediately, no comment |
-| Nobody says a character's name to fix confusion twice | Two names in the first three lines, then let the voice work |
-| The drain owner starts the close on the clock | At the agreed minute, regardless of what's happening. The ensemble follows |
-| Abort word | Known by all; spoken by anyone; tech has lights up in two seconds; no discussion, no shame, no continuing |
+| **Offstage position** | Offstage players stand *at the sides of the playing area*, not behind a wall. You are in the acoustic world; behave as if you are on |
+| **Hands** | If you are not the bed keeper or the foley operator, one hand is over your own mouth. Yes, really. It works |
+| **Corpsing** | If you laugh, the bed keeper swells to swallow it and then edits. Do not try to suppress it silently — a suppressed laugh is louder and more identifiable than a swallowed one |
+| **Collision** | Second to hear it kills theirs within a quarter-second. If neither can tell, both escalate into one bigger sound |
+| **Lost in space** | Find the Anchor's low hum and walk to it, audibly, in-fiction |
+| **Something goes wrong** | Nobody acknowledges it. No apologies, no meta. The audience did not see it and their only evidence is your reaction |
+| **Light leak appears mid-show** | Play on. It is house staff's problem. Do not look at it, do not mention it |
+| **A player is genuinely in trouble** | Abort word. No hesitation, no weighing it up |
+| **The clock** | Drain owner starts the closing at 27:00 no matter where the show is. A show that ends mid-thought at 29:30 is infinitely better than a show that finds a beautiful ending at 41:00 |
+| **After the last sound** | Three full seconds of held silence, and **nobody breathes audibly**. Then the snap |
+| **The bow** | Take it in full light, together, looking at the audience. Let them see the bodies |
 
 #### Post-show debrief
 
-**Do not debrief on the night.** In the dark, everyone's sense of what happened is unreliable and everyone is over-adrenalised. On the night, do exactly two things:
+Do it the same night if you can, within 20 minutes, before anyone has told each other it was great.
 
-1. **Safety sweep, immediately, in the light:** anybody hurt, anybody's boundary crossed, anything in the room that shouldn't have been. Sixty seconds, out loud, before anyone leaves the stage.
-2. **The Inventory of the show:** in a circle, each player names one sound the show made. Nothing evaluative. This takes two minutes and it is the raw material for the next rehearsal's Memory Bank.
-
-**Then, within 72 hours, a listen-back session.** Full recording, no talking, phones away. Afterwards, in this order:
-
-| Order | Question | Time |
+| Step | Duration | Content |
 |---|---|---|
-| 1 | Where did you hear four layers? Timestamps only | 5 min |
-| 2 | Where was a scene without a room? Timestamps only | 5 min |
-| 3 | Which callbacks landed and which ones did the room ignore? | 5 min |
-| 4 | Draw the dynamics curve together on a board | 5 min |
-| 5 | What did the darkness *do* tonight that light couldn't? If the answer is nothing, that's the show's only real note | 10 min |
-| 6 | Director's three notes, with timestamps, ranked by cost of failure | 10 min |
-| 7 | The Inventory for next time: slots, roles, one thing each person is working on | 5 min |
+| 1. **Lights off, sit down** | 2 min | Everyone in the dark, on the floor, silent |
+| 2. **Cold reproduction** | 5 min | Go round: each player makes one sound the show made. Then the group reproduces the motif in unison. Anything nobody can reproduce is logged as "too complex" and simplified for next time |
+| 3. **Sound inventory** | 5 min | Someone writes down every recurring sound and word the show generated. This is the team's growing sound bank |
+| 4. **Three structural notes from the coach** | 5 min | Ensemble-level, no names, arithmetic not adjectives |
+| 5. **The curve** | 5 min | Each player says, from memory, where they felt the show sag. Compare. If four people name the same minute, that's your note |
+| 6. **The one thing** | 3 min | Each player names one thing *someone else* did that they'd want repeated, without saying who. ("Somebody kept the tap running under the whole hospital scene. Whoever that was — that was the show.") This keeps praise real and unassigned |
+| 7. **Safety check** | 2 min | Did anyone get bumped, startled, or have a boundary crossed? Ask explicitly, every time, and wait through the silence |
+| 8. **Lights on** | — | Go and have a drink |
 
 ---
 
 ### Show Design and Production
 
-**Placement in a lineup.** Close. Always. The lights-up snap after thirty minutes is a physical event for the audience — pupils, orientation, the sudden return of other people's faces — and nothing survives following it. A team put in the middle of a bill will find the next act playing to a room with sore eyes and no appetite. If a producer insists on a middle slot, negotiate a fifteen-minute interval immediately after, and accept that you have lost the ending.
+#### Placement in a lineup
 
-**Pairing with other forms.**
+**The Bat closes.** This is not a preference, it's physics: the snap-up after thirty minutes of black is a climax, and whatever follows it plays to a room of people with adjusting pupils and depleted attention. Producers who put it mid-bill discover the next act dying for reasons they'll wrongly attribute to that act.
 
-| Pairs well with | Why | Watch for |
+| Slot | Verdict |
+|---|---|
+| **Closer of a mixed bill** | Correct. Ideal running time 25–30 min. Have the compère do the goodnights *in light*, briefly |
+| **Second half of a two-act evening, after an interval** | Excellent. The interval lets the house be lightproofed and blindfolds distributed as a ritual |
+| **Only act (a full evening of one Bat)** | Only at 40–45 min, only for a house that's seen the form, and give the audience an interval *before* it, not after |
+| **Opener** | Wrong. The audience hasn't warmed to the room, and you'll spend your best silence on people still finding their seats |
+| **Middle of a bill** | Wrong, unless the following act is deliberately designed as a comedown (a solo singer, a quiet storytelling piece) |
+| **Festival slot** | Its native habitat. It tours with no tech and stands out instantly on a programme of visual shows |
+| **Late-night** | Strong, with a caveat: a drunk audience in the dark is a chattier audience. Tighten the runtime to 25 and raise the energy floor |
+
+#### Pairing with other forms
+
+| Pair with | Why it works | Watch for |
 |---|---|---|
-| A short, bright, visual, physical opener (20 min) | Maximum contrast; the audience arrives visually satisfied and is then deprived on purpose | Don't follow a form that has already exhausted the room's ears (loud musical improv) |
-| A two-person lit long form | Small cast, quiet, intimate — then the Bat scales up the world without scaling up the volume | — |
-| A narrative or genre lit form on the same suggestion | The audience gets to hear a world they've already seen | Beware duplication; brief both teams to take different threads |
-| **Poor pairings** | Anything with a blackout gimmick; anything using a soundboard heavily (it primes the audience to expect recorded sound); another audio-led form | — |
-| **The Dusk** (see mechanics manual) as a gateway | Lit form for twenty minutes, lights out for the last eight | Rehearse the transition to blackout; it's the hardest cue in the evening |
+| **A short-form or game set, first half** | Maximum contrast; the audience arrives at the Bat having laughed and is ready to be still | Don't let the compère promise the Bat will be "funny" in the same way |
+| **A monoscene, first half** | Both are patience forms; the audience is already trained to listen long | Risk of a slow evening. Put something bright between them |
+| **A musical improv set** | The ear is already engaged; a cappella soundscapes land better after singing | Don't let the Bat drift into an a cappella show unless you mean to |
+| **A physical/movement piece** | Terrible pairing conceptually and brilliant practically — the contrast is enormous | They compete for the same audience faculty; give a long interval |
+| **A second Bat by another team** | Only at a festival, and only with 20 minutes and full lights between them | Two blackouts in one night is a lot of eye strain; warn the house |
+| **"The Dusk"** (a lit Harold that goes dark for its last eight minutes) | The best gateway show there is: the audience already has faces loaded, and the dark supplies them for free | It cheats past the hardest part of the form. Fine for audiences; don't let your team think they've done a Bat |
+| **"The Dawn"** (soundscape in the dark → lights up for the scenes → dark again for the closing scape) | Great for houses and casts not ready for 30 minutes of black | You lose the sonic edit discipline in the lit middle |
 
-**House rules to publish and enforce.**
+#### House rules to publish and enforce
 
-1. Doors close at the top and do not reopen; late arrivals are held and seated at the interval or not at all. (One opened door is a light leak *and* a sightline through to a lit foyer.)
-2. All audience phones off, not silent. Announce it twice and mean it. A single screen at row F ruins the piece for forty people.
-3. Nobody enters the house during the show except a staff member with a shaded torch escorting someone out.
-4. No latecomer torch, no usher torch, no phone torch. The house torch is red-gelled or heavily shaded, pointed at the floor, and never toward the stage.
-5. Content and safety: the darkness warning is on the ticket page, the door, and in the host's mouth. Name nyctophobia specifically. State the runtime.
-6. Declare your jump-scare policy in the host speech, either way. "There is nothing sudden and loud in this show" is a promise you must then keep for thirty minutes.
+1. **No phones on, at all.** Not silent — off. Announce that a single screen is visible to everyone including the performers.
+2. **No latecomers admitted after blackout.** State this on the door and mean it. A door of light at minute nine destroys the piece for everyone. (If your venue insists, hold latecomers in the lobby and admit them at the interval of the *next* show, or refund.)
+3. **No audience participation, no touching, nobody brought onstage** — stated explicitly, because the fear of it is the single biggest cause of audience anxiety in the dark.
+4. **Leaving is fine.** Say it warmly, twice. An audience that knows it may leave is an audience that stays.
+5. **No photography** (obviously nothing to photograph, but a flash is catastrophic).
+6. **Content warning as appropriate**, delivered in the light, because you cannot deliver one in the dark without breaking the piece.
+7. **Under-16s with an adult** if you're playing a horror-inflected Bat; a dark room affects children very differently.
 
-**Tech and lighting cues.** There are exactly two, and a third for emergencies.
+#### Tech and lighting
 
-| Cue | Trigger | Execution | Notes |
-|---|---|---|---|
-| **LX 1 — Blackout** | The host's fixed exit line | Snap to black. Everything: house, stage, work lights, booth monitor dimmed to nothing or covered, standby LEDs taped, phone in a drawer | Tech operates the rest of the show in the dark. Give them a shaded task light *behind* a blackout curtain or nothing at all |
-| **LX 2 — Lights up** | The drain owner's final sound, plus a three-count of silence | **Snap.** Never a fade. Stage plus house together | Give tech a hard backup time cue (e.g. "if nothing has happened by 33:00, go") and agree it with the cast |
-| **LX 3 — Abort** | The abort word, spoken by anyone | House lights up within two seconds | Rehearse this. It is the only cue that matters |
+| Cue | Detail |
+|---|---|
+| **Preset** | House lights up, stage warm and visible. Cast onstage, still, before the audience is admitted if possible |
+| **Q1 — BLACKOUT** | **Snap**, on the host's exit. Everything: stage, house, work lights, booth monitor, cue-light, running lights, the tech's phone. The operator should work from a taped-over screen or memory |
+| **During** | The operator does nothing for 30 minutes except watch the clock and be ready. Give them a **shaded, downward-facing** stopwatch or a taped-down timer showing nothing but a dim single digit, positioned so no light reaches the house. If you can't achieve that, the operator counts, or uses a vibrating timer |
+| **Q2 — RESTORE** | **Snap**, never a fade, on the third second of the held silence after the final sound. Full state, warm, both stage and house up together so the audience can see each other |
+| **Q3 — bow / house** | Standard |
+| **Abort** | Q99: full snap to work light plus house. The operator has a physical, findable-in-the-dark button or fader for this. Rehearse it |
+| **Never** | Booth music, pre-show underscore that bleeds, a "safety" glow, a fade, mood lighting during the piece |
 
-**Music.** Canonically none, and the canon is right: the audience's central pleasure is knowing a human mouth made the thunderstorm, and a booth cue destroys it in a second. If you want music, it is a cappella from the ensemble or one acoustic instrument physically in the dark with everyone else, subject to the same three-layer discipline. An instrumentalist who underscores continuously becomes the de facto lighting designer of the piece and flattens everything.
+**Cueing the restore:** the safest method is a **hard time cue** (drain owner starts the closing at 27:00; operator restores at 30:00 if nothing else happens) **plus** a listening cue (restore three seconds after the final single sound). Brief the operator on what the last sound will probably be — usually the motif or the show's oldest sound — and tell them: *if in doubt, wait. An extra two seconds of dark is nothing; cutting the silence short kills the ending.*
 
-**Briefing a guest or a monologist.** The classic Bat has neither. If you use one:
+#### Music
 
-*For a guest improviser:* run a full slot auction with them present, at least ninety minutes before doors. Give them a signature sound and make them demonstrate it three times. Assign them a fixed anchor point and tell them to stay near it. Their brief: *"Hold one bed for the first five minutes and don't initiate a scene until the second beat. You'll want to prove yourself and the way you do that here is by being the room."* Tell them the collision convention and the abort word explicitly.
+Canonically, none. All music is a cappella and generated live. If you want an instrument:
 
-*For a monologist:* they speak in the dark, alone, with the ensemble scoring underneath. Brief them on four things.
+- Make it **acoustic and in the room** — a hand drum, a shruti box, a cello — and make the player a full ensemble member subject to the Rule of Three Layers.
+- Cap the instrument at **two appearances** in a 30-minute piece, or it becomes the show's lighting design.
+- Never amplify it, and never let it underscore dialogue — it will win.
+- My honest view: the moment an instrument enters, the audience's central pleasure ("human bodies made all of this from nothing") is diluted, because an instrument is an object and a technology. Songs that emerge out of a soundscape and drain back into it are the exception and are gorgeous. Cap those at two as well.
 
-1. **Their story is the word layer.** Sensory detail, materials, places and sounds — not a well-shaped anecdote with a punchline. Ask them for the smell and the noise of the thing.
-2. **They will hear the ensemble building underneath them and must not react to it.** Not comment, not pause for it, not race it. The score is not an audience response.
-3. **Where they stand.** Fixed position, downstage centre, and they do not move. Their voice is the audience's compass for the whole show.
-4. **Length and cue.** Two to three minutes maximum, and they finish on a fixed final line that the ensemble uses as the cue to swell. Rehearse the ending, not the story.
+#### Briefing a guest or a monologist
 
-Also brief the *ensemble*: the score under a monologue is two layers, not five, and nobody makes a joke sound under a true story.
+The classic Bat has neither. Both variants work, and both need a specific brief.
 
-**Room and audience size.** Under 60 seats is where this form is best — you can use the whisper close-up and walk the chorus to the front row. Over 150, you lose the whisper entirely; consider a central ambient mic with light reinforcement, and accept that you have traded intimacy for legibility. Binaural recording with headphone playback is the direction the form is moving and is worth a producer's attention, but it changes rehearsal: players drift toward the mic and must be coached not to.
+**Briefing a guest improviser (30 minutes, day of show):**
 
-**Recording.** Record every show on one mic at the middle of the front row. Not for release — for the team. It is the only thing that tells you what actually happened.
+| Item | What you tell them |
+|---|---|
+| Slot | "Your voice is X. Nobody else has it. Don't change it, ever, all show." |
+| Signature | "Pick one small sound your character owns. Show me. Can I do it? Good, keep it." |
+| The three layers | "Never be the fourth sound. When you can hear three, you stop." |
+| Movement | "Don't move silently. Ever. If you cross, put your feet in the show." |
+| Editing | "You don't have to edit. If you do, make a sound and commit. If you hear someone else start, stop dead." |
+| The bed | "Every scene you start, wait for someone to give you a room, or make one yourself for three seconds first." |
+| The dark | "You may not talk about the dark, look at anything, or make a joke about not being able to see." |
+| Safety | Anchor point, hazards, the abort word, boundaries. Ten minutes minimum, no jokes |
+| Their out | "If you're lost, find the humming person — that's the Anchor — and walk to them, audibly." |
+
+**Briefing a monologist (the "Bat Armando"):**
+
+- Their monologue **replaces the word layer**, not the soundscape. The ensemble builds a bed under them from the suggestion and scores them lightly — no more than two simultaneous layers under a speaking monologist, ever.
+- Tell them: "Speak from one fixed position and do not move. Your voice is the audience's home base — it must always be in the same place."
+- Tell them: "Be sensory. In the dark, a story about what a room smelled like beats a story about what someone thought."
+- Tell them: "Expect us to make sounds from your story while you speak. Don't react to them, don't wait for them, don't comment on them. If a sound distracts you, keep going and we'll kill it."
+- Give them a hard length: 2–3 minutes per monologue, three monologues max. Monologues in the dark feel about 40% longer than they are.
+- Cast the ensemble's most reliable bed keeper as the monologist's dedicated support and forbid everyone else from underscoring them.
 
 ---
 
@@ -2532,297 +2487,264 @@ Also brief the *ensemble*: the score under a monologue is two layers, not five, 
 
 | Problem | Diagnosis | Six-week fix |
 |---|---|---|
-| **Every run turns into a wall of noise by minute ten** | No shared count of layers; everyone's definition of "supporting" is "adding." Usually a team with strong generosity and no mix awareness | W1–2: Frequency Slot Ladder every session, plus a hard cap of one bed keeper and one foley named aloud per scene. W3: run a full montage where four of seven players are physically silent throughout, rotating. W4: introduce the "count to four, subtract yourself" rule and count violations on tape. W5–6: remove the caps; measure whether the layer count stays at three unassisted. Success metric: a 20-minute run with fewer than three four-layer moments |
-| **Scenes never end; every run overruns by ten minutes** | Offstage players are waiting for a visual cue that cannot come, and nobody has been given clock authority | W1: give the bed keeper explicit clock authority and drill Bed Decay as an invitation. W2: stopwatch runs — players call out when they *felt* the peak, then compare to the tape. W3–4: Edit Roulette, so editing stops being one brave person's job. W5: run with a hard 2:30 scene cap enforced by the coach. W6: remove the cap and measure average scene length; target under 2:30 with three under 90 seconds |
-| **Talking heads; nothing has a body or a room** | The team believes object work is visual, and there's no assigned bed role | W1–2: Room Before the Mouth and Exertion Mime every session, twenty minutes each. W3: every scene must open with an activity, assigned by the coach from a list. W4: Materiality Ladder. W5–6: run full pieces where the note is only "which scenes had no room." Success metric: on playback, a stranger can name the location of every scene from the first three seconds |
-| **Nobody can tell the characters apart on the recording** | Voice slots never negotiated, or negotiated once and never maintained; also often two mid-range players who won't move | W1: full Voice Slot Auction, written down and photographed. W2 onwards: Slot Roll-Call in every warm-up and one "SLOT" call per run. W3: Signature Sound Draft. W4–5: recordings played to someone outside the team who must identify characters. W6: the reveal exercise — deliberately use a shared voice as a structural surprise, which is only possible once discipline is real |
-| **The team is technically clean and completely boring** | Bandwidth was solved and dynamics were never addressed. Very common at week six of a good curriculum | W1: Dynamics Dice with assigned dynamics. W2: Proximity Theatre — the team has probably never used the front metre of the stage. W3: Hold the Silence, to ten seconds. W4: a whispered run — the entire show below conversational level. W5: a run where the coach's only note is "where's the shock?" W6: unassigned, and draw the curve. Success metric: a drawable curve with at least one whispered passage and one silence over six seconds |
-| **A dominant player is running the show and everyone is deferring** | The form has removed their visual tools so they're compensating vocally, and the ensemble has learned to wait | W1–2: The Yield Drill with them losing deliberately, plus a run where they hold the bed for every scene. W3: they are the seeder and drain owner — high-status structural jobs that require restraint. W4: a run where they may speak dialogue in two scenes only. W5: private conversation with the tape, showing line-count. W6: unrestricted, and count initiations. Target: no player initiating more than a quarter of scenes |
-| **Great scenes, no show — thirty minutes of unrelated fragments** | No transport across edits, and no memory discipline; each pair is playing their own two-hander | W1: Match-Cut Chain until the whole team can do it cold. W2: a montage where every edit must reuse an existing sound, word, voice, bed or motif. W3: Memory Bank at the end of every session. W4: Ten Closings. W5: full runs with the only note being "which edits carried nothing." W6: measure — half of all edits should carry a transport |
-| **The team is scared of the dark and it's audible** | Insufficient acclimatisation; probably went to scenes too fast in week one; possibly an unaddressed near-miss | Stop the curriculum. W1: back to Anchor Points, Sonar, seated work, and an honest conversation about who is uncomfortable. W2: seated-only scenes, no movement at all. W3: reintroduce movement with mandatory humming. W4: standing, free-moving, short runs. W5–6: normal work. Do not shortcut this; a tentative cast produces a tentative show and no amount of note-giving fixes fear |
-| **The opening soundscape is different every time and usually bad** | Nobody owns the seed or the drain; the team treats the opening as a free-for-all warm-up rather than a composed unit | W1–2: designated seeder and drain owner, named aloud, every single run. W3: five openings per session with rotating owners. W4: Dream Symbol Association until sideways is automatic. W5: openings assessed only on "can three people reproduce the motif twenty minutes later." W6: remove designations and see if roles emerge. Success metric: a reproducible motif in five of five openings |
-| **Shows die at minute eighteen** | The attention floor. Flat dynamics plus no novelty in the middle third | W1: chart three past recordings and find the flat stretch — it's always the same place. W2: the mid-show group piece becomes a rehearsed set piece, contrasted with the first. W3: Proximity Theatre, applied specifically to the 15–20 minute window. W4: a rule that the beat-two scenes must each differ in acoustic register. W5: the reality dial — one impossible thing at minute nineteen. W6: full runs, and check that the middle third has three distinct novelties |
-| **The ensemble is polite and nothing risky happens** | Fear of collision has over-corrected into universal deference; often follows heavy collision drilling | W1: a run where the coach requires eight deliberate collisions. W2: reinstate the "second to speak wins" convention so bravery has a rule behind it. W3–4: assign one player per beat as "the intruder," obliged to break into a scene with a sonic intrusion. W5: Ghost Line practice. W6: normal runs; count how many moves nobody planned |
-| **Everyone loves rehearsal and the show is worse than every rehearsal** | Adrenaline plus the pressure of a real audience pushes the whole ensemble up in volume and speed — a universal, predictable phenomenon in this form | W1–3: rehearse in front of three or four invited listeners, every week, no exceptions. W4: rehearse with the house lights of the venue and the real room's acoustic. W5: two dress runs in the venue. W6: performance. Also give one standing show-day note: "You will be twenty per cent louder and twenty per cent faster than you think. Aim below where you'd aim." |
+| **Every show turns into a wall of noise by minute ten** | The ensemble equates support with addition; no one has internalised that stopping is a contribution. Usually a *generous* team, not a lazy one | W1–2: Hand-Over-Mouth on every scene, no exceptions; coach counts layers aloud. W3: remove the hand rule, coach says "THREE" only. W4: no coaching — the group self-counts and reports. W5: run a full show where the count is announced in the debrief. W6: run two shows; the target is fewer than three breaches per show. Publicly praise the *stoppers* every week |
+| **Scenes never end; the offstage group won't edit** | They are waiting for a visual cue that cannot come, and each one privately believes it's someone else's job | W1: Clean Space Metronome, 12 scene-starts a session. W2: give the bed keeper explicit clock authority and a stopwatch. W3: rule — bed thins at 2:00, and if nobody takes it in ten seconds, the bed keeper edits. W4: Edit Vocabulary Round so nobody defaults to the same wipe. W5: montages of 45-second scenes only. W6: full runs with a stopwatch debrief comparing felt peak to actual peak |
+| **The audience can't tell characters apart** | No slot discipline, no signature sounds, and probably two players with adjacent registers who have never discussed it | W1: full Frequency Slot Auction, written down and posted. W2–3: "SLOT!" called four times per rehearsal; Signature Sound Installation for every character. W4: endurance scenes (10 min) to catch fatigue drift; anchor each voice to a physical cause. W5: listener test — coach sits at the back and names every character; every miss is a note. W6: run a show where each player must play *two* characters and hold both |
+| **The show is a bag of scenes; nothing coheres** | Edits carry no transport; there's no motif; the closing is new material | W1–2: Match-Cut Gauntlet and Object Handoff until every edit carries something. W3: Motif Forge — no run may begin without a locked motif. W4: Ten Closings. W5: full runs with the rule "nothing new after minute 25." W6: after each run, the group must verbally reconstruct the show's index in under 60 seconds — if they can't, it didn't cohere |
+| **Everything is at the same volume and the room goes sleepy at minute eighteen** | Nobody owns the dynamics curve; the team's default energy is "conversational" | W1: Dynamics Assignment Run with all eight units assigned. W2: same, with half assigned. W3: Whisper Close-Up and audience-adjacent chorus drilled to comfort. W4: rule — no more than three units at the same size in a row. W5: record a run, chart the curve, find the flat stretch. W6: full runs where the curve is drawn from memory afterwards and compared |
+| **Callbacks never land** | Approximate reproduction, over-complex motifs, and a team that thinks "close enough" is the improv value | W1: Bed Recall Cold Test in every session, 70-minute gaps. W2: simplify — any sound three players can't reproduce is redesigned on the spot. W3: cross-week recall (reproduce last Tuesday's motif). W4: assign one player per show as the *keeper of the index* who can reproduce everything. W5–6: closing soundscapes judged purely on reproduction accuracy |
+| **The team is physically timid; nobody moves and the sound is all mouth** | Fear, usually justified by a bad early experience or an unswept floor | W1: Echolocation Anchor Map every session; sweep the floor together as a ritual. W2: seated, then kneeling, then standing, then walking — one step per week. W3: Sonify the Cross, slow. W4: Distance and Proximity with marked zones. W5: Ghost Line from the back of the house. W6: full runs standing and free-moving. Never rush this ladder; a collision at week two sets you back a month |
+| **One player dominates the vocal floor** | The scene hog has discovered they can be heard even when they can't be seen, and volume is their only remaining tool | Do it privately, not in notes. W1–2: assign them exclusively bed and drone duties; tell them truthfully that the bed is the biggest role in the piece. W3–4: Dynamics Assignment Run, whisper-only. W5: they may play scenes again but must be edited by minute two. W6: no restrictions; measure with a stopwatch. If their speaking time is still above 25% of the show, the problem is not the form and you should have a different conversation |
+| **Openings are three minutes of churn with no motif** | Everyone enters in the first six seconds; nobody dares be the boring repeated figure | W1: Seed and Wait with enforced eight-second gaps and a designated seeder. W2: Motif Forge — the round doesn't end until a figure is locked and three people can reproduce it. W3: word layer added, must sit in gaps. W4: eight openings back to back, different suggestions. W5: openings judged on one criterion only — did a live bed reach Scene A? W6: openings from cold with no designated seeder |
+| **The team gets to minute 22 and doesn't know how to end** | No one owns the closing; nobody's watching the clock | W1: Ten Closings. W2: designate a permanent drain owner and give them a hard time cue. W3: run "last eight minutes only" repeatedly. W4: convergence sprints — threads must collide within 90 seconds. W5–6: full runs where the coach calls "TWENTY-SEVEN" once, aloud from the back, and the team must be in the closing within fifteen seconds |
+| **Rehearsals are loose and jokey; the dark makes them giggly** | The room hasn't taken the form seriously because the coach hasn't ritualised it | W1: install the Dark Call and never skip it. W2: notes given in the dark. W3: silence discipline — any giggle restarts the exercise, without annoyance. W4: bring in one outside listener whose presence raises the stakes. W5: invited audience of three. W6: invited audience of fifteen. Nothing fixes tone like witnesses |
+| **The team is technically excellent and the shows are boring** | They've mastered the channel and forgotten the scenes. Beds are lovely, edits are clean, nobody wants anything | Stop drilling technique for six weeks. W1–2: lit two-handers about relationships, no sound work at all. W3: same scenes in the dark with a bed and nothing else. W4: reintroduce foley at one sound per 30 seconds, maximum. W5: full runs where the only note given is about want and relationship. W6: normal runs. Say out loud: "We have the instrument. Now we need something to say." |
 
 ---
 
 ### Glossary
 
-**Abort word** — A pre-agreed word any performer or staff member can say to bring the lights up within two seconds, no discussion.
+**Abort word** — A pre-agreed word (e.g. "HOUSELIGHTS") that any person in the building may say to trigger an immediate full lighting restore and a stop, for safety.
 
-**Accent (layer)** — The brief, punctuating, high-frequency element in a soundscape; intermittent by definition.
+**Accent layer** — Brief, punctuating, mid-level sound marking events and objects; the third of the three permitted layers.
 
-**Along (association)** — A word association that stays in the same category (penny → coin → money); banned in the word layer. Opposite of *sideways*.
+**Anchor (role)** — A designated player who remains at a fixed known point emitting a low continuous sound, so lost players can re-orient by ear.
 
-**Anchor (role)** — A player at a fixed known position who emits a low continuous sound so others can re-orient.
+**Anchor point** — A named fixed position in the space claimed by a player at the start of a rehearsal or show.
 
-**Anchor point** — A specific stage location a player can find in the dark, chosen and walked in the light.
+**Attention floor** — The rate at which novelty must arrive (roughly every 60–90 seconds) to prevent a dark-adapted audience drifting toward drowsiness.
 
-**Attention floor** — The point at which a dark audience's attention starts to slide toward drowsiness; requires novelty roughly every 60–90 seconds.
+**Audio Pile-On** — The form's signature failure: four or more simultaneous well-intentioned sound contributions producing unintelligible noise.
 
-**Audio Pile-On** — The form's signature failure: four or more simultaneous well-intentioned sound contributions, producing unintelligible noise.
+**Audio wipe** — A fast mouth-made "shhWOOP," swept across the audience's field, used as a neutral edit.
 
-**Audio wipe** — The default neutral edit: a fast wide mouth-made "shhWOOP" swept across the audience's field.
+**Bat, The** — The form: long-form improv performed in genuine pitch darkness, framed by player-generated opening and closing soundscapes, with all edits executed by sound.
 
-**Bandwidth** — The total simultaneous sonic information the audience can process; capped at three layers.
+**Batlet** — A 10–15 minute Bat: one opening scape, three scenes, one group piece, closing scape.
 
-**Bat, The** — The form: long-form improv in genuine total darkness, with the audience in the dark too.
+**Bed** — The continuous quiet ambience that establishes and holds a scene's location; one of the three permitted layers.
 
-**Bed** — The continuous quiet ambience that establishes and sustains a scene's location.
+**Bed decay** — Thinning the bed by roughly 30% over ten seconds as a non-verbal invitation to edit.
 
-**Bed decay** — Thinning the bed by roughly a third over ten seconds, as an invitation to edit.
+**Bed keeper** — The player who owns a scene's ambience and, by convention, its clock.
 
-**Bed keeper** — The player who owns a scene's ambience and its continuity, and holds clock authority for that scene.
+**Bed recall** — Reinstating a previous scene's exact ambience to signal a return to that thread, without dialogue.
 
-**Bed recall** — Reinstating a previous scene's exact bed with no dialogue, to signal a return to that thread.
+**Blind Harold** — A distinct pedagogical variant: players seated and blindfolded, house lights up for the audience. Not The Bat.
 
-**Blind Harold** — The distinct precursor variant: players blindfolded, house lights up. A training drill, not this form.
+**Chorus swallow** — An edit in which several players start a staggered chant or hum that grows until the scene players fold into it.
 
-**Chorus swarm** — A group piece in which three or more players enter staggered on the *same* rhythmic figure.
+**Chorus swarm** — A composed group sound piece: staggered entries three seconds apart, all on one rhythmic figure, differentiated by pitch.
 
-**Clean space** — The one to two seconds of near-nothing between an edit sound and the new bed; non-negotiable.
+**Clean space** — The mandatory one to two seconds of near-silence between an edit sound and the new scene's bed.
 
-**Collision protocol** — On simultaneous edits, the first to hear the other stops instantly and completely; the survivor commits louder.
+**Cold bed** — An ambience offered by one player with no announcement, as an invitation for others to enter and define it.
 
-**Contract, the audience** — The host's explicit pre-show promises about the dark, the exits, touch, and recorded sound.
+**Cold reproduction** — Reproducing a sound from earlier in a session or show, on demand and without warning; the ensemble's precision test.
 
-**Count-in** — Establishing an unembellished pulse for four bars before anyone joins a group piece.
+**Collision protocol** — The rule that when two edits begin at once, the second person to hear it kills theirs completely within a quarter-second; the fallback is that both escalate into one larger sound.
 
-**Cupped timbre** — Hands cupped around the mouth for phones, radios, machines and otherworldliness.
+**Convergence** — The show's third act: short units, accelerating edits, threads colliding, beds bleeding.
 
-**Dark Monoscene** — A Bat variant: one location, real time, no edits, with an evolving shared bed.
+**Count-in** — One player establishing an unembellished pulse and holding it unchanged for four bars so the group can lock on without a conductor.
 
-**Dawn, The** — Hybrid: opening soundscape in the dark, lights up for the middle, dark again for the closing.
+**Dark Call** — The mandatory pre-rehearsal ritual: hazards, boundaries, abort word, anchor points.
 
-**Drain** — The end of a soundscape: the drain owner hard-cuts their own layer and the rest peel out, high frequencies first.
+**Dead air** — Unintentional silence with no acoustic floor under it; distinguishable by an audience from held silence within a second.
 
-**Drain owner** — The designated player who signals and owns the drain and the show's final sound.
+**Drain** — The controlled collapse of a soundscape, initiated by one player hard-cutting their own layer.
 
-**Dream Symbol Association** — Joe Bill's associative drill: surreal, sideways, sensory word chains in the dark.
+**Drain owner** — The player designated to initiate the drain and to hold the show's final sound.
 
-**Dusk, The** — Hybrid: a lit form for the first two thirds, then blackout for the convergence.
+**Dream Symbol Association** — Joe Bill's associative word drill: sideways, image-based, non-synonymous associations spoken into the dark.
 
-**Dynamics curve** — The plotted loud/quiet/dense/sparse shape of a show; the structure a blind audience actually feels.
+**Dynamics curve** — The planned shape of loudness, density and distance across a show; the structure a blind audience actually feels.
 
-**Edit caller** — Whoever executes a given transition; a rotating rather than a fixed role.
+**Echolocation** — The spatial-mapping drill in which players navigate and locate each other by continuous sound.
 
-**Existence requires emission** — The principle that a character not making sound does not exist for the audience.
+**Ego dissolution** — Kris Hammond's term for the structural impossibility of assigning credit in the dark, and its ensemble consequences.
 
-**Exertion mime** — Genuinely performing a physical action in the dark so that breath and contact noise do the object work.
+**Exertion Mime** — Performing a physical task at full commitment in the dark so that breath, strain and contact noises do the object work.
 
-**Floating voices** — Failure mode: characters with no bodies, environment or physicality; also "talking heads."
+**Foley** — Live-generated event and object sounds; in this form, punctuation rather than content.
 
-**Floor (bed floor)** — A bed held at roughly 5% under a silence, so a pause reads as held rather than dropped.
+**Foley Trap** — Being seduced by the novelty of sound effects at the expense of grounded, relationship-based scenes.
 
-**Floor (role)** — A player whose standing job is to start a bed if unintended silence occurs.
+**Frequency slot** — One of five conventional bands (low drone, mid texture, high accent, rhythm, breath) claimed by one contributor at a time.
 
-**Foley** — Event and object sounds; punctuation, not content; roughly one per thirty seconds of scene.
+**Ghost line** — A line delivered from an unexpected position (the back of the house, the floor) or by an uncredited offstage voice.
 
-**Foley Diet** — Drill capping a foley operator at three to six sounds per scene.
+**Group sound piece** — The form's equivalent of a Harold group game: the whole ensemble spending its entire bandwidth on the bed layer at once.
 
-**Foley Trap** — Failure mode: virtuoso sound-making that serves nobody's scene.
+**Held silence** — Intentional silence with an acoustic floor (breath, a 5% bed) underneath it.
 
-**Frequency slot** — One of five bands in a soundscape: low drone, mid texture, high accent, rhythm, human breath.
+**Match cut** — An edit in which a sound from the outgoing scene continues and is reinterpreted as a different object in the incoming scene.
 
-**Ghost line** — A line delivered from an unexpected position, usually the back of the auditorium; once per show maximum.
+**Materiality line** — Naming what an object is made of rather than what it is, and then sounding the material.
 
-**Group sound piece** — The ensemble spending its entire bandwidth on the bed layer at once; the form's group game.
+**Motif** — A repeatable 2–4 second sonic figure established in the opening soundscape and reproduced exactly throughout the show.
 
-**Held silence** — An intentional pause with an audible floor and breathing under it; distinct from dead air.
+**Peel, The** — The moment when all soundscape layers hard-stop except one, which persists as the next unit's bed.
 
-**Inventory, The** — The pre-show ritual in which each player states slot, signature sounds, role and boundary aloud.
+**Render lag** — The one to two seconds a blind audience needs to dismantle one mental picture and build another.
 
-**Match cut** — Carrying a sound across an edit and letting the new scene reinterpret it as a different object.
+**Rule of Three Layers** — The ceiling on simultaneous sound: dialogue, bed, accent. A fourth element must displace one of the three.
 
-**Memory Bank** — Drill testing whether three random players can reproduce a motif cold.
+**Seed / Seeder** — The single first sound after the opening silence, and the player designated to make it.
 
-**Mix, the** — The current total sound of the room, as modelled by every player at all times.
+**Settle, The** — The 15–20 seconds of total silence between blackout and the seed.
 
-**Motif** — The 2–4 second repeatable figure established in the opening soundscape; the show's index.
+**Signature sound** — One small repeatable non-verbal sound owned by one character, used as their acoustic entrance.
 
-**Peel, The** — The transition where all layers stop except one, which persists as the next unit's bed.
+**Slot check** — The drill in which the coach calls "SLOT!" and speaking players name their current vocal register without stopping the scene.
 
-**Proximity play** — Using actual physical distance from the audience as the form's camera.
+**Sonic callback** — An exact reproduction of an earlier sound, used as a return.
 
-**Reality dial** — The axis from grounded to surreal; reserved for late in the show.
+**Sonification** — Making an action (especially movement) audible so it exists for the audience.
 
-**Render lag** — The one to two seconds a dark audience needs to dismantle one mental picture and build another.
+**Soundscape** — The collective, layered, player-generated audio construction that opens and closes the form.
 
-**Reproduce, don't reference** — The callback law: an approximate callback registers as new material and dies.
+**Sound token** — A sound carried across an edit as the transport mechanism between scenes.
 
-**Rule of Three Layers** — Dialogue, bed, accent. A fourth element must displace one of the three.
+**Teleportation** — The bug in which a voice moves position without an audible cross, corrupting the audience's spatial map.
 
-**Seed** — The single first sound after the settle silence.
+**Transport carriers** — The five things an edit can carry: sound token, word, voice, bed, motif.
 
-**Seeder** — The designated player who makes the seed.
+**Two-name handshake** — Establishing both characters' names in the first exchange, one in each player's mouth.
 
-**Settle, The** — The fifteen-to-twenty seconds of total silence immediately after blackout.
+**Vocal slate** — A first line that names your partner and gives one relationship fact.
 
-**Sideways (association)** — An association that jumps category into sensory or personal territory; the target of the word layer.
+**Voice slot** — A register/timbre combination claimed by one player for one character for the whole show.
 
-**Signature sound** — One repeatable non-verbal sound owned by one character.
+**Whisper close-up** — Playing at true whisper volume from the very downstage edge, within a metre of the front row.
 
-**Slot (voice)** — A register-and-timbre position owned by one player; the audience's casting system.
+**Word layer** — The associative spoken images placed into the gaps of the opening soundscape's rhythm.
 
-**Slot Roll-Call** — Warm-up in which every player states and demonstrates their register.
-
-**Sonar** — Drill for locating a sound source by ear.
-
-**Sonic edit** — Any transition executed by audible means; the only kind this form has.
-
-**Sonic intrusion** — An off-world sound invading a scene until it can't continue.
-
-**Soundscape** — Collective player-generated ambient composition; opens and closes the form.
-
-**Spare (player)** — A player formally designated as uncommitted in a given beat, available to subtract, rescue or catch.
-
-**Subtract yourself** — The in-show reflex: when the mix is broken, remove your own layer before trying to lead.
-
-**Transport carrier** — One of five things an edit can carry across: sound token, word, voice, bed, motif.
-
-**Teleportation** — Failure mode: a voice moving position without audible movement.
-
-**Two-name handshake** — Both players naming each other within the opening exchange, one name per mouth.
-
-**Virtual Bat** — Audio-only remote variant on Discord, Zoom cameras off, or similar platforms.
-
-**Whisper close-up** — A true whisper delivered from the downstage edge, a metre from the front row.
-
-**Word layer** — Spoken associations laid into the gaps of an established soundscape rhythm.
-
-**Yield, The** — Stopping instantly and silently mid-word when two players start together.
+**Word-to-World** — Taking a noun from the opening word layer and making it the *location* of a scene rather than its topic.
 
 ---
 
 ### Frequently Asked Questions
 
-**1. Our rehearsal room can't get properly dark. Can we still train?**
-Yes for weeks one to four, using blindfolds, and no for weeks five to eight. Blindfolds train listening; they do not train the specific experience of being in a dark room with an audience who are also in the dark, and they let players cheat by half-opening their eyes. Find one night in the actual venue, or a windowless room, or rehearse at night with blackout material taped over the windows. Budget for at least three genuinely dark sessions before you perform.
+**1. Our venue has exit signs we're legally not allowed to cover. Can we still do this?**
+Yes — hand out blindfolds and make it part of the ritual, announced by the host as "we're going to make our own dark." Audiences generally enjoy it. What you lose is a small amount of the shared-void feeling (an audience member can peek, and some will). What you must not do is play with visible exit signs and call it a Bat; the sighted hierarchy comes straight back and everyone's eyes lock to the green rectangle.
 
-**2. How dark is dark enough?**
-Stand in the room for ninety seconds — dark adaptation takes that long. If you can then see the outline of your own hand at arm's length, it isn't dark enough. Common culprits, in order of frequency: exit signs, the glow under a door, a booth monitor, a fire alarm panel LED, a fridge in the bar, and someone's watch.
+**2. How many rehearsals in actual darkness do we need before performing?**
+My minimum is eight full dark rehearsals, of which at least three are complete timed runs. The lit/blindfolded technical sessions are useful for the coach but do not substitute — blindfolded-with-lights-on is a different psychological experience for the player, and completely different for the space.
 
-**3. Someone in the cast is genuinely afraid of the dark. What do we do?**
-Say so out loud in week one, and design around it rather than around them. Give them a fixed anchor point they never leave, put them next to a wall, make them the anchor role so their own continuous hum is their orientation, and give them the abort word first. Many players find the fear resolves in two or three sessions. If it doesn't, that is legitimate and they should not perform the form; there is no version of this where a frightened player produces good work.
+**3. Can we do this with five people?**
+Yes, at 25 minutes, with two threads plus one recurring solo voice. You will find beds thin and voices tired. Below five, cut to a Batlet. The constraint isn't scene coverage, it's that somebody must always be free to hold the world while two people talk.
 
-**4. How do we stop people talking over each other?**
-Not by asking them to be careful. Three structural fixes, in order of effect: name the bed keeper and the foley operator aloud before every scene so everybody else knows they are *off*; teach "count to four, subtract yourself" as a reflex; and drill the yield until it's physical rather than considered. A team that has done fifty deliberate collisions will have almost none accidentally.
+**4. Somebody on our team is genuinely frightened of the dark. What do we do?**
+Believe them, immediately, and don't try to workshop it away. Options in order of preference: cast them out of this project without penalty; give them a fixed anchor position they never leave with the Anchor role (many people who dislike the dark are fine if they never have to move); run the piece with the cast blindfolded but a very low work light on, which is Blind Harold and a legitimate different show. Do not run "exposure therapy" in a rehearsal room. It isn't your job and it goes badly.
 
-**5. How long should scenes be?**
-Shorter than in the light. Two to two and a half minutes in the first two beats, and ninety seconds or less in the convergence. A dark audience clocks a pattern on the second instance rather than the third, so scenes reach their point faster and then sit there. If your average scene is over three minutes, your bed keepers aren't using their clock authority.
+**5. What suggestion should we take?**
+A single concrete thing you could hear or touch. "A household object," "something in your pocket," "a place with a sound in it." Best of all, ask an audience member to *make a sound*, and open by reproducing it — that establishes the entire premise in three seconds. Refuse abstractions politely: if you get "love," say "give me an object that makes you think of that" and take the second answer.
 
-**6. Do we have to do a Harold?**
-No. Joe Bill designed the form explicitly to break the three-beats-and-a-game rigidity. But rehearse with the spine anyway, because a first-time cast in the dark needs somewhere to put their hands, and then loosen it once the team can hold beds and land sonic edits without thinking. Tighten the procedure, loosen the story.
+**6. What do we do about laughing? We can't hold it in the dark.**
+Two things. Technically: the bed keeper swells to swallow it and then edits, and you never try to suppress a laugh silently, because a suppressed laugh is more identifiable and more embarrassing than a swallowed one. Culturally: giggling in the dark is almost always a *tension release*, and the tension is usually caused by not knowing what your job is. Teams who assign roles out loud before each scene laugh far less.
 
-**7. Can we use a soundboard, or a bit of pre-recorded rain?**
-You can, and it will cost you the thing the audience came for. Their central pleasure is knowing a human mouth made the storm. The moment a recorded sound enters, the frame changes from "these people are conjuring this" to "this has a soundtrack," and it does not change back.
+**7. Doesn't this get monotonous for the audience?**
+It does, if your dynamics are flat. That's the whole reason the dynamics curve is a rehearsal artefact and not an afterthought. Novelty every 60–90 seconds — and novelty means contrast, which is cheap. A drop to whisper re-engages an audience as effectively as a shout and costs you nothing.
 
-**8. What about an instrument?**
-One acoustic instrument, physically in the room, played by a full ensemble member subject to the same three-layer discipline, is legitimate and can be beautiful. An instrumentalist who underscores continuously becomes the de facto lighting designer and flattens the dynamics curve. Cap the number of songs at two if you're going musical at all.
+**8. Is it really wrong to use a soundboard for one thunderclap?**
+It is against the form's central promise, and audiences detect the difference instantly even when they can't articulate it. The moment a recorded sound plays, the audience reclassifies the whole show from "these people are conjuring this" to "this has a soundtrack," and every mouth-made sound afterwards sounds like a budget compromise. If you want recorded audio, you're making improvised radio drama, which is a fine thing to make.
 
-**9. How do we take a suggestion?**
-In the light, before blackout, and ask for something concrete: a household object, a place, something in your pocket, or — best of all — *a sound*, made by an audience member. A sound suggestion lets your first move be to reproduce the audience's own noise, which teaches them the whole form in three seconds. Never take an abstract concept; "love" produces a mush soundscape and three scenes about relationships.
+**9. Our team keeps doing horror. How do we get out of it?**
+Genre-lock deliberately in rehearsal for four weeks: domestic, workplace, romance, comedy of manners — anything but horror — and enforce it. Horror is the dark's default gravity because dread is free, and free is seductive. The best-kept secret of this form is the whispered domestic Bat about very small things; it is devastating and almost nobody attempts it.
 
-**10. Nobody edits and scenes go on forever. How do we fix it in one rehearsal?**
-Give clock authority to the bed keeper explicitly, and drill Bed Decay as an invitation: at two minutes, thin the bed by a third; if nobody takes it in ten seconds, the bed keeper edits themselves. This converts editing from an act of courage into a job someone has been given.
+**10. How do we handle a three-person scene?**
+Mostly, don't. If you must, the third character has to buy their frequency: give them a distinct register, a signature sound, and a *reason to renew presence* (they're doing something with their hands). Cap it at 90 seconds. In practice, the better move is to have the third character enter, do one thing, and audibly leave — exits are free in this form and criminally underused.
 
-**11. What if two people edit at once during a show?**
-Pick your team's convention now and drill it. Either: first to hear the other kills theirs instantly and the survivor commits *louder*; or: both commit and merge into one bigger sound. Both work. What doesn't work is having no convention, or having two, because you cannot negotiate in the dark. And in the mutual-stop case, the second person to break silence wins and goes big.
+**11. What if the audience talks, or someone's phone goes off?**
+Play on and absorb it if you can (a phone becomes a phone in the world; a cough becomes a character). Never address it and never let a player break to shush anyone. If it's persistent, the house staff at the back handles it. Your prevention is the pre-show contract, and "off, not silent" is the single most important sentence in it.
 
-**12. How do we handle an audience member who needs to leave?**
-Plan for it and it's a non-event. House staff at the back with a red-gelled or heavily shaded torch pointed at the floor, one per exit, and the host has already told the audience that leaving is fine and expected. The show does not stop, does not acknowledge it, and does not slow down. Rehearse the staff on where they stand and where they point.
+**12. Can we record it?**
+Yes, and the form records unusually well — that's how it fed the improv-podcast tradition. Two warnings. A visible mic changes behaviour: everybody drifts toward it and your spatial staging dies. Use either a discreetly hung ambient pair, or a central binaural rig which actually reproduces the staging faithfully for headphone listeners. And tell the cast the mic exists *before* the show, not after.
 
-**13. Can we perform this with five people?**
-Yes, at twenty minutes, with two threads and one group piece, and with one player formally assigned as a floating bed keeper so no scene is ever naked. Rotate that job by beat so it isn't a punishment. Do not attempt thirty minutes with five; your bed keepers will be vocally exhausted by minute eighteen and you will hear it.
+**13. How long should the opening soundscape be?**
+Three to four minutes in a 30-minute piece. Under two and you won't have established a motif or a word bank; over five and you've spent a sixth of your show on a prologue. Time it in rehearsal — most teams' internal clock in the dark runs about 30% fast, so what feels like four minutes is often two and a half.
 
-**14. Our closings are always a mess. Why?**
-Because you've never rehearsed one as a discrete unit. Openings get rehearsed because they come first; closings get whatever's left of the night. Run Ten Closings — ten in a session, off imaginary inventories — and give the drain owner a hard time cue they act on regardless of what's happening onstage. The closing is a set piece, not a mood.
+**14. Should we plan anything in advance?**
+Plan roles, not content. Who seeds, who owns the drain, who's the Anchor, who's the "floor," what the shift structure is if you're over eight, and the hard time cue for the closing. Planning content in a form built on collective emergence is both unnecessary and detectable — but planning *jobs* removes exactly the coordination burden that the dark makes expensive.
 
-**15. How do we know if a callback will land?**
-Test it in rehearsal with Memory Bank: name the sound in words only and have three random players reproduce it separately. If the three reproductions differ audibly, the sound is unusable as a motif and you should simplify it until they don't. Complexity is the enemy; three taps beats a seven-note figure every time.
+**15. Our openings always produce three literal synonyms for the suggestion. Why?**
+Because your team is treating the word layer as a naming exercise instead of a memory exercise. Run Dream Symbol Association with the sideways rule enforced brutally for three sessions, and add the physical prompt "give me a *memory*, not a definition." Also: lock the motif first. Synonym-chains almost always happen when there's no rhythm to sit in, because people fill the panic with the nearest available word.
 
-**16. Should the players be blindfolded?**
-No. That's Blind Harold, and it's a different thing — a rehearsal drill, or a lit show in which the audience watches people grope, which is a comedy of the body rather than a theatre of the ear. In the Bat, the performers' eyes are open and useless, and the room is what's dark.
+**16. How do we know when to start the closing soundscape?**
+Give the drain owner a hard clock cue — 27:00 in a 30-minute show — and give them absolute authority to start it whatever is happening. Everyone else's standing obligation is to recognise the motif and join with old material only. Teams that "feel their way" to an ending in this form reliably run to 40 minutes.
 
-**17. How do we handle physical contact?**
-Default is no touch, negotiated in the light, restated at the top of every rehearsal and every show as part of the Inventory. If a scene wants contact, the players involved must have agreed it explicitly beforehand, and the form gives you a better option anyway: proximity and breath read as more intimate in the dark than an actual hand does.
+**17. Can a Bat be genuinely funny, or is it inevitably atmospheric?**
+It can be extremely funny, and its comedy has a particular flavour: the mismatch between what's described and what's heard, characters who cannot see each other, absurd escalations that would look silly in the light and are simply *true* in the dark. What it can't do is visual comedy or physical mugging, which is where most improvisers' laugh muscles live — so funny teams often have a hard first month. Push them toward wordplay, tone, absurd sonic literalism, and the underused comic power of a very long pause.
 
-**18. Our audience laughs less than at a lit show. Are we failing?**
-Probably not. Dark audiences laugh less and *lean in* more, because a lot of what they'd normally laugh at is being replaced by imagining. Judge by the quality of the silences, not the volume of the laughs. If the room is genuinely still and nobody's shifting in their seat, you have them. Restlessness and coughing are your real warning signs.
+**18. One player's voice is naturally similar to another's. What do we do?**
+Solve it structurally, not by asking someone to do a funny voice. Options: they never appear in a scene together and never in the same beat; one takes a permanent tempo difference (clipped vs. unhurried) which is more distinguishable than pitch; one takes a permanent signature sound so the audience identifies them by the *sound*, not the voice. Write the arrangement on the wall so it doesn't rely on memory.
 
-**19. How do we brief a venue that's never done this?**
-Three conversations: the fire officer or venue manager about exit signage and whether it can legally be covered; the tech about the two cues and the fact that they will be operating in the dark; and front of house about the door policy, the warning copy, the torches and the escort procedure. Do all three at least a week out, because the exit sign question can kill the show and you need time for the blindfold fallback.
+**19. Our team does great sound and boring scenes. How do we fix it?**
+Stop doing sound. Six weeks of lit two-handers about people who want something from each other, then reintroduce the bed only, then reintroduce foley at one sound per thirty seconds. Say the diagnosis out loud, because a technically excellent team usually doesn't know: "We have the instrument. We haven't got anything to say."
 
-**20. Can we do this online?**
-Yes — the form survived the pandemic better than any visual format because its channel was already audio. Cameras off, strict mic etiquette, and one crucial adjustment: latency makes simultaneous soundscapes and choral pieces nearly impossible, so plan for *sequential* sound. Layers get added one at a time and held; group pieces become call-and-response rather than chorus. What you lose is genuine spatial staging; you get level, not direction.
+**20. What's the biggest difference between a good Bat and a great one?**
+Reproduction. The good ones have great openings, clean beds and clever edits. The great ones can *return* — the exact drip, the exact three taps, the exact chain in a different pair of hands — so that the last ninety seconds replay the whole show inside the audience's head. Everything else is achievable in eight weeks; reproduction takes a season.
 
-**21. How often should we perform it?**
-Not weekly. The form asks a lot of an audience and a lot of a cast's voices, and both wear. Monthly at most for a resident team, or as a festival and special-event piece. Meanwhile keep one dark rehearsal a month even when you're not performing it; the listening it builds shows up in every lit show you do.
+**21. How do we brief a house that has never seen this?**
+Over-promise the *procedure* and under-promise the *experience*. Tell them exactly what will happen mechanically (duration, no touch, exits, no recorded sound, leaving is fine) and say nothing about what it will feel like. Audiences who are told "this will be intense and immersive" arrive braced; audiences who are told "the lights will go out for half an hour and everything you hear is made by a person" arrive curious.
 
-**22. One player is clearly better at this than everyone else. What do I do with them?**
-Give them the structural jobs — drain owner, closing lead, anchor — which require restraint and are invisible, and stop them from taking scenes. Their skill in this form is most valuable spent on the frame. And do not praise their specific sounds in the notes room; you will teach the rest of the team to defer, and deference in the dark sounds exactly like a team with nothing to say.
+**22. Can we do this online?**
+Yes — the form survived the pandemic better than any visual one because its channel was already audio. Cameras off, everyone on headphones, strict microphone etiquette. What you lose is real spatial staging (you get level, not direction, unless you have panning software) and — fatally for soundscapes — latency makes simultaneous group sound almost impossible. Design around it: **sequential** layering rather than simultaneous, one bed at a time held by one person, chorus pieces replaced by relay pieces. Shorten to 20–25 minutes; online attention in the dark is a shorter fuse.
+
+**23. Should the performers wear anything specific?**
+Soft-soled shoes or bare feet, dark clothing (for the bow and for any accidental light), nothing that rustles unless you want it to — a nylon jacket is a permanent uncontrolled sound source. Empty pockets: keys and coins are the two most common accidental sounds in the form, and both of them will read as a deliberate offer that nobody made.
 
 ---
 
 ### Quick Reference Card
 
-> **THE BAT — GREEN ROOM CARD**
+**THE BAT — GREEN ROOM CARD**
 
-**THE SHAPE** — Contract in the light · Blackout snap · 15–20s settle · Opening soundscape (seed → layers → motif → words → peak → drain → peel) · Beat 1: A / B / C · Group piece · Beat 2: A / B / C · Group piece (contrast) · Convergence (short units) · Closing soundscape (old material only) · One sound · 3s silence · Lights **snap** up · Bow.
+**THE SHAPE (30 min)**
+`LIGHT: host contract + suggestion` → `SNAP BLACK` → `0:00 settle silence (15–20s)` → `0:20 opening soundscape: seed → 4 layers → MOTIF → words in the gaps → peak (<10s) → drain → THE PEEL` → `4:00 A1 · B1 · C1 (sonic edits)` → `12:00 group sound piece 1` → `13:30 A2 · B2 · C2` → `20:00 group piece 2 (CONTRAST — if 1 was loud, whisper this)` → `21:30 convergence: short units, threads collide` → `27:00 CLOSING SOUNDSCAPE — old material only` → `drain → one sound → 3s held silence` → `SNAP UP` → `bow in light`
 
-**THE ROLES — say them out loud before every run**
-Scene players (2) · Bed keeper (1, owns the clock) · Foley (1, six sounds) · Edit caller (rotating) · Anchor (fixed, hums) · Seeder (opening's first sound) · Drain owner (both drains, final sound) · Spare (rescue) · Host · Tech (2 cues) · House staff (shaded torch).
+**THE ROLES — say them out loud before every scene**
+
+| | |
+|---|---|
+| **Scene players (2)** | Names in 3 lines, own slot, signature sound, do the object work for real |
+| **Bed keeper (1)** | Room before mouth. Hold steady. Owns the clock. Thin at 2:00 = invitation |
+| **Foley (1)** | One sound per 30 seconds. Answers, not offers |
+| **Edit caller** | Sound → 1–2s clean space → bed → line |
+| **Anchor** | Never moves. Low continuous hum. The lighthouse |
+| **Seeder / Drain owner** | Designated tonight. Nobody else seeds. Drain owner starts the closing at 27:00 no matter what |
 
 **THE FIVE RULES**
-1. **Room before the mouth.** Bed runs before the first line. Always.
-2. **Three layers, no more.** Dialogue, bed, accent. If you hear four, you are one of them — stop.
-3. **One voice, one character, all show.** No slot sharing in a scene.
-4. **Move audibly or don't move.** Footsteps, hum, or a line on the move.
-5. **Every edit is heard, then a clean space of 1–2 seconds.**
+1. **Three layers, no more.** Dialogue + bed + accent. Fourth in, first out. When in doubt, be the one who stops.
+2. **Room before mouth.** Bed runs three seconds before the first line, every scene, no exceptions.
+3. **Move audibly or don't move.** Silent crossing = teleportation = the map is broken.
+4. **One voice, one character, all show.** No two characters in a scene share a slot.
+5. **Callbacks are reproductions, not references.** Same rhythm, same pitch, same length, or it dies.
 
 **THE FIVE MOVES**
-1. **Match cut** — keep the sound, change the object.
-2. **Bed recall** — reinstate the old ambience, say nothing for two seconds.
-3. **Signature sound entrance** — sound before speech; they know who it is.
-4. **Whisper close-up** — downstage edge, true whisper, one metre from row A.
-5. **Peel** — everything stops but one sound, which becomes the next bed.
+1. **The Peel** — everything cuts but one sound; the survivor is the next bed.
+2. **Match cut** — keep making the sound across the edit; let the new scene call it something else.
+3. **Bed recall** — reinstate the exact old ambience, say nothing for two seconds. "We're back."
+4. **Exertion mime** — do the task for real; let the breath be the object work.
+5. **Whisper close-up** — downstage edge, true whisper, one metre from the front row.
 
 **THE FIVE WARNINGS**
-1. **Pile-on** — four supportive people is a wall. Subtract yourself first, lead second.
-2. **Foley Trap** — nobody asked for a horse. Sound only what's named or needed.
-3. **Approximate callback** — 80% right lands as a new noise. Reproduce, don't reference.
-4. **Dropped silence** — never let the bed hit zero unless you mean it. 5% floor.
-5. **Teleport** — silent crossing corrupts the map. Feet, hum, or breath.
+1. **Pile-on** — four kind people, one wall of nothing. Kill yours; don't fade it.
+2. **Endless scene** — nobody's waiting for a sweep; there isn't one. Bed thins, then bed edits.
+3. **Foley trap** — the two-minute horse. Nobody asked for the horse.
+4. **Dropped silence** — never let the bed hit zero unless you mean it. 5% is the floor.
+5. **Approximate callback** — 80% right is 0% right.
 
-**IN-SHOW REFLEXES** — Mutual edit stop: second to speak wins, go bigger. · Bedless scene: any offstage player furnishes it unasked; scene players accept next line. · Wrong callback: perform it right, once, no comment. · Corpsing: hand over mouth. · Trouble: say the abort word.
+**COLLISION** — second to hear it kills theirs in a quarter-second. If neither can tell: **both get bigger together.**
 
-**BEFORE BLACKOUT** — Phones off (not silent) · Watches and lit trainers off · Floor swept · Anchors walked · Slots and signatures stated · Roles named · Boundaries stated · Water drunk · Abort word confirmed.
+**ABORT WORD:** `HOUSELIGHTS` — anyone, any time, instant full restore, no discussion.
 
----
-
-### INFOGRAPHIC BRIEF
-
-- Poster title text, exact: **THE BAT**
-- Subtitle text, exact: **Long-form improv in total darkness, where sound is the only set.**
-- Central visual metaphor: a single glowing sound-wave line travels left to right across a pitch-black stage, swelling into rooms, splitting into scenes, and gathering back into one wave at the end.
-- Flow diagram, drawn across the poster's middle band on a near-black field: a wide rounded rectangle labelled DARK STAGE, with a smaller arc of seated audience silhouettes below it labelled AUDIENCE, both inside the same black area to show they share the dark. Inside the stage rectangle, left to right: a glowing circle labelled OPENING SOUNDSCAPE, then three stacked rounded boxes labelled SCENE A, SCENE B, SCENE C, then a large circle labelled GROUP SOUND, then a converging funnel shape labelled CONVERGENCE, then a glowing circle labelled CLOSING SOUNDSCAPE. Arrows: from OPENING SOUNDSCAPE to SCENE A, labelled "peel to one sound"; between the three scene boxes, curved arrows labelled "sonic edit"; from SCENE C to GROUP SOUND, labelled "swell"; from GROUP SOUND to CONVERGENCE, labelled "threads collide"; from CONVERGENCE to CLOSING SOUNDSCAPE, labelled "reuse old sounds"; from CLOSING SOUNDSCAPE out to the right edge, labelled "lights snap up". A dashed line runs under the whole diagram from a small speaker-mouth icon labelled BED KEEPER and a hand-clap icon labelled FOLEY, showing they feed every scene.
-- Six panels in two rows of three below the diagram, each a bordered box with a heading and one body line:
-  - Heading: Sound First — Body: Build the room with sound before anyone speaks.
-  - Heading: Three Layers Only — Body: One voice, one bed, one effect. Nothing more.
-  - Heading: Edit With Sound — Body: Wipes, swells, match cuts. Unheard edits never happened.
-  - Heading: One Voice Each — Body: Your voice is your costume. Never change it.
-  - Heading: Move Audibly — Body: Footsteps or humming. Silent crossings read as teleporting.
-  - Heading: Close The Frame — Body: Final soundscape rebuilds the show from its own sounds.
-- Timeline strip along the bottom, a horizontal bar with tick marks and labels in order: 0:00 Blackout · 0:20 Opening Soundscape · 4:00 Beat One · 12:00 Group Sound · 13:30 Beat Two · 21:30 Convergence · 26:30 Closing Soundscape · 29:30 Lights Up.
-- Small warning strip, bottom right, headed WATCH OUT FOR, three items: Everyone talking at once · Scenes with no bed · Callbacks that sound different.
-- Iconography to draw: flat performer silhouettes with open mouths and visible breath curves; a pair of silhouettes crouched low to show floor work; cupped hands around a mouth; concentric sound rings radiating from mouths; a light bulb crossed out; a stopwatch; three stacked horizontal bars for the three layers; a footprint trail; a speech bubble with three dots inside for held silence; a lightning-bolt burst for the edit sound; a semicircle of seated audience heads.
-- Colour and typography: near-black background; one warm amber for glowing sound waves and headings; one cool pale blue for arrows and diagram outlines; soft off-white for body text; nothing else. Clean geometric sans-serif throughout, heavy weight for headings, regular for body, generous letter spacing, no serifs, no script, no textures.
-- Every text string that must appear, exactly: THE BAT · Long-form improv in total darkness, where sound is the only set. · DARK STAGE · AUDIENCE · OPENING SOUNDSCAPE · SCENE A · SCENE B · SCENE C · GROUP SOUND · CONVERGENCE · CLOSING SOUNDSCAPE · BED KEEPER · FOLEY · peel to one sound · sonic edit · swell · threads collide · reuse old sounds · lights snap up · Sound First · Build the room with sound before anyone speaks. · Three Layers Only · One voice, one bed, one effect. Nothing more. · Edit With Sound · Wipes, swells, match cuts. Unheard edits never happened. · One Voice Each · Your voice is your costume. Never change it. · Move Audibly · Footsteps or humming. Silent crossings read as teleporting. · Close The Frame · Final soundscape rebuilds the show from its own sounds. · 0:00 Blackout · 0:20 Opening Soundscape · 4:00 Beat One · 12:00 Group Sound · 13:30 Beat Two · 21:30 Convergence · 26:30 Closing Soundscape · 29:30 Lights Up · WATCH OUT FOR · Everyone talking at once · Scenes with no bed · Callbacks that sound different. No other text should appear.
+**IF YOU ARE LOST:** find the hum. Walk to it. Audibly. In character.
 
 ---
 
-<sub>Compiled by `Elaborate_Games.sh` on 2026-08-10 01:15 UTC. Source article archived from https://wiki.improvresourcecenter.com/index.php?title=Bat. Generated sections are model output: the research passes are search-grounded but should be verified before citation, and the craft analysis is expert-style synthesis, not a primary source.</sub>
+<sub>Part I is an archived third-party article, reproduced as scraped. Parts III and IV are generated elaboration: the research passes are search-grounded but should be verified before citation, and the craft analysis is expert-style synthesis, not a primary source.</sub>
 
 ---
 
