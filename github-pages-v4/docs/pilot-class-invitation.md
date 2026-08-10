@@ -45,7 +45,7 @@ After a successful 3-week experimental phase, we are ready to pilot our full beg
 
 ## 🗓️ The 8-Week Intensive Beginner Course
 
-We are piloting an intense, 8-week online improv course. Each session builds upon the last, requiring serious commitment.
+We are piloting an intense, 8-week online improv course — a condensed version of [Format #2 — The 8-Week Deep Dive](workshops/format-2/index.md) published on this site. Each session builds upon the last, requiring serious commitment.
 
 | | |
 |---|---|
@@ -53,9 +53,6 @@ We are piloting an intense, 8-week online improv course. Each session builds upo
 | **When** | Saturdays at 8:00 AM Pacific Time (8:30 PM IST) — starting **September 5th** |
 | **Duration** | 2 hours 30 minutes (150 minutes) per weekend session |
 | **Homework** | 30 minutes of daily homework tasks between weekend sessions |
-
-!!! info "How this maps to the published curriculum"
-    The pilot runs a condensed version of [Format #2 — The 8-Week Deep Dive](workshops/format-2/index.md), the beginners course published on this site. That curriculum is written for 180-minute sessions; the pilot compresses each one into 150 minutes.
 
 [🎭 Apply for the September cohort](https://forms.gle/mTu57wvF2A1dihUB7){ .md-button .md-button--primary }
 
