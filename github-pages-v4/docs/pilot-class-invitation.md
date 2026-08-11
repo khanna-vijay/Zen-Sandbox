@@ -56,7 +56,7 @@ We are piloting an intense, 8-week online improv course [Format #2 - The 8-Week 
 |---|---|
 | **Fees** | **None - $0.** A not-for-profit, pay-it-forward amateur-community initiative |
 | **When** | All 8 Saturdays, **5 September – 24 October**, 8:00 AM Pacific Time (8:30 PM IST) |
-| **Duration** | 2 hours 30 minutes (150 minutes) per weekend session |
+| **Duration** | 2 hours per weekend session |
 | **Homework** | 30 minutes of daily homework tasks between weekend sessions |
 
 ## 📜 What you are agreeing to
@@ -71,10 +71,10 @@ The application form asks you to confirm **three** things. All three are set out
 
 | | |
 |---|---|
-| **Commitment** | Miss 2 sessions and you will be asked to step out and rejoin a future batch. Each week builds on the last, so a gap in your learning quietly becomes a gap in your scene partner's too. |
+| **Commitment** | Each week builds on the last, so a gap in your learning quietly becomes a gap in your scene partner's too. Miss 2 sessions and you will be asked to step out and rejoin a future batch. |
 | **Respect** | Zero tolerance for political, religious, or discriminatory discussions. The stage is one of the few places left where none of that has to follow you in, and we would like to keep it that way. |
-| **Safety first** | Step out at any point, with no explanation owed to anyone. Nobody will ask why and nobody will think less of you. Here, "pass" is a complete sentence. |
-| **Physicality** | This is closer to theater training than to a webinar. Expect to be on your feet, making funny faces, gibberish noises and acting warmups. Everyone else looks equally silly, which is rather the point. |
+| **Safety first** | Step out at any point, with no explanation owed to anyone. Nobody will ask why and nobody will think less of you. Here, "No" is a complete sentence. |
+| **Physicality** | This is closer to theater training than to a webinar. Expect 90% of time in engaging activities. Expect to be on your feet, making funny faces, gibberish noises and acting warmups. Everyone else looks equally silly, which is rather the point. |
 
 ### 📋 2. Course Expectations
 
@@ -84,11 +84,11 @@ The application form asks you to confirm **three** things. All three are set out
 |---|---|
 | **Admission** | The organizers reserve the right of admission, and of continuing membership. We have never needed to use it. It exists so that one difficult person cannot undo a room built on trust. |
 | **Sobriety** | To maintain a safe and focused environment for the whole group, please do not join sessions under the influence of drugs or alcohol. Improv requires us to be highly present and connected with our scene partners, and showing up sober ensures we can all fully support each other. |
-| **Mental & Emotional Well-being** | Improv lowers your emotional guard by design. While this vulnerability is a gift on a good day, it can be genuinely unhelpful if you are currently working through severe trauma or intense active therapy. This space is not a substitute for clinical support. Please prioritize your healing, and come join us when you are in a season where this kind of open play will truly do you good. |
-| **Free will** | Participation is voluntary, and the training can be ended at any time. Each participant stays responsible for their own well-being, and for extending courtesy to the community. Nobody here is being graded, and nobody is being kept. |
+| **Mental & Emotional Well-being** | Improv lowers your emotional guard by design. While this vulnerability is a gift on a good day, it can be unhelpful if you are currently working through a severe trauma or intense therapy.Please prioritize your healing, and come join us when you are in a season where this kind of open play will truly do you good. |
+| **Free will** | Participation is voluntary, and you can opt-out at any time. Each participant stays responsible for their own well-being, and for extending courtesy to the community. Nobody is being graded.|
 | **Privacy** | No recording of any kind, and nothing said in the room is shared, quoted or reused outside it. People take real risks in these sessions, and they can only do that if they know it stays in the room. |
 | **Non-commercial** | This is a non-profit endeavour, and no commercial solicitation is permitted in the forum. No pitches, no recruiting, no newsletters. Just the class. |
-| **Attendance** | All 8 consecutive Saturdays, 5 September to 24 October, at 8:00 AM Pacific Time (8:30 PM IST), 2 hours 30 minutes per session. Please check every date against your calendar before applying. Finding a clash in week three is much harder on the group than finding it now. |
+| **Attendance** | All 8 consecutive Saturdays, 5 September to 24 October, at 8:00 AM Pacific Time (8:30 PM IST), 2 hours per session. Please check every date against your calendar before applying. Finding a clash in week three is much harder on the group than finding it now. |
 | **Homework** | Around 30 minutes a day between weekend sessions. Small and daily beats heroic and occasional, because the skill sets between the classes rather than during them. |
 
 ### 💻 3. Technical & Space Requirements
@@ -114,6 +114,12 @@ Mileage always varies depending on how much energy you invest and the depth of *
 * Deeper, more active listening skills.
 * Improved ability of "Being in the Present", instead of overthinking the future.
  
+## A Few Samples to help you make up your mind, if this is a good fit for you
+* [TEDxVictoria - Dave Morris: The Way of Improvisation](https://www.youtube.com/watch?v=MUO-pWJ0riQ)
+* [Example of an Improv Game - Panic Squad Improv Comedy- Numbers Game](https://www.youtube.com/watch?v=2D2F7VUCl10)
+* [Sample Training Videos from Canadian Improv Games : improv.ca](https://www.improv.ca/training-videos/)
+ 
+
 
 ## Ready to let go of the illusion of control?
 
@@ -122,5 +128,7 @@ Claim your spot in the upcoming **September 5th** cohort, and let's navigate the
 !!! success "💛 Zero course fees : **$0**"
     This is a **not-for-profit community initiative**. There are **no course fees**, no
     tiers and nothing to upgrade : It is run as part of our **pay-it-forward** initiative.
+
+Please note: Our classes are 90% Games & Fun, and just 10% Theory. We believe in Experiential Learning. 
 
 [🎭 Apply for the September cohort](https://forms.gle/mTu57wvF2A1dihUB7){ .md-button .md-button--primary target="_blank" rel="noopener" }
