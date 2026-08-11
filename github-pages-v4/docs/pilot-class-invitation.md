@@ -8,10 +8,10 @@ hide:
 
 > *Mastering 'ai' in the Age of AI.*
 
-I have been practicing the "Improvisation" art form for some time now, and believe it is one of the most critical human skill in the current era. While we learn Artificial Intelligence, we also need **Improv** the essential **'ai'** skill : **ancient intelligence**, the timeless human capacity for presence, laughter, and connection.
+I have been practicing the "Improvisation" art form for some time now, and believe it is one of the important skill in the current era. While we learn Artificial Intelligence, we also need **Improv** the essential **'ai'** skill : **ancient intelligence**, the timeless human capacity for presence, laughter, and connection.
 Think of it as a modern practice of the Zen philosophy *Wu wei* (Effortless Action).
 
-At its core, to improvise is to invent or make something using whatever is available at the time, without prior planning. But beneath the surface, it is an essential tool for navigating the **VUCA** (Volatility, Uncertainty, Complexity, and Ambiguity) world we live in. It trains us to **think on our feet**, **stay in the present**, **handle the inner critic's relentless judgemental chatter**, while maintaining a **peaceful state of mind in the changing situations**.
+At its core, to improvise is to invent or make something using whatever is available at the time, without prior planning. But beneath the surface, it is an essential tool for navigating the **VUCA** (Volatility, Uncertainty, Complexity, and Ambiguity) world we live in. It trains us to **think on our feet**, **stay in the present**, **handle the inner critic's relentless judgemental chatter**, while maintaining a **peaceful state of mind in changing situations**.
 
 ![The Zen Sandbox : a playful beach sandbox where a community builds sandcastles and block towers and shares stories around a campfire, with signposts reading Yes And, Practice Presence, Have Fun, and Build Bonds](assets/zen-sandbox.jpg){ .hero-image loading=lazy }
 
@@ -25,12 +25,12 @@ Why does making up scenes on the spot feel so transformative? Cognitive science 
 
 ## 🔍 Honest Expectations & The "Shoshin" Mindset
 
-Let me be completely honest: **Improv does not guarantee anything.** There is a fair chance you will not get/learn anything, if you come weighed down by expectations. The inner critic can get busy with its judgemental-chatter on seeking immediate results than enjoying the learning process.
+Let me be completely honest: "Improv is not a magic bullet for corporate charisma or public speaking." If someone comes weighed down by expectations, they may miss on true learning. Just be full present, and Enjoy the learning process.
 
-Do not expect a magic bullet for corporate charisma or public speaking. The magic of improv *only* happens if you approach it with **Shoshin** (Beginner's Mind), approaching the space with total openness, eagerness, zero ego, and just enjoy the games with no expectations.
+The magic of improv happens if you approach it with **Shoshin** (Beginner's Mind), approaching the space with total openness, eagerness, zero ego, and just enjoy the games with no expectations.
 
 !!! note "With gratitude, and a strong recommendation"
-    Everything we practise here we learned from teachers and institutions who have carried
+    Everything we practice here we learned from teachers and institutions who have carried
     this art form for decades. If you can, highly recommended to pursue a professional, **in-person**
     improv course at a local theater : [The Second City](https://www.secondcity.com/),
     [ComedySportz](https://cszworldwide.com/), [UCB (Upright Citizens Brigade)](https://ucbcomedy.com/),
@@ -55,6 +55,42 @@ We are piloting an intense, 8-week online improv course based on [Format #2 - Th
 | **Fees** | **None - $0.** A not-for-profit, pay-it-forward amateur-community initiative |
 | **Duration** | 2 hours per weekend session. Schedule in the Google Form link below |
 | **Homework** | 30 minutes of daily homework tasks between weekend sessions |
+
+
+## 🌱 The Benefits reported by Improv Participants
+
+Mileage always varies depending on how much energy you invest and the depth of *Shoshin* mindset. However, participants who practice this art form regularly report:
+
+* Improved ability of "Being in the Present", instead of overthinking the future.
+* Improved spontaneity and risk-taking ability.
+* Increased comfort operating in a Changing, VUCA world.
+* Ability to take inspired action, even in spite of the chatter of the inner judge/critic.
+* Heightened intuition and creativity.
+* Strengthened "fun muscles!"
+* Deeper, more active listening skills.
+
+ 
+## A Few Video Examples to help you make up your mind, if this art form is a good fit
+* [TEDxVictoria - Dave Morris: The Way of Improvisation](https://www.youtube.com/watch?v=MUO-pWJ0riQ)
+* [Example of an Improv Game - Panic Squad Improv Comedy- Numbers Game](https://www.youtube.com/watch?v=2D2F7VUCl10)
+* [Sample In-Person Training Videos. We will be doing similar ones Online](https://www.improv.ca/training-videos/)
+ 
+
+
+## Ready to let go of the illusion of control?
+
+Nominate for upcoming cohort, and let's navigate the unscripted world together.
+
+!!! success "💛 Zero course fees : **$0**"
+    This is a **not-for-profit community initiative**. There are **no course fees**, no
+    tiers and nothing to upgrade. It is run as part of our **pay-it-forward** initiative to motivate people to overcome inhibitions, have fun, build genuine connections and get inspired from our [Improv Anthem](https://www.youtube.com/watch?v=9Qi_dvZmFyI).
+    
+        
+Please note: Our classes are 90% Games & Fun, and just 10% Theory. We believe in Experiential Learning. 
+
+
+[🎭 Apply for the Upcoming cohort](https://forms.gle/mTu57wvF2A1dihUB7){ .md-button .md-button--primary target="_blank" rel="noopener" }
+
 
 ## 📜 What you are agreeing to
 
@@ -86,7 +122,7 @@ The application form asks you to confirm **three** sets of rules. All three are 
 | **Privacy** | No recording of any kind, and nothing said in the room is shared, quoted or reused outside it. People take real risks in these sessions, and they can only do that if they know it stays in the room. |
 | **Non-commercial** | This is a non-profit endeavour, and no commercial solicitation is permitted in the forum. No pitches, no recruiting, no newsletters. Just the class. |
 | **Attendance** | All 8 consecutive Weekends, 2 hours per session. Please check every date against your calendar before applying. Finding a clash in week three is much harder on the group than finding it now. |
-| **Homework** | Around 30 minutes a day between weekend sessions. Small and daily beats heroic and occasional, because the skill sets between the classes rather than during them. |
+| **Homework** | Around 10 minutes a day between weekend sessions. Small and daily beats heroic and occasional, because the skill sets between the classes rather than during them. |
 
 ### 💻 3. Technical & Space Requirements
 
@@ -99,36 +135,5 @@ The application form asks you to confirm **three** sets of rules. All three are 
 | **Presence** | Camera and microphone ON for the entire session. Your scene partner is reading your face for their next offer, and a black rectangle gives them nothing to work with. |
 | **Distraction-Free Room** | Ideally a private / distraction-free room where you can act and speak freely. I find it very hard to explain to my partner/kid/relatives/friends why i was making funny faces, talking gibberish non-sense, and acting childish on a Zoom call with 14 people🙂. |
 
-## 🌱 The Benefits reported by Improv Participants
-
-Mileage always varies depending on how much energy you invest and the depth of *Shoshin* mindset. However, participants who practice this art form regularly report:
-
-* Improved ability of "Being in the Present", instead of overthinking the future.
-* Improved spontaneity and risk-taking ability.
-* Increased comfort operating in a Changing, VUCA world.
-* Ability to take inspired action, even inspite of the chatter of the inner judge/critic.
-* Heightened intuition and creativity.
-* Strengthened "fun muscles!"
-* Deeper, more active listening skills.
-
- 
-## A Few Video Examples to help you make up your mind, if this art form is a good fit
-* [TEDxVictoria - Dave Morris: The Way of Improvisation](https://www.youtube.com/watch?v=MUO-pWJ0riQ)
-* [Example of an Improv Game - Panic Squad Improv Comedy- Numbers Game](https://www.youtube.com/watch?v=2D2F7VUCl10)
-* [Sample In-Person Training Videos. We will be doing similar ones Online](https://www.improv.ca/training-videos/)
- 
-
-
-## Ready to let go of the illusion of control?
-
-Claim your spot in the upcoming cohort, and let's navigate the unscripted world together.
-
-!!! success "💛 Zero course fees : **$0**"
-    This is a **not-for-profit community initiative**. There are **no course fees**, no
-    tiers and nothing to upgrade. It is run as part of our **pay-it-forward** initiative to motivate people to overcome inhibitions, have fun, build genuine connections and get inspired from our [Improv Anthem](https://www.youtube.com/watch?v=9Qi_dvZmFyI).
-    
-        
-Please note: Our classes are 90% Games & Fun, and just 10% Theory. We believe in Experiential Learning. 
-
-
 [🎭 Apply for the Upcoming cohort](https://forms.gle/mTu57wvF2A1dihUB7){ .md-button .md-button--primary target="_blank" rel="noopener" }
+
