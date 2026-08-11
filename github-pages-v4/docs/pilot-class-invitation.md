@@ -125,7 +125,7 @@ Claim your spot in the upcoming cohort, and let's navigate the unscripted world 
 
 !!! success "💛 Zero course fees : **$0**"
     This is a **not-for-profit community initiative**. There are **no course fees**, no
-    tiers and nothing to upgrade. It is run as part of our **pay-it-forward** initiative. Our [Improv Anthem](https://www.youtube.com/watch?v=9Qi_dvZmFyI).
+    tiers and nothing to upgrade. It is run as part of our **pay-it-forward** initiative to motivate people to overcome inhibitions, have fun, build genuine connections and get inspired from our [Improv Anthem](https://www.youtube.com/watch?v=9Qi_dvZmFyI).
     
         
 Please note: Our classes are 90% Games & Fun, and just 10% Theory. We believe in Experiential Learning. 
