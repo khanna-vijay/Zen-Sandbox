@@ -172,9 +172,11 @@ abstract art, call-to-action, diagram, data visualisation, illustration, map/tim
 photographic, quote, symbol/ritual) crossed with six registers, then hand-screened for content
 safety — everything is suitable for a ten-year-old audience, because it runs in classrooms.
 
-The game is **MIT licensed** — code *and* images. Teach with it, run it at a corporate offsite,
-charge for the workshop, fork it. The build pipeline that ideates, prompts, renders and
-compresses the slides lives in this repository under `game-source/powerpoint-karaoke/`.
+The decks are assembled live in the browser on a narrative arc, one slide per beat, so no two
+spins produce the same talk.
 
-[:material-github: Source & standalone version](https://github.com/khanna-vijay/improv-presentation-karaoke){ .md-button target=_blank rel=noopener }
+The game and its slide images are **MIT licensed** — teach with it, run it at a corporate
+offsite, charge for the workshop, fork it. (That covers `/play/karaoke/` only; the rest of this
+site is not open source.)
+
 [▶ Play fullscreen](karaoke/index.html){ .md-button .md-button--primary target=_blank rel=noopener }
