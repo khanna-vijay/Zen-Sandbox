@@ -191,11 +191,11 @@ markdown_extensions:
 nav:
   - About:
       - index.md
-      - My Philosophical view on Improv: improv-philosophy.md
+      - My Improv Philosophy: improv-philosophy.md
       - Improv Framework: improv-maturity-framework.md
       - Mind Map: Summary.md
       - Gratitude: Gratitude.md
-      - The Six Capacities of Improv: six-capacities-of-improv.md
+      - Six Benefits of Improv: six-capacities-of-improv.md
       - Pilot Class Invitation: pilot-class-invitation.md
   - Theory:
       - "The Self":
