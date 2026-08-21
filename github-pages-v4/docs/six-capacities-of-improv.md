@@ -1,5 +1,7 @@
 ---
 title: "The Six Capacities of Improv"
+hide:
+  - toc
 ---
 
 # 📚 The Six Capacities of Improv: A Cross-Disciplinary Reading List
