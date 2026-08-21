@@ -9,19 +9,28 @@ A simple, **visual** guide to improv — the flow of *domains → principles →
 ```
 .
 ├── .github/workflows/deploy.yml   # builds the site and deploys to GitHub Pages
-└── github-pages-v3/
+└── github-pages-v4/               # the live site (this is what gets deployed)
     ├── mkdocs.yml                 # site config + navigation
-    ├── requirements.txt           # pinned build dependency (mkdocs-material)
+    ├── requirements.txt           # pinned build dependencies (mkdocs-material + plugins)
+    ├── overrides/                 # theme template overrides
     └── docs/                      # the site content
         ├── index.md              # the domains → principles → skills flow
-        ├── principles/           # one page per principle
-        └── assets/infographics/  # the principle infographics
+        ├── theory/               # one page per principle, grouped by domain
+        ├── games/                # game library
+        ├── improv-sports/        # improv sports library
+        ├── workshops/            # workshop formats
+        ├── solo-practice/        # solo drills
+        ├── play/                 # PowerPoint Karaoke and other play pieces
+        └── assets/               # infographics, CSS, JS, data files
 ```
+
+Earlier versions (`github-pages/`, `old_v3-github-pages/`) are kept for reference
+only — they are not built or deployed.
 
 ## Preview locally
 
 ```bash
-cd github-pages-v3
+cd github-pages-v4
 python3 -m venv .venv && . .venv/bin/activate
 pip install -r requirements.txt
 mkdocs serve            # → http://localhost:8000
