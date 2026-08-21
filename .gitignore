@@ -60,3 +60,10 @@ website_link_report.md
 /start_local_server.sh
 /website_checker.py
 /website_checker.sh
+
+# ── Game build pipelines (local only) ──
+# The Python/shell source that ideates, renders and compresses the slides for the
+# playable games under /play/. Kept in the working copy so the game and the site
+# that hosts it live together, but never pushed: only the BUILT game output under
+# github-pages-v4/docs/play/ is published. See game-source/README.md.
+/game-source/

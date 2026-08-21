@@ -296,6 +296,12 @@
   .zs-onerow .md-header { box-shadow: 0 2px 8px rgba(0, 0, 0, .12); }
   .zs-onerow .md-header__inner {
     min-height: 0; padding-top: .1rem; padding-bottom: .1rem; gap: .35rem; align-items: center;
+    /* .md-header__inner is a .md-grid, so Material caps it at 61rem — the tab row was being
+       clipped there (silently: the list is overflow-x:auto, so the last tab just vanished off
+       the right edge with no scrollbar to hint at it). The 7th tab, Play, was the one that
+       fell off. Let the bar use the real window width; nothing else in it is text that needs
+       a measure limit. */
+    max-width: none;
   }
   .zs-onerow .md-header__button.md-logo { order: 1; padding: .1rem; }
   .zs-onerow .md-header__inner > .md-tabs__list {
@@ -310,6 +316,12 @@
     order: 5; flex: 0 1 auto; margin: 0 .2rem 0 .4rem; font-size: .82rem; line-height: 1.15;
   }
   .zs-onerow .md-tabs__link { margin: .1rem .15rem; padding: .08rem .55rem; font-size: .85rem; }
+}
+/* Laptop widths (1220–1408px): even at full window width the seven tabs, the search box and
+   the repo link do not all fit. The repo link is the one thing here that is decoration rather
+   than navigation, so it yields first — Material itself already drops it below 76.25em. */
+@media screen and (min-width: 76.25em) and (max-width: 88em) {
+  .zs-onerow .md-header__source { display: none; }
 }
 /* On narrow screens keep the moved tabs hidden — use the hamburger drawer for nav. */
 @media screen and (max-width: 76.24em) {
@@ -377,4 +389,69 @@
   .md-typeset .md-button--primary:active {
     transform: none;
   }
+}
+
+/* ===================================================================== */
+/* Play tab — embedded browser games (docs/play/).                        */
+/* The games are standalone full-viewport HTML apps served raw out of     */
+/* docs/play/<game>/, so they are embedded in an iframe rather than       */
+/* linked: Material's navigation.instant would otherwise intercept a      */
+/* same-origin link to a non-Material page and try to swap it into the    */
+/* document body. Iframes are not intercepted. The "Play fullscreen"      */
+/* buttons carry target=_blank for the same reason.                       */
+/* ===================================================================== */
+
+/* Widen the content column only on pages that EMBED a game — a 16:9 iframe in a 45rem
+   column is unusable. Matches the treatment on the Games List and category pages. The
+   Play index deliberately keeps the normal measure: it is mostly prose, and 92rem lines
+   are painful to read. */
+.md-main:has(.pk-embed) .md-grid { max-width: 92rem; }
+
+.pk-embed {
+  position: relative;
+  width: 100%;
+  max-width: 1200px;
+  aspect-ratio: 16 / 9;
+  margin: 1rem auto 0.6rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: .8rem;
+  overflow: hidden;                 /* clip the app's own rounded corners */
+  box-shadow: 0 6px 24px rgba(0, 0, 0, .14);
+  background: #FDF7F2;              /* the game's own paper colour, so the
+                                       frame does not flash dark while loading */
+}
+.pk-embed iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+
+/* The game is a light-palette projector app by design. In dark mode, soften the
+   frame edge so the bright rectangle does not glare against the slate page. */
+[data-md-color-scheme="slate"] .pk-embed {
+  box-shadow: 0 6px 24px rgba(0, 0, 0, .5);
+  filter: brightness(.94);
+}
+
+/* Card grid on the Play index. One column on phones, auto-fill above that. */
+.play-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 22rem), 1fr));
+  gap: 1rem;
+  margin: 1.2rem 0;
+}
+.md-typeset .play-card {
+  padding: 1rem 1.2rem 1.2rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: .8rem;
+  background: var(--md-default-fg-color--lightest);
+  transition: border-color .15s, box-shadow .15s, transform .12s;
+}
+.md-typeset .play-card:hover {
+  border-color: var(--md-accent-fg-color);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, .10);
+  transform: translateY(-2px);
+}
+.md-typeset .play-card > h3:first-child { margin-top: .2rem; }
+.md-typeset .play-card .md-button { margin-top: .4rem; }
+
+@media (prefers-reduced-motion: reduce) {
+  .md-typeset .play-card,
+  .md-typeset .play-card:hover { transition: none; transform: none; }
 }

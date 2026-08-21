@@ -68,6 +68,21 @@ theme:
     - navigation.instant
     - navigation.indexes
     - navigation.footer
+    # Render only the ACTIVE branch of the nav, not the whole 426-link tree on every page.
+    # Without this, every one of the ~2700 built pages carried an identical 181 KB sidebar —
+    # 590 MB of HTML, 53% of the built site, and enough to push it past GitHub Pages' 1 GB
+    # soft limit. Pruning takes the site from 1106 MB to 631 MB and the average page from
+    # 211 KB to 41 KB. (Over the wire it was never the problem — gzip already collapsed the
+    # repetition to ~20 KB — but on-disk size is what counts against the limit.)
+    #
+    # The one behavioural change: a collapsed sibling section is a link to its first child
+    # rather than an in-place expander, so clicking "The Partner" while reading "The Self"
+    # now navigates to the Partner overview and expands there. navigation.instant makes that
+    # a client-side swap. Remove this line and rebuild to go back.
+    #
+    # overrides/partials/nav-item.html already implements the render_pruned macro this needs.
+    # Not compatible with navigation.expand (which is not enabled).
+    - navigation.prune
     - toc.follow
     - toc.integrate          # page section headers appear in the LEFT nav (navigable long docs)
     - content.code.copy
@@ -585,3 +600,13 @@ nav:
       - "🎬 Narrative Long-Form": improv-sports/cat-narrative-long-form.md
       - "🤝 Ensemble & Warm-Up": improv-sports/cat-ensemble-warm-up.md
   # <<< IMPROV SPORTS (auto-generated) <<<
+  # Playable browser games. Kept AFTER the auto-generated Improv Sports block so a
+  # re-run of 07_Deploy_to_GitHub_Pages.sh (which rewrites everything between the
+  # markers above) cannot clobber it. Each game is a standalone full-viewport HTML
+  # app under docs/play/<game>/ — copied in verbatim, not built by MkDocs — with a
+  # facilitator write-up beside it that embeds it in an iframe. See
+  # game-source/powerpoint-karaoke/ for the pipeline that produces the payload and
+  # game-source/sync_karaoke.sh for the one command that refreshes it.
+  - Play:
+      - Overview: play/index.md
+      - "🎤 PowerPoint Karaoke": play/powerpoint-karaoke.md
