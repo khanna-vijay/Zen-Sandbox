@@ -6,7 +6,8 @@ hide:
 
 # 📚 The Six Capacities of Improv: A Cross-Disciplinary Reading List
 
-Vivekananda elaborated "All power is within you. You can do anything and everything". Tracing the roots of the Ancient Wisdom, starting with Buddha’s Abhidhamma exposition of Uddhacca-Kukkucca : Restlessness and Worry, The "Hindrances". 
+Vivekananda elaborated "All power is within you. You can do anything and everything". 
+Tracing the roots of the Ancient Wisdom, starting with Buddha’s Abhidhamma exposition of Uddhacca-Kukkucca : Restlessness and Worry, The "Hindrances". 
 We are not empty vessels to be filled with technique; we are a luminous mirror covered with dust. The goal, then, is not addition but subtraction. Not learning but unlearning. Not striving but allowing.
 
 Improv doesn't add capability. It removes interference.
